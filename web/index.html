@@ -1,0 +1,562 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>커넥트웨이브 HR 레이더</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans+KR:wght@400;500;600;700&display=swap">
+<style>
+:root{
+  color-scheme:light;
+  --bg:#eef2f1; --surf:#ffffff; --surf2:#f6f8f8; --line:#dbe2e1; --line2:#c6d0cf;
+  --ink:#13212b; --muted:#56646e; --sub:#86939b;
+  --accent:#12324a; --accent-ink:#ffffff; --accent-soft:#e3ebf1;
+  --high:#c2410c; --high-bg:#fdebe2; --mid:#a86a00; --mid-bg:#fbf0d9; --low:#6b7780; --low-bg:#edf0f1;
+  --c-market:#2560b8; --c-trend:#7646c2; --c-labor:#56761a; --c-ecom:#0d7a70; --c-brand:#b8325e;
+  --own:#0d7a70; --own-bg:#dff3ef;
+  --shadow:0 1px 2px rgba(19,33,43,.06),0 4px 14px rgba(19,33,43,.04);
+  --sans:'IBM Plex Sans KR',system-ui,-apple-system,'Apple SD Gothic Neo','Malgun Gothic',sans-serif;
+  --mono:'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,monospace;
+}
+@media (prefers-color-scheme:dark){
+  :root:not([data-theme="light"]){
+    color-scheme:dark;
+    --bg:#0e151a; --surf:#151f26; --surf2:#1a262e; --line:#25333c; --line2:#34444e;
+    --ink:#e4eaed; --muted:#9aa8b1; --sub:#6f7e88;
+    --accent:#9cc2df; --accent-ink:#0e151a; --accent-soft:#1d3142;
+    --high:#ff8a57; --high-bg:#3a2016; --mid:#e2ad4a; --mid-bg:#342a14; --low:#98a4ac; --low-bg:#222d34;
+    --c-market:#7aa8ef; --c-trend:#b393ee; --c-labor:#a5c56a; --c-ecom:#5cc8b9; --c-brand:#ee84a6;
+    --own:#5cc8b9; --own-bg:#15332f;
+    --shadow:none;
+  }
+}
+:root[data-theme="dark"]{
+  color-scheme:dark;
+  --bg:#0e151a; --surf:#151f26; --surf2:#1a262e; --line:#25333c; --line2:#34444e;
+  --ink:#e4eaed; --muted:#9aa8b1; --sub:#6f7e88;
+  --accent:#9cc2df; --accent-ink:#0e151a; --accent-soft:#1d3142;
+  --high:#ff8a57; --high-bg:#3a2016; --mid:#e2ad4a; --mid-bg:#342a14; --low:#98a4ac; --low-bg:#222d34;
+  --c-market:#7aa8ef; --c-trend:#b393ee; --c-labor:#a5c56a; --c-ecom:#5cc8b9; --c-brand:#ee84a6;
+  --own:#5cc8b9; --own-bg:#15332f;
+  --shadow:none;
+}
+*{box-sizing:border-box}
+html,body{margin:0}
+body{background:var(--bg);color:var(--ink);font-family:var(--sans);font-size:14px;line-height:1.6;-webkit-font-smoothing:antialiased;word-break:keep-all;overflow-wrap:anywhere}
+button,input{font:inherit;color:inherit}
+a{color:inherit}
+:focus-visible{outline:2px solid var(--accent);outline-offset:2px;border-radius:6px}
+.mono{font-family:var(--mono);font-variant-numeric:tabular-nums}
+[hidden]{display:none!important}
+
+/* top bar */
+.top{position:sticky;top:env(safe-area-inset-top,0px);z-index:20;background:color-mix(in srgb,var(--surf) 94%,transparent);backdrop-filter:blur(10px);border-bottom:1px solid var(--line)}
+.top-in{max-width:1240px;margin:0 auto;padding:10px 16px;display:flex;flex-wrap:wrap;align-items:center;gap:10px 14px}
+.brand{display:flex;align-items:center;gap:10px;margin-right:auto;min-width:0}
+.mark{width:34px;height:34px;flex:none;border-radius:9px;background:var(--accent);color:var(--accent-ink);display:grid;place-items:center}
+.mark svg{width:22px;height:22px}
+.brand h1{margin:0;font-size:15px;font-weight:700;letter-spacing:-.01em;line-height:1.25}
+.brand p{margin:0;font-size:11.5px;color:var(--muted)}
+.seg{display:inline-flex;background:var(--surf2);border:1px solid var(--line);border-radius:9px;padding:2px}
+.seg button{border:0;background:transparent;padding:5px 12px;border-radius:7px;font-size:12.5px;font-weight:600;color:var(--muted);cursor:pointer}
+.seg button[aria-pressed="true"]{background:var(--surf);color:var(--ink);box-shadow:0 1px 2px rgba(0,0,0,.08)}
+.stepper{display:inline-flex;align-items:center;gap:4px}
+.iconbtn{width:30px;height:30px;border:1px solid var(--line);background:var(--surf);border-radius:8px;cursor:pointer;display:grid;place-items:center;color:var(--muted)}
+.iconbtn:hover:not(:disabled){color:var(--ink);border-color:var(--line2)}
+.iconbtn:disabled{opacity:.35;cursor:default}
+.range{min-width:150px;text-align:center;font-size:12.5px;font-weight:600}
+.btn{border:1px solid var(--line);background:var(--surf);border-radius:8px;padding:5px 11px;font-size:12.5px;font-weight:600;cursor:pointer;text-decoration:none;display:inline-flex;align-items:center;gap:6px;color:var(--ink)}
+.btn:hover{border-color:var(--line2)}
+.tools{display:flex;gap:6px;align-items:center}
+
+.wrap{max-width:1240px;margin:0 auto;padding:18px 16px 60px;display:flex;flex-direction:column;gap:16px}
+.notice{border:1px dashed var(--mid);background:var(--mid-bg);color:var(--ink);border-radius:10px;padding:9px 14px;font-size:12.5px}
+.notice b{color:var(--mid)}
+
+/* brief */
+.brief{display:grid;grid-template-columns:minmax(0,1.55fr) minmax(0,1fr);gap:16px}
+.panel{background:var(--surf);border:1px solid var(--line);border-radius:14px;box-shadow:var(--shadow)}
+.lead{padding:20px 22px}
+.eyebrow{font-size:11px;font-weight:700;letter-spacing:.08em;color:var(--sub);text-transform:uppercase;display:flex;gap:8px;align-items:center}
+.eyebrow .mono{letter-spacing:0;text-transform:none}
+.lead h2{margin:6px 0 12px;font-size:21px;line-height:1.4;font-weight:700;letter-spacing:-.02em;text-wrap:balance}
+.points{margin:0;padding:0;list-style:none;display:flex;flex-direction:column;gap:7px}
+.points li{display:grid;grid-template-columns:22px 1fr;gap:6px;font-size:13.5px;color:var(--ink)}
+.points li span{font-family:var(--mono);font-size:11px;color:var(--sub);padding-top:2px}
+.stats{padding:18px 20px;display:flex;flex-direction:column;gap:14px}
+.kpis{display:grid;grid-template-columns:repeat(3,1fr);gap:10px}
+.kpi b{display:block;font-family:var(--mono);font-size:24px;font-weight:500;line-height:1.1;font-variant-numeric:tabular-nums}
+.kpi span{font-size:11.5px;color:var(--muted)}
+.kpi.hot b{color:var(--high)}
+.dist-bar{display:flex;height:10px;border-radius:5px;overflow:hidden;background:var(--surf2);gap:2px}
+.dist-bar i{display:block;height:100%}
+.legend{display:flex;flex-wrap:wrap;gap:4px 12px;font-size:11.5px;color:var(--muted);margin-top:8px}
+.legend span{display:inline-flex;align-items:center;gap:5px}
+.dot{width:8px;height:8px;border-radius:50%;display:inline-block;flex:none}
+
+/* body grid */
+.grid{display:grid;grid-template-columns:minmax(0,1fr) 300px;gap:16px;align-items:start}
+.grid>*,.brief>*{min-width:0}
+.filters{display:flex;flex-direction:column;gap:10px;min-width:0}
+#teamChips{flex:1;min-width:0}
+.tabs{display:flex;gap:4px;overflow-x:auto;scrollbar-width:none;border-bottom:1px solid var(--line)}
+.tabs::-webkit-scrollbar{display:none}
+.tab{border:0;background:none;padding:8px 12px 9px;font-size:13.5px;font-weight:600;color:var(--muted);cursor:pointer;white-space:nowrap;border-bottom:2px solid transparent;margin-bottom:-1px;display:inline-flex;align-items:center;gap:6px}
+.tab .n{font-family:var(--mono);font-size:11px;color:var(--sub);font-weight:400}
+.tab[aria-selected="true"]{color:var(--ink);border-color:var(--ink)}
+.row{display:flex;flex-wrap:wrap;gap:6px;align-items:center}
+.row label.lbl{font-size:11.5px;color:var(--sub);margin-right:2px}
+.chip{border:1px solid var(--line);background:var(--surf);border-radius:999px;padding:3px 10px;font-size:12px;font-weight:500;cursor:pointer;color:var(--muted)}
+.chip[aria-pressed="true"]{background:var(--accent);border-color:var(--accent);color:var(--accent-ink)}
+.search{flex:1;min-width:160px;max-width:280px;position:relative;margin-left:auto}
+.search input{width:100%;border:1px solid var(--line);background:var(--surf);border-radius:8px;padding:5px 10px 5px 30px;font-size:12.5px}
+.search svg{position:absolute;left:9px;top:50%;transform:translateY(-50%);color:var(--sub)}
+
+.list{display:flex;flex-direction:column;gap:10px}
+.day-h{font-size:12px;font-weight:700;color:var(--muted);display:flex;align-items:center;gap:8px;margin-top:6px}
+.day-h::after{content:"";flex:1;height:1px;background:var(--line)}
+.card{background:var(--surf);border:1px solid var(--line);border-radius:12px;overflow:hidden}
+.card.is-high{border-color:color-mix(in srgb,var(--high) 40%,var(--line))}
+.card summary{list-style:none;cursor:pointer;padding:14px 16px;display:flex;flex-direction:column;gap:6px}
+.card summary::-webkit-details-marker{display:none}
+.meta{display:flex;flex-wrap:wrap;align-items:center;gap:6px 10px;font-size:12px;color:var(--muted)}
+.cat{display:inline-flex;align-items:center;gap:5px;font-weight:600}
+.pill{font-size:11px;font-weight:700;padding:1px 7px;border-radius:5px}
+.pill.high{background:var(--high-bg);color:var(--high)}
+.pill.mid{background:var(--mid-bg);color:var(--mid)}
+.pill.own{background:var(--own-bg);color:var(--own)}
+.meta .co{color:var(--ink);font-weight:600}
+.meta .dt{margin-left:auto;font-family:var(--mono);font-size:11px;color:var(--sub)}
+.card h3{margin:0;font-size:15.5px;line-height:1.45;font-weight:700;letter-spacing:-.01em}
+.card .body{margin:0;color:var(--muted);font-size:13.5px}
+.more{font-size:12px;color:var(--sub);display:flex;align-items:center;gap:5px}
+.more svg{transition:transform .15s}
+.card[open] .more svg{transform:rotate(180deg)}
+.card[open] .more .t1,.card:not([open]) .more .t2{display:none}
+.detail{padding:0 16px 16px;display:grid;gap:12px}
+.box{background:var(--surf2);border-radius:9px;padding:10px 12px}
+.box h4{margin:0 0 3px;font-size:11.5px;font-weight:700;color:var(--sub);letter-spacing:.03em}
+.box p{margin:0;font-size:13.5px}
+.two{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+.who{display:flex;flex-wrap:wrap;gap:6px;align-items:center;font-size:12px;color:var(--muted)}
+.team{border:1px solid var(--line2);border-radius:999px;padding:1px 9px;font-size:11.5px;color:var(--ink)}
+.tag{font-size:11.5px;color:var(--sub)}
+.srcs{margin:0;padding:0;list-style:none;display:flex;flex-direction:column;gap:4px}
+.srcs a{font-size:12.5px;text-decoration:none;display:flex;gap:8px;align-items:baseline}
+.srcs a:hover .st{text-decoration:underline}
+.srcs .sn{font-weight:600;flex:none;color:var(--ink)}
+.srcs .st{color:var(--muted);overflow:hidden;text-overflow:ellipsis;white-space:nowrap;min-width:0}
+.empty{padding:40px 16px;text-align:center;color:var(--muted);background:var(--surf);border:1px dashed var(--line2);border-radius:12px}
+
+/* rail */
+.rail{display:flex;flex-direction:column;gap:14px;position:sticky;top:calc(env(safe-area-inset-top,0px) + 70px)}
+.rail .panel{padding:14px 16px}
+.rail h5{margin:0 0 10px;font-size:12px;font-weight:700;color:var(--muted);display:flex;justify-content:space-between;align-items:center}
+.cal-grid{display:grid;grid-template-columns:repeat(7,1fr);gap:2px;text-align:center}
+.cal-grid .dw{font-size:10px;color:var(--sub);font-weight:600;padding-bottom:2px}
+.cal-grid button{border:0;background:none;aspect-ratio:1;border-radius:7px;font-family:var(--mono);font-size:11.5px;color:var(--sub);cursor:default;position:relative;padding:0}
+.cal-grid button.has{color:var(--ink);cursor:pointer;font-weight:500}
+.cal-grid button.has::after{content:"";position:absolute;left:50%;bottom:4px;width:4px;height:4px;border-radius:50%;background:var(--accent);transform:translateX(-50%)}
+.cal-grid button.has.hot::after{background:var(--high)}
+.cal-grid button.inr{background:var(--accent-soft)}
+.cal-grid button.sel{background:var(--accent);color:var(--accent-ink)}
+.cal-grid button.sel::after{background:var(--accent-ink)}
+.cal-grid button.has:hover:not(.sel){background:var(--surf2)}
+.rank{margin:0;padding:0;list-style:none;display:flex;flex-direction:column;gap:6px}
+.rank li{display:grid;grid-template-columns:1fr auto;gap:8px;align-items:center;font-size:12.5px}
+.rank button{border:0;background:none;padding:0;text-align:left;cursor:pointer;font-size:12.5px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.rank button:hover{color:var(--accent);text-decoration:underline}
+.rank .bar{display:flex;align-items:center;gap:6px;font-family:var(--mono);font-size:11px;color:var(--sub)}
+.rank .bar i{display:block;height:5px;border-radius:3px;background:var(--line2)}
+.spark{width:100%;height:64px;display:block}
+.foot{font-size:11.5px;color:var(--sub);line-height:1.7}
+
+@media (max-width:980px){
+  .grid{grid-template-columns:1fr}
+  .rail{position:static;display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr))}
+}
+@media (max-width:760px){
+  .brief{grid-template-columns:1fr}
+  .two{grid-template-columns:1fr}
+  .lead h2{font-size:18px}
+  .search{max-width:none;margin-left:0;flex-basis:100%}
+  .range{min-width:0}
+}
+@media (prefers-reduced-motion:reduce){*{transition:none!important}}
+</style>
+</head>
+<body>
+<header class="top">
+  <div class="top-in">
+    <div class="brand">
+      <div class="mark" aria-hidden="true">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><circle cx="12" cy="12" r="9"/><circle cx="12" cy="12" r="5" opacity=".6"/><path d="M12 12 18.4 5.6"/><circle cx="16" cy="9.5" r="1.3" fill="currentColor" stroke="none"/></svg>
+      </div>
+      <div><h1 id="siteTitle">커넥트웨이브 HR 레이더</h1><p id="siteSub">HR실 데일리 인텔리전스 브리핑</p></div>
+    </div>
+    <div class="seg" role="group" aria-label="보기 단위">
+      <button type="button" id="v-day" data-view="day" aria-pressed="true">일간</button>
+      <button type="button" id="v-week" data-view="week" aria-pressed="false">주간</button>
+      <button type="button" id="v-month" data-view="month" aria-pressed="false">월간</button>
+    </div>
+    <div class="stepper">
+      <button class="iconbtn" id="prev" type="button" aria-label="이전"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2"><path d="M10 3 5 8l5 5"/></svg></button>
+      <span class="range mono" id="rangeLabel">—</span>
+      <button class="iconbtn" id="next" type="button" aria-label="다음"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2"><path d="m6 3 5 5-5 5"/></svg></button>
+    </div>
+    <div class="tools">
+      <button class="btn" id="csv" type="button" title="지금 보이는 카드를 CSV로 받기">CSV</button>
+      <a class="btn" id="runLink" target="_blank" rel="noopener" hidden>지금 수집</a>
+    </div>
+  </div>
+</header>
+
+<main class="wrap">
+  <div class="notice" id="sampleNote" hidden><b>샘플 데이터예요.</b> 회사명·기사는 화면 확인용 예시이고, 첫 자동 수집이 끝나면 실제 뉴스로 바뀌어요.</div>
+
+  <section class="brief">
+    <div class="panel lead">
+      <div class="eyebrow"><span id="leadEyebrow">오늘의 브리핑</span><span class="mono" id="leadDate"></span></div>
+      <h2 id="headline">불러오는 중…</h2>
+      <ol class="points" id="points"></ol>
+    </div>
+    <div class="panel stats">
+      <div class="kpis">
+        <div class="kpi"><b id="kCards">0</b><span>정리된 이슈</span></div>
+        <div class="kpi hot"><b id="kHigh">0</b><span>꼭 볼 이슈</span></div>
+        <div class="kpi"><b id="kArticles">0</b><span>검토한 기사</span></div>
+      </div>
+      <div>
+        <div class="dist-bar" id="distBar" aria-hidden="true"></div>
+        <div class="legend" id="legend"></div>
+      </div>
+    </div>
+  </section>
+
+  <div class="grid">
+    <section class="filters" aria-label="이슈 목록">
+      <div class="tabs" role="tablist" id="tabs"></div>
+      <div class="row">
+        <label class="lbl">우리 팀</label>
+        <span class="row" id="teamChips"></span>
+      </div>
+      <div class="row">
+        <button class="chip" type="button" id="onlyHigh" aria-pressed="false">꼭 볼 이슈만</button>
+        <button class="chip" type="button" id="onlyOwn" aria-pressed="false">우리 그룹 언급</button>
+        <div class="search">
+          <svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8"><circle cx="7" cy="7" r="4.5"/><path d="m10.5 10.5 3 3"/></svg>
+          <input type="search" id="q" placeholder="기업, 키워드 검색" aria-label="검색">
+        </div>
+      </div>
+      <div class="list" id="list"></div>
+    </section>
+
+    <aside class="rail">
+      <div class="panel">
+        <h5><span id="calTitle">—</span>
+          <span class="stepper"><button class="iconbtn" id="calPrev" type="button" aria-label="이전 달" style="width:24px;height:24px"><svg width="12" height="12" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2"><path d="M10 3 5 8l5 5"/></svg></button><button class="iconbtn" id="calNext" type="button" aria-label="다음 달" style="width:24px;height:24px"><svg width="12" height="12" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2"><path d="m6 3 5 5-5 5"/></svg></button></span>
+        </h5>
+        <div class="cal-grid" id="cal"></div>
+      </div>
+      <div class="panel" id="trendPanel">
+        <h5>일별 이슈 수 <span class="mono" style="font-weight:400" id="trendNote"></span></h5>
+        <svg class="spark" id="spark" viewBox="0 0 268 64" preserveAspectRatio="none" aria-hidden="true"></svg>
+      </div>
+      <div class="panel">
+        <h5>많이 나온 키워드</h5>
+        <ul class="rank" id="kw"></ul>
+      </div>
+      <div class="panel">
+        <h5>자주 언급된 기업·기관</h5>
+        <ul class="rank" id="cos"></ul>
+      </div>
+      <p class="foot" id="foot"></p>
+    </aside>
+  </div>
+</main>
+
+<script>
+(() => {
+  const $ = s => document.querySelector(s);
+  const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+  const store = {
+    get(k, d){ try { const v = localStorage.getItem('hrr.' + k); return v == null ? d : JSON.parse(v); } catch { return d; } },
+    set(k, v){ try { localStorage.setItem('hrr.' + k, JSON.stringify(v)); } catch {} }
+  };
+  const CAT_COLOR = { market:'--c-market', trend:'--c-trend', labor:'--c-labor', ecom:'--c-ecom', brand:'--c-brand' };
+  const catColor = id => `var(${CAT_COLOR[id] || '--muted'})`;
+  const DOW = ['일','월','화','수','목','금','토'];
+  const d2s = d => `${d.getFullYear()}-${String(d.getMonth()+1).padStart(2,'0')}-${String(d.getDate()).padStart(2,'0')}`;
+  const s2d = s => { const [y,m,d] = s.split('-').map(Number); return new Date(y, m-1, d); };
+  const fmt = s => { const d = s2d(s); return `${d.getMonth()+1}.${d.getDate()} (${DOW[d.getDay()]})`; };
+
+  let META = {}, REPORTS = [], byDate = new Map(), dates = [];
+  const st = {
+    view: store.get('view', 'day'), anchor: null, cat: 'all',
+    teams: store.get('teams', []), high: false, own: false, q: '', calMonth: null
+  };
+
+  function rangeFor(view, anchor){
+    const a = s2d(anchor);
+    if (view === 'day') return [anchor, anchor];
+    if (view === 'week'){
+      const mon = new Date(a); mon.setDate(a.getDate() - ((a.getDay() + 6) % 7));
+      const sun = new Date(mon); sun.setDate(mon.getDate() + 6);
+      return [d2s(mon), d2s(sun)];
+    }
+    return [d2s(new Date(a.getFullYear(), a.getMonth(), 1)), d2s(new Date(a.getFullYear(), a.getMonth()+1, 0))];
+  }
+  const inRange = ([s, e]) => dates.filter(d => d >= s && d <= e);
+
+  function periodReports(){ return inRange(rangeFor(st.view, st.anchor)).map(d => byDate.get(d)); }
+
+  function allItems(reps){
+    const out = [];
+    reps.forEach(r => (r.items || []).forEach(it => out.push({ ...it, _day: r.date })));
+    return out;
+  }
+  function filtered(items){
+    const q = st.q.trim().toLowerCase();
+    return items.filter(it =>
+      (st.cat === 'all' || it.cat === st.cat) &&
+      (!st.teams.length || (it.teams || []).some(t => st.teams.includes(t))) &&
+      (!st.high || it.importance === 'high') &&
+      (!st.own || it.our_group) &&
+      (!q || [it.title, it.company, it.body, (it.tags||[]).join(' '), it.insight].join(' ').toLowerCase().includes(q))
+    );
+  }
+
+  function renderHeader(){
+    document.querySelectorAll('.seg button').forEach(b => b.setAttribute('aria-pressed', String(b.dataset.view === st.view)));
+    const [s, e] = rangeFor(st.view, st.anchor);
+    const a = s2d(st.anchor);
+    $('#rangeLabel').textContent = st.view === 'day' ? fmt(st.anchor)
+      : st.view === 'week' ? `${fmt(s)} ~ ${fmt(e)}` : `${a.getFullYear()}년 ${a.getMonth()+1}월`;
+    const idx = dates.indexOf(st.anchor);
+    const oldest = dates[dates.length-1], newest = dates[0];
+    $('#prev').disabled = st.view === 'day' ? idx >= dates.length - 1 : s <= oldest;
+    $('#next').disabled = st.view === 'day' ? idx <= 0 : e >= newest;
+  }
+
+  function renderBrief(reps, items){
+    const high = items.filter(i => i.importance === 'high');
+    if (st.view === 'day'){
+      const r = reps[0];
+      $('#leadEyebrow').textContent = st.anchor === dates[0] ? '오늘의 브리핑' : '그날의 브리핑';
+      $('#leadDate').textContent = r ? `${r.date}${r.window_days > 1 ? ` · 최근 ${r.window_days}일 기사` : ''}` : '';
+      $('#headline').textContent = r?.headline || '이 날은 브리핑이 없어요';
+      const pts = (r?.points || []).length ? r.points : high.slice(0,3).map(i => i.title);
+      $('#points').innerHTML = pts.map((p, i) => `<li><span>0${i+1}</span>${esc(p)}</li>`).join('');
+    } else {
+      $('#leadEyebrow').textContent = st.view === 'week' ? '이번 주 요약' : '이번 달 요약';
+      $('#leadDate').textContent = `${reps.length}일치 브리핑`;
+      const top = [...high].sort((a,b) => (b.sources?.length||0) - (a.sources?.length||0));
+      const seen = new Set(), pts = [];
+      for (const i of top){ if (!seen.has(i.title)){ seen.add(i.title); pts.push(i); } if (pts.length === 3) break; }
+      const cnt = {}; items.forEach(i => cnt[i.cat] = (cnt[i.cat]||0) + 1);
+      const topCat = Object.entries(cnt).sort((a,b) => b[1]-a[1])[0];
+      const catName = topCat ? (META.categories.find(c => c.id === topCat[0])?.name || topCat[0]) : '';
+      $('#headline').textContent = items.length
+        ? `${catName} 이슈가 가장 많았고, 꼭 볼 이슈는 ${high.length}건이에요`
+        : '이 기간에는 브리핑이 없어요';
+      $('#points').innerHTML = pts.map((p, i) => `<li><span>0${i+1}</span>${esc(p.title)} <span style="font-family:var(--sans);font-size:11.5px">· ${esc(fmt(p._day))}</span></li>`).join('');
+    }
+    $('#kCards').textContent = items.length;
+    $('#kHigh').textContent = high.length;
+    $('#kArticles').textContent = reps.reduce((s, r) => s + (r.article_count || 0), 0).toLocaleString('ko-KR');
+
+    const cnt = {}; items.forEach(i => cnt[i.cat] = (cnt[i.cat]||0) + 1);
+    const total = items.length || 1;
+    $('#distBar').innerHTML = META.categories.filter(c => cnt[c.id])
+      .map(c => `<i style="width:${cnt[c.id]/total*100}%;background:${catColor(c.id)}" title="${esc(c.name)} ${cnt[c.id]}"></i>`).join('');
+    $('#legend').innerHTML = META.categories.map(c =>
+      `<span><i class="dot" style="background:${catColor(c.id)}"></i>${esc(c.name)} <b class="mono" style="font-weight:500">${cnt[c.id]||0}</b></span>`).join('');
+  }
+
+  function renderTabs(items){
+    const save = st.cat; st.cat = 'all';
+    const pool = filtered(items); st.cat = save;
+    const cnt = {}; pool.forEach(i => cnt[i.cat] = (cnt[i.cat]||0) + 1);
+    const tabs = [{ id:'all', name:'전체', n: pool.length }, ...META.categories.map(c => ({ id:c.id, name:c.name, desc:c.desc, n: cnt[c.id]||0 }))];
+    $('#tabs').innerHTML = tabs.map(t =>
+      `<button class="tab" role="tab" type="button" data-cat="${t.id}" aria-selected="${st.cat === t.id}" title="${esc(t.desc||'')}">
+        ${t.id !== 'all' ? `<i class="dot" style="background:${catColor(t.id)}"></i>` : ''}${esc(t.name)}<span class="n">${t.n}</span></button>`).join('');
+  }
+
+  function renderTeams(){
+    $('#teamChips').innerHTML = (META.teams || []).map(t =>
+      `<button class="chip" type="button" data-team="${esc(t)}" aria-pressed="${st.teams.includes(t)}">${esc(t)}</button>`).join('');
+  }
+
+  function card(it){
+    const cat = META.categories.find(c => c.id === it.cat);
+    const srcs = (it.sources || []).map(s => {
+      const real = s.url && !s.url.startsWith('#');
+      return `<li>${real ? `<a href="${esc(s.url)}" target="_blank" rel="noopener">` : '<a>'}<span class="sn">${esc(s.name || '출처')}</span><span class="st">${esc(s.title || '')}</span></a></li>`;
+    }).join('');
+    return `<details class="card${it.importance === 'high' ? ' is-high' : ''}">
+      <summary>
+        <div class="meta">
+          <span class="cat" style="color:${catColor(it.cat)}"><i class="dot" style="background:${catColor(it.cat)}"></i>${esc(cat?.name || it.cat)}</span>
+          ${it.importance === 'high' ? '<span class="pill high">꼭 볼 이슈</span>' : it.importance === 'mid' ? '<span class="pill mid">챙겨볼 이슈</span>' : ''}
+          ${it.our_group ? '<span class="pill own">우리 그룹</span>' : ''}
+          <span class="co">${esc(it.company)}</span>
+          <span class="dt">${esc(it.date || it._day)}</span>
+        </div>
+        <h3>${esc(it.title)}</h3>
+        <p class="body">${esc(it.body)}</p>
+        <span class="more"><span class="t1">시사점 · 해볼 일 · 출처 ${(it.sources||[]).length}건</span><span class="t2">접기</span>
+          <svg width="12" height="12" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2"><path d="m3 6 5 5 5-5"/></svg></span>
+      </summary>
+      <div class="detail">
+        ${it.insight || it.action ? `<div class="two">
+          ${it.insight ? `<div class="box"><h4>HR 시사점</h4><p>${esc(it.insight)}</p></div>` : ''}
+          ${it.action ? `<div class="box"><h4>해볼 일</h4><p>${esc(it.action)}</p></div>` : ''}
+        </div>` : ''}
+        ${(it.teams||[]).length || (it.tags||[]).length ? `<div class="who">
+          ${(it.teams||[]).length ? '<span>누가 보면 좋을까</span>' + it.teams.map(t => `<span class="team">${esc(t)}</span>`).join('') : ''}
+          ${(it.tags||[]).map(t => `<span class="tag">#${esc(t)}</span>`).join('')}
+        </div>` : ''}
+        <ul class="srcs">${srcs}</ul>
+      </div>
+    </details>`;
+  }
+
+  function renderList(items){
+    const list = filtered(items);
+    if (!list.length){
+      $('#list').innerHTML = `<div class="empty">조건에 맞는 이슈가 없어요. 필터를 줄이거나 다른 기간을 골라 보세요.</div>`;
+      return;
+    }
+    if (st.view === 'day'){ $('#list').innerHTML = list.map(card).join(''); return; }
+    const groups = new Map();
+    list.forEach(i => { if (!groups.has(i._day)) groups.set(i._day, []); groups.get(i._day).push(i); });
+    $('#list').innerHTML = [...groups].map(([d, arr]) => `<div class="day-h">${fmt(d)} <span class="mono" style="font-weight:400">${arr.length}건</span></div>` + arr.map(card).join('')).join('');
+  }
+
+  function renderRail(items){
+    // calendar
+    const cm = st.calMonth; const first = new Date(cm.y, cm.m, 1);
+    $('#calTitle').textContent = `${cm.y}년 ${cm.m+1}월`;
+    const [rs, re] = rangeFor(st.view, st.anchor);
+    let h = DOW.map(d => `<span class="dw">${d}</span>`).join('');
+    for (let i = 0; i < first.getDay(); i++) h += '<span></span>';
+    const last = new Date(cm.y, cm.m+1, 0).getDate();
+    for (let d = 1; d <= last; d++){
+      const ds = d2s(new Date(cm.y, cm.m, d)); const r = byDate.get(ds);
+      const hot = r && (r.items||[]).some(i => i.importance === 'high');
+      const cls = [r ? 'has' : '', hot ? 'hot' : '', ds === st.anchor && st.view === 'day' ? 'sel' : '', st.view !== 'day' && ds >= rs && ds <= re ? 'inr' : ''].join(' ');
+      h += `<button type="button" class="${cls}" ${r ? `data-date="${ds}"` : 'tabindex="-1" aria-disabled="true"'} aria-label="${ds}">${d}</button>`;
+    }
+    $('#cal').innerHTML = h;
+    const minD = dates[dates.length-1], maxD = dates[0];
+    $('#calPrev').disabled = d2s(first) <= minD;
+    $('#calNext').disabled = d2s(new Date(cm.y, cm.m+1, 0)) >= maxD;
+
+    // trend (last 30 report days ending at range end)
+    const endIdx = dates.findIndex(d => d <= re);
+    const win = dates.slice(Math.max(endIdx,0), Math.max(endIdx,0) + 20).reverse();
+    const vals = win.map(d => (byDate.get(d).items || []).length);
+    const hi = win.map(d => (byDate.get(d).items || []).filter(i => i.importance === 'high').length);
+    const W = 268, H = 64, max = Math.max(...vals, 1), bw = W / Math.max(win.length, 1);
+    let svg = '';
+    [0.5, 1].forEach(f => svg += `<line x1="0" x2="${W}" y1="${H - (H-6)*f}" y2="${H - (H-6)*f}" stroke="var(--line)" stroke-width="1"/>`);
+    win.forEach((d, i) => {
+      const x = i*bw + bw*0.18, w = bw*0.64, v = vals[i]*(H-6)/max, hv = hi[i]*(H-6)/max;
+      const sel = d >= rs && d <= re;
+      svg += `<rect x="${x}" y="${H-v}" width="${w}" height="${v}" rx="1.5" fill="${sel ? 'var(--accent)' : 'var(--line2)'}"><title>${d} · ${vals[i]}건 (꼭 볼 ${hi[i]})</title></rect>`;
+      if (hv) svg += `<rect x="${x}" y="${H-hv}" width="${w}" height="${hv}" rx="1.5" fill="var(--high)" opacity=".85"/>`;
+    });
+    $('#spark').innerHTML = svg;
+    $('#trendNote').textContent = `최근 ${win.length}일 · 최대 ${max}`;
+
+    // keywords & companies (current filters except search)
+    const pool = items;
+    const rank = (arr, el) => {
+      const m = {}; arr.forEach(x => { if (x) m[x] = (m[x]||0) + 1; });
+      const top = Object.entries(m).sort((a,b) => b[1]-a[1]).slice(0, 8); const mx = top[0]?.[1] || 1;
+      $(el).innerHTML = top.length ? top.map(([k, n]) => `<li><button type="button" data-q="${esc(k)}">${esc(k)}</button><span class="bar"><i style="width:${Math.max(6, n/mx*60)}px"></i>${n}</span></li>`).join('')
+        : '<li style="color:var(--sub)">아직 없어요</li>';
+    };
+    rank(pool.flatMap(i => i.tags || []), '#kw');
+    rank(pool.map(i => i.company).filter(c => c && c !== '업계 전반'), '#cos');
+
+    const up = META.updated ? META.updated.replace('T', ' ') : '';
+    $('#foot').innerHTML = `마지막 수집 ${esc(up)}<br>Google 뉴스에서 모은 기사를 AI가 분류·요약했어요. 중요한 결정 전에는 출처 기사를 꼭 확인해 주세요.`;
+  }
+
+  function render(){
+    const reps = periodReports();
+    const items = allItems(reps);
+    renderHeader(); renderBrief(reps, items); renderTabs(items); renderTeams(); renderList(items); renderRail(items);
+  }
+
+  function setAnchor(d){
+    st.anchor = d; const a = s2d(d); st.calMonth = { y: a.getFullYear(), m: a.getMonth() };
+  }
+  function step(dir){
+    if (st.view === 'day'){
+      const i = dates.indexOf(st.anchor) - dir; if (dates[i]) setAnchor(dates[i]);
+    } else {
+      const [s, e] = rangeFor(st.view, st.anchor);
+      const cand = dir > 0 ? dates.filter(d => d > e).pop() : dates.find(d => d < s);
+      if (cand) setAnchor(cand);
+    }
+    render();
+  }
+
+  // events
+  document.querySelectorAll('.seg button').forEach(b => b.addEventListener('click', () => { st.view = b.dataset.view; store.set('view', st.view); render(); }));
+  $('#prev').addEventListener('click', () => step(-1));
+  $('#next').addEventListener('click', () => step(1));
+  $('#tabs').addEventListener('click', e => { const b = e.target.closest('[data-cat]'); if (b){ st.cat = b.dataset.cat; render(); } });
+  $('#teamChips').addEventListener('click', e => {
+    const b = e.target.closest('[data-team]'); if (!b) return;
+    const t = b.dataset.team; st.teams = st.teams.includes(t) ? st.teams.filter(x => x !== t) : [...st.teams, t];
+    store.set('teams', st.teams); render();
+  });
+  $('#onlyHigh').addEventListener('click', e => { st.high = !st.high; e.currentTarget.setAttribute('aria-pressed', st.high); render(); });
+  $('#onlyOwn').addEventListener('click', e => { st.own = !st.own; e.currentTarget.setAttribute('aria-pressed', st.own); render(); });
+  let qt; $('#q').addEventListener('input', e => { clearTimeout(qt); qt = setTimeout(() => { st.q = e.target.value; render(); }, 150); });
+  document.querySelector('.rail').addEventListener('click', e => {
+    const d = e.target.closest('[data-date]'); if (d){ setAnchor(d.dataset.date); if (st.view !== 'day'){ st.view = 'day'; store.set('view','day'); } render(); return; }
+    const k = e.target.closest('[data-q]'); if (k){ st.q = k.dataset.q; $('#q').value = st.q; render(); window.scrollTo({ top: 0, behavior: 'smooth' }); }
+  });
+  $('#calPrev').addEventListener('click', () => { const c = st.calMonth; st.calMonth = c.m ? { y:c.y, m:c.m-1 } : { y:c.y-1, m:11 }; renderRail(allItems(periodReports())); });
+  $('#calNext').addEventListener('click', () => { const c = st.calMonth; st.calMonth = c.m < 11 ? { y:c.y, m:c.m+1 } : { y:c.y+1, m:0 }; renderRail(allItems(periodReports())); });
+  $('#csv').addEventListener('click', () => {
+    const rows = filtered(allItems(periodReports()));
+    const names = Object.fromEntries(META.categories.map(c => [c.id, c.name]));
+    const head = ['날짜','분류','중요도','기업','제목','요약','HR 시사점','해볼 일','관련 팀','키워드','출처','링크'];
+    const imp = { high:'꼭 볼 이슈', mid:'챙겨볼 이슈', low:'참고' };
+    const q = v => `"${String(v ?? '').replace(/"/g, '""')}"`;
+    const csv = [head, ...rows.map(i => [i.date || i._day, names[i.cat] || i.cat, imp[i.importance] || '', i.company, i.title, i.body, i.insight, i.action,
+      (i.teams||[]).join(', '), (i.tags||[]).join(', '), (i.sources||[]).map(s => s.name).join(', '), i.sources?.[0]?.url || ''])]
+      .map(r => r.map(q).join(',')).join('\r\n');
+    const a = document.createElement('a');
+    a.href = URL.createObjectURL(new Blob(['﻿' + csv], { type: 'text/csv;charset=utf-8' }));
+    a.download = `hr-radar_${$('#rangeLabel').textContent.replace(/[^\d.~]/g, '')}.csv`;
+    document.body.appendChild(a); a.click(); a.remove();
+  });
+
+  fetch('data.json', { cache: 'no-store' }).then(r => { if (!r.ok) throw new Error(r.status); return r.json(); }).then(data => {
+    META = data.meta || {}; META.categories = META.categories || [];
+    REPORTS = (data.reports || []).slice().sort((a, b) => b.date.localeCompare(a.date));
+    REPORTS.forEach(r => byDate.set(r.date, r)); dates = REPORTS.map(r => r.date);
+    if (META.site_title){ $('#siteTitle').textContent = META.site_title; document.title = META.site_title; }
+    if (META.site_subtitle) $('#siteSub').textContent = META.site_subtitle;
+    if (META.repo_url){ const l = $('#runLink'); l.href = META.repo_url.replace(/\/$/, '') + '/actions'; l.hidden = false; }
+    $('#sampleNote').hidden = !REPORTS.some(r => r.sample);
+    if (!dates.length){ $('#headline').textContent = '아직 수집된 브리핑이 없어요'; $('#list').innerHTML = '<div class="empty">첫 자동 수집이 끝나면 여기에 이슈가 채워져요.</div>'; return; }
+    setAnchor(dates[0]);
+    render();
+  }).catch(err => {
+    $('#headline').textContent = '데이터를 불러오지 못했어요';
+    $('#list').innerHTML = `<div class="empty">data.json을 읽지 못했어요 (${esc(err.message)}). 사이트 주소로 접속했는지, web 폴더에 data.json이 있는지 확인해 주세요.</div>`;
+  });
+})();
+</script>
+</body>
+</html>
