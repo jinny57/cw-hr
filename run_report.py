@@ -28,8 +28,14 @@ KST = datetime.timezone(datetime.timedelta(hours=9))
 UA = {"User-Agent": "Mozilla/5.0 (HR-Radar; +https://github.com)"}
 
 GEMINI_KEY = os.environ.get("GEMINI_API_KEY", "")
-GEMINI_MODEL = os.environ.get("GEMINI_MODEL", "gemini-2.5-flash")
-GEMINI_URL = f"https://generativelanguage.googleapis.com/v1beta/models/{GEMINI_MODEL}:generateContent"
+# 변수가 비어 있어도(Actions에서 vars 미설정) 기본 모델을 쓰도록 'or'로 처리해요
+GEMINI_MODEL = (os.environ.get("GEMINI_MODEL") or "gemini-2.5-flash").strip()
+# 기본 모델이 없어졌을 때를 대비한 예비 모델 (구글이 항상 최신 flash로 연결해 주는 이름)
+FALLBACK_MODELS = ["gemini-flash-latest", "gemini-2.0-flash"]
+
+
+def gemini_url(model):
+    return f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent"
 
 IMPORTANCE_SCORE = {"high": 30, "mid": 15, "low": 0}
 
@@ -205,16 +211,31 @@ def collect_sites(cfg, date):
 
 
 # ── 2단계: Gemini 분석 ───────────────────────────────────────────────────────
-def gemini(prompt, max_tokens=32768):
+def gemini(prompt):
+    """기본 모델이 404(없는 모델)면 예비 모델로 한 번씩 더 시도해요."""
+    models = [GEMINI_MODEL] + [m for m in FALLBACK_MODELS if m != GEMINI_MODEL]
+    for i, m in enumerate(models):
+        try:
+            return gemini_one(prompt, m)
+        except ModelNotFound as e:
+            print(f"  ⚠️  {e}" + (f" → {models[i+1]}로 다시 시도해요" if i + 1 < len(models) else ""))
+    raise RuntimeError(f"사용할 수 있는 Gemini 모델을 찾지 못했어요 ({', '.join(models)})")
+
+
+class ModelNotFound(Exception):
+    pass
+
+
+def gemini_one(prompt, model, max_tokens=32768):
     gen = {"temperature": 0.2, "maxOutputTokens": max_tokens,
            "responseMimeType": "application/json"}
     # 2.5 flash 계열은 '생각' 토큰이 출력 한도를 먹어서 JSON이 잘릴 수 있어요 → 생각 끄기
-    if "flash" in GEMINI_MODEL and "2.5" in GEMINI_MODEL:
+    if "flash" in model and "2.5" in model:
         gen["thinkingConfig"] = {"thinkingBudget": 0}
     wait = 10
     last = ""
     for attempt in range(4):
-        r = requests.post(GEMINI_URL, params={"key": GEMINI_KEY},
+        r = requests.post(gemini_url(model), params={"key": GEMINI_KEY},
                           json={"contents": [{"parts": [{"text": prompt}]}], "generationConfig": gen},
                           timeout=240)
         if r.status_code in (429, 500, 503):
@@ -222,11 +243,13 @@ def gemini(prompt, max_tokens=32768):
             print(f"  ⏳ Gemini {r.status_code} (사용량 한도·서버 혼잡) — {wait}초 후 재시도")
             time.sleep(wait); wait *= 2
             continue
+        if r.status_code == 404:
+            raise ModelNotFound(f"모델 '{model}'을 찾을 수 없어요")
         if r.status_code != 200:
             msg = r.text[:400]
             hint = {400: "요청 형식 또는 API 키가 잘못됐어요",
                     403: "API 키 권한이 없어요 — 키를 다시 만들어 등록해 주세요",
-                    404: f"모델 이름({GEMINI_MODEL})을 찾을 수 없어요 — GEMINI_MODEL 변수를 확인해 주세요"}.get(r.status_code, "")
+                    }.get(r.status_code, "")
             raise RuntimeError(f"Gemini HTTP {r.status_code} {hint}\n{msg}")
         body = r.json()
         cand = (body.get("candidates") or [{}])[0]
@@ -304,7 +327,7 @@ def analyze(cfg, articles, date):
             continue
         item = {k: it.get(k) for k in ("cat", "importance", "company", "title", "body", "insight", "action")}
         item["importance"] = item["importance"] if item["importance"] in IMPORTANCE_SCORE else "low"
-        item["teams"] = [t for t in it.get("teams", []) if t in cfg["teams"]]
+        item["teams"] = [t for t in it.get("teams", []) if t in cfg["teams"]] or default_teams(cfg, item["cat"])
         item["tags"] = [str(t) for t in it.get("tags", [])][:6]
         item["our_group"] = bool(it.get("our_group")) or mentions_group(cfg, item)
         item["sources"] = srcs
@@ -314,6 +337,12 @@ def analyze(cfg, articles, date):
 
     items.sort(key=lambda i: (IMPORTANCE_SCORE[i["importance"]] + len(i["sources"]) * 2), reverse=True)
     return {"headline": data.get("headline", ""), "points": data.get("points", [])[:3], "items": items}
+
+
+def default_teams(cfg, cat):
+    """AI가 팀을 안 붙였을 때 카테고리 기본 팀을 써요 (config.json categories[].teams)."""
+    c = next((c for c in cfg["categories"] if c["id"] == cat), {})
+    return list(c.get("teams", []))
 
 
 def mentions_group(cfg, item):
@@ -332,7 +361,7 @@ def fallback(cfg, articles, date, reason=""):
     items = []
     for n, a in enumerate(sorted(picked, key=lambda a: a["date"], reverse=True)[:25]):
         items.append({"id": f"{date:%Y%m%d}-f{n:02d}", "cat": a["hint"], "importance": "low",
-                      "teams": [], "company": a["source"], "title": a["title"],
+                      "teams": default_teams(cfg, a["hint"]), "company": a["source"], "title": a["title"],
                       "body": a["snippet"] if a["snippet"] != a["title"] else "", "insight": "", "action": "", "tags": [],
                       "our_group": any(g in a["title"] for g in cfg.get("our_group", [])),
                       "sources": [{"name": a["source"], "url": a["url"], "title": a["title"], "date": a["date"]}],
@@ -362,7 +391,16 @@ def save(cfg, report):
     reports = reports[: cfg.get("keep_days", 180)]
 
     meta = {k: cfg.get(k) for k in ("site_title", "site_subtitle", "repo_url", "teams", "our_group")}
-    meta["categories"] = [{"id": c["id"], "name": c["name"], "desc": c["desc"]} for c in cfg["categories"]]
+    meta["categories"] = [{"id": c["id"], "name": c["name"], "desc": c["desc"], "teams": c.get("teams", [])}
+                          for c in cfg["categories"]]
+    # 없어진 카테고리(예: brand)로 저장된 예전 카드는 합쳐진 카테고리로 옮겨요
+    alias = cfg.get("category_alias", {})
+    for r in reports:
+        for it in r.get("items", []):
+            if it.get("cat") in alias:
+                it["cat"] = alias[it["cat"]]
+            if not it.get("teams"):
+                it["teams"] = default_teams(cfg, it.get("cat"))
     meta["updated"] = datetime.datetime.now(KST).isoformat(timespec="minutes")
     with open(path, "w", encoding="utf-8") as f:
         json.dump({"meta": meta, "reports": reports}, f, ensure_ascii=False, indent=1)
