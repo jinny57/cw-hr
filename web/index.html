@@ -317,11 +317,16 @@ a{color:inherit}
     reps.forEach(r => (r.items || []).forEach(it => out.push({ ...it, _day: r.date })));
     return out;
   }
+  // AI가 팀을 못 붙인 카드는 카테고리 기본 팀으로 봐요
+  function teamsOf(it){
+    if ((it.teams || []).length) return it.teams;
+    return (META.categories.find(c => c.id === it.cat) || {}).teams || [];
+  }
   function filtered(items){
     const q = st.q.trim().toLowerCase();
     return items.filter(it =>
       (st.cat === 'all' || it.cat === st.cat) &&
-      (!st.teams.length || (it.teams || []).some(t => st.teams.includes(t))) &&
+      (!st.teams.length || teamsOf(it).some(t => st.teams.includes(t))) &&
       (!st.high || it.importance === 'high') &&
       (!st.own || it.our_group) &&
       (!q || [it.title, it.company, it.body, (it.tags||[]).join(' '), it.insight].join(' ').toLowerCase().includes(q))
@@ -415,8 +420,8 @@ a{color:inherit}
           ${it.insight ? `<div class="box"><h4>HR 시사점</h4><p>${esc(it.insight)}</p></div>` : ''}
           ${it.action ? `<div class="box"><h4>해볼 일</h4><p>${esc(it.action)}</p></div>` : ''}
         </div>` : ''}
-        ${(it.teams||[]).length || (it.tags||[]).length ? `<div class="who">
-          ${(it.teams||[]).length ? '<span>누가 보면 좋을까</span>' + it.teams.map(t => `<span class="team">${esc(t)}</span>`).join('') : ''}
+        ${teamsOf(it).length || (it.tags||[]).length ? `<div class="who">
+          ${teamsOf(it).length ? '<span>누가 보면 좋을까</span>' + teamsOf(it).map(t => `<span class="team">${esc(t)}</span>`).join('') : ''}
           ${(it.tags||[]).map(t => `<span class="tag">#${esc(t)}</span>`).join('')}
         </div>` : ''}
         <ul class="srcs">${srcs}</ul>
@@ -533,7 +538,7 @@ a{color:inherit}
     const imp = { high:'꼭 볼 이슈', mid:'챙겨볼 이슈', low:'참고' };
     const q = v => `"${String(v ?? '').replace(/"/g, '""')}"`;
     const csv = [head, ...rows.map(i => [i.date || i._day, names[i.cat] || i.cat, imp[i.importance] || '', i.company, i.title, i.body, i.insight, i.action,
-      (i.teams||[]).join(', '), (i.tags||[]).join(', '), (i.sources||[]).map(s => s.name).join(', '), i.sources?.[0]?.url || ''])]
+      teamsOf(i).join(', '), (i.tags||[]).join(', '), (i.sources||[]).map(s => s.name).join(', '), i.sources?.[0]?.url || ''])]
       .map(r => r.map(q).join(',')).join('\r\n');
     const a = document.createElement('a');
     a.href = URL.createObjectURL(new Blob(['﻿' + csv], { type: 'text/csv;charset=utf-8' }));
@@ -544,6 +549,9 @@ a{color:inherit}
   fetch('data.json', { cache: 'no-store' }).then(r => { if (!r.ok) throw new Error(r.status); return r.json(); }).then(data => {
     META = data.meta || {}; META.categories = META.categories || [];
     REPORTS = (data.reports || []).slice().sort((a, b) => b.date.localeCompare(a.date));
+    // 합쳐진 카테고리: 예전 '채용 브랜딩' 카드는 '채용 시장·브랜딩' 탭으로
+    const ALIAS = { brand: 'market' }, known = new Set(META.categories.map(c => c.id));
+    REPORTS.forEach(r => (r.items || []).forEach(i => { if (!known.has(i.cat) && ALIAS[i.cat]) i.cat = ALIAS[i.cat]; }));
     REPORTS.forEach(r => byDate.set(r.date, r)); dates = REPORTS.map(r => r.date);
     if (META.site_title){ $('#siteTitle').textContent = META.site_title; document.title = META.site_title; }
     if (META.site_subtitle) $('#siteSub').textContent = META.site_subtitle;
