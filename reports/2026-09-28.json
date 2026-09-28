@@ -1,104 +1,30 @@
 {
   "date": "2026-09-28",
   "window_days": 3,
-  "article_count": 290,
-  "headline": "다나와·몰테일 시너지 본격화와 채용 공정성 리스크",
+  "article_count": 295,
+  "headline": "채용 공정성 리스크 점검과 그룹사 역직구 시너지",
   "points": [
-    "몰테일-다나와 역직구 연계로 그룹 내 크로스보더 커머스 협업 조직 역량 강화 필요",
-    "한화에어로스페이스 연령·학벌 차별 논란으로 본 채용 프로세스 컴플라이언스 점검",
-    "빅테크의 퇴직자 부메랑 채용 및 생성형 AI 확산에 따른 직무·일하는 방식 재편"
+    "한화에어로 학벌·연령 차별 채용 사과로 본 공정 채용 리스크 예방",
+    "몰테일-다나와 역직구 연계에 따른 그룹사 간 협업 및 조직 지원",
+    "AI 기반 채용 전환과 하반기 인사·노무 법령 개정 대비 점검"
   ],
   "items": [
     {
-      "cat": "ecom",
-      "importance": "high",
-      "company": "커넥트웨이브",
-      "title": "몰테일·다나와 역직구 연계 본격화로 그룹 시너지 가속",
-      "body": "몰테일이 다나와와 협력하여 14억 개 규모의 상품 데이터를 연계하고 해외 소비자를 위한 K-브랜드 역직구 서비스를 대폭 강화해요.",
-      "insight": "그룹사 간 데이터 및 플랫폼 결합 프로젝트가 가속화됨에 따라 사업부 간 협업을 이끌 애자일 조직 구성과 인력 재배치가 중요해져요.",
-      "action": "다나와-몰테일 연계 태스크포스(TF) 및 크로스보더 커머스 담당 인력의 R&R을 명확히 정의하고 온보딩을 지원해 보세요.",
-      "teams": [
-        "인사기획",
-        "조직문화·HRD"
-      ],
-      "tags": [
-        "몰테일",
-        "다나와",
-        "역직구",
-        "그룹시너지",
-        "조직개편"
-      ],
-      "our_group": true,
-      "sources": [
-        {
-          "name": "뉴스웍스",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE51b3I2N0F6S1pXNzk5SWNDdHB6eXFibTFHLWtibXVONXlQUXJIMEtSMzUxV2lSdU42UTVHTnlhdHpfRkpTSktPMDl0WXZiVUZwWkQxTUNYcFR4WFlBSTUwSVJwRmxVaEVnQjRidGFmdUVNdkXSAXNBVV95cUxOdW9yNjdBektaVzc5OUljQ3RwenlxYm0xRy1rYm11TjV5UFFySDBLUjM1MVdpUnVONlE1R055YXR6X0ZKU0pLTzA5dFl2YlVGcFpEMU1DWHBUeFhZQUk1MElScEZsVWhFZ0I0YnRhZnVFTXZF?oc=5",
-          "title": "[IT라운지] 딥브레인 '중기 AI 아바타서비스'·사방넷 '이커머스 페어 참가'·KJCCS에 런웨이 적용·다나와-글로벌쇼핑 '연계'",
-          "date": "2026-09-28"
-        },
-        {
-          "name": "물류신문",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5QR1lhQTlxRl9NZkNRS3ZIUWVTR1VtbHFSUHpndV9yU0JJbktJWUNQcmc0VzlndFMwOTV1emcwbkRNU1dKT21BblBSZlZyNHlMV19RNTIzWUJidlliVEQwUDd0RmZLLUhCNTNZ?oc=5",
-          "title": "몰테일, 다나와 손잡고 ‘글로벌 쇼핑’ 확대…K-브랜드 역직구 강화",
-          "date": "2026-09-28"
-        },
-        {
-          "name": "전자신문",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9NRTNtQ0VKMHRlMjh5RWdzZHBxRzNUVVNNRXoxRzBKcTkwdkxLWjJPYkU2ZlJhSHhYZ2xLb2dHZFFrS3EweGIwTVJ0VlRjZw?oc=5",
-          "title": "다나와에서 K브랜드 역직구한다…몰테일, 다나와와 협업",
-          "date": "2026-09-28"
-        },
-        {
-          "name": "청년일보",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5DbFItMzkwTENIN2dlVXA4b2lWYkVJNFpRcXZCNjV4azg5eHJzQkZzNFNkQTRjUUt3YTVKTXZ3dGlMaUFhck1LNFR0TkxJX25RWXBRMVhuYjRfdXZUZFhpMWNONVVCdUI4WHc?oc=5",
-          "title": "커넥트웨이브 몰테일, 다나와 연계해 역직구 상품 확대",
-          "date": "2026-09-28"
-        },
-        {
-          "name": "v.daum.net",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBHSnMzNFhqblVhdFFJV1NzbkxCVG5PdVhSSUIwSlloaGlnR0Z1emZSZ0dkNGczYmxzdzl4VzhNNjVFRG5yNVNHakhZbw?oc=5",
-          "title": "\"K-브랜드 최저가에”…몰테일, 다나와 연계로 14억개 상품 추가",
-          "date": "2026-09-28"
-        },
-        {
-          "name": "한국금융신문",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE16d2RRUi1JRDNXLXdVODRQeE1RQTQ4RUl0cThuZWl0Nk5DT05ETXhBTGdZWV9jelZkYkhNYjlSdzIxZEJadmJlb1dhWGZFRjZfWFVpTGhBRlAyYjVWQ3FWR3FkTjIwcGZ5YVFQQjEyelF3ZXFuNjRpRVZYQXA?oc=5",
-          "title": "몰테일, 다나와와 손잡고 글로벌 쇼핑 강화…‘국내 최저가 쇼핑 지원’",
-          "date": "2026-09-28"
-        },
-        {
-          "name": "dailian.co.kr",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBBb28tSmhwcGRKY2RuZHNzX2Y2RjY5VEJobVVyTHNwOGdRR2R4elJWOExrVmw3X2hmSzZoVGprcHRaM1UyeGJQeWRSS0NqLUQ2YmpLXw?oc=5",
-          "title": "몰테일, 다나와와 손잡고 글로벌 쇼핑 강화",
-          "date": "2026-09-28"
-        },
-        {
-          "name": "뉴스탭",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBJWjlhTkhwVk5jYlRkR1FPcXJpaG9pV1NXek5uRXhVb0FzdlhsX3d0WllTWWdEQ2NncEF1YmlVaG1uT1pCRVN2dUNSNGZmYTFKYnlJeHNVUTA4aHJNVndtUVBEa0xPRDBHclhNdQ?oc=5",
-          "title": "몰테일·다나와 손잡았다…해외에서도 K-브랜드 최저가 쇼핑",
-          "date": "2026-09-28"
-        }
-      ],
-      "date": "2026-09-28",
-      "id": "20260928-00"
-    },
-    {
-      "cat": "labor",
+      "cat": "market",
       "importance": "high",
       "company": "한화에어로스페이스",
-      "title": "채용 내 연령·학벌 제한 지침 논란과 공식 사과",
-      "body": "한화에어로스페이스 경력 채용 과정에서 '1980년생 이하', '특정 대학 출신' 기준 지침이 드러나 대표이사가 사과하고 책임자 징계 및 재발방지책을 발표했어요.",
-      "insight": "고용상 연령차별금지법 등 채용 절차법 위반은 기업 브랜드와 EVP에 치명적인 타격을 주므로 내부 심사 기준 점검이 시급해요.",
-      "action": "현업 평가위원 및 채용 담당자 대상 사전 가이드라인을 재점검하고, 서류·면접 평가표에 차별적 요소가 없는지 전수 검토해 보세요.",
+      "title": "한화에어로, '나이·학벌 제한' 채용 논란 공식 사과",
+      "body": "한화에어로스페이스가 경력직 채용 과정에서 '1980년생 이하', '특정 11개 대학 출신' 조건을 기재한 가이드라인이 유출되어 대표이사 공식 사과와 책임자 징계를 단행했어요.",
+      "insight": "연령·학력 차별은 고용상 연령차별금지법 및 채용절차법 위반 소지가 크며 기업 브랜드에 치명적인 타격을 줘요.",
+      "action": "현업 부서에 배포되는 모든 채용 기준표와 JD에 차별적 요소가 없는지 채용 가이드라인을 전수 점검해 보세요.",
       "teams": [
         "채용",
         "노무·ER"
       ],
       "tags": [
-        "채용비리",
-        "연령차별",
-        "학벌제한",
+        "채용차별",
         "채용절차법",
+        "채용브랜딩",
         "컴플라이언스"
       ],
       "our_group": false,
@@ -113,6 +39,12 @@
           "name": "PRESS9",
           "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB0MXA3Nk5LZkJ1a2ZEWFJjUVZhZzhjdTg0RWZGekdfRnBvYVZmMmlMOVBicngwczZYVHcyV1ZWeGotc215amhEbEhtaU8xRnl2cWpaREpvS1R2aVkxUnJHVFFDVjE?oc=5",
           "title": "한화에어로스페이스 '1980년생 이하·11개 대학' 채용 논란…대표 사과·책임자 징계",
+          "date": "2026-09-28"
+        },
+        {
+          "name": "SBS Biz",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9pUzFxcTYxb1RLS21rVnluWnR3ZE5xd184dlp4WUNmN2FCQVhHR0liVkV1dTNHeHd1MUJLWTl1R0dLUmdCTEdXQ0JlZHhpaHpRc0RGUUprLVrSAVhBVV95cUxPaVMxcXE2MW9US0tta1Z5blp0d2ROcXdfOHZaeFlDZjdhQkFYR0dJYlZFdXUzR3h3dTFCS1k5dUdHS1JnQkxHV0NCZWR4aWh6UXNERlFKay1a?oc=5",
+          "title": "한화에어로, '학력·나이 제한' 채용 지침 공식 사과",
           "date": "2026-09-28"
         },
         {
@@ -153,25 +85,97 @@
         }
       ],
       "date": "2026-09-28",
+      "id": "20260928-00"
+    },
+    {
+      "cat": "ecom",
+      "importance": "high",
+      "company": "커넥트웨이브",
+      "title": "몰테일·다나와 손잡고 14억 개 상품 '글로벌 쇼핑' 연계",
+      "body": "커넥트웨이브의 몰테일이 다나와와 협업하여 국내 최저가 상품 데이터 14억 개를 연계하고 해외 소비자를 위한 K-브랜드 역직구 쇼핑 서비스를 대폭 강화했어요.",
+      "insight": "가격비교와 물류·배송 BU 간 크로스 펑셔널 협업이 가시화되고 있어 부서 간 협업 문화와 시너지 창출이 핵심 과제로 떠올랐어요.",
+      "action": "양 플랫폼 간 협업 프로젝트에 참여하는 인력의 R&R을 명확히 하고 크로스팀 협업 지원 프로그램을 기획해 보세요.",
+      "teams": [
+        "인사기획",
+        "조직문화·HRD"
+      ],
+      "tags": [
+        "몰테일",
+        "다나와",
+        "역직구",
+        "조직시너지"
+      ],
+      "our_group": true,
+      "sources": [
+        {
+          "name": "뉴스웍스",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE51b3I2N0F6S1pXNzk5SWNDdHB6eXFibTFHLWtibXVONXlQUXJIMEtSMzUxV2lSdU42UTVHTnlhdHpfRkpTSktPMDl0WXZiVUZwWkQxTUNYcFR4WFlBSTUwSVJwRmxVaEVnQjRidGFmdUVNdkXSAXNBVV95cUxOdW9yNjdBektaVzc5OUljQ3RwenlxYm0xRy1rYm11TjV5UFFySDBLUjM1MVdpUnVONlE1R055YXR6X0ZKU0pLTzA5dFl2YlVGcFpEMU1DWHBUeFhZQUk1MElScEZsVWhFZ0I0YnRhZnVFTXZF?oc=5",
+          "title": "[IT라운지] 딥브레인 '중기 AI 아바타서비스'·사방넷 '이커머스 페어 참가'·KJCCS에 런웨이 적용·다나와-글로벌쇼핑 '연계'",
+          "date": "2026-09-28"
+        },
+        {
+          "name": "물류신문",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5QR1lhQTlxRl9NZkNRS3ZIUWVTR1VtbHFSUHpndV9yU0JJbktJWUNQcmc0VzlndFMwOTV1emcwbkRNU1dKT21BblBSZlZyNHlMV19RNTIzWUJidlliVEQwUDd0RmZLLUhCNTNZ?oc=5",
+          "title": "몰테일, 다나와 손잡고 ‘글로벌 쇼핑’ 확대…K-브랜드 역직구 강화",
+          "date": "2026-09-28"
+        },
+        {
+          "name": "etnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9NRTNtQ0VKMHRlMjh5RWdzZHBxRzNUVVNNRXoxRzBKcTkwdkxLWjJPYkU2ZlJhSHhYZ2xLb2dHZFFrS3EweGIwTVJ0VlRjZw?oc=5",
+          "title": "다나와에서 K브랜드 역직구한다…몰테일, 다나와와 협업",
+          "date": "2026-09-28"
+        },
+        {
+          "name": "청년일보",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5DbFItMzkwTENIN2dlVXA4b2lWYkVJNFpRcXZCNjV4azg5eHJzQkZzNFNkQTRjUUt3YTVKTXZ3dGlMaUFhck1LNFR0TkxJX25RWXBRMVhuYjRfdXZUZFhpMWNONVVCdUI4WHc?oc=5",
+          "title": "커넥트웨이브 몰테일, 다나와 연계해 역직구 상품 확대",
+          "date": "2026-09-28"
+        },
+        {
+          "name": "v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBHSnMzNFhqblVhdFFJV1NzbkxCVG5PdVhSSUIwSlloaGlnR0Z1emZSZ0dkNGczYmxzdzl4VzhNNjVFRG5yNVNHakhZbw?oc=5",
+          "title": "\"K-브랜드 최저가에”…몰테일, 다나와 연계로 14억개 상품 추가",
+          "date": "2026-09-28"
+        },
+        {
+          "name": "한국금융신문",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE16d2RRUi1JRDNXLXdVODRQeE1RQTQ4RUl0cThuZWl0Nk5DT05ETXhBTGdZWV9jelZkYkhNYjlSdzIxZEJadmJlb1dhWGZFRjZfWFVpTGhBRlAyYjVWQ3FWR3FkTjIwcGZ5YVFQQjEyelF3ZXFuNjRpRVZYQXA?oc=5",
+          "title": "몰테일, 다나와와 손잡고 글로벌 쇼핑 강화…‘국내 최저가 쇼핑 지원’",
+          "date": "2026-09-28"
+        },
+        {
+          "name": "dailian.co.kr",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBBb28tSmhwcGRKY2RuZHNzX2Y2RjY5VEJobVVyTHNwOGdRR2R4elJWOExrVmw3X2hmSzZoVGprcHRaM1UyeGJQeWRSS0NqLUQ2YmpLXw?oc=5",
+          "title": "몰테일, 다나와와 손잡고 글로벌 쇼핑 강화",
+          "date": "2026-09-28"
+        },
+        {
+          "name": "뉴스탭",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBJWjlhTkhwVk5jYlRkR1FPcXJpaG9pV1NXek5uRXhVb0FzdlhsX3d0WllTWWdEQ2NncEF1YmlVaG1uT1pCRVN2dUNSNGZmYTFKYnlJeHNVUTA4aHJNVndtUVBEa0xPRDBHclhNdQ?oc=5",
+          "title": "몰테일·다나와 손잡았다…해외에서도 K-브랜드 최저가 쇼핑",
+          "date": "2026-09-28"
+        }
+      ],
+      "date": "2026-09-28",
       "id": "20260928-01"
     },
     {
       "cat": "labor",
       "importance": "high",
       "company": "고용노동부",
-      "title": "2026년 하반기 주요 노동법 개정 및 소규모 사업장 감독 강화",
-      "body": "2026년 하반기 인사·노무 관련 법령 개정 사항과 더불어 30인 미만 사업장에 대한 지방정부 노동감독 도입 논의 등 기업 규제 대응이 요구돼요.",
-      "insight": "그룹 내 자회사 및 물류 현장 파트너사 등 노동법 준수 사각지대가 발생하지 않도록 사전 노무 진단이 필요해요.",
-      "action": "하반기 개정 노동법령 체크리스트를 제작해 각 계열사 인사 및 노무 담당자에게 배포하고 선제적으로 규정을 정비해 보세요.",
+      "title": "2026 하반기 인사·노무 주요 개정 법령 및 근로감독 대비",
+      "body": "2026년 하반기 주요 노동법령 개정안이 순차 시행되고 지자체 연계 근로감독 도입 등 사업장 감독 기조가 강화되고 있어 기업들의 사전 법적 점검이 요구돼요.",
+      "insight": "법 개정 사항을 신속하게 취업규칙과 인사제도에 반영하지 않으면 정기·수시 감독에서 시정지시 및 과태료 리스크가 발생해요.",
+      "action": "하반기 개정 법령 사항을 종합 체크리스트로 작성해 그룹사별 규정 및 근로조건 일치 여부를 검토해 보세요.",
       "teams": [
-        "인사기획",
-        "노무·ER"
+        "노무·ER",
+        "인사기획"
       ],
       "tags": [
         "노동법개정",
-        "노동감독",
-        "노무리스크",
-        "근로기준법"
+        "근로감독",
+        "취업규칙",
+        "컴플라이언스"
       ],
       "our_group": false,
       "sources": [
@@ -182,9 +186,21 @@
           "date": "2026-09-28"
         },
         {
+          "name": "시사코리아",
+          "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE8xUnVTUEs2eE1JZzZLNFQ4S1VMYmFaRmI2ZVF5N1NLV2xTRUw2bEFfcUhZYUlhLWNGQ3BvSmROcjNNWlMw?oc=5",
+          "title": "노동법 위반 98% '시정지시'로...\"불법 부추겨\"",
+          "date": "2026-09-28"
+        },
+        {
           "name": "법률신문",
           "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1MSGVDUzZZNl9hU2F1aGJMemVLS1czZmVidVN0eEkzTXJxN2ZWVkxjTmxJSldDSFAtdUtKemxoWEdSdXBNak5jeXI4MjRuWlNfOUlYVkRma0F4X1NXeWxtZUUwbWJEYUpnRWZrQVdxVkF3Z9IBckFVX3lxTE1MSGVDUzZZNl9hU2F1aGJMemVLS1czZmVidVN0eEkzTXJxN2ZWVkxjTmxJSldDSFAtdUtKemxoWEdSdXBNak5jeXI4MjRuWlNfOUlYVkRma0F4X1NXeWxtZUUwbWJEYUpnRWZrQVdxVkF3Zw?oc=5",
           "title": "2026년 하반기 인사·노무 관련 법령 주요 개정 사항",
+          "date": "2026-09-28"
+        },
+        {
+          "name": "신아일보",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE84N2UtYmpDQ19QUXVaWG9jZURuQTVXdXJ2ZUtRbzhJUmlreklYQ3JxTTl6a1Rrek5FNzdGRUlTOERLQVkxM0NGY240OWlxSURmOWNzb3FBRU15bTNnRXVLUjhsUEtyY2xIV2RDeGlSeno?oc=5",
+          "title": "노동법 위반 15만건인데 98% ‘시정지시’…처벌은 2%",
           "date": "2026-09-28"
         }
       ],
@@ -192,23 +208,82 @@
       "id": "20260928-02"
     },
     {
+      "cat": "market",
+      "importance": "mid",
+      "company": "아마존",
+      "title": "아마존, 대규모 감원 후 AI 핵심 인재 '부메랑 채용' 추진",
+      "body": "아마존이 대규모 감원 이후 AI 기술 경쟁력 확보와 전문 인력난을 해결하기 위해 과거 근무했던 핵심 퇴직 인력을 다시 불러들이는 '부메랑 채용'에 나섰어요.",
+      "insight": "역량과 조직 문화를 이미 검증받은 우수 퇴직자는 온보딩 비용을 줄이고 즉시 전력화할 수 있는 강력한 인재 풀이에요.",
+      "action": "최근 2~3년간 퇴사한 우수 개발·이커머스 기획 인재 대상의 '알룸나이(Alumni)' 풀 관리 방안을 수립해 보세요.",
+      "teams": [
+        "채용",
+        "인사기획"
+      ],
+      "tags": [
+        "부메랑채용",
+        "퇴직자인재풀",
+        "AI인재",
+        "경력영입"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "메디컬투데이",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBsbGR4VllpUHZ1SnlJZmpKLUNfZWcxYkVIM0hzYVJVXzd4S1BlWlZZUW50QTZONnR6enF0dDg3MFZTc1NmZ2xZV0xxVEFVZnE5MXFKWnA0ZHN4emttM3M0blFpUzZKNVNPRGdYZw?oc=5",
+          "title": "\"다시 돌아와달라\"…아마존(AMZN.O), AI 인재 '부메랑 채용' 나섰다",
+          "date": "2026-09-28"
+        },
+        {
+          "name": "네이트",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0zUXlpUmt1Q2l5VUlFN041WDdkanRWbVpsdlFMMTc5LVJZSHZNTE9GWktfUm9DUnBLZ01YZGl1dUlzUlB6S3U5UzA3elpYdVc0eHBZ?oc=5",
+          "title": "AI가 일자리를 줄인다고? 엔비디아·아마존은 늘렸다",
+          "date": "2026-09-28"
+        },
+        {
+          "name": "미주조선일보",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA5RkNlWmw3eUxUTzV0Nm9tRlFhVEJUNU8wb0NwUjZpZUZMOVpMZlFMbkQycDhJR2JCT21NQXdYNXJRbmhzWk1zSW1ITWVEYnhKR0V2ZTlvWmVCemZCbGhxaG5Wd2RuOVRUUW03ZnVQdVhYcURPYkE?oc=5",
+          "title": "3만명 감원 아마존, 인력난에 해고자 '부메랑' 채용",
+          "date": "2026-09-27"
+        },
+        {
+          "name": "한국경제",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBra2pscWNhSVQ5ckZGOE91S0drcVNaazhiMDZObUUtVW0tamNVd3VubTRZUW9IU3MxczdtUkpvMUZxNkV4OC1iQnVQVUNxaDE2QzhfRTg1MjNUZw?oc=5",
+          "title": "일자리 위협하는 AI의 역설…기술 확장 ‘초크포인트’ 떠오른 인재",
+          "date": "2026-09-27"
+        },
+        {
+          "name": "Vietnam.vn",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMVNfUEZSRzEyR2t5Y0ZqWHp1Sk8xbDR6S2xESWc5enlOSE1QYllORG8yRFdhcWxQcGVjS0syNVRiU1VZTjYyc3U2TmVYRmhfaGpXV2tMM2ZSdElpMFUwdl9XSmQ1MHJvbDhiMGdiYVRVaEJfZHpKTXlGR2g5VE92QTdQTHFLYm8?oc=5",
+          "title": "아마존이 3만 명을 해고한 후, 이전 직원들을 재고용하고 있습니다.",
+          "date": "2026-09-27"
+        },
+        {
+          "name": "서울경제",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB4QVc1OXhDNnlyVmRqbmJIYWUzd2FQUFpWYzF1UTExd0xoSVY0MWZLT2dvaHFvMVNpRUh1Qmk2b0VuWDk3UndqRHU3S2JYTlhUYWc?oc=5",
+          "title": "‘AI가 일자리 줄인다’는 통념, 아마존·구글서는 깨졌다",
+          "date": "2026-09-27"
+        }
+      ],
+      "date": "2026-09-28",
+      "id": "20260928-04"
+    },
+    {
       "cat": "labor",
       "importance": "mid",
-      "company": "수원시 인권센터",
-      "title": "직장 내 괴롭힘·성희롱·갑질 판단 기준 결정례집 발간",
-      "body": "수원시 인권센터가 최근 3년간의 직장 내 괴롭힘, 성희롱, 연령차별 등 인권침해 사례 10건과 구체적인 판단 기준을 담은 결정례집을 공개했어요.",
-      "insight": "모호한 괴롭힘 기준에 대해 공공기관의 최신 판단 잣대를 참고하면 사내 고충 처리의 객관성과 신뢰도를 크게 높일 수 있어요.",
-      "action": "발간된 결정례집 사례를 사내 고충상담원 및 리더십 괴롭힘 예방 교육 자료에 반영해 보세요.",
+      "company": "수원시",
+      "title": "수원시 인권센터, 직장 내 괴롭힘·갑질 판단 결정례집 발간",
+      "body": "수원시 인권센터가 3년간 심의한 직장 내 괴롭힘, 성희롱, 연령차별, 갑질 등 10개 대표 사례와 명확한 판단 기준을 담은 결정례집을 발간해 공개했어요.",
+      "insight": "모호한 괴롭힘 기준을 구체적 행위 양태로 확인하고 사내 고충 처리 및 조사 프로세스의 공정성을 보완할 수 있어요.",
+      "action": "공개된 결정례를 사내 괴롭힘 예방 교육 자료에 반영하고 사내 조사 위원회의 판단 벤치마크로 활용해 보세요.",
       "teams": [
         "노무·ER",
         "조직문화·HRD"
       ],
       "tags": [
         "직장내괴롭힘",
-        "성희롱예방",
-        "갑질",
-        "인권경영",
-        "판단기준"
+        "결정례",
+        "노무가이드",
+        "고충처리"
       ],
       "our_group": false,
       "sources": [
@@ -250,26 +325,25 @@
         }
       ],
       "date": "2026-09-28",
-      "id": "20260928-03"
+      "id": "20260928-06"
     },
     {
       "cat": "market",
       "importance": "mid",
-      "company": "영남이공대학교",
-      "title": "쿠팡풀필먼트서비스, AI 물류자동화 학과 신설 산학협력",
-      "body": "쿠팡풀필먼트서비스가 영남이공대와 손잡고 'AI물류자동화과'를 신설해 맞춤형 커리큘럼을 운영하고 실무 인재를 조기 채용하기로 했어요.",
-      "insight": "물류 및 풀필먼트 분야가 고도화되면서 현장 기능직을 넘어 AI·자동화 전문 테크 인재의 선제적 확보가 필수 과제로 부상했어요.",
-      "action": "스윗트래커 및 몰테일 물류센터 자동화에 대응할 수 있도록 물류 IT 특화 산학연계 인턴십 모델을 검토해 보세요.",
+      "company": "쿠팡풀필먼트서비스",
+      "title": "쿠팡 CFS, 전문대와 AI물류자동화과 신설 산학 협력",
+      "body": "쿠팡풀필먼트서비스가 영남이공대학교와 손잡고 AI물류자동화과를 신설해 맞춤형 커리큘럼을 공동 운영하고 취업까지 연계하는 현장 전문 인재 육성에 나섰어요.",
+      "insight": "물류 자동화·스마트 물류 전문 인력 부족 문제를 사전 산학 연계 트랙을 통해 안정적으로 선점하는 전략이에요.",
+      "action": "스윗트래커·몰테일의 물류센터 자동화에 필요한 테크 인력 확보를 위한 특성화 대학 산학 연계를 검토해 보세요.",
       "teams": [
         "채용",
         "조직문화·HRD"
       ],
       "tags": [
-        "쿠팡풀필먼트",
-        "AI물류",
         "산학협력",
         "물류자동화",
-        "채용연계"
+        "맞춤인재",
+        "쿠팡CFS"
       ],
       "our_group": false,
       "sources": [
@@ -286,15 +360,15 @@
           "date": "2026-09-28"
         },
         {
-          "name": "미주중앙일보",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5vOHp1TTk0c3JwbTJqSmgtMFN5X1NVQVZnQ0Y5VFNxclh2MF9hanM2LUJsVnNFY3BMVVdSUmwyVXhtX3V6aEN3ZjNnLTJIcWFzb1B5bTI1M2lJamhmUDdMa3V3?oc=5",
-          "title": "영남이공대, 2027학년도 AI물류자동화과 신설",
+          "name": "이뉴스투데이",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5nX0FudW1veWp4clhBampJMnQxbmU3RjZLSXVqU0t4MTJYTUdHeEpMdXRuUVgzcGdmalkxREd3VGZZVVJpQjJQdmVvX0ZycHhuMmtDRExhYnZFOU95LVMtdG85VVBpcnFDclpmcW5JVGJIOE5S0gF0QVVfeXFMTmdfQW51bW95anhyWEFqakkydDFuZTdGNktJdWpTS3gxMlhNR0d4Skx1dG5RWDNwZ2ZqWTFER3dUZllVUmlCMlB2ZW9fRnJweG4ya0NETGFidkU5T3ktUy10bzlVUGlycUNyWmZxbklUYkg4TlI?oc=5",
+          "title": "영남이공대, AI물류자동화과 신설···쿠팡풀필먼트서비스와 공동 운영",
           "date": "2026-09-28"
         },
         {
-          "name": "이뉴스투데이",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBNVWRxcEtNd3Fkb1hMZHZtb0VCN3ozSVdDa3RhQkFpSnp6bnRscUo1eVhuRTlRM3A5TTB2NGFkMTBGbGV1LXViendBTFNCWXowczA0YjBWYmFEYUVNd2dGMDBQR2xlei1RMVlHdlB2OGLSAXRBVV95cUxOZ19BbnVtb3lqeHJYQWpqSTJ0MW5lN0Y2S0l1alNLeDEyWE1HR3hKTHV0blFYM3BnZmpZMURHd1RmWVVSaUIyUHZlb19GcnB4bjJrQ0RMYWJ2RTlPeS1TLXRvOVVQaXJxQ3JaZnFuSVRiSDhOUg?oc=5",
-          "title": "영남이공대, AI물류자동화과 신설···쿠팡풀필먼트서비스와 공동 운영",
+          "name": "미주중앙일보",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5vOHp1TTk0c3JwbTJqSmgtMFN5X1NVQVZnQ0Y5VFNxclh2MF9hanM2LUJsVnNFY3BMVVdSUmwyVXhtX3V6aEN3ZjNnLTJIcWFzb1B5bTI1M2lJamhmUDdMa3V3?oc=5",
+          "title": "영남이공대, 2027학년도 AI물류자동화과 신설",
           "date": "2026-09-28"
         },
         {
@@ -305,107 +379,45 @@
         }
       ],
       "date": "2026-09-28",
-      "id": "20260928-06"
+      "id": "20260928-08"
     },
     {
       "cat": "trend",
       "importance": "mid",
-      "company": "마이크로소프트",
-      "title": "국내 생성형 AI 사용률 급증 및 AI 업무 OS화 본격화",
-      "body": "한국의 생성형 AI 사용률이 40.6%로 세계 12위권에 진입했으며, MS 코파일럿 개편 등 업무 도구가 AI 에이전트 기반 OS로 진화하고 있어요.",
-      "insight": "AI 툴 활용 여부가 직원들의 업무 생산성 격차를 좌우하는 핵심 역량이 되고 있어 전사 차원의 AI 리터러시 육성이 요구돼요.",
-      "action": "이커머스 MD, 마케터, 개발자를 위한 실무 밀착형 생성형 AI 활용 워크숍을 기획해 보세요.",
-      "teams": [
-        "인사기획",
-        "조직문화·HRD"
-      ],
-      "tags": [
-        "생성형AI",
-        "코파일럿",
-        "업무생산성",
-        "AI리터러시",
-        "디지털전환"
-      ],
-      "our_group": false,
-      "sources": [
-        {
-          "name": "Microsoft Source",
-          "url": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxOSHR4MHRQRE9WRTlqb2d4Yk50QVFoeTNybjVhQTBaTXZjMDhfMWlNd09hME9mcXFhZ1hyQm1MV0tuSTF0Wm9ieWFRZkNWdVMwVGN5UllMRGlORm42NGN4ZzAzcXZzcDQwdTRoc1FmeXJwbC14WFFQVHJVNFhzWENPTjBmREk2RlZuMUZMeDg4YUMxOFFpQmRMbU5JWTIwc0ZOX0dvSE01eFlWaFhnWVZ0QVFRUDlDWDdFN0E2MmF2eVptelZPWUF3ay1lYjhPNGh6NTZjdE5fMnpRbnJIRkw2WEU5dWYwWHBqc3JsMXU2eHRkeXdkYUhkU19MYmptQXp2cVB0U1FEQm1BeUJPa2R6WDdfeW5zRnpDbldoWXFydmNWcVl1OUQxNHBhOVZ3OXU4d1NMTzFXQUJ0bktIYklrc3lxT19nZy1xYU96RUFPZDRkNEM0c3Z2aTZsNjBRMVR1Z0I3Tkhqbi1lNDVvcGc?oc=5",
-          "title": "마이크로소프트, 2026년 2분기 글로벌 AI 확산 보고서 발표",
-          "date": "2026-09-28"
-        },
-        {
-          "name": "메트로신문",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5mVHZ4cTg4eFU3ZTRZNnBzeVNXVXlMUnBVSl9YZEpYR016QjhRVUUxb1BqU3czOW9XVGF4Wks4dl8tbWVFN0dFM05IMW1FMzhkMlFGVWp6NC1lYkFzTWlIWg?oc=5",
-          "title": "마이크로소프트, 한국 AI 사용률 40.6%…세계 12위로 ‘껑충’",
-          "date": "2026-09-28"
-        },
-        {
-          "name": "플래텀(Platum)",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1nMFFxUDBzS3hLallVa1A2eTkyOXRGM2E0ZWxtME5ZUmN3T1FkR2x5VmVEVmUycUM5S1JYakNLTHBfVE5hZ3ZNcQ?oc=5",
-          "title": "한국 생성형 AI 사용률 세계 12위, 주요국 중 상승 폭은 세 분기째 최대",
-          "date": "2026-09-28"
-        },
-        {
-          "name": "조선일보",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNY1lkcEEyNklqaWYxUWFaMFVvbl9rQmNDa1pXS0pkUEtUYzRMamJmM0xwRDZCSktZRGRNa2lvRF8xcDFOQjZJUFhpeURHbXFBdlJXQnFQeHpsWVNxWTZyMW11MDZoSFd6S0lDY21COVQ0Tl9XelF2WEwzajh1d2ZrbXZObw?oc=5",
-          "title": "MS, 코파일럿 개편… 퇴근해도 일하는 ‘AI 업무 OS’로",
-          "date": "2026-09-27"
-        },
-        {
-          "name": "Martin Cid Magazine",
-          "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxNM29TNy1wRnVZQUF2WWNxMm1vN1VNc1g0LUc2T2hxS2F0R0FJNDQ0SmxZVlIwYVZwZ0lQQ2lQMGFiMHJtaS1fWGpOVmI4ZmFNclBNOU9sUExSTjBaZnFtM1Z6SHh0M0hjYS0tcWtTRHZPcTZTXzQ1cTB1Z19iMzBnR21CZGZ6cTc3dVY0WEFGMTFsYjZWZHVRbTRRSDR3U09IODNBaS1tVzcwamtlc2lrdF9aUjNRc3VteUs5d0JONEcwU1pCbU9XbHFZTjhOZ09fSjBMRGpmT2ZpSThiaHBMX1hHVnI2MDlLUW1wTUY3aDF3dzIyQWZrN09keVRCUGk1RVRiRFJ4OHpIdkRtcEprcW1UcmpZZlpDb1RoZDVHek5hbTFSX3hDOUFONU1GZUpQdkd3d0Qyc0pBd0gtX2tfX0h3?oc=5",
-          "title": "사티아 나델라 마이크로소프트 CEO “코파일럿을 업무를 위한 새로운 OS로 만들고 있다…”",
-          "date": "2026-09-27"
-        }
-      ],
-      "date": "2026-09-28",
-      "id": "20260928-07"
-    },
-    {
-      "cat": "market",
-      "importance": "mid",
-      "company": "아마존",
-      "title": "빅테크의 AI 인재난에 퇴직자 재고용 '부메랑 채용' 확산",
-      "body": "아마존 등 글로벌 빅테크 기업들이 대규모 감원 이후 AI 핵심 역량 확보를 위해 퇴직했던 인재들을 다시 불러들이는 '부메랑 채용'에 집중하고 있어요.",
-      "insight": "AI 전문 인력 유치 경쟁 속에서 조직 문화와 시스템을 이미 이해하고 있는 퇴직 알럼나이가 효율적인 인재 풀이 될 수 있어요.",
-      "action": "퇴사자 네트워크(Alumni) 관리 방안을 수립하고, 재입사 정책 및 온보딩 패스트트랙 제도를 기획해 보세요.",
+      "company": "오프피스트",
+      "title": "핵심 인재를 파트타임 조각으로 고용하는 시대",
+      "body": "풀타임 고용 대신 고위급 전문가나 특정 역량을 갖춘 핵심 인재를 프로젝트 단위나 파트타임(Fractional) 형태로 유연하게 고용하는 방식이 확산되고 있어요.",
+      "insight": "희소 인력 확보가 어려운 이커머스 신사업이나 테크 분야에서 고정 인건비 부담을 낮추면서 최고급 전문성을 수혈할 대안이 돼요.",
+      "action": "단기 고난도 테크 과제나 글로벌 진출 프로젝트에 파트타임 자문/프랙셔널 C레벨 활용 가능성을 검토해 보세요.",
       "teams": [
         "채용",
         "인사기획"
       ],
       "tags": [
-        "부메랑채용",
-        "알럼나이",
-        "AI인재",
-        "인재영입",
-        "경력채용"
+        "조각고용",
+        "유연인력",
+        "외부전문가",
+        "인재확보"
       ],
       "our_group": false,
       "sources": [
         {
-          "name": "메디컬투데이",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBsbGR4VllpUHZ1SnlJZmpKLUNfZWcxYkVIM0hzYVJVXzd4S1BlWlZZUW50QTZONnR6enF0dDg3MFZTc1NmZ2xZV0xxVEFVZnE5MXFKWnA0ZHN4emttM3M0blFpUzZKNVNPRGdYZw?oc=5",
-          "title": "\"다시 돌아와달라\"…아마존(AMZN.O), AI 인재 '부메랑 채용' 나섰다",
+          "name": "오프피스트",
+          "url": "https://www.offpiste.ai/articles/-hr-인사이트---14-분수령hf-핵심-인재를-조각으로-고용하는-시대-2461",
+          "title": "hr 인사이트   14 분수령hf 핵심 인재를 조각으로 고용하는 시대",
           "date": "2026-09-28"
         },
         {
-          "name": "미주조선일보",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA5RkNlWmw3eUxUTzV0Nm9tRlFhVEJUNU8wb0NwUjZpZUZMOVpMZlFMbkQycDhJR2JCT21NQXdYNXJRbmhzWk1zSW1ITWVEYnhKR0V2ZTlvWmVCemZCbGhxaG5Wd2RuOVRUUW03ZnVQdVhYcURPYkE?oc=5",
-          "title": "3만명 감원 아마존, 인력난에 해고자 '부메랑' 채용",
-          "date": "2026-09-27"
+          "name": "오프피스트",
+          "url": "https://www.offpiste.ai/articles/같은-경력도-서로-다른-맥락에서-만들어져요-2453",
+          "title": "같은 경력도 서로 다른 맥락에서 만들어져요",
+          "date": "2026-09-28"
         },
         {
-          "name": "Vietnam.vn",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMVNfUEZSRzEyR2t5Y0ZqWHp1Sk8xbDR6S2xESWc5enlOSE1QYllORG8yRFdhcWxQcGVjS0syNVRiU1VZTjYyc3U2TmVYRmhfaGpXV2tMM2ZSdElpMFUwdl9XSmQ1MHJvbDhiMGdiYVRVaEJfZHpKTXlGR2g5VE92QTdQTHFLYm8?oc=5",
-          "title": "아마존이 3만 명을 해고한 후, 이전 직원들을 재고용하고 있습니다.",
-          "date": "2026-09-27"
-        },
-        {
-          "name": "서울경제",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB4QVc1OXhDNnlyVmRqbmJIYWUzd2FQUFpWYzF1UTExd0xoSVY0MWZLT2dvaHFvMVNpRUh1Qmk2b0VuWDk3UndqRHU3S2JYTlhUYWc?oc=5",
-          "title": "‘AI가 일자리 줄인다’는 통념, 아마존·구글서는 깨졌다",
-          "date": "2026-09-27"
+          "name": "오프피스트",
+          "url": "https://www.offpiste.ai/articles/프로필에-없는-경험을-흔적으로-찾아가는-방법-2443",
+          "title": "프로필에 없는 경험을 흔적으로 찾아가는 방법",
+          "date": "2026-09-28"
         }
       ],
       "date": "2026-09-28",
@@ -415,20 +427,19 @@
       "cat": "market",
       "importance": "mid",
       "company": "업계 전반",
-      "title": "AI 도입으로 변화하는 신입 채용 방식과 직무 중심 전환",
-      "body": "금융권 및 대기업을 중심으로 자소서를 폐지하고 AI 기반 역량 평가를 도입하거나, 단순 스펙보다 직무경험 중심 수시 채용으로 전환하는 흐름이 뚜렷해요.",
-      "insight": "생성형 AI로 인해 기존 서류 전형의 변별력이 낮아져 실무 과제와 문제해결력을 직접 검증하는 평가 설계가 필수적이에요.",
-      "action": "다나와·메이크샵 등 주요 직군 채용 시 포트폴리오 및 직무 실기 과제 중심의 선발 평가표를 업데이트해 보세요.",
+      "title": "AI 도구 확산에 자소서 폐지 늘고 주니어 채용 축소 고민",
+      "body": "금융권과 주요 기업들이 생성형 AI 대필 확산으로 자소서를 폐지하거나 약식화하고 있으며, 기업 52%가 주니어 인력 채용 축소를 고민 중이라는 조사가 나왔어요.",
+      "insight": "단순 서류 평가의 실효성이 급감함에 따라 실무 역량 과제와 심층 면접 중심의 선발 도구 고도화가 필수적이에요.",
+      "action": "개발·기획 직군의 서류 전형 평가 항목을 간소화하고 실무 코딩 테스트 및 포트폴리오 검증 비중을 높여 보세요.",
       "teams": [
         "채용",
         "인사기획"
       ],
       "tags": [
-        "채용트렌드",
         "AI채용",
-        "직무중심",
-        "공채축소",
-        "역량평가"
+        "자소서폐지",
+        "주니어채용",
+        "선발도구"
       ],
       "our_group": false,
       "sources": [
@@ -443,25 +454,108 @@
           "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE82Rkx4aDJ6VDJxV0RoSFJOam1XU1VubE1lNGFmdWxkdmpjaldBbi0zclRjd2xtRFJRb0ltcl9qZUZxUTBuckFaSlNuQlZHcUI0VmNrRVY0NUNQa2NkSDFhMA?oc=5",
           "title": "[빅테크칼럼] AI가 ‘신입의 사다리’를 걷어찼다…기업 52% “주니어 채용 줄인다”",
           "date": "2026-09-26"
-        },
-        {
-          "name": "뉴스피릿",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE41MzVyZWU5OEJUS2pRcE5oNE9kRWR0V1BVVUlGRTkwdi1LbmZSOWRXV0oxYmxEQzE0OFhJdmJCRnhVQ1NTLTdlR3dVUTQwQmVfa2VieW9teGxEOGxpelBNTmhkZ0hWQWd2bFlr?oc=5",
-          "title": "[데스크pick]포스코·현대중공업, 채용이 달라졌다...‘스펙’보다 직무경험·AI 활용 평가",
-          "date": "2026-09-26"
         }
       ],
       "date": "2026-09-28",
-      "id": "20260928-08"
+      "id": "20260928-03"
+    },
+    {
+      "cat": "labor",
+      "importance": "mid",
+      "company": "오프피스트",
+      "title": "수습기간 운영 기준과 본채용 거부 적법성 관리",
+      "body": "수습기간 중 객관적이고 합리적인 평가 기준 없이 본채용을 거부할 경우 부당해고 판정을 받을 수 있어 명확한 목표 부여와 피드백 절차 운영이 강조돼요.",
+      "insight": "수습 통과는 형식적 절차가 아니며 정량·정성 평가 근거와 중간 면담 피드백 기록이 노무 리스크 방어의 핵심이에요.",
+      "action": "그룹사 신규 입사자 수습 3개월 평가 양식과 피드백 면담 기록 프로세스를 재정비해 보세요.",
+      "teams": [
+        "노무·ER",
+        "채용"
+      ],
+      "tags": [
+        "수습기간",
+        "본채용거부",
+        "평가관리",
+        "부당해고"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "오프피스트",
+          "url": "https://www.offpiste.ai/articles/수습기간-운영-2442",
+          "title": "수습기간 운영",
+          "date": "2026-09-28"
+        }
+      ],
+      "date": "2026-09-28",
+      "id": "20260928-07"
+    },
+    {
+      "cat": "ecom",
+      "importance": "mid",
+      "company": "컬리",
+      "title": "컬리, 퀵커머스 'N마트' 담당 조직을 '본부'로 격상",
+      "body": "컬리가 도심형 물류 기반 퀵커머스 서비스인 N마트 사업 조직을 기존 팀 단위에서 본부 조직으로 격상하며 신사업 추진 동력을 강화했어요.",
+      "insight": "이커머스 업계가 퀵커머스와 신선식품 배송 고도화를 위해 조직 체계를 기민하게 재편하고 있어요.",
+      "action": "경쟁사의 신사업 조직 체계 및 인력 구성을 모니터링하여 그룹 내 신사업 조직 개편 시 참고해 보세요.",
+      "teams": [
+        "인사기획"
+      ],
+      "tags": [
+        "컬리",
+        "조직개편",
+        "본부승격",
+        "퀵커머스"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "비즈니스포스트",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5jTVlJRVAyaEJBbVFNZnN5YXI1aDdBeUhtVnNRNGdteHJnaWdRSTZlVXZrZHNtSGh0bC1RaHY0azl0VW9pRFdZd1dvQjhWdjJhUTdXWFp5TmxNTUxBS3h2OUM2b09MU3NJTUdHbjJ1UjlaR2s?oc=5",
+          "title": "컬리 N마트 담당 조직도 '본부'로 격상, 김슬아 덩치 커진 신사업 존재감 높인다",
+          "date": "2026-09-28"
+        }
+      ],
+      "date": "2026-09-28",
+      "id": "20260928-09"
+    },
+    {
+      "cat": "market",
+      "importance": "mid",
+      "company": "업계 전반",
+      "title": "구직자 80% \"연봉 몰라 지원 포기… 임금 공개 찬성\"",
+      "body": "구직자 대상 설문조사 결과 절반이 연봉 정보가 불투명해 지원을 포기한 적이 있으며, 10명 중 8명은 채용 공고 내 임금 공개 의무화에 찬성했어요.",
+      "insight": "보상 투명성이 인재 영입의 핵심 매력도로 부상함에 따라 숨김 전략보다 밴드 공개가 지원율 제고에 유리해요.",
+      "action": "채용 공고상 직무별 예상 연봉 밴드나 처우 수준 가이드를 선제적으로 공개하는 방안을 논의해 보세요.",
+      "teams": [
+        "채용",
+        "보상·복리후생"
+      ],
+      "tags": [
+        "임금공개",
+        "채용브랜딩",
+        "보상투명성",
+        "구직자인식"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB2SVZGMlRGUWFJczRncVZnVnlKUEdCZGdLVzVYQTZmeEtiR3Z5bXNxSFoxSlAxSlhyUXQyRmNmOHZTR1I4OUJmS2ktWlpRSXM?oc=5",
+          "title": "구직자 절반 “연봉 몰라 지원 포기”…10명 중 8명, 임금 공개 의무화 ‘찬성’",
+          "date": "2026-09-27"
+        }
+      ],
+      "date": "2026-09-27",
+      "id": "20260928-10"
     },
     {
       "cat": "trend",
-      "importance": "mid",
+      "importance": "low",
       "company": "삼성전자",
-      "title": "성과급 산정 기준과 육아휴직 포기 속출의 딜레마",
-      "body": "대규모 성과급 지급 시기와 맞물려 육아휴직 시 발생하는 손실을 감안해 휴직을 미루거나 포기하는 직원이 급증하는 현상이 발생하고 있어요.",
-      "insight": "성과급 제도가 모성보호 및 일·가정 양립 제도 활용을 저해하지 않도록 정교한 평가 및 보상 설계가 필요해요.",
-      "action": "육아휴직 복직자 및 휴직 기간에 대한 성과평가·인센티브 산정 규정이 모성보호 취지에 부합하는지 보상 제도를 검토해 보세요.",
+      "title": "\"성과급 받을래\" 육아휴직 포기 속출… 보상 제도 딜레마",
+      "body": "삼성전자·SK하이닉스 등 대기업에서 대규모 성과급 지급 시기를 앞두고 육아휴직을 미루거나 포기하는 직원이 급증하는 현상이 발생하고 있어요.",
+      "insight": "근무 일수 비례 성과급 지급 기준이 일·가정 양립 제도 사용을 위축시키는 구조적 충돌을 보여줘요.",
+      "action": "모성보호 휴직자 대상 성과급·평가 불이익 방지 규정이 실효성 있게 작동하는지 점검해 보세요.",
       "teams": [
         "보상·복리후생",
         "조직문화·HRD"
@@ -469,9 +563,8 @@
       "tags": [
         "성과급",
         "육아휴직",
-        "보상제도",
         "일가정양립",
-        "조직문화"
+        "보상설계"
       ],
       "our_group": false,
       "sources": [
@@ -489,81 +582,72 @@
         }
       ],
       "date": "2026-09-28",
-      "id": "20260928-04"
+      "id": "20260928-11"
     },
     {
       "cat": "trend",
       "importance": "low",
-      "company": "오프피스트",
-      "title": "핵심 인재의 파편화 고용과 성과 중심 인력 운영 전략",
-      "body": "핵심 인재를 풀타임 정규직뿐만 아니라 모듈형·파트타임 형태로 활용하는 프랙셔널(Fractional) 고용과 성과 중심 채용 관점이 주목받고 있어요.",
-      "insight": "이커머스 신사업 런칭이나 일시적 고난도 기술 과제 해결 시 고비용 정규직 외에 외부 전문가를 유연하게 활용하는 제도가 유리해요.",
-      "action": "전문 컨설턴트 및 프리랜서 전문가 풀을 구축하고 이를 활용할 수 있는 단기 프로젝트 계약 가이드를 마련해 보세요.",
-      "teams": [
-        "인사기획",
-        "채용"
-      ],
-      "tags": [
-        "프랙셔널",
-        "핵심인재",
-        "성과중심채용",
-        "유연근무",
-        "인재소싱"
-      ],
-      "our_group": false,
-      "sources": [
-        {
-          "name": "오프피스트",
-          "url": "https://www.offpiste.ai/articles/-hr-인사이트---14-분수령hf-핵심-인재를-조각으로-고용하는-시대-2461",
-          "title": "hr 인사이트   14 분수령hf 핵심 인재를 조각으로 고용하는 시대",
-          "date": "2026-09-28"
-        },
-        {
-          "name": "오프피스트",
-          "url": "https://www.offpiste.ai/articles/프로필에-없는-경험을-흔적으로-찾아가는-방법-2443",
-          "title": "프로필에 없는 경험을 흔적으로 찾아가는 방법",
-          "date": "2026-09-28"
-        },
-        {
-          "name": "오프피스트",
-          "url": "https://www.offpiste.ai/articles/채용-사람을-뽑는-것이-아니라-성과를-뽑아라-2441",
-          "title": "채용 사람을 뽑는 것이 아니라 성과를 뽑아라",
-          "date": "2026-09-28"
-        }
-      ],
-      "date": "2026-09-28",
-      "id": "20260928-09"
-    },
-    {
-      "cat": "ecom",
-      "importance": "low",
-      "company": "컬리",
-      "title": "컬리, 퀵커머스 '컬리 N마트' 조직을 '본부'로 격상",
-      "body": "컬리가 도심형 퀵커머스 및 신사업을 전담하는 '컬리 N마트' 조직을 본부 단위로 격상하며 신사업 집중 육성에 나섰어요.",
-      "insight": "경쟁 이커머스 기업들이 신사업 성장세에 맞춰 기민하게 사업부를 승격하고 자원을 재배치하는 조직 설계를 단행하고 있어요.",
-      "action": "그룹 내 핵심 신사업 부서의 인력 구성 비율과 직급 구조를 점검하고 적정 리더십 체계가 갖춰졌는지 진단해 보세요.",
+      "company": "소니",
+      "title": "日 소니 반도체 8천 명 등 글로벌 기업 출근(RTO) 전환",
+      "body": "소니 반도체 부문이 임직원 8천 명을 대상으로 주 5일 전원 사무실 출근을 결정하는 등 일본과 글로벌 기업들의 재택 축소 흐름이 지속되고 있어요.",
+      "insight": "협업과 몰입도 제고를 이유로 RTO가 확산되고 있으나 일방적 전환 시 우수 인력의 반발과 이탈이 우려돼요.",
+      "action": "사무실 출근과 원격 근무의 효과성을 평가하고 유연근무제가 직원 몰입에 미치는 영향을 추적해 보세요.",
       "teams": [
         "인사기획",
         "조직문화·HRD"
       ],
       "tags": [
-        "컬리",
-        "퀵커머스",
-        "조직개편",
-        "조직설계",
-        "신사업"
+        "사무실복귀",
+        "RTO",
+        "유연근무",
+        "조직문화"
       ],
       "our_group": false,
       "sources": [
         {
-          "name": "비즈니스포스트",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5jTVlJRVAyaEJBbVFNZnN5YXI1aDdBeUhtVnNRNGdteHJnaWdRSTZlVXZrZHNtSGh0bC1RaHY0azl0VW9pRFdZd1dvQjhWdjJhUTdXWFp5TmxNTUxBS3h2OUM2b09MU3NJTUdHbjJ1UjlaR2s?oc=5",
-          "title": "컬리 N마트 담당 조직도 '본부'로 격상, 김슬아 덩치 커진 신사업 존재감 높인다",
+          "name": "yna.co.kr",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE02eldpLWpvVVFOMm83VHFORmlLMWxKcVV4OXgwTnhvUGRLZi03Q3pBVVVRbHJSOWcyakxKelZUb214aDVnUmVOMUQtZmg4cXNnXzNlRFhSVEpPSFJhMXdPVdIBYEFVX3lxTE02eldpLWpvVVFOMm83VHFORmlLMWxKcVV4OXgwTnhvUGRLZi03Q3pBVVVRbHJSOWcyakxKelZUb214aDVnUmVOMUQtZmg4cXNnXzNlRFhSVEpPSFJhMXdPVQ?oc=5",
+          "title": "日기업 '재택→출근' 잇따라…소니 반도체도 8천명 사무실로",
+          "date": "2026-09-27"
+        },
+        {
+          "name": "아시아경제",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNN1FhZ002V1RnVHR4ZkpRMFVHUUFqTnJiOHpjR1NoMEM3dzZfRjRvM0wzbDhrVVVENG1GTkNmeFJ6UXdrN0h6ekVkUXFUOUdyR3NuVXkzekJmTUV4cDU5WmFJVVhWVzR2aDlac3BOak5TbzItLUVoQ0t6cUoxUlQwQ2xB?oc=5",
+          "title": "\"이제 출근 하세요\"…日기업 사무실 복귀 확산에 소니 반도체도 합류",
+          "date": "2026-09-27"
+        }
+      ],
+      "date": "2026-09-27",
+      "id": "20260928-12"
+    },
+    {
+      "cat": "ecom",
+      "importance": "low",
+      "company": "다우기술",
+      "title": "다우기술, 쇼핑몰 통합관리 '사방넷 2.0' 선보여",
+      "body": "다우기술이 이커머스 페어에서 UI/UX를 개선하고 데이터 분석 기능을 고도화한 셀러 솔루션 '사방넷 2.0'을 공개했어요.",
+      "insight": "플레이오토의 주요 경쟁사인 사방넷이 솔루션 업그레이드를 통해 셀러 락인을 강화하고 있어 기술 인력 동향 확인이 필요해요.",
+      "action": "경쟁 셀러 솔루션 기업의 테크 조직 규모 및 개발 직군 채용 현황을 벤치마킹해 보세요.",
+      "teams": [
+        "인사기획"
+      ],
+      "tags": [
+        "사방넷",
+        "플레이오토",
+        "셀러솔루션",
+        "경쟁자동향"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "지디넷코리아",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5IZXBQeVJRamhWSTVpSEt1T1lkTzlscnFCZXp2dmstdE5WZGJYUy04NzdjWUdoajdmNHVLSFZKaXVOLUk1Um9VZDAxcmlVWmZWMUNRTWl3?oc=5",
+          "title": "다우기술, 코리아 이커머스페어서 ‘사방넷 2.0’ 선보여",
           "date": "2026-09-28"
         }
       ],
       "date": "2026-09-28",
-      "id": "20260928-10"
+      "id": "20260928-13"
     }
   ]
 }
