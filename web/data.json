@@ -2,7 +2,7 @@
  "meta": {
   "site_title": "커넥트웨이브 HR 레이더",
   "site_subtitle": "HR실 데일리 인텔리전스 브리핑",
-  "repo_url": "",
+  "repo_url": "https://github.com/jinny57/cw-hr",
   "teams": [
    "채용",
    "인사기획",
@@ -46,33 +46,37 @@
     "desc": "국내·외국계 대기업의 채용 캠페인·EVP·인재상·복지 발표"
    }
   ],
-  "updated": "2026-09-28T16:38+09:00"
+  "updated": "2026-09-28T16:58+09:00"
  },
  "reports": [
   {
    "date": "2026-09-28",
    "window_days": 3,
-   "article_count": 43,
-   "headline": "AI 분석 없이 수집된 기사만 보여드려요",
-   "points": [],
+   "article_count": 300,
+   "headline": "오늘은 AI 분석이 실패해 제목 기준으로만 골랐어요",
+   "points": [
+    "수집 기사 300건 중 HR 관련 단어가 있는 25건만 올렸어요",
+    "시사점·팀 태그 없이 기사 제목만 보여드려요"
+   ],
+   "analysis_error": "Gemini HTTP 404 모델 이름()을 찾을 수 없어요 — GEMINI_MODEL 변수를 확인해 주세요\n",
    "items": [
     {
      "id": "20260928-f00",
      "cat": "market",
      "importance": "low",
      "teams": [],
-     "company": "매일일보",
-     "title": "추석 기대감에도 체감경기는 ‘냉랭’… 中企 비용·자금 부담 지속",
-     "body": "추석 기대감에도 체감경기는 ‘냉랭’… 中企 비용·자금 부담 지속 매일일보",
+     "company": "국제신문",
+     "title": "국가철도공단, 신입·경력직·청년인턴 등 184명 공개 채용",
+     "body": "국가철도공단, 신입·경력직·청년인턴 등 184명 공개 채용 국제신문",
      "insight": "",
      "action": "",
      "tags": [],
      "our_group": false,
      "sources": [
       {
-       "name": "매일일보",
-       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAxaGd1MFFic2REbm1YU19XU2lobUc1bWFJR0pXbTluM3JaYjJDWXhhbkxXWEg1SlhpcEZtVmtMTUdkSTBmMGhGMEhIdVlyQ0ZPZFM0cDdFa0lvZkhDdU16b1Zzc0zSAWhBVV95cUxOa3hnQVVrcjBQMndnYXBZYzZqWS13OU1CUUxVeE9WY2NNcjRtZmVWWl9LbkNMelNwZXdBVmNUSmtTUlRIUXpRR0YwWExVMHp0cVNXOGR6RzlkMy1VaUczSlFrZl85NU1rRA?oc=5",
-       "title": "추석 기대감에도 체감경기는 ‘냉랭’… 中企 비용·자금 부담 지속",
+       "name": "국제신문",
+       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOaVU3c2xzQ0k0UnB6S01WMVd5WkxydDA0dkNhem01c1FNbG5JRG5XR0lRdHhoSUJWOXdoTTY2c2VVOTJWbWZ1NUQ0QVNPYkpNRkMzdmZlcnpSengtaGlfNlpOa1N3cHpjanAzRW12UFdPWFBfNTE1NlBjOFI0ZWhCbzY5a3hqeXc5SXVYckx3?oc=5",
+       "title": "국가철도공단, 신입·경력직·청년인턴 등 184명 공개 채용",
        "date": "2026-09-28"
       }
      ],
@@ -83,18 +87,18 @@
      "cat": "market",
      "importance": "low",
      "teams": [],
-     "company": "Chosunbiz",
-     "title": "중소 제조·서비스업 생산 늘었지만…회복세 둔화 - 조선비즈",
-     "body": "중소 제조·서비스업 생산 늘었지만…회복세 둔화 - 조선비즈 Chosunbiz",
+     "company": "한국보험신문",
+     "title": "신협, 2027년 신입직원 공채 실시… 일반·IT직군 채용",
+     "body": "신협, 2027년 신입직원 공채 실시… 일반·IT직군 채용 한국보험신문",
      "insight": "",
      "action": "",
      "tags": [],
      "our_group": false,
      "sources": [
       {
-       "name": "Chosunbiz",
-       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNFdLQ2k3X051czdpV0wtMlNPMjMteHNOa0ZHM2ZrdElVMnF3RGpsTUtwS3VhdGotUFp4dVhoNlE3LTZjaGhOd2Q2QmhKT3lhTmx1YmYySHJneTN3ZkI5alF3TUJKQ0NrM3lJWnF4S0hBX1d6a1VOLXZHeDVzX01zem83OFBYam5keU9JclhWbHTSAaQBQVVfeXFMT1JnNnlYVnRHbVJaekNQRi1hSXhmZHMyUmtzVlVUaVZGc1NFYm9GeVNyQ2R6YUNacHJlN01xc1VOSWFSaTVZRHVxUzFfYUNEYU1hSW1GdS1EYUY4TDBYSGo2Vm95a2NvZFBnb1Q4SGphQnlrTVhhWUtuem1hRElYNkJaMFJVQ1ZYWjJFQUZjT0VXdHdrNDJmSHNwQ2lyLWFpLVhsa3E?oc=5",
-       "title": "중소 제조·서비스업 생산 늘었지만…회복세 둔화 - 조선비즈",
+       "name": "한국보험신문",
+       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5QeC10bndxV2J6eTJxVmNuaUN3cW1XaU9WclkyWWZYWTMxYk9NMVBySExRTHV2V1lYUFJXSW5TYlZmVkVESzZpMm0wczdQSEFESlBsQklEY29iZVFIa1piYy02dWIyRmFYaGZr0gFvQVVfeXFMUFhZbXhNUkc0U0VXakJKd0xETFJVYVNPZWZzS1RzMzVGSV9XdUkybUNzZm1QdGJETWczbVI4NU1yLUplSFZWQkpOemxGV2NqNGUtUUFJUERYejZPYjNEcE5oQVdiN0RpenNrVWNuTzYw?oc=5",
+       "title": "신협, 2027년 신입직원 공채 실시… 일반·IT직군 채용",
        "date": "2026-09-28"
       }
      ],
@@ -105,18 +109,18 @@
      "cat": "market",
      "importance": "low",
      "teams": [],
-     "company": "워터저널",
-     "title": "[대전시] 미세먼지 불법배출 민간환경감시단 채용",
-     "body": "[대전시] 미세먼지 불법배출 민간환경감시단 채용 워터저널",
+     "company": "뉴데일리",
+     "title": "국가철도공단, 하반기 184명 채용 … 신입·경력직부터 청년인턴까지",
+     "body": "국가철도공단, 하반기 184명 채용 … 신입·경력직부터 청년인턴까지 뉴데일리",
      "insight": "",
      "action": "",
      "tags": [],
      "our_group": false,
      "sources": [
       {
-       "name": "워터저널",
-       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5DOURZbTBJTklQZG1DMk5YSnJzN0NiV2REYllCYkZtQW5KQVA1UDlkZUI2ZGRUcDRzdGlsRjRsYmZYMEk0T0NBZGpNbTJMajg2bUhpbV9JellVeVlqV1RMbkxwdlM1cjlEQXoycUNscjZ6d9IBdkFVX3lxTE05cTFJSnM0R1N3TkwxSnlWMmVQa25PV0R5eUt4U01tX0EzTzJhQU9tRW5ZMjdMQXZqODh4eEQ3UE1FYkNnRnhfTUVGZG82V1d3WDMxdm1uenZSUnNFbDlCbmRYTFpON2diQzZyVEx6cnlMal9Ka3c?oc=5",
-       "title": "[대전시] 미세먼지 불법배출 민간환경감시단 채용",
+       "name": "뉴데일리",
+       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBmT3ZRdFNUSUtZVW1QYU5Jb2JkWHRLME1SVDJQUEpkWXJVcjlkZFNmUklZV094QkRra3JPaWx3NkxKaGoxYkhaMmhVdGpHVHgtWUR5UXpoUF9JNHBLUEJ2dm5GR0tRNmNYb1MzSTZIZXJYTThaWjgwNUtURdIBgAFBVV95cUxQZXBmTEFMUFJ5d2hkLXBXTVYxeWN1RUtQanZZUlgzS2tqUjc2MmI3emREcjM1UEh0amVUQ0plelVrd1pWM3pSUUR1eG8xVzBsaEFIbjl0WTJWUm5MV2VSbEY3NE1ES3pFTEhxMjBTR2hqU1JzdDhsb3BrNzBzRzRmQw?oc=5",
+       "title": "국가철도공단, 하반기 184명 채용 … 신입·경력직부터 청년인턴까지",
        "date": "2026-09-28"
       }
      ],
@@ -127,18 +131,18 @@
      "cat": "market",
      "importance": "low",
      "teams": [],
-     "company": "edumorning.com",
-     "title": "[2026년 교육 동향 AI Agent 3부] 연구와 업무 과정에 연결되는 학습이 커진다",
-     "body": "[2026년 교육 동향 AI Agent 3부] 연구와 업무 과정에 연결되는 학습이 커진다 edumorning.com",
+     "company": "물류신문",
+     "title": "한국선급, 2026년 제2차 신입 및 경력직원 공채",
+     "body": "한국선급, 2026년 제2차 신입 및 경력직원 공채 물류신문",
      "insight": "",
      "action": "",
      "tags": [],
      "our_group": false,
      "sources": [
       {
-       "name": "edumorning.com",
-       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5OMkVCY1QtcTZQYlpwTTdLaDN6cUs0VWEyNWRhckk1MGJabkx6RVUxY1pReHpFY0MtbjRmUFhySkZFR2NMQnVtRWw2cmQ?oc=5",
-       "title": "[2026년 교육 동향 AI Agent 3부] 연구와 업무 과정에 연결되는 학습이 커진다",
+       "name": "물류신문",
+       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1SNlVKcXFrcEsxWVZiRkc3NEVlSGdqNG44T1VFUnQ2cGdXRVJvandiUm50c1NOeVZ1MFd1RUdpQXp1Z1g1SUFka0I5MFhRRWx4cEY5YVNqMDFwTl9OYVNxbVNheDM5UWU3SF9v?oc=5",
+       "title": "한국선급, 2026년 제2차 신입 및 경력직원 공채",
        "date": "2026-09-28"
       }
      ],
@@ -149,18 +153,18 @@
      "cat": "market",
      "importance": "low",
      "teams": [],
-     "company": "얼리어답터뉴스",
-     "title": "2026년 8·9월 미국 노동시장: 서비스업 고용 급증·IT 감소 속 구직 경쟁 심화",
-     "body": "2026년 8·9월 미국 노동시장: 서비스업 고용 급증·IT 감소 속 구직 경쟁 심화 얼리어답터뉴스",
+     "company": "뉴스1",
+     "title": "철도공단, 하반기 신입·경력직·청년인턴 등 184명 채용 예정",
+     "body": "철도공단, 하반기 신입·경력직·청년인턴 등 184명 채용 예정 뉴스1",
      "insight": "",
      "action": "",
      "tags": [],
      "our_group": false,
      "sources": [
       {
-       "name": "얼리어답터뉴스",
-       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE95NkF1UFVFVmRJNmVxai1fWWxQMkYtTXNfMEw5N2FVTERzSWl0LVMxeE12RU5PWjB1MTRzbDg0MUtoU3B6dTEzSXlR?oc=5",
-       "title": "2026년 8·9월 미국 노동시장: 서비스업 고용 급증·IT 감소 속 구직 경쟁 심화",
+       "name": "뉴스1",
+       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE80NWJWbmE3c3lPSnRpYTJUZURpTDFSclkyWDNkRDhaaW8wTDNyZzdWY09TQXZuUVBCb21pRkRTM1QwdjY1TDVaZVlrYXlmSVU3YXdRenA2NWM1aTlJbVlmSk10c1RGZ9IBZkFVX3lxTE80NWJWbmE3c3lPSnRpYTJUZURpTDFSclkyWDNkRDhaaW8wTDNyZzdWY09TQXZuUVBCb21pRkRTM1QwdjY1TDVaZVlrYXlmSVU3YXdRenA2NWM1aTlJbVlmSk10c1RGZw?oc=5",
+       "title": "철도공단, 하반기 신입·경력직·청년인턴 등 184명 채용 예정",
        "date": "2026-09-28"
       }
      ],
@@ -171,18 +175,18 @@
      "cat": "market",
      "importance": "low",
      "teams": [],
-     "company": "아시아경제",
-     "title": "추석 기대감 '최고조'에도…소상공인·전통시장 체감경기 '뚝'",
-     "body": "추석 기대감 '최고조'에도…소상공인·전통시장 체감경기 '뚝' 아시아경제",
+     "company": "한겨레",
+     "title": "‘1980년생 이하·특정 대학 출신’ 채용…한화에어로 “명백한 과오”",
+     "body": "‘1980년생 이하·특정 대학 출신’ 채용…한화에어로 “명백한 과오” 한겨레",
      "insight": "",
      "action": "",
      "tags": [],
      "our_group": false,
      "sources": [
       {
-       "name": "아시아경제",
-       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ucjNvakJhZ0daOUVCYmZvaWtHd2k3elQyZjRicnl4TW5idFh3QlQwUFYxX0RWalAxRS1CeUlxYzlpVVFVRmtUR0YyU0U5dHFNbHNDZkJxVDg1MlJGRmI3MQ?oc=5",
-       "title": "추석 기대감 '최고조'에도…소상공인·전통시장 체감경기 '뚝'",
+       "name": "한겨레",
+       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBHVUktQXJrUm14RWt1Z0o1MFVBX3N2S2NTajVxbFdUWnp1OC1mM1YzbGNMc2RuZlJuUVVyQ21keDRudEZXTDJDYmFWajd0ZlNRSnIyYVRYQTltcGY1Z3NtbENoNmxqZm5qUXBHX1ZzdUtEdw?oc=5",
+       "title": "‘1980년생 이하·특정 대학 출신’ 채용…한화에어로 “명백한 과오”",
        "date": "2026-09-28"
       }
      ],
@@ -193,18 +197,18 @@
      "cat": "market",
      "importance": "low",
      "teams": [],
-     "company": "인디포커스",
-     "title": "인천시, 8월 주택 매매가격 하락 전환… 전·월세는 상승세 지속",
-     "body": "인천시, 8월 주택 매매가격 하락 전환… 전·월세는 상승세 지속 인디포커스",
+     "company": "dt.co.kr",
+     "title": "공채 줄이고 자소서 없애고…AI가 바꾼 은행권 채용문",
+     "body": "공채 줄이고 자소서 없애고…AI가 바꾼 은행권 채용문 dt.co.kr",
      "insight": "",
      "action": "",
      "tags": [],
      "our_group": false,
      "sources": [
       {
-       "name": "인디포커스",
-       "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9WaGNDVXY1ckJyY3NXWjdEOEFfemNXSmRrZUxlVC1XRWVYb1kteVU4VmZTVS1DSko3OXhnVDBYZkJ6ZkE?oc=5",
-       "title": "인천시, 8월 주택 매매가격 하락 전환… 전·월세는 상승세 지속",
+       "name": "dt.co.kr",
+       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9PNGJhcGdSbzd1VGlYWVZnOTFXaVFXc2J6b1ZrVDJvX2lFVllnS2szcFBLb0hZM3BuRWdpSXVESHZJRkdkM3IzNGJiM3ItZw?oc=5",
+       "title": "공채 줄이고 자소서 없애고…AI가 바꾼 은행권 채용문",
        "date": "2026-09-28"
       }
      ],
@@ -215,18 +219,18 @@
      "cat": "market",
      "importance": "low",
      "teams": [],
-     "company": "womannews.net",
-     "title": "서영석 의원, 아동학대전담인력 권고기준 초과 시군구 71곳…아동학대 대응 체계 개선 필요성 강조",
-     "body": "서영석 의원, 아동학대전담인력 권고기준 초과 시군구 71곳…아동학대 대응 체계 개선 필요성 강조 womannews.net",
+     "company": "부산일보",
+     "title": "국가철도공단 신입·경력직 103명 채용…청년인턴 80명도 모집",
+     "body": "국가철도공단 신입·경력직 103명 채용…청년인턴 80명도 모집 부산일보",
      "insight": "",
      "action": "",
      "tags": [],
      "our_group": false,
      "sources": [
       {
-       "name": "womannews.net",
-       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBObzZlQnpPZ05va0JkaVhHaU5pRmNsOVRRWFJxQjNQN2hMazY2Mnc4bGVkMDduR3Q1Y3gxOHVYNGZxRE95cTRDMmV0alpSclJ5dHNaMDNaZk83Zm5jZkU0UUprSFpndjByNUhLdGt3aw?oc=5",
-       "title": "서영석 의원, 아동학대전담인력 권고기준 초과 시군구 71곳…아동학대 대응 체계 개선 필요성 강조",
+       "name": "부산일보",
+       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5kQWh4ZG9Vclc0T3Flb0VrRmp3OEh4eE95NFAwR3VXMU9UMW9FR2ExTnBWTnFKRkdnRjI4X0Z3clFnYkh0UHVRQlJhSmFxTVBXcFhQRFJMb2kxMk8wTkw4T2JvdVQtNDYwM0pRLWdMZDFsNlptaDEycjVERQ?oc=5",
+       "title": "국가철도공단 신입·경력직 103명 채용…청년인턴 80명도 모집",
        "date": "2026-09-28"
       }
      ],
@@ -237,16 +241,60 @@
      "cat": "market",
      "importance": "low",
      "teams": [],
-     "company": "news.ifm.kr",
-     "title": "CJ, 하반기 신입 공채 40% 확대…대기업 채용시장에 '활기'",
-     "body": "CJ, 하반기 신입 공채 40% 확대…대기업 채용시장에 '활기' news.ifm.kr",
+     "company": "labortoday.co.kr",
+     "title": "[김선영 공인노무사] 좋은책신사고 노동탄압 피해자, 노무사 된 까닭은",
+     "body": "[김선영 공인노무사] 좋은책신사고 노동탄압 피해자, 노무사 된 까닭은 labortoday.co.kr",
      "insight": "",
      "action": "",
      "tags": [],
      "our_group": false,
      "sources": [
       {
-       "name": "news.ifm.kr",
+       "name": "labortoday.co.kr",
+       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE90N29fZkZWMUV1c01YU19zajBrLXNMNkxoM1NHRTJoRmoySkpnYXl4SWNkeTFxUURmTkh2cjVDZFV1ZGxUbldKbW9Sd3oxRXphd2dsWUFIQ25UdWFSVEhCSVhlUlVZNnJ2N1c5TGRJZUk?oc=5",
+       "title": "[김선영 공인노무사] 좋은책신사고 노동탄압 피해자, 노무사 된 까닭은",
+       "date": "2026-09-28"
+      }
+     ],
+     "date": "2026-09-28"
+    },
+    {
+     "id": "20260928-f09",
+     "cat": "market",
+     "importance": "low",
+     "teams": [],
+     "company": "아시아경제",
+     "title": "남해군, 하반기 수시인사 단행… 실무수습 53명 배치",
+     "body": "남해군, 하반기 수시인사 단행… 실무수습 53명 배치 아시아경제",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "아시아경제",
+       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1rc3VEbGdnUkwxV0Fjc0dfT1ZrSVpRVkdtbWlERlZjbnN3MGdKeHg2czJRRWNVeGlIOUpTNkVEa3AxRUY0OEpfMi1XY0IwY0xWdlZPVS1HdC1OdXFtQjIybEpodVc2VXVlM1E?oc=5",
+       "title": "남해군, 하반기 수시인사 단행… 실무수습 53명 배치",
+       "date": "2026-09-28"
+      }
+     ],
+     "date": "2026-09-28"
+    },
+    {
+     "id": "20260928-f10",
+     "cat": "market",
+     "importance": "low",
+     "teams": [],
+     "company": "경인방송 뉴스",
+     "title": "CJ, 하반기 신입 공채 40% 확대…대기업 채용시장에 '활기'",
+     "body": "CJ, 하반기 신입 공채 40% 확대…대기업 채용시장에 '활기' 경인방송 뉴스",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "경인방송 뉴스",
        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4zSHBTNXBFc09aOFRUUHpiM2U2RWtxLThON2pQUERObHBqYVlmdHdjS1ZTV1ZESDRucGljZWNHcURacFoxNno0X3drM2FnQ2l3UGo3eFNjV1JVZ0dEeUFoMHlXSGTSAWhBVV95cUxNc2pWTnFfM1RxUDl2QWpRZkRQeWFMbTJGR3Q1WWRrZFdaVGVMX1hPM1B4aFEyTmxpQi1jZXdHUHg4M0c5YXlLUURTZXFlbDFHUlZsOE5EaFhvajRLTHcwUjVhc3RQRl9ZSw?oc=5",
        "title": "CJ, 하반기 신입 공채 40% 확대…대기업 채용시장에 '활기'",
        "date": "2026-09-28"
@@ -255,66 +303,22 @@
      "date": "2026-09-28"
     },
     {
-     "id": "20260928-f09",
-     "cat": "labor",
-     "importance": "low",
-     "teams": [],
-     "company": "매일노동뉴스",
-     "title": "[인사] 고용노동부",
-     "body": "[인사] 고용노동부 매일노동뉴스",
-     "insight": "",
-     "action": "",
-     "tags": [],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "매일노동뉴스",
-       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9YMzJ3Q1FkVV9QX1RxSmEwWk11YVcwVnZkclZYWS1zNUNVZmRPRHFvaWZXcUJnWURFX2xwS3o5UDNiOVFPNm5LckhaRGJLNTM2RTBnVkY1WlBjOTJHdHNobWtNQWJDRFMwdGtEWjNvOTQ?oc=5",
-       "title": "[인사] 고용노동부",
-       "date": "2026-09-28"
-      }
-     ],
-     "date": "2026-09-28"
-    },
-    {
-     "id": "20260928-f10",
-     "cat": "labor",
-     "importance": "low",
-     "teams": [],
-     "company": "연합뉴스",
-     "title": "이형일, 첫 경제현안간담회…전기차·퇴직연금 개선 논의",
-     "body": "이형일, 첫 경제현안간담회…전기차·퇴직연금 개선 논의 연합뉴스",
-     "insight": "",
-     "action": "",
-     "tags": [],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "연합뉴스",
-       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8yRnRoNnFzbkpORUtyRlh1VjVtQWpNMWlZcUFtVHVLdTFuc0FCTkNIQ1JLcTFBVFZYY1ZoUjlfQVU4SFZfWEx1VWswTEdNOG9VZVBYTFFCTElpaTFETDZ6QtIBYEFVX3lxTE8yRnRoNnFzbkpORUtyRlh1VjVtQWpNMWlZcUFtVHVLdTFuc0FCTkNIQ1JLcTFBVFZYY1ZoUjlfQVU4SFZfWEx1VWswTEdNOG9VZVBYTFFCTElpaTFETDZ6Qg?oc=5",
-       "title": "이형일, 첫 경제현안간담회…전기차·퇴직연금 개선 논의",
-       "date": "2026-09-28"
-      }
-     ],
-     "date": "2026-09-28"
-    },
-    {
      "id": "20260928-f11",
-     "cat": "labor",
+     "cat": "market",
      "importance": "low",
      "teams": [],
-     "company": "코리아비즈니스리뷰",
-     "title": "육아기 근로시간 단축, 9월 18일 바뀐 기준",
-     "body": "육아기 근로시간 단축, 9월 18일 바뀐 기준 코리아비즈니스리뷰",
+     "company": "v.daum.net",
+     "title": "벤처투자→고용 '선순환'…\"R&D 데스밸리 넘고 M&A 활성화 물꼬 터야\"",
+     "body": "벤처투자→고용 '선순환'…\"R&D 데스밸리 넘고 M&A 활성화 물꼬 터야\" v.daum.net",
      "insight": "",
      "action": "",
      "tags": [],
      "our_group": false,
      "sources": [
       {
-       "name": "코리아비즈니스리뷰",
-       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdlVzdzN2cDRFMzVxR1ZOMjBsQm1kN2VaRk93Tmw0VFg3RGxTQUJINl9CeFQ1b2VNTHJneEs0N2NpYzVFTVd3VmcyUjNEemtmMmRVYlZ3b3ZDNVVaRVltdXUyYkJ2c3ZRYTYyREZCeVZfUjlGVUZjN2FVMVI2ZUdBc2JMYmE2RUlsMUZXTTVn?oc=5",
-       "title": "육아기 근로시간 단축, 9월 18일 바뀐 기준",
+       "name": "v.daum.net",
+       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1iaWhQRE5oUWItMXhJWHRqSUFWR0M5OTVGYS1GMEk0LWNXNDItT0U0Q0ptZXdQZ1dPYnY1X05sT0FFbXd3Y0tCcnFRQQ?oc=5",
+       "title": "벤처투자→고용 '선순환'…\"R&D 데스밸리 넘고 M&A 활성화 물꼬 터야\"",
        "date": "2026-09-28"
       }
      ],
@@ -322,21 +326,21 @@
     },
     {
      "id": "20260928-f12",
-     "cat": "labor",
+     "cat": "trend",
      "importance": "low",
      "teams": [],
-     "company": "Chosunbiz",
-     "title": "“검사 지휘 사라지는데”… 근로감독관 수사교육기관 수장은 과장급 - 조선비즈",
-     "body": "“검사 지휘 사라지는데”… 근로감독관 수사교육기관 수장은 과장급 - 조선비즈 Chosunbiz",
+     "company": "코리아헬스로그",
+     "title": "정부, 권역응급의료센터 늘리고 ‘질 관리’ 강화…“매년 역할 평가”",
+     "body": "정부, 권역응급의료센터 늘리고 ‘질 관리’ 강화…“매년 역할 평가” 코리아헬스로그",
      "insight": "",
      "action": "",
      "tags": [],
      "our_group": false,
      "sources": [
       {
-       "name": "Chosunbiz",
-       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOU18tMGRoMWU0aXB6dFFoNHRtd01wMWNPSHh3TDhNcTY3TXdxQndBRzZLd1JDMTVOUjNNSUtsZEF6YS1oZ2QzWHRBQUNrV1pWcW54RDgwMi1rUjd4VFZKRklHdXlaR1JwMkFDQXltVlBSTDNtd2ZENW9jNkJWVkVlMURVQm5qeGVKQ2fSAZ4BQVVfeXFMT2Ywc3RwZ2xGVVJsNFVYQm5HRUo1ZDNjSklldU14Q3JVcVpnTExqRGRpal9Tc1Q1aTVqLXdXM2s3X0ZFUHRjd1pnUEpHcW1WUHFUMkEya0VYd2xZc2NIdTlnZUppWm5TcmZJVlpaMWM2bkJ0Rmo2dHh4Y2IwZTN4Z0pEeHBfdmYtX3l3ZXRoNTZ4U2hhM0U2Wl9fZjFGSHc?oc=5",
-       "title": "“검사 지휘 사라지는데”… 근로감독관 수사교육기관 수장은 과장급 - 조선비즈",
+       "name": "코리아헬스로그",
+       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5tSTcwNmtMdGNmQzNueVA3LWRSRmpJQnV2R25FNEFaU1Y4UXU4VUpGRmRCN2tvX3dSSGZ6S2NsWVRGQ1FrcmhUMG84YVpydVhsTUlSYThHVm1EM3QtVVd0M3g5MW5lTl9PU1g0RmxxMUdmZ9IBdkFVX3lxTE1wbVVQS3pmWnZFSTVIaW0wM0RfczJpU25WVTVQTXBodDkxUnlBZ0NRZ1lWYXdrVmVOdWpKRWdkVjY2RXVDanBoRWdPT19JeHJHSTZoaTVvSVJwVXZpeEZ0Y3ExQ29VU3M5cTR3cFp4WkJ1OTU5Vmc?oc=5",
+       "title": "정부, 권역응급의료센터 늘리고 ‘질 관리’ 강화…“매년 역할 평가”",
        "date": "2026-09-28"
       }
      ],
@@ -344,21 +348,21 @@
     },
     {
      "id": "20260928-f13",
-     "cat": "labor",
+     "cat": "trend",
      "importance": "low",
      "teams": [],
-     "company": "ppss.kr",
-     "title": "[알면 득, 모르면 0원 청년정책①] 알바생도, 자취생도 조건이 다 다르다… 남들은 다 아는 '나만의 정책' 1분 컷 탐색법",
-     "body": "[알면 득, 모르면 0원 청년정책①] 알바생도, 자취생도 조건이 다 다르다… 남들은 다 아는 '나만의 정책' 1분 컷 탐색법 ppss.kr",
+     "company": "데일리e뉴스",
+     "title": "[ESG 포커스] 에코프로머티리얼즈 \"아동·강제노동부터 조직문화까지···내부서 외부로 관리망 확대\"",
+     "body": "[ESG 포커스] 에코프로머티리얼즈 \"아동·강제노동부터 조직문화까지···내부서 외부로 관리망 확대\" 데일리e뉴스",
      "insight": "",
      "action": "",
      "tags": [],
      "our_group": false,
      "sources": [
       {
-       "name": "ppss.kr",
-       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE04S2twc2NqV1lNakRaS0t1bDNtMTE5MHI3cm9xRUZEMzdqd0p0ZmhsMUxOeDdvWWxYRl9TcVkyVFB3VGE3OThrZlJGQXdrSURTQVJjRi1DaW1pem9yVlVNNGxQUHQ?oc=5",
-       "title": "[알면 득, 모르면 0원 청년정책①] 알바생도, 자취생도 조건이 다 다르다… 남들은 다 아는 '나만의 정책' 1분 컷 탐색법",
+       "name": "데일리e뉴스",
+       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1qelZZcE5MY19CdTgyXzE4Nnd6NVlVUE1XQ3hYR0ttMzJqVkdzdlhVN01zY1JQWUJyN2l5Q2YzQjZUd2JnX3dsclRRWkhfR290NDRmU1JWM0s2RThMcW9NbjhfZmJ4eTh3bkNVdjZMVQ?oc=5",
+       "title": "[ESG 포커스] 에코프로머티리얼즈 \"아동·강제노동부터 조직문화까지···내부서 외부로 관리망 확대\"",
        "date": "2026-09-28"
       }
      ],
@@ -366,21 +370,21 @@
     },
     {
      "id": "20260928-f14",
-     "cat": "labor",
+     "cat": "trend",
      "importance": "low",
      "teams": [],
-     "company": "kfenews.co.kr",
-     "title": "취준생이라면 매달 60만원?…최대 360만원 받는 ‘국민취업지원제도’",
-     "body": "취준생이라면 매달 60만원?…최대 360만원 받는 ‘국민취업지원제도’ kfenews.co.kr",
+     "company": "메디파나뉴스",
+     "title": "비씨월드제약, 임직원 칭찬 캠페인으로 여주 취약계층 지원",
+     "body": "비씨월드제약, 임직원 칭찬 캠페인으로 여주 취약계층 지원 메디파나뉴스",
      "insight": "",
      "action": "",
      "tags": [],
      "our_group": false,
      "sources": [
       {
-       "name": "kfenews.co.kr",
-       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE83Nzk5R0d3UTF6TGZrdjR3cVhneVNDYnB1bktWdWp0YzNwRHctbHR2THpxS2ppMk1tNHBuRW5uQnQzbUhpenVEQzAxRzJsMXkxYWJ6LW1telJWbk1pdDZSQ2NwSVQ0amhGd3lZWdIBcEFVX3lxTE9seU9GaUlidlpaRUc0TFpsa1JGeTU1VEFkNFNMbzYzSW1sSDRydnpmQlJCZjNjVGU5dVlkZm9xYjNuZlBrOGVWMUprSDY1dGRGX2ZjX1JuYUJjMGJCWndfWEx2X045eE0tM3VlejQ3SnM?oc=5",
-       "title": "취준생이라면 매달 60만원?…최대 360만원 받는 ‘국민취업지원제도’",
+       "name": "메디파나뉴스",
+       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1kcFVOOXZieDhyTURDNUNfdVN1dkNDSTRtYUozTWNjbm1nc3ZnYjNIRmtRMXpUT1ItWFNyQzc4Wjk0Tkx1bUFWQVltQTFVbEtMdzZvbmhZbU5HMnRPVk9KZzBBX0tPZThwa004?oc=5",
+       "title": "비씨월드제약, 임직원 칭찬 캠페인으로 여주 취약계층 지원",
        "date": "2026-09-28"
       }
      ],
@@ -388,21 +392,21 @@
     },
     {
      "id": "20260928-f15",
-     "cat": "labor",
+     "cat": "trend",
      "importance": "low",
      "teams": [],
-     "company": "코인리더스",
-     "title": "PCE 물가·고용 지표 발표 임박...비트코인(BTC)·증시, 5대 변수 이겨낼까?",
-     "body": "PCE 물가·고용 지표 발표 임박...비트코인(BTC)·증시, 5대 변수 이겨낼까? 코인리더스",
+     "company": "천지일보",
+     "title": "순천향대, 공공부문 Best HRD 인증… ‘7회 연속’",
+     "body": "순천향대, 공공부문 Best HRD 인증… ‘7회 연속’ 천지일보",
      "insight": "",
      "action": "",
      "tags": [],
      "our_group": false,
      "sources": [
       {
-       "name": "코인리더스",
-       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5td0o3b0xoekNNWjdtRmtCWVE4T1c5ejlqc3NnMm9lVTltNkN4MG1VdmowOHkwWURhTTBteV83NEE4UW4zU2FpcA?oc=5",
-       "title": "PCE 물가·고용 지표 발표 임박...비트코인(BTC)·증시, 5대 변수 이겨낼까?",
+       "name": "천지일보",
+       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBWSHdKLTI5al9LUHlMSVNKS2JwczZLc0VqMUxwRTVsRUNIY1laOGRROWNfY2JhNjFoeTY4S3Yya1EyWHpmNldIZm03bHpCZm1JNDFCQlRxQW1pTExieHZTQlRObmFIaDZyWFE?oc=5",
+       "title": "순천향대, 공공부문 Best HRD 인증… ‘7회 연속’",
        "date": "2026-09-28"
       }
      ],
@@ -413,18 +417,18 @@
      "cat": "labor",
      "importance": "low",
      "teams": [],
-     "company": "beSUCCESS",
-     "title": "코리아스타트업포럼, 주52시간제 실태조사 발표…스타트업 종사자 76% “유연화 필요”",
-     "body": "코리아스타트업포럼, 주52시간제 실태조사 발표…스타트업 종사자 76% “유연화 필요” beSUCCESS",
+     "company": "법률신문",
+     "title": "30인 미만 사업장에 대한 지방정부 노동감독 도입의 주요 내용과 기업 대응방안",
+     "body": "30인 미만 사업장에 대한 지방정부 노동감독 도입의 주요 내용과 기업 대응방안 법률신문",
      "insight": "",
      "action": "",
      "tags": [],
      "our_group": false,
      "sources": [
       {
-       "name": "beSUCCESS",
-       "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1ObEI3WUV2dGZUei11a2dyU1Q0TWlacjFxTVBXZFVlUWdtLWNJM1lyUWR2UHRIeXFETFVZOTBJeW0wV3UydWc?oc=5",
-       "title": "코리아스타트업포럼, 주52시간제 실태조사 발표…스타트업 종사자 76% “유연화 필요”",
+       "name": "법률신문",
+       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBKTDdCZ2dSLVpKNm1IZmdPbU5PUEJmalhIa3ZVS0d6a1Rhd3VWZVFhcjYwVDlZUnkzOERmamJJdzNyMFBJTndqOUpEYnJZcFlZbVAyMk1CYTZpemMyNEFRUFpxUWxmQzlLOG5tNVZMcm9MQdIBckFVX3lxTFBKTDdCZ2dSLVpKNm1IZmdPbU5PUEJmalhIa3ZVS0d6a1Rhd3VWZVFhcjYwVDlZUnkzOERmamJJdzNyMFBJTndqOUpEYnJZcFlZbVAyMk1CYTZpemMyNEFRUFpxUWxmQzlLOG5tNVZMcm9MQQ?oc=5",
+       "title": "30인 미만 사업장에 대한 지방정부 노동감독 도입의 주요 내용과 기업 대응방안",
        "date": "2026-09-28"
       }
      ],
@@ -432,6 +436,72 @@
     },
     {
      "id": "20260928-f17",
+     "cat": "labor",
+     "importance": "low",
+     "teams": [],
+     "company": "PRESS9",
+     "title": "한화에어로스페이스 '1980년생 이하·11개 대학' 채용 논란…대표 사과·책임자 징계",
+     "body": "한화에어로스페이스 '1980년생 이하·11개 대학' 채용 논란…대표 사과·책임자 징계 PRESS9",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "PRESS9",
+       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB0MXA3Nk5LZkJ1a2ZEWFJjUVZhZzhjdTg0RWZGekdfRnBvYVZmMmlMOVBicngwczZYVHcyV1ZWeGotc215amhEbEhtaU8xRnl2cWpaREpvS1R2aVkxUnJHVFFDVjE?oc=5",
+       "title": "한화에어로스페이스 '1980년생 이하·11개 대학' 채용 논란…대표 사과·책임자 징계",
+       "date": "2026-09-28"
+      }
+     ],
+     "date": "2026-09-28"
+    },
+    {
+     "id": "20260928-f18",
+     "cat": "labor",
+     "importance": "low",
+     "teams": [],
+     "company": "시사코리아",
+     "title": "노동법 위반 98% '시정지시'로...\"불법 부추겨\"",
+     "body": "노동법 위반 98% '시정지시'로...\"불법 부추겨\" 시사코리아",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "시사코리아",
+       "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE8xUnVTUEs2eE1JZzZLNFQ4S1VMYmFaRmI2ZVF5N1NLV2xTRUw2bEFfcUhZYUlhLWNGQ3BvSmROcjNNWlMw?oc=5",
+       "title": "노동법 위반 98% '시정지시'로...\"불법 부추겨\"",
+       "date": "2026-09-28"
+      }
+     ],
+     "date": "2026-09-28"
+    },
+    {
+     "id": "20260928-f19",
+     "cat": "labor",
+     "importance": "low",
+     "teams": [],
+     "company": "기계설비신문",
+     "title": "(25) 포괄임금제",
+     "body": "(25) 포괄임금제 기계설비신문",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "기계설비신문",
+       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5YVFZIeTRtM1hDQTFiYnJWVmt3UkRiMlVqRUJHUV84a2pwQkxyQnpUMl9ualVZUU85VVVhSl9SaVhMRXVBbWpuUm1POXpuNlAwQ3pOSVRaN2R1Q2tnYXBQOHdtX1ZPN3FhTS02bw?oc=5",
+       "title": "(25) 포괄임금제",
+       "date": "2026-09-28"
+      }
+     ],
+     "date": "2026-09-28"
+    },
+    {
+     "id": "20260928-f20",
      "cat": "labor",
      "importance": "low",
      "teams": [],
@@ -453,21 +523,21 @@
      "date": "2026-09-28"
     },
     {
-     "id": "20260928-f18",
+     "id": "20260928-f21",
      "cat": "labor",
      "importance": "low",
      "teams": [],
-     "company": "대한청년일보",
+     "company": "얼리어답터뉴스",
      "title": "2026년 10월 일본 노동법 대개정 시행 전 한국 기업 필수 점검 사항",
-     "body": "2026년 10월 일본 노동법 대개정 시행 전 한국 기업 필수 점검 사항 대한청년일보",
+     "body": "2026년 10월 일본 노동법 대개정 시행 전 한국 기업 필수 점검 사항 얼리어답터뉴스",
      "insight": "",
      "action": "",
      "tags": [],
      "our_group": false,
      "sources": [
       {
-       "name": "대한청년일보",
-       "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBndERkWWphMzlSWXBaSzltU09KdVhjT3Y2dXAwVE52Y1UxeU1ENG1sb2VUaG9fV3VyLVVSX2xqV1VyV2M?oc=5",
+       "name": "얼리어답터뉴스",
+       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9udy0xU1hRX3p5Q192UHV2LWZOb0FSU09LVEdBbzk1SWJQd2lXc3FfLXpIVEx4bkxhVlhJa0pDZVZkU3Nod3o1cTV3?oc=5",
        "title": "2026년 10월 일본 노동법 대개정 시행 전 한국 기업 필수 점검 사항",
        "date": "2026-09-28"
       }
@@ -475,88 +545,22 @@
      "date": "2026-09-28"
     },
     {
-     "id": "20260928-f19",
-     "cat": "labor",
-     "importance": "low",
-     "teams": [],
-     "company": "아웃소싱타임스",
-     "title": "[사회뉴스] 국회의원 추석 ‘떡값’ 440만원...중소기업 상여금은 평균 66만원",
-     "body": "[사회뉴스] 국회의원 추석 ‘떡값’ 440만원...중소기업 상여금은 평균 66만원 아웃소싱타임스",
-     "insight": "",
-     "action": "",
-     "tags": [],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "아웃소싱타임스",
-       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9UV1U3TGhTRnlMTERQdjFaYm12RDN4c1RLbU4yY2xCUzZxcENKMENjQkVOelRVaFdBek10Y3NybXgtdGREcG5DS1Q2Sk1FN3VTTUMtVEV2UjNURUZRaklJckhLMEhfNkR4M20zWFh4ekxDdw?oc=5",
-       "title": "[사회뉴스] 국회의원 추석 ‘떡값’ 440만원...중소기업 상여금은 평균 66만원",
-       "date": "2026-09-28"
-      }
-     ],
-     "date": "2026-09-28"
-    },
-    {
-     "id": "20260928-f20",
-     "cat": "labor",
-     "importance": "low",
-     "teams": [],
-     "company": "v.daum.net",
-     "title": "[단독-청년 직업훈련의 덫 ①] 26년간 월 20만원 훈련수당, 가난할수록 멀어지는 기회",
-     "body": "[단독-청년 직업훈련의 덫 ①] 26년간 월 20만원 훈련수당, 가난할수록 멀어지는 기회 v.daum.net",
-     "insight": "",
-     "action": "",
-     "tags": [],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "v.daum.net",
-       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5qdE9ycmlBdWFVVlQ1X0VDV21RVXBUTGV0ZTUwQm5iRXFzZThSNkdJbHU2cksweWk3eXRQeVRGejlON3ZZeENYTlcwVQ?oc=5",
-       "title": "[단독-청년 직업훈련의 덫 ①] 26년간 월 20만원 훈련수당, 가난할수록 멀어지는 기회",
-       "date": "2026-09-28"
-      }
-     ],
-     "date": "2026-09-28"
-    },
-    {
-     "id": "20260928-f21",
-     "cat": "ecom",
-     "importance": "low",
-     "teams": [],
-     "company": "IndexBox",
-     "title": "2035년 건강기능식품 시장 전망: 개인 맞춤형 영양과 장 건강이 성장 견인 - 뉴스 및 통계",
-     "body": "2035년 건강기능식품 시장 전망: 개인 맞춤형 영양과 장 건강이 성장 견인 - 뉴스 및 통계 IndexBox",
-     "insight": "",
-     "action": "",
-     "tags": [],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "IndexBox",
-       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYWVYVTI5dXRqY0ltaTBZX2c1LXV4LTNHZlZEYUxDaUg1OW9MbVdyem82NkRNYUFqSnJpNGM3a2gxYW1VQVNFYUx4VEFCUjhrSzd5MDk3VzVFSW0yalRpTzVkQzhqeWpZWGpMR2FJbnRKazFRX09JTmF0cjdnUFV0Z3N0SDlkbkdsN3NRYkx2NjRka1kwVDJDZXhENXQwQ1RWZWRCX25naFFBdXhpMzlRc0JlUDNlN3NYMHc?oc=5",
-       "title": "2035년 건강기능식품 시장 전망: 개인 맞춤형 영양과 장 건강이 성장 견인 - 뉴스 및 통계",
-       "date": "2026-09-28"
-      }
-     ],
-     "date": "2026-09-28"
-    },
-    {
      "id": "20260928-f22",
-     "cat": "ecom",
+     "cat": "labor",
      "importance": "low",
      "teams": [],
-     "company": "비즈니스포스트",
-     "title": "컬리 N마트 담당 조직도 '본부'로 격상, 김슬아 덩치 커진 신사업 존재감 높인다",
-     "body": "컬리 N마트 담당 조직도 '본부'로 격상, 김슬아 덩치 커진 신사업 존재감 높인다 비즈니스포스트",
+     "company": "신아일보",
+     "title": "노동법 위반 15만건인데 98% ‘시정지시’…처벌은 2%",
+     "body": "노동법 위반 15만건인데 98% ‘시정지시’…처벌은 2% 신아일보",
      "insight": "",
      "action": "",
      "tags": [],
      "our_group": false,
      "sources": [
       {
-       "name": "비즈니스포스트",
-       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5jTVlJRVAyaEJBbVFNZnN5YXI1aDdBeUhtVnNRNGdteHJnaWdRSTZlVXZrZHNtSGh0bC1RaHY0azl0VW9pRFdZd1dvQjhWdjJhUTdXWFp5TmxNTUxBS3h2OUM2b09MU3NJTUdHbjJ1UjlaR2s?oc=5",
-       "title": "컬리 N마트 담당 조직도 '본부'로 격상, 김슬아 덩치 커진 신사업 존재감 높인다",
+       "name": "신아일보",
+       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE84N2UtYmpDQ19QUXVaWG9jZURuQTVXdXJ2ZUtRbzhJUmlreklYQ3JxTTl6a1Rrek5FNzdGRUlTOERLQVkxM0NGY240OWlxSURmOWNzb3FBRU15bTNnRXVLUjhsUEtyY2xIV2RDeGlSeno?oc=5",
+       "title": "노동법 위반 15만건인데 98% ‘시정지시’…처벌은 2%",
        "date": "2026-09-28"
       }
      ],
@@ -564,21 +568,21 @@
     },
     {
      "id": "20260928-f23",
-     "cat": "ecom",
+     "cat": "labor",
      "importance": "low",
      "teams": [],
-     "company": "청년일보",
-     "title": "커넥트웨이브 몰테일, 다나와 연계해 역직구 상품 확대",
-     "body": "커넥트웨이브 몰테일, 다나와 연계해 역직구 상품 확대 청년일보",
+     "company": "법률저널",
+     "title": "이관수 노무사의 알기 쉬운 노동법-출근 첫날 다친 일용직·아르바이트생의 산재보상 여부",
+     "body": "이관수 노무사의 알기 쉬운 노동법-출근 첫날 다친 일용직·아르바이트생의 산재보상 여부 법률저널",
      "insight": "",
      "action": "",
      "tags": [],
-     "our_group": true,
+     "our_group": false,
      "sources": [
       {
-       "name": "청년일보",
-       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5DbFItMzkwTENIN2dlVXA4b2lWYkVJNFpRcXZCNjV4azg5eHJzQkZzNFNkQTRjUUt3YTVKTXZ3dGlMaUFhck1LNFR0TkxJX25RWXBRMVhuYjRfdXZUZFhpMWNONVVCdUI4WHc?oc=5",
-       "title": "커넥트웨이브 몰테일, 다나와 연계해 역직구 상품 확대",
+       "name": "법률저널",
+       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBJbWxUWW1MaUt5dGJ0Z3g5OWcxeng3VmtDdzYwcXhTQmExbXU3SHF6RGx1U1BTb3o2bTh4b05hbDZrczFSWVR5bkRIWC1vZmJHLXZtak9rWHQzYldhOXh5blp6dUsybDQ?oc=5",
+       "title": "이관수 노무사의 알기 쉬운 노동법-출근 첫날 다친 일용직·아르바이트생의 산재보상 여부",
        "date": "2026-09-28"
       }
      ],
@@ -586,135 +590,25 @@
     },
     {
      "id": "20260928-f24",
-     "cat": "brand",
+     "cat": "labor",
      "importance": "low",
      "teams": [],
-     "company": "파이낸셜포스트",
-     "title": "육아 값 vs 출근 값…삼성맨의 '차가운 계산기'",
-     "body": "육아 값 vs 출근 값…삼성맨의 '차가운 계산기' 파이낸셜포스트",
+     "company": "인더스트리뉴스",
+     "title": "동의대 정상희 직원, 청년 취업 지원 공로 국무총리 표창",
+     "body": "동의대 정상희 직원, 청년 취업 지원 공로 국무총리 표창 인더스트리뉴스",
      "insight": "",
      "action": "",
      "tags": [],
      "our_group": false,
      "sources": [
       {
-       "name": "파이낸셜포스트",
-       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBRU2g4Y2gzVllhaVdHUlc3LUNsN1kxX0ZSU0lfV0NJa01uYzhRN1lWNXdTcnJ4aFRvVVNFbTREcVBvVFd1aWVXdU84OXNCR25iUFRDck15bEdOYnZTbFhDbnFQZjB6NTk3SWV4anJUQVI5U0lp?oc=5",
-       "title": "육아 값 vs 출근 값…삼성맨의 '차가운 계산기'",
+       "name": "인더스트리뉴스",
+       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB5Vnk3cl9VYUo1cjRlZnFtR3NwWjBNMERlcWRCRmVZa2VqNFVYOG9WTkdIV0ZYUW82Q0tZUWloVEZJdmlhRVMzTGgyaS1hZVRUcnpPc2NUcFFpUWVWQVhmTUsyMVN4RmFpeVJiaEpLZVcyZw?oc=5",
+       "title": "동의대 정상희 직원, 청년 취업 지원 공로 국무총리 표창",
        "date": "2026-09-28"
       }
      ],
      "date": "2026-09-28"
-    },
-    {
-     "id": "20260928-f25",
-     "cat": "market",
-     "importance": "low",
-     "teams": [],
-     "company": "incheonilbo.com",
-     "title": "신입 공채 뜸한 인천, 직무별 채용 대세",
-     "body": "신입 공채 뜸한 인천, 직무별 채용 대세 incheonilbo.com",
-     "insight": "",
-     "action": "",
-     "tags": [],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "incheonilbo.com",
-       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE95WVJyWHUtUmhkLWVjdC1kOC1sRTMzOGR1Q3JTZV94SVBjMUYwdzJCb2FWLWwtU2J4NS1fcHVKRDVrSVVGMTRVOHhVZUhJNEd4bl9zNWlIdzhWU1NtSXlveGFJZnhRTFVHRUNFeHBXdG8?oc=5",
-       "title": "신입 공채 뜸한 인천, 직무별 채용 대세",
-       "date": "2026-09-27"
-      }
-     ],
-     "date": "2026-09-27"
-    },
-    {
-     "id": "20260928-f26",
-     "cat": "ecom",
-     "importance": "low",
-     "teams": [],
-     "company": "IndexBox",
-     "title": "2035년 패밀리 케어 시장 전망: 프리미엄화와 이커머스가 성장 견인 - 뉴스 및 통계",
-     "body": "2035년 패밀리 케어 시장 전망: 프리미엄화와 이커머스가 성장 견인 - 뉴스 및 통계 IndexBox",
-     "insight": "",
-     "action": "",
-     "tags": [],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "IndexBox",
-       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMlFjSnZqeTdld21OUHpWSUF6aFB0VDJIeGd4UjNCTmJWeGFyYlREWWxOOW04QU1WQVYzZnJTdTZRSlVuUU1xTTFXNFVUZUU1eXd0cWh6dHJpbHc3MTBVdVFfcEhBUUV6c09VSGhacXNEUnlNMmNKNUFHdHUtSm9kNXA4LWR0RWpvQnhYanh5Wk5iSlZMQU5VTW1sUFZoeXZPbjRnWFU1MUVTSGlrMTlPczBfWlk?oc=5",
-       "title": "2035년 패밀리 케어 시장 전망: 프리미엄화와 이커머스가 성장 견인 - 뉴스 및 통계",
-       "date": "2026-09-27"
-      }
-     ],
-     "date": "2026-09-27"
-    },
-    {
-     "id": "20260928-f27",
-     "cat": "ecom",
-     "importance": "low",
-     "teams": [],
-     "company": "IndexBox",
-     "title": "스펀지·스크러버 시장 2035년 전망: 위생 수요와 이커머스가 성장 견인 - 뉴스 및 통계",
-     "body": "스펀지·스크러버 시장 2035년 전망: 위생 수요와 이커머스가 성장 견인 - 뉴스 및 통계 IndexBox",
-     "insight": "",
-     "action": "",
-     "tags": [],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "IndexBox",
-       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOTWt3bGx4MzlBRnIybHlEdHp2TkxOYTZNOGlXNUJQR2dGZ2dOSlM0RW5KeERINC1EbUF2d00yOHQzbDUxekQ3VHpQWEZRcHMxYTZRRGZ6R0F1SmxOMXM3VEdkR0I2NXlJaVhLYjJlMUR6YzR6b0F1QkxIQThjSW90RTdQbDUwNHZTUE4xWUlhU1B1aGwzVTNhVmJ6MlBFV1dIS0tWOUdneW1nUUdOdXc4Y3dJMV9tc25SSExWUjZJTkVJVnZTV0RnZmtIQ19YS1pIS05LV0hzcjZFd1U?oc=5",
-       "title": "스펀지·스크러버 시장 2035년 전망: 위생 수요와 이커머스가 성장 견인 - 뉴스 및 통계",
-       "date": "2026-09-27"
-      }
-     ],
-     "date": "2026-09-27"
-    },
-    {
-     "id": "20260928-f28",
-     "cat": "ecom",
-     "importance": "low",
-     "teams": [],
-     "company": "IndexBox",
-     "title": "방수 어린이 스웨트팬츠 시장 2035년 전망: 전천후 야외 놀이가 성장 견인",
-     "body": "방수 어린이 스웨트팬츠 시장 2035년 전망: 전천후 야외 놀이가 성장 견인 IndexBox",
-     "insight": "",
-     "action": "",
-     "tags": [],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "IndexBox",
-       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObVBTcG5nOHRxaVNlM0FuQ0JFMUJrWGk2dWVVU3RzS0dhOTBZSUY2S2FwTVFXeWRpVk0yRVFicEVyN292UG9aeDliVk1taklQVUZCaExOV245YlVPNmZOWS1PaGV6Q29JbFotYmc0WjBSbnZyamlSVXdGNkxuZTNVOGwyakgzbG8xcW1UUkdSYUNGbUNOck44c1o1dnlEbnFFWWFsbE1ZajY3TjIwX2RJVWo2RjBFbHB6WUlGRkpkOUVsY0E?oc=5",
-       "title": "방수 어린이 스웨트팬츠 시장 2035년 전망: 전천후 야외 놀이가 성장 견인",
-       "date": "2026-09-27"
-      }
-     ],
-     "date": "2026-09-27"
-    },
-    {
-     "id": "20260928-f29",
-     "cat": "ecom",
-     "importance": "low",
-     "teams": [],
-     "company": "IndexBox",
-     "title": "2035년 효모균 감염 치료제 시장: 셀프케어 전환과 일반의약품 접근성이 성장 견인 - 뉴스 및 통계",
-     "body": "2035년 효모균 감염 치료제 시장: 셀프케어 전환과 일반의약품 접근성이 성장 견인 - 뉴스 및 통계 IndexBox",
-     "insight": "",
-     "action": "",
-     "tags": [],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "IndexBox",
-       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNRERHeEJXUkloUWtpeXJIb0pTYVp2dks1MUsxUFBsQ1k3TTdrZGRmRjhjQVV2R1lGZkpMcmRxWndvZjAxa2NUbHZSZWVia2JQVWU3V0VQSFZJaFBYdjNlSGx5X0xZNG0tZVNZR0Z0YTRTc09TSFRmZHZNYzdGZVdSUkswVGhIR3BxQ25Kd0hkZ2hmR1NWVVYzYnVmOTVUV253cXhrbnpkRWQ0TUc1Wi1fbUFiOU9qTm1IM1lrc1RPcDNEREVfejNnWncyTkNaRDRLUXhZ?oc=5",
-       "title": "2035년 효모균 감염 치료제 시장: 셀프케어 전환과 일반의약품 접근성이 성장 견인 - 뉴스 및 통계",
-       "date": "2026-09-27"
-      }
-     ],
-     "date": "2026-09-27"
     }
    ]
   }
