@@ -1,613 +1,655 @@
 {
   "date": "2026-09-28",
   "window_days": 3,
-  "article_count": 295,
-  "headline": "오늘은 AI 분석이 실패해 제목 기준으로만 골랐어요",
+  "article_count": 290,
+  "headline": "다나와·몰테일 시너지 가속과 하반기 노동법 개정·채용 리스크 대응",
   "points": [
-    "수집 기사 295건 중 HR 관련 단어가 있는 25건만 올렸어요",
-    "시사점·팀 태그 없이 기사 제목만 보여드려요"
+    "몰테일-다나와 연계로 14억 개 역직구 서비스가 개시되어 그룹사 간 협업 조직 지원이 중요해요.",
+    "하반기 인사·노무 법령 개정 및 채용상 나이·학벌 차별 논란에 따른 채용 프로세스 점검이 필요해요.",
+    "컬리 신사업 본부 격상과 사방넷 2.0 출시 등 이커머스 솔루션 및 조직 개편 경쟁이 치열해요."
   ],
-  "analysis_error": "Gemini 응답을 받지 못했어요 (HTTP 503)",
   "items": [
     {
-      "id": "20260928-f00",
-      "cat": "market",
-      "importance": "low",
+      "cat": "ecom",
+      "importance": "high",
+      "company": "커넥트웨이브",
+      "title": "몰테일·다나와 연계 역직구 강화, 그룹 시너지 창출 본격화",
+      "body": "커넥트웨이브의 전자상거래 플랫폼 몰테일이 다나와와 협력하여 14억 개에 달하는 국내 최저가 상품 데이터를 연계하고 글로벌 역직구 서비스를 대폭 확장해요.",
+      "insight": "가격비교와 크로스보더 물류 플랫폼 간 교차 협업이 본격화되므로 사업부 간 유기적 프로젝트 협업 문화와 크로스 펑셔널 조직 지원이 필요해요.",
+      "action": "다나와-몰테일 협업 TF 구성원들의 R&R을 명확히 하고, 협업 마일스톤에 맞춘 평가·인센티브 연계 방안을 검토해 보세요.",
       "teams": [
-        "채용"
+        "인사기획",
+        "조직문화·HRD"
       ],
-      "company": "국제신문",
-      "title": "국가철도공단, 신입·경력직·청년인턴 등 184명 공개 채용",
-      "body": "국가철도공단, 신입·경력직·청년인턴 등 184명 공개 채용 국제신문",
-      "insight": "",
-      "action": "",
-      "tags": [],
-      "our_group": false,
+      "tags": [
+        "몰테일",
+        "다나와",
+        "커넥트웨이브",
+        "역직구",
+        "그룹시너지"
+      ],
+      "our_group": true,
       "sources": [
         {
-          "name": "국제신문",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOaVU3c2xzQ0k0UnB6S01WMVd5WkxydDA0dkNhem01c1FNbG5JRG5XR0lRdHhoSUJWOXdoTTY2c2VVOTJWbWZ1NUQ0QVNPYkpNRkMzdmZlcnpSengtaGlfNlpOa1N3cHpjanAzRW12UFdPWFBfNTE1NlBjOFI0ZWhCbzY5a3hqeXc5SXVYckx3?oc=5",
-          "title": "국가철도공단, 신입·경력직·청년인턴 등 184명 공개 채용",
+          "name": "뉴스웍스",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE51b3I2N0F6S1pXNzk5SWNDdHB6eXFibTFHLWtibXVONXlQUXJIMEtSMzUxV2lSdU42UTVHTnlhdHpfRkpTSktPMDl0WXZiVUZwWkQxTUNYcFR4WFlBSTUwSVJwRmxVaEVnQjRidGFmdUVNdkXSAXNBVV95cUxOdW9yNjdBektaVzc5OUljQ3RwenlxYm0xRy1rYm11TjV5UFFySDBLUjM1MVdpUnVONlE1R055YXR6X0ZKU0pLTzA5dFl2YlVGcFpEMU1DWHBUeFhZQUk1MElScEZsVWhFZ0I0YnRhZnVFTXZF?oc=5",
+          "title": "[IT라운지] 딥브레인 '중기 AI 아바타서비스'·사방넷 '이커머스 페어 참가'·KJCCS에 런웨이 적용·다나와-글로벌쇼핑 '연계'",
+          "date": "2026-09-28"
+        },
+        {
+          "name": "물류신문",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5QR1lhQTlxRl9NZkNRS3ZIUWVTR1VtbHFSUHpndV9yU0JJbktJWUNQcmc0VzlndFMwOTV1emcwbkRNU1dKT21BblBSZlZyNHlMV19RNTIzWUJidlliVEQwUDd0RmZLLUhCNTNZ?oc=5",
+          "title": "몰테일, 다나와 손잡고 ‘글로벌 쇼핑’ 확대…K-브랜드 역직구 강화",
+          "date": "2026-09-28"
+        },
+        {
+          "name": "전자신문",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9NRTNtQ0VKMHRlMjh5RWdzZHBxRzNUVVNNRXoxRzBKcTkwdkxLWjJPYkU2ZlJhSHhYZ2xLb2dHZFFrS3EweGIwTVJ0VlRjZw?oc=5",
+          "title": "다나와에서 K브랜드 역직구한다…몰테일, 다나와와 협업",
+          "date": "2026-09-28"
+        },
+        {
+          "name": "청년일보",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5DbFItMzkwTENIN2dlVXA4b2lWYkVJNFpRcXZCNjV4azg5eHJzQkZzNFNkQTRjUUt3YTVKTXZ3dGlMaUFhck1LNFR0TkxJX25RWXBRMVhuYjRfdXZUZFhpMWNONVVCdUI4WHc?oc=5",
+          "title": "커넥트웨이브 몰테일, 다나와 연계해 역직구 상품 확대",
+          "date": "2026-09-28"
+        },
+        {
+          "name": "v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBHSnMzNFhqblVhdFFJV1NzbkxCVG5PdVhSSUIwSlloaGlnR0Z1emZSZ0dkNGczYmxzdzl4VzhNNjVFRG5yNVNHakhZbw?oc=5",
+          "title": "\"K-브랜드 최저가에”…몰테일, 다나와 연계로 14억개 상품 추가",
+          "date": "2026-09-28"
+        },
+        {
+          "name": "한국금융신문",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE16d2RRUi1JRDNXLXdVODRQeE1RQTQ4RUl0cThuZWl0Nk5DT05ETXhBTGdZWV9jelZkYkhNYjlSdzIxZEJadmJlb1dhWGZFRjZfWFVpTGhBRlAyYjVWQ3FWR3FkTjIwcGZ5YVFQQjEyelF3ZXFuNjRpRVZYQXA?oc=5",
+          "title": "몰테일, 다나와와 손잡고 글로벌 쇼핑 강화…‘국내 최저가 쇼핑 지원’",
+          "date": "2026-09-28"
+        },
+        {
+          "name": "데일리안",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBBb28tSmhwcGRKY2RuZHNzX2Y2RjY5VEJobVVyTHNwOGdRR2R4elJWOExrVmw3X2hmSzZoVGprcHRaM1UyeGJQeWRSS0NqLUQ2YmpLXw?oc=5",
+          "title": "몰테일, 다나와와 손잡고 글로벌 쇼핑 강화",
+          "date": "2026-09-28"
+        },
+        {
+          "name": "뉴스탭",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBJWjlhTkhwVk5jYlRkR1FPcXJpaG9pV1NXek5uRXhVb0FzdlhsX3d0WllTWWdEQ2NncEF1YmlVaG1uT1pCRVN2dUNSNGZmYTFKYnlJeHNVUTA4aHJNVndtUVBEa0xPRDBHclhNdQ?oc=5",
+          "title": "몰테일·다나와 손잡았다…해외에서도 K-브랜드 최저가 쇼핑",
           "date": "2026-09-28"
         }
       ],
-      "date": "2026-09-28"
+      "date": "2026-09-28",
+      "id": "20260928-00"
     },
     {
-      "id": "20260928-f01",
-      "cat": "market",
-      "importance": "low",
+      "cat": "labor",
+      "importance": "high",
+      "company": "한화에어로스페이스",
+      "title": "경력 채용 내 ‘나이·출신대학 제한’ 지침 논란과 공식 사과",
+      "body": "한화에어로스페이스가 채용 과정에서 특정 연령 이하와 11개 대학 출신만을 우대하는 지침을 내려 차별 논란이 일자 대표이사가 공식 사과하고 재발 방지를 약속했어요.",
+      "insight": "고용상 연령차별금지법 위반 소지 및 학벌 차별 이슈는 브랜드 신뢰도와 우수 지원자 유입에 치명적인 타격을 줄 수 있어요.",
+      "action": "그룹 전 계열사의 채용 전형 기준과 서류 심사 가이드라인에 차별적 요소가 없는지 블라인드 평가 체계를 즉시 재확인해 보세요.",
       "teams": [
+        "채용",
+        "노무·ER"
+      ],
+      "tags": [
+        "채용차별",
+        "연령차별",
+        "채용리스크",
+        "기업브랜딩"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "press9.kr",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB0MXA3Nk5LZkJ1a2ZEWFJjUVZhZzhjdTg0RWZGekdfRnBvYVZmMmlMOVBicngwczZYVHcyV1ZWeGotc215amhEbEhtaU8xRnl2cWpaREpvS1R2aVkxUnJHVFFDVjE?oc=5",
+          "title": "한화에어로스페이스 '1980년생 이하·11개 대학' 채용 논란…대표 사과·책임자 징계",
+          "date": "2026-09-28"
+        },
+        {
+          "name": "v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4xMTFsbEh3OGQwMW1HcDF1Z2gyRHhQemthZVkzN054cDZGQ1dmcEZYTW1uMlM2UFd5Z01QbmFsWHBobzd2UmYwTUhLbnZZalk?oc=5",
+          "title": "한화에어로, ‘나이·학벌 제한’ 채용 지침 공식 사과",
+          "date": "2026-09-27"
+        },
+        {
+          "name": "v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1GbzBlZXVOU3dBY1psQ0NyaWV6dGZoZFpINDNmNWhRb3J1SXJ0WEVyeFp4X1AwbkpsTmQ3R0pleVFpMEg4SkE?oc=5",
+          "title": "‘1980년생 이하’ 등 채용 기준 논란…한화에어로 이부환 대표 공식 사과",
+          "date": "2026-09-27"
+        },
+        {
+          "name": "v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5Zdzd3bm16T1Y2d3FDeWZOVmdqRDlGUlZ0c3AwQ25ZYUVuZGhrZmZsN3lodFR1SV9HTmFxQkh2bzFaQS1INGc?oc=5",
+          "title": "한화에어로, '경력직 채용 지침' 사과…재발방지책 마련키로",
+          "date": "2026-09-27"
+        },
+        {
+          "name": "v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE90X2VweGFsZnR4R2xnVTNNX1ZFZ1ZxdW5fdTJ3ZXRHd0Nnemk5elBQRlVMQXRicThKTEI4bUNfcU5EOVJXeVpVMV8zejN2Ulk?oc=5",
+          "title": "한화에어로 ‘11개 대학’ 경력채용 지침에 사과…“개인 일탈”",
+          "date": "2026-09-27"
+        },
+        {
+          "name": "v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5zTERaX2tPb0g3VE9DeE9fUmI3Z0ZGSkhBOExJVHc3bmR0dGJ4RFpxaHlVTzh2Q0I4REFvX19ScDBkY3M0R0E?oc=5",
+          "title": "한화에어로, '경력직 채용 지침' 사과…\"재발 방지책 마련\"",
+          "date": "2026-09-27"
+        }
+      ],
+      "date": "2026-09-28",
+      "id": "20260928-02"
+    },
+    {
+      "cat": "labor",
+      "importance": "high",
+      "company": "정부",
+      "title": "2026년 하반기 인사·노무 주요 개정 법령 점검 필요",
+      "body": "2026년 하반기 근로기준법, 모성보호 및 남녀고용평등 관련 규정 등 주요 노동법령 개정 사항이 잇따라 적용되면서 기업 인사노무 관리 점검이 요구돼요.",
+      "insight": "근로시간, 모성보호제도 등 주요 법령 변화는 사내 취업규칙 개정과 복리후생 기준에 직접적인 영향을 미쳐 선제적 법률 검토가 필수적이에요.",
+      "action": "하반기 개정 법령 목록을 바탕으로 취업규칙 및 근로계약서, 휴가 규정을 전수 대조 점검해 보세요.",
+      "teams": [
+        "노무·ER",
+        "인사기획",
+        "보상·복리후생"
+      ],
+      "tags": [
+        "노동법개정",
+        "취업규칙",
+        "노무점검",
+        "컴플라이언스"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "법률신문",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1MSGVDUzZZNl9hU2F1aGJMemVLS1czZmVidVN0eEkzTXJxN2ZWVkxjTmxJSldDSFAtdUtKemxoWEdSdXBNak5jeXI4MjRuWlNfOUlYVkRma0F4X1NXeWxtZUUwbWJEYUpnRWZrQVdxVkF3Z9IBckFVX3lxTE1MSGVDUzZZNl9hU2F1aGJMemVLS1czZmVidVN0eEkzTXJxN2ZWVkxjTmxJSldDSFAtdUtKemxoWEdSdXBNak5jeXI4MjRuWlNfOUlYVkRma0F4X1NXeWxtZUUwbWJEYUpnRWZrQVdxVkF3Zw?oc=5",
+          "title": "2026년 하반기 인사·노무 관련 법령 주요 개정 사항",
+          "date": "2026-09-28"
+        }
+      ],
+      "date": "2026-09-28",
+      "id": "20260928-01"
+    },
+    {
+      "cat": "labor",
+      "importance": "high",
+      "company": "법원",
+      "title": "주말 업무 카톡에 대한 법원의 ‘직장 내 괴롭힘’ 인정 판결",
+      "body": "노동청의 불인정 판단과 달리 법원이 주말에 전송된 반복적 업무 카톡 지시를 업무상 적정 범위를 넘은 직장 내 괴롭힘으로 인정하는 판결을 내렸어요.",
+      "insight": "근무시간 외 메신저 연락 관행에 대한 법적 판단 기준이 한층 엄격해지고 있어 오프보딩 시간권 존중이 법률 리스크 예방의 핵심이 되었어요.",
+      "action": "리더십을 대상으로 퇴근 후 및 주말 메신저 업무 지양 가이드를 재배포하고 캠페인을 전개해 보세요.",
+      "teams": [
+        "노무·ER",
+        "조직문화·HRD"
+      ],
+      "tags": [
+        "직장내괴롭힘",
+        "연결차단권",
+        "업무카톡",
+        "노무판례"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "edaily.co.kr",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOaTk0QUxFZFZMekk2LXBDejUwZHoxUEF1Y3FTMWZ4emdVRV9Xck95d1BmRXhFMGNRcHJmeGlUeG9lajF1SkRUM01aQTZGaFpZM1daRWE3aWhnTlEzM1FjSnNOT2ltSHlLSjd5WHpOR1UzakFmM2EwaHZfVEFjXzBTVg?oc=5",
+          "title": "같은 ‘주말 카톡’인데…법원은 직장내괴롭힘, 노동청은 아니었다",
+          "date": "2026-09-27"
+        }
+      ],
+      "date": "2026-09-27",
+      "id": "20260928-03"
+    },
+    {
+      "cat": "ecom",
+      "importance": "high",
+      "company": "컬리",
+      "title": "컬리, 퀵커머스 사업 성장 맞춰 ‘N마트’ 조직 본부로 승격",
+      "body": "컬리가 1시간 내외 퀵커머스 서비스인 N마트 담당 조직을 정식 ‘본부’로 승격하며 신사업 육성과 조직 내 위상 강화를 공식화했어요.",
+      "insight": "이커머스 업계가 퀵커머스와 신선물류 확장을 위해 기민한 본부 체제 개편과 핵심 리더십 전진 배치를 적극 실행하고 있어요.",
+      "action": "이커머스 시장 변화에 맞춰 우리 그룹 신사업 부서의 조직 편제 및 리소스 적정성을 평가해 보세요.",
+      "teams": [
+        "인사기획"
+      ],
+      "tags": [
+        "컬리",
+        "N마트",
+        "조직개편",
+        "퀵커머스",
+        "신사업"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "비즈니스포스트",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5jTVlJRVAyaEJBbVFNZnN5YXI1aDdBeUhtVnNRNGdteHJnaWdRSTZlVXZrZHNtSGh0bC1RaHY0azl0VW9pRFdZd1dvQjhWdjJhUTdXWFp5TmxNTUxBS3h2OUM2b09MU3NJTUdHbjJ1UjlaR2s?oc=5",
+          "title": "컬리 N마트 담당 조직도 '본부'로 격상, 김슬아 덩치 커진 신사업 존재감 높인다",
+          "date": "2026-09-28"
+        }
+      ],
+      "date": "2026-09-28",
+      "id": "20260928-04"
+    },
+    {
+      "cat": "ecom",
+      "importance": "high",
+      "company": "다우기술",
+      "title": "다우기술 사방넷 2.0 공개, 쇼핑몰 통합관리 경쟁 격화",
+      "body": "다우기술이 코리아 이커머스페어에서 기능과 확장성을 대폭 업그레이드한 쇼핑몰 통합관리 서비스 ‘사방넷 2.0’을 공식 선보였어요.",
+      "insight": "플레이오토의 직접적인 경쟁사인 사방넷의 대규모 솔루션 업그레이드는 셀러 솔루션 부문의 인재 확보 경쟁으로 이어질 가능성이 높아요.",
+      "action": "플레이오토 프로덕트/개발 인력의 이탈 방지 모니터링을 강화하고 전문 개발 인력 풀을 보강해 보세요.",
+      "teams": [
+        "인사기획",
         "채용"
       ],
-      "company": "뉴데일리",
-      "title": "국가철도공단, 하반기 184명 채용 … 신입·경력직부터 청년인턴까지",
-      "body": "국가철도공단, 하반기 184명 채용 … 신입·경력직부터 청년인턴까지 뉴데일리",
-      "insight": "",
-      "action": "",
-      "tags": [],
+      "tags": [
+        "사방넷",
+        "플레이오토",
+        "셀러솔루션",
+        "경쟁사이탈방지"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "지디넷코리아",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5IZXBQeVJRamhWSTVpSEt1T1lkTzlscnFCZXp2dmstdE5WZGJYUy04NzdjWUdoajdmNHVLSFZKaXVOLUk1Um9VZDAxcmlVWmZWMUNRTWl3?oc=5",
+          "title": "다우기술, 코리아 이커머스페어서 ‘사방넷 2.0’ 선보여",
+          "date": "2026-09-28"
+        }
+      ],
+      "date": "2026-09-28",
+      "id": "20260928-05"
+    },
+    {
+      "cat": "market",
+      "importance": "mid",
+      "company": "아마존",
+      "title": "아마존, 감원 후 AI 전문인력 부족으로 ‘부메랑 채용’ 가속",
+      "body": "글로벌 빅테크 아마존이 대규모 감원 이후 AI 핵심 역량 확보를 위해 퇴사한 우수 개발자들을 다시 영입하는 '부메랑 채용'에 집중하고 있어요.",
+      "insight": "검증된 사내 지식과 온보딩 비용을 줄일 수 있는 알룸나이(Alumni) 네트워크 관리가 핵심 인재 재확보의 전략적 통로가 되고 있어요.",
+      "action": "퇴직한 고성과 IT/개발 핵심 인재들의 풀을 DB화하고 분기별 안부 및 재영입 컨택 프로세스를 구축해 보세요.",
+      "teams": [
+        "채용",
+        "인사기획"
+      ],
+      "tags": [
+        "부메랑채용",
+        "아마존",
+        "핵심인재",
+        "알룸나이"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "메디컬투데이",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBsbGR4VllpUHZ1SnlJZmpKLUNfZWcxYkVIM0hzYVJVXzd4S1BlWlZZUW50QTZONnR6enF0dDg3MFZTc1NmZ2xZV0xxVEFVZnE5MXFKWnA0ZHN4emttM3M0blFpUzZKNVNPRGdYZw?oc=5",
+          "title": "\"다시 돌아와달라\"…아마존(AMZN.O), AI 인재 '부메랑 채용' 나섰다",
+          "date": "2026-09-28"
+        },
+        {
+          "name": "네이트",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0zUXlpUmt1Q2l5VUlFN041WDdkanRWbVpsdlFMMTc5LVJZSHZNTE9GWktfUm9DUnBLZ01YZGl1dUlzUlB6S3U5UzA3elpYdVc0eHBZ?oc=5",
+          "title": "AI가 일자리를 줄인다고? 엔비디아·아마존은 늘렸다",
+          "date": "2026-09-28"
+        },
+        {
+          "name": "미주조선일보",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA5RkNlWmw3eUxUTzV0Nm9tRlFhVEJUNU8wb0NwUjZpZUZMOVpMZlFMbkQycDhJR2JCT21NQXdYNXJRbmhzWk1zSW1ITWVEYnhKR0V2ZTlvWmVCemZCbGhxaG5Wd2RuOVRUUW03ZnVQdVhYcURPYkE?oc=5",
+          "title": "3만명 감원 아마존, 인력난에 해고자 '부메랑' 채용",
+          "date": "2026-09-27"
+        },
+        {
+          "name": "Vietnam.vn",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMVNfUEZSRzEyR2t5Y0ZqWHp1Sk8xbDR6S2xESWc5enlOSE1QYllORG8yRFdhcWxQcGVjS0syNVRiU1VZTjYyc3U2TmVYRmhfaGpXV2tMM2ZSdElpMFUwdl9XSmQ1MHJvbDhiMGdiYVRVaEJfZHpKTXlGR2g5VE92QTdQTHFLYm8?oc=5",
+          "title": "아마존이 3만 명을 해고한 후, 이전 직원들을 재고용하고 있습니다.",
+          "date": "2026-09-27"
+        },
+        {
+          "name": "sedaily.com",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB4QVc1OXhDNnlyVmRqbmJIYWUzd2FQUFpWYzF1UTExd0xoSVY0MWZLT2dvaHFvMVNpRUh1Qmk2b0VuWDk3UndqRHU3S2JYTlhUYWc?oc=5",
+          "title": "‘AI가 일자리 줄인다’는 통념, 아마존·구글서는 깨졌다",
+          "date": "2026-09-27"
+        }
+      ],
+      "date": "2026-09-28",
+      "id": "20260928-07"
+    },
+    {
+      "cat": "market",
+      "importance": "mid",
+      "company": "쿠팡풀필먼트서비스",
+      "title": "CFS, 영남이공대와 손잡고 ‘AI물류자동화과’ 신설 산학 협력",
+      "body": "쿠팡풀필먼트서비스(CFS)가 전문대학과 협력해 AI 물류자동화 맞춤형 학과를 신설하고 자동화 물류 전문 인재를 직접 양성·채용하기로 했어요.",
+      "insight": "물류 및 풀필먼트 사업은 자동화 기술 인력 확보가 핵심 과제로 부상했으며, 산학 협력을 통한 선제적 인재 파이프라인 조성이 효과적이에요.",
+      "action": "스윗트래커 및 몰테일 물류 거점의 전문 오퍼레이션 인력 수급을 위해 거점 대학 연계 인턴십을 기획해 보세요.",
+      "teams": [
+        "채용",
+        "조직문화·HRD"
+      ],
+      "tags": [
+        "쿠팡풀필먼트",
+        "물류자동화",
+        "산학협력",
+        "물류채용"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "경북매일",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE14emxzOEpSY2Zjckw5UVhic2ttWUdJU3ZoSk9LSXE3VURSenhRNm1aUDBwdVM0ZjhpQ2FsODJHNlJGOUY3QTFoQ3hrQUFuTXJDQlFqQnFTbWI1Zw?oc=5",
+          "title": "영남이공대 AI물류자동화과 신설…쿠팡과 손잡고 현장인재 키운다",
+          "date": "2026-09-28"
+        },
+        {
+          "name": "세명일보",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9IMkhmMlRFR242ZENIZS1pak5Vd1NEeUlib1UxUXdjbUc5ekFpZGhudXpjYmtFc2MybUpNV3VPcXhuY0V0Y1ZVLU13UUNPMVF1MU5qZHhhRm5fZTJEamNjX3VLd2tZQkZXTnJQWlAzUjE?oc=5",
+          "title": "영남이공대, 쿠팡풀필먼트서비스와 공동운영 AI 물류자동화과 신설",
+          "date": "2026-09-28"
+        },
+        {
+          "name": "이뉴스투데이",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5nX0FudW1veWp4clhBampJMnQxbmU3RjZLSXVqU0t4MTJYTUdHeEpMdXRuUVgzcGdmalkxREd3VGZZVVJpQjJQdmVvX0ZycHhuMmtDRExhYnZFOU95LVMtdG85VVBpcnFDclpmcW5JVGJIOE5S0gF0QVVfeXFMTmdfQW51bW95anhyWEFqakkydDFuZTdGNktJdWpTS3gxMlhNR0d4Skx1dG5RWDNwZ2ZqWTFER3dUZllVUmlCMlB2ZW9fRnJweG4ya0NETGFidkU5T3ktUy10bzlVUGlycUNyWmZxbklUYkg4TlI?oc=5",
+          "title": "영남이공대, AI물류자동화과 신설···쿠팡풀필먼트서비스와 공동 운영",
+          "date": "2026-09-28"
+        },
+        {
+          "name": "미주중앙일보",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5vOHp1TTk0c3JwbTJqSmgtMFN5X1NVQVZnQ0Y5VFNxclh2MF9hanM2LUJsVnNFY3BMVVdSUmwyVXhtX3V6aEN3ZjNnLTJIcWFzb1B5bTI1M2lJamhmUDdMa3V3?oc=5",
+          "title": "영남이공대, 2027학년도 AI물류자동화과 신설",
+          "date": "2026-09-28"
+        },
+        {
+          "name": "서울경제TV",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5GSHN2dHVrRHZ1QnZaVXZYMU52RnctYkZPeGlxRGtDbGZCTmlRaGlMUHZIMmNYVHV4WmczOExIUFpPSVBuNGprdnAzZTRhMlJlVW9XMU04MG1YeHlZOWhuRWs4bG0?oc=5",
+          "title": "영남이공대, AI물류자동화과 신설…쿠팡풀필먼트서비스 공동운영학과로 취업 경쟁력 높인다",
+          "date": "2026-09-28"
+        }
+      ],
+      "date": "2026-09-28",
+      "id": "20260928-11"
+    },
+    {
+      "cat": "labor",
+      "importance": "mid",
+      "company": "수원시 인권센터",
+      "title": "수원시 인권센터 직장 내 괴롭힘·갑질 결정례집 발간",
+      "body": "수원시 인권센터가 지난 3년간의 직장 내 괴롭힘, 폭언, 연령차별, 갑질 행위 등에 대한 구체적인 판단 기준과 조사 결정례집을 공개했어요.",
+      "insight": "사내 고충처리 위원회 및 HR 담당자가 괴롭힘 신고 접수 시 법적·행정적 판단 잣대로 삼을 수 있는 실무 레퍼런스로 유용해요.",
+      "action": "사내 고충 접수 사건의 사실조사 및 양형 기준 수립 시 해당 공공 결정례집의 판단 요건을 벤치마킹해 보세요.",
+      "teams": [
+        "노무·ER",
+        "조직문화·HRD"
+      ],
+      "tags": [
+        "직장내괴롭힘",
+        "결정례집",
+        "갑질예방",
+        "사내조사"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "신아일보",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5GZEp2OUwwWlNPTGhEZEthR3R0V0FkUUp4NlVsSVlfRzF5T21NUGlweDBpeEktU1VacnYwSHo4Tm5EVXNuUHA2WVN5V0xIaVdEeGZteU1EaFhfQXBvdURpdnBJOWYtOUstd3NmSjR1MlY?oc=5",
+          "title": "수원시 인권센터, 직장 내 괴롭힘·성희롱 등 결정례집 발간",
+          "date": "2026-09-28"
+        },
+        {
+          "name": "메트로신문",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBqdUtsNzQ4OThrM1lCdXlrSzFzMHctTnRoWVZjVmNTS2ZKb3VzQ05raURhc2k0Ynd6NkZzSVk4bHR4a1VxQWVEZlAzVVRmcklhRFR5M1M2VVQ3bEJ6aU1oTw?oc=5",
+          "title": "수원특례시 인권센터, 직장 내 괴롭힘·성희롱 등 결정례 발간",
+          "date": "2026-09-28"
+        },
+        {
+          "name": "yna.co.kr",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1iX05CMkRNYmIxMjVIcmVkTlVyR1hJWXVROUVsVU1uZHdoUXQ4X3hTcHZ2LXBNWTBDR0tjWjBRSHJjYTY0MkloSE9xby1haWFxMFRqR0M4YU1zVEU?oc=5",
+          "title": "인권침해 사례 한눈에 볼 수 있다…'2023-2025 수원시 인권센터 결정례집' 발간",
+          "date": "2026-09-28"
+        },
+        {
+          "name": "월드장애인사랑뉴스",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1pTGZmZEEzd1RSaERqZDVDNDFMWTdGTm5TdlhRbndwemZreGdONnBCNEwyNjNqNXVpWHB6OHZFN3NfeFVWZlhscTNLZUszQ1FSeWUxVHFyNlVBN1RoRjhMcTFsT1FkbzNhckZvYlVWVQ?oc=5",
+          "title": "수원시 인권센터, 직장 내 괴롭힘·성희롱·갑질 등 ‘인권침해 결정례집’ 발간",
+          "date": "2026-09-28"
+        },
+        {
+          "name": "경기타임스 e",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE12d0xUMTdXUUFsWGxSQi1lV2txaVI4Sk9oUFppeURtQjJxd1RXdjAtdEE1T1Q5cVJWTFRKcjc1TTVucmI0T0s4dEVrTWl6c1IxVEdXZ0ZXOVZBVnhKYi12dHRNRndwbDRfek5B?oc=5",
+          "title": "수원특례시, 직장 내 괴롭힘·갑질·연령차별…인권침해 판단 기준 공개",
+          "date": "2026-09-28"
+        }
+      ],
+      "date": "2026-09-28",
+      "id": "20260928-13"
+    },
+    {
+      "cat": "ecom",
+      "importance": "mid",
+      "company": "섹타나인",
+      "title": "섹타나인, 카카오페이·쿠팡 출신 한순욱 신임 대표 선임",
+      "body": "SPC그룹의 IT·마케팅 솔루션 계열사 섹타나인이 카카오페이 COO 및 쿠팡 출신인 한순욱 대표를 영입해 플랫폼 및 AI 전환에 나섰어요.",
+      "insight": "플랫폼 및 이커머스 고위 리더십의 이동이 활발해지며 AI 기반 커머스 생태계로의 전환 경쟁이 거세지고 있어요.",
+      "action": "동종 플랫폼 기업들의 임원급 및 핵심 리더 영입 트렌드를 파악하고 인재 파이프라인 관리를 강화해 보세요.",
+      "teams": [
+        "인사기획",
+        "채용"
+      ],
+      "tags": [
+        "섹타나인",
+        "쿠팡",
+        "리더십이동",
+        "플랫폼인재"
+      ],
       "our_group": false,
       "sources": [
         {
           "name": "뉴데일리",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZXBmTEFMUFJ5d2hkLXBXTVYxeWN1RUtQanZZUlgzS2tqUjc2MmI3emREcjM1UEh0amVUQ0plelVrd1pWM3pSUUR1eG8xVzBsaEFIbjl0WTJWUm5MV2VSbEY3NE1ES3pFTEhxMjBTR2hqU1JzdDhsb3BrNzBzRzRmQ9IBgAFBVV95cUxQZXBmTEFMUFJ5d2hkLXBXTVYxeWN1RUtQanZZUlgzS2tqUjc2MmI3emREcjM1UEh0amVUQ0plelVrd1pWM3pSUUR1eG8xVzBsaEFIbjl0WTJWUm5MV2VSbEY3NE1ES3pFTEhxMjBTR2hqU1JzdDhsb3BrNzBzRzRmQw?oc=5",
-          "title": "국가철도공단, 하반기 184명 채용 … 신입·경력직부터 청년인턴까지",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdFQ1aFZTRVZNUER2algzdUowODFrWUg4NEY2Z0dySVU4V0VWUHozVGJzX2s5UHpfOE52c0NkZFlyUWtLUk91aTJVOVh6OFo0N2l0SzYwckJ4LWltNDBEWVc0Um1ycy1wcDl6VUc5MUZuOHVfZUR5Z3lvM2Q2Uzk3eNIBgAFBVV95cUxQdFQ1aFZTRVZNUER2algzdUowODFrWUg4NEY2Z0dySVU4V0VWUHozVGJzX2s5UHpfOE52c0NkZFlyUWtLUk91aTJVOVh6OFo0N2l0SzYwckJ4LWltNDBEWVc0Um1ycy1wcDl6VUc5MUZuOHVfZUR5Z3lvM2Q2Uzk3eA?oc=5",
+          "title": "섹타나인, 신임대표에 카카오페이·쿠팡 출신 한순욱 선임 … AI·플랫폼 전환 속도",
           "date": "2026-09-28"
-        }
-      ],
-      "date": "2026-09-28"
-    },
-    {
-      "id": "20260928-f02",
-      "cat": "market",
-      "importance": "low",
-      "teams": [
-        "채용"
-      ],
-      "company": "insnews.co.kr",
-      "title": "신협, 2027년 신입직원 공채 실시… 일반·IT직군 채용",
-      "body": "신협, 2027년 신입직원 공채 실시… 일반·IT직군 채용 insnews.co.kr",
-      "insight": "",
-      "action": "",
-      "tags": [],
-      "our_group": false,
-      "sources": [
+        },
         {
-          "name": "insnews.co.kr",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5QeC10bndxV2J6eTJxVmNuaUN3cW1XaU9WclkyWWZYWTMxYk9NMVBySExRTHV2V1lYUFJXSW5TYlZmVkVESzZpMm0wczdQSEFESlBsQklEY29iZVFIa1piYy02dWIyRmFYaGZr0gFvQVVfeXFMUFhZbXhNUkc0U0VXakJKd0xETFJVYVNPZWZzS1RzMzVGSV9XdUkybUNzZm1QdGJETWczbVI4NU1yLUplSFZWQkpOemxGV2NqNGUtUUFJUERYejZPYjNEcE5oQVdiN0RpenNrVWNuTzYw?oc=5",
-          "title": "신협, 2027년 신입직원 공채 실시… 일반·IT직군 채용",
+          "name": "월요신문",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA1dE9HNkowYXdMaVc1SHZxb2tJcjNHa1NvWWJkakVobnIyazNEX1hmQnpPSlJhX3FUa0tXOExRWDVvRmZDXzNfc2YwT0ZrQV9nd0RFcUFUeTRjQjc3SGh5MnhaU0Q5bndTNXc?oc=5",
+          "title": "섹타나인, 한순욱 신임 대표 선임…디지털 혁신·AI 전환 지원",
           "date": "2026-09-28"
-        }
-      ],
-      "date": "2026-09-28"
-    },
-    {
-      "id": "20260928-f03",
-      "cat": "market",
-      "importance": "low",
-      "teams": [
-        "채용"
-      ],
-      "company": "물류신문",
-      "title": "한국선급, 2026년 제2차 신입 및 경력직원 공채",
-      "body": "한국선급, 2026년 제2차 신입 및 경력직원 공채 물류신문",
-      "insight": "",
-      "action": "",
-      "tags": [],
-      "our_group": false,
-      "sources": [
+        },
         {
-          "name": "물류신문",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1SNlVKcXFrcEsxWVZiRkc3NEVlSGdqNG44T1VFUnQ2cGdXRVJvandiUm50c1NOeVZ1MFd1RUdpQXp1Z1g1SUFka0I5MFhRRWx4cEY5YVNqMDFwTl9OYVNxbVNheDM5UWU3SF9v?oc=5",
-          "title": "한국선급, 2026년 제2차 신입 및 경력직원 공채",
+          "name": "메가경제",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBqUThKdlRkeFgxLXVOWDdncW1rZzRoc2dzZDAyMEFRbHNBNjU2aGI5Wk4wNU16VFBUZXNobWNETG82WElRb2ZXUnJpNUtwRGs2OGw1WndtUzRkRkRsQXBNU0xZanFpbzdiaFJiZVFHc2dRUdIBckFVX3lxTFBqUThKdlRkeFgxLXVOWDdncW1rZzRoc2dzZDAyMEFRbHNBNjU2aGI5Wk4wNU16VFBUZXNobWNETG82WElRb2ZXUnJpNUtwRGs2OGw1WndtUzRkRkRsQXBNU0xZanFpbzdiaFJiZVFHc2dRUQ?oc=5",
+          "title": "섹타나인, 한순욱 전 카카오페이 COO 신임 대표 선임…“AI·데이터 기반 플랫폼 강화”",
           "date": "2026-09-28"
         }
       ],
-      "date": "2026-09-28"
+      "date": "2026-09-28",
+      "id": "20260928-10"
     },
     {
-      "id": "20260928-f04",
-      "cat": "market",
-      "importance": "low",
+      "cat": "trend",
+      "importance": "mid",
+      "company": "소니",
+      "title": "글로벌 IT 기업들의 재택근무 축소와 전면 출근(RTO) 복귀 확산",
+      "body": "소니 반도체 8천 명이 사무실 출근으로 전환하는 등 글로벌 IT 및 테크 제조 기업들을 중심으로 사무실 출근 의무화 정책이 확산되고 있어요.",
+      "insight": "업무 몰입과 대면 협업 효율을 위한 출근 강화 기조가 지속되는 한편 직원들의 근무 유연성 유지 요구와의 조율이 중요해졌어요.",
+      "action": "현재 사업부별 코어타임 및 출퇴근 유연근무 운영 현황을 점검하고 협업 효율성 지표를 분석해 보세요.",
       "teams": [
-        "채용"
+        "조직문화·HRD",
+        "인사기획"
       ],
-      "company": "뉴스1",
-      "title": "철도공단, 하반기 신입·경력직·청년인턴 등 184명 채용 예정",
-      "body": "철도공단, 하반기 신입·경력직·청년인턴 등 184명 채용 예정 뉴스1",
-      "insight": "",
-      "action": "",
-      "tags": [],
-      "our_group": false,
-      "sources": [
-        {
-          "name": "뉴스1",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE80NWJWbmE3c3lPSnRpYTJUZURpTDFSclkyWDNkRDhaaW8wTDNyZzdWY09TQXZuUVBCb21pRkRTM1QwdjY1TDVaZVlrYXlmSVU3YXdRenA2NWM1aTlJbVlmSk10c1RGZ9IBZkFVX3lxTE80NWJWbmE3c3lPSnRpYTJUZURpTDFSclkyWDNkRDhaaW8wTDNyZzdWY09TQXZuUVBCb21pRkRTM1QwdjY1TDVaZVlrYXlmSVU3YXdRenA2NWM1aTlJbVlmSk10c1RGZw?oc=5",
-          "title": "철도공단, 하반기 신입·경력직·청년인턴 등 184명 채용 예정",
-          "date": "2026-09-28"
-        }
+      "tags": [
+        "RTO",
+        "오피스복귀",
+        "유연근무",
+        "근무방식"
       ],
-      "date": "2026-09-28"
-    },
-    {
-      "id": "20260928-f05",
-      "cat": "market",
-      "importance": "low",
-      "teams": [
-        "채용"
-      ],
-      "company": "dt.co.kr",
-      "title": "공채 줄이고 자소서 없애고…AI가 바꾼 은행권 채용문",
-      "body": "공채 줄이고 자소서 없애고…AI가 바꾼 은행권 채용문 dt.co.kr",
-      "insight": "",
-      "action": "",
-      "tags": [],
-      "our_group": false,
-      "sources": [
-        {
-          "name": "dt.co.kr",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9PNGJhcGdSbzd1VGlYWVZnOTFXaVFXc2J6b1ZrVDJvX2lFVllnS2szcFBLb0hZM3BuRWdpSXVESHZJRkdkM3IzNGJiM3ItZw?oc=5",
-          "title": "공채 줄이고 자소서 없애고…AI가 바꾼 은행권 채용문",
-          "date": "2026-09-28"
-        }
-      ],
-      "date": "2026-09-28"
-    },
-    {
-      "id": "20260928-f06",
-      "cat": "market",
-      "importance": "low",
-      "teams": [
-        "채용"
-      ],
-      "company": "부산일보",
-      "title": "국가철도공단 신입·경력직 103명 채용…청년인턴 80명도 모집",
-      "body": "국가철도공단 신입·경력직 103명 채용…청년인턴 80명도 모집 부산일보",
-      "insight": "",
-      "action": "",
-      "tags": [],
-      "our_group": false,
-      "sources": [
-        {
-          "name": "부산일보",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5kQWh4ZG9Vclc0T3Flb0VrRmp3OEh4eE95NFAwR3VXMU9UMW9FR2ExTnBWTnFKRkdnRjI4X0Z3clFnYkh0UHVRQlJhSmFxTVBXcFhQRFJMb2kxMk8wTkw4T2JvdVQtNDYwM0pRLWdMZDFsNlptaDEycjVERQ?oc=5",
-          "title": "국가철도공단 신입·경력직 103명 채용…청년인턴 80명도 모집",
-          "date": "2026-09-28"
-        }
-      ],
-      "date": "2026-09-28"
-    },
-    {
-      "id": "20260928-f07",
-      "cat": "market",
-      "importance": "low",
-      "teams": [
-        "채용"
-      ],
-      "company": "뉴시스",
-      "title": "철도공단, 하반기 184명 채용…청년층부터 전문경력직 망라",
-      "body": "철도공단, 하반기 184명 채용…청년층부터 전문경력직 망라 뉴시스",
-      "insight": "",
-      "action": "",
-      "tags": [],
-      "our_group": false,
-      "sources": [
-        {
-          "name": "뉴시스",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBZemw5NXVaTExlRVU4ZmFGZWNNX3RoUmhNbk1jMU9CVXgtMnBHR0FRRUJpOVlqRDItSi1wZzV1Mmx4ODh5cmJlMGtyM1poWG5BMXhjVU5UaUk4OUhqSWthV1gtRkt5Tm0xR0g3bV9OX3Iya2FpZGdHZNIBeEFVX3lxTFBZemw5NXVaTExlRVU4ZmFGZWNNX3RoUmhNbk1jMU9CVXgtMnBHR0FRRUJpOVlqRDItSi1wZzV1Mmx4ODh5cmJlMGtyM1poWG5BMXhjVU5UaUk4OUhqSWthV1gtRkt5Tm0xR0g3bV9OX3Iya2FpZGdHZA?oc=5",
-          "title": "철도공단, 하반기 184명 채용…청년층부터 전문경력직 망라",
-          "date": "2026-09-28"
-        }
-      ],
-      "date": "2026-09-28"
-    },
-    {
-      "id": "20260928-f08",
-      "cat": "market",
-      "importance": "low",
-      "teams": [
-        "채용"
-      ],
-      "company": "labortoday.co.kr",
-      "title": "[김선영 공인노무사] 좋은책신사고 노동탄압 피해자, 노무사 된 까닭은",
-      "body": "[김선영 공인노무사] 좋은책신사고 노동탄압 피해자, 노무사 된 까닭은 labortoday.co.kr",
-      "insight": "",
-      "action": "",
-      "tags": [],
-      "our_group": false,
-      "sources": [
-        {
-          "name": "labortoday.co.kr",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE90N29fZkZWMUV1c01YU19zajBrLXNMNkxoM1NHRTJoRmoySkpnYXl4SWNkeTFxUURmTkh2cjVDZFV1ZGxUbldKbW9Sd3oxRXphd2dsWUFIQ25UdWFSVEhCSVhlUlVZNnJ2N1c5TGRJZUk?oc=5",
-          "title": "[김선영 공인노무사] 좋은책신사고 노동탄압 피해자, 노무사 된 까닭은",
-          "date": "2026-09-28"
-        }
-      ],
-      "date": "2026-09-28"
-    },
-    {
-      "id": "20260928-f09",
-      "cat": "market",
-      "importance": "low",
-      "teams": [
-        "채용"
-      ],
-      "company": "아시아경제",
-      "title": "남해군, 하반기 수시인사 단행… 실무수습 53명 배치",
-      "body": "남해군, 하반기 수시인사 단행… 실무수습 53명 배치 아시아경제",
-      "insight": "",
-      "action": "",
-      "tags": [],
-      "our_group": false,
-      "sources": [
-        {
-          "name": "아시아경제",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Sb01CUnhMdF9sY1g2TlpsNzUzeGl2U3JvUEo3ak9VanhDSjJRV05wb1dmd3ZOLTBQZ29TWVc2OTU2cGl0ZlNnTTdSTE45SENqQl9vUUlNMnM4Q3hRX1cwMg?oc=5",
-          "title": "남해군, 하반기 수시인사 단행… 실무수습 53명 배치",
-          "date": "2026-09-28"
-        }
-      ],
-      "date": "2026-09-28"
-    },
-    {
-      "id": "20260928-f10",
-      "cat": "market",
-      "importance": "low",
-      "teams": [
-        "채용"
-      ],
-      "company": "경인방송 뉴스",
-      "title": "CJ, 하반기 신입 공채 40% 확대…대기업 채용시장에 '활기'",
-      "body": "CJ, 하반기 신입 공채 40% 확대…대기업 채용시장에 '활기' 경인방송 뉴스",
-      "insight": "",
-      "action": "",
-      "tags": [],
-      "our_group": false,
-      "sources": [
-        {
-          "name": "경인방송 뉴스",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4zSHBTNXBFc09aOFRUUHpiM2U2RWtxLThON2pQUERObHBqYVlmdHdjS1ZTV1ZESDRucGljZWNHcURacFoxNno0X3drM2FnQ2l3UGo3eFNjV1JVZ0dEeUFoMHlXSGTSAWhBVV95cUxNc2pWTnFfM1RxUDl2QWpRZkRQeWFMbTJGR3Q1WWRrZFdaVGVMX1hPM1B4aFEyTmxpQi1jZXdHUHg4M0c5YXlLUURTZXFlbDFHUlZsOE5EaFhvajRLTHcwUjVhc3RQRl9ZSw?oc=5",
-          "title": "CJ, 하반기 신입 공채 40% 확대…대기업 채용시장에 '활기'",
-          "date": "2026-09-28"
-        }
-      ],
-      "date": "2026-09-28"
-    },
-    {
-      "id": "20260928-f11",
-      "cat": "market",
-      "importance": "low",
-      "teams": [
-        "채용"
-      ],
-      "company": "v.daum.net",
-      "title": "벤처투자→고용 '선순환'…\"R&D 데스밸리 넘고 M&A 활성화 물꼬 터야\"",
-      "body": "벤처투자→고용 '선순환'…\"R&D 데스밸리 넘고 M&A 활성화 물꼬 터야\" v.daum.net",
-      "insight": "",
-      "action": "",
-      "tags": [],
       "our_group": false,
       "sources": [
         {
           "name": "v.daum.net",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1iaWhQRE5oUWItMXhJWHRqSUFWR0M5OTVGYS1GMEk0LWNXNDItT0U0Q0ptZXdQZ1dPYnY1X05sT0FFbXd3Y0tCcnFRQQ?oc=5",
-          "title": "벤처투자→고용 '선순환'…\"R&D 데스밸리 넘고 M&A 활성화 물꼬 터야\"",
-          "date": "2026-09-28"
+          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBJUFI2RWg3VDBfWlFjbVFpMHA2TjBqRmVFQ2ZFMkR4TS1aV2xzOXFXOVdmQ2duNlBXcWZmRVo0VUhsSG1ZWFE?oc=5",
+          "title": "\"이제 출근 하세요\"…日기업 사무실 복귀 확산에 소니 반도체도 합류",
+          "date": "2026-09-27"
+        },
+        {
+          "name": "yna.co.kr",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE02eldpLWpvVVFOMm83VHFORmlLMWxKcVV4OXgwTnhvUGRLZi03Q3pBVVVRbHJSOWcyakxKelZUb214aDVnUmVOMUQtZmg4cXNnXzNlRFhSVEpPSFJhMXdPVdIBYEFVX3lxTE02eldpLWpvVVFOMm83VHFORmlLMWxKcVV4OXgwTnhvUGRLZi03Q3pBVVVRbHJSOWcyakxKelZUb214aDVnUmVOMUQtZmg4cXNnXzNlRFhSVEpPSFJhMXdPVQ?oc=5",
+          "title": "日기업 '재택→출근' 잇따라…소니 반도체도 8천명 사무실로",
+          "date": "2026-09-27"
         }
       ],
-      "date": "2026-09-28"
+      "date": "2026-09-27",
+      "id": "20260928-09"
     },
     {
-      "id": "20260928-f12",
       "cat": "market",
-      "importance": "low",
+      "importance": "mid",
+      "company": "업계 전반",
+      "title": "구직자 절반 연봉 미공개로 지원 포기, 임금 투명화 요구 확산",
+      "body": "설문조사 결과 구직자의 50%가 연봉 정보를 알 수 없어 지원을 포기한 경험이 있으며, 10명 중 8명이 채용 시 임금 공개 의무화에 찬성했어요.",
+      "insight": "폐쇄적인 보상 정책은 우수 지원자 유치에 장벽이 되며, 채용 브랜딩 차원에서 처우 밴드 제시 등 임금 투명성 강화가 트렌드로 떠오르고 있어요.",
+      "action": "채용 공고 내 직무별 대략적인 처우 기준이나 복리후생 패키지 정보를 가시화하는 방안을 논의해 보세요.",
       "teams": [
-        "채용"
+        "채용",
+        "보상·복리후생"
       ],
-      "company": "Chosunbiz",
-      "title": "아파트 밖으로 눈 돌리는 건설사들… 원전·데이터센터 인재 뽑는다 - 조선비즈",
-      "body": "아파트 밖으로 눈 돌리는 건설사들… 원전·데이터센터 인재 뽑는다 - 조선비즈 Chosunbiz",
-      "insight": "",
-      "action": "",
-      "tags": [],
+      "tags": [
+        "임금투명화",
+        "채용공고",
+        "채용브랜딩",
+        "구직자동향"
+      ],
       "our_group": false,
       "sources": [
         {
-          "name": "Chosunbiz",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMVNheVJ3dTUwaUJ4d2ZJcktCYjVTNm1sWHR5bWpJek05MTVfX2VsTjY4RURIaWsxMlBmeU9NS29QdnRKUGJOZ25kTnBHT01Yd1RYcG9jUjB3a00zMXV2UzFuRkhNeEJSNHlYSVVWM3FhemVxZENiM2FZZXJUMjdOZkE1RThRWTJOcV9VcTJaY050N3A2SlFledIBrAFBVV95cUxQWHBEaDEzTDVXZEdxLWVYc3hTM0dWTG1FLVRwa0F4WTQ4b3JlUUJrb3dmb2dGN0xrb3d1cFFxbFZHZERuaS1Pa0gxaUlGTV9ucW5QNzE2dUpvN2FWcW0wU3hWckNtNXFXVy02QkZiWHlOTUwyQ0VlWTVxcm5KZlpHQlU2UE96ZzQ3QVVVUjZEeU01eVpsWkstN3llVDdVbFBUbUpnQjRsRTJtZXFL?oc=5",
-          "title": "아파트 밖으로 눈 돌리는 건설사들… 원전·데이터센터 인재 뽑는다 - 조선비즈",
-          "date": "2026-09-28"
+          "name": "v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB2SVZGMlRGUWFJczRncVZnVnlKUEdCZGdLVzVYQTZmeEtiR3Z5bXNxSFoxSlAxSlhyUXQyRmNmOHZTR1I4OUJmS2ktWlpRSXM?oc=5",
+          "title": "구직자 절반 “연봉 몰라 지원 포기”…10명 중 8명, 임금 공개 의무화 ‘찬성’",
+          "date": "2026-09-27"
         }
       ],
-      "date": "2026-09-28"
+      "date": "2026-09-27",
+      "id": "20260928-06"
     },
     {
-      "id": "20260928-f13",
       "cat": "market",
-      "importance": "low",
+      "importance": "mid",
+      "company": "금융권",
+      "title": "은행권의 대규모 정기공채 축소와 AI 중심 수시 채용 전환",
+      "body": "주요 은행들이 전통적 자기소개서 전형을 대폭 간소화하거나 폐지하고 AI 역량검사와 직무 중심 수시 채용 비중을 확대하고 있어요.",
+      "insight": "생성형 AI 시대에 따라 채용 서류 평가의 신뢰도가 낮아지면서 실질적인 직무 역량 검증 도구 도입이 필수가 되고 있어요.",
+      "action": "우리 그룹 신입 및 경력 채용 시 과제 전형과 실무 인터뷰 중심의 정밀 역량 평가 툴 고도화를 검토해 보세요.",
       "teams": [
         "채용"
       ],
-      "company": "파이낸셜포스트",
-      "title": "육아 값 vs 출근 값…삼성맨의 '차가운 계산기'",
-      "body": "육아 값 vs 출근 값…삼성맨의 '차가운 계산기' 파이낸셜포스트",
-      "insight": "",
-      "action": "",
-      "tags": [],
+      "tags": [
+        "AI채용",
+        "자기소개서",
+        "수시채용",
+        "채용프로세스"
+      ],
       "our_group": false,
       "sources": [
         {
-          "name": "파이낸셜포스트",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBRU2g4Y2gzVllhaVdHUlc3LUNsN1kxX0ZSU0lfV0NJa01uYzhRN1lWNXdTcnJ4aFRvVVNFbTREcVBvVFd1aWVXdU84OXNCR25iUFRDck15bEdOYnZTbFhDbnFQZjB6NTk3SWV4anJUQVI5U0lp?oc=5",
-          "title": "육아 값 vs 출근 값…삼성맨의 '차가운 계산기'",
+          "name": "v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4xSTlrMm9TSHBhTldmX0Y5anJpX1hEUTdldDZpWGZVMXJMNG4zZ0NEVnVuelFWMnBCMFgxZHNHUkdCZjdydDB4UklvSXU4bHc?oc=5",
+          "title": "공채 줄이고 자소서 없애고…AI가 바꾼 은행권 채용문",
           "date": "2026-09-28"
         }
       ],
-      "date": "2026-09-28"
+      "date": "2026-09-28",
+      "id": "20260928-08"
     },
     {
-      "id": "20260928-f14",
+      "cat": "trend",
+      "importance": "mid",
+      "company": "업계 전반",
+      "title": "연중 상시화되는 대기업 희망퇴직, 조직 인력 재편 가속화",
+      "body": "불황 극복 목적을 넘어 신사업 및 기술 전환을 위한 조직 내 인력 체질 개선 신호탄으로 대기업들의 희망퇴직이 연중 상시화되고 있어요.",
+      "insight": "비용 절감 차원의 감원보다 미래 직무 중심으로의 조직 재설계와 저성과자 관리 프로그램의 체계적 운영이 중요해지고 있어요.",
+      "action": "그룹 내 연간 정원(Headcount) 계획과 저직무 전환/재배치 프로세스가 적정하게 가동 중인지 점검해 보세요.",
+      "teams": [
+        "인사기획",
+        "노무·ER"
+      ],
+      "tags": [
+        "희망퇴직",
+        "인력재편",
+        "조직슬림화",
+        "인력운영"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "뉴스1",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBDbUFYSkc4cXV1S1NCQ2lXZmJTQ25FTUJwMXdObTBFZWQ5VXdIZUxwU0d2Z3Fyc0pwTXFYUmZ0cWdYeWhIMnJiSlJuR0sxdUV2cW1hQXBWZXR5RWwtY0Z30gFkQVVfeXFMTTJqdXRnVWNNVGx1dU9wRFlsMDdaektZOVdzWkhUSnRDYjAtVmtzbzN5SkdpVkl1SjZXamZzNDFPRHBqaUg2Vjc3d2hwY1FrY042WDhSay1CbkJoT1dvLVdVX29YZQ?oc=5",
+          "title": "\"장사 안돼서 내보내는 줄 알았는데\"…올해 희망퇴직 '인력 재편' 신호탄",
+          "date": "2026-09-27"
+        }
+      ],
+      "date": "2026-09-27",
+      "id": "20260928-12"
+    },
+    {
+      "cat": "trend",
+      "importance": "mid",
+      "company": "오프피스트",
+      "title": "[전문] AX(AI 전환) 프레임워크 구축 시 HR의 핵심 과제",
+      "body": "단순한 AI 도구 도입을 넘어 전사적인 AX(인공지능 전환)를 성공시키기 위해 조직 구조, 평가 방식, 일하는 방식의 정렬이 가장 중요하다는 분석이에요.",
+      "insight": "이커머스 가격비교 및 데이터 분석 경쟁력을 높이기 위해 전사 임직원의 AI 리터러시 강화와 실무 적용 독려 제도가 필요해요.",
+      "action": "임직원 대상 생성형 AI 활용 프롬프트 교육 및 업무 자동화 우수 사례 포상 제도를 설계해 보세요.",
+      "teams": [
+        "인사기획",
+        "조직문화·HRD"
+      ],
+      "tags": [
+        "AX",
+        "AI전환",
+        "조직문화",
+        "일하는방식"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "오프피스트",
+          "url": "https://www.offpiste.ai/articles/ax-전환-프레임워크에서-가장-중요한-일-2450",
+          "title": "ax 전환 프레임워크에서 가장 중요한 일",
+          "date": "2026-09-28"
+        }
+      ],
+      "date": "2026-09-28",
+      "id": "20260928-14"
+    },
+    {
       "cat": "market",
-      "importance": "low",
+      "importance": "mid",
+      "company": "오프피스트",
+      "title": "[전문] 실전 직무기술서(JD) 설계와 면접 시 핵심 평가 기준",
+      "body": "조직의 맥락에 맞춘 정교한 JD 작성이 채용 미스매치를 줄이며, 면접에서는 직무 적합성과 협업 역량 두 가지를 정밀 검증해야 한다는 제언이에요.",
+      "insight": "급변하는 이커머스 환경에서 모호한 채용 공고는 지원자 이탈을 초래하므로 현업 부서와의 JD 동기화가 채용 성패를 갈라요.",
+      "action": "현업 채용 부서장과 인터뷰 질문지를 사전 표준화하고 구조화 면접 평가표를 재정비해 보세요.",
       "teams": [
         "채용"
       ],
-      "company": "여성소비자신문",
-      "title": "금융권, 이환주 KB국민은행장 ‘사람 살리는 금융 릴레이 캠페인’ 동참·SKT-삼성전자와 5G 특화망 구축·신입직원 공개 채용 실시",
-      "body": "금융권, 이환주 KB국민은행장 ‘사람 살리는 금융 릴레이 캠페인’ 동참·SKT-삼성전자와 5G 특화망 구축·신입직원 공개 채용 실시 여성소비자신문",
-      "insight": "",
-      "action": "",
-      "tags": [],
+      "tags": [
+        "직무기술서",
+        "JD",
+        "면접평가",
+        "구조화면접"
+      ],
       "our_group": false,
       "sources": [
         {
-          "name": "여성소비자신문",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAydGhuX180NzcyWVdraXpWYzM0LUdnbUZQVUtabHlFSFNNa3NYdk9VcFJuWmZvLWwxR2hIRy16dDhjbHJaMWtjQUZnN1dOblZKX2V0Z1NmcTFHUjY3QXhpQkRzMmlvdw?oc=5",
-          "title": "금융권, 이환주 KB국민은행장 ‘사람 살리는 금융 릴레이 캠페인’ 동참·SKT-삼성전자와 5G 특화망 구축·신입직원 공개 채용 실시",
+          "name": "오프피스트",
+          "url": "https://www.offpiste.ai/articles/jd는-우리가-만들고-우리가-키우고-면접에서는-두-가지를-본다-2457",
+          "title": "jd는 우리가 만들고 우리가 키우고 면접에서는 두 가지를 본다",
           "date": "2026-09-28"
         }
       ],
-      "date": "2026-09-28"
-    },
-    {
-      "id": "20260928-f15",
-      "cat": "market",
-      "importance": "low",
-      "teams": [
-        "채용"
-      ],
-      "company": "매일일보",
-      "title": "인천 계양구, 복지시설 찾아 현장 목소리 청취",
-      "body": "인천 계양구, 복지시설 찾아 현장 목소리 청취 매일일보",
-      "insight": "",
-      "action": "",
-      "tags": [],
-      "our_group": false,
-      "sources": [
-        {
-          "name": "매일일보",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE02X1VQNzI3QmZKbTRydXl1T3dDMWdQSDJaMTlqTGR0SzhLclpGM1pXWHc0bGNrSjJ3MXhXTjZQbzMzOGNuS3dRWGJkYW1PT0QzOG9IdVRCOGtIYnpWRklCMi1jby3SAWhBVV95cUxQMlRJeVlvdmt5T1JBQ3YxeTV3UUgyUExTRmw0UWpSWnd6Y3ppTmFRMG8wdmNOUVIySVNjYUJ0RzkxTDVqMENCcE1XSGxXVkJmRW9xMXhBbmp6MmhGUUZQd3F1ZDZhY005Ug?oc=5",
-          "title": "인천 계양구, 복지시설 찾아 현장 목소리 청취",
-          "date": "2026-09-28"
-        }
-      ],
-      "date": "2026-09-28"
-    },
-    {
-      "id": "20260928-f16",
-      "cat": "market",
-      "importance": "low",
-      "teams": [
-        "채용"
-      ],
-      "company": "fetv.co.kr",
-      "title": "SK에코플랜트, 신입사원 집중 교육 후 반도체·AI 인프라 사업 현장 배치",
-      "body": "SK에코플랜트, 신입사원 집중 교육 후 반도체·AI 인프라 사업 현장 배치 fetv.co.kr",
-      "insight": "",
-      "action": "",
-      "tags": [],
-      "our_group": false,
-      "sources": [
-        {
-          "name": "fetv.co.kr",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5yU0RTSFBId2cxZktqWUFGNXdkUXpqUlE0aFBGdjdkUzAtcGdfb3A0S3E0a081bXNDSHF3cnFmNV91OGxGdjFsUjBtMS1sTGlaeHhDSGt3Z3EzQnVzZ1BjU0JaYTdQdU0z?oc=5",
-          "title": "SK에코플랜트, 신입사원 집중 교육 후 반도체·AI 인프라 사업 현장 배치",
-          "date": "2026-09-28"
-        }
-      ],
-      "date": "2026-09-28"
-    },
-    {
-      "id": "20260928-f17",
-      "cat": "market",
-      "importance": "low",
-      "teams": [
-        "채용"
-      ],
-      "company": "아웃소싱타임스",
-      "title": "[KASIA Forum] “인재라고 생각했는데, 왜 입사 후 행동은 다를까”",
-      "body": "[KASIA Forum] “인재라고 생각했는데, 왜 입사 후 행동은 다를까” 아웃소싱타임스",
-      "insight": "",
-      "action": "",
-      "tags": [],
-      "our_group": false,
-      "sources": [
-        {
-          "name": "아웃소싱타임스",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8tbFV3eVM2OVJFYkh1REc0WkFWbmQtQWpNSHVCOGxuSGR6a1k2bW5tODFfcGZHTzc4ZnFvVGdNZ05pZzNZaGxsWFlyTnktUllOcEZDNGZ6QlF6cjhMZ3k5T1AxREsxNzNEQXVHX29NTndJQQ?oc=5",
-          "title": "[KASIA Forum] “인재라고 생각했는데, 왜 입사 후 행동은 다를까”",
-          "date": "2026-09-28"
-        }
-      ],
-      "date": "2026-09-28"
-    },
-    {
-      "id": "20260928-f18",
-      "cat": "market",
-      "importance": "low",
-      "teams": [
-        "채용"
-      ],
-      "company": "파이낸셜포스트",
-      "title": "금융부터 IT까지...신협중앙회, '2027년 신입직원 공개채용' 진행",
-      "body": "금융부터 IT까지...신협중앙회, '2027년 신입직원 공개채용' 진행 파이낸셜포스트",
-      "insight": "",
-      "action": "",
-      "tags": [],
-      "our_group": false,
-      "sources": [
-        {
-          "name": "파이낸셜포스트",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5WWGNvMzVLZW9fZGE2Uk9udl9XMGp4TWFMYURGRTdWS3RQTU1ZSEVMcGdhWklrd0NWNENXbFMzWUUwQmJ1aGtLR3dxX2dBcjYwMzduQkJud3ZyYWEtVl9iZGw5R2VBUEFFNXNpVDJNTV9QQ3Vf?oc=5",
-          "title": "금융부터 IT까지...신협중앙회, '2027년 신입직원 공개채용' 진행",
-          "date": "2026-09-28"
-        }
-      ],
-      "date": "2026-09-28"
-    },
-    {
-      "id": "20260928-f19",
-      "cat": "market",
-      "importance": "low",
-      "teams": [
-        "채용"
-      ],
-      "company": "웹이코노미",
-      "title": "곡성군 입면 복지기동대, 장애 가구 주거환경 개선 봉사",
-      "body": "곡성군 입면 복지기동대, 장애 가구 주거환경 개선 봉사 웹이코노미",
-      "insight": "",
-      "action": "",
-      "tags": [],
-      "our_group": false,
-      "sources": [
-        {
-          "name": "웹이코노미",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA5aUVzWFNoLUxONjNpczl4T0dHYjFxTXloTHh4blVFOF85eHpOQVFBV0g2RGl4T195b09YcktvTlVRMkNxSnh5V3F6amhnRjQ4b1NTUlNoWWV6RnlITFdWNS03OUNrQV9XWkNQZ2pJQlY0QQ?oc=5",
-          "title": "곡성군 입면 복지기동대, 장애 가구 주거환경 개선 봉사",
-          "date": "2026-09-28"
-        }
-      ],
-      "date": "2026-09-28"
-    },
-    {
-      "id": "20260928-f20",
-      "cat": "market",
-      "importance": "low",
-      "teams": [
-        "채용"
-      ],
-      "company": "아시아타임즈",
-      "title": "[단독]현대차·LG엔솔 美 구금 사태 1년…‘관광비자 3개월마다 연장’ 채용 여전",
-      "body": "[단독]현대차·LG엔솔 美 구금 사태 1년…‘관광비자 3개월마다 연장’ 채용 여전 아시아타임즈",
-      "insight": "",
-      "action": "",
-      "tags": [],
-      "our_group": false,
-      "sources": [
-        {
-          "name": "아시아타임즈",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9qU3ctQVo1QXlNMFpzRXpPTVRHNVlYWGhZMHR1V2xHYnpnNDR3Um1yYjJaWktydTlCTEhtUUNMYmhkODN1dzhycHBpWnZYUnJtZDNvbVFFeUlCcTJiVVE?oc=5",
-          "title": "[단독]현대차·LG엔솔 美 구금 사태 1년…‘관광비자 3개월마다 연장’ 채용 여전",
-          "date": "2026-09-28"
-        }
-      ],
-      "date": "2026-09-28"
-    },
-    {
-      "id": "20260928-f21",
-      "cat": "market",
-      "importance": "low",
-      "teams": [
-        "채용"
-      ],
-      "company": "뉴스프리존",
-      "title": "영진전문대, ㈜엘앤에프 채용설명회 개최..기업 맞춤형 취업 지원 나서",
-      "body": "영진전문대, ㈜엘앤에프 채용설명회 개최..기업 맞춤형 취업 지원 나서 뉴스프리존",
-      "insight": "",
-      "action": "",
-      "tags": [],
-      "our_group": false,
-      "sources": [
-        {
-          "name": "뉴스프리존",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8yNnBheHo0bGx1Ym9zcHlwOHAtc2dYWUlFUjRHYXUwWERSRDltVFYtZzZMdlN0bVNTbTFiQ0k3VGdnOFhzc2tZQjJoYnFwblZ2S3kwTTM4VzBrejFxN25wemIyZTNUaDUzSEFMOG1sN0NSOVHSAXdBVV95cUxNYjZabm01QzVBQzV3VEQ0dEIzaGVEc2k1R05uemZLUGdpNGFIWjhXWjlnUmRRQjYtQ19mM2xZSTg4azFFVWxLYmR0T1ozUEFfcWRjZmZ5dU1nMzMxRDBEVEg4ZGZpQ2UzZjBQaS1lRjhoYXZTZFpodw?oc=5",
-          "title": "영진전문대, ㈜엘앤에프 채용설명회 개최..기업 맞춤형 취업 지원 나서",
-          "date": "2026-09-28"
-        }
-      ],
-      "date": "2026-09-28"
-    },
-    {
-      "id": "20260928-f22",
-      "cat": "market",
-      "importance": "low",
-      "teams": [
-        "채용"
-      ],
-      "company": "매일일보",
-      "title": "신협중앙회, 2027년 신입직원 공개 채용",
-      "body": "신협중앙회, 2027년 신입직원 공개 채용 매일일보",
-      "insight": "",
-      "action": "",
-      "tags": [],
-      "our_group": false,
-      "sources": [
-        {
-          "name": "매일일보",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE41N0s0YXhzWjVzOWd3X1laWGgtTE51VUp1TlptemdENkNfb2ZXZjNZZGFFT1NCeTJ2aW1JOXoyNUVGcnhEOXpxbmszb1hOVUxRVXlEU3dOQnBYRDVZc2dULWZna1DSAWhBVV95cUxNUHU1MUQyTW5PdUZzSnJQdGZyclM4U3JVWlZiQmdNMDRmUVVCOFlhZHlnUmJaY19uM3BVeFdyNmI3YURXczVvVjV4UjFSeVdoT1lNQWRzXzBsMEpjbUtSSU9OU0h2OEJLXw?oc=5",
-          "title": "신협중앙회, 2027년 신입직원 공개 채용",
-          "date": "2026-09-28"
-        }
-      ],
-      "date": "2026-09-28"
-    },
-    {
-      "id": "20260928-f23",
-      "cat": "market",
-      "importance": "low",
-      "teams": [
-        "채용"
-      ],
-      "company": "아시아투데이",
-      "title": "재경위 국감 증인 채택, ‘김용범 불발’…배민·구글코리아 대표 등",
-      "body": "재경위 국감 증인 채택, ‘김용범 불발’…배민·구글코리아 대표 등 아시아투데이",
-      "insight": "",
-      "action": "",
-      "tags": [],
-      "our_group": false,
-      "sources": [
-        {
-          "name": "아시아투데이",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE00LWt5WFZkal95VWlvdnA4blN6WEZkWE5PYi01bkRlSFJaM09aZS1iT3ZjVmp2ZkNXbXk1UmQ3Tmk3bWtMRXROVHd2b1VqVTFMVjM4dUcyQnE0THB3emhpU21xNFNPUERzOE5NMA?oc=5",
-          "title": "재경위 국감 증인 채택, ‘김용범 불발’…배민·구글코리아 대표 등",
-          "date": "2026-09-28"
-        }
-      ],
-      "date": "2026-09-28"
-    },
-    {
-      "id": "20260928-f24",
-      "cat": "market",
-      "importance": "low",
-      "teams": [
-        "채용"
-      ],
-      "company": "경남도민뉴스",
-      "title": "제주도교육청, 한국마이크로소프트와 손잡고 인공지능 미래인재 키운다",
-      "body": "제주도교육청, 한국마이크로소프트와 손잡고 인공지능 미래인재 키운다 경남도민뉴스",
-      "insight": "",
-      "action": "",
-      "tags": [],
-      "our_group": false,
-      "sources": [
-        {
-          "name": "경남도민뉴스",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE85Vjd4bDFDalhuN1lxLTN3Z3hxNU9lVDVIVUNaeEpkZnllVHpicjRnY0JkX05PUWhUWlU2em1VZjdQSnVoc1NOR2ZFTkNiRDN2LWdnaFYzY083REJDbVBzazQxZw?oc=5",
-          "title": "제주도교육청, 한국마이크로소프트와 손잡고 인공지능 미래인재 키운다",
-          "date": "2026-09-28"
-        }
-      ],
-      "date": "2026-09-28"
+      "date": "2026-09-28",
+      "id": "20260928-15"
     }
   ]
 }
