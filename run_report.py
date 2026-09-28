@@ -212,17 +212,21 @@ def collect_sites(cfg, date):
 
 # ── 2단계: Gemini 분석 ───────────────────────────────────────────────────────
 def gemini(prompt):
-    """기본 모델이 404(없는 모델)면 예비 모델로 한 번씩 더 시도해요."""
+    """기본 모델이 없거나(404) 계속 혼잡하면(503·429) 예비 모델로 넘어가요."""
     models = [GEMINI_MODEL] + [m for m in FALLBACK_MODELS if m != GEMINI_MODEL]
     for i, m in enumerate(models):
         try:
             return gemini_one(prompt, m)
-        except ModelNotFound as e:
+        except (ModelNotFound, ServerBusy) as e:
             print(f"  ⚠️  {e}" + (f" → {models[i+1]}로 다시 시도해요" if i + 1 < len(models) else ""))
-    raise RuntimeError(f"사용할 수 있는 Gemini 모델을 찾지 못했어요 ({', '.join(models)})")
+    raise RuntimeError(f"Gemini 분석 실패 — 모든 모델이 응답하지 않았어요 ({', '.join(models)})")
 
 
 class ModelNotFound(Exception):
+    pass
+
+
+class ServerBusy(Exception):
     pass
 
 
@@ -232,16 +236,18 @@ def gemini_one(prompt, model, max_tokens=32768):
     # 2.5 flash 계열은 '생각' 토큰이 출력 한도를 먹어서 JSON이 잘릴 수 있어요 → 생각 끄기
     if "flash" in model and "2.5" in model:
         gen["thinkingConfig"] = {"thinkingBudget": 0}
-    wait = 10
+    waits = [15, 30, 60, 60, 90]  # 서버 혼잡(503)은 보통 몇 분이면 풀려요
     last = ""
-    for attempt in range(4):
+    for attempt in range(len(waits) + 1):
         r = requests.post(gemini_url(model), params={"key": GEMINI_KEY},
                           json={"contents": [{"parts": [{"text": prompt}]}], "generationConfig": gen},
                           timeout=240)
         if r.status_code in (429, 500, 503):
             last = f"HTTP {r.status_code}"
-            print(f"  ⏳ Gemini {r.status_code} (사용량 한도·서버 혼잡) — {wait}초 후 재시도")
-            time.sleep(wait); wait *= 2
+            if attempt == len(waits):
+                raise ServerBusy(f"모델 '{model}'이 계속 혼잡해요 ({last})")
+            print(f"  ⏳ Gemini {r.status_code} (사용량 한도·서버 혼잡) — {waits[attempt]}초 후 재시도")
+            time.sleep(waits[attempt])
             continue
         if r.status_code == 404:
             raise ModelNotFound(f"모델 '{model}'을 찾을 수 없어요")
@@ -374,16 +380,22 @@ def fallback(cfg, articles, date, reason=""):
 
 # ── 3단계: 저장 ──────────────────────────────────────────────────────────────
 def save(cfg, report):
-    os.makedirs(os.path.join(ROOT, "reports"), exist_ok=True)
-    with open(os.path.join(ROOT, "reports", f"{report['date']}.json"), "w", encoding="utf-8") as f:
-        json.dump(report, f, ensure_ascii=False, indent=2)
-
     path = os.path.join(ROOT, "web", "data.json")
     try:
         with open(path, encoding="utf-8") as f:
             reports = json.load(f).get("reports", [])
     except (FileNotFoundError, json.JSONDecodeError, AttributeError):
         reports = []
+
+    # 같은 날 AI 분석이 성공한 브리핑이 이미 있으면, 실패 결과로 덮어쓰지 않아요
+    prev = next((r for r in reports if r.get("date") == report["date"] and not r.get("sample")), None)
+    if report.get("analysis_error") and prev and not prev.get("analysis_error") and prev.get("items"):
+        print("  🛟 오늘 이미 AI 분석된 브리핑이 있어서 그대로 둬요 (이번 실행은 분석 실패)")
+        report = prev
+    else:
+        os.makedirs(os.path.join(ROOT, "reports"), exist_ok=True)
+        with open(os.path.join(ROOT, "reports", f"{report['date']}.json"), "w", encoding="utf-8") as f:
+            json.dump(report, f, ensure_ascii=False, indent=2)
     # 샘플 데이터는 첫 실제 수집 때 지워요
     reports = [r for r in reports if not r.get("sample") and r.get("date") != report["date"]]
     reports.append(report)
