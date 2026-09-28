@@ -46,4617 +46,675 @@
     "desc": "국내·외국계 대기업의 채용 캠페인·EVP·인재상·복지 발표"
    }
   ],
-  "updated": "2026-09-28T08:52+09:00"
+  "updated": "2026-09-28T16:38+09:00"
  },
  "reports": [
   {
    "date": "2026-09-28",
-   "sample": true,
    "window_days": 3,
-   "article_count": 147,
-   "headline": "경력 채용 확대와 평가 제도 개편 소식이 이어졌어요",
-   "points": [
-    "고용노동부, 포괄임금제 오남용 집중 감독 착수",
-    "C사, 상대평가 폐지하고 수시 피드백 제도 도입",
-    "E사 대규모 조직개편, 개발 조직 통합"
-   ],
+   "article_count": 43,
+   "headline": "AI 분석 없이 수집된 기사만 보여드려요",
+   "points": [],
    "items": [
     {
-     "id": "20260928-08",
+     "id": "20260928-f00",
+     "cat": "market",
+     "importance": "low",
+     "teams": [],
+     "company": "매일일보",
+     "title": "추석 기대감에도 체감경기는 ‘냉랭’… 中企 비용·자금 부담 지속",
+     "body": "추석 기대감에도 체감경기는 ‘냉랭’… 中企 비용·자금 부담 지속 매일일보",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "매일일보",
+       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAxaGd1MFFic2REbm1YU19XU2lobUc1bWFJR0pXbTluM3JaYjJDWXhhbkxXWEg1SlhpcEZtVmtMTUdkSTBmMGhGMEhIdVlyQ0ZPZFM0cDdFa0lvZkhDdU16b1Zzc0zSAWhBVV95cUxOa3hnQVVrcjBQMndnYXBZYzZqWS13OU1CUUxVeE9WY2NNcjRtZmVWWl9LbkNMelNwZXdBVmNUSmtTUlRIUXpRR0YwWExVMHp0cVNXOGR6RzlkMy1VaUczSlFrZl85NU1rRA?oc=5",
+       "title": "추석 기대감에도 체감경기는 ‘냉랭’… 中企 비용·자금 부담 지속",
+       "date": "2026-09-28"
+      }
+     ],
+     "date": "2026-09-28"
+    },
+    {
+     "id": "20260928-f01",
+     "cat": "market",
+     "importance": "low",
+     "teams": [],
+     "company": "Chosunbiz",
+     "title": "중소 제조·서비스업 생산 늘었지만…회복세 둔화 - 조선비즈",
+     "body": "중소 제조·서비스업 생산 늘었지만…회복세 둔화 - 조선비즈 Chosunbiz",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "Chosunbiz",
+       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNFdLQ2k3X051czdpV0wtMlNPMjMteHNOa0ZHM2ZrdElVMnF3RGpsTUtwS3VhdGotUFp4dVhoNlE3LTZjaGhOd2Q2QmhKT3lhTmx1YmYySHJneTN3ZkI5alF3TUJKQ0NrM3lJWnF4S0hBX1d6a1VOLXZHeDVzX01zem83OFBYam5keU9JclhWbHTSAaQBQVVfeXFMT1JnNnlYVnRHbVJaekNQRi1hSXhmZHMyUmtzVlVUaVZGc1NFYm9GeVNyQ2R6YUNacHJlN01xc1VOSWFSaTVZRHVxUzFfYUNEYU1hSW1GdS1EYUY4TDBYSGo2Vm95a2NvZFBnb1Q4SGphQnlrTVhhWUtuem1hRElYNkJaMFJVQ1ZYWjJFQUZjT0VXdHdrNDJmSHNwQ2lyLWFpLVhsa3E?oc=5",
+       "title": "중소 제조·서비스업 생산 늘었지만…회복세 둔화 - 조선비즈",
+       "date": "2026-09-28"
+      }
+     ],
+     "date": "2026-09-28"
+    },
+    {
+     "id": "20260928-f02",
+     "cat": "market",
+     "importance": "low",
+     "teams": [],
+     "company": "워터저널",
+     "title": "[대전시] 미세먼지 불법배출 민간환경감시단 채용",
+     "body": "[대전시] 미세먼지 불법배출 민간환경감시단 채용 워터저널",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "워터저널",
+       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5DOURZbTBJTklQZG1DMk5YSnJzN0NiV2REYllCYkZtQW5KQVA1UDlkZUI2ZGRUcDRzdGlsRjRsYmZYMEk0T0NBZGpNbTJMajg2bUhpbV9JellVeVlqV1RMbkxwdlM1cjlEQXoycUNscjZ6d9IBdkFVX3lxTE05cTFJSnM0R1N3TkwxSnlWMmVQa25PV0R5eUt4U01tX0EzTzJhQU9tRW5ZMjdMQXZqODh4eEQ3UE1FYkNnRnhfTUVGZG82V1d3WDMxdm1uenZSUnNFbDlCbmRYTFpON2diQzZyVEx6cnlMal9Ka3c?oc=5",
+       "title": "[대전시] 미세먼지 불법배출 민간환경감시단 채용",
+       "date": "2026-09-28"
+      }
+     ],
+     "date": "2026-09-28"
+    },
+    {
+     "id": "20260928-f03",
+     "cat": "market",
+     "importance": "low",
+     "teams": [],
+     "company": "edumorning.com",
+     "title": "[2026년 교육 동향 AI Agent 3부] 연구와 업무 과정에 연결되는 학습이 커진다",
+     "body": "[2026년 교육 동향 AI Agent 3부] 연구와 업무 과정에 연결되는 학습이 커진다 edumorning.com",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "edumorning.com",
+       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5OMkVCY1QtcTZQYlpwTTdLaDN6cUs0VWEyNWRhckk1MGJabkx6RVUxY1pReHpFY0MtbjRmUFhySkZFR2NMQnVtRWw2cmQ?oc=5",
+       "title": "[2026년 교육 동향 AI Agent 3부] 연구와 업무 과정에 연결되는 학습이 커진다",
+       "date": "2026-09-28"
+      }
+     ],
+     "date": "2026-09-28"
+    },
+    {
+     "id": "20260928-f04",
+     "cat": "market",
+     "importance": "low",
+     "teams": [],
+     "company": "얼리어답터뉴스",
+     "title": "2026년 8·9월 미국 노동시장: 서비스업 고용 급증·IT 감소 속 구직 경쟁 심화",
+     "body": "2026년 8·9월 미국 노동시장: 서비스업 고용 급증·IT 감소 속 구직 경쟁 심화 얼리어답터뉴스",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "얼리어답터뉴스",
+       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE95NkF1UFVFVmRJNmVxai1fWWxQMkYtTXNfMEw5N2FVTERzSWl0LVMxeE12RU5PWjB1MTRzbDg0MUtoU3B6dTEzSXlR?oc=5",
+       "title": "2026년 8·9월 미국 노동시장: 서비스업 고용 급증·IT 감소 속 구직 경쟁 심화",
+       "date": "2026-09-28"
+      }
+     ],
+     "date": "2026-09-28"
+    },
+    {
+     "id": "20260928-f05",
+     "cat": "market",
+     "importance": "low",
+     "teams": [],
+     "company": "아시아경제",
+     "title": "추석 기대감 '최고조'에도…소상공인·전통시장 체감경기 '뚝'",
+     "body": "추석 기대감 '최고조'에도…소상공인·전통시장 체감경기 '뚝' 아시아경제",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "아시아경제",
+       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ucjNvakJhZ0daOUVCYmZvaWtHd2k3elQyZjRicnl4TW5idFh3QlQwUFYxX0RWalAxRS1CeUlxYzlpVVFVRmtUR0YyU0U5dHFNbHNDZkJxVDg1MlJGRmI3MQ?oc=5",
+       "title": "추석 기대감 '최고조'에도…소상공인·전통시장 체감경기 '뚝'",
+       "date": "2026-09-28"
+      }
+     ],
+     "date": "2026-09-28"
+    },
+    {
+     "id": "20260928-f06",
+     "cat": "market",
+     "importance": "low",
+     "teams": [],
+     "company": "인디포커스",
+     "title": "인천시, 8월 주택 매매가격 하락 전환… 전·월세는 상승세 지속",
+     "body": "인천시, 8월 주택 매매가격 하락 전환… 전·월세는 상승세 지속 인디포커스",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "인디포커스",
+       "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9WaGNDVXY1ckJyY3NXWjdEOEFfemNXSmRrZUxlVC1XRWVYb1kteVU4VmZTVS1DSko3OXhnVDBYZkJ6ZkE?oc=5",
+       "title": "인천시, 8월 주택 매매가격 하락 전환… 전·월세는 상승세 지속",
+       "date": "2026-09-28"
+      }
+     ],
+     "date": "2026-09-28"
+    },
+    {
+     "id": "20260928-f07",
+     "cat": "market",
+     "importance": "low",
+     "teams": [],
+     "company": "womannews.net",
+     "title": "서영석 의원, 아동학대전담인력 권고기준 초과 시군구 71곳…아동학대 대응 체계 개선 필요성 강조",
+     "body": "서영석 의원, 아동학대전담인력 권고기준 초과 시군구 71곳…아동학대 대응 체계 개선 필요성 강조 womannews.net",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "womannews.net",
+       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBObzZlQnpPZ05va0JkaVhHaU5pRmNsOVRRWFJxQjNQN2hMazY2Mnc4bGVkMDduR3Q1Y3gxOHVYNGZxRE95cTRDMmV0alpSclJ5dHNaMDNaZk83Zm5jZkU0UUprSFpndjByNUhLdGt3aw?oc=5",
+       "title": "서영석 의원, 아동학대전담인력 권고기준 초과 시군구 71곳…아동학대 대응 체계 개선 필요성 강조",
+       "date": "2026-09-28"
+      }
+     ],
+     "date": "2026-09-28"
+    },
+    {
+     "id": "20260928-f08",
+     "cat": "market",
+     "importance": "low",
+     "teams": [],
+     "company": "news.ifm.kr",
+     "title": "CJ, 하반기 신입 공채 40% 확대…대기업 채용시장에 '활기'",
+     "body": "CJ, 하반기 신입 공채 40% 확대…대기업 채용시장에 '활기' news.ifm.kr",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "news.ifm.kr",
+       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4zSHBTNXBFc09aOFRUUHpiM2U2RWtxLThON2pQUERObHBqYVlmdHdjS1ZTV1ZESDRucGljZWNHcURacFoxNno0X3drM2FnQ2l3UGo3eFNjV1JVZ0dEeUFoMHlXSGTSAWhBVV95cUxNc2pWTnFfM1RxUDl2QWpRZkRQeWFMbTJGR3Q1WWRrZFdaVGVMX1hPM1B4aFEyTmxpQi1jZXdHUHg4M0c5YXlLUURTZXFlbDFHUlZsOE5EaFhvajRLTHcwUjVhc3RQRl9ZSw?oc=5",
+       "title": "CJ, 하반기 신입 공채 40% 확대…대기업 채용시장에 '활기'",
+       "date": "2026-09-28"
+      }
+     ],
+     "date": "2026-09-28"
+    },
+    {
+     "id": "20260928-f09",
      "cat": "labor",
-     "importance": "high",
-     "teams": [
-      "노무·ER",
-      "인사기획"
-     ],
-     "company": "고용노동부",
-     "title": "고용노동부, 포괄임금제 오남용 집중 감독 착수",
-     "body": "고용노동부가 포괄임금 계약의 오남용 사례를 대상으로 기획 감독에 들어간다고 발표했어요.",
-     "insight": "연장근로 관리와 임금 계약 방식을 점검해야 해요.",
-     "action": "계열사별 포괄임금 적용 현황과 근태 기록 방식을 확인해 보세요.",
-     "tags": [
-      "포괄임금",
-      "근로감독"
-     ],
+     "importance": "low",
+     "teams": [],
+     "company": "매일노동뉴스",
+     "title": "[인사] 고용노동부",
+     "body": "[인사] 고용노동부 매일노동뉴스",
+     "insight": "",
+     "action": "",
+     "tags": [],
      "our_group": false,
      "sources": [
       {
-       "name": "샘플 매체 A",
-       "url": "#sample",
-       "title": "고용노동부, 포괄임금제 오남용 집중 감독 착수",
-       "date": "2026-09-28"
-      },
-      {
-       "name": "샘플 매체 B",
-       "url": "#sample",
-       "title": "고용노동부, 포괄임금제 오남용 집중 감독 착수",
-       "date": "2026-09-28"
-      },
-      {
-       "name": "샘플 매체 C",
-       "url": "#sample",
-       "title": "고용노동부, 포괄임금제 오남용 집중 감독 착수",
+       "name": "매일노동뉴스",
+       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9YMzJ3Q1FkVV9QX1RxSmEwWk11YVcwVnZkclZYWS1zNUNVZmRPRHFvaWZXcUJnWURFX2xwS3o5UDNiOVFPNm5LckhaRGJLNTM2RTBnVkY1WlBjOTJHdHNobWtNQWJDRFMwdGtEWjNvOTQ?oc=5",
+       "title": "[인사] 고용노동부",
        "date": "2026-09-28"
       }
      ],
      "date": "2026-09-28"
     },
     {
-     "id": "20260928-00",
-     "cat": "trend",
-     "importance": "high",
-     "teams": [
-      "인사기획",
-      "보상·복리후생"
-     ],
-     "company": "금융 C사",
-     "title": "C사, 상대평가 폐지하고 수시 피드백 제도 도입",
-     "body": "C사가 연 1회 상대평가를 없애고 분기별 수시 피드백과 절대평가로 바꾼다고 밝혔어요.",
-     "insight": "평가 제도 개편 사례가 늘고 있어요. 우리 평가 제도 개선 논의에 참고할 만해요.",
-     "action": "C사 제도의 보상 연동 방식을 정리해 인사기획 회의 자료로 써 보세요.",
-     "tags": [
-      "성과평가",
-      "절대평가"
-     ],
+     "id": "20260928-f10",
+     "cat": "labor",
+     "importance": "low",
+     "teams": [],
+     "company": "연합뉴스",
+     "title": "이형일, 첫 경제현안간담회…전기차·퇴직연금 개선 논의",
+     "body": "이형일, 첫 경제현안간담회…전기차·퇴직연금 개선 논의 연합뉴스",
+     "insight": "",
+     "action": "",
+     "tags": [],
      "our_group": false,
      "sources": [
       {
-       "name": "샘플 매체 A",
-       "url": "#sample",
-       "title": "C사, 상대평가 폐지하고 수시 피드백 제도 도입",
+       "name": "연합뉴스",
+       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8yRnRoNnFzbkpORUtyRlh1VjVtQWpNMWlZcUFtVHVLdTFuc0FCTkNIQ1JLcTFBVFZYY1ZoUjlfQVU4SFZfWEx1VWswTEdNOG9VZVBYTFFCTElpaTFETDZ6QtIBYEFVX3lxTE8yRnRoNnFzbkpORUtyRlh1VjVtQWpNMWlZcUFtVHVLdTFuc0FCTkNIQ1JLcTFBVFZYY1ZoUjlfQVU4SFZfWEx1VWswTEdNOG9VZVBYTFFCTElpaTFETDZ6Qg?oc=5",
+       "title": "이형일, 첫 경제현안간담회…전기차·퇴직연금 개선 논의",
        "date": "2026-09-28"
       }
      ],
      "date": "2026-09-28"
     },
     {
-     "id": "20260928-01",
+     "id": "20260928-f11",
+     "cat": "labor",
+     "importance": "low",
+     "teams": [],
+     "company": "코리아비즈니스리뷰",
+     "title": "육아기 근로시간 단축, 9월 18일 바뀐 기준",
+     "body": "육아기 근로시간 단축, 9월 18일 바뀐 기준 코리아비즈니스리뷰",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "코리아비즈니스리뷰",
+       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdlVzdzN2cDRFMzVxR1ZOMjBsQm1kN2VaRk93Tmw0VFg3RGxTQUJINl9CeFQ1b2VNTHJneEs0N2NpYzVFTVd3VmcyUjNEemtmMmRVYlZ3b3ZDNVVaRVltdXUyYkJ2c3ZRYTYyREZCeVZfUjlGVUZjN2FVMVI2ZUdBc2JMYmE2RUlsMUZXTTVn?oc=5",
+       "title": "육아기 근로시간 단축, 9월 18일 바뀐 기준",
+       "date": "2026-09-28"
+      }
+     ],
+     "date": "2026-09-28"
+    },
+    {
+     "id": "20260928-f12",
+     "cat": "labor",
+     "importance": "low",
+     "teams": [],
+     "company": "Chosunbiz",
+     "title": "“검사 지휘 사라지는데”… 근로감독관 수사교육기관 수장은 과장급 - 조선비즈",
+     "body": "“검사 지휘 사라지는데”… 근로감독관 수사교육기관 수장은 과장급 - 조선비즈 Chosunbiz",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "Chosunbiz",
+       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOU18tMGRoMWU0aXB6dFFoNHRtd01wMWNPSHh3TDhNcTY3TXdxQndBRzZLd1JDMTVOUjNNSUtsZEF6YS1oZ2QzWHRBQUNrV1pWcW54RDgwMi1rUjd4VFZKRklHdXlaR1JwMkFDQXltVlBSTDNtd2ZENW9jNkJWVkVlMURVQm5qeGVKQ2fSAZ4BQVVfeXFMT2Ywc3RwZ2xGVVJsNFVYQm5HRUo1ZDNjSklldU14Q3JVcVpnTExqRGRpal9Tc1Q1aTVqLXdXM2s3X0ZFUHRjd1pnUEpHcW1WUHFUMkEya0VYd2xZc2NIdTlnZUppWm5TcmZJVlpaMWM2bkJ0Rmo2dHh4Y2IwZTN4Z0pEeHBfdmYtX3l3ZXRoNTZ4U2hhM0U2Wl9fZjFGSHc?oc=5",
+       "title": "“검사 지휘 사라지는데”… 근로감독관 수사교육기관 수장은 과장급 - 조선비즈",
+       "date": "2026-09-28"
+      }
+     ],
+     "date": "2026-09-28"
+    },
+    {
+     "id": "20260928-f13",
+     "cat": "labor",
+     "importance": "low",
+     "teams": [],
+     "company": "ppss.kr",
+     "title": "[알면 득, 모르면 0원 청년정책①] 알바생도, 자취생도 조건이 다 다르다… 남들은 다 아는 '나만의 정책' 1분 컷 탐색법",
+     "body": "[알면 득, 모르면 0원 청년정책①] 알바생도, 자취생도 조건이 다 다르다… 남들은 다 아는 '나만의 정책' 1분 컷 탐색법 ppss.kr",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "ppss.kr",
+       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE04S2twc2NqV1lNakRaS0t1bDNtMTE5MHI3cm9xRUZEMzdqd0p0ZmhsMUxOeDdvWWxYRl9TcVkyVFB3VGE3OThrZlJGQXdrSURTQVJjRi1DaW1pem9yVlVNNGxQUHQ?oc=5",
+       "title": "[알면 득, 모르면 0원 청년정책①] 알바생도, 자취생도 조건이 다 다르다… 남들은 다 아는 '나만의 정책' 1분 컷 탐색법",
+       "date": "2026-09-28"
+      }
+     ],
+     "date": "2026-09-28"
+    },
+    {
+     "id": "20260928-f14",
+     "cat": "labor",
+     "importance": "low",
+     "teams": [],
+     "company": "kfenews.co.kr",
+     "title": "취준생이라면 매달 60만원?…최대 360만원 받는 ‘국민취업지원제도’",
+     "body": "취준생이라면 매달 60만원?…최대 360만원 받는 ‘국민취업지원제도’ kfenews.co.kr",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "kfenews.co.kr",
+       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE83Nzk5R0d3UTF6TGZrdjR3cVhneVNDYnB1bktWdWp0YzNwRHctbHR2THpxS2ppMk1tNHBuRW5uQnQzbUhpenVEQzAxRzJsMXkxYWJ6LW1telJWbk1pdDZSQ2NwSVQ0amhGd3lZWdIBcEFVX3lxTE9seU9GaUlidlpaRUc0TFpsa1JGeTU1VEFkNFNMbzYzSW1sSDRydnpmQlJCZjNjVGU5dVlkZm9xYjNuZlBrOGVWMUprSDY1dGRGX2ZjX1JuYUJjMGJCWndfWEx2X045eE0tM3VlejQ3SnM?oc=5",
+       "title": "취준생이라면 매달 60만원?…최대 360만원 받는 ‘국민취업지원제도’",
+       "date": "2026-09-28"
+      }
+     ],
+     "date": "2026-09-28"
+    },
+    {
+     "id": "20260928-f15",
+     "cat": "labor",
+     "importance": "low",
+     "teams": [],
+     "company": "코인리더스",
+     "title": "PCE 물가·고용 지표 발표 임박...비트코인(BTC)·증시, 5대 변수 이겨낼까?",
+     "body": "PCE 물가·고용 지표 발표 임박...비트코인(BTC)·증시, 5대 변수 이겨낼까? 코인리더스",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "코인리더스",
+       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5td0o3b0xoekNNWjdtRmtCWVE4T1c5ejlqc3NnMm9lVTltNkN4MG1VdmowOHkwWURhTTBteV83NEE4UW4zU2FpcA?oc=5",
+       "title": "PCE 물가·고용 지표 발표 임박...비트코인(BTC)·증시, 5대 변수 이겨낼까?",
+       "date": "2026-09-28"
+      }
+     ],
+     "date": "2026-09-28"
+    },
+    {
+     "id": "20260928-f16",
+     "cat": "labor",
+     "importance": "low",
+     "teams": [],
+     "company": "beSUCCESS",
+     "title": "코리아스타트업포럼, 주52시간제 실태조사 발표…스타트업 종사자 76% “유연화 필요”",
+     "body": "코리아스타트업포럼, 주52시간제 실태조사 발표…스타트업 종사자 76% “유연화 필요” beSUCCESS",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "beSUCCESS",
+       "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1ObEI3WUV2dGZUei11a2dyU1Q0TWlacjFxTVBXZFVlUWdtLWNJM1lyUWR2UHRIeXFETFVZOTBJeW0wV3UydWc?oc=5",
+       "title": "코리아스타트업포럼, 주52시간제 실태조사 발표…스타트업 종사자 76% “유연화 필요”",
+       "date": "2026-09-28"
+      }
+     ],
+     "date": "2026-09-28"
+    },
+    {
+     "id": "20260928-f17",
+     "cat": "labor",
+     "importance": "low",
+     "teams": [],
+     "company": "법률신문",
+     "title": "2026년 하반기 인사·노무 관련 법령 주요 개정 사항",
+     "body": "2026년 하반기 인사·노무 관련 법령 주요 개정 사항 법률신문",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "법률신문",
+       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1MSGVDUzZZNl9hU2F1aGJMemVLS1czZmVidVN0eEkzTXJxN2ZWVkxjTmxJSldDSFAtdUtKemxoWEdSdXBNak5jeXI4MjRuWlNfOUlYVkRma0F4X1NXeWxtZUUwbWJEYUpnRWZrQVdxVkF3Z9IBckFVX3lxTE1MSGVDUzZZNl9hU2F1aGJMemVLS1czZmVidVN0eEkzTXJxN2ZWVkxjTmxJSldDSFAtdUtKemxoWEdSdXBNak5jeXI4MjRuWlNfOUlYVkRma0F4X1NXeWxtZUUwbWJEYUpnRWZrQVdxVkF3Zw?oc=5",
+       "title": "2026년 하반기 인사·노무 관련 법령 주요 개정 사항",
+       "date": "2026-09-28"
+      }
+     ],
+     "date": "2026-09-28"
+    },
+    {
+     "id": "20260928-f18",
+     "cat": "labor",
+     "importance": "low",
+     "teams": [],
+     "company": "대한청년일보",
+     "title": "2026년 10월 일본 노동법 대개정 시행 전 한국 기업 필수 점검 사항",
+     "body": "2026년 10월 일본 노동법 대개정 시행 전 한국 기업 필수 점검 사항 대한청년일보",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "대한청년일보",
+       "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBndERkWWphMzlSWXBaSzltU09KdVhjT3Y2dXAwVE52Y1UxeU1ENG1sb2VUaG9fV3VyLVVSX2xqV1VyV2M?oc=5",
+       "title": "2026년 10월 일본 노동법 대개정 시행 전 한국 기업 필수 점검 사항",
+       "date": "2026-09-28"
+      }
+     ],
+     "date": "2026-09-28"
+    },
+    {
+     "id": "20260928-f19",
+     "cat": "labor",
+     "importance": "low",
+     "teams": [],
+     "company": "아웃소싱타임스",
+     "title": "[사회뉴스] 국회의원 추석 ‘떡값’ 440만원...중소기업 상여금은 평균 66만원",
+     "body": "[사회뉴스] 국회의원 추석 ‘떡값’ 440만원...중소기업 상여금은 평균 66만원 아웃소싱타임스",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "아웃소싱타임스",
+       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9UV1U3TGhTRnlMTERQdjFaYm12RDN4c1RLbU4yY2xCUzZxcENKMENjQkVOelRVaFdBek10Y3NybXgtdGREcG5DS1Q2Sk1FN3VTTUMtVEV2UjNURUZRaklJckhLMEhfNkR4M20zWFh4ekxDdw?oc=5",
+       "title": "[사회뉴스] 국회의원 추석 ‘떡값’ 440만원...중소기업 상여금은 평균 66만원",
+       "date": "2026-09-28"
+      }
+     ],
+     "date": "2026-09-28"
+    },
+    {
+     "id": "20260928-f20",
+     "cat": "labor",
+     "importance": "low",
+     "teams": [],
+     "company": "v.daum.net",
+     "title": "[단독-청년 직업훈련의 덫 ①] 26년간 월 20만원 훈련수당, 가난할수록 멀어지는 기회",
+     "body": "[단독-청년 직업훈련의 덫 ①] 26년간 월 20만원 훈련수당, 가난할수록 멀어지는 기회 v.daum.net",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "v.daum.net",
+       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5qdE9ycmlBdWFVVlQ1X0VDV21RVXBUTGV0ZTUwQm5iRXFzZThSNkdJbHU2cksweWk3eXRQeVRGejlON3ZZeENYTlcwVQ?oc=5",
+       "title": "[단독-청년 직업훈련의 덫 ①] 26년간 월 20만원 훈련수당, 가난할수록 멀어지는 기회",
+       "date": "2026-09-28"
+      }
+     ],
+     "date": "2026-09-28"
+    },
+    {
+     "id": "20260928-f21",
      "cat": "ecom",
-     "importance": "high",
-     "teams": [
-      "인사기획",
-      "채용"
-     ],
-     "company": "이커머스 E사",
-     "title": "E사 대규모 조직개편, 개발 조직 통합",
-     "body": "E사가 커머스와 광고 개발 조직을 하나로 합치는 조직개편을 했어요.",
-     "insight": "통합 과정에서 인력 이동이 생길 수 있어요. 경력 개발자 채용 기회가 될 수 있어요.",
-     "action": "E사 출신 개발자 대상 소싱을 채용팀과 논의해 보세요.",
-     "tags": [
-      "조직개편",
-      "개발조직"
-     ],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "샘플 매체 A",
-       "url": "#sample",
-       "title": "E사 대규모 조직개편, 개발 조직 통합",
-       "date": "2026-09-28"
-      }
-     ],
-     "date": "2026-09-28"
-    },
-    {
-     "id": "20260928-07",
-     "cat": "market",
-     "importance": "high",
-     "teams": [
-      "채용",
-      "인사기획"
-     ],
-     "company": "국내 대기업 A사",
-     "title": "A사, 하반기 경력직 채용 규모 30% 확대",
-     "body": "A사가 하반기 경력직 채용을 전년보다 30% 늘리고 AI·데이터 직군 비중을 절반 가까이로 높인다고 밝혔어요.",
-     "insight": "데이터·AI 경력자 쟁탈전이 심해질 수 있어요. 우리 핵심 포지션 후보군이 겹치는지 봐야 해요.",
-     "action": "진행 중인 데이터 직군 포지션의 오퍼 조건을 시장 수준과 다시 비교해 보세요.",
-     "tags": [
-      "경력채용",
-      "AI인재"
-     ],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "샘플 매체 A",
-       "url": "#sample",
-       "title": "A사, 하반기 경력직 채용 규모 30% 확대",
-       "date": "2026-09-28"
-      }
-     ],
-     "date": "2026-09-28"
-    },
-    {
-     "id": "20260928-03",
-     "cat": "market",
-     "importance": "mid",
-     "teams": [
-      "채용",
-      "인사기획"
-     ],
-     "company": "IT 플랫폼 B사",
-     "title": "B사 신입 공채 부활, 3년 만에 정기 채용",
-     "body": "B사가 3년 만에 신입 정기 공채를 다시 열고 연 2회로 정례화한다고 발표했어요.",
-     "insight": "신입 인재풀 경쟁이 늘어나요. 캠퍼스 채용 일정이 겹치는지 확인이 필요해요.",
-     "action": "내년 인턴·신입 채용 일정을 B사 공채 시기와 비교해 보세요.",
-     "tags": [
-      "신입공채",
-      "캠퍼스"
-     ],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "샘플 매체 A",
-       "url": "#sample",
-       "title": "B사 신입 공채 부활, 3년 만에 정기 채용",
-       "date": "2026-09-28"
-      },
-      {
-       "name": "샘플 매체 B",
-       "url": "#sample",
-       "title": "B사 신입 공채 부활, 3년 만에 정기 채용",
-       "date": "2026-09-28"
-      },
-      {
-       "name": "샘플 매체 C",
-       "url": "#sample",
-       "title": "B사 신입 공채 부활, 3년 만에 정기 채용",
-       "date": "2026-09-28"
-      }
-     ],
-     "date": "2026-09-28"
-    },
-    {
-     "id": "20260928-02",
-     "cat": "market",
-     "importance": "mid",
-     "teams": [
-      "채용"
-     ],
-     "company": "업계 전반",
-     "title": "개발자 이직 제안 수락률 하락, 연봉보다 조직 안정성 중시",
-     "body": "채용 플랫폼 조사에서 개발자들이 이직 제안을 받아들이는 비율이 낮아지고, 회사의 재무 안정성과 조직 분위기를 더 따진다는 결과가 나왔어요.",
-     "insight": "보상만으로는 설득이 어려워졌어요. 회사 안정성과 팀 문화를 보여주는 자료가 중요해져요.",
-     "action": "후보자 컨택 메시지에 그룹 안정성과 팀 소개를 넣어 보세요.",
-     "tags": [
-      "개발자",
-      "이직시장"
-     ],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "샘플 매체 A",
-       "url": "#sample",
-       "title": "개발자 이직 제안 수락률 하락, 연봉보다 조직 안정성 중시",
-       "date": "2026-09-28"
-      }
-     ],
-     "date": "2026-09-28"
-    },
-    {
-     "id": "20260928-06",
-     "cat": "labor",
-     "importance": "mid",
-     "teams": [
-      "노무·ER",
-      "보상·복리후생"
-     ],
-     "company": "대법원",
-     "title": "통상임금 범위 관련 하급심 판결 잇따라",
-     "body": "통상임금 범위를 넓게 본 판결 이후 관련 하급심 판결이 이어지고 있어요.",
-     "insight": "수당 설계에 따라 인건비 영향이 생길 수 있어요.",
-     "action": "정기 지급 수당 목록을 다시 정리해 두세요.",
-     "tags": [
-      "통상임금",
-      "판례"
-     ],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "샘플 매체 A",
-       "url": "#sample",
-       "title": "통상임금 범위 관련 하급심 판결 잇따라",
-       "date": "2026-09-28"
-      }
-     ],
-     "date": "2026-09-28"
-    },
-    {
-     "id": "20260928-04",
-     "cat": "market",
      "importance": "low",
-     "teams": [
-      "채용"
-     ],
-     "company": "업계 전반",
-     "title": "3분기 채용공고 수 전년 대비 소폭 감소",
-     "body": "주요 채용 플랫폼 공고 수가 전년 같은 기간보다 조금 줄었고, 경력직 비중은 늘었어요.",
-     "insight": "경력직 중심 시장이 이어지고 있어요.",
-     "action": "월별 우리 공고 지원자 수 추이와 함께 보세요.",
-     "tags": [
-      "채용공고",
-      "시장지표"
-     ],
+     "teams": [],
+     "company": "IndexBox",
+     "title": "2035년 건강기능식품 시장 전망: 개인 맞춤형 영양과 장 건강이 성장 견인 - 뉴스 및 통계",
+     "body": "2035년 건강기능식품 시장 전망: 개인 맞춤형 영양과 장 건강이 성장 견인 - 뉴스 및 통계 IndexBox",
+     "insight": "",
+     "action": "",
+     "tags": [],
      "our_group": false,
      "sources": [
       {
-       "name": "샘플 매체 A",
-       "url": "#sample",
-       "title": "3분기 채용공고 수 전년 대비 소폭 감소",
-       "date": "2026-09-28"
-      },
-      {
-       "name": "샘플 매체 B",
-       "url": "#sample",
-       "title": "3분기 채용공고 수 전년 대비 소폭 감소",
-       "date": "2026-09-28"
-      },
-      {
-       "name": "샘플 매체 C",
-       "url": "#sample",
-       "title": "3분기 채용공고 수 전년 대비 소폭 감소",
+       "name": "IndexBox",
+       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYWVYVTI5dXRqY0ltaTBZX2c1LXV4LTNHZlZEYUxDaUg1OW9MbVdyem82NkRNYUFqSnJpNGM3a2gxYW1VQVNFYUx4VEFCUjhrSzd5MDk3VzVFSW0yalRpTzVkQzhqeWpZWGpMR2FJbnRKazFRX09JTmF0cjdnUFV0Z3N0SDlkbkdsN3NRYkx2NjRka1kwVDJDZXhENXQwQ1RWZWRCX25naFFBdXhpMzlRc0JlUDNlN3NYMHc?oc=5",
+       "title": "2035년 건강기능식품 시장 전망: 개인 맞춤형 영양과 장 건강이 성장 견인 - 뉴스 및 통계",
        "date": "2026-09-28"
       }
      ],
      "date": "2026-09-28"
     },
     {
-     "id": "20260928-05",
-     "cat": "labor",
-     "importance": "low",
-     "teams": [
-      "노무·ER",
-      "조직문화·HRD"
-     ],
-     "company": "업계 전반",
-     "title": "직장 내 괴롭힘 신고 건수 증가, 처리 기간 길어져",
-     "body": "직장 내 괴롭힘 신고가 늘면서 조사 처리 기간도 길어지고 있어요.",
-     "insight": "사내 조사 절차와 담당자 역량이 중요해져요.",
-     "action": "사내 신고 처리 절차와 평균 처리 기간을 점검해 보세요.",
-     "tags": [
-      "괴롭힘",
-      "ER"
-     ],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "샘플 매체 A",
-       "url": "#sample",
-       "title": "직장 내 괴롭힘 신고 건수 증가, 처리 기간 길어져",
-       "date": "2026-09-28"
-      }
-     ],
-     "date": "2026-09-28"
-    }
-   ]
-  },
-  {
-   "date": "2026-09-25",
-   "sample": true,
-   "window_days": 1,
-   "article_count": 214,
-   "headline": "노무 감독 강화 이슈를 챙겨야 해요",
-   "points": [
-    "E사 대규모 조직개편, 개발 조직 통합",
-    "A사, 하반기 경력직 채용 규모 30% 확대",
-    "고용노동부, 포괄임금제 오남용 집중 감독 착수"
-   ],
-   "items": [
-    {
-     "id": "20260925-03",
+     "id": "20260928-f22",
      "cat": "ecom",
-     "importance": "high",
-     "teams": [
-      "인사기획",
-      "채용"
-     ],
-     "company": "이커머스 E사",
-     "title": "E사 대규모 조직개편, 개발 조직 통합",
-     "body": "E사가 커머스와 광고 개발 조직을 하나로 합치는 조직개편을 했어요.",
-     "insight": "통합 과정에서 인력 이동이 생길 수 있어요. 경력 개발자 채용 기회가 될 수 있어요.",
-     "action": "E사 출신 개발자 대상 소싱을 채용팀과 논의해 보세요.",
-     "tags": [
-      "조직개편",
-      "개발조직"
-     ],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "샘플 매체 A",
-       "url": "#sample",
-       "title": "E사 대규모 조직개편, 개발 조직 통합",
-       "date": "2026-09-25"
-      }
-     ],
-     "date": "2026-09-25"
-    },
-    {
-     "id": "20260925-06",
-     "cat": "market",
-     "importance": "high",
-     "teams": [
-      "채용",
-      "인사기획"
-     ],
-     "company": "국내 대기업 A사",
-     "title": "A사, 하반기 경력직 채용 규모 30% 확대",
-     "body": "A사가 하반기 경력직 채용을 전년보다 30% 늘리고 AI·데이터 직군 비중을 절반 가까이로 높인다고 밝혔어요.",
-     "insight": "데이터·AI 경력자 쟁탈전이 심해질 수 있어요. 우리 핵심 포지션 후보군이 겹치는지 봐야 해요.",
-     "action": "진행 중인 데이터 직군 포지션의 오퍼 조건을 시장 수준과 다시 비교해 보세요.",
-     "tags": [
-      "경력채용",
-      "AI인재"
-     ],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "샘플 매체 A",
-       "url": "#sample",
-       "title": "A사, 하반기 경력직 채용 규모 30% 확대",
-       "date": "2026-09-25"
-      }
-     ],
-     "date": "2026-09-25"
-    },
-    {
-     "id": "20260925-07",
-     "cat": "labor",
-     "importance": "high",
-     "teams": [
-      "노무·ER",
-      "인사기획"
-     ],
-     "company": "고용노동부",
-     "title": "고용노동부, 포괄임금제 오남용 집중 감독 착수",
-     "body": "고용노동부가 포괄임금 계약의 오남용 사례를 대상으로 기획 감독에 들어간다고 발표했어요.",
-     "insight": "연장근로 관리와 임금 계약 방식을 점검해야 해요.",
-     "action": "계열사별 포괄임금 적용 현황과 근태 기록 방식을 확인해 보세요.",
-     "tags": [
-      "포괄임금",
-      "근로감독"
-     ],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "샘플 매체 A",
-       "url": "#sample",
-       "title": "고용노동부, 포괄임금제 오남용 집중 감독 착수",
-       "date": "2026-09-25"
-      }
-     ],
-     "date": "2026-09-25"
-    },
-    {
-     "id": "20260925-02",
-     "cat": "market",
-     "importance": "mid",
-     "teams": [
-      "채용"
-     ],
-     "company": "업계 전반",
-     "title": "개발자 이직 제안 수락률 하락, 연봉보다 조직 안정성 중시",
-     "body": "채용 플랫폼 조사에서 개발자들이 이직 제안을 받아들이는 비율이 낮아지고, 회사의 재무 안정성과 조직 분위기를 더 따진다는 결과가 나왔어요.",
-     "insight": "보상만으로는 설득이 어려워졌어요. 회사 안정성과 팀 문화를 보여주는 자료가 중요해져요.",
-     "action": "후보자 컨택 메시지에 그룹 안정성과 팀 소개를 넣어 보세요.",
-     "tags": [
-      "개발자",
-      "이직시장"
-     ],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "샘플 매체 A",
-       "url": "#sample",
-       "title": "개발자 이직 제안 수락률 하락, 연봉보다 조직 안정성 중시",
-       "date": "2026-09-25"
-      },
-      {
-       "name": "샘플 매체 B",
-       "url": "#sample",
-       "title": "개발자 이직 제안 수락률 하락, 연봉보다 조직 안정성 중시",
-       "date": "2026-09-25"
-      },
-      {
-       "name": "샘플 매체 C",
-       "url": "#sample",
-       "title": "개발자 이직 제안 수락률 하락, 연봉보다 조직 안정성 중시",
-       "date": "2026-09-25"
-      }
-     ],
-     "date": "2026-09-25"
-    },
-    {
-     "id": "20260925-01",
-     "cat": "brand",
-     "importance": "mid",
-     "teams": [
-      "채용",
-      "보상·복리후생"
-     ],
-     "company": "외국계 I사",
-     "title": "외국계 I사, 육아 휴직 확대 등 복지 개편 발표",
-     "body": "외국계 I사가 한국 법인 직원 대상 육아 휴직 기간을 늘리고 복지 포인트를 개편했어요.",
-     "insight": "복지 경쟁이 채용 메시지로 직결되고 있어요.",
-     "action": "우리 복지 제도를 채용 공고에서 어떻게 보여주는지 비교해 보세요.",
-     "tags": [
-      "복지",
-      "외국계"
-     ],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "샘플 매체 A",
-       "url": "#sample",
-       "title": "외국계 I사, 육아 휴직 확대 등 복지 개편 발표",
-       "date": "2026-09-25"
-      },
-      {
-       "name": "샘플 매체 B",
-       "url": "#sample",
-       "title": "외국계 I사, 육아 휴직 확대 등 복지 개편 발표",
-       "date": "2026-09-25"
-      }
-     ],
-     "date": "2026-09-25"
-    },
-    {
-     "id": "20260925-04",
-     "cat": "brand",
-     "importance": "mid",
-     "teams": [
-      "채용"
-     ],
-     "company": "IT 플랫폼 J사",
-     "title": "J사 개발자 컨퍼런스, 채용 연계 프로그램 운영",
-     "body": "J사가 개발자 컨퍼런스에서 현장 채용 상담과 네트워킹 프로그램을 함께 운영했어요.",
-     "insight": "행사와 채용을 잇는 방식이 효과를 보고 있어요.",
-     "action": "참가 예정인 외부 행사에 채용 부스나 밋업을 붙일 수 있는지 알아보세요.",
-     "tags": [
-      "개발자행사",
-      "채용마케팅"
-     ],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "샘플 매체 A",
-       "url": "#sample",
-       "title": "J사 개발자 컨퍼런스, 채용 연계 프로그램 운영",
-       "date": "2026-09-25"
-      }
-     ],
-     "date": "2026-09-25"
-    },
-    {
-     "id": "20260925-05",
-     "cat": "trend",
      "importance": "low",
-     "teams": [
-      "조직문화·HRD",
-      "보상·복리후생"
-     ],
-     "company": "업계 전반",
-     "title": "격주 주4일제 시범 운영 기업 늘어",
-     "body": "격주 금요일 휴무 같은 부분 주4일제를 시범 운영하는 기업이 늘고 있어요.",
-     "insight": "근무 유연성이 채용 경쟁력 요소로 커지고 있어요.",
-     "action": "채용 공고의 근무제도 표현을 점검해 보세요.",
-     "tags": [
-      "주4일제",
-      "유연근무"
-     ],
+     "teams": [],
+     "company": "비즈니스포스트",
+     "title": "컬리 N마트 담당 조직도 '본부'로 격상, 김슬아 덩치 커진 신사업 존재감 높인다",
+     "body": "컬리 N마트 담당 조직도 '본부'로 격상, 김슬아 덩치 커진 신사업 존재감 높인다 비즈니스포스트",
+     "insight": "",
+     "action": "",
+     "tags": [],
      "our_group": false,
      "sources": [
       {
-       "name": "샘플 매체 A",
-       "url": "#sample",
-       "title": "격주 주4일제 시범 운영 기업 늘어",
-       "date": "2026-09-25"
-      },
-      {
-       "name": "샘플 매체 B",
-       "url": "#sample",
-       "title": "격주 주4일제 시범 운영 기업 늘어",
-       "date": "2026-09-25"
+       "name": "비즈니스포스트",
+       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5jTVlJRVAyaEJBbVFNZnN5YXI1aDdBeUhtVnNRNGdteHJnaWdRSTZlVXZrZHNtSGh0bC1RaHY0azl0VW9pRFdZd1dvQjhWdjJhUTdXWFp5TmxNTUxBS3h2OUM2b09MU3NJTUdHbjJ1UjlaR2s?oc=5",
+       "title": "컬리 N마트 담당 조직도 '본부'로 격상, 김슬아 덩치 커진 신사업 존재감 높인다",
+       "date": "2026-09-28"
       }
      ],
-     "date": "2026-09-25"
+     "date": "2026-09-28"
     },
     {
-     "id": "20260925-00",
-     "cat": "brand",
-     "importance": "low",
-     "teams": [
-      "채용",
-      "조직문화·HRD"
-     ],
-     "company": "업계 전반",
-     "title": "기업 채용 유튜브 채널, 숏폼 콘텐츠 비중 늘어",
-     "body": "기업 채용 채널이 긴 인터뷰 대신 1분 이내 숏폼 콘텐츠를 늘리고 있어요.",
-     "insight": "후보자 접점이 짧은 영상으로 옮겨가고 있어요.",
-     "action": "직무 소개를 숏폼으로 만드는 파일럿을 검토해 보세요.",
-     "tags": [
-      "숏폼",
-      "채용콘텐츠"
-     ],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "샘플 매체 A",
-       "url": "#sample",
-       "title": "기업 채용 유튜브 채널, 숏폼 콘텐츠 비중 늘어",
-       "date": "2026-09-25"
-      }
-     ],
-     "date": "2026-09-25"
-    }
-   ]
-  },
-  {
-   "date": "2026-09-24",
-   "sample": true,
-   "window_days": 1,
-   "article_count": 213,
-   "headline": "이커머스 조직개편 소식이 많았어요",
-   "points": [
-    "H사, 직원 인터뷰 중심 채용 브랜딩 캠페인 공개",
-    "고용노동부, 포괄임금제 오남용 집중 감독 착수",
-    "B사 신입 공채 부활, 3년 만에 정기 채용"
-   ],
-   "items": [
-    {
-     "id": "20260924-01",
-     "cat": "brand",
-     "importance": "high",
-     "teams": [
-      "채용",
-      "조직문화·HRD"
-     ],
-     "company": "국내 대기업 H사",
-     "title": "H사, 직원 인터뷰 중심 채용 브랜딩 캠페인 공개",
-     "body": "H사가 현직자 인터뷰 영상과 커리어 스토리를 담은 채용 브랜딩 캠페인을 시작했어요.",
-     "insight": "현직자 목소리로 EVP를 전하는 방식이 주류가 되고 있어요.",
-     "action": "우리 컬처덱과 채용 페이지에 현직자 인터뷰 콘텐츠를 추가할지 검토해 보세요.",
-     "tags": [
-      "채용브랜딩",
-      "EVP"
-     ],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "샘플 매체 A",
-       "url": "#sample",
-       "title": "H사, 직원 인터뷰 중심 채용 브랜딩 캠페인 공개",
-       "date": "2026-09-24"
-      },
-      {
-       "name": "샘플 매체 B",
-       "url": "#sample",
-       "title": "H사, 직원 인터뷰 중심 채용 브랜딩 캠페인 공개",
-       "date": "2026-09-24"
-      },
-      {
-       "name": "샘플 매체 C",
-       "url": "#sample",
-       "title": "H사, 직원 인터뷰 중심 채용 브랜딩 캠페인 공개",
-       "date": "2026-09-24"
-      }
-     ],
-     "date": "2026-09-24"
-    },
-    {
-     "id": "20260924-07",
-     "cat": "labor",
-     "importance": "high",
-     "teams": [
-      "노무·ER",
-      "인사기획"
-     ],
-     "company": "고용노동부",
-     "title": "고용노동부, 포괄임금제 오남용 집중 감독 착수",
-     "body": "고용노동부가 포괄임금 계약의 오남용 사례를 대상으로 기획 감독에 들어간다고 발표했어요.",
-     "insight": "연장근로 관리와 임금 계약 방식을 점검해야 해요.",
-     "action": "계열사별 포괄임금 적용 현황과 근태 기록 방식을 확인해 보세요.",
-     "tags": [
-      "포괄임금",
-      "근로감독"
-     ],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "샘플 매체 A",
-       "url": "#sample",
-       "title": "고용노동부, 포괄임금제 오남용 집중 감독 착수",
-       "date": "2026-09-24"
-      }
-     ],
-     "date": "2026-09-24"
-    },
-    {
-     "id": "20260924-02",
-     "cat": "market",
-     "importance": "mid",
-     "teams": [
-      "채용",
-      "인사기획"
-     ],
-     "company": "IT 플랫폼 B사",
-     "title": "B사 신입 공채 부활, 3년 만에 정기 채용",
-     "body": "B사가 3년 만에 신입 정기 공채를 다시 열고 연 2회로 정례화한다고 발표했어요.",
-     "insight": "신입 인재풀 경쟁이 늘어나요. 캠퍼스 채용 일정이 겹치는지 확인이 필요해요.",
-     "action": "내년 인턴·신입 채용 일정을 B사 공채 시기와 비교해 보세요.",
-     "tags": [
-      "신입공채",
-      "캠퍼스"
-     ],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "샘플 매체 A",
-       "url": "#sample",
-       "title": "B사 신입 공채 부활, 3년 만에 정기 채용",
-       "date": "2026-09-24"
-      },
-      {
-       "name": "샘플 매체 B",
-       "url": "#sample",
-       "title": "B사 신입 공채 부활, 3년 만에 정기 채용",
-       "date": "2026-09-24"
-      },
-      {
-       "name": "샘플 매체 C",
-       "url": "#sample",
-       "title": "B사 신입 공채 부활, 3년 만에 정기 채용",
-       "date": "2026-09-24"
-      }
-     ],
-     "date": "2026-09-24"
-    },
-    {
-     "id": "20260924-03",
-     "cat": "market",
-     "importance": "mid",
-     "teams": [
-      "채용"
-     ],
-     "company": "업계 전반",
-     "title": "개발자 이직 제안 수락률 하락, 연봉보다 조직 안정성 중시",
-     "body": "채용 플랫폼 조사에서 개발자들이 이직 제안을 받아들이는 비율이 낮아지고, 회사의 재무 안정성과 조직 분위기를 더 따진다는 결과가 나왔어요.",
-     "insight": "보상만으로는 설득이 어려워졌어요. 회사 안정성과 팀 문화를 보여주는 자료가 중요해져요.",
-     "action": "후보자 컨택 메시지에 그룹 안정성과 팀 소개를 넣어 보세요.",
-     "tags": [
-      "개발자",
-      "이직시장"
-     ],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "샘플 매체 A",
-       "url": "#sample",
-       "title": "개발자 이직 제안 수락률 하락, 연봉보다 조직 안정성 중시",
-       "date": "2026-09-24"
-      },
-      {
-       "name": "샘플 매체 B",
-       "url": "#sample",
-       "title": "개발자 이직 제안 수락률 하락, 연봉보다 조직 안정성 중시",
-       "date": "2026-09-24"
-      }
-     ],
-     "date": "2026-09-24"
-    },
-    {
-     "id": "20260924-04",
-     "cat": "trend",
-     "importance": "mid",
-     "teams": [
-      "채용"
-     ],
-     "company": "HR테크 D사",
-     "title": "AI 면접 평가 도구, 공정성 검증 요구 커져",
-     "body": "AI 면접 도구를 쓰는 기업이 늘면서 평가 기준 공개와 편향 검증을 요구하는 목소리가 커지고 있어요.",
-     "insight": "AI 도구 도입 시 설명 가능성과 후보자 경험을 같이 봐야 해요.",
-     "action": "검토 중인 채용 솔루션의 평가 기준 공개 범위를 확인해 보세요.",
-     "tags": [
-      "HR테크",
-      "AI면접"
-     ],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "샘플 매체 A",
-       "url": "#sample",
-       "title": "AI 면접 평가 도구, 공정성 검증 요구 커져",
-       "date": "2026-09-24"
-      },
-      {
-       "name": "샘플 매체 B",
-       "url": "#sample",
-       "title": "AI 면접 평가 도구, 공정성 검증 요구 커져",
-       "date": "2026-09-24"
-      }
-     ],
-     "date": "2026-09-24"
-    },
-    {
-     "id": "20260924-06",
-     "cat": "labor",
-     "importance": "mid",
-     "teams": [
-      "채용",
-      "노무·ER"
-     ],
-     "company": "고용노동부",
-     "title": "청년 일자리 도약 장려금 하반기 신청 시작",
-     "body": "청년을 정규직으로 채용한 중소·중견기업에 인건비를 지원하는 장려금 하반기 접수가 시작됐어요.",
-     "insight": "계열사 중 대상 요건을 충족하는 곳이 있으면 비용을 줄일 수 있어요.",
-     "action": "계열사별 신규 청년 채용 건이 지원 요건에 맞는지 확인해 보세요.",
-     "tags": [
-      "고용지원금",
-      "청년채용"
-     ],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "샘플 매체 A",
-       "url": "#sample",
-       "title": "청년 일자리 도약 장려금 하반기 신청 시작",
-       "date": "2026-09-24"
-      }
-     ],
-     "date": "2026-09-24"
-    },
-    {
-     "id": "20260924-08",
+     "id": "20260928-f23",
      "cat": "ecom",
-     "importance": "mid",
-     "teams": [
-      "인사기획",
-      "채용"
-     ],
-     "company": "커넥트웨이브",
-     "title": "커넥트웨이브 계열사, AI 쇼핑 서비스 고도화 발표",
-     "body": "그룹 계열사가 AI 기반 쇼핑 추천 기능을 강화한다고 밝혔어요.",
-     "insight": "관련 직무 채용 수요가 생길 수 있어요.",
-     "action": "현업과 AI 서비스 인력 계획을 미리 확인해 보세요.",
-     "tags": [
-      "우리그룹",
-      "AI"
-     ],
+     "importance": "low",
+     "teams": [],
+     "company": "청년일보",
+     "title": "커넥트웨이브 몰테일, 다나와 연계해 역직구 상품 확대",
+     "body": "커넥트웨이브 몰테일, 다나와 연계해 역직구 상품 확대 청년일보",
+     "insight": "",
+     "action": "",
+     "tags": [],
      "our_group": true,
      "sources": [
       {
-       "name": "샘플 매체 A",
-       "url": "#sample",
-       "title": "커넥트웨이브 계열사, AI 쇼핑 서비스 고도화 발표",
-       "date": "2026-09-24"
+       "name": "청년일보",
+       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5DbFItMzkwTENIN2dlVXA4b2lWYkVJNFpRcXZCNjV4azg5eHJzQkZzNFNkQTRjUUt3YTVKTXZ3dGlMaUFhck1LNFR0TkxJX25RWXBRMVhuYjRfdXZUZFhpMWNONVVCdUI4WHc?oc=5",
+       "title": "커넥트웨이브 몰테일, 다나와 연계해 역직구 상품 확대",
+       "date": "2026-09-28"
       }
      ],
-     "date": "2026-09-24"
+     "date": "2026-09-28"
     },
     {
-     "id": "20260924-00",
-     "cat": "market",
-     "importance": "low",
-     "teams": [
-      "채용"
-     ],
-     "company": "업계 전반",
-     "title": "3분기 채용공고 수 전년 대비 소폭 감소",
-     "body": "주요 채용 플랫폼 공고 수가 전년 같은 기간보다 조금 줄었고, 경력직 비중은 늘었어요.",
-     "insight": "경력직 중심 시장이 이어지고 있어요.",
-     "action": "월별 우리 공고 지원자 수 추이와 함께 보세요.",
-     "tags": [
-      "채용공고",
-      "시장지표"
-     ],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "샘플 매체 A",
-       "url": "#sample",
-       "title": "3분기 채용공고 수 전년 대비 소폭 감소",
-       "date": "2026-09-24"
-      },
-      {
-       "name": "샘플 매체 B",
-       "url": "#sample",
-       "title": "3분기 채용공고 수 전년 대비 소폭 감소",
-       "date": "2026-09-24"
-      }
-     ],
-     "date": "2026-09-24"
-    },
-    {
-     "id": "20260924-05",
-     "cat": "ecom",
-     "importance": "low",
-     "teams": [
-      "인사기획"
-     ],
-     "company": "업계 전반",
-     "title": "가격비교 서비스 이용 패턴 변화 조사",
-     "body": "쇼핑 검색 이용 행태가 AI 검색 쪽으로 옮겨간다는 조사 결과가 나왔어요.",
-     "insight": "AI·검색 직무 수요가 커질 수 있어요.",
-     "action": "내년 인력 계획에 AI 검색 관련 직무를 반영할지 검토해 보세요.",
-     "tags": [
-      "AI검색",
-      "가격비교"
-     ],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "샘플 매체 A",
-       "url": "#sample",
-       "title": "가격비교 서비스 이용 패턴 변화 조사",
-       "date": "2026-09-24"
-      }
-     ],
-     "date": "2026-09-24"
-    }
-   ]
-  },
-  {
-   "date": "2026-09-23",
-   "sample": true,
-   "window_days": 1,
-   "article_count": 260,
-   "headline": "이커머스 조직개편 소식이 많았어요",
-   "points": [
-    "고용노동부, 포괄임금제 오남용 집중 감독 착수",
-    "E사 대규모 조직개편, 개발 조직 통합",
-    "청년 일자리 도약 장려금 하반기 신청 시작"
-   ],
-   "items": [
-    {
-     "id": "20260923-06",
-     "cat": "labor",
-     "importance": "high",
-     "teams": [
-      "노무·ER",
-      "인사기획"
-     ],
-     "company": "고용노동부",
-     "title": "고용노동부, 포괄임금제 오남용 집중 감독 착수",
-     "body": "고용노동부가 포괄임금 계약의 오남용 사례를 대상으로 기획 감독에 들어간다고 발표했어요.",
-     "insight": "연장근로 관리와 임금 계약 방식을 점검해야 해요.",
-     "action": "계열사별 포괄임금 적용 현황과 근태 기록 방식을 확인해 보세요.",
-     "tags": [
-      "포괄임금",
-      "근로감독"
-     ],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "샘플 매체 A",
-       "url": "#sample",
-       "title": "고용노동부, 포괄임금제 오남용 집중 감독 착수",
-       "date": "2026-09-23"
-      },
-      {
-       "name": "샘플 매체 B",
-       "url": "#sample",
-       "title": "고용노동부, 포괄임금제 오남용 집중 감독 착수",
-       "date": "2026-09-23"
-      }
-     ],
-     "date": "2026-09-23"
-    },
-    {
-     "id": "20260923-10",
-     "cat": "ecom",
-     "importance": "high",
-     "teams": [
-      "인사기획",
-      "채용"
-     ],
-     "company": "이커머스 E사",
-     "title": "E사 대규모 조직개편, 개발 조직 통합",
-     "body": "E사가 커머스와 광고 개발 조직을 하나로 합치는 조직개편을 했어요.",
-     "insight": "통합 과정에서 인력 이동이 생길 수 있어요. 경력 개발자 채용 기회가 될 수 있어요.",
-     "action": "E사 출신 개발자 대상 소싱을 채용팀과 논의해 보세요.",
-     "tags": [
-      "조직개편",
-      "개발조직"
-     ],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "샘플 매체 A",
-       "url": "#sample",
-       "title": "E사 대규모 조직개편, 개발 조직 통합",
-       "date": "2026-09-23"
-      }
-     ],
-     "date": "2026-09-23"
-    },
-    {
-     "id": "20260923-01",
-     "cat": "labor",
-     "importance": "mid",
-     "teams": [
-      "채용",
-      "노무·ER"
-     ],
-     "company": "고용노동부",
-     "title": "청년 일자리 도약 장려금 하반기 신청 시작",
-     "body": "청년을 정규직으로 채용한 중소·중견기업에 인건비를 지원하는 장려금 하반기 접수가 시작됐어요.",
-     "insight": "계열사 중 대상 요건을 충족하는 곳이 있으면 비용을 줄일 수 있어요.",
-     "action": "계열사별 신규 청년 채용 건이 지원 요건에 맞는지 확인해 보세요.",
-     "tags": [
-      "고용지원금",
-      "청년채용"
-     ],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "샘플 매체 A",
-       "url": "#sample",
-       "title": "청년 일자리 도약 장려금 하반기 신청 시작",
-       "date": "2026-09-23"
-      },
-      {
-       "name": "샘플 매체 B",
-       "url": "#sample",
-       "title": "청년 일자리 도약 장려금 하반기 신청 시작",
-       "date": "2026-09-23"
-      },
-      {
-       "name": "샘플 매체 C",
-       "url": "#sample",
-       "title": "청년 일자리 도약 장려금 하반기 신청 시작",
-       "date": "2026-09-23"
-      }
-     ],
-     "date": "2026-09-23"
-    },
-    {
-     "id": "20260923-07",
-     "cat": "trend",
-     "importance": "mid",
-     "teams": [
-      "채용"
-     ],
-     "company": "HR테크 D사",
-     "title": "AI 면접 평가 도구, 공정성 검증 요구 커져",
-     "body": "AI 면접 도구를 쓰는 기업이 늘면서 평가 기준 공개와 편향 검증을 요구하는 목소리가 커지고 있어요.",
-     "insight": "AI 도구 도입 시 설명 가능성과 후보자 경험을 같이 봐야 해요.",
-     "action": "검토 중인 채용 솔루션의 평가 기준 공개 범위를 확인해 보세요.",
-     "tags": [
-      "HR테크",
-      "AI면접"
-     ],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "샘플 매체 A",
-       "url": "#sample",
-       "title": "AI 면접 평가 도구, 공정성 검증 요구 커져",
-       "date": "2026-09-23"
-      },
-      {
-       "name": "샘플 매체 B",
-       "url": "#sample",
-       "title": "AI 면접 평가 도구, 공정성 검증 요구 커져",
-       "date": "2026-09-23"
-      },
-      {
-       "name": "샘플 매체 C",
-       "url": "#sample",
-       "title": "AI 면접 평가 도구, 공정성 검증 요구 커져",
-       "date": "2026-09-23"
-      }
-     ],
-     "date": "2026-09-23"
-    },
-    {
-     "id": "20260923-08",
-     "cat": "ecom",
-     "importance": "mid",
-     "teams": [
-      "인사기획",
-      "채용"
-     ],
-     "company": "커넥트웨이브",
-     "title": "커넥트웨이브 계열사, AI 쇼핑 서비스 고도화 발표",
-     "body": "그룹 계열사가 AI 기반 쇼핑 추천 기능을 강화한다고 밝혔어요.",
-     "insight": "관련 직무 채용 수요가 생길 수 있어요.",
-     "action": "현업과 AI 서비스 인력 계획을 미리 확인해 보세요.",
-     "tags": [
-      "우리그룹",
-      "AI"
-     ],
-     "our_group": true,
-     "sources": [
-      {
-       "name": "샘플 매체 A",
-       "url": "#sample",
-       "title": "커넥트웨이브 계열사, AI 쇼핑 서비스 고도화 발표",
-       "date": "2026-09-23"
-      },
-      {
-       "name": "샘플 매체 B",
-       "url": "#sample",
-       "title": "커넥트웨이브 계열사, AI 쇼핑 서비스 고도화 발표",
-       "date": "2026-09-23"
-      },
-      {
-       "name": "샘플 매체 C",
-       "url": "#sample",
-       "title": "커넥트웨이브 계열사, AI 쇼핑 서비스 고도화 발표",
-       "date": "2026-09-23"
-      }
-     ],
-     "date": "2026-09-23"
-    },
-    {
-     "id": "20260923-04",
-     "cat": "market",
-     "importance": "mid",
-     "teams": [
-      "채용",
-      "인사기획"
-     ],
-     "company": "IT 플랫폼 B사",
-     "title": "B사 신입 공채 부활, 3년 만에 정기 채용",
-     "body": "B사가 3년 만에 신입 정기 공채를 다시 열고 연 2회로 정례화한다고 발표했어요.",
-     "insight": "신입 인재풀 경쟁이 늘어나요. 캠퍼스 채용 일정이 겹치는지 확인이 필요해요.",
-     "action": "내년 인턴·신입 채용 일정을 B사 공채 시기와 비교해 보세요.",
-     "tags": [
-      "신입공채",
-      "캠퍼스"
-     ],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "샘플 매체 A",
-       "url": "#sample",
-       "title": "B사 신입 공채 부활, 3년 만에 정기 채용",
-       "date": "2026-09-23"
-      },
-      {
-       "name": "샘플 매체 B",
-       "url": "#sample",
-       "title": "B사 신입 공채 부활, 3년 만에 정기 채용",
-       "date": "2026-09-23"
-      }
-     ],
-     "date": "2026-09-23"
-    },
-    {
-     "id": "20260923-02",
-     "cat": "ecom",
-     "importance": "mid",
-     "teams": [
-      "채용"
-     ],
-     "company": "해외 커머스 G사",
-     "title": "G사 한국 법인, 마케팅·물류 인력 대거 채용",
-     "body": "해외 커머스 G사가 한국 사업 확대를 위해 마케팅과 물류 인력을 뽑고 있어요.",
-     "insight": "물류·마케팅 인력 경쟁이 심해질 수 있어요.",
-     "action": "물류 계열사 핵심 인력의 리텐션 현황을 살펴보세요.",
-     "tags": [
-      "외국계",
-      "물류"
-     ],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "샘플 매체 A",
-       "url": "#sample",
-       "title": "G사 한국 법인, 마케팅·물류 인력 대거 채용",
-       "date": "2026-09-23"
-      }
-     ],
-     "date": "2026-09-23"
-    },
-    {
-     "id": "20260923-03",
-     "cat": "labor",
-     "importance": "mid",
-     "teams": [
-      "노무·ER",
-      "보상·복리후생"
-     ],
-     "company": "대법원",
-     "title": "통상임금 범위 관련 하급심 판결 잇따라",
-     "body": "통상임금 범위를 넓게 본 판결 이후 관련 하급심 판결이 이어지고 있어요.",
-     "insight": "수당 설계에 따라 인건비 영향이 생길 수 있어요.",
-     "action": "정기 지급 수당 목록을 다시 정리해 두세요.",
-     "tags": [
-      "통상임금",
-      "판례"
-     ],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "샘플 매체 A",
-       "url": "#sample",
-       "title": "통상임금 범위 관련 하급심 판결 잇따라",
-       "date": "2026-09-23"
-      }
-     ],
-     "date": "2026-09-23"
-    },
-    {
-     "id": "20260923-09",
-     "cat": "trend",
-     "importance": "mid",
-     "teams": [
-      "조직문화·HRD"
-     ],
-     "company": "업계 전반",
-     "title": "생성형 AI 사내 교육, 전 직원 필수 과정으로 확산",
-     "body": "여러 대기업이 전 직원 대상 생성형 AI 활용 교육을 필수 과정으로 운영하기 시작했어요.",
-     "insight": "AI 역량이 직무 공통 역량이 되고 있어요.",
-     "action": "우리 교육 체계에 AI 활용 과정이 필요한지 수요를 조사해 보세요.",
-     "tags": [
-      "AI교육",
-      "리스킬링"
-     ],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "샘플 매체 A",
-       "url": "#sample",
-       "title": "생성형 AI 사내 교육, 전 직원 필수 과정으로 확산",
-       "date": "2026-09-23"
-      }
-     ],
-     "date": "2026-09-23"
-    },
-    {
-     "id": "20260923-00",
-     "cat": "ecom",
-     "importance": "low",
-     "teams": [
-      "인사기획"
-     ],
-     "company": "업계 전반",
-     "title": "가격비교 서비스 이용 패턴 변화 조사",
-     "body": "쇼핑 검색 이용 행태가 AI 검색 쪽으로 옮겨간다는 조사 결과가 나왔어요.",
-     "insight": "AI·검색 직무 수요가 커질 수 있어요.",
-     "action": "내년 인력 계획에 AI 검색 관련 직무를 반영할지 검토해 보세요.",
-     "tags": [
-      "AI검색",
-      "가격비교"
-     ],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "샘플 매체 A",
-       "url": "#sample",
-       "title": "가격비교 서비스 이용 패턴 변화 조사",
-       "date": "2026-09-23"
-      },
-      {
-       "name": "샘플 매체 B",
-       "url": "#sample",
-       "title": "가격비교 서비스 이용 패턴 변화 조사",
-       "date": "2026-09-23"
-      },
-      {
-       "name": "샘플 매체 C",
-       "url": "#sample",
-       "title": "가격비교 서비스 이용 패턴 변화 조사",
-       "date": "2026-09-23"
-      }
-     ],
-     "date": "2026-09-23"
-    },
-    {
-     "id": "20260923-05",
-     "cat": "market",
-     "importance": "low",
-     "teams": [
-      "채용"
-     ],
-     "company": "업계 전반",
-     "title": "3분기 채용공고 수 전년 대비 소폭 감소",
-     "body": "주요 채용 플랫폼 공고 수가 전년 같은 기간보다 조금 줄었고, 경력직 비중은 늘었어요.",
-     "insight": "경력직 중심 시장이 이어지고 있어요.",
-     "action": "월별 우리 공고 지원자 수 추이와 함께 보세요.",
-     "tags": [
-      "채용공고",
-      "시장지표"
-     ],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "샘플 매체 A",
-       "url": "#sample",
-       "title": "3분기 채용공고 수 전년 대비 소폭 감소",
-       "date": "2026-09-23"
-      },
-      {
-       "name": "샘플 매체 B",
-       "url": "#sample",
-       "title": "3분기 채용공고 수 전년 대비 소폭 감소",
-       "date": "2026-09-23"
-      }
-     ],
-     "date": "2026-09-23"
-    }
-   ]
-  },
-  {
-   "date": "2026-09-22",
-   "sample": true,
-   "window_days": 1,
-   "article_count": 190,
-   "headline": "채용 브랜딩 사례가 여러 건 나왔어요",
-   "points": [
-    "E사 대규모 조직개편, 개발 조직 통합",
-    "H사, 직원 인터뷰 중심 채용 브랜딩 캠페인 공개",
-    "A사, 하반기 경력직 채용 규모 30% 확대"
-   ],
-   "items": [
-    {
-     "id": "20260922-05",
-     "cat": "ecom",
-     "importance": "high",
-     "teams": [
-      "인사기획",
-      "채용"
-     ],
-     "company": "이커머스 E사",
-     "title": "E사 대규모 조직개편, 개발 조직 통합",
-     "body": "E사가 커머스와 광고 개발 조직을 하나로 합치는 조직개편을 했어요.",
-     "insight": "통합 과정에서 인력 이동이 생길 수 있어요. 경력 개발자 채용 기회가 될 수 있어요.",
-     "action": "E사 출신 개발자 대상 소싱을 채용팀과 논의해 보세요.",
-     "tags": [
-      "조직개편",
-      "개발조직"
-     ],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "샘플 매체 A",
-       "url": "#sample",
-       "title": "E사 대규모 조직개편, 개발 조직 통합",
-       "date": "2026-09-22"
-      }
-     ],
-     "date": "2026-09-22"
-    },
-    {
-     "id": "20260922-06",
-     "cat": "brand",
-     "importance": "high",
-     "teams": [
-      "채용",
-      "조직문화·HRD"
-     ],
-     "company": "국내 대기업 H사",
-     "title": "H사, 직원 인터뷰 중심 채용 브랜딩 캠페인 공개",
-     "body": "H사가 현직자 인터뷰 영상과 커리어 스토리를 담은 채용 브랜딩 캠페인을 시작했어요.",
-     "insight": "현직자 목소리로 EVP를 전하는 방식이 주류가 되고 있어요.",
-     "action": "우리 컬처덱과 채용 페이지에 현직자 인터뷰 콘텐츠를 추가할지 검토해 보세요.",
-     "tags": [
-      "채용브랜딩",
-      "EVP"
-     ],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "샘플 매체 A",
-       "url": "#sample",
-       "title": "H사, 직원 인터뷰 중심 채용 브랜딩 캠페인 공개",
-       "date": "2026-09-22"
-      }
-     ],
-     "date": "2026-09-22"
-    },
-    {
-     "id": "20260922-09",
-     "cat": "market",
-     "importance": "high",
-     "teams": [
-      "채용",
-      "인사기획"
-     ],
-     "company": "국내 대기업 A사",
-     "title": "A사, 하반기 경력직 채용 규모 30% 확대",
-     "body": "A사가 하반기 경력직 채용을 전년보다 30% 늘리고 AI·데이터 직군 비중을 절반 가까이로 높인다고 밝혔어요.",
-     "insight": "데이터·AI 경력자 쟁탈전이 심해질 수 있어요. 우리 핵심 포지션 후보군이 겹치는지 봐야 해요.",
-     "action": "진행 중인 데이터 직군 포지션의 오퍼 조건을 시장 수준과 다시 비교해 보세요.",
-     "tags": [
-      "경력채용",
-      "AI인재"
-     ],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "샘플 매체 A",
-       "url": "#sample",
-       "title": "A사, 하반기 경력직 채용 규모 30% 확대",
-       "date": "2026-09-22"
-      }
-     ],
-     "date": "2026-09-22"
-    },
-    {
-     "id": "20260922-00",
-     "cat": "market",
-     "importance": "mid",
-     "teams": [
-      "채용",
-      "인사기획"
-     ],
-     "company": "IT 플랫폼 B사",
-     "title": "B사 신입 공채 부활, 3년 만에 정기 채용",
-     "body": "B사가 3년 만에 신입 정기 공채를 다시 열고 연 2회로 정례화한다고 발표했어요.",
-     "insight": "신입 인재풀 경쟁이 늘어나요. 캠퍼스 채용 일정이 겹치는지 확인이 필요해요.",
-     "action": "내년 인턴·신입 채용 일정을 B사 공채 시기와 비교해 보세요.",
-     "tags": [
-      "신입공채",
-      "캠퍼스"
-     ],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "샘플 매체 A",
-       "url": "#sample",
-       "title": "B사 신입 공채 부활, 3년 만에 정기 채용",
-       "date": "2026-09-22"
-      },
-      {
-       "name": "샘플 매체 B",
-       "url": "#sample",
-       "title": "B사 신입 공채 부활, 3년 만에 정기 채용",
-       "date": "2026-09-22"
-      },
-      {
-       "name": "샘플 매체 C",
-       "url": "#sample",
-       "title": "B사 신입 공채 부활, 3년 만에 정기 채용",
-       "date": "2026-09-22"
-      }
-     ],
-     "date": "2026-09-22"
-    },
-    {
-     "id": "20260922-04",
-     "cat": "brand",
-     "importance": "mid",
-     "teams": [
-      "채용",
-      "보상·복리후생"
-     ],
-     "company": "외국계 I사",
-     "title": "외국계 I사, 육아 휴직 확대 등 복지 개편 발표",
-     "body": "외국계 I사가 한국 법인 직원 대상 육아 휴직 기간을 늘리고 복지 포인트를 개편했어요.",
-     "insight": "복지 경쟁이 채용 메시지로 직결되고 있어요.",
-     "action": "우리 복지 제도를 채용 공고에서 어떻게 보여주는지 비교해 보세요.",
-     "tags": [
-      "복지",
-      "외국계"
-     ],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "샘플 매체 A",
-       "url": "#sample",
-       "title": "외국계 I사, 육아 휴직 확대 등 복지 개편 발표",
-       "date": "2026-09-22"
-      },
-      {
-       "name": "샘플 매체 B",
-       "url": "#sample",
-       "title": "외국계 I사, 육아 휴직 확대 등 복지 개편 발표",
-       "date": "2026-09-22"
-      },
-      {
-       "name": "샘플 매체 C",
-       "url": "#sample",
-       "title": "외국계 I사, 육아 휴직 확대 등 복지 개편 발표",
-       "date": "2026-09-22"
-      }
-     ],
-     "date": "2026-09-22"
-    },
-    {
-     "id": "20260922-01",
-     "cat": "market",
-     "importance": "mid",
-     "teams": [
-      "채용"
-     ],
-     "company": "업계 전반",
-     "title": "개발자 이직 제안 수락률 하락, 연봉보다 조직 안정성 중시",
-     "body": "채용 플랫폼 조사에서 개발자들이 이직 제안을 받아들이는 비율이 낮아지고, 회사의 재무 안정성과 조직 분위기를 더 따진다는 결과가 나왔어요.",
-     "insight": "보상만으로는 설득이 어려워졌어요. 회사 안정성과 팀 문화를 보여주는 자료가 중요해져요.",
-     "action": "후보자 컨택 메시지에 그룹 안정성과 팀 소개를 넣어 보세요.",
-     "tags": [
-      "개발자",
-      "이직시장"
-     ],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "샘플 매체 A",
-       "url": "#sample",
-       "title": "개발자 이직 제안 수락률 하락, 연봉보다 조직 안정성 중시",
-       "date": "2026-09-22"
-      },
-      {
-       "name": "샘플 매체 B",
-       "url": "#sample",
-       "title": "개발자 이직 제안 수락률 하락, 연봉보다 조직 안정성 중시",
-       "date": "2026-09-22"
-      }
-     ],
-     "date": "2026-09-22"
-    },
-    {
-     "id": "20260922-07",
-     "cat": "labor",
-     "importance": "mid",
-     "teams": [
-      "채용",
-      "노무·ER"
-     ],
-     "company": "고용노동부",
-     "title": "청년 일자리 도약 장려금 하반기 신청 시작",
-     "body": "청년을 정규직으로 채용한 중소·중견기업에 인건비를 지원하는 장려금 하반기 접수가 시작됐어요.",
-     "insight": "계열사 중 대상 요건을 충족하는 곳이 있으면 비용을 줄일 수 있어요.",
-     "action": "계열사별 신규 청년 채용 건이 지원 요건에 맞는지 확인해 보세요.",
-     "tags": [
-      "고용지원금",
-      "청년채용"
-     ],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "샘플 매체 A",
-       "url": "#sample",
-       "title": "청년 일자리 도약 장려금 하반기 신청 시작",
-       "date": "2026-09-22"
-      },
-      {
-       "name": "샘플 매체 B",
-       "url": "#sample",
-       "title": "청년 일자리 도약 장려금 하반기 신청 시작",
-       "date": "2026-09-22"
-      }
-     ],
-     "date": "2026-09-22"
-    },
-    {
-     "id": "20260922-02",
-     "cat": "labor",
-     "importance": "mid",
-     "teams": [
-      "노무·ER",
-      "보상·복리후생"
-     ],
-     "company": "대법원",
-     "title": "통상임금 범위 관련 하급심 판결 잇따라",
-     "body": "통상임금 범위를 넓게 본 판결 이후 관련 하급심 판결이 이어지고 있어요.",
-     "insight": "수당 설계에 따라 인건비 영향이 생길 수 있어요.",
-     "action": "정기 지급 수당 목록을 다시 정리해 두세요.",
-     "tags": [
-      "통상임금",
-      "판례"
-     ],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "샘플 매체 A",
-       "url": "#sample",
-       "title": "통상임금 범위 관련 하급심 판결 잇따라",
-       "date": "2026-09-22"
-      }
-     ],
-     "date": "2026-09-22"
-    },
-    {
-     "id": "20260922-03",
-     "cat": "ecom",
-     "importance": "mid",
-     "teams": [
-      "채용"
-     ],
-     "company": "해외 커머스 G사",
-     "title": "G사 한국 법인, 마케팅·물류 인력 대거 채용",
-     "body": "해외 커머스 G사가 한국 사업 확대를 위해 마케팅과 물류 인력을 뽑고 있어요.",
-     "insight": "물류·마케팅 인력 경쟁이 심해질 수 있어요.",
-     "action": "물류 계열사 핵심 인력의 리텐션 현황을 살펴보세요.",
-     "tags": [
-      "외국계",
-      "물류"
-     ],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "샘플 매체 A",
-       "url": "#sample",
-       "title": "G사 한국 법인, 마케팅·물류 인력 대거 채용",
-       "date": "2026-09-22"
-      }
-     ],
-     "date": "2026-09-22"
-    },
-    {
-     "id": "20260922-08",
-     "cat": "trend",
-     "importance": "mid",
-     "teams": [
-      "조직문화·HRD"
-     ],
-     "company": "업계 전반",
-     "title": "생성형 AI 사내 교육, 전 직원 필수 과정으로 확산",
-     "body": "여러 대기업이 전 직원 대상 생성형 AI 활용 교육을 필수 과정으로 운영하기 시작했어요.",
-     "insight": "AI 역량이 직무 공통 역량이 되고 있어요.",
-     "action": "우리 교육 체계에 AI 활용 과정이 필요한지 수요를 조사해 보세요.",
-     "tags": [
-      "AI교육",
-      "리스킬링"
-     ],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "샘플 매체 A",
-       "url": "#sample",
-       "title": "생성형 AI 사내 교육, 전 직원 필수 과정으로 확산",
-       "date": "2026-09-22"
-      }
-     ],
-     "date": "2026-09-22"
-    }
-   ]
-  },
-  {
-   "date": "2026-09-21",
-   "sample": true,
-   "window_days": 3,
-   "article_count": 141,
-   "headline": "채용 브랜딩 사례가 여러 건 나왔어요",
-   "points": [
-    "E사 대규모 조직개편, 개발 조직 통합",
-    "고용노동부, 포괄임금제 오남용 집중 감독 착수",
-    "C사, 상대평가 폐지하고 수시 피드백 제도 도입"
-   ],
-   "items": [
-    {
-     "id": "20260921-03",
-     "cat": "ecom",
-     "importance": "high",
-     "teams": [
-      "인사기획",
-      "채용"
-     ],
-     "company": "이커머스 E사",
-     "title": "E사 대규모 조직개편, 개발 조직 통합",
-     "body": "E사가 커머스와 광고 개발 조직을 하나로 합치는 조직개편을 했어요.",
-     "insight": "통합 과정에서 인력 이동이 생길 수 있어요. 경력 개발자 채용 기회가 될 수 있어요.",
-     "action": "E사 출신 개발자 대상 소싱을 채용팀과 논의해 보세요.",
-     "tags": [
-      "조직개편",
-      "개발조직"
-     ],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "샘플 매체 A",
-       "url": "#sample",
-       "title": "E사 대규모 조직개편, 개발 조직 통합",
-       "date": "2026-09-21"
-      }
-     ],
-     "date": "2026-09-21"
-    },
-    {
-     "id": "20260921-04",
-     "cat": "labor",
-     "importance": "high",
-     "teams": [
-      "노무·ER",
-      "인사기획"
-     ],
-     "company": "고용노동부",
-     "title": "고용노동부, 포괄임금제 오남용 집중 감독 착수",
-     "body": "고용노동부가 포괄임금 계약의 오남용 사례를 대상으로 기획 감독에 들어간다고 발표했어요.",
-     "insight": "연장근로 관리와 임금 계약 방식을 점검해야 해요.",
-     "action": "계열사별 포괄임금 적용 현황과 근태 기록 방식을 확인해 보세요.",
-     "tags": [
-      "포괄임금",
-      "근로감독"
-     ],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "샘플 매체 A",
-       "url": "#sample",
-       "title": "고용노동부, 포괄임금제 오남용 집중 감독 착수",
-       "date": "2026-09-21"
-      }
-     ],
-     "date": "2026-09-21"
-    },
-    {
-     "id": "20260921-05",
-     "cat": "trend",
-     "importance": "high",
-     "teams": [
-      "인사기획",
-      "보상·복리후생"
-     ],
-     "company": "금융 C사",
-     "title": "C사, 상대평가 폐지하고 수시 피드백 제도 도입",
-     "body": "C사가 연 1회 상대평가를 없애고 분기별 수시 피드백과 절대평가로 바꾼다고 밝혔어요.",
-     "insight": "평가 제도 개편 사례가 늘고 있어요. 우리 평가 제도 개선 논의에 참고할 만해요.",
-     "action": "C사 제도의 보상 연동 방식을 정리해 인사기획 회의 자료로 써 보세요.",
-     "tags": [
-      "성과평가",
-      "절대평가"
-     ],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "샘플 매체 A",
-       "url": "#sample",
-       "title": "C사, 상대평가 폐지하고 수시 피드백 제도 도입",
-       "date": "2026-09-21"
-      }
-     ],
-     "date": "2026-09-21"
-    },
-    {
-     "id": "20260921-00",
-     "cat": "market",
-     "importance": "mid",
-     "teams": [
-      "채용",
-      "인사기획"
-     ],
-     "company": "IT 플랫폼 B사",
-     "title": "B사 신입 공채 부활, 3년 만에 정기 채용",
-     "body": "B사가 3년 만에 신입 정기 공채를 다시 열고 연 2회로 정례화한다고 발표했어요.",
-     "insight": "신입 인재풀 경쟁이 늘어나요. 캠퍼스 채용 일정이 겹치는지 확인이 필요해요.",
-     "action": "내년 인턴·신입 채용 일정을 B사 공채 시기와 비교해 보세요.",
-     "tags": [
-      "신입공채",
-      "캠퍼스"
-     ],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "샘플 매체 A",
-       "url": "#sample",
-       "title": "B사 신입 공채 부활, 3년 만에 정기 채용",
-       "date": "2026-09-21"
-      },
-      {
-       "name": "샘플 매체 B",
-       "url": "#sample",
-       "title": "B사 신입 공채 부활, 3년 만에 정기 채용",
-       "date": "2026-09-21"
-      },
-      {
-       "name": "샘플 매체 C",
-       "url": "#sample",
-       "title": "B사 신입 공채 부활, 3년 만에 정기 채용",
-       "date": "2026-09-21"
-      }
-     ],
-     "date": "2026-09-21"
-    },
-    {
-     "id": "20260921-02",
-     "cat": "ecom",
-     "importance": "mid",
-     "teams": [
-      "채용"
-     ],
-     "company": "해외 커머스 G사",
-     "title": "G사 한국 법인, 마케팅·물류 인력 대거 채용",
-     "body": "해외 커머스 G사가 한국 사업 확대를 위해 마케팅과 물류 인력을 뽑고 있어요.",
-     "insight": "물류·마케팅 인력 경쟁이 심해질 수 있어요.",
-     "action": "물류 계열사 핵심 인력의 리텐션 현황을 살펴보세요.",
-     "tags": [
-      "외국계",
-      "물류"
-     ],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "샘플 매체 A",
-       "url": "#sample",
-       "title": "G사 한국 법인, 마케팅·물류 인력 대거 채용",
-       "date": "2026-09-21"
-      },
-      {
-       "name": "샘플 매체 B",
-       "url": "#sample",
-       "title": "G사 한국 법인, 마케팅·물류 인력 대거 채용",
-       "date": "2026-09-21"
-      },
-      {
-       "name": "샘플 매체 C",
-       "url": "#sample",
-       "title": "G사 한국 법인, 마케팅·물류 인력 대거 채용",
-       "date": "2026-09-21"
-      }
-     ],
-     "date": "2026-09-21"
-    },
-    {
-     "id": "20260921-01",
-     "cat": "trend",
-     "importance": "mid",
-     "teams": [
-      "조직문화·HRD"
-     ],
-     "company": "업계 전반",
-     "title": "생성형 AI 사내 교육, 전 직원 필수 과정으로 확산",
-     "body": "여러 대기업이 전 직원 대상 생성형 AI 활용 교육을 필수 과정으로 운영하기 시작했어요.",
-     "insight": "AI 역량이 직무 공통 역량이 되고 있어요.",
-     "action": "우리 교육 체계에 AI 활용 과정이 필요한지 수요를 조사해 보세요.",
-     "tags": [
-      "AI교육",
-      "리스킬링"
-     ],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "샘플 매체 A",
-       "url": "#sample",
-       "title": "생성형 AI 사내 교육, 전 직원 필수 과정으로 확산",
-       "date": "2026-09-21"
-      },
-      {
-       "name": "샘플 매체 B",
-       "url": "#sample",
-       "title": "생성형 AI 사내 교육, 전 직원 필수 과정으로 확산",
-       "date": "2026-09-21"
-      }
-     ],
-     "date": "2026-09-21"
-    },
-    {
-     "id": "20260921-06",
-     "cat": "ecom",
-     "importance": "mid",
-     "teams": [
-      "인사기획"
-     ],
-     "company": "셀러 솔루션 F사",
-     "title": "F사, 해외 투자 유치하고 글로벌 진출 가속",
-     "body": "F사가 해외 투자사로부터 투자를 받고 동남아 진출을 서두른다고 밝혔어요.",
-     "insight": "셀러 솔루션 시장 경쟁이 커지고 글로벌 사업 인력 수요가 늘 수 있어요.",
-     "action": "글로벌 사업 경험자 인재풀을 미리 정리해 보세요.",
-     "tags": [
-      "투자유치",
-      "글로벌"
-     ],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "샘플 매체 A",
-       "url": "#sample",
-       "title": "F사, 해외 투자 유치하고 글로벌 진출 가속",
-       "date": "2026-09-21"
-      }
-     ],
-     "date": "2026-09-21"
-    },
-    {
-     "id": "20260921-07",
-     "cat": "trend",
-     "importance": "mid",
-     "teams": [
-      "채용"
-     ],
-     "company": "HR테크 D사",
-     "title": "AI 면접 평가 도구, 공정성 검증 요구 커져",
-     "body": "AI 면접 도구를 쓰는 기업이 늘면서 평가 기준 공개와 편향 검증을 요구하는 목소리가 커지고 있어요.",
-     "insight": "AI 도구 도입 시 설명 가능성과 후보자 경험을 같이 봐야 해요.",
-     "action": "검토 중인 채용 솔루션의 평가 기준 공개 범위를 확인해 보세요.",
-     "tags": [
-      "HR테크",
-      "AI면접"
-     ],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "샘플 매체 A",
-       "url": "#sample",
-       "title": "AI 면접 평가 도구, 공정성 검증 요구 커져",
-       "date": "2026-09-21"
-      }
-     ],
-     "date": "2026-09-21"
-    },
-    {
-     "id": "20260921-08",
-     "cat": "ecom",
-     "importance": "mid",
-     "teams": [
-      "인사기획",
-      "채용"
-     ],
-     "company": "커넥트웨이브",
-     "title": "커넥트웨이브 계열사, AI 쇼핑 서비스 고도화 발표",
-     "body": "그룹 계열사가 AI 기반 쇼핑 추천 기능을 강화한다고 밝혔어요.",
-     "insight": "관련 직무 채용 수요가 생길 수 있어요.",
-     "action": "현업과 AI 서비스 인력 계획을 미리 확인해 보세요.",
-     "tags": [
-      "우리그룹",
-      "AI"
-     ],
-     "our_group": true,
-     "sources": [
-      {
-       "name": "샘플 매체 A",
-       "url": "#sample",
-       "title": "커넥트웨이브 계열사, AI 쇼핑 서비스 고도화 발표",
-       "date": "2026-09-21"
-      }
-     ],
-     "date": "2026-09-21"
-    },
-    {
-     "id": "20260921-09",
-     "cat": "ecom",
-     "importance": "low",
-     "teams": [
-      "인사기획"
-     ],
-     "company": "업계 전반",
-     "title": "가격비교 서비스 이용 패턴 변화 조사",
-     "body": "쇼핑 검색 이용 행태가 AI 검색 쪽으로 옮겨간다는 조사 결과가 나왔어요.",
-     "insight": "AI·검색 직무 수요가 커질 수 있어요.",
-     "action": "내년 인력 계획에 AI 검색 관련 직무를 반영할지 검토해 보세요.",
-     "tags": [
-      "AI검색",
-      "가격비교"
-     ],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "샘플 매체 A",
-       "url": "#sample",
-       "title": "가격비교 서비스 이용 패턴 변화 조사",
-       "date": "2026-09-21"
-      }
-     ],
-     "date": "2026-09-21"
-    }
-   ]
-  },
-  {
-   "date": "2026-09-18",
-   "sample": true,
-   "window_days": 1,
-   "article_count": 164,
-   "headline": "경력 채용 확대와 평가 제도 개편 소식이 이어졌어요",
-   "points": [
-    "A사, 하반기 경력직 채용 규모 30% 확대",
-    "C사, 상대평가 폐지하고 수시 피드백 제도 도입",
-    "E사 대규모 조직개편, 개발 조직 통합"
-   ],
-   "items": [
-    {
-     "id": "20260918-03",
-     "cat": "market",
-     "importance": "high",
-     "teams": [
-      "채용",
-      "인사기획"
-     ],
-     "company": "국내 대기업 A사",
-     "title": "A사, 하반기 경력직 채용 규모 30% 확대",
-     "body": "A사가 하반기 경력직 채용을 전년보다 30% 늘리고 AI·데이터 직군 비중을 절반 가까이로 높인다고 밝혔어요.",
-     "insight": "데이터·AI 경력자 쟁탈전이 심해질 수 있어요. 우리 핵심 포지션 후보군이 겹치는지 봐야 해요.",
-     "action": "진행 중인 데이터 직군 포지션의 오퍼 조건을 시장 수준과 다시 비교해 보세요.",
-     "tags": [
-      "경력채용",
-      "AI인재"
-     ],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "샘플 매체 A",
-       "url": "#sample",
-       "title": "A사, 하반기 경력직 채용 규모 30% 확대",
-       "date": "2026-09-18"
-      },
-      {
-       "name": "샘플 매체 B",
-       "url": "#sample",
-       "title": "A사, 하반기 경력직 채용 규모 30% 확대",
-       "date": "2026-09-18"
-      },
-      {
-       "name": "샘플 매체 C",
-       "url": "#sample",
-       "title": "A사, 하반기 경력직 채용 규모 30% 확대",
-       "date": "2026-09-18"
-      }
-     ],
-     "date": "2026-09-18"
-    },
-    {
-     "id": "20260918-04",
-     "cat": "trend",
-     "importance": "high",
-     "teams": [
-      "인사기획",
-      "보상·복리후생"
-     ],
-     "company": "금융 C사",
-     "title": "C사, 상대평가 폐지하고 수시 피드백 제도 도입",
-     "body": "C사가 연 1회 상대평가를 없애고 분기별 수시 피드백과 절대평가로 바꾼다고 밝혔어요.",
-     "insight": "평가 제도 개편 사례가 늘고 있어요. 우리 평가 제도 개선 논의에 참고할 만해요.",
-     "action": "C사 제도의 보상 연동 방식을 정리해 인사기획 회의 자료로 써 보세요.",
-     "tags": [
-      "성과평가",
-      "절대평가"
-     ],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "샘플 매체 A",
-       "url": "#sample",
-       "title": "C사, 상대평가 폐지하고 수시 피드백 제도 도입",
-       "date": "2026-09-18"
-      },
-      {
-       "name": "샘플 매체 B",
-       "url": "#sample",
-       "title": "C사, 상대평가 폐지하고 수시 피드백 제도 도입",
-       "date": "2026-09-18"
-      },
-      {
-       "name": "샘플 매체 C",
-       "url": "#sample",
-       "title": "C사, 상대평가 폐지하고 수시 피드백 제도 도입",
-       "date": "2026-09-18"
-      }
-     ],
-     "date": "2026-09-18"
-    },
-    {
-     "id": "20260918-09",
-     "cat": "ecom",
-     "importance": "high",
-     "teams": [
-      "인사기획",
-      "채용"
-     ],
-     "company": "이커머스 E사",
-     "title": "E사 대규모 조직개편, 개발 조직 통합",
-     "body": "E사가 커머스와 광고 개발 조직을 하나로 합치는 조직개편을 했어요.",
-     "insight": "통합 과정에서 인력 이동이 생길 수 있어요. 경력 개발자 채용 기회가 될 수 있어요.",
-     "action": "E사 출신 개발자 대상 소싱을 채용팀과 논의해 보세요.",
-     "tags": [
-      "조직개편",
-      "개발조직"
-     ],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "샘플 매체 A",
-       "url": "#sample",
-       "title": "E사 대규모 조직개편, 개발 조직 통합",
-       "date": "2026-09-18"
-      },
-      {
-       "name": "샘플 매체 B",
-       "url": "#sample",
-       "title": "E사 대규모 조직개편, 개발 조직 통합",
-       "date": "2026-09-18"
-      },
-      {
-       "name": "샘플 매체 C",
-       "url": "#sample",
-       "title": "E사 대규모 조직개편, 개발 조직 통합",
-       "date": "2026-09-18"
-      }
-     ],
-     "date": "2026-09-18"
-    },
-    {
-     "id": "20260918-01",
-     "cat": "labor",
-     "importance": "high",
-     "teams": [
-      "노무·ER",
-      "인사기획"
-     ],
-     "company": "고용노동부",
-     "title": "고용노동부, 포괄임금제 오남용 집중 감독 착수",
-     "body": "고용노동부가 포괄임금 계약의 오남용 사례를 대상으로 기획 감독에 들어간다고 발표했어요.",
-     "insight": "연장근로 관리와 임금 계약 방식을 점검해야 해요.",
-     "action": "계열사별 포괄임금 적용 현황과 근태 기록 방식을 확인해 보세요.",
-     "tags": [
-      "포괄임금",
-      "근로감독"
-     ],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "샘플 매체 A",
-       "url": "#sample",
-       "title": "고용노동부, 포괄임금제 오남용 집중 감독 착수",
-       "date": "2026-09-18"
-      }
-     ],
-     "date": "2026-09-18"
-    },
-    {
-     "id": "20260918-02",
-     "cat": "labor",
-     "importance": "mid",
-     "teams": [
-      "노무·ER",
-      "보상·복리후생"
-     ],
-     "company": "대법원",
-     "title": "통상임금 범위 관련 하급심 판결 잇따라",
-     "body": "통상임금 범위를 넓게 본 판결 이후 관련 하급심 판결이 이어지고 있어요.",
-     "insight": "수당 설계에 따라 인건비 영향이 생길 수 있어요.",
-     "action": "정기 지급 수당 목록을 다시 정리해 두세요.",
-     "tags": [
-      "통상임금",
-      "판례"
-     ],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "샘플 매체 A",
-       "url": "#sample",
-       "title": "통상임금 범위 관련 하급심 판결 잇따라",
-       "date": "2026-09-18"
-      },
-      {
-       "name": "샘플 매체 B",
-       "url": "#sample",
-       "title": "통상임금 범위 관련 하급심 판결 잇따라",
-       "date": "2026-09-18"
-      },
-      {
-       "name": "샘플 매체 C",
-       "url": "#sample",
-       "title": "통상임금 범위 관련 하급심 판결 잇따라",
-       "date": "2026-09-18"
-      }
-     ],
-     "date": "2026-09-18"
-    },
-    {
-     "id": "20260918-05",
-     "cat": "ecom",
-     "importance": "mid",
-     "teams": [
-      "인사기획"
-     ],
-     "company": "셀러 솔루션 F사",
-     "title": "F사, 해외 투자 유치하고 글로벌 진출 가속",
-     "body": "F사가 해외 투자사로부터 투자를 받고 동남아 진출을 서두른다고 밝혔어요.",
-     "insight": "셀러 솔루션 시장 경쟁이 커지고 글로벌 사업 인력 수요가 늘 수 있어요.",
-     "action": "글로벌 사업 경험자 인재풀을 미리 정리해 보세요.",
-     "tags": [
-      "투자유치",
-      "글로벌"
-     ],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "샘플 매체 A",
-       "url": "#sample",
-       "title": "F사, 해외 투자 유치하고 글로벌 진출 가속",
-       "date": "2026-09-18"
-      },
-      {
-       "name": "샘플 매체 B",
-       "url": "#sample",
-       "title": "F사, 해외 투자 유치하고 글로벌 진출 가속",
-       "date": "2026-09-18"
-      },
-      {
-       "name": "샘플 매체 C",
-       "url": "#sample",
-       "title": "F사, 해외 투자 유치하고 글로벌 진출 가속",
-       "date": "2026-09-18"
-      }
-     ],
-     "date": "2026-09-18"
-    },
-    {
-     "id": "20260918-06",
-     "cat": "brand",
-     "importance": "mid",
-     "teams": [
-      "채용"
-     ],
-     "company": "IT 플랫폼 J사",
-     "title": "J사 개발자 컨퍼런스, 채용 연계 프로그램 운영",
-     "body": "J사가 개발자 컨퍼런스에서 현장 채용 상담과 네트워킹 프로그램을 함께 운영했어요.",
-     "insight": "행사와 채용을 잇는 방식이 효과를 보고 있어요.",
-     "action": "참가 예정인 외부 행사에 채용 부스나 밋업을 붙일 수 있는지 알아보세요.",
-     "tags": [
-      "개발자행사",
-      "채용마케팅"
-     ],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "샘플 매체 A",
-       "url": "#sample",
-       "title": "J사 개발자 컨퍼런스, 채용 연계 프로그램 운영",
-       "date": "2026-09-18"
-      },
-      {
-       "name": "샘플 매체 B",
-       "url": "#sample",
-       "title": "J사 개발자 컨퍼런스, 채용 연계 프로그램 운영",
-       "date": "2026-09-18"
-      },
-      {
-       "name": "샘플 매체 C",
-       "url": "#sample",
-       "title": "J사 개발자 컨퍼런스, 채용 연계 프로그램 운영",
-       "date": "2026-09-18"
-      }
-     ],
-     "date": "2026-09-18"
-    },
-    {
-     "id": "20260918-08",
-     "cat": "brand",
-     "importance": "mid",
-     "teams": [
-      "채용",
-      "보상·복리후생"
-     ],
-     "company": "외국계 I사",
-     "title": "외국계 I사, 육아 휴직 확대 등 복지 개편 발표",
-     "body": "외국계 I사가 한국 법인 직원 대상 육아 휴직 기간을 늘리고 복지 포인트를 개편했어요.",
-     "insight": "복지 경쟁이 채용 메시지로 직결되고 있어요.",
-     "action": "우리 복지 제도를 채용 공고에서 어떻게 보여주는지 비교해 보세요.",
-     "tags": [
-      "복지",
-      "외국계"
-     ],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "샘플 매체 A",
-       "url": "#sample",
-       "title": "외국계 I사, 육아 휴직 확대 등 복지 개편 발표",
-       "date": "2026-09-18"
-      },
-      {
-       "name": "샘플 매체 B",
-       "url": "#sample",
-       "title": "외국계 I사, 육아 휴직 확대 등 복지 개편 발표",
-       "date": "2026-09-18"
-      },
-      {
-       "name": "샘플 매체 C",
-       "url": "#sample",
-       "title": "외국계 I사, 육아 휴직 확대 등 복지 개편 발표",
-       "date": "2026-09-18"
-      }
-     ],
-     "date": "2026-09-18"
-    },
-    {
-     "id": "20260918-00",
-     "cat": "trend",
-     "importance": "mid",
-     "teams": [
-      "조직문화·HRD"
-     ],
-     "company": "업계 전반",
-     "title": "생성형 AI 사내 교육, 전 직원 필수 과정으로 확산",
-     "body": "여러 대기업이 전 직원 대상 생성형 AI 활용 교육을 필수 과정으로 운영하기 시작했어요.",
-     "insight": "AI 역량이 직무 공통 역량이 되고 있어요.",
-     "action": "우리 교육 체계에 AI 활용 과정이 필요한지 수요를 조사해 보세요.",
-     "tags": [
-      "AI교육",
-      "리스킬링"
-     ],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "샘플 매체 A",
-       "url": "#sample",
-       "title": "생성형 AI 사내 교육, 전 직원 필수 과정으로 확산",
-       "date": "2026-09-18"
-      }
-     ],
-     "date": "2026-09-18"
-    },
-    {
-     "id": "20260918-07",
+     "id": "20260928-f24",
      "cat": "brand",
      "importance": "low",
-     "teams": [
-      "채용",
-      "조직문화·HRD"
-     ],
-     "company": "업계 전반",
-     "title": "기업 채용 유튜브 채널, 숏폼 콘텐츠 비중 늘어",
-     "body": "기업 채용 채널이 긴 인터뷰 대신 1분 이내 숏폼 콘텐츠를 늘리고 있어요.",
-     "insight": "후보자 접점이 짧은 영상으로 옮겨가고 있어요.",
-     "action": "직무 소개를 숏폼으로 만드는 파일럿을 검토해 보세요.",
-     "tags": [
-      "숏폼",
-      "채용콘텐츠"
-     ],
+     "teams": [],
+     "company": "파이낸셜포스트",
+     "title": "육아 값 vs 출근 값…삼성맨의 '차가운 계산기'",
+     "body": "육아 값 vs 출근 값…삼성맨의 '차가운 계산기' 파이낸셜포스트",
+     "insight": "",
+     "action": "",
+     "tags": [],
      "our_group": false,
      "sources": [
       {
-       "name": "샘플 매체 A",
-       "url": "#sample",
-       "title": "기업 채용 유튜브 채널, 숏폼 콘텐츠 비중 늘어",
-       "date": "2026-09-18"
+       "name": "파이낸셜포스트",
+       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBRU2g4Y2gzVllhaVdHUlc3LUNsN1kxX0ZSU0lfV0NJa01uYzhRN1lWNXdTcnJ4aFRvVVNFbTREcVBvVFd1aWVXdU84OXNCR25iUFRDck15bEdOYnZTbFhDbnFQZjB6NTk3SWV4anJUQVI5U0lp?oc=5",
+       "title": "육아 값 vs 출근 값…삼성맨의 '차가운 계산기'",
+       "date": "2026-09-28"
       }
      ],
-     "date": "2026-09-18"
+     "date": "2026-09-28"
     },
     {
-     "id": "20260918-10",
-     "cat": "ecom",
-     "importance": "low",
-     "teams": [
-      "인사기획"
-     ],
-     "company": "업계 전반",
-     "title": "가격비교 서비스 이용 패턴 변화 조사",
-     "body": "쇼핑 검색 이용 행태가 AI 검색 쪽으로 옮겨간다는 조사 결과가 나왔어요.",
-     "insight": "AI·검색 직무 수요가 커질 수 있어요.",
-     "action": "내년 인력 계획에 AI 검색 관련 직무를 반영할지 검토해 보세요.",
-     "tags": [
-      "AI검색",
-      "가격비교"
-     ],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "샘플 매체 A",
-       "url": "#sample",
-       "title": "가격비교 서비스 이용 패턴 변화 조사",
-       "date": "2026-09-18"
-      }
-     ],
-     "date": "2026-09-18"
-    }
-   ]
-  },
-  {
-   "date": "2026-09-17",
-   "sample": true,
-   "window_days": 1,
-   "article_count": 221,
-   "headline": "이커머스 조직개편 소식이 많았어요",
-   "points": [
-    "A사, 하반기 경력직 채용 규모 30% 확대",
-    "G사 한국 법인, 마케팅·물류 인력 대거 채용",
-    "생성형 AI 사내 교육, 전 직원 필수 과정으로 확산"
-   ],
-   "items": [
-    {
-     "id": "20260917-06",
-     "cat": "market",
-     "importance": "high",
-     "teams": [
-      "채용",
-      "인사기획"
-     ],
-     "company": "국내 대기업 A사",
-     "title": "A사, 하반기 경력직 채용 규모 30% 확대",
-     "body": "A사가 하반기 경력직 채용을 전년보다 30% 늘리고 AI·데이터 직군 비중을 절반 가까이로 높인다고 밝혔어요.",
-     "insight": "데이터·AI 경력자 쟁탈전이 심해질 수 있어요. 우리 핵심 포지션 후보군이 겹치는지 봐야 해요.",
-     "action": "진행 중인 데이터 직군 포지션의 오퍼 조건을 시장 수준과 다시 비교해 보세요.",
-     "tags": [
-      "경력채용",
-      "AI인재"
-     ],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "샘플 매체 A",
-       "url": "#sample",
-       "title": "A사, 하반기 경력직 채용 규모 30% 확대",
-       "date": "2026-09-17"
-      },
-      {
-       "name": "샘플 매체 B",
-       "url": "#sample",
-       "title": "A사, 하반기 경력직 채용 규모 30% 확대",
-       "date": "2026-09-17"
-      },
-      {
-       "name": "샘플 매체 C",
-       "url": "#sample",
-       "title": "A사, 하반기 경력직 채용 규모 30% 확대",
-       "date": "2026-09-17"
-      }
-     ],
-     "date": "2026-09-17"
-    },
-    {
-     "id": "20260917-00",
-     "cat": "ecom",
-     "importance": "mid",
-     "teams": [
-      "채용"
-     ],
-     "company": "해외 커머스 G사",
-     "title": "G사 한국 법인, 마케팅·물류 인력 대거 채용",
-     "body": "해외 커머스 G사가 한국 사업 확대를 위해 마케팅과 물류 인력을 뽑고 있어요.",
-     "insight": "물류·마케팅 인력 경쟁이 심해질 수 있어요.",
-     "action": "물류 계열사 핵심 인력의 리텐션 현황을 살펴보세요.",
-     "tags": [
-      "외국계",
-      "물류"
-     ],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "샘플 매체 A",
-       "url": "#sample",
-       "title": "G사 한국 법인, 마케팅·물류 인력 대거 채용",
-       "date": "2026-09-17"
-      }
-     ],
-     "date": "2026-09-17"
-    },
-    {
-     "id": "20260917-01",
-     "cat": "trend",
-     "importance": "mid",
-     "teams": [
-      "조직문화·HRD"
-     ],
-     "company": "업계 전반",
-     "title": "생성형 AI 사내 교육, 전 직원 필수 과정으로 확산",
-     "body": "여러 대기업이 전 직원 대상 생성형 AI 활용 교육을 필수 과정으로 운영하기 시작했어요.",
-     "insight": "AI 역량이 직무 공통 역량이 되고 있어요.",
-     "action": "우리 교육 체계에 AI 활용 과정이 필요한지 수요를 조사해 보세요.",
-     "tags": [
-      "AI교육",
-      "리스킬링"
-     ],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "샘플 매체 A",
-       "url": "#sample",
-       "title": "생성형 AI 사내 교육, 전 직원 필수 과정으로 확산",
-       "date": "2026-09-17"
-      }
-     ],
-     "date": "2026-09-17"
-    },
-    {
-     "id": "20260917-03",
-     "cat": "labor",
-     "importance": "mid",
-     "teams": [
-      "채용",
-      "노무·ER"
-     ],
-     "company": "고용노동부",
-     "title": "청년 일자리 도약 장려금 하반기 신청 시작",
-     "body": "청년을 정규직으로 채용한 중소·중견기업에 인건비를 지원하는 장려금 하반기 접수가 시작됐어요.",
-     "insight": "계열사 중 대상 요건을 충족하는 곳이 있으면 비용을 줄일 수 있어요.",
-     "action": "계열사별 신규 청년 채용 건이 지원 요건에 맞는지 확인해 보세요.",
-     "tags": [
-      "고용지원금",
-      "청년채용"
-     ],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "샘플 매체 A",
-       "url": "#sample",
-       "title": "청년 일자리 도약 장려금 하반기 신청 시작",
-       "date": "2026-09-17"
-      }
-     ],
-     "date": "2026-09-17"
-    },
-    {
-     "id": "20260917-04",
-     "cat": "market",
-     "importance": "mid",
-     "teams": [
-      "채용"
-     ],
-     "company": "업계 전반",
-     "title": "개발자 이직 제안 수락률 하락, 연봉보다 조직 안정성 중시",
-     "body": "채용 플랫폼 조사에서 개발자들이 이직 제안을 받아들이는 비율이 낮아지고, 회사의 재무 안정성과 조직 분위기를 더 따진다는 결과가 나왔어요.",
-     "insight": "보상만으로는 설득이 어려워졌어요. 회사 안정성과 팀 문화를 보여주는 자료가 중요해져요.",
-     "action": "후보자 컨택 메시지에 그룹 안정성과 팀 소개를 넣어 보세요.",
-     "tags": [
-      "개발자",
-      "이직시장"
-     ],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "샘플 매체 A",
-       "url": "#sample",
-       "title": "개발자 이직 제안 수락률 하락, 연봉보다 조직 안정성 중시",
-       "date": "2026-09-17"
-      }
-     ],
-     "date": "2026-09-17"
-    },
-    {
-     "id": "20260917-05",
-     "cat": "brand",
-     "importance": "mid",
-     "teams": [
-      "채용",
-      "보상·복리후생"
-     ],
-     "company": "외국계 I사",
-     "title": "외국계 I사, 육아 휴직 확대 등 복지 개편 발표",
-     "body": "외국계 I사가 한국 법인 직원 대상 육아 휴직 기간을 늘리고 복지 포인트를 개편했어요.",
-     "insight": "복지 경쟁이 채용 메시지로 직결되고 있어요.",
-     "action": "우리 복지 제도를 채용 공고에서 어떻게 보여주는지 비교해 보세요.",
-     "tags": [
-      "복지",
-      "외국계"
-     ],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "샘플 매체 A",
-       "url": "#sample",
-       "title": "외국계 I사, 육아 휴직 확대 등 복지 개편 발표",
-       "date": "2026-09-17"
-      }
-     ],
-     "date": "2026-09-17"
-    },
-    {
-     "id": "20260917-07",
-     "cat": "labor",
-     "importance": "mid",
-     "teams": [
-      "노무·ER",
-      "보상·복리후생"
-     ],
-     "company": "대법원",
-     "title": "통상임금 범위 관련 하급심 판결 잇따라",
-     "body": "통상임금 범위를 넓게 본 판결 이후 관련 하급심 판결이 이어지고 있어요.",
-     "insight": "수당 설계에 따라 인건비 영향이 생길 수 있어요.",
-     "action": "정기 지급 수당 목록을 다시 정리해 두세요.",
-     "tags": [
-      "통상임금",
-      "판례"
-     ],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "샘플 매체 A",
-       "url": "#sample",
-       "title": "통상임금 범위 관련 하급심 판결 잇따라",
-       "date": "2026-09-17"
-      }
-     ],
-     "date": "2026-09-17"
-    },
-    {
-     "id": "20260917-02",
+     "id": "20260928-f25",
      "cat": "market",
      "importance": "low",
-     "teams": [
-      "채용"
-     ],
-     "company": "업계 전반",
-     "title": "3분기 채용공고 수 전년 대비 소폭 감소",
-     "body": "주요 채용 플랫폼 공고 수가 전년 같은 기간보다 조금 줄었고, 경력직 비중은 늘었어요.",
-     "insight": "경력직 중심 시장이 이어지고 있어요.",
-     "action": "월별 우리 공고 지원자 수 추이와 함께 보세요.",
-     "tags": [
-      "채용공고",
-      "시장지표"
-     ],
+     "teams": [],
+     "company": "incheonilbo.com",
+     "title": "신입 공채 뜸한 인천, 직무별 채용 대세",
+     "body": "신입 공채 뜸한 인천, 직무별 채용 대세 incheonilbo.com",
+     "insight": "",
+     "action": "",
+     "tags": [],
      "our_group": false,
      "sources": [
       {
-       "name": "샘플 매체 A",
-       "url": "#sample",
-       "title": "3분기 채용공고 수 전년 대비 소폭 감소",
-       "date": "2026-09-17"
-      },
-      {
-       "name": "샘플 매체 B",
-       "url": "#sample",
-       "title": "3분기 채용공고 수 전년 대비 소폭 감소",
-       "date": "2026-09-17"
+       "name": "incheonilbo.com",
+       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE95WVJyWHUtUmhkLWVjdC1kOC1sRTMzOGR1Q3JTZV94SVBjMUYwdzJCb2FWLWwtU2J4NS1fcHVKRDVrSVVGMTRVOHhVZUhJNEd4bl9zNWlIdzhWU1NtSXlveGFJZnhRTFVHRUNFeHBXdG8?oc=5",
+       "title": "신입 공채 뜸한 인천, 직무별 채용 대세",
+       "date": "2026-09-27"
       }
      ],
-     "date": "2026-09-17"
-    }
-   ]
-  },
-  {
-   "date": "2026-09-16",
-   "sample": true,
-   "window_days": 1,
-   "article_count": 166,
-   "headline": "이커머스 조직개편 소식이 많았어요",
-   "points": [
-    "H사, 직원 인터뷰 중심 채용 브랜딩 캠페인 공개",
-    "J사 개발자 컨퍼런스, 채용 연계 프로그램 운영",
-    "외국계 I사, 육아 휴직 확대 등 복지 개편 발표"
-   ],
-   "items": [
-    {
-     "id": "20260916-04",
-     "cat": "brand",
-     "importance": "high",
-     "teams": [
-      "채용",
-      "조직문화·HRD"
-     ],
-     "company": "국내 대기업 H사",
-     "title": "H사, 직원 인터뷰 중심 채용 브랜딩 캠페인 공개",
-     "body": "H사가 현직자 인터뷰 영상과 커리어 스토리를 담은 채용 브랜딩 캠페인을 시작했어요.",
-     "insight": "현직자 목소리로 EVP를 전하는 방식이 주류가 되고 있어요.",
-     "action": "우리 컬처덱과 채용 페이지에 현직자 인터뷰 콘텐츠를 추가할지 검토해 보세요.",
-     "tags": [
-      "채용브랜딩",
-      "EVP"
-     ],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "샘플 매체 A",
-       "url": "#sample",
-       "title": "H사, 직원 인터뷰 중심 채용 브랜딩 캠페인 공개",
-       "date": "2026-09-16"
-      },
-      {
-       "name": "샘플 매체 B",
-       "url": "#sample",
-       "title": "H사, 직원 인터뷰 중심 채용 브랜딩 캠페인 공개",
-       "date": "2026-09-16"
-      }
-     ],
-     "date": "2026-09-16"
+     "date": "2026-09-27"
     },
     {
-     "id": "20260916-00",
-     "cat": "brand",
-     "importance": "mid",
-     "teams": [
-      "채용"
-     ],
-     "company": "IT 플랫폼 J사",
-     "title": "J사 개발자 컨퍼런스, 채용 연계 프로그램 운영",
-     "body": "J사가 개발자 컨퍼런스에서 현장 채용 상담과 네트워킹 프로그램을 함께 운영했어요.",
-     "insight": "행사와 채용을 잇는 방식이 효과를 보고 있어요.",
-     "action": "참가 예정인 외부 행사에 채용 부스나 밋업을 붙일 수 있는지 알아보세요.",
-     "tags": [
-      "개발자행사",
-      "채용마케팅"
-     ],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "샘플 매체 A",
-       "url": "#sample",
-       "title": "J사 개발자 컨퍼런스, 채용 연계 프로그램 운영",
-       "date": "2026-09-16"
-      },
-      {
-       "name": "샘플 매체 B",
-       "url": "#sample",
-       "title": "J사 개발자 컨퍼런스, 채용 연계 프로그램 운영",
-       "date": "2026-09-16"
-      }
-     ],
-     "date": "2026-09-16"
-    },
-    {
-     "id": "20260916-05",
-     "cat": "brand",
-     "importance": "mid",
-     "teams": [
-      "채용",
-      "보상·복리후생"
-     ],
-     "company": "외국계 I사",
-     "title": "외국계 I사, 육아 휴직 확대 등 복지 개편 발표",
-     "body": "외국계 I사가 한국 법인 직원 대상 육아 휴직 기간을 늘리고 복지 포인트를 개편했어요.",
-     "insight": "복지 경쟁이 채용 메시지로 직결되고 있어요.",
-     "action": "우리 복지 제도를 채용 공고에서 어떻게 보여주는지 비교해 보세요.",
-     "tags": [
-      "복지",
-      "외국계"
-     ],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "샘플 매체 A",
-       "url": "#sample",
-       "title": "외국계 I사, 육아 휴직 확대 등 복지 개편 발표",
-       "date": "2026-09-16"
-      },
-      {
-       "name": "샘플 매체 B",
-       "url": "#sample",
-       "title": "외국계 I사, 육아 휴직 확대 등 복지 개편 발표",
-       "date": "2026-09-16"
-      }
-     ],
-     "date": "2026-09-16"
-    },
-    {
-     "id": "20260916-07",
-     "cat": "ecom",
-     "importance": "mid",
-     "teams": [
-      "채용"
-     ],
-     "company": "해외 커머스 G사",
-     "title": "G사 한국 법인, 마케팅·물류 인력 대거 채용",
-     "body": "해외 커머스 G사가 한국 사업 확대를 위해 마케팅과 물류 인력을 뽑고 있어요.",
-     "insight": "물류·마케팅 인력 경쟁이 심해질 수 있어요.",
-     "action": "물류 계열사 핵심 인력의 리텐션 현황을 살펴보세요.",
-     "tags": [
-      "외국계",
-      "물류"
-     ],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "샘플 매체 A",
-       "url": "#sample",
-       "title": "G사 한국 법인, 마케팅·물류 인력 대거 채용",
-       "date": "2026-09-16"
-      }
-     ],
-     "date": "2026-09-16"
-    },
-    {
-     "id": "20260916-08",
-     "cat": "ecom",
-     "importance": "mid",
-     "teams": [
-      "인사기획"
-     ],
-     "company": "셀러 솔루션 F사",
-     "title": "F사, 해외 투자 유치하고 글로벌 진출 가속",
-     "body": "F사가 해외 투자사로부터 투자를 받고 동남아 진출을 서두른다고 밝혔어요.",
-     "insight": "셀러 솔루션 시장 경쟁이 커지고 글로벌 사업 인력 수요가 늘 수 있어요.",
-     "action": "글로벌 사업 경험자 인재풀을 미리 정리해 보세요.",
-     "tags": [
-      "투자유치",
-      "글로벌"
-     ],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "샘플 매체 A",
-       "url": "#sample",
-       "title": "F사, 해외 투자 유치하고 글로벌 진출 가속",
-       "date": "2026-09-16"
-      }
-     ],
-     "date": "2026-09-16"
-    },
-    {
-     "id": "20260916-06",
-     "cat": "trend",
-     "importance": "low",
-     "teams": [
-      "조직문화·HRD",
-      "보상·복리후생"
-     ],
-     "company": "업계 전반",
-     "title": "격주 주4일제 시범 운영 기업 늘어",
-     "body": "격주 금요일 휴무 같은 부분 주4일제를 시범 운영하는 기업이 늘고 있어요.",
-     "insight": "근무 유연성이 채용 경쟁력 요소로 커지고 있어요.",
-     "action": "채용 공고의 근무제도 표현을 점검해 보세요.",
-     "tags": [
-      "주4일제",
-      "유연근무"
-     ],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "샘플 매체 A",
-       "url": "#sample",
-       "title": "격주 주4일제 시범 운영 기업 늘어",
-       "date": "2026-09-16"
-      },
-      {
-       "name": "샘플 매체 B",
-       "url": "#sample",
-       "title": "격주 주4일제 시범 운영 기업 늘어",
-       "date": "2026-09-16"
-      },
-      {
-       "name": "샘플 매체 C",
-       "url": "#sample",
-       "title": "격주 주4일제 시범 운영 기업 늘어",
-       "date": "2026-09-16"
-      }
-     ],
-     "date": "2026-09-16"
-    },
-    {
-     "id": "20260916-01",
-     "cat": "labor",
-     "importance": "low",
-     "teams": [
-      "노무·ER",
-      "조직문화·HRD"
-     ],
-     "company": "업계 전반",
-     "title": "직장 내 괴롭힘 신고 건수 증가, 처리 기간 길어져",
-     "body": "직장 내 괴롭힘 신고가 늘면서 조사 처리 기간도 길어지고 있어요.",
-     "insight": "사내 조사 절차와 담당자 역량이 중요해져요.",
-     "action": "사내 신고 처리 절차와 평균 처리 기간을 점검해 보세요.",
-     "tags": [
-      "괴롭힘",
-      "ER"
-     ],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "샘플 매체 A",
-       "url": "#sample",
-       "title": "직장 내 괴롭힘 신고 건수 증가, 처리 기간 길어져",
-       "date": "2026-09-16"
-      }
-     ],
-     "date": "2026-09-16"
-    },
-    {
-     "id": "20260916-02",
+     "id": "20260928-f26",
      "cat": "ecom",
      "importance": "low",
-     "teams": [
-      "인사기획"
-     ],
-     "company": "업계 전반",
-     "title": "가격비교 서비스 이용 패턴 변화 조사",
-     "body": "쇼핑 검색 이용 행태가 AI 검색 쪽으로 옮겨간다는 조사 결과가 나왔어요.",
-     "insight": "AI·검색 직무 수요가 커질 수 있어요.",
-     "action": "내년 인력 계획에 AI 검색 관련 직무를 반영할지 검토해 보세요.",
-     "tags": [
-      "AI검색",
-      "가격비교"
-     ],
+     "teams": [],
+     "company": "IndexBox",
+     "title": "2035년 패밀리 케어 시장 전망: 프리미엄화와 이커머스가 성장 견인 - 뉴스 및 통계",
+     "body": "2035년 패밀리 케어 시장 전망: 프리미엄화와 이커머스가 성장 견인 - 뉴스 및 통계 IndexBox",
+     "insight": "",
+     "action": "",
+     "tags": [],
      "our_group": false,
      "sources": [
       {
-       "name": "샘플 매체 A",
-       "url": "#sample",
-       "title": "가격비교 서비스 이용 패턴 변화 조사",
-       "date": "2026-09-16"
+       "name": "IndexBox",
+       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMlFjSnZqeTdld21OUHpWSUF6aFB0VDJIeGd4UjNCTmJWeGFyYlREWWxOOW04QU1WQVYzZnJTdTZRSlVuUU1xTTFXNFVUZUU1eXd0cWh6dHJpbHc3MTBVdVFfcEhBUUV6c09VSGhacXNEUnlNMmNKNUFHdHUtSm9kNXA4LWR0RWpvQnhYanh5Wk5iSlZMQU5VTW1sUFZoeXZPbjRnWFU1MUVTSGlrMTlPczBfWlk?oc=5",
+       "title": "2035년 패밀리 케어 시장 전망: 프리미엄화와 이커머스가 성장 견인 - 뉴스 및 통계",
+       "date": "2026-09-27"
       }
      ],
-     "date": "2026-09-16"
+     "date": "2026-09-27"
     },
     {
-     "id": "20260916-03",
-     "cat": "market",
-     "importance": "low",
-     "teams": [
-      "채용"
-     ],
-     "company": "업계 전반",
-     "title": "3분기 채용공고 수 전년 대비 소폭 감소",
-     "body": "주요 채용 플랫폼 공고 수가 전년 같은 기간보다 조금 줄었고, 경력직 비중은 늘었어요.",
-     "insight": "경력직 중심 시장이 이어지고 있어요.",
-     "action": "월별 우리 공고 지원자 수 추이와 함께 보세요.",
-     "tags": [
-      "채용공고",
-      "시장지표"
-     ],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "샘플 매체 A",
-       "url": "#sample",
-       "title": "3분기 채용공고 수 전년 대비 소폭 감소",
-       "date": "2026-09-16"
-      }
-     ],
-     "date": "2026-09-16"
-    }
-   ]
-  },
-  {
-   "date": "2026-09-15",
-   "sample": true,
-   "window_days": 1,
-   "article_count": 234,
-   "headline": "노무 감독 강화 이슈를 챙겨야 해요",
-   "points": [
-    "A사, 하반기 경력직 채용 규모 30% 확대",
-    "H사, 직원 인터뷰 중심 채용 브랜딩 캠페인 공개",
-    "고용노동부, 포괄임금제 오남용 집중 감독 착수"
-   ],
-   "items": [
-    {
-     "id": "20260915-01",
-     "cat": "market",
-     "importance": "high",
-     "teams": [
-      "채용",
-      "인사기획"
-     ],
-     "company": "국내 대기업 A사",
-     "title": "A사, 하반기 경력직 채용 규모 30% 확대",
-     "body": "A사가 하반기 경력직 채용을 전년보다 30% 늘리고 AI·데이터 직군 비중을 절반 가까이로 높인다고 밝혔어요.",
-     "insight": "데이터·AI 경력자 쟁탈전이 심해질 수 있어요. 우리 핵심 포지션 후보군이 겹치는지 봐야 해요.",
-     "action": "진행 중인 데이터 직군 포지션의 오퍼 조건을 시장 수준과 다시 비교해 보세요.",
-     "tags": [
-      "경력채용",
-      "AI인재"
-     ],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "샘플 매체 A",
-       "url": "#sample",
-       "title": "A사, 하반기 경력직 채용 규모 30% 확대",
-       "date": "2026-09-15"
-      },
-      {
-       "name": "샘플 매체 B",
-       "url": "#sample",
-       "title": "A사, 하반기 경력직 채용 규모 30% 확대",
-       "date": "2026-09-15"
-      }
-     ],
-     "date": "2026-09-15"
-    },
-    {
-     "id": "20260915-00",
-     "cat": "brand",
-     "importance": "high",
-     "teams": [
-      "채용",
-      "조직문화·HRD"
-     ],
-     "company": "국내 대기업 H사",
-     "title": "H사, 직원 인터뷰 중심 채용 브랜딩 캠페인 공개",
-     "body": "H사가 현직자 인터뷰 영상과 커리어 스토리를 담은 채용 브랜딩 캠페인을 시작했어요.",
-     "insight": "현직자 목소리로 EVP를 전하는 방식이 주류가 되고 있어요.",
-     "action": "우리 컬처덱과 채용 페이지에 현직자 인터뷰 콘텐츠를 추가할지 검토해 보세요.",
-     "tags": [
-      "채용브랜딩",
-      "EVP"
-     ],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "샘플 매체 A",
-       "url": "#sample",
-       "title": "H사, 직원 인터뷰 중심 채용 브랜딩 캠페인 공개",
-       "date": "2026-09-15"
-      }
-     ],
-     "date": "2026-09-15"
-    },
-    {
-     "id": "20260915-05",
-     "cat": "labor",
-     "importance": "high",
-     "teams": [
-      "노무·ER",
-      "인사기획"
-     ],
-     "company": "고용노동부",
-     "title": "고용노동부, 포괄임금제 오남용 집중 감독 착수",
-     "body": "고용노동부가 포괄임금 계약의 오남용 사례를 대상으로 기획 감독에 들어간다고 발표했어요.",
-     "insight": "연장근로 관리와 임금 계약 방식을 점검해야 해요.",
-     "action": "계열사별 포괄임금 적용 현황과 근태 기록 방식을 확인해 보세요.",
-     "tags": [
-      "포괄임금",
-      "근로감독"
-     ],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "샘플 매체 A",
-       "url": "#sample",
-       "title": "고용노동부, 포괄임금제 오남용 집중 감독 착수",
-       "date": "2026-09-15"
-      }
-     ],
-     "date": "2026-09-15"
-    },
-    {
-     "id": "20260915-07",
-     "cat": "trend",
-     "importance": "mid",
-     "teams": [
-      "조직문화·HRD"
-     ],
-     "company": "업계 전반",
-     "title": "생성형 AI 사내 교육, 전 직원 필수 과정으로 확산",
-     "body": "여러 대기업이 전 직원 대상 생성형 AI 활용 교육을 필수 과정으로 운영하기 시작했어요.",
-     "insight": "AI 역량이 직무 공통 역량이 되고 있어요.",
-     "action": "우리 교육 체계에 AI 활용 과정이 필요한지 수요를 조사해 보세요.",
-     "tags": [
-      "AI교육",
-      "리스킬링"
-     ],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "샘플 매체 A",
-       "url": "#sample",
-       "title": "생성형 AI 사내 교육, 전 직원 필수 과정으로 확산",
-       "date": "2026-09-15"
-      },
-      {
-       "name": "샘플 매체 B",
-       "url": "#sample",
-       "title": "생성형 AI 사내 교육, 전 직원 필수 과정으로 확산",
-       "date": "2026-09-15"
-      },
-      {
-       "name": "샘플 매체 C",
-       "url": "#sample",
-       "title": "생성형 AI 사내 교육, 전 직원 필수 과정으로 확산",
-       "date": "2026-09-15"
-      }
-     ],
-     "date": "2026-09-15"
-    },
-    {
-     "id": "20260915-03",
-     "cat": "labor",
-     "importance": "mid",
-     "teams": [
-      "노무·ER",
-      "보상·복리후생"
-     ],
-     "company": "대법원",
-     "title": "통상임금 범위 관련 하급심 판결 잇따라",
-     "body": "통상임금 범위를 넓게 본 판결 이후 관련 하급심 판결이 이어지고 있어요.",
-     "insight": "수당 설계에 따라 인건비 영향이 생길 수 있어요.",
-     "action": "정기 지급 수당 목록을 다시 정리해 두세요.",
-     "tags": [
-      "통상임금",
-      "판례"
-     ],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "샘플 매체 A",
-       "url": "#sample",
-       "title": "통상임금 범위 관련 하급심 판결 잇따라",
-       "date": "2026-09-15"
-      },
-      {
-       "name": "샘플 매체 B",
-       "url": "#sample",
-       "title": "통상임금 범위 관련 하급심 판결 잇따라",
-       "date": "2026-09-15"
-      }
-     ],
-     "date": "2026-09-15"
-    },
-    {
-     "id": "20260915-02",
-     "cat": "ecom",
-     "importance": "mid",
-     "teams": [
-      "인사기획",
-      "채용"
-     ],
-     "company": "커넥트웨이브",
-     "title": "커넥트웨이브 계열사, AI 쇼핑 서비스 고도화 발표",
-     "body": "그룹 계열사가 AI 기반 쇼핑 추천 기능을 강화한다고 밝혔어요.",
-     "insight": "관련 직무 채용 수요가 생길 수 있어요.",
-     "action": "현업과 AI 서비스 인력 계획을 미리 확인해 보세요.",
-     "tags": [
-      "우리그룹",
-      "AI"
-     ],
-     "our_group": true,
-     "sources": [
-      {
-       "name": "샘플 매체 A",
-       "url": "#sample",
-       "title": "커넥트웨이브 계열사, AI 쇼핑 서비스 고도화 발표",
-       "date": "2026-09-15"
-      }
-     ],
-     "date": "2026-09-15"
-    },
-    {
-     "id": "20260915-04",
-     "cat": "market",
-     "importance": "mid",
-     "teams": [
-      "채용",
-      "인사기획"
-     ],
-     "company": "IT 플랫폼 B사",
-     "title": "B사 신입 공채 부활, 3년 만에 정기 채용",
-     "body": "B사가 3년 만에 신입 정기 공채를 다시 열고 연 2회로 정례화한다고 발표했어요.",
-     "insight": "신입 인재풀 경쟁이 늘어나요. 캠퍼스 채용 일정이 겹치는지 확인이 필요해요.",
-     "action": "내년 인턴·신입 채용 일정을 B사 공채 시기와 비교해 보세요.",
-     "tags": [
-      "신입공채",
-      "캠퍼스"
-     ],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "샘플 매체 A",
-       "url": "#sample",
-       "title": "B사 신입 공채 부활, 3년 만에 정기 채용",
-       "date": "2026-09-15"
-      }
-     ],
-     "date": "2026-09-15"
-    },
-    {
-     "id": "20260915-06",
+     "id": "20260928-f27",
      "cat": "ecom",
      "importance": "low",
-     "teams": [
-      "인사기획"
-     ],
-     "company": "업계 전반",
-     "title": "가격비교 서비스 이용 패턴 변화 조사",
-     "body": "쇼핑 검색 이용 행태가 AI 검색 쪽으로 옮겨간다는 조사 결과가 나왔어요.",
-     "insight": "AI·검색 직무 수요가 커질 수 있어요.",
-     "action": "내년 인력 계획에 AI 검색 관련 직무를 반영할지 검토해 보세요.",
-     "tags": [
-      "AI검색",
-      "가격비교"
-     ],
+     "teams": [],
+     "company": "IndexBox",
+     "title": "스펀지·스크러버 시장 2035년 전망: 위생 수요와 이커머스가 성장 견인 - 뉴스 및 통계",
+     "body": "스펀지·스크러버 시장 2035년 전망: 위생 수요와 이커머스가 성장 견인 - 뉴스 및 통계 IndexBox",
+     "insight": "",
+     "action": "",
+     "tags": [],
      "our_group": false,
      "sources": [
       {
-       "name": "샘플 매체 A",
-       "url": "#sample",
-       "title": "가격비교 서비스 이용 패턴 변화 조사",
-       "date": "2026-09-15"
+       "name": "IndexBox",
+       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOTWt3bGx4MzlBRnIybHlEdHp2TkxOYTZNOGlXNUJQR2dGZ2dOSlM0RW5KeERINC1EbUF2d00yOHQzbDUxekQ3VHpQWEZRcHMxYTZRRGZ6R0F1SmxOMXM3VEdkR0I2NXlJaVhLYjJlMUR6YzR6b0F1QkxIQThjSW90RTdQbDUwNHZTUE4xWUlhU1B1aGwzVTNhVmJ6MlBFV1dIS0tWOUdneW1nUUdOdXc4Y3dJMV9tc25SSExWUjZJTkVJVnZTV0RnZmtIQ19YS1pIS05LV0hzcjZFd1U?oc=5",
+       "title": "스펀지·스크러버 시장 2035년 전망: 위생 수요와 이커머스가 성장 견인 - 뉴스 및 통계",
+       "date": "2026-09-27"
       }
      ],
-     "date": "2026-09-15"
-    }
-   ]
-  },
-  {
-   "date": "2026-09-14",
-   "sample": true,
-   "window_days": 3,
-   "article_count": 169,
-   "headline": "채용 브랜딩 사례가 여러 건 나왔어요",
-   "points": [
-    "A사, 하반기 경력직 채용 규모 30% 확대",
-    "H사, 직원 인터뷰 중심 채용 브랜딩 캠페인 공개",
-    "고용노동부, 포괄임금제 오남용 집중 감독 착수"
-   ],
-   "items": [
-    {
-     "id": "20260914-03",
-     "cat": "market",
-     "importance": "high",
-     "teams": [
-      "채용",
-      "인사기획"
-     ],
-     "company": "국내 대기업 A사",
-     "title": "A사, 하반기 경력직 채용 규모 30% 확대",
-     "body": "A사가 하반기 경력직 채용을 전년보다 30% 늘리고 AI·데이터 직군 비중을 절반 가까이로 높인다고 밝혔어요.",
-     "insight": "데이터·AI 경력자 쟁탈전이 심해질 수 있어요. 우리 핵심 포지션 후보군이 겹치는지 봐야 해요.",
-     "action": "진행 중인 데이터 직군 포지션의 오퍼 조건을 시장 수준과 다시 비교해 보세요.",
-     "tags": [
-      "경력채용",
-      "AI인재"
-     ],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "샘플 매체 A",
-       "url": "#sample",
-       "title": "A사, 하반기 경력직 채용 규모 30% 확대",
-       "date": "2026-09-14"
-      },
-      {
-       "name": "샘플 매체 B",
-       "url": "#sample",
-       "title": "A사, 하반기 경력직 채용 규모 30% 확대",
-       "date": "2026-09-14"
-      }
-     ],
-     "date": "2026-09-14"
+     "date": "2026-09-27"
     },
     {
-     "id": "20260914-04",
-     "cat": "brand",
-     "importance": "high",
-     "teams": [
-      "채용",
-      "조직문화·HRD"
-     ],
-     "company": "국내 대기업 H사",
-     "title": "H사, 직원 인터뷰 중심 채용 브랜딩 캠페인 공개",
-     "body": "H사가 현직자 인터뷰 영상과 커리어 스토리를 담은 채용 브랜딩 캠페인을 시작했어요.",
-     "insight": "현직자 목소리로 EVP를 전하는 방식이 주류가 되고 있어요.",
-     "action": "우리 컬처덱과 채용 페이지에 현직자 인터뷰 콘텐츠를 추가할지 검토해 보세요.",
-     "tags": [
-      "채용브랜딩",
-      "EVP"
-     ],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "샘플 매체 A",
-       "url": "#sample",
-       "title": "H사, 직원 인터뷰 중심 채용 브랜딩 캠페인 공개",
-       "date": "2026-09-14"
-      },
-      {
-       "name": "샘플 매체 B",
-       "url": "#sample",
-       "title": "H사, 직원 인터뷰 중심 채용 브랜딩 캠페인 공개",
-       "date": "2026-09-14"
-      }
-     ],
-     "date": "2026-09-14"
-    },
-    {
-     "id": "20260914-05",
-     "cat": "labor",
-     "importance": "high",
-     "teams": [
-      "노무·ER",
-      "인사기획"
-     ],
-     "company": "고용노동부",
-     "title": "고용노동부, 포괄임금제 오남용 집중 감독 착수",
-     "body": "고용노동부가 포괄임금 계약의 오남용 사례를 대상으로 기획 감독에 들어간다고 발표했어요.",
-     "insight": "연장근로 관리와 임금 계약 방식을 점검해야 해요.",
-     "action": "계열사별 포괄임금 적용 현황과 근태 기록 방식을 확인해 보세요.",
-     "tags": [
-      "포괄임금",
-      "근로감독"
-     ],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "샘플 매체 A",
-       "url": "#sample",
-       "title": "고용노동부, 포괄임금제 오남용 집중 감독 착수",
-       "date": "2026-09-14"
-      }
-     ],
-     "date": "2026-09-14"
-    },
-    {
-     "id": "20260914-07",
-     "cat": "trend",
-     "importance": "high",
-     "teams": [
-      "인사기획",
-      "보상·복리후생"
-     ],
-     "company": "금융 C사",
-     "title": "C사, 상대평가 폐지하고 수시 피드백 제도 도입",
-     "body": "C사가 연 1회 상대평가를 없애고 분기별 수시 피드백과 절대평가로 바꾼다고 밝혔어요.",
-     "insight": "평가 제도 개편 사례가 늘고 있어요. 우리 평가 제도 개선 논의에 참고할 만해요.",
-     "action": "C사 제도의 보상 연동 방식을 정리해 인사기획 회의 자료로 써 보세요.",
-     "tags": [
-      "성과평가",
-      "절대평가"
-     ],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "샘플 매체 A",
-       "url": "#sample",
-       "title": "C사, 상대평가 폐지하고 수시 피드백 제도 도입",
-       "date": "2026-09-14"
-      }
-     ],
-     "date": "2026-09-14"
-    },
-    {
-     "id": "20260914-00",
-     "cat": "ecom",
-     "importance": "mid",
-     "teams": [
-      "인사기획",
-      "채용"
-     ],
-     "company": "커넥트웨이브",
-     "title": "커넥트웨이브 계열사, AI 쇼핑 서비스 고도화 발표",
-     "body": "그룹 계열사가 AI 기반 쇼핑 추천 기능을 강화한다고 밝혔어요.",
-     "insight": "관련 직무 채용 수요가 생길 수 있어요.",
-     "action": "현업과 AI 서비스 인력 계획을 미리 확인해 보세요.",
-     "tags": [
-      "우리그룹",
-      "AI"
-     ],
-     "our_group": true,
-     "sources": [
-      {
-       "name": "샘플 매체 A",
-       "url": "#sample",
-       "title": "커넥트웨이브 계열사, AI 쇼핑 서비스 고도화 발표",
-       "date": "2026-09-14"
-      }
-     ],
-     "date": "2026-09-14"
-    },
-    {
-     "id": "20260914-02",
-     "cat": "labor",
-     "importance": "low",
-     "teams": [
-      "노무·ER",
-      "조직문화·HRD"
-     ],
-     "company": "업계 전반",
-     "title": "직장 내 괴롭힘 신고 건수 증가, 처리 기간 길어져",
-     "body": "직장 내 괴롭힘 신고가 늘면서 조사 처리 기간도 길어지고 있어요.",
-     "insight": "사내 조사 절차와 담당자 역량이 중요해져요.",
-     "action": "사내 신고 처리 절차와 평균 처리 기간을 점검해 보세요.",
-     "tags": [
-      "괴롭힘",
-      "ER"
-     ],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "샘플 매체 A",
-       "url": "#sample",
-       "title": "직장 내 괴롭힘 신고 건수 증가, 처리 기간 길어져",
-       "date": "2026-09-14"
-      },
-      {
-       "name": "샘플 매체 B",
-       "url": "#sample",
-       "title": "직장 내 괴롭힘 신고 건수 증가, 처리 기간 길어져",
-       "date": "2026-09-14"
-      },
-      {
-       "name": "샘플 매체 C",
-       "url": "#sample",
-       "title": "직장 내 괴롭힘 신고 건수 증가, 처리 기간 길어져",
-       "date": "2026-09-14"
-      }
-     ],
-     "date": "2026-09-14"
-    },
-    {
-     "id": "20260914-01",
+     "id": "20260928-f28",
      "cat": "ecom",
      "importance": "low",
-     "teams": [
-      "인사기획"
-     ],
-     "company": "업계 전반",
-     "title": "가격비교 서비스 이용 패턴 변화 조사",
-     "body": "쇼핑 검색 이용 행태가 AI 검색 쪽으로 옮겨간다는 조사 결과가 나왔어요.",
-     "insight": "AI·검색 직무 수요가 커질 수 있어요.",
-     "action": "내년 인력 계획에 AI 검색 관련 직무를 반영할지 검토해 보세요.",
-     "tags": [
-      "AI검색",
-      "가격비교"
-     ],
+     "teams": [],
+     "company": "IndexBox",
+     "title": "방수 어린이 스웨트팬츠 시장 2035년 전망: 전천후 야외 놀이가 성장 견인",
+     "body": "방수 어린이 스웨트팬츠 시장 2035년 전망: 전천후 야외 놀이가 성장 견인 IndexBox",
+     "insight": "",
+     "action": "",
+     "tags": [],
      "our_group": false,
      "sources": [
       {
-       "name": "샘플 매체 A",
-       "url": "#sample",
-       "title": "가격비교 서비스 이용 패턴 변화 조사",
-       "date": "2026-09-14"
-      },
-      {
-       "name": "샘플 매체 B",
-       "url": "#sample",
-       "title": "가격비교 서비스 이용 패턴 변화 조사",
-       "date": "2026-09-14"
+       "name": "IndexBox",
+       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObVBTcG5nOHRxaVNlM0FuQ0JFMUJrWGk2dWVVU3RzS0dhOTBZSUY2S2FwTVFXeWRpVk0yRVFicEVyN292UG9aeDliVk1taklQVUZCaExOV245YlVPNmZOWS1PaGV6Q29JbFotYmc0WjBSbnZyamlSVXdGNkxuZTNVOGwyakgzbG8xcW1UUkdSYUNGbUNOck44c1o1dnlEbnFFWWFsbE1ZajY3TjIwX2RJVWo2RjBFbHB6WUlGRkpkOUVsY0E?oc=5",
+       "title": "방수 어린이 스웨트팬츠 시장 2035년 전망: 전천후 야외 놀이가 성장 견인",
+       "date": "2026-09-27"
       }
      ],
-     "date": "2026-09-14"
+     "date": "2026-09-27"
     },
     {
-     "id": "20260914-06",
-     "cat": "trend",
-     "importance": "low",
-     "teams": [
-      "조직문화·HRD",
-      "보상·복리후생"
-     ],
-     "company": "업계 전반",
-     "title": "격주 주4일제 시범 운영 기업 늘어",
-     "body": "격주 금요일 휴무 같은 부분 주4일제를 시범 운영하는 기업이 늘고 있어요.",
-     "insight": "근무 유연성이 채용 경쟁력 요소로 커지고 있어요.",
-     "action": "채용 공고의 근무제도 표현을 점검해 보세요.",
-     "tags": [
-      "주4일제",
-      "유연근무"
-     ],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "샘플 매체 A",
-       "url": "#sample",
-       "title": "격주 주4일제 시범 운영 기업 늘어",
-       "date": "2026-09-14"
-      }
-     ],
-     "date": "2026-09-14"
-    }
-   ]
-  },
-  {
-   "date": "2026-09-11",
-   "sample": true,
-   "window_days": 1,
-   "article_count": 151,
-   "headline": "채용 브랜딩 사례가 여러 건 나왔어요",
-   "points": [
-    "E사 대규모 조직개편, 개발 조직 통합",
-    "A사, 하반기 경력직 채용 규모 30% 확대",
-    "외국계 I사, 육아 휴직 확대 등 복지 개편 발표"
-   ],
-   "items": [
-    {
-     "id": "20260911-06",
-     "cat": "ecom",
-     "importance": "high",
-     "teams": [
-      "인사기획",
-      "채용"
-     ],
-     "company": "이커머스 E사",
-     "title": "E사 대규모 조직개편, 개발 조직 통합",
-     "body": "E사가 커머스와 광고 개발 조직을 하나로 합치는 조직개편을 했어요.",
-     "insight": "통합 과정에서 인력 이동이 생길 수 있어요. 경력 개발자 채용 기회가 될 수 있어요.",
-     "action": "E사 출신 개발자 대상 소싱을 채용팀과 논의해 보세요.",
-     "tags": [
-      "조직개편",
-      "개발조직"
-     ],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "샘플 매체 A",
-       "url": "#sample",
-       "title": "E사 대규모 조직개편, 개발 조직 통합",
-       "date": "2026-09-11"
-      },
-      {
-       "name": "샘플 매체 B",
-       "url": "#sample",
-       "title": "E사 대규모 조직개편, 개발 조직 통합",
-       "date": "2026-09-11"
-      },
-      {
-       "name": "샘플 매체 C",
-       "url": "#sample",
-       "title": "E사 대규모 조직개편, 개발 조직 통합",
-       "date": "2026-09-11"
-      }
-     ],
-     "date": "2026-09-11"
-    },
-    {
-     "id": "20260911-03",
-     "cat": "market",
-     "importance": "high",
-     "teams": [
-      "채용",
-      "인사기획"
-     ],
-     "company": "국내 대기업 A사",
-     "title": "A사, 하반기 경력직 채용 규모 30% 확대",
-     "body": "A사가 하반기 경력직 채용을 전년보다 30% 늘리고 AI·데이터 직군 비중을 절반 가까이로 높인다고 밝혔어요.",
-     "insight": "데이터·AI 경력자 쟁탈전이 심해질 수 있어요. 우리 핵심 포지션 후보군이 겹치는지 봐야 해요.",
-     "action": "진행 중인 데이터 직군 포지션의 오퍼 조건을 시장 수준과 다시 비교해 보세요.",
-     "tags": [
-      "경력채용",
-      "AI인재"
-     ],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "샘플 매체 A",
-       "url": "#sample",
-       "title": "A사, 하반기 경력직 채용 규모 30% 확대",
-       "date": "2026-09-11"
-      }
-     ],
-     "date": "2026-09-11"
-    },
-    {
-     "id": "20260911-04",
-     "cat": "brand",
-     "importance": "mid",
-     "teams": [
-      "채용",
-      "보상·복리후생"
-     ],
-     "company": "외국계 I사",
-     "title": "외국계 I사, 육아 휴직 확대 등 복지 개편 발표",
-     "body": "외국계 I사가 한국 법인 직원 대상 육아 휴직 기간을 늘리고 복지 포인트를 개편했어요.",
-     "insight": "복지 경쟁이 채용 메시지로 직결되고 있어요.",
-     "action": "우리 복지 제도를 채용 공고에서 어떻게 보여주는지 비교해 보세요.",
-     "tags": [
-      "복지",
-      "외국계"
-     ],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "샘플 매체 A",
-       "url": "#sample",
-       "title": "외국계 I사, 육아 휴직 확대 등 복지 개편 발표",
-       "date": "2026-09-11"
-      },
-      {
-       "name": "샘플 매체 B",
-       "url": "#sample",
-       "title": "외국계 I사, 육아 휴직 확대 등 복지 개편 발표",
-       "date": "2026-09-11"
-      },
-      {
-       "name": "샘플 매체 C",
-       "url": "#sample",
-       "title": "외국계 I사, 육아 휴직 확대 등 복지 개편 발표",
-       "date": "2026-09-11"
-      }
-     ],
-     "date": "2026-09-11"
-    },
-    {
-     "id": "20260911-00",
-     "cat": "labor",
-     "importance": "mid",
-     "teams": [
-      "채용",
-      "노무·ER"
-     ],
-     "company": "고용노동부",
-     "title": "청년 일자리 도약 장려금 하반기 신청 시작",
-     "body": "청년을 정규직으로 채용한 중소·중견기업에 인건비를 지원하는 장려금 하반기 접수가 시작됐어요.",
-     "insight": "계열사 중 대상 요건을 충족하는 곳이 있으면 비용을 줄일 수 있어요.",
-     "action": "계열사별 신규 청년 채용 건이 지원 요건에 맞는지 확인해 보세요.",
-     "tags": [
-      "고용지원금",
-      "청년채용"
-     ],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "샘플 매체 A",
-       "url": "#sample",
-       "title": "청년 일자리 도약 장려금 하반기 신청 시작",
-       "date": "2026-09-11"
-      }
-     ],
-     "date": "2026-09-11"
-    },
-    {
-     "id": "20260911-01",
-     "cat": "trend",
-     "importance": "mid",
-     "teams": [
-      "채용"
-     ],
-     "company": "HR테크 D사",
-     "title": "AI 면접 평가 도구, 공정성 검증 요구 커져",
-     "body": "AI 면접 도구를 쓰는 기업이 늘면서 평가 기준 공개와 편향 검증을 요구하는 목소리가 커지고 있어요.",
-     "insight": "AI 도구 도입 시 설명 가능성과 후보자 경험을 같이 봐야 해요.",
-     "action": "검토 중인 채용 솔루션의 평가 기준 공개 범위를 확인해 보세요.",
-     "tags": [
-      "HR테크",
-      "AI면접"
-     ],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "샘플 매체 A",
-       "url": "#sample",
-       "title": "AI 면접 평가 도구, 공정성 검증 요구 커져",
-       "date": "2026-09-11"
-      }
-     ],
-     "date": "2026-09-11"
-    },
-    {
-     "id": "20260911-02",
+     "id": "20260928-f29",
      "cat": "ecom",
      "importance": "low",
-     "teams": [
-      "인사기획"
-     ],
-     "company": "업계 전반",
-     "title": "가격비교 서비스 이용 패턴 변화 조사",
-     "body": "쇼핑 검색 이용 행태가 AI 검색 쪽으로 옮겨간다는 조사 결과가 나왔어요.",
-     "insight": "AI·검색 직무 수요가 커질 수 있어요.",
-     "action": "내년 인력 계획에 AI 검색 관련 직무를 반영할지 검토해 보세요.",
-     "tags": [
-      "AI검색",
-      "가격비교"
-     ],
+     "teams": [],
+     "company": "IndexBox",
+     "title": "2035년 효모균 감염 치료제 시장: 셀프케어 전환과 일반의약품 접근성이 성장 견인 - 뉴스 및 통계",
+     "body": "2035년 효모균 감염 치료제 시장: 셀프케어 전환과 일반의약품 접근성이 성장 견인 - 뉴스 및 통계 IndexBox",
+     "insight": "",
+     "action": "",
+     "tags": [],
      "our_group": false,
      "sources": [
       {
-       "name": "샘플 매체 A",
-       "url": "#sample",
-       "title": "가격비교 서비스 이용 패턴 변화 조사",
-       "date": "2026-09-11"
-      },
-      {
-       "name": "샘플 매체 B",
-       "url": "#sample",
-       "title": "가격비교 서비스 이용 패턴 변화 조사",
-       "date": "2026-09-11"
-      },
-      {
-       "name": "샘플 매체 C",
-       "url": "#sample",
-       "title": "가격비교 서비스 이용 패턴 변화 조사",
-       "date": "2026-09-11"
+       "name": "IndexBox",
+       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNRERHeEJXUkloUWtpeXJIb0pTYVp2dks1MUsxUFBsQ1k3TTdrZGRmRjhjQVV2R1lGZkpMcmRxWndvZjAxa2NUbHZSZWVia2JQVWU3V0VQSFZJaFBYdjNlSGx5X0xZNG0tZVNZR0Z0YTRTc09TSFRmZHZNYzdGZVdSUkswVGhIR3BxQ25Kd0hkZ2hmR1NWVVYzYnVmOTVUV253cXhrbnpkRWQ0TUc1Wi1fbUFiOU9qTm1IM1lrc1RPcDNEREVfejNnWncyTkNaRDRLUXhZ?oc=5",
+       "title": "2035년 효모균 감염 치료제 시장: 셀프케어 전환과 일반의약품 접근성이 성장 견인 - 뉴스 및 통계",
+       "date": "2026-09-27"
       }
      ],
-     "date": "2026-09-11"
-    },
-    {
-     "id": "20260911-07",
-     "cat": "brand",
-     "importance": "low",
-     "teams": [
-      "채용",
-      "조직문화·HRD"
-     ],
-     "company": "업계 전반",
-     "title": "기업 채용 유튜브 채널, 숏폼 콘텐츠 비중 늘어",
-     "body": "기업 채용 채널이 긴 인터뷰 대신 1분 이내 숏폼 콘텐츠를 늘리고 있어요.",
-     "insight": "후보자 접점이 짧은 영상으로 옮겨가고 있어요.",
-     "action": "직무 소개를 숏폼으로 만드는 파일럿을 검토해 보세요.",
-     "tags": [
-      "숏폼",
-      "채용콘텐츠"
-     ],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "샘플 매체 A",
-       "url": "#sample",
-       "title": "기업 채용 유튜브 채널, 숏폼 콘텐츠 비중 늘어",
-       "date": "2026-09-11"
-      },
-      {
-       "name": "샘플 매체 B",
-       "url": "#sample",
-       "title": "기업 채용 유튜브 채널, 숏폼 콘텐츠 비중 늘어",
-       "date": "2026-09-11"
-      }
-     ],
-     "date": "2026-09-11"
-    },
-    {
-     "id": "20260911-05",
-     "cat": "labor",
-     "importance": "low",
-     "teams": [
-      "노무·ER",
-      "조직문화·HRD"
-     ],
-     "company": "업계 전반",
-     "title": "직장 내 괴롭힘 신고 건수 증가, 처리 기간 길어져",
-     "body": "직장 내 괴롭힘 신고가 늘면서 조사 처리 기간도 길어지고 있어요.",
-     "insight": "사내 조사 절차와 담당자 역량이 중요해져요.",
-     "action": "사내 신고 처리 절차와 평균 처리 기간을 점검해 보세요.",
-     "tags": [
-      "괴롭힘",
-      "ER"
-     ],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "샘플 매체 A",
-       "url": "#sample",
-       "title": "직장 내 괴롭힘 신고 건수 증가, 처리 기간 길어져",
-       "date": "2026-09-11"
-      }
-     ],
-     "date": "2026-09-11"
-    }
-   ]
-  },
-  {
-   "date": "2026-09-10",
-   "sample": true,
-   "window_days": 1,
-   "article_count": 251,
-   "headline": "노무 감독 강화 이슈를 챙겨야 해요",
-   "points": [
-    "E사 대규모 조직개편, 개발 조직 통합",
-    "C사, 상대평가 폐지하고 수시 피드백 제도 도입",
-    "A사, 하반기 경력직 채용 규모 30% 확대"
-   ],
-   "items": [
-    {
-     "id": "20260910-00",
-     "cat": "ecom",
-     "importance": "high",
-     "teams": [
-      "인사기획",
-      "채용"
-     ],
-     "company": "이커머스 E사",
-     "title": "E사 대규모 조직개편, 개발 조직 통합",
-     "body": "E사가 커머스와 광고 개발 조직을 하나로 합치는 조직개편을 했어요.",
-     "insight": "통합 과정에서 인력 이동이 생길 수 있어요. 경력 개발자 채용 기회가 될 수 있어요.",
-     "action": "E사 출신 개발자 대상 소싱을 채용팀과 논의해 보세요.",
-     "tags": [
-      "조직개편",
-      "개발조직"
-     ],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "샘플 매체 A",
-       "url": "#sample",
-       "title": "E사 대규모 조직개편, 개발 조직 통합",
-       "date": "2026-09-10"
-      }
-     ],
-     "date": "2026-09-10"
-    },
-    {
-     "id": "20260910-04",
-     "cat": "trend",
-     "importance": "high",
-     "teams": [
-      "인사기획",
-      "보상·복리후생"
-     ],
-     "company": "금융 C사",
-     "title": "C사, 상대평가 폐지하고 수시 피드백 제도 도입",
-     "body": "C사가 연 1회 상대평가를 없애고 분기별 수시 피드백과 절대평가로 바꾼다고 밝혔어요.",
-     "insight": "평가 제도 개편 사례가 늘고 있어요. 우리 평가 제도 개선 논의에 참고할 만해요.",
-     "action": "C사 제도의 보상 연동 방식을 정리해 인사기획 회의 자료로 써 보세요.",
-     "tags": [
-      "성과평가",
-      "절대평가"
-     ],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "샘플 매체 A",
-       "url": "#sample",
-       "title": "C사, 상대평가 폐지하고 수시 피드백 제도 도입",
-       "date": "2026-09-10"
-      }
-     ],
-     "date": "2026-09-10"
-    },
-    {
-     "id": "20260910-05",
-     "cat": "market",
-     "importance": "high",
-     "teams": [
-      "채용",
-      "인사기획"
-     ],
-     "company": "국내 대기업 A사",
-     "title": "A사, 하반기 경력직 채용 규모 30% 확대",
-     "body": "A사가 하반기 경력직 채용을 전년보다 30% 늘리고 AI·데이터 직군 비중을 절반 가까이로 높인다고 밝혔어요.",
-     "insight": "데이터·AI 경력자 쟁탈전이 심해질 수 있어요. 우리 핵심 포지션 후보군이 겹치는지 봐야 해요.",
-     "action": "진행 중인 데이터 직군 포지션의 오퍼 조건을 시장 수준과 다시 비교해 보세요.",
-     "tags": [
-      "경력채용",
-      "AI인재"
-     ],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "샘플 매체 A",
-       "url": "#sample",
-       "title": "A사, 하반기 경력직 채용 규모 30% 확대",
-       "date": "2026-09-10"
-      }
-     ],
-     "date": "2026-09-10"
-    },
-    {
-     "id": "20260910-01",
-     "cat": "market",
-     "importance": "mid",
-     "teams": [
-      "채용",
-      "인사기획"
-     ],
-     "company": "IT 플랫폼 B사",
-     "title": "B사 신입 공채 부활, 3년 만에 정기 채용",
-     "body": "B사가 3년 만에 신입 정기 공채를 다시 열고 연 2회로 정례화한다고 발표했어요.",
-     "insight": "신입 인재풀 경쟁이 늘어나요. 캠퍼스 채용 일정이 겹치는지 확인이 필요해요.",
-     "action": "내년 인턴·신입 채용 일정을 B사 공채 시기와 비교해 보세요.",
-     "tags": [
-      "신입공채",
-      "캠퍼스"
-     ],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "샘플 매체 A",
-       "url": "#sample",
-       "title": "B사 신입 공채 부활, 3년 만에 정기 채용",
-       "date": "2026-09-10"
-      },
-      {
-       "name": "샘플 매체 B",
-       "url": "#sample",
-       "title": "B사 신입 공채 부활, 3년 만에 정기 채용",
-       "date": "2026-09-10"
-      },
-      {
-       "name": "샘플 매체 C",
-       "url": "#sample",
-       "title": "B사 신입 공채 부활, 3년 만에 정기 채용",
-       "date": "2026-09-10"
-      }
-     ],
-     "date": "2026-09-10"
-    },
-    {
-     "id": "20260910-09",
-     "cat": "labor",
-     "importance": "mid",
-     "teams": [
-      "채용",
-      "노무·ER"
-     ],
-     "company": "고용노동부",
-     "title": "청년 일자리 도약 장려금 하반기 신청 시작",
-     "body": "청년을 정규직으로 채용한 중소·중견기업에 인건비를 지원하는 장려금 하반기 접수가 시작됐어요.",
-     "insight": "계열사 중 대상 요건을 충족하는 곳이 있으면 비용을 줄일 수 있어요.",
-     "action": "계열사별 신규 청년 채용 건이 지원 요건에 맞는지 확인해 보세요.",
-     "tags": [
-      "고용지원금",
-      "청년채용"
-     ],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "샘플 매체 A",
-       "url": "#sample",
-       "title": "청년 일자리 도약 장려금 하반기 신청 시작",
-       "date": "2026-09-10"
-      },
-      {
-       "name": "샘플 매체 B",
-       "url": "#sample",
-       "title": "청년 일자리 도약 장려금 하반기 신청 시작",
-       "date": "2026-09-10"
-      },
-      {
-       "name": "샘플 매체 C",
-       "url": "#sample",
-       "title": "청년 일자리 도약 장려금 하반기 신청 시작",
-       "date": "2026-09-10"
-      }
-     ],
-     "date": "2026-09-10"
-    },
-    {
-     "id": "20260910-02",
-     "cat": "trend",
-     "importance": "mid",
-     "teams": [
-      "조직문화·HRD"
-     ],
-     "company": "업계 전반",
-     "title": "생성형 AI 사내 교육, 전 직원 필수 과정으로 확산",
-     "body": "여러 대기업이 전 직원 대상 생성형 AI 활용 교육을 필수 과정으로 운영하기 시작했어요.",
-     "insight": "AI 역량이 직무 공통 역량이 되고 있어요.",
-     "action": "우리 교육 체계에 AI 활용 과정이 필요한지 수요를 조사해 보세요.",
-     "tags": [
-      "AI교육",
-      "리스킬링"
-     ],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "샘플 매체 A",
-       "url": "#sample",
-       "title": "생성형 AI 사내 교육, 전 직원 필수 과정으로 확산",
-       "date": "2026-09-10"
-      },
-      {
-       "name": "샘플 매체 B",
-       "url": "#sample",
-       "title": "생성형 AI 사내 교육, 전 직원 필수 과정으로 확산",
-       "date": "2026-09-10"
-      }
-     ],
-     "date": "2026-09-10"
-    },
-    {
-     "id": "20260910-03",
-     "cat": "brand",
-     "importance": "mid",
-     "teams": [
-      "채용",
-      "보상·복리후생"
-     ],
-     "company": "외국계 I사",
-     "title": "외국계 I사, 육아 휴직 확대 등 복지 개편 발표",
-     "body": "외국계 I사가 한국 법인 직원 대상 육아 휴직 기간을 늘리고 복지 포인트를 개편했어요.",
-     "insight": "복지 경쟁이 채용 메시지로 직결되고 있어요.",
-     "action": "우리 복지 제도를 채용 공고에서 어떻게 보여주는지 비교해 보세요.",
-     "tags": [
-      "복지",
-      "외국계"
-     ],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "샘플 매체 A",
-       "url": "#sample",
-       "title": "외국계 I사, 육아 휴직 확대 등 복지 개편 발표",
-       "date": "2026-09-10"
-      }
-     ],
-     "date": "2026-09-10"
-    },
-    {
-     "id": "20260910-06",
-     "cat": "brand",
-     "importance": "mid",
-     "teams": [
-      "채용"
-     ],
-     "company": "IT 플랫폼 J사",
-     "title": "J사 개발자 컨퍼런스, 채용 연계 프로그램 운영",
-     "body": "J사가 개발자 컨퍼런스에서 현장 채용 상담과 네트워킹 프로그램을 함께 운영했어요.",
-     "insight": "행사와 채용을 잇는 방식이 효과를 보고 있어요.",
-     "action": "참가 예정인 외부 행사에 채용 부스나 밋업을 붙일 수 있는지 알아보세요.",
-     "tags": [
-      "개발자행사",
-      "채용마케팅"
-     ],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "샘플 매체 A",
-       "url": "#sample",
-       "title": "J사 개발자 컨퍼런스, 채용 연계 프로그램 운영",
-       "date": "2026-09-10"
-      }
-     ],
-     "date": "2026-09-10"
-    },
-    {
-     "id": "20260910-07",
-     "cat": "labor",
-     "importance": "mid",
-     "teams": [
-      "노무·ER",
-      "보상·복리후생"
-     ],
-     "company": "대법원",
-     "title": "통상임금 범위 관련 하급심 판결 잇따라",
-     "body": "통상임금 범위를 넓게 본 판결 이후 관련 하급심 판결이 이어지고 있어요.",
-     "insight": "수당 설계에 따라 인건비 영향이 생길 수 있어요.",
-     "action": "정기 지급 수당 목록을 다시 정리해 두세요.",
-     "tags": [
-      "통상임금",
-      "판례"
-     ],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "샘플 매체 A",
-       "url": "#sample",
-       "title": "통상임금 범위 관련 하급심 판결 잇따라",
-       "date": "2026-09-10"
-      }
-     ],
-     "date": "2026-09-10"
-    },
-    {
-     "id": "20260910-08",
-     "cat": "trend",
-     "importance": "low",
-     "teams": [
-      "조직문화·HRD",
-      "보상·복리후생"
-     ],
-     "company": "업계 전반",
-     "title": "격주 주4일제 시범 운영 기업 늘어",
-     "body": "격주 금요일 휴무 같은 부분 주4일제를 시범 운영하는 기업이 늘고 있어요.",
-     "insight": "근무 유연성이 채용 경쟁력 요소로 커지고 있어요.",
-     "action": "채용 공고의 근무제도 표현을 점검해 보세요.",
-     "tags": [
-      "주4일제",
-      "유연근무"
-     ],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "샘플 매체 A",
-       "url": "#sample",
-       "title": "격주 주4일제 시범 운영 기업 늘어",
-       "date": "2026-09-10"
-      }
-     ],
-     "date": "2026-09-10"
-    }
-   ]
-  },
-  {
-   "date": "2026-09-09",
-   "sample": true,
-   "window_days": 1,
-   "article_count": 245,
-   "headline": "노무 감독 강화 이슈를 챙겨야 해요",
-   "points": [
-    "E사 대규모 조직개편, 개발 조직 통합",
-    "H사, 직원 인터뷰 중심 채용 브랜딩 캠페인 공개",
-    "A사, 하반기 경력직 채용 규모 30% 확대"
-   ],
-   "items": [
-    {
-     "id": "20260909-06",
-     "cat": "ecom",
-     "importance": "high",
-     "teams": [
-      "인사기획",
-      "채용"
-     ],
-     "company": "이커머스 E사",
-     "title": "E사 대규모 조직개편, 개발 조직 통합",
-     "body": "E사가 커머스와 광고 개발 조직을 하나로 합치는 조직개편을 했어요.",
-     "insight": "통합 과정에서 인력 이동이 생길 수 있어요. 경력 개발자 채용 기회가 될 수 있어요.",
-     "action": "E사 출신 개발자 대상 소싱을 채용팀과 논의해 보세요.",
-     "tags": [
-      "조직개편",
-      "개발조직"
-     ],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "샘플 매체 A",
-       "url": "#sample",
-       "title": "E사 대규모 조직개편, 개발 조직 통합",
-       "date": "2026-09-09"
-      },
-      {
-       "name": "샘플 매체 B",
-       "url": "#sample",
-       "title": "E사 대규모 조직개편, 개발 조직 통합",
-       "date": "2026-09-09"
-      },
-      {
-       "name": "샘플 매체 C",
-       "url": "#sample",
-       "title": "E사 대규모 조직개편, 개발 조직 통합",
-       "date": "2026-09-09"
-      }
-     ],
-     "date": "2026-09-09"
-    },
-    {
-     "id": "20260909-07",
-     "cat": "brand",
-     "importance": "high",
-     "teams": [
-      "채용",
-      "조직문화·HRD"
-     ],
-     "company": "국내 대기업 H사",
-     "title": "H사, 직원 인터뷰 중심 채용 브랜딩 캠페인 공개",
-     "body": "H사가 현직자 인터뷰 영상과 커리어 스토리를 담은 채용 브랜딩 캠페인을 시작했어요.",
-     "insight": "현직자 목소리로 EVP를 전하는 방식이 주류가 되고 있어요.",
-     "action": "우리 컬처덱과 채용 페이지에 현직자 인터뷰 콘텐츠를 추가할지 검토해 보세요.",
-     "tags": [
-      "채용브랜딩",
-      "EVP"
-     ],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "샘플 매체 A",
-       "url": "#sample",
-       "title": "H사, 직원 인터뷰 중심 채용 브랜딩 캠페인 공개",
-       "date": "2026-09-09"
-      },
-      {
-       "name": "샘플 매체 B",
-       "url": "#sample",
-       "title": "H사, 직원 인터뷰 중심 채용 브랜딩 캠페인 공개",
-       "date": "2026-09-09"
-      },
-      {
-       "name": "샘플 매체 C",
-       "url": "#sample",
-       "title": "H사, 직원 인터뷰 중심 채용 브랜딩 캠페인 공개",
-       "date": "2026-09-09"
-      }
-     ],
-     "date": "2026-09-09"
-    },
-    {
-     "id": "20260909-00",
-     "cat": "market",
-     "importance": "high",
-     "teams": [
-      "채용",
-      "인사기획"
-     ],
-     "company": "국내 대기업 A사",
-     "title": "A사, 하반기 경력직 채용 규모 30% 확대",
-     "body": "A사가 하반기 경력직 채용을 전년보다 30% 늘리고 AI·데이터 직군 비중을 절반 가까이로 높인다고 밝혔어요.",
-     "insight": "데이터·AI 경력자 쟁탈전이 심해질 수 있어요. 우리 핵심 포지션 후보군이 겹치는지 봐야 해요.",
-     "action": "진행 중인 데이터 직군 포지션의 오퍼 조건을 시장 수준과 다시 비교해 보세요.",
-     "tags": [
-      "경력채용",
-      "AI인재"
-     ],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "샘플 매체 A",
-       "url": "#sample",
-       "title": "A사, 하반기 경력직 채용 규모 30% 확대",
-       "date": "2026-09-09"
-      },
-      {
-       "name": "샘플 매체 B",
-       "url": "#sample",
-       "title": "A사, 하반기 경력직 채용 규모 30% 확대",
-       "date": "2026-09-09"
-      }
-     ],
-     "date": "2026-09-09"
-    },
-    {
-     "id": "20260909-01",
-     "cat": "labor",
-     "importance": "high",
-     "teams": [
-      "노무·ER",
-      "인사기획"
-     ],
-     "company": "고용노동부",
-     "title": "고용노동부, 포괄임금제 오남용 집중 감독 착수",
-     "body": "고용노동부가 포괄임금 계약의 오남용 사례를 대상으로 기획 감독에 들어간다고 발표했어요.",
-     "insight": "연장근로 관리와 임금 계약 방식을 점검해야 해요.",
-     "action": "계열사별 포괄임금 적용 현황과 근태 기록 방식을 확인해 보세요.",
-     "tags": [
-      "포괄임금",
-      "근로감독"
-     ],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "샘플 매체 A",
-       "url": "#sample",
-       "title": "고용노동부, 포괄임금제 오남용 집중 감독 착수",
-       "date": "2026-09-09"
-      },
-      {
-       "name": "샘플 매체 B",
-       "url": "#sample",
-       "title": "고용노동부, 포괄임금제 오남용 집중 감독 착수",
-       "date": "2026-09-09"
-      }
-     ],
-     "date": "2026-09-09"
-    },
-    {
-     "id": "20260909-02",
-     "cat": "trend",
-     "importance": "mid",
-     "teams": [
-      "채용"
-     ],
-     "company": "HR테크 D사",
-     "title": "AI 면접 평가 도구, 공정성 검증 요구 커져",
-     "body": "AI 면접 도구를 쓰는 기업이 늘면서 평가 기준 공개와 편향 검증을 요구하는 목소리가 커지고 있어요.",
-     "insight": "AI 도구 도입 시 설명 가능성과 후보자 경험을 같이 봐야 해요.",
-     "action": "검토 중인 채용 솔루션의 평가 기준 공개 범위를 확인해 보세요.",
-     "tags": [
-      "HR테크",
-      "AI면접"
-     ],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "샘플 매체 A",
-       "url": "#sample",
-       "title": "AI 면접 평가 도구, 공정성 검증 요구 커져",
-       "date": "2026-09-09"
-      },
-      {
-       "name": "샘플 매체 B",
-       "url": "#sample",
-       "title": "AI 면접 평가 도구, 공정성 검증 요구 커져",
-       "date": "2026-09-09"
-      },
-      {
-       "name": "샘플 매체 C",
-       "url": "#sample",
-       "title": "AI 면접 평가 도구, 공정성 검증 요구 커져",
-       "date": "2026-09-09"
-      }
-     ],
-     "date": "2026-09-09"
-    },
-    {
-     "id": "20260909-03",
-     "cat": "labor",
-     "importance": "mid",
-     "teams": [
-      "노무·ER",
-      "보상·복리후생"
-     ],
-     "company": "대법원",
-     "title": "통상임금 범위 관련 하급심 판결 잇따라",
-     "body": "통상임금 범위를 넓게 본 판결 이후 관련 하급심 판결이 이어지고 있어요.",
-     "insight": "수당 설계에 따라 인건비 영향이 생길 수 있어요.",
-     "action": "정기 지급 수당 목록을 다시 정리해 두세요.",
-     "tags": [
-      "통상임금",
-      "판례"
-     ],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "샘플 매체 A",
-       "url": "#sample",
-       "title": "통상임금 범위 관련 하급심 판결 잇따라",
-       "date": "2026-09-09"
-      }
-     ],
-     "date": "2026-09-09"
-    },
-    {
-     "id": "20260909-04",
-     "cat": "ecom",
-     "importance": "mid",
-     "teams": [
-      "인사기획",
-      "채용"
-     ],
-     "company": "커넥트웨이브",
-     "title": "커넥트웨이브 계열사, AI 쇼핑 서비스 고도화 발표",
-     "body": "그룹 계열사가 AI 기반 쇼핑 추천 기능을 강화한다고 밝혔어요.",
-     "insight": "관련 직무 채용 수요가 생길 수 있어요.",
-     "action": "현업과 AI 서비스 인력 계획을 미리 확인해 보세요.",
-     "tags": [
-      "우리그룹",
-      "AI"
-     ],
-     "our_group": true,
-     "sources": [
-      {
-       "name": "샘플 매체 A",
-       "url": "#sample",
-       "title": "커넥트웨이브 계열사, AI 쇼핑 서비스 고도화 발표",
-       "date": "2026-09-09"
-      }
-     ],
-     "date": "2026-09-09"
-    },
-    {
-     "id": "20260909-05",
-     "cat": "trend",
-     "importance": "low",
-     "teams": [
-      "조직문화·HRD",
-      "보상·복리후생"
-     ],
-     "company": "업계 전반",
-     "title": "격주 주4일제 시범 운영 기업 늘어",
-     "body": "격주 금요일 휴무 같은 부분 주4일제를 시범 운영하는 기업이 늘고 있어요.",
-     "insight": "근무 유연성이 채용 경쟁력 요소로 커지고 있어요.",
-     "action": "채용 공고의 근무제도 표현을 점검해 보세요.",
-     "tags": [
-      "주4일제",
-      "유연근무"
-     ],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "샘플 매체 A",
-       "url": "#sample",
-       "title": "격주 주4일제 시범 운영 기업 늘어",
-       "date": "2026-09-09"
-      },
-      {
-       "name": "샘플 매체 B",
-       "url": "#sample",
-       "title": "격주 주4일제 시범 운영 기업 늘어",
-       "date": "2026-09-09"
-      }
-     ],
-     "date": "2026-09-09"
-    }
-   ]
-  },
-  {
-   "date": "2026-09-08",
-   "sample": true,
-   "window_days": 1,
-   "article_count": 145,
-   "headline": "경력 채용 확대와 평가 제도 개편 소식이 이어졌어요",
-   "points": [
-    "C사, 상대평가 폐지하고 수시 피드백 제도 도입",
-    "A사, 하반기 경력직 채용 규모 30% 확대",
-    "H사, 직원 인터뷰 중심 채용 브랜딩 캠페인 공개"
-   ],
-   "items": [
-    {
-     "id": "20260908-00",
-     "cat": "trend",
-     "importance": "high",
-     "teams": [
-      "인사기획",
-      "보상·복리후생"
-     ],
-     "company": "금융 C사",
-     "title": "C사, 상대평가 폐지하고 수시 피드백 제도 도입",
-     "body": "C사가 연 1회 상대평가를 없애고 분기별 수시 피드백과 절대평가로 바꾼다고 밝혔어요.",
-     "insight": "평가 제도 개편 사례가 늘고 있어요. 우리 평가 제도 개선 논의에 참고할 만해요.",
-     "action": "C사 제도의 보상 연동 방식을 정리해 인사기획 회의 자료로 써 보세요.",
-     "tags": [
-      "성과평가",
-      "절대평가"
-     ],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "샘플 매체 A",
-       "url": "#sample",
-       "title": "C사, 상대평가 폐지하고 수시 피드백 제도 도입",
-       "date": "2026-09-08"
-      }
-     ],
-     "date": "2026-09-08"
-    },
-    {
-     "id": "20260908-03",
-     "cat": "market",
-     "importance": "high",
-     "teams": [
-      "채용",
-      "인사기획"
-     ],
-     "company": "국내 대기업 A사",
-     "title": "A사, 하반기 경력직 채용 규모 30% 확대",
-     "body": "A사가 하반기 경력직 채용을 전년보다 30% 늘리고 AI·데이터 직군 비중을 절반 가까이로 높인다고 밝혔어요.",
-     "insight": "데이터·AI 경력자 쟁탈전이 심해질 수 있어요. 우리 핵심 포지션 후보군이 겹치는지 봐야 해요.",
-     "action": "진행 중인 데이터 직군 포지션의 오퍼 조건을 시장 수준과 다시 비교해 보세요.",
-     "tags": [
-      "경력채용",
-      "AI인재"
-     ],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "샘플 매체 A",
-       "url": "#sample",
-       "title": "A사, 하반기 경력직 채용 규모 30% 확대",
-       "date": "2026-09-08"
-      }
-     ],
-     "date": "2026-09-08"
-    },
-    {
-     "id": "20260908-07",
-     "cat": "brand",
-     "importance": "high",
-     "teams": [
-      "채용",
-      "조직문화·HRD"
-     ],
-     "company": "국내 대기업 H사",
-     "title": "H사, 직원 인터뷰 중심 채용 브랜딩 캠페인 공개",
-     "body": "H사가 현직자 인터뷰 영상과 커리어 스토리를 담은 채용 브랜딩 캠페인을 시작했어요.",
-     "insight": "현직자 목소리로 EVP를 전하는 방식이 주류가 되고 있어요.",
-     "action": "우리 컬처덱과 채용 페이지에 현직자 인터뷰 콘텐츠를 추가할지 검토해 보세요.",
-     "tags": [
-      "채용브랜딩",
-      "EVP"
-     ],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "샘플 매체 A",
-       "url": "#sample",
-       "title": "H사, 직원 인터뷰 중심 채용 브랜딩 캠페인 공개",
-       "date": "2026-09-08"
-      }
-     ],
-     "date": "2026-09-08"
-    },
-    {
-     "id": "20260908-08",
-     "cat": "ecom",
-     "importance": "high",
-     "teams": [
-      "인사기획",
-      "채용"
-     ],
-     "company": "이커머스 E사",
-     "title": "E사 대규모 조직개편, 개발 조직 통합",
-     "body": "E사가 커머스와 광고 개발 조직을 하나로 합치는 조직개편을 했어요.",
-     "insight": "통합 과정에서 인력 이동이 생길 수 있어요. 경력 개발자 채용 기회가 될 수 있어요.",
-     "action": "E사 출신 개발자 대상 소싱을 채용팀과 논의해 보세요.",
-     "tags": [
-      "조직개편",
-      "개발조직"
-     ],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "샘플 매체 A",
-       "url": "#sample",
-       "title": "E사 대규모 조직개편, 개발 조직 통합",
-       "date": "2026-09-08"
-      }
-     ],
-     "date": "2026-09-08"
-    },
-    {
-     "id": "20260908-01",
-     "cat": "ecom",
-     "importance": "mid",
-     "teams": [
-      "인사기획",
-      "채용"
-     ],
-     "company": "커넥트웨이브",
-     "title": "커넥트웨이브 계열사, AI 쇼핑 서비스 고도화 발표",
-     "body": "그룹 계열사가 AI 기반 쇼핑 추천 기능을 강화한다고 밝혔어요.",
-     "insight": "관련 직무 채용 수요가 생길 수 있어요.",
-     "action": "현업과 AI 서비스 인력 계획을 미리 확인해 보세요.",
-     "tags": [
-      "우리그룹",
-      "AI"
-     ],
-     "our_group": true,
-     "sources": [
-      {
-       "name": "샘플 매체 A",
-       "url": "#sample",
-       "title": "커넥트웨이브 계열사, AI 쇼핑 서비스 고도화 발표",
-       "date": "2026-09-08"
-      },
-      {
-       "name": "샘플 매체 B",
-       "url": "#sample",
-       "title": "커넥트웨이브 계열사, AI 쇼핑 서비스 고도화 발표",
-       "date": "2026-09-08"
-      },
-      {
-       "name": "샘플 매체 C",
-       "url": "#sample",
-       "title": "커넥트웨이브 계열사, AI 쇼핑 서비스 고도화 발표",
-       "date": "2026-09-08"
-      }
-     ],
-     "date": "2026-09-08"
-    },
-    {
-     "id": "20260908-05",
-     "cat": "trend",
-     "importance": "mid",
-     "teams": [
-      "조직문화·HRD"
-     ],
-     "company": "업계 전반",
-     "title": "생성형 AI 사내 교육, 전 직원 필수 과정으로 확산",
-     "body": "여러 대기업이 전 직원 대상 생성형 AI 활용 교육을 필수 과정으로 운영하기 시작했어요.",
-     "insight": "AI 역량이 직무 공통 역량이 되고 있어요.",
-     "action": "우리 교육 체계에 AI 활용 과정이 필요한지 수요를 조사해 보세요.",
-     "tags": [
-      "AI교육",
-      "리스킬링"
-     ],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "샘플 매체 A",
-       "url": "#sample",
-       "title": "생성형 AI 사내 교육, 전 직원 필수 과정으로 확산",
-       "date": "2026-09-08"
-      },
-      {
-       "name": "샘플 매체 B",
-       "url": "#sample",
-       "title": "생성형 AI 사내 교육, 전 직원 필수 과정으로 확산",
-       "date": "2026-09-08"
-      },
-      {
-       "name": "샘플 매체 C",
-       "url": "#sample",
-       "title": "생성형 AI 사내 교육, 전 직원 필수 과정으로 확산",
-       "date": "2026-09-08"
-      }
-     ],
-     "date": "2026-09-08"
-    },
-    {
-     "id": "20260908-04",
-     "cat": "ecom",
-     "importance": "mid",
-     "teams": [
-      "채용"
-     ],
-     "company": "해외 커머스 G사",
-     "title": "G사 한국 법인, 마케팅·물류 인력 대거 채용",
-     "body": "해외 커머스 G사가 한국 사업 확대를 위해 마케팅과 물류 인력을 뽑고 있어요.",
-     "insight": "물류·마케팅 인력 경쟁이 심해질 수 있어요.",
-     "action": "물류 계열사 핵심 인력의 리텐션 현황을 살펴보세요.",
-     "tags": [
-      "외국계",
-      "물류"
-     ],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "샘플 매체 A",
-       "url": "#sample",
-       "title": "G사 한국 법인, 마케팅·물류 인력 대거 채용",
-       "date": "2026-09-08"
-      },
-      {
-       "name": "샘플 매체 B",
-       "url": "#sample",
-       "title": "G사 한국 법인, 마케팅·물류 인력 대거 채용",
-       "date": "2026-09-08"
-      }
-     ],
-     "date": "2026-09-08"
-    },
-    {
-     "id": "20260908-02",
-     "cat": "brand",
-     "importance": "mid",
-     "teams": [
-      "채용"
-     ],
-     "company": "IT 플랫폼 J사",
-     "title": "J사 개발자 컨퍼런스, 채용 연계 프로그램 운영",
-     "body": "J사가 개발자 컨퍼런스에서 현장 채용 상담과 네트워킹 프로그램을 함께 운영했어요.",
-     "insight": "행사와 채용을 잇는 방식이 효과를 보고 있어요.",
-     "action": "참가 예정인 외부 행사에 채용 부스나 밋업을 붙일 수 있는지 알아보세요.",
-     "tags": [
-      "개발자행사",
-      "채용마케팅"
-     ],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "샘플 매체 A",
-       "url": "#sample",
-       "title": "J사 개발자 컨퍼런스, 채용 연계 프로그램 운영",
-       "date": "2026-09-08"
-      }
-     ],
-     "date": "2026-09-08"
-    },
-    {
-     "id": "20260908-06",
-     "cat": "labor",
-     "importance": "mid",
-     "teams": [
-      "노무·ER",
-      "보상·복리후생"
-     ],
-     "company": "대법원",
-     "title": "통상임금 범위 관련 하급심 판결 잇따라",
-     "body": "통상임금 범위를 넓게 본 판결 이후 관련 하급심 판결이 이어지고 있어요.",
-     "insight": "수당 설계에 따라 인건비 영향이 생길 수 있어요.",
-     "action": "정기 지급 수당 목록을 다시 정리해 두세요.",
-     "tags": [
-      "통상임금",
-      "판례"
-     ],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "샘플 매체 A",
-       "url": "#sample",
-       "title": "통상임금 범위 관련 하급심 판결 잇따라",
-       "date": "2026-09-08"
-      }
-     ],
-     "date": "2026-09-08"
-    },
-    {
-     "id": "20260908-09",
-     "cat": "market",
-     "importance": "mid",
-     "teams": [
-      "채용",
-      "인사기획"
-     ],
-     "company": "IT 플랫폼 B사",
-     "title": "B사 신입 공채 부활, 3년 만에 정기 채용",
-     "body": "B사가 3년 만에 신입 정기 공채를 다시 열고 연 2회로 정례화한다고 발표했어요.",
-     "insight": "신입 인재풀 경쟁이 늘어나요. 캠퍼스 채용 일정이 겹치는지 확인이 필요해요.",
-     "action": "내년 인턴·신입 채용 일정을 B사 공채 시기와 비교해 보세요.",
-     "tags": [
-      "신입공채",
-      "캠퍼스"
-     ],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "샘플 매체 A",
-       "url": "#sample",
-       "title": "B사 신입 공채 부활, 3년 만에 정기 채용",
-       "date": "2026-09-08"
-      }
-     ],
-     "date": "2026-09-08"
-    },
-    {
-     "id": "20260908-10",
-     "cat": "labor",
-     "importance": "low",
-     "teams": [
-      "노무·ER",
-      "조직문화·HRD"
-     ],
-     "company": "업계 전반",
-     "title": "직장 내 괴롭힘 신고 건수 증가, 처리 기간 길어져",
-     "body": "직장 내 괴롭힘 신고가 늘면서 조사 처리 기간도 길어지고 있어요.",
-     "insight": "사내 조사 절차와 담당자 역량이 중요해져요.",
-     "action": "사내 신고 처리 절차와 평균 처리 기간을 점검해 보세요.",
-     "tags": [
-      "괴롭힘",
-      "ER"
-     ],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "샘플 매체 A",
-       "url": "#sample",
-       "title": "직장 내 괴롭힘 신고 건수 증가, 처리 기간 길어져",
-       "date": "2026-09-08"
-      },
-      {
-       "name": "샘플 매체 B",
-       "url": "#sample",
-       "title": "직장 내 괴롭힘 신고 건수 증가, 처리 기간 길어져",
-       "date": "2026-09-08"
-      }
-     ],
-     "date": "2026-09-08"
+     "date": "2026-09-27"
     }
    ]
   }
