@@ -82,18 +82,34 @@ a{color:inherit}
 .eyebrow{font-size:11px;font-weight:700;letter-spacing:.08em;color:var(--sub);text-transform:uppercase;display:flex;gap:8px;align-items:center}
 .eyebrow .mono{letter-spacing:0;text-transform:none}
 .lead h2{margin:6px 0 12px;font-size:21px;line-height:1.4;font-weight:700;letter-spacing:-.02em;text-wrap:balance}
-.points{margin:0;padding:0;list-style:none;display:flex;flex-direction:column;gap:7px}
-.points li{display:grid;grid-template-columns:22px 1fr;gap:6px;font-size:13.5px;color:var(--ink)}
-.points li span{font-family:var(--mono);font-size:11px;color:var(--sub);padding-top:2px}
-.stats{padding:18px 20px;display:flex;flex-direction:column;gap:14px}
-.kpis{display:grid;grid-template-columns:repeat(3,1fr);gap:10px}
-.kpi b{display:block;font-family:var(--mono);font-size:24px;font-weight:500;line-height:1.1;font-variant-numeric:tabular-nums}
-.kpi span{font-size:11.5px;color:var(--muted)}
-.kpi.hot b{color:var(--high)}
-.dist-bar{display:flex;height:10px;border-radius:5px;overflow:hidden;background:var(--surf2);gap:2px}
+.points{margin:10px 0 0;padding:0;list-style:none;display:flex;flex-direction:column;gap:12px}
+.points li{display:grid;grid-template-columns:24px minmax(0,1fr);gap:4px 8px;align-items:start}
+.pt-n{font-family:var(--mono);font-size:12px;color:var(--high);font-weight:500;padding-top:3px}
+.pt-title{font-size:15px;font-weight:700;line-height:1.45;color:var(--ink);text-decoration:none;letter-spacing:-.01em}
+a.pt-title:hover{color:var(--accent);text-decoration:underline;text-underline-offset:3px}
+.pt-title svg{display:inline-block;margin-left:5px;vertical-align:1px;color:var(--sub)}
+.pt-meta{display:flex;flex-wrap:wrap;align-items:center;gap:4px;font-size:11.5px;color:var(--sub);margin-top:1px}
+.pt-meta .dot{width:6px;height:6px}
+.pt-more button{border:0;background:none;padding:0;font-size:12.5px;font-weight:600;color:var(--high);cursor:pointer}
+.stats{padding:16px 18px;display:flex;flex-direction:column;justify-content:space-between;gap:14px}
+.hero-kpi{all:unset;box-sizing:border-box;cursor:pointer;display:grid;grid-template-columns:1fr auto;align-items:end;gap:2px 12px;padding:14px 16px;border-radius:12px;background:var(--high-bg);color:var(--high)}
+.hero-kpi:hover{filter:brightness(.98)}
+.hero-kpi:focus-visible{outline:2px solid var(--high);outline-offset:2px}
+.hero-kpi[aria-pressed="true"]{box-shadow:inset 0 0 0 2px var(--high)}
+.hk-label{grid-column:1/-1;font-size:13px;font-weight:700;letter-spacing:.02em}
+.hk-num{display:flex;align-items:baseline;gap:4px;line-height:1}
+.hk-num b{font-family:var(--mono);font-size:64px;font-weight:500;letter-spacing:-.03em;font-variant-numeric:tabular-nums}
+.hk-num i{font-style:normal;font-size:18px;font-weight:700}
+.hk-go{font-size:12px;font-weight:600;padding-bottom:8px;white-space:nowrap}
+.hero-kpi.zero{background:var(--surf2);color:var(--muted);cursor:default}
+.minor{display:flex;flex-direction:column;gap:6px}
+.kpi-line{margin:0;font-size:11px;color:var(--sub)}
+.kpi-line b{font-weight:500;color:var(--muted)}
+.dist-bar{display:flex;height:4px;border-radius:2px;overflow:hidden;background:var(--surf2);gap:2px}
 .dist-bar i{display:block;height:100%}
-.legend{display:flex;flex-wrap:wrap;gap:4px 12px;font-size:11.5px;color:var(--muted);margin-top:8px}
-.legend span{display:inline-flex;align-items:center;gap:5px}
+.legend{display:flex;flex-wrap:wrap;gap:2px 10px;font-size:10.5px;color:var(--sub)}
+.legend span{display:inline-flex;align-items:center;gap:4px}
+.legend .dot{width:6px;height:6px}
 .dot{width:8px;height:8px;border-radius:50%;display:inline-block;flex:none}
 
 /* body grid */
@@ -224,12 +240,13 @@ a{color:inherit}
       <ol class="points" id="points"></ol>
     </div>
     <div class="panel stats">
-      <div class="kpis">
-        <div class="kpi"><b id="kCards">0</b><span>정리된 이슈</span></div>
-        <div class="kpi hot"><b id="kHigh">0</b><span>꼭 볼 이슈</span></div>
-        <div class="kpi"><b id="kArticles">0</b><span>검토한 기사</span></div>
-      </div>
-      <div>
+      <button class="hero-kpi" type="button" id="heroHigh" aria-pressed="false" title="꼭 볼 이슈만 목록에 보여줘요">
+        <span class="hk-label">꼭 볼 이슈</span>
+        <span class="hk-num"><b id="kHigh">0</b><i>건</i></span>
+        <span class="hk-go" id="heroHint">꼭 볼 이슈만 보기 →</span>
+      </button>
+      <div class="minor">
+        <p class="kpi-line mono">정리된 이슈 <b id="kCards">0</b> · 검토한 기사 <b id="kArticles">0</b></p>
         <div class="dist-bar" id="distBar" aria-hidden="true"></div>
         <div class="legend" id="legend"></div>
       </div>
@@ -349,29 +366,34 @@ a{color:inherit}
 
   function renderBrief(reps, items){
     const high = items.filter(i => i.importance === 'high');
-    if (st.view === 'day'){
-      const r = reps[0];
-      $('#leadEyebrow').textContent = st.anchor === dates[0] ? '오늘의 브리핑' : '그날의 브리핑';
-      $('#leadDate').textContent = r ? `${r.date}${r.window_days > 1 ? ` · 최근 ${r.window_days}일 기사` : ''}` : '';
-      $('#headline').textContent = r?.headline || '이 날은 브리핑이 없어요';
-      const pts = (r?.points || []).length ? r.points : high.slice(0,3).map(i => i.title);
-      $('#points').innerHTML = pts.map((p, i) => `<li><span>0${i+1}</span>${esc(p)}</li>`).join('');
-    } else {
-      $('#leadEyebrow').textContent = st.view === 'week' ? '이번 주 요약' : '이번 달 요약';
-      $('#leadDate').textContent = `${reps.length}일치 브리핑`;
-      const top = [...high].sort((a,b) => (b.sources?.length||0) - (a.sources?.length||0));
-      const seen = new Set(), pts = [];
-      for (const i of top){ if (!seen.has(i.title)){ seen.add(i.title); pts.push(i); } if (pts.length === 3) break; }
-      const cnt = {}; items.forEach(i => cnt[i.cat] = (cnt[i.cat]||0) + 1);
-      const topCat = Object.entries(cnt).sort((a,b) => b[1]-a[1])[0];
-      const catName = topCat ? (META.categories.find(c => c.id === topCat[0])?.name || topCat[0]) : '';
-      $('#headline').textContent = items.length
-        ? `${catName} 이슈가 가장 많았고, 꼭 볼 이슈는 ${high.length}건이에요`
-        : '이 기간에는 브리핑이 없어요';
-      $('#points').innerHTML = pts.map((p, i) => `<li><span>0${i+1}</span>${esc(p.title)} <span style="font-family:var(--sans);font-size:11.5px">· ${esc(fmt(p._day))}</span></li>`).join('');
-    }
+    // 왼쪽 패널: 꼭 볼 이슈 목록 (제목 → 원문 기사 링크)
+    const label = st.view === 'day' ? (st.anchor === dates[0] ? '오늘' : '그날') : st.view === 'week' ? '이번 주' : '이번 달';
+    $('#leadEyebrow').textContent = `${label}의 꼭 볼 이슈`;
+    const r0 = reps[0];
+    $('#leadDate').textContent = st.view === 'day'
+      ? (r0 ? `${r0.date}${r0.window_days > 1 ? ` · 최근 ${r0.window_days}일 기사` : ''}` : '')
+      : `${reps.length}일치 브리핑`;
+    const seenT = new Set(), list = [];
+    [...high].sort((a, b) => (b._day || '').localeCompare(a._day || '') || (b.sources?.length||0) - (a.sources?.length||0))
+      .forEach(i => { const k = i.title; if (!seenT.has(k)){ seenT.add(k); list.push(i); } });
+    const MAX = st.view === 'day' ? 8 : 6, shown = list.slice(0, MAX);
+    $('#headline').hidden = !!list.length;
+    $('#headline').textContent = reps.length ? `${label}은 꼭 볼 이슈가 없어요` : '이 기간에는 브리핑이 없어요';
+    $('#points').innerHTML = shown.map((it, n) => {
+      const src = (it.sources || []).find(x => x.url && !x.url.startsWith('#'));
+      const cat = META.categories.find(c => c.id === it.cat);
+      const title = src
+        ? `<a class="pt-title" href="${esc(src.url)}" target="_blank" rel="noopener">${esc(it.title)}<svg width="11" height="11" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M6 3h7v7M13 3 4 12"/></svg></a>`
+        : `<span class="pt-title">${esc(it.title)}</span>`;
+      return `<li><span class="pt-n">${String(n+1).padStart(2,'0')}</span><div>${title}
+        <div class="pt-meta"><i class="dot" style="background:${catColor(it.cat)}"></i>${[cat?.name, it.company, src?.name, st.view !== 'day' ? fmt(it._day) : ''].filter(Boolean).map(esc).join(' · ')}</div></div></li>`;
+    }).join('') + (list.length > MAX ? `<li class="pt-more"><span></span><button type="button" id="moreHigh">외 ${list.length - MAX}건 더 보기 →</button></li>` : '');
+    const mh = $('#moreHigh'); if (mh) mh.addEventListener('click', () => $('#heroHigh').click());
     $('#kCards').textContent = items.length;
     $('#kHigh').textContent = high.length;
+    const hero = $('#heroHigh');
+    hero.classList.toggle('zero', !high.length);
+    $('#heroHint').textContent = !high.length ? '오늘은 없어요' : st.high ? '전체 보기 →' : '꼭 볼 이슈만 보기 →';
     $('#kArticles').textContent = reps.reduce((s, r) => s + (r.article_count || 0), 0).toLocaleString('ko-KR');
 
     const cnt = {}; items.forEach(i => cnt[i.cat] = (cnt[i.cat]||0) + 1);
@@ -499,6 +521,7 @@ a{color:inherit}
     const items = allItems(reps);
     renderHeader(); renderBrief(reps, items); renderTabs(items); renderTeams(); renderList(items); renderRail(items);
     $('#onlyHigh').setAttribute('aria-pressed', st.high);
+    $('#heroHigh').setAttribute('aria-pressed', st.high);
     $('#onlyOwn').setAttribute('aria-pressed', st.own);
     $('#resetFilters').hidden = !(st.teams.length || st.high || st.own || st.q || st.cat !== 'all');
   }
@@ -526,6 +549,11 @@ a{color:inherit}
     const b = e.target.closest('[data-team]'); if (!b) return;
     const t = b.dataset.team; st.teams = st.teams.includes(t) ? st.teams.filter(x => x !== t) : [...st.teams, t];
     store.set('teams', st.teams); render();
+  });
+  $('#heroHigh').addEventListener('click', e => {
+    if (e.currentTarget.classList.contains('zero')) return;
+    st.high = !st.high; render();
+    if (st.high) document.querySelector('.grid').scrollIntoView({ behavior: 'smooth', block: 'start' });
   });
   $('#resetFilters').addEventListener('click', () => {
     st.teams = []; st.high = false; st.own = false; st.q = ''; st.cat = 'all';
