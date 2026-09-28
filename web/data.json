@@ -56,9 +56,626 @@
     ]
    }
   ],
-  "updated": "2026-09-28T17:44+09:00"
+  "updated": "2026-09-29T08:53+09:00"
  },
  "reports": [
+  {
+   "date": "2026-09-29",
+   "window_days": 1,
+   "article_count": 243,
+   "headline": "오늘은 AI 분석이 실패해 제목 기준으로만 골랐어요",
+   "points": [
+    "수집 기사 243건 중 HR 관련 단어가 있는 25건만 올렸어요",
+    "시사점·팀 태그 없이 기사 제목만 보여드려요"
+   ],
+   "analysis_error": "Gemini 분석 실패 — 모든 모델이 응답하지 않았어요 (gemini-2.5-flash, gemini-flash-latest, gemini-2.0-flash)",
+   "items": [
+    {
+     "id": "20260929-f00",
+     "cat": "market",
+     "importance": "low",
+     "teams": [
+      "채용"
+     ],
+     "company": "seoulfn.com",
+     "title": "대기업, 하반기 신규채용 늘린다···공채·수시 병행 확대",
+     "body": "대기업, 하반기 신규채용 늘린다···공채·수시 병행 확대 seoulfn.com",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "seoulfn.com",
+       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE45T1dDa0hjbUJaamdzSkVmUEhFd0Q2eTVjUGs5VFFwRnVrUXVNWnlTZTJaLU8zaEZLZ2FsdUsxdnQ1VDE4Y1hVYXBzWEd3bXMxM1IzOGxSOEFtYTlmc09uLTNWTEhoTHowREE?oc=5",
+       "title": "대기업, 하반기 신규채용 늘린다···공채·수시 병행 확대",
+       "date": "2026-09-29"
+      }
+     ],
+     "date": "2026-09-29"
+    },
+    {
+     "id": "20260929-f01",
+     "cat": "market",
+     "importance": "low",
+     "teams": [
+      "채용"
+     ],
+     "company": "뉴스핌",
+     "title": "대기업 채용 문 넓어진다…하반기 채용계획 수립 37%→51%",
+     "body": "대기업 채용 문 넓어진다…하반기 채용계획 수립 37%→51% 뉴스핌",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "뉴스핌",
+       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5XSUxUdmU1Nm5zUmMzaFhjSXVRVlozUVY4anlqaUkxcndibE41N2h4ZGdiZWU1Y3B4T1dTUGY0ZDUxVUYyb3BEZmFzcXpxbVdkalNORFAxQzBBeExZ?oc=5",
+       "title": "대기업 채용 문 넓어진다…하반기 채용계획 수립 37%→51%",
+       "date": "2026-09-29"
+      }
+     ],
+     "date": "2026-09-29"
+    },
+    {
+     "id": "20260929-f02",
+     "cat": "market",
+     "importance": "low",
+     "teams": [
+      "채용"
+     ],
+     "company": "news1.kr",
+     "title": "대기업 채용문 조금 넓어졌다…하반기 채용계획 기업 37%→51%",
+     "body": "대기업 채용문 조금 넓어졌다…하반기 채용계획 기업 37%→51% news1.kr",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "news1.kr",
+       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5RZWlYMGV5bHFudkFMTUhOLXZpblZmOHBKS1h5cTBhcFE4U2c5c1RTbF84LXRqR1hpX1pDVjM2QnVkZjJvck5GNTZucDc5RmQtNGNTVUJ0c0N6UFdMMzdZWmlCdGlGM19tREHSAWpBVV95cUxOUWVpWDBleWxxbnZBTE1ITi12aW5WZjhwSktYeXEwYXBROFNnOXNUU2xfOC10akdYaV9aQ1YzNkJ1ZGYyb3JORjU2bnA3OUZkLTRjU1VCdHNDelBXTDM3WVppQnRpRjNfbURB?oc=5",
+       "title": "대기업 채용문 조금 넓어졌다…하반기 채용계획 기업 37%→51%",
+       "date": "2026-09-29"
+      }
+     ],
+     "date": "2026-09-29"
+    },
+    {
+     "id": "20260929-f03",
+     "cat": "market",
+     "importance": "low",
+     "teams": [
+      "채용"
+     ],
+     "company": "v.daum.net",
+     "title": "대기업 하반기 신규채용 '활력'…10곳 중 5곳 \"채용 계획 수립\"",
+     "body": "대기업 하반기 신규채용 '활력'…10곳 중 5곳 \"채용 계획 수립\" v.daum.net",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "v.daum.net",
+       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE93MUtQM1pUTUppcEV4aTFfNFZWdzN3RE95Zkl0eEJiUGt4enF4eFlzY0d0UVRKbk9qeGJmNnluSGpGWTh3dE5aWk1kOWpUNzg?oc=5",
+       "title": "대기업 하반기 신규채용 '활력'…10곳 중 5곳 \"채용 계획 수립\"",
+       "date": "2026-09-29"
+      }
+     ],
+     "date": "2026-09-29"
+    },
+    {
+     "id": "20260929-f04",
+     "cat": "market",
+     "importance": "low",
+     "teams": [
+      "채용"
+     ],
+     "company": "파이낸셜포스트",
+     "title": "대기업, 하반기 신규 채용 개선...\"대졸 공개채용 확대\"",
+     "body": "대기업, 하반기 신규 채용 개선...\"대졸 공개채용 확대\" 파이낸셜포스트",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "파이낸셜포스트",
+       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE94NWU5UU5YTkk5QldzLVdvZjB5bDhQUFdCUEFQNzB3WmcycmoxSlJHZDNEVDBfQ0NZYWlhblEzUm9od1BHNTlPS2Y1VmZnWURjcmhpa0h3NjM0YU13NVduRHIxYVh1YWtvNmo2N1NXUmU0SjBL?oc=5",
+       "title": "대기업, 하반기 신규 채용 개선...\"대졸 공개채용 확대\"",
+       "date": "2026-09-29"
+      }
+     ],
+     "date": "2026-09-29"
+    },
+    {
+     "id": "20260929-f05",
+     "cat": "market",
+     "importance": "low",
+     "teams": [
+      "채용"
+     ],
+     "company": "뉴시스",
+     "title": "대기업 절반 '하반기 채용계획有' 전년비 14%p 증가 \"취업 훈풍 부나\"",
+     "body": "대기업 절반 '하반기 채용계획有' 전년비 14%p 증가 \"취업 훈풍 부나\" 뉴시스",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "뉴시스",
+       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE05ek5BWTUxRG85UFMxcTVKd3BJUkFOOHpwcG9BSlkzS2hVN3JveWl6bXVDM2xTYzE5LTh0SGhyVGZ1ZEJiUUphZVFudXljVG80YW5Jb3hmT0ZtbG92d3dFUThvTnA2UFc4a3dCanBYeGczVXRSaEM3ddIBeEFVX3lxTE05ek5BWTUxRG85UFMxcTVKd3BJUkFOOHpwcG9BSlkzS2hVN3JveWl6bXVDM2xTYzE5LTh0SGhyVGZ1ZEJiUUphZVFudXljVG80YW5Jb3hmT0ZtbG92d3dFUThvTnA2UFc4a3dCanBYeGczVXRSaEM3dQ?oc=5",
+       "title": "대기업 절반 '하반기 채용계획有' 전년비 14%p 증가 \"취업 훈풍 부나\"",
+       "date": "2026-09-29"
+      }
+     ],
+     "date": "2026-09-29"
+    },
+    {
+     "id": "20260929-f06",
+     "cat": "market",
+     "importance": "low",
+     "teams": [
+      "채용"
+     ],
+     "company": "이투데이",
+     "title": "대기업 절반 이상 하반기 채용계획 확정…공채도 다시 늘어난다",
+     "body": "대기업 절반 이상 하반기 채용계획 확정…공채도 다시 늘어난다 이투데이",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "이투데이",
+       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9yUHpCaWoyQXNrcGpocFBzR3Z6Q2RSdFA0RG5obFRwRm5JR21uRTRBVjk5WW5ocnF4VlVtOGF1Ym1HalRtWW1fbi1lRUxkeXVCZ0U1eA?oc=5",
+       "title": "대기업 절반 이상 하반기 채용계획 확정…공채도 다시 늘어난다",
+       "date": "2026-09-29"
+      }
+     ],
+     "date": "2026-09-29"
+    },
+    {
+     "id": "20260929-f07",
+     "cat": "market",
+     "importance": "low",
+     "teams": [
+      "채용"
+     ],
+     "company": "매일일보",
+     "title": "대기업 절반, 하반기 채용계획 수립…전년比 14%p↑",
+     "body": "대기업 절반, 하반기 채용계획 수립…전년比 14%p↑ 매일일보",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "매일일보",
+       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE81MktUZVdJa1ljbm9nWjM1Rm1qU0w0UWhFVURMMkZVam5TUUJDNHBxdXhuS0tHNi0xUDliVnpxVnh4NXJDNG96SlNpQWszSGxoMFFtZWZCMUNXREg4UnN5REtKWHTSAWhBVV95cUxObHlNQU8zeVp2SzRTVG1MZXNpczVabk5vdXU3bDQ4eFc3M0ZRcks0c0JPUWdNYy0wU252dzlxZ2lhQm8zWTlvUHB3N3ZKQXVqSzRUem03NnZQQVpvNkhQUUh1ZDBzQXJscQ?oc=5",
+       "title": "대기업 절반, 하반기 채용계획 수립…전년比 14%p↑",
+       "date": "2026-09-29"
+      }
+     ],
+     "date": "2026-09-29"
+    },
+    {
+     "id": "20260929-f08",
+     "cat": "market",
+     "importance": "low",
+     "teams": [
+      "채용"
+     ],
+     "company": "tf.co.kr",
+     "title": "'정현석호' 롯데百, 5년 만에 희망퇴직…인력도 '선택과 집중'",
+     "body": "'정현석호' 롯데百, 5년 만에 희망퇴직…인력도 '선택과 집중' tf.co.kr",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "tf.co.kr",
+       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBxWnEwaUZtc3gta3J6Njc0bV9DOVk1b2ZSeFNyM2Qya0RWMjE1SlMxYWI5MTBSR0d0M3J5STlIbGhaNE92UGdjNExuVVZxaGl2UnJkUtIBVEFVX3lxTFBxWnEwaUZtc3gta3J6Njc0bV9DOVk1b2ZSeFNyM2Qya0RWMjE1SlMxYWI5MTBSR0d0M3J5STlIbGhaNE92UGdjNExuVVZxaGl2UnJkUg?oc=5",
+       "title": "'정현석호' 롯데百, 5년 만에 희망퇴직…인력도 '선택과 집중'",
+       "date": "2026-09-29"
+      }
+     ],
+     "date": "2026-09-29"
+    },
+    {
+     "id": "20260929-f09",
+     "cat": "market",
+     "importance": "low",
+     "teams": [
+      "채용"
+     ],
+     "company": "데일리메디",
+     "title": "병원 약사 불만 ‘연봉’…상급종병 5년차 미만 ‘95%’",
+     "body": "병원 약사 불만 ‘연봉’…상급종병 5년차 미만 ‘95%’ 데일리메디",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "데일리메디",
+       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9vdExsT3YyZU5kRVBLSFJvaXZBWE1ULS0tUktob0Z2bVp3WU91dnZraUR2eGFLTVQwRndSczdIY0tiaXZGZHMtOTMwbndhQll2Wl9LR2s0TGNqOGNXb1hPZUppdzltbHF6dF9pZXRvZTRjQjk1?oc=5",
+       "title": "병원 약사 불만 ‘연봉’…상급종병 5년차 미만 ‘95%’",
+       "date": "2026-09-29"
+      }
+     ],
+     "date": "2026-09-29"
+    },
+    {
+     "id": "20260929-f10",
+     "cat": "market",
+     "importance": "low",
+     "teams": [
+      "채용"
+     ],
+     "company": "v.daum.net",
+     "title": "“하반기 신입 뽑습니다” 대기업 절반 넘었다…채용계획 들여다보니",
+     "body": "“하반기 신입 뽑습니다” 대기업 절반 넘었다…채용계획 들여다보니 v.daum.net",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "v.daum.net",
+       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5uZ3V2blRXank2bTlpMVBHcjdZNEhCdmE3UzN2elFFeXlJRWwyeVZSVGF5VEI5LVR3SW1wYmphX2tsUzFtMzc3dGlIVjVUWDQ?oc=5",
+       "title": "“하반기 신입 뽑습니다” 대기업 절반 넘었다…채용계획 들여다보니",
+       "date": "2026-09-29"
+      }
+     ],
+     "date": "2026-09-29"
+    },
+    {
+     "id": "20260929-f11",
+     "cat": "market",
+     "importance": "low",
+     "teams": [
+      "채용"
+     ],
+     "company": "한경매거진&북",
+     "title": "[속보] 하반기 대기업 2곳 중 1곳 \"대졸 채용한다\"",
+     "body": "[속보] 하반기 대기업 2곳 중 1곳 \"대졸 채용한다\" 한경매거진&북",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "한경매거진&북",
+       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8zZjVMaFZyOGVtdVRxZGhnMDhXR2gzbWlndEVDdDItRUxDbk9Gb0ZaVUFud3lYYlh0SDJQcnV1V3hMOF9USjBBcnk2ajdWLVNDODk5dUp3TGR4Y2t1bU1CcUx3S0xjNXBsWkY4?oc=5",
+       "title": "[속보] 하반기 대기업 2곳 중 1곳 \"대졸 채용한다\"",
+       "date": "2026-09-29"
+      }
+     ],
+     "date": "2026-09-29"
+    },
+    {
+     "id": "20260929-f12",
+     "cat": "market",
+     "importance": "low",
+     "teams": [
+      "채용"
+     ],
+     "company": "edaily.co.kr",
+     "title": "대기업 절반, 하반기 채용계획 확정…공채 비중도 늘었다",
+     "body": "대기업 절반, 하반기 채용계획 확정…공채 비중도 늘었다 edaily.co.kr",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "edaily.co.kr",
+       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcnRuRUROc2dSekxzVDVEUW5RTFZMNTV2c1hmUDlqcmRvYi1TVlZGaFhfUTdnVmx1eVZoS25wMm5BRFRMMjhyYXBFLWJsczdnSEVrS1dPVGhmWEpWWmVoNmJ0Nm5FdExvT2hONElGNFFKcUY1S1hLQk96Y2h1MHYzdQ?oc=5",
+       "title": "대기업 절반, 하반기 채용계획 확정…공채 비중도 늘었다",
+       "date": "2026-09-29"
+      }
+     ],
+     "date": "2026-09-29"
+    },
+    {
+     "id": "20260929-f13",
+     "cat": "market",
+     "importance": "low",
+     "teams": [
+      "채용"
+     ],
+     "company": "ER 이코노믹리뷰",
+     "title": "대기업 하반기 대졸 채용 확대…51% \"신규채용 계획\"",
+     "body": "대기업 하반기 대졸 채용 확대…51% \"신규채용 계획\" ER 이코노믹리뷰",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "ER 이코노믹리뷰",
+       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB6YkpJNmlJbHJXbFdIUVRKd3JCOW9FR1NJOEhITEpWWFJkZDNfTDVpU2xXeWZJN2xYTmtJdzJ5bHJsMmMzTk0wT3d6VzZ4VHM0X1ZsRFR6WWRKbHdfQTNhRlo1dVFsUTlpbmdCeg?oc=5",
+       "title": "대기업 하반기 대졸 채용 확대…51% \"신규채용 계획\"",
+       "date": "2026-09-29"
+      }
+     ],
+     "date": "2026-09-29"
+    },
+    {
+     "id": "20260929-f14",
+     "cat": "market",
+     "importance": "low",
+     "teams": [
+      "채용"
+     ],
+     "company": "대한민국교육신문",
+     "title": "부산시-마이크로소프트, 데이터센터 실무인재 35명 배출…14명 인턴십 연계",
+     "body": "부산시-마이크로소프트, 데이터센터 실무인재 35명 배출…14명 인턴십 연계 대한민국교육신문",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "대한민국교육신문",
+       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9qcmxRZjVpYTA5YU1mTTRNZ0ZPeHFGdU83aDhOd3k3STk3S2J3ZmNJX3lzYWRSS25vRWlwUmp1ZWtUdmdxbDlnTnNId2JPaTk1VHJhSkwwU01nZzZZUlBreHFtTQ?oc=5",
+       "title": "부산시-마이크로소프트, 데이터센터 실무인재 35명 배출…14명 인턴십 연계",
+       "date": "2026-09-29"
+      }
+     ],
+     "date": "2026-09-29"
+    },
+    {
+     "id": "20260929-f15",
+     "cat": "market",
+     "importance": "low",
+     "teams": [
+      "채용"
+     ],
+     "company": "서울신문",
+     "title": "택배 이어달리고 DJ팝업 열고… Z세대 맞춘 이색 채용 설명회",
+     "body": "택배 이어달리고 DJ팝업 열고… Z세대 맞춘 이색 채용 설명회 서울신문",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "서울신문",
+       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAwc3NKdm92N3hKVmtmU081LW8tM0RrTlBWWFQ2X3JaNUQySlJZRUlRSDNNM2dITnZOMXdzNHNzaWp4eFk0bXNvR0x3SHhxZTYtQk9iR1ZvZEJtT0VueEtFV0FBWDdZYWJ2N1g0WTI4Y3pMYVpXb2ZPMWdOUQ?oc=5",
+       "title": "택배 이어달리고 DJ팝업 열고… Z세대 맞춘 이색 채용 설명회",
+       "date": "2026-09-29"
+      }
+     ],
+     "date": "2026-09-29"
+    },
+    {
+     "id": "20260929-f16",
+     "cat": "market",
+     "importance": "low",
+     "teams": [
+      "채용"
+     ],
+     "company": "thefairnews.co.kr",
+     "title": "\"공채 정보에 재미를 더하다\"…인크루트, '취업운세' 서비스 전면 개편",
+     "body": "\"공채 정보에 재미를 더하다\"…인크루트, '취업운세' 서비스 전면 개편 thefairnews.co.kr",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "thefairnews.co.kr",
+       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBxZjkyUEhTMkxOOXJud0hKN3E5SVNPZGZxZWpTTGczMG5HMnJuRGliSC11aTRZbHQ2SzZDNmJMZWRobVh6X0tvZ0s0OTZEWEJhUHdKamZMTjI3eXZlUkJxYURBWVVMRW5hclBUZzd5dkI?oc=5",
+       "title": "\"공채 정보에 재미를 더하다\"…인크루트, '취업운세' 서비스 전면 개편",
+       "date": "2026-09-29"
+      }
+     ],
+     "date": "2026-09-29"
+    },
+    {
+     "id": "20260929-f17",
+     "cat": "market",
+     "importance": "low",
+     "teams": [
+      "채용"
+     ],
+     "company": "컨슈머타임스",
+     "title": "추석 끝나자 채용문 본격화…유통·식품업계, 신입 인재 확보전",
+     "body": "추석 끝나자 채용문 본격화…유통·식품업계, 신입 인재 확보전 컨슈머타임스",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "컨슈머타임스",
+       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE40X1BtWFpUWFpiY0dXVDlUYWVjT3hHWFFlMkhPVmIxV2NzZzluZm5XYUV2TFpqTXlHWWpkUUNXeDJMdks4dTFZX0NVNDJqZmNyTWo3eDJ3ZGtnd0ZNcHotWFg3UmpjcThKeXc?oc=5",
+       "title": "추석 끝나자 채용문 본격화…유통·식품업계, 신입 인재 확보전",
+       "date": "2026-09-29"
+      }
+     ],
+     "date": "2026-09-29"
+    },
+    {
+     "id": "20260929-f18",
+     "cat": "trend",
+     "importance": "low",
+     "teams": [
+      "인사기획",
+      "조직문화·HRD"
+     ],
+     "company": "데일리e뉴스",
+     "title": "[ESG 포커스] PI첨단소재 \"채용부터 퇴직까지···생애주기형 인재경영 강화\"",
+     "body": "[ESG 포커스] PI첨단소재 \"채용부터 퇴직까지···생애주기형 인재경영 강화\" 데일리e뉴스",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "데일리e뉴스",
+       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBjX19FdVNDR2loNUJBTWNTUXZMQkxzaDctdHctLUx5ODNOTm85M1lJT0hQTER6V3pWTFUtR0ZwZGNaV0R4TnhlX3VHYnpLMlhQVG9MZVgwNDdnOW5nQzBHMlphcmFyUGdyRTZsem5rVQ?oc=5",
+       "title": "[ESG 포커스] PI첨단소재 \"채용부터 퇴직까지···생애주기형 인재경영 강화\"",
+       "date": "2026-09-29"
+      }
+     ],
+     "date": "2026-09-29"
+    },
+    {
+     "id": "20260929-f19",
+     "cat": "trend",
+     "importance": "low",
+     "teams": [
+      "인사기획",
+      "조직문화·HRD"
+     ],
+     "company": "국민기자뉴스",
+     "title": "디스플레이허브, ‘2026 인적자원개발 우수기관 Best-HRD’ 인증 획득",
+     "body": "디스플레이허브, ‘2026 인적자원개발 우수기관 Best-HRD’ 인증 획득 국민기자뉴스",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "국민기자뉴스",
+       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE91T0ZWdGZfYi11akZKdFp0Q0F1VWFSenYwX0VONlBxamI4eV9MSG53czQ5Y3lzaGZVZXRBZ3B4WXFlaEZlNVBsQUNEQ1FrT3ZmQnVtTVZHT0lhSGMzNjVqc3lvVdIBZ0FVX3lxTFAxdG5hVWFNVTlZdkRFc2pNbjFaZVZ0RkFqVjFVZXg1bHZCVXBYdXlsa0RQZldwM1NFQnJpYWZ5VHZKclhWbVN6cUhfdE9NR0FIUDhibkhRREhXS3JCVkx2dXdjMzFoQmM?oc=5",
+       "title": "디스플레이허브, ‘2026 인적자원개발 우수기관 Best-HRD’ 인증 획득",
+       "date": "2026-09-29"
+      }
+     ],
+     "date": "2026-09-29"
+    },
+    {
+     "id": "20260929-f20",
+     "cat": "labor",
+     "importance": "low",
+     "teams": [
+      "노무·ER",
+      "보상·복리후생"
+     ],
+     "company": "뉴시스",
+     "title": "[단독]최근 5년간 노동부 소극행정 신고 46건…76%는 '근로감독'",
+     "body": "[단독]최근 5년간 노동부 소극행정 신고 46건…76%는 '근로감독' 뉴시스",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "뉴시스",
+       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5OQ3MtYThtTDFNVGFuRUpSeXhoTEFXcEV5N0F0VkEtMDQ0c1ZRN2lNZjRKUko5R3A5RWFRdm5xVkU1eHRpX0tXdHU0b19wbnVpQUxUNEhIVUViWGZKNVJya2U2bjRwVTZuRmdPdi1wanRfd0YzWkNSYdIBeEFVX3lxTE5OQ3MtYThtTDFNVGFuRUpSeXhoTEFXcEV5N0F0VkEtMDQ0c1ZRN2lNZjRKUko5R3A5RWFRdm5xVkU1eHRpX0tXdHU0b19wbnVpQUxUNEhIVUViWGZKNVJya2U2bjRwVTZuRmdPdi1wanRfd0YzWkNSYQ?oc=5",
+       "title": "[단독]최근 5년간 노동부 소극행정 신고 46건…76%는 '근로감독'",
+       "date": "2026-09-29"
+      }
+     ],
+     "date": "2026-09-29"
+    },
+    {
+     "id": "20260929-f21",
+     "cat": "labor",
+     "importance": "low",
+     "teams": [
+      "노무·ER",
+      "보상·복리후생"
+     ],
+     "company": "v.daum.net",
+     "title": "직장 내 괴롭힘·금품 수수 등…경찰 내부 비위 신고, 올해 역대 최다 전망",
+     "body": "직장 내 괴롭힘·금품 수수 등…경찰 내부 비위 신고, 올해 역대 최다 전망 v.daum.net",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "v.daum.net",
+       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5JLXAxam5RUE80eHBmVmFqd1FLeDRaTW16U1lGc195WmhMSVFiRUt0dVF0Q2gxaUhzeTRqVUVEU09JVHJXbWF1dEtyZElRTFU?oc=5",
+       "title": "직장 내 괴롭힘·금품 수수 등…경찰 내부 비위 신고, 올해 역대 최다 전망",
+       "date": "2026-09-29"
+      }
+     ],
+     "date": "2026-09-29"
+    },
+    {
+     "id": "20260929-f22",
+     "cat": "market",
+     "importance": "low",
+     "teams": [
+      "채용"
+     ],
+     "company": "잡플래닛 콘텐츠",
+     "title": "10 AI 면접 질문, AI 활용 능력 직무별 답변 예시",
+     "body": "",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "잡플래닛 콘텐츠",
+       "url": "https://www.jobplanet.co.kr/contents/news-8466",
+       "title": "10 AI 면접 질문, AI 활용 능력 직무별 답변 예시",
+       "date": "2026-09-29"
+      }
+     ],
+     "date": "2026-09-29"
+    },
+    {
+     "id": "20260929-f23",
+     "cat": "market",
+     "importance": "low",
+     "teams": [
+      "채용"
+     ],
+     "company": "인사이트코리아",
+     "title": "8000억 주고 산 LG헬로비전, 초라한 성적에 3년 연속 희망퇴직",
+     "body": "8000억 주고 산 LG헬로비전, 초라한 성적에 3년 연속 희망퇴직 인사이트코리아",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "인사이트코리아",
+       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9VbTRwb1F3d1VUVWN6elNIX2NTU1VSMS1jWjZkcElnQThoVFg4c0pxUHlod2otT1BmTHJqY3JtWEsxUUplejdfWHlKQnU0dENCVDdzRE02VVVvSVhtYW50eTFLeXV2c1BtTGRuNW5icFhkUmfSAXdBVV95cUxNS1YyOWxMZ2VZeU9TME55OXFER3kzT0hvREg4eHVZMVdlY2laSnFvV2d1MkVsazB0Qk05QnNHQ0IwZjdkaW5WLVdfR1N2WTJfaS1ISHIweUVuUWZGN1VtcjdQUC1MaDdMR211djg0Y3RxU3drVHd2WQ?oc=5",
+       "title": "8000억 주고 산 LG헬로비전, 초라한 성적에 3년 연속 희망퇴직",
+       "date": "2026-09-28"
+      }
+     ],
+     "date": "2026-09-28"
+    },
+    {
+     "id": "20260929-f24",
+     "cat": "market",
+     "importance": "low",
+     "teams": [
+      "채용"
+     ],
+     "company": "OhmyNews",
+     "title": "한 회사 청산하고, 대체생산은 계속... 이게 정당한 해고인가?",
+     "body": "한 회사 청산하고, 대체생산은 계속... 이게 정당한 해고인가? OhmyNews",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "OhmyNews",
+       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE02bEhEQVJDbzlIUmhHeU5Wenl0S09TUVNhbF82V2IydWtUMV9GZGpDbVQ3Q0prenh3NkpkanlYUWZYNGFpenNRVGVudzk0QzdpMnRGQ3U5YWY1YVJUOGpZYXBSY1VMbE9HWjBmQ2RMZGdfX1kt?oc=5",
+       "title": "한 회사 청산하고, 대체생산은 계속... 이게 정당한 해고인가?",
+       "date": "2026-09-28"
+      }
+     ],
+     "date": "2026-09-28"
+    }
+   ]
+  },
   {
    "date": "2026-09-28",
    "window_days": 3,
