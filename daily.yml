@@ -1,0 +1,66 @@
+name: HR 레이더 데일리 수집
+
+on:
+  schedule:
+    - cron: '40 23 * * 0-4'   # 평일(월~금) 오전 08:40 KST
+  workflow_dispatch:           # Actions 탭에서 'Run workflow'로 바로 실행
+  push:
+    branches: [main]
+    paths: ['web/**']          # 화면 파일을 고치면 사이트만 다시 배포
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: hr-radar
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    if: github.event_name != 'push'
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install requests --quiet
+      - name: 뉴스 수집 · AI 분석
+        env:
+          TZ: Asia/Seoul
+          GEMINI_API_KEY:   ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_MODEL:     ${{ vars.GEMINI_MODEL }}
+          MS_TENANT_ID:     ${{ secrets.MS_TENANT_ID }}
+          MS_CLIENT_ID:     ${{ secrets.MS_CLIENT_ID }}
+          MS_CLIENT_SECRET: ${{ secrets.MS_CLIENT_SECRET }}
+          ALERT_EMAIL_TO:   ${{ secrets.ALERT_EMAIL_TO }}
+          ALERT_EMAIL_FROM: ${{ secrets.ALERT_EMAIL_FROM }}
+        run: python run_report.py
+      - name: 결과 저장
+        run: |
+          git config user.name  "HR Radar Bot"
+          git config user.email "hr-radar-bot@users.noreply.github.com"
+          git add web/data.json reports/
+          git diff --cached --quiet || git commit -m "📡 HR 레이더 $(TZ=Asia/Seoul date +%F)"
+          git push
+
+  deploy:
+    needs: collect
+    if: always() && (needs.collect.result == 'success' || needs.collect.result == 'skipped')
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.pages.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: web
+      - id: pages
+        uses: actions/deploy-pages@v4
