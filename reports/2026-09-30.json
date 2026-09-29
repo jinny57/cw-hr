@@ -1,0 +1,539 @@
+{
+  "date": "2026-09-30",
+  "window_days": 1,
+  "article_count": 253,
+  "headline": "근로감독 체계 변화와 하반기 채용·유연근무 확산",
+  "points": [
+    "근로감독관 독자 수사권 개시 및 포괄임금 집중점검에 따른 노무 리스크 점검 필요",
+    "대기업 하반기 신입 채용 재개와 글로벌 테크 인재 확보전 심화",
+    "AI 기반 주 4.5일제 실험과 보상 투명성 등 일하는 방식의 선제적 변화 대두"
+  ],
+  "items": [
+    {
+      "cat": "labor",
+      "importance": "high",
+      "company": "고용노동부",
+      "title": "10월부터 근로감독관 검찰 지휘 폐지, 독자 수사 시험대",
+      "body": "10월부터 근로감독관에 대한 검찰의 수사 지휘가 대폭 축소되거나 사라지면서 독자적인 수사 체계가 본격 시험대에 올라요. 노동 사건에 대한 수사권과 현장 감독 권한이 현장 감독관 중심으로 강화될 것으로 전망돼요.",
+      "insight": "감독관의 재량권과 현장 조사 강도가 높아질 수 있어 사내 근로기준법 준수 현황과 취업규칙 관리가 한층 중요해져요.",
+      "action": "사내 노동 사건 접수 프로세스를 점검하고 근로감독관 방문 시 대응 매뉴얼을 최신화해 보세요.",
+      "teams": [
+        "노무·ER"
+      ],
+      "tags": [
+        "근로감독",
+        "노동법",
+        "노무관리",
+        "고용노동부"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "뉴스1",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5PSzFoSHZZRG5OZlQ4b1NYY0pkMjczekFSZS0zS3lqVnJYYUxiN1pzRU9XamY2bkxQUy03akl1Mi1aczZOaWJkUzNUY2NMZG92SlFPTDUtVTE5bGN4dEtLVV9sWGNMOWxo0gFoQVVfeXFMTk9LMWhIdllEbk5mVDhvU1hjSmQyNzN6QVJlLTNLeWpWclhhTGI3WnNFT1dqZjZuTFBTLTdqSXUyLVpzNk5pYmRTM1RjY0xkb3ZKUU9MNS1VMTlsY3h0S0tVX2xYY0w5bGg?oc=5",
+          "title": "검찰 지휘 사라진 노동감독관…10월부터 독자 수사 시험대",
+          "date": "2026-09-30"
+        }
+      ],
+      "date": "2026-09-30",
+      "id": "20260930-00"
+    },
+    {
+      "cat": "labor",
+      "importance": "high",
+      "company": "고용노동부",
+      "title": "고용부 포괄임금 집중점검 착수, 고정OT 산정 기준 점검 시급",
+      "body": "고용노동부가 공짜 야근 근절을 목표로 포괄임금 오남용 및 고정 시간외수당(고정OT) 운영 사업장에 대한 집중점검을 지속하고 있어요. 실제 근로시간 기록 관리 여부와 실근로 연동 미지급 수당 발생 여부가 핵심 점검 대상이에요.",
+      "insight": "이커머스·IT 및 물류 현장에서 고정OT를 적용하는 직군이 있다면 근태 기록 미비 시 즉각적인 임금체불 리스크로 번질 수 있어요.",
+      "action": "각 법인별(다나와·메이크샵·몰테일 등) 고정OT 적용 대상자의 근태 기록과 실근로 시간 일치 여부를 전수 점검해 보세요.",
+      "teams": [
+        "보상·복리후생",
+        "노무·ER"
+      ],
+      "tags": [
+        "포괄임금",
+        "고정OT",
+        "시간외수당",
+        "근태관리"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "페로타임즈",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ZTHp5Q0c4bEJ2dGZFZ181dElIc3RycGtKcEx3RDN2dHAtMVJuZWlqWGxScEEwWW1HSE9UaHhRTkl4aUFqbTIteS0wZko4cS1aWVlOZktyMWtXUnJ4SzFnbWwxTTFkbXlBT0xHYw?oc=5",
+          "title": "[철강 노무 이야기] 고용부 포괄임금 집중점검…철강업도 ‘고정OT’ 다시 살펴야",
+          "date": "2026-09-30"
+        }
+      ],
+      "date": "2026-09-30",
+      "id": "20260930-01"
+    },
+    {
+      "cat": "market",
+      "importance": "mid",
+      "company": "업계 전반",
+      "title": "대기업 51% 하반기 대졸 신입 채용, 공채 재개와 양극화 지속",
+      "body": "하반기 대기업의 절반 이상(51%)이 대졸 신입 채용에 나서며 채용 시장이 다소 기지개를 켜고 있어요. 다만 청년층 60% 이상은 AI 대체와 경력직 선호 기조로 인해 여전히 취업 문턱이 높다고 체감하고 있어요.",
+      "insight": "주요 대기업의 채용 재개로 주니어 인재 풀이 유동적일 수 있으나 개발·이커머스 핵심 직무는 여전히 경력직 쟁탈전이 치열해요.",
+      "action": "하반기 대기업 공채 일정과 겹치지 않도록 신입·주니어 타깃 포지션의 전형 일정을 전략적으로 조율해 보세요.",
+      "teams": [
+        "채용",
+        "인사기획"
+      ],
+      "tags": [
+        "신입채용",
+        "공채",
+        "채용시장",
+        "이직동향"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "서울경제",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5OWnEtNVV3Z29kblJHTzQtRWFrTnNxYW1tWTI2djg5LVpRMWJXMmpYUkV6LUhFR1dqeEE3NzQyMVNVNzZCLUZGSzloMThBYjFXSkVR0gFTQVVfeXFMTk5acS01VXdnb2RuUkdPNC1FYWtOc3FhbW1ZMjZ2ODktWlExYlcyalhSRXotSEVHV2p4QTc3NDIxU1U3NkItRkZLOWgxOEFiMVdKRVE?oc=5",
+          "title": "대기업 절반 “하반기 대졸 신입 뽑는다”…공채도 다시 늘었다 [biz-플러스]",
+          "date": "2026-09-30"
+        },
+        {
+          "name": "조선일보",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNS2JfSjk4QkMxcFlxR05fVXpBUkhQSWw2YlRrZjFLZkpRYkVYa2xqeHd0aHBlNzAweTJ3ZkZUMDJ5NlRkYnM4T0JwcDNWaWpaaE5LM0VfU2RmbjA3OE5Zb2NzWmtLTThYUV9zdHBvODRlLVpfMlAyRTZxd3RmNGxEQU9VUjlYVG5lVGpRZjVGRQ?oc=5",
+          "title": "대기업 절반 \"하반기 신규채용 계획\"… 전년보다 14%p 늘어",
+          "date": "2026-09-29"
+        },
+        {
+          "name": "반론보도닷컴",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE83ZEVIMHVMWHdaOFA5cVE1U2VuZ1FxSW1BN0VXNExoMks2MHpUME5YQzQ4VnYyTzdycmM3UGdCOUZHejZZNDdneF9ib3d1T0dydm1lTkplZVVTQURkVXlEaWFTZGN2cDV1QUtuVNIBcEFVX3lxTE1EbklKaGdaS0FmTWhrNXBhWWJZZmdKM0h5OHVsQjhoRWJTek9tc1lWQWRlXzQ2Y0hsWl83ZjVKZTE5U2pYWUJKTXh1bEhkUHRGNElXQU1CdDdEQ3JpY0tKSU9vWkQwWTk0M01OS3EyN1Y?oc=5",
+          "title": "대기업 하반기 채용 ‘기지개’…기업들 51% \"신입 사원 채용한다\"",
+          "date": "2026-09-29"
+        },
+        {
+          "name": "생생비즈플러스",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9faFotZ0VmWDUtMVRhYzI3LUZFSkw3LU5CbzhPOVp0M1BWWmJEVjBhUTAtSWxKOEFIUXZsMDROR3ktaVpKRWlwTmQ5ZFR1Z2FjOEVuSFlCZHpIem9zSndVSUlhTTc0ZzVCZ3UzQw?oc=5",
+          "title": "최악 청년실업 나아지려나...대기업 51% \"하반기 대졸 신규 채용 계획\"",
+          "date": "2026-09-29"
+        },
+        {
+          "name": "서울경제",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1uRUd4aDc0S21GV1FBa09TUVJOWlpLcm1XbXlyVFVFanRXTGxNWTZCa2d1a0tjRHYzM25JbkV0TEEwN2ktVkcyTEh6Yk1Ebk1JOW1z0gFTQVVfeXFMTW5FR3hoNzRLbUZXUUFrT1NRUk5aWktybVdteXJUVUVqdFdMbE1ZNkJrZ3VrS2NEdjMzbkluRXRMQTA3aS1WRzJMSHpiTURuTUk5bXM?oc=5",
+          "title": "대기업 채용 한파 누그러지나…하반기 절반이 “대졸 신입 뽑겠다”",
+          "date": "2026-09-29"
+        },
+        {
+          "name": "중앙일보",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1IUkM3dDFLTC1yX1c5cGVOZGVaZmdlQ2JMQTcwcldNSEt6THpoeFZYTmZrVXlBWVpydF8wZ05tN2RyYVBnWTlNSUJkeG9KR0Z0M2RwdTNR?oc=5",
+          "title": "대기업 절반 “하반기 신입 채용”…“작년만큼 뽑겠다”가 가장 많아",
+          "date": "2026-09-29"
+        },
+        {
+          "name": "MTN 머니투데이방송",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9BaHF4dGk5d2hZV1RVNzZIV2UtblJNcUx6bHNIV0QtMnhXZmN6bnhyM1V4WFFOZjdwaDltTGNreXhfd1lsdHVldjVraGJneEQzN2F6eE1NT2RJQm0wVmtsTUM4RFM?oc=5",
+          "title": "대기업 채용 '기지개' 켰지만…청년 63% \"여전히 좁은 문\"",
+          "date": "2026-09-29"
+        }
+      ],
+      "date": "2026-09-30",
+      "id": "20260930-02"
+    },
+    {
+      "cat": "market",
+      "importance": "mid",
+      "company": "현대자동차그룹",
+      "title": "현대차, 실리콘밸리서 테크 포럼 열고 핵심 기술 인재 대거 영입",
+      "body": "현대차그룹 경영진이 미국 실리콘밸리에 집결해 380여 명의 글로벌 기술 인재를 초청하고 첫 대규모 채용 행사를 열었어요. 피지컬 AI와 모빌리티 소프트웨어 개발을 주도할 해외 고급 두뇌를 직접 유치하기 위한 행보예요.",
+      "insight": "국내 주요 대기업들이 AI·데이터 인재를 해외에서 직접 유치하며 기술 인재 확보의 무대가 글로벌로 확장되고 있어요.",
+      "action": "가격비교 및 물류 AI 알고리즘을 이끌 핵심 R&D 직군의 국내외 인재 풀 서칭 전략을 강화해 보세요.",
+      "teams": [
+        "채용"
+      ],
+      "tags": [
+        "글로벌채용",
+        "AI인재",
+        "테크인재",
+        "인재확보"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "데일리안",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1Qcjc2MkxVZ1FNWWFlUkhxanJiM2NGVXVLaUJ6cVdqSlNxVmR3azB5a0NvOFFWMS1hZm5DYnhOZHNFejdTdzFqRXQzc0Y4UUJicFU0?oc=5",
+          "title": "현대차그룹, 실리콘밸리서 첫 대규모 채용행사…\"피지컬 AI 기업으로 진화\"",
+          "date": "2026-09-29"
+        },
+        {
+          "name": "더게이트",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9oNl8weUFtbURvcDdGY202eDFycldaTFZQUVpDc2x3cEVvRHBOekdvcDd0TzdzZFByN3VqQS1Dekk0TXNwdUJ4Y1Q4ZmxzTm1hcGhoQUg5NS00d29XYmRDZnBmTFRIX1FObHVoM9IBbEFVX3lxTE9oNl8weUFtbURvcDdGY202eDFycldaTFZQUVpDc2x3cEVvRHBOekdvcDd0TzdzZFByN3VqQS1Dekk0TXNwdUJ4Y1Q4ZmxzTm1hcGhoQUg5NS00d29XYmRDZnBmTFRIX1FObHVoMw?oc=5",
+          "title": "“실리콘밸리에 기술 인재 380명 모였다”…현대차그룹, 첫 대규모 채용 포럼",
+          "date": "2026-09-29"
+        },
+        {
+          "name": "지디넷코리아",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9xVHVULUNyU3Rxa210RXZDRjVKX0ZVaS1fbWhFVy16TVc5MWxySzdPTG9mVUtWOEI3dGRtcUl4X2R3T2dVNXdwWkQwZHBQR2QtNThzemdn?oc=5",
+          "title": "현대차그룹, 실리콘밸리서 '테크 인재 포럼' 성료…총 380명 참가",
+          "date": "2026-09-29"
+        },
+        {
+          "name": "서울신문",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1nT2NpaEhYS1YxV25TX3lCRUVUT1N4UGJ2b3hCYmYyTjFVdUxoaEZWMlBkU3hfWjB5YXpNeHZDVHVHVmJ4SzUxUllmVmctSWdDOElxN3NRNA?oc=5",
+          "title": "현대차그룹 첫 글로벌 인재 교류 행사",
+          "date": "2026-09-29"
+        },
+        {
+          "name": "뉴스웍스",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA0Wmk4TzFZdDhsSjZ2Qm5vYm5qUWdCRnlRckE3UVBXUDhpSlByZVZTdUY2YUVkOS1kNE9uNkRzSm45RmpNSkJzQkRJTlplSFQxZXVsejQ4ZmtQM3JVRlpGYWZIN2VtMk1vbXFPZEU1cw?oc=5",
+          "title": "\"美 기술 인재 흡수하자\"…현대차그룹, 실리콘밸리서 테크 채용 행사",
+          "date": "2026-09-29"
+        },
+        {
+          "name": "뉴스1",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBEbHVpYlVjUXVCSVN4RXU4a0Ewb3FEWkNqY0RPWGRXRWtEWGFYWFRSQWpxVGFQVVRIdkVQcFo0WENvUWE1M2s4Y1BoV3FrandGVFhTWHFmSU1Mb2JGSjNLdWRJOTFsd9IBZkFVX3lxTFBEbHVpYlVjUXVCSVN4RXU4a0Ewb3FEWkNqY0RPWGRXRWtEWGFYWFRSQWpxVGFQVVRIdkVQcFo0WENvUWE1M2s4Y1BoV3FrandGVFhTWHFmSU1Mb2JGSjNLdWRJOTFsdw?oc=5",
+          "title": "현대차그룹 경영진, 美 실리콘밸리 총출동…기술 인재 영입 박차",
+          "date": "2026-09-29"
+        },
+        {
+          "name": "dt.co.kr",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1wNU9lSDNDd2NPV2ROU0ZYTVFfUy1fR09tU1lBdElMU1dDNjhncVM4dVFaTHh6MjJWcDhtVGZuTXJQUFJhQjB3dmU3dXo0dw?oc=5",
+          "title": "“세계 최고 기술인재와 미래 실현”…현대차그룹, 美서 채용전 성료",
+          "date": "2026-09-29"
+        }
+      ],
+      "date": "2026-09-29",
+      "id": "20260930-07"
+    },
+    {
+      "cat": "labor",
+      "importance": "mid",
+      "company": "업계 전반",
+      "title": "300인 이상 기업 고용 증가세 속 기간제·단시간 근로 비중 확대",
+      "body": "300인 이상 대기업 노동자가 전년 대비 9만 1천 명 증가했으나, 이 중 약 70%에 달하는 6만 7천 명이 기간제 근로자로 집계됐어요. 고용 유연화와 고령화, 프로젝트형 채용 확대가 주요 원인으로 분석돼요.",
+      "insight": "물류센터 및 단기 운영 조직 운영 시 기간제 갱신 거절, 정규직 전환 기대권 등 노무 분쟁 소지가 늘어날 수 있어요.",
+      "action": "몰테일·스윗트래커 등 물류 계약직 및 기간제 인력의 계약 갱신 기준과 평가 프로세스를 점검해 보세요.",
+      "teams": [
+        "인사기획",
+        "노무·ER"
+      ],
+      "tags": [
+        "비정규직",
+        "기간제",
+        "고용형태",
+        "노무관리"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE4wYWF6R0FUa3dOODZ4dTYtYzZpUVgtOHVNUnpmdGc3bVhsel9SdF85czF4dU1kTlMzRUlZQW56ZllqN1BVYWc?oc=5",
+          "title": "300인 이상 기업 고용 9만명 늘었지만…기간제 6.7만명 증가",
+          "date": "2026-09-29"
+        },
+        {
+          "name": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9uYjYwQzVPSmQ2RzNhLWFDS2p6MXlaTmRmU3BYTHlqMVJpUXI4RXVjcXlQdEpUYktURUU2STgtMXlCcGR6cE01TGxscjRVU0FycnZXaWtnOUFSVnQ3TTZXaNIBYEFVX3lxTE9uYjYwQzVPSmQ2RzNhLWFDS2p6MXlaTmRmU3BYTHlqMVJpUXI4RXVjcXlQdEpUYktURUU2STgtMXlCcGR6cE01TGxscjRVU0FycnZXaWtnOUFSVnQ3TTZXaA?oc=5",
+          "title": "대기업 기간제·단시간근로자 늘어…고령화가 고용형태에 영향",
+          "date": "2026-09-29"
+        },
+        {
+          "name": "경기일보",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBCcmtMaDJXcTc2RWxrTHpjMmZMUjBuTTJrMUlGMVZpZk10VkVQTTdTR3dmVXZ2N21mcXlyeXJUTEFtQm9ONnotSTBkalluT0h5cmhwLVFUZmR3X28?oc=5",
+          "title": "300인 이상 대기업 노동자 592만명…전년 대비 9만1천명 증가",
+          "date": "2026-09-29"
+        },
+        {
+          "name": "경향신문",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9WaTgzMzlUSVZiLXJLWXZiaGpkZExEeVpqT2JDYmxtT2lmR2RyMjI1NG9FTVpjM2dzeEVtYlhHSS1IMlIxclgtTkhzRXg4M3NWTmNXalItbGJJeFNkelV30gFfQVVfeXFMT1ZpODMzOVRJVmItcktZdmJoamRkTER5WmpPYkNibG1PaWZHZHIyMjU0b0VNWmMzZ3N4RW1iWEdJLUgyUjFyWC1OSHNFeDgzc1ZOY1dqUi1sYkl4U2R6VXc?oc=5",
+          "title": "대기업 직접고용 11만명 늘었지만…6만7000명은 기간제",
+          "date": "2026-09-29"
+        }
+      ],
+      "date": "2026-09-29",
+      "id": "20260930-08"
+    },
+    {
+      "cat": "trend",
+      "importance": "mid",
+      "company": "지니언스",
+      "title": "지니언스, AI 업무 자동화 연계 주 4.5일제 실험",
+      "body": "보안 기업 지니언스가 고용노동부 주관 '대한민국 일자리 으뜸기업'에 선정됐어요. 단순 근로단축을 넘어 AI 기반 업무 자동화를 선제 도입하고 이를 바탕으로 주 4.5일제를 정착시켜 업무 생산성과 만족도를 동시에 높였다는 평가예요.",
+      "insight": "단순 복지 차원의 유연근무 도입은 생산성 저하를 낳지만 사내 업무 AI 전환(AX)과 결합하면 조직문화 경쟁력이 돼요.",
+      "action": "생성형 AI 툴 사내 활용도를 진단하고 반복 행정 업무 자동화와 연계한 스마트워크 제도를 기획해 보세요.",
+      "teams": [
+        "조직문화·HRD",
+        "인사기획"
+      ],
+      "tags": [
+        "주4.5일제",
+        "AI자동화",
+        "업무혁신",
+        "조직문화"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "데일리시큐",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBhQVotV3dwRGd4aWJwQndSOTN2c1hQVE95eEgxWjNfVmhKYVFRaVk4dTlRbE1VVy16VktucFpMZy1KamFxT2NwYzVTU3lYUXNnYlNYU2VOZHR0U1NCX2NKVjZZQXVkUkJ3TzVfVQ?oc=5",
+          "title": "지니언스, ‘대한민국 일자리 으뜸기업’ 선정…AI 자동화 기반 주 4.5일제 도입",
+          "date": "2026-09-30"
+        },
+        {
+          "name": "데이터뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0zRjFLQjRqUTcxby1aZ19hUjFXcFJ1OU4xM2FBeVcxYmp0cGRFb2FqdDR5QzJRZzNBQ1ZKTlBZMlRPVlBWNVA1cUZ0dmJLZmpKN3FFSGp2OVViUUFWTW1n?oc=5",
+          "title": "지니언스, ‘일자리 으뜸기업’ 선정…AI 업무혁신·주 4.5일제 실험",
+          "date": "2026-09-30"
+        },
+        {
+          "name": "머니투데이",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8xZU5mSWd3SDdqRU9vOTVCTVBIMUJWeUVXVk1oRE9ieUQ1ajhvcmtobW03cDZKVHJPOWhVLWNJQmEwUUtBQWlfNXE4Y1hVNDVmOUt2cXNCMkZta1hnT3QyeTJxQTVtUE3SAWxBVV95cUxNVFp2Y0E1T0lUdzJIempsUU8xVXM4RXplbVMxLXdvanFfQUpaR3g3R0U3YmhUZjJEOF9LOU1pbl91Z29VTVI5VGE4NVNpSkNsX040TWN5VEg2cElzaTQtR3VLUzVNdG5wbTBiTk8?oc=5",
+          "title": "주 4.5일제에 AI 업무혁신까지…지니언스, 일자리 으뜸기업 선정 - 머니투데이",
+          "date": "2026-09-30"
+        }
+      ],
+      "date": "2026-09-30",
+      "id": "20260930-04"
+    },
+    {
+      "cat": "market",
+      "importance": "mid",
+      "company": "한화에어로스페이스",
+      "title": "경력 채용 내 '출신학교 차별' 논란 규탄, 공정채용 리스크 부각",
+      "body": "한화에어로스페이스의 경력직 채용 과정에서 특정 대학 출신 여부를 평가 기준으로 삼았다는 논란이 불거지며 시민단체 등의 거센 반발을 샀어요. 블라인드 채용 가이드라인 위반 및 차별 금지 이슈가 도마 위에 올랐어요.",
+      "insight": "경력직 영입 시 학벌이나 비직무적 요소를 평가 기준으로 둘 경우 회사 평판 악화는 물론 고용차별 리스크로 이어져요.",
+      "action": "서류 심사 및 면접관 대상 평가표에서 불합리한 차별 요소를 배제하고 역량 기반 질문 지침을 재안내해 보세요.",
+      "teams": [
+        "채용",
+        "노무·ER"
+      ],
+      "tags": [
+        "공정채용",
+        "채용리스크",
+        "면접관교육",
+        "차별금지"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "gnnews24.kr",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE41akVnc1lNc2F3MVdtZEt0V2xzdFdraGpUNV8tRFVwWm02a0dvZmNUWFFBck5FaFp5TXMyYzFoUjMxOE10aUhLWkRnekVyc0dOU3dJSG1sVDNWeHJOc3lZUnFsMzA2WVJR?oc=5",
+          "title": "한화에어로, 경력직 채용 '출신학교 차별' 논란 규탄...공정채용 위한 제도개선 시급",
+          "date": "2026-09-29"
+        },
+        {
+          "name": "OhmyNews",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5kTWVmQnJkaUdtUWdQVXJNYmkwdHV3bXFNOXJpSld2U1lqS0hQY0VnVjFkcks5bTNkSy1OSGFKb3NOZFExT1BZOGF0bDRmSmFwUW95VEMzc1FRcTA5TEpueFIyMU53elRLbFJOc3liTFZ3VmhBdUVn?oc=5",
+          "title": "한화에어로 학벌 채용 논란... \"사과만으로 끝낼 일 아니다\"",
+          "date": "2026-09-29"
+        }
+      ],
+      "date": "2026-09-29",
+      "id": "20260930-05"
+    },
+    {
+      "cat": "trend",
+      "importance": "mid",
+      "company": "업계 전반",
+      "title": "글로벌 '급여 투명성 법' 확산, 사내 보상 체계 개편 화두",
+      "body": "미국과 유럽을 중심으로 채용 공고에 연봉 범위를 의무적으로 명시하고 성별·직급별 급여 정보를 공개하도록 하는 급여 투명성 제도가 빠르게 확산되고 있어요. 국내에서도 연봉 공정성에 대한 구성원 요구가 커지는 추세예요.",
+      "insight": "연봉 밴드와 평가-보상 연계 기준이 불투명하면 인재 영입 실패와 기존 핵심 인력의 이탈로 이어질 수 있어요.",
+      "action": "그룹사 직무별 연봉 밴드 기준과 시장 대비 보상 경쟁력을 사전 점검하고 보상 설명회 등 소통 방안을 검토해 보세요.",
+      "teams": [
+        "보상·복리후생",
+        "인사기획"
+      ],
+      "tags": [
+        "급여투명성",
+        "보상체계",
+        "연봉밴드",
+        "공정보상"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "오프피스트",
+          "url": "https://www.offpiste.ai/articles/글로벌-hr-트렌드-우리-회사-연봉을-모두에게-공개해야-한다면-급여-투명성-법-2465",
+          "title": "글로벌 hr 트렌드 우리 회사 연봉을 모두에게 공개해야 한다면 급여 투명성 법",
+          "date": "2026-09-29"
+        }
+      ],
+      "date": "2026-09-29",
+      "id": "20260930-03"
+    },
+    {
+      "cat": "trend",
+      "importance": "mid",
+      "company": "네이버",
+      "title": "네이버, '일하기 좋은 회사' 넘어 인권 리스크 관리 체질개선",
+      "body": "네이버가 단순 복지 확대를 넘어 사내 인권 영향 평가를 고도화하고 직장 내 괴롭힘·갑질 리스크를 상시 모니터링하는 체질개선에 집중하고 있어요. ESG 경영 차원에서 구성원 인권 존중과 심리적 안전감을 강화하는 기조예요.",
+      "insight": "이커머스 플랫폼 특성상 개발·MD·고객응대 등 다양한 직군이 얽혀 있어 조직 내 상호존중과 고충처리 시스템이 필수예요.",
+      "action": "사내 괴롭힘 익명 제보 채널 운영 상태를 확인하고 리더 대상 인권 감수성 및 매너 교육을 구성해 보세요.",
+      "teams": [
+        "조직문화·HRD",
+        "노무·ER"
+      ],
+      "tags": [
+        "인권경영",
+        "조직문화",
+        "직장내괴롭힘",
+        "ESG"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "데일리e뉴스",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1hU3ctaTBZbUNucTREaDM4SU1jQVNIb2ZwS2dhZFRCSVBocldlSWUtY0R6OXl6LWxxbVgxTUlxY2I5alVHQXVhZEZ5enQ1WG0xajhrTENsNWl3QU1XY3JqbWRxVTRIWVRCZTcyek1uTQ?oc=5",
+          "title": "[ESG 포커스] 네이버 \"일하기 좋은 회사 넘어 인권 리스크 관리로···조직문화 체질개선\"",
+          "date": "2026-09-30"
+        }
+      ],
+      "date": "2026-09-30",
+      "id": "20260930-06"
+    },
+    {
+      "cat": "labor",
+      "importance": "mid",
+      "company": "고용노동부",
+      "title": "고용장려금 부정수급 환수 및 점검 체계 강화 움직임",
+      "body": "고용장려금 부정수급 사례가 증가함에 따라 정부 차원의 환수 및 실태 점검 압박이 거세지고 있어요. 채용 관련 정부 지원사업 참여 기업에 대한 사후 이력 관리와 자격 요건 검증이 강화되는 분위기예요.",
+      "insight": "청년 일자리 도약 장려금 등 정부 지원금을 수령하는 포지션의 고용 유지 의무 기간과 관련 서류를 철저히 관리해야 해요.",
+      "action": "현재 그룹사가 수령 중인 고용 지원사업 현황을 전수 파악하고 의무 유지 요건 누락 여부를 점검해 보세요.",
+      "teams": [
+        "인사기획",
+        "보상·복리후생"
+      ],
+      "tags": [
+        "고용장려금",
+        "정부지원사업",
+        "부정수급",
+        "인사리스크"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "뉴시스",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE95OVBSZ3lZek5DNTVFUDJPSFgtYjhrOFdTZXRkQ0pMYXlrb0JXbDQ0ZGxycUhPVWozVVZsd0dzUi1hUmtSRzdoUWlKdW94b182VXBVU1FSVkNxTFVMZk1oQw?oc=5",
+          "title": "[단독]고용장려금 부정수급 환수 '하세월'…10건 중 6건은 1년 넘겨",
+          "date": "2026-09-30"
+        }
+      ],
+      "date": "2026-09-30",
+      "id": "20260930-09"
+    },
+    {
+      "cat": "ecom",
+      "importance": "low",
+      "company": "당근, CJ대한통운",
+      "title": "이커머스 배송 전쟁, '당근절' 무료배송 및 2시간 즉시배송 확대",
+      "body": "당근이 첫 '당근절'을 맞아 CJ대한통운과 무료배송을 지원하고, SSG닷컴은 점포 기반 2시간 배송을 지방권으로 확대하는 등 라스트마일 배송 속도전이 치열해지고 있어요. 플랫폼 간 물류 인프라 제휴가 가속화되고 있어요.",
+      "insight": "배송 솔루션 경쟁이 가속화됨에 따라 몰테일·스윗트래커 조직에서도 빠른 기술 대응과 물류 운영 최적화 인력이 요구돼요.",
+      "action": "물류 및 배송 파트너십 담당 부서의 현업 조직 구조와 인력 소싱 니즈를 사전에 확인해 보세요.",
+      "teams": [
+        "인사기획",
+        "채용"
+      ],
+      "tags": [
+        "이커머스",
+        "배송경쟁",
+        "물류인프라",
+        "라스트마일"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "뉴스핌",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBsa2lqU0ZsajRCdGlzeVVvXzNWdEdXRDNOLWJ3OVVYMUxzXzA0SlBPdDNORjVtdzY4QktpUzdpS2EzMWVyQ05pWlViX25nSG1MTHI0UWxnSzh5dmd0?oc=5",
+          "title": "SSG닷컴, '2시간 배송' 연내 55곳으로 확대",
+          "date": "2026-09-30"
+        },
+        {
+          "name": "브릿지경제",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5BbVFlVGZSeUhFbmRnaDROY3FfWV9OVGJYZ0NmSzZDYklKRl80VEJGUGhYN0JaUW9XLXI2VnpxLWZIaktHRi1uTjNhcFR0dXBGVU1OMG5FQk9Pdw?oc=5",
+          "title": "SSG닷컴, ‘2시간 배송 점포’ 강원·충청·전라로 확대…연내 55곳서 운영",
+          "date": "2026-09-30"
+        },
+        {
+          "name": "cstimes.com",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE42NE8xbExNWGpNQkFFQS0zUUR5LXhPOHlUV01Scm9ZeDdXVmwtamdQRjFMcDRKWnl5NFJWeVFZbm9nNjdiOG5GME5INUhqVk1UbDlrakUzY0dhY2lPOEdBUGh6N0N4dEJ0NVE?oc=5",
+          "title": "SSG닷컴 '2시간 배송' 키운다…연내 55곳까지 확대",
+          "date": "2026-09-30"
+        },
+        {
+          "name": "지디넷코리아",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5KY1J0em02eGJoSmNSXzhwZW8zYjlkajQtdDkyVlJhYlR3LWt5TXNLVUo4MU4zQ2d5cnVJQVBGYmhJTmJjd1hUUXkwZGc2OXdkaG90b293?oc=5",
+          "title": "당근, 10월10일 첫 '당근절'…바로구매 배송비 0원",
+          "date": "2026-09-29"
+        },
+        {
+          "name": "매일일보",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5GSnV4Y3l6cWhMVHR2eXFYaFZHdUJXVGlSTHphYnVnSFpDUjY0dFJTOU1kWXYxVzhLRVFLcmJQVEpxRW1rRFpWWFd5SFNNeU5rdjVoNGhZRXNQUDRqRzhQMVhGUks?oc=5",
+          "title": "CJ대한통운, 10월 10일 첫 ‘당근절’ 배송 전담…전국 무료배송 지원",
+          "date": "2026-09-29"
+        },
+        {
+          "name": "cjnews.cj.net",
+          "url": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxNSmpodUdacGpLdXV1akF2RDFvWDYxcUY4VUI0ZHdoTFV5blRFODNZOG9kbjduQVI3YkxBS2M4X1Q0YTZCME9ReWJBT2oxZ0F5MXZsX3FLZUo1NVhkS0NNU0loSHl5UHpxdEdlRDM1RFA4eHBqVzlEbHhzaEp3a05Wemt4SmxkNWROTlZZb01rYTh5MXBIdFNmNms1WjlHc3B4dkFQMF9VRkpNWF9PU3hzZTBYN1Fjb2xYUy1CY200Wk85Ukdtbmh1U21PY1lsMTI3NHFYU1N2YThuVktJYmJaQWZ0alFNMUVkT01yR3V3R0ZpSUVTbHBsOE13ZEc0WjFXa3cwLXgyM3B5N1QxaV9YTVlENngwTWxMWFhheUNkSjFtMVhGY0lfY3Awbmg0MFBaNHpzTmF0Qk5WdlYtSVR0OEphX0Q3UURxQi1sSW1SUGwyWHB3YV9kMW14dkZ6M1hIQzBIMmJ1TXd4X0Y1VXFtRElxRVI?oc=5",
+          "title": "CJ대한통운, 10월 10일 당근절 바로구매 배송 전담…당근절 혜택이 오네(O-NE) – CJ미디어라이브러리",
+          "date": "2026-09-29"
+        }
+      ],
+      "date": "2026-09-30",
+      "id": "20260930-12"
+    },
+    {
+      "cat": "trend",
+      "importance": "low",
+      "company": "업계 전반",
+      "title": "핵심 인재의 파트타임 활용, '조각 고용(Fractional)' 트렌드 부상",
+      "body": "고연봉 전문 임원이나 특정 분야 스페셜리스트를 풀타임 정규직 대신 주 1~2일 단위로 자문 또는 파트타임 고용하는 '조각 고용(Fractional Talent)' 방식이 HR의 새로운 대안으로 떠오르고 있어요.",
+      "insight": "고비용 전문가 채용이 부담스러운 신규 사업이나 특정 프로젝트 단계에서 고효율 인재 풀로 유연하게 활용 가능해요.",
+      "action": "신규 비즈니스 추진 부서와 협의해 정규직 채용 외에 전문가 자문형 유연 계약 모델 도입 가능성을 검토해 보세요.",
+      "teams": [
+        "채용",
+        "인사기획"
+      ],
+      "tags": [
+        "조각고용",
+        "Fractional",
+        "외부인재",
+        "채용다각화"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "오프피스트",
+          "url": "https://www.offpiste.ai/articles/-hr-인사이트---14-분수령hf-핵심-인재를-조각으로-고용하는-시대-2461",
+          "title": "hr 인사이트   14 분수령hf 핵심 인재를 조각으로 고용하는 시대",
+          "date": "2026-09-29"
+        }
+      ],
+      "date": "2026-09-29",
+      "id": "20260930-10"
+    },
+    {
+      "cat": "ecom",
+      "importance": "low",
+      "company": "쿠팡",
+      "title": "쿠팡, 영남이공대와 'AI물류자동화과' 신설해 물류 인재 직접 육성",
+      "body": "쿠팡이 영남이공대학교와 손잡고 'AI물류자동화과'를 신설해 맞춤형 스마트 물류 인재 양성에 나섰어요. 물류센터 자동화 설비 운영과 AI 제어 인력을 대학과 연계해 직접 채용하는 파이프라인을 구축하고 있어요.",
+      "insight": "물류 솔루션(스윗트래커·몰테일) 경쟁력을 강화하려면 물류 자동화 설비 및 시스템 엔지니어 인력 확보가 핵심 과제예요.",
+      "action": "물류 및 풀필먼트 관련 산학 협력 또는 전문 기술계 대학 채용 연계 가능성을 벤치마킹해 보세요.",
+      "teams": [
+        "채용",
+        "인사기획"
+      ],
+      "tags": [
+        "쿠팡",
+        "산학협력",
+        "물류자동화",
+        "물류인재"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "hidomin.com",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBnazU0Ti1XS3pJZkxPLXY4SVZqVC1LVjVpQUl6ZS16VmhOaFdIWGxPXy1CQm8yMXBoVVE5MmRyOElJV3ZWNzF4ZUpLbEVZOE94RGtlVVRTQ1NjMUpBaE5LZExsT1g1MVVtSkE?oc=5",
+          "title": "영남이공대학교, ‘AI물류자동화과’ 신설…쿠팡과 손잡고 전문 인재 양성",
+          "date": "2026-09-29"
+        }
+      ],
+      "date": "2026-09-29",
+      "id": "20260930-11"
+    }
+  ]
+}
