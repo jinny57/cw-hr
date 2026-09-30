@@ -152,6 +152,14 @@
       "type": "rss",
       "url": "https://rss.blog.naver.com/markncompany.xml",
       "cat": "ecom"
+    },
+    {
+      "name": "월간노동법률",
+      "type": "links",
+      "url": "https://www.worklaw.co.kr/",
+      "base": "https://www.worklaw.co.kr",
+      "pattern": "view/view\\.asp\\?bi_pidx=\\d+",
+      "cat": "labor"
     }
   ],
   "category_alias": {
