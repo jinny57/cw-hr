@@ -56,9 +56,549 @@
     ]
    }
   ],
-  "updated": "2026-09-30T08:48+09:00"
+  "updated": "2026-10-01T08:49+09:00"
  },
  "reports": [
+  {
+   "date": "2026-10-01",
+   "window_days": 1,
+   "article_count": 259,
+   "headline": "노동수사권 독립 시행과 이커머스 인재 확보전",
+   "points": [
+    "근로감독관 수사권 독립이 본격 시행되어 사내 노무 리스크 관리와 조사 대응력 점검이 필요해요.",
+    "ICT 채용이 경력직 중심으로 재편되는 가운데 G마켓 등 경쟁사의 퀵커머스 인재 영입이 시작됐어요.",
+    "몰테일·다나와 연계 등 그룹 내 크로스 시너지 확장에 발맞춘 HR 조직 지원이 중요해졌어요."
+   ],
+   "items": [
+    {
+     "cat": "labor",
+     "importance": "high",
+     "company": "고용노동부",
+     "title": "근로감독관 노동수사권 독립 본격 시행 및 점검",
+     "body": "개정 형사소송법에 따라 검찰의 수사 지휘를 받지 않는 근로감독관의 노동수사권 독립이 본격 시작돼요. 고용노동부는 기관장 책임제를 강화하고 현장 점검과 공정 수사를 강력히 주문했어요.",
+     "insight": "노동사건 수사의 자율성과 신속성이 높아지는 만큼, 노동청 진정 발생 시 사내 리스크가 급격히 확대될 수 있어요.",
+     "action": "사내 임금체불·근로시간 등 취약 노무 영역을 사전 점검하고 고충 처리 프로세스를 재정비해 보세요.",
+     "teams": [
+      "노무·ER",
+      "인사기획"
+     ],
+     "tags": [
+      "근로감독관",
+      "노동수사권",
+      "노무리스크",
+      "고용노동부"
+     ],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "안동데일리",
+       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1CaFl5RjhiLVdxcEJLb05US1hQd0UyaU1hbUU3eVpKN01FbTExTndFTnJUMUdSS3FKY19YMmtwMEhoRE1sWXZZMC12OFdaRjZnTkwxZlpJTEszSGtWbFhuaUw0UjBJS1diSk5MZ2hzcw?oc=5",
+       "title": "고용노동부, 개정 형사소송법 시행 앞두고 노동감독관 수사권 독립 대응 방안 실천 당부",
+       "date": "2026-09-30"
+      },
+      {
+       "name": "뉴스투데이",
+       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0xNkRqVkY4dzF0c293TlR5bF9pVGJFaEw4QWpPR0xnWjRIQ1BsRFo4S1VYa3MwWXFvWkpFYWpQRW9RQVByQ0RCZVctdXJpaTdEVXRsY19WZG5ud005Z0E?oc=5",
+       "title": "김영훈 고용노동부 장관, \"근로감독관 수사 결과는 기관장 책임, 어려움은 본부가 지원\"",
+       "date": "2026-09-30"
+      },
+      {
+       "name": "브릿지경제",
+       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE82SnBsRWVINmtVM3hRV2plcEVlY01uUXY2UnhlalN4dUV1eXhNaXFyTmNpY2puR2liUHdYREhFc2FSb29hV29ZR25vX2lLLU9tdWFXRVlkdDk1Zw?oc=5",
+       "title": "노동감독관 수사권 독립 D-2…노동부, 대응체계 점검",
+       "date": "2026-09-30"
+      },
+      {
+       "name": "v.daum.net",
+       "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBZdmQ4SldqVWRNcm1uMG1hSUJ4Q0ZrWm9YU194S3VhSm1rd045R2diektZVTJGdm0tWnVldHB4OHl1S2hMdlE?oc=5",
+       "title": "檢지휘 안받는 노동수사…노동부, 시행 이틀 앞 '기관장 점검'",
+       "date": "2026-09-30"
+      },
+      {
+       "name": "경기일보",
+       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9qeHIzc3FxQWJVNTRUdGZfWTJ0MFNWYTBpTV9tS0tiYTFXbTNiWUhKRFJ2WlRwVHpON0JWV09wU3ZucUhscnl6OElCTVFlazhRY3NRWDBuWTU0ZTA?oc=5",
+       "title": "김영훈 장관 “노동감독관 수사권 독립… 국민 눈높이서 공정 수사를”",
+       "date": "2026-09-30"
+      }
+     ],
+     "date": "2026-09-30",
+     "id": "20261001-01"
+    },
+    {
+     "cat": "ecom",
+     "importance": "high",
+     "company": "커넥트웨이브",
+     "title": "몰테일·다나와 협업으로 크로스보더 쇼핑 시너지 강화",
+     "body": "몰테일이 다나와와 손잡고 글로벌 쇼핑 서비스를 대폭 강화하며 국내 최저가 크로스보더 쇼핑 지원에 나섰어요. 그룹 내 플랫폼 간 데이터와 물류 인프라를 연계해 글로벌 e커머스 경쟁력을 극대화하는 전략이에요.",
+     "insight": "가격비교와 해외직구 물류 사업 간 물리적 결합을 넘어 조직 간 협업 체계와 공동 프로젝트 인력 지원이 중요해졌어요.",
+     "action": "다나와-몰테일 협업 부서의 업무 얼라인먼트 현황을 점검하고 교류 워크숍을 기획해 보세요.",
+     "teams": [
+      "인사기획",
+      "조직문화·HRD"
+     ],
+     "tags": [
+      "몰테일",
+      "다나와",
+      "그룹시너지",
+      "조직연계"
+     ],
+     "our_group": true,
+     "sources": [
+      {
+       "name": "미디어픽",
+       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE94WWlGQUxkOUFEQlBlMk54NllHajFFb25Db09JQWdSeFNqV3Jtb20zTldvUUNXdjA1dGF1Xzk4eHdGOWwwWFJfNVlyRjlZeTExZzhaejl3SWxPY0lJZVhNa3lQZkdVaVB6aF8w?oc=5",
+       "title": "몰테일, 다나와와 손잡고 글로벌 쇼핑 강화… ‘국내 최저가 쇼핑 지원’",
+       "date": "2026-09-30"
+      }
+     ],
+     "date": "2026-09-30",
+     "id": "20261001-00"
+    },
+    {
+     "cat": "market",
+     "importance": "high",
+     "company": "업계 전반",
+     "title": "ICT 채용 시장 경력직 쏠림 심화… 신입 채용 반토막",
+     "body": "ICT 분야 신규 채용에서 신입 선발 규모가 3년 만에 절반 수준으로 줄고 즉시 전력감 중심의 경력직 우대 기조가 확고해졌어요. 경기 침체와 효율 경영으로 기업들이 검증된 경력 인재에만 집중하고 있어요.",
+     "insight": "경력직 유치 경쟁이 극심해지므로 단순 공고 게시보다 타깃 소싱과 처우 차별화 전략이 절실해요.",
+     "action": "그룹 내 핵심 개발·기획 직군의 외부 경력자 풀을 사전 확보하고 다이렉트 소싱을 강화해 보세요.",
+     "teams": [
+      "채용",
+      "인사기획"
+     ],
+     "tags": [
+      "ICT채용",
+      "경력직수시채용",
+      "신입감소",
+      "소싱전략"
+     ],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "edaily.co.kr",
+       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMnA0STRkUUlUN3hsRU94SFZPSXlaMkxvVkxLbjMzSXBDN0JBVm9TQl94RDJsclBIV0lRZjVjSFk3dDNZUmt0UUFsWkxZclo3ZkxMd2Fmc0ZWS3hWRnJnVlRiUXl3Sjduc19hdnNIT2RNdWdvX242TW1QNnFlbDZhQw?oc=5",
+       "title": "ICT 채용도 '경력 우대'…신입 채용 3년만에 반토막",
+       "date": "2026-10-01"
+      }
+     ],
+     "date": "2026-10-01",
+     "id": "20261001-02"
+    },
+    {
+     "cat": "ecom",
+     "importance": "high",
+     "company": "G마켓",
+     "title": "G마켓, 퀵커머스 본격 진출하며 핵심 인재 확보 돌입",
+     "body": "G마켓이 퀵커머스 사업에 본격 뛰어들며 관련 분야 핵심 인재 확보에 착수했어요. 빠른 배송 인프라 구축과 서비스 최적화를 위해 플랫폼 및 물류 전문 인력을 대거 영입하고 있어요.",
+     "insight": "스윗트래커, 몰테일 등 당사 물류·배송 솔루션 인력 및 이커머스 MD 조직에 대한 경쟁사의 이직 제안이 늘어날 수 있어요.",
+     "action": "물류 및 퀵커머스 유관 핵심 인력의 처우와 리텐션 현황을 선제적으로 점검해 보세요.",
+     "teams": [
+      "채용",
+      "인사기획"
+     ],
+     "tags": [
+      "G마켓",
+      "퀵커머스",
+      "인재확보",
+      "경쟁사동향"
+     ],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "전자신문",
+       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBsVkNfcjhIOEdYZ1dNaHZrQlUwYnFPR0dqQWpoaGNZRzJFVTVPN2FmLWxKOFB4RDV1OXh0dmJqSzdETTlZOWtfUGFwU1FQZw?oc=5",
+       "title": "G마켓, '퀵커머스' 본격 등판…핵심 인재 확보 착수",
+       "date": "2026-09-30"
+      }
+     ],
+     "date": "2026-09-30",
+     "id": "20261001-03"
+    },
+    {
+     "cat": "trend",
+     "importance": "high",
+     "company": "업계 전반",
+     "title": "팀장 승진 없어도 보상 높이는 '전문가 트랙' 확산",
+     "body": "관리자(팀장) 직책을 맡지 않아도 높은 전문성을 발휘하면 팀장보다 더 높은 연봉을 받을 수 있도록 듀얼 커리어 패스를 구축하는 기업들이 늘고 있어요. 우수 전문 인력 유출을 막기 위한 파격 조치예요.",
+     "insight": "관리 직무를 기피하는 주니어 시니어 전문가들에게 명확한 성장 경로와 보상 동기를 제시할 수 있어요.",
+     "action": "당사 개발·데이터 전문 직군을 대상으로 '전문가 커리어 트랙' 도입 가능성을 검토해 보세요.",
+     "teams": [
+      "보상·복리후생",
+      "인사기획"
+     ],
+     "tags": [
+      "보상체계",
+      "듀얼트랙",
+      "전문가제도",
+      "리텐션"
+     ],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "한국경제",
+       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4c3hnMEd5NUI5TTh4Z1MtT1ExSy1oY2t0VDdwTzVzMnYwaHN2aEh5eEdWc3VxMzBFX0NBbGZfUUxOVERsa0JBbVdHVC1vSU1xRUVreFN3WEFIZw?oc=5",
+       "title": "\"팀장 안 해도 연봉 더 받는다고?\"…직원 붙잡은 회사의 '파격'",
+       "date": "2026-09-30"
+      }
+     ],
+     "date": "2026-09-30",
+     "id": "20261001-04"
+    },
+    {
+     "cat": "trend",
+     "importance": "mid",
+     "company": "지니언스",
+     "title": "AI 기반 업무 혁신으로 '주 4.5일제' 시범 도입",
+     "body": "보안 기업 지니언스가 생성형 AI 기술을 업무에 접목해 생산성을 높이고, 이를 바탕으로 '주 4.5일제'를 시범 도입하며 일자리 으뜸기업으로 선정됐어요. 일하는 방식 혁신을 근로시간 단축으로 연결한 사례예요.",
+     "insight": "단순 복지 확대를 넘어 생성형 AI 도구 활용률 향상을 복무제도 유연화의 트리거로 삼을 수 있어요.",
+     "action": "사내 AI 툴 도입 부서의 업무 효율화 사례를 발굴하고 유연근무 확대 가능성을 타진해 보세요.",
+     "teams": [
+      "조직문화·HRD",
+      "인사기획"
+     ],
+     "tags": [
+      "주4.5일제",
+      "AI업무혁신",
+      "일하는방식",
+      "일자리으뜸기업"
+     ],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "디일렉",
+       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE01NFUtZkpjWjdidTBmR0plYk9USzJhdkFmTEQtcXZCX3c1Z3pjbHFXdXI0d0U5Y2theGsya3NUeExkeFUzRWJ5OFoxcGMyZ21wb1JUVzR4RUdmSTdHejdPNDczQmZZQQ?oc=5",
+       "title": "지니언스, 고용부 '일자리 으뜸기업' 선정",
+       "date": "2026-09-30"
+      },
+      {
+       "name": "디지털투데이",
+       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE84NzBMOEdHbFljTWstekJoUmhyWDh6UFVHdjE1aW9JZUNLampRNk9xN0U1cEd5a3JxUUdldjE0TXV5clRUdVpNSGxXM3hLYUpSOUNvdTNSdzRPNmpueHBSYXRWQnc2bmE0SnBzU1lkQ0k5bW8?oc=5",
+       "title": "지니언스, AI 혁신 기반 ‘주4.5일제’ 시범 운영",
+       "date": "2026-09-30"
+      },
+      {
+       "name": "edaily.co.kr",
+       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMG9hanVlVWlwcWxPUk12NmdhM0RDaHZZZWNsdFhhVG9LUmJkMlFHXzg2V3pKSmZCa0l5VVA5S3BrUGU3Z3ppS0tIcnZydVVHakdYZG01bjFwb1ByM1pkNklrdHEzTmw4SUZQejg3RFgtNXY4T2RMbVNzVzF6YlM2RA?oc=5",
+       "title": "지니언스, 고용노동부 ‘대한민국 일자리 으뜸 기업’ 선정",
+       "date": "2026-09-30"
+      },
+      {
+       "name": "서울경제TV",
+       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE10cl8wZG1IM1RHNS05TXVucGVuMldtX2JObHdBYVN4VnhlSjRqZXM4aFFUOWIzTnBHZGUwSzgycXM0RDBmOGxlYXZ5SEtnY2U4OGFBQjRDaEhaWDBBZTYtZHB2N00?oc=5",
+       "title": "지니언스, ‘일자리 으뜸기업’ 선정…AI 기반 주 4.5일제 도입",
+       "date": "2026-09-30"
+      },
+      {
+       "name": "디지털데일리",
+       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1yaEhfZlMxbzlfdjhPeXg0VHZIR1lIOW1pc0pTMGNVT214VllxZmpqX184RzR3WjV1Rm9KNFRLQTBlN094X1pwTVpTUkEzVVNaU1pfR2VqYWd6ekNoUXF2UDlmOTY?oc=5",
+       "title": "지니언스, 고용부 `일자리 으뜸기업` 선정…주 4.5일제 시범 운영",
+       "date": "2026-09-30"
+      },
+      {
+       "name": "v.daum.net",
+       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1ueXhkTXRFZlVCXzBZYzFqYU9WMVR5TFhzdU5hWXNIQjgzRGtnZTFKdmQzVVBkdkg0M3IxVVN2U1M3d01xZ0ttX0M1V3cxZ0NBX2QycA?oc=5",
+       "title": "지니언스, '일자리 으뜸기업' 선정…AI 활용해 주 4.5일제 시범 운영",
+       "date": "2026-09-30"
+      },
+      {
+       "name": "데이터넷",
+       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8yMkNENzFDeXB4VHpuZVEza2RiU0hhVjJQbXY0OTNCaTBfVW1CY29jWFBtYXZyeGY1RXpGY1FlMmk2ckZCZ2dYNnNwaGF3eEZHdkdSSktVdDNVcTBTN2h0QzFwZmNBanNwMUl3?oc=5",
+       "title": "지니언스, ‘2026 대한민국 일자리 으뜸기업’ 선정",
+       "date": "2026-09-30"
+      }
+     ],
+     "date": "2026-09-30",
+     "id": "20261001-07"
+    },
+    {
+     "cat": "labor",
+     "importance": "mid",
+     "company": "고용노동부",
+     "title": "근로자 1인당 월평균 기업 노동비용 668만 원 기록",
+     "body": "고용노동부의 2025년 기업체노동비용조사 결과 근로자 1인 유지 비용이 월평균 668만 원으로 나타났어요. 300인 이상 대기업의 경우 월 829만 원에 달해 인건비와 법정외 복비 부담이 지속 상승하고 있어요.",
+     "insight": "법정·비법정 복리비용 상승 추세 속에서 복리후생 항목의 실효성을 따져 예산 효율화를 추진해야 해요.",
+     "action": "그룹 내 직원 1인당 투입 노동비용을 산출해 고용부 벤치마크 지표와 비교 분석해 보세요.",
+     "teams": [
+      "보상·복리후생",
+      "인사기획"
+     ],
+     "tags": [
+      "기업체노동비용",
+      "인건비",
+      "복리후생예산",
+      "고용노동부"
+     ],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "서울신문",
+       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9KeXhFTkdwZFhzUVNwWUZJSHV1VDU0SG5fOUdOVUtadHQyd1M1NFprTkl0d2ItYmpCTDc0ajVSeHhSb25STndlZzFNb3VlQlhFRlpmRXVuOA?oc=5",
+       "title": "직원 1명 유지에 월평균 668만원… 300인 이상 기업은 월 829만원",
+       "date": "2026-10-01"
+      },
+      {
+       "name": "서울Pn",
+       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ILWdmMHBxQzdFbXNDa2tfbThHdVFBZ2lOYXlmYjE1S3NybnV3RklqTlR6Nk0xRzR6eEp2NEc4NW1hd1hxVmJYbmVGQjc0cFFRLUpXaUZRQjh0YU4zeVdWOVhsYWJORnRCQkdfMkpnOGV4WmJLYi1QMg?oc=5",
+       "title": "직원 1명 유지하는 노동비용 월 668만 1000원",
+       "date": "2026-09-30"
+      },
+      {
+       "name": "뉴스1",
+       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5lN3Yxa1JDY3RlMm5mQ2dJMk4wWDJDQVBIa1dkeEdjbkRKb1FxYVlRbkVXVzVGamo2MDBsYkE0Vm9fWGVDdnVJZ2U0UQ?oc=5",
+       "title": "고용노동부, 2025년 기업체노동비용조사 발표",
+       "date": "2026-09-30"
+      }
+     ],
+     "date": "2026-10-01",
+     "id": "20261001-05"
+    },
+    {
+     "cat": "ecom",
+     "importance": "mid",
+     "company": "롯데백화점",
+     "title": "롯데백화점, 호황 속 이례적 희망퇴직과 인력 재편",
+     "body": "롯데백화점이 본점 실적 호조 등 호황 국면 속에서도 고연차 직원을 대상으로 희망퇴직을 단행했어요. AI와 글로벌 마케팅 등 미래 신사업 중심으로 조직과 인력 구조를 선제 개편하려는 목적이에요.",
+     "insight": "유통 대기업들이 실적과 무관하게 고비용 인력 구조를 줄이고 AX 중심 조직으로 빠르게 전환하고 있어요.",
+     "action": "당사 그룹 내 직급·연령별 인력 분포를 점검하고 미래 직무 전환 교육 수요를 파악해 보세요.",
+     "teams": [
+      "인사기획",
+      "노무·ER"
+     ],
+     "tags": [
+      "롯데백화점",
+      "희망퇴직",
+      "인력재편",
+      "조직슬림화"
+     ],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "weekly.donga.com",
+       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4xQ1NQbW44MW5Ta1NiSEJxeUV2VXAydkxOQWZ5SjNfVU9wS0oyLWlhdWFGbmwwWklVaUU4eUZLRlU1a0NPTS1STnlqYzNERnpzb3JMSGdxeTFxZnZmRGNQaHFzVEtBU3NT?oc=5",
+       "title": "‘역대급 호황’인데 롯데백화점, 이례적 희망퇴직",
+       "date": "2026-10-01"
+      },
+      {
+       "name": "대한경제",
+       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5fVTFHRS1aSERTRFpXLU1nMnBRWS15MlpqRmZZTlNJUENkdlhRRWFJQkNfNWtHckVsdm1QOFJRYmR5RldZdGN6VWd6YzFQdHU0ZDZ5NnhHMDRHSXZSalllel80OGppZUpKQWlrcDl1U0NJekk?oc=5",
+       "title": "희망퇴직ㆍ파격마케팅… 롯데百 '투트랙' 전략",
+       "date": "2026-10-01"
+      },
+      {
+       "name": "v.daum.net",
+       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE53X1BvX2ttQjR2VjNzTW1EY0dIUUwxc0RobHZ2RUJsUnZSSVdFYmhYVnYwNTFDWVdWNFFTeHRXZlpVOGh5VEE1YlFWLU5KV0k?oc=5",
+       "title": "제니로 글로벌 고객 잡고 인력은 재편…변화 나선 롯데百",
+       "date": "2026-09-30"
+      }
+     ],
+     "date": "2026-10-01",
+     "id": "20261001-09"
+    },
+    {
+     "cat": "labor",
+     "importance": "mid",
+     "company": "고용노동부",
+     "title": "직장 내 성희롱·괴롭힘 조사 장기화 및 인정 기준 혼선",
+     "body": "직장 내 성희롱 신고 처리에 평균 73일이 걸려 4년 새 32% 늘어났고, 성희롱과 괴롭힘의 법적 인정 요건 차이로 조사 현장에서 혼선이 이어지고 있어요. 신속한 분리 조치와 객관적 입증이 핵심 쟁점으로 떠올랐어요.",
+     "insight": "신고 후 처리 지연은 사내 2차 피해 및 노사 갈등으로 번질 수 있어 사내 처리 속도 개선이 필수적이에요.",
+     "action": "사내 고충 처리 매뉴얼의 단계별 기한을 명문화하고 조사 프로세스를 표준화해 보세요.",
+     "teams": [
+      "노무·ER",
+      "조직문화·HRD"
+     ],
+     "tags": [
+      "직장내괴롭힘",
+      "성희롱예방",
+      "고충처리",
+      "노무관리"
+     ],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "v.daum.net",
+       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE02Y1Z6X2x6emdDcVRUWFp0VFVzSWlsS3BVUmxvbHdsMGxYcm1sYkxiSnNCa0QzbnlHbFZwSXNiUTl4NnIwTUZqcGY2ZVJsQ00?oc=5",
+       "title": "“성희롱은 맞지만 괴롭힘은 아니다?”…신고해도 인정 어려운 ‘직장내괴롭힘’",
+       "date": "2026-10-01"
+      },
+      {
+       "name": "뉴시스",
+       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9IMllNUTJMand3c24yWXZMMlkzYVUwTFJhcExVZmRKam5GeEljZ1haN1B0OGJpVzVLeDBQXzBxUzlrNkdRZ2E4Q2g1Y04tU1hWdnhMdDZZZFI0Ym5yUnRxatIBeEFVX3lxTFBmNHkyeUUtXzVlbFI3ZXBhUGxsUUdaM29FYkpRZjJNcTQ2dXYxcUVUOGU1MVpDbXRtejFJRTlZeDZQNVU4SV82TEQ1RzRvM0pLRjZfVVF1bjlzcHZpTE5GYnFCVGFMWWkxUFFDTzg5RnFQUlpSNlhFVg?oc=5",
+       "title": "[단독]직장 내 성희롱 신고 처리 73일 소요…4년새 32.2% 늘어",
+       "date": "2026-10-01"
+      }
+     ],
+     "date": "2026-10-01",
+     "id": "20261001-06"
+    },
+    {
+     "cat": "market",
+     "importance": "mid",
+     "company": "업계 전반",
+     "title": "취준생 90% '자소서 무용론'… SK하이닉스 등 전형 간소화",
+     "body": "SK하이닉스가 자소서를 폐지하거나 문항을 대폭 간소화하면서 구직자 10명 중 9명이 자소서 무용론에 공감하고 있어요. AI 대필 등으로 자소서 신뢰도가 떨어지자 직무 테스트와 포트폴리오 중심 검증이 늘고 있어요.",
+     "insight": "의례적인 서류 문항은 지원율만 떨어뜨리므로, 실질적인 직무 역량 검증 도구로 서류 전형을 전환해야 해요.",
+     "action": "개발·MD 직군의 서류 전형 질문을 직무 성과와 포트폴리오 위주로 간소화해 보세요.",
+     "teams": [
+      "채용"
+     ],
+     "tags": [
+      "자기소개서",
+      "채용간소화",
+      "SK하이닉스",
+      "직무역량평가"
+     ],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "매일경제",
+       "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5xemJUcmJMM2owVnNqOVFOa1JoczlfQlpheC1MM3haWkhVQkZIOUdvRTNWSnJwdDlZTjh1a3hyR2lKRnlXcnc?oc=5",
+       "title": "“SK하닉도 없앴는데 왜 쓰래요?”…취준생 10명 중 9명 ‘자소서 무용론’",
+       "date": "2026-09-30"
+      }
+     ],
+     "date": "2026-09-30",
+     "id": "20261001-08"
+    },
+    {
+     "cat": "trend",
+     "importance": "mid",
+     "company": "한국P&G",
+     "title": "동거인까지 8주 유급휴가 부여… 가족 복지 개념 확장",
+     "body": "한국P&G가 법적 배우자뿐 아니라 동거인과 사실혼 관계인 파트너에게도 8주간 유급휴가를 지원하는 파격적인 복지 제도를 발표했어요. 다양성·형평성·포용성(DE&I) 가치를 인사 복제에 직접 반영한 사례예요.",
+     "insight": "다양한 가족 형태를 인정하는 선도적 복지는 MZ세대 핵심 인재 유치와 EVP 강화에 매우 효과적이에요.",
+     "action": "현행 사내 경조휴가 및 가족 돌봄 휴직 규정의 적용 대상 범위를 점검해 보세요.",
+     "teams": [
+      "보상·복리후생",
+      "조직문화·HRD"
+     ],
+     "tags": [
+      "가족복지",
+      "유급휴가",
+      "DEI",
+      "복리후생"
+     ],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "서울경제",
+       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBsd0NSZ0otczduZEI4QXRxUm1sVHVNVWNHczVOaDB3bm9JSk9haXJXNUh1SEVCcVYwU1V4LW5OR0VBSDRNM0hkOWlQU2hsU1ozOVHSAVNBVV95cUxPcHB5MHQ4eU5QUWpZalh5VVVCb25KUFE2WU1HQWdMb3k2cXF3Wl80V1ZwLVNhWEI2eUdTQjlyQjFZT0xTVmhDX29JUTFjSXNlX0pIQQ?oc=5",
+       "title": "동거인도 8주 유급휴가…한국P&G, ‘가족’ 경계 허문 직원 복지",
+       "date": "2026-09-30"
+      }
+     ],
+     "date": "2026-09-30",
+     "id": "20261001-10"
+    },
+    {
+     "cat": "trend",
+     "importance": "mid",
+     "company": "업계 전반",
+     "title": "글로벌 급여 투명성 법 확산과 사내 임금 공개 흐름",
+     "body": "미국과 유럽을 중심으로 채용 공고 내 급여 범위 공개와 사내 임금 투명화 법안이 빠르게 정착되고 있어요. 글로벌 HR 전문가들은 급여 불투명성이 인재 이탈과 노사 불신을 초래하는 핵심 요인이라고 분석해요.",
+     "insight": "국내에서도 연봉 공개 요구가 커질 것에 대비해 직무별 객관적 보상 밴드와 평가 연계성을 다져야 해요.",
+     "action": "직무 등급별 보상 밴드의 합리성을 점검하고 보상 커뮤니케이션 로드맵을 구상해 보세요.",
+     "teams": [
+      "보상·복리후생",
+      "인사기획"
+     ],
+     "tags": [
+      "급여투명성",
+      "임금공개",
+      "보상체계",
+      "글로벌HR"
+     ],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "오프피스트",
+       "url": "https://www.offpiste.ai/articles/글로벌-hr-트렌드-우리-회사-연봉을-모두에게-공개해야-한다면-급여-투명성-법-2465",
+       "title": "글로벌 hr 트렌드 우리 회사 연봉을 모두에게 공개해야 한다면 급여 투명성 법",
+       "date": "2026-09-30"
+      }
+     ],
+     "date": "2026-09-30",
+     "id": "20261001-11"
+    },
+    {
+     "cat": "labor",
+     "importance": "mid",
+     "company": "고용노동부",
+     "title": "AI 시대 노동법·고용 변화 대응 '녹서 논의체' 발족",
+     "body": "고용노동부가 인공지능(AI) 급속 확산에 따른 고용 구조와 노동 환경 변화에 선제 대응하기 위해 'AI 시대 새로운 사회계약을 위한 녹서 논의체'를 공식 발족했어요. 플랫폼 노동과 근로시간 기준 재편이 다뤄져요.",
+     "insight": "AI 도입으로 변화하는 직무 정의 및 플랫폼·긱 근로 형태와 관련된 향후 제도 변화를 모니터링해야 해요.",
+     "action": "사내 AI 도구 확산에 따른 직무 변화를 모니터링하고 가이드라인을 준비해 보세요.",
+     "teams": [
+      "인사기획",
+      "노무·ER"
+     ],
+     "tags": [
+      "AI시대",
+      "사회계약",
+      "노동법개정",
+      "고용노동부"
+     ],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "고용노동부",
+       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE90c29JQWxHdHFydEJRMTRKVF9KSXQ0UnlvLUlyMFVPOFFSbDlsdUw2M21vVy12TzEzeWU3d0UxbmlwcDhZN3pqa2JIMDF4S250ZW9SVnVwMzZxN0pSaE8wYV94U2hYVkt3NkdKdWp2UVMtWG5QOHB3?oc=5",
+       "title": "「AI 시대 새로운 사회계약을 위한 녹서 논의체」발족식",
+       "date": "2026-09-30"
+      }
+     ],
+     "date": "2026-09-30",
+     "id": "20261001-12"
+    },
+    {
+     "cat": "market",
+     "importance": "low",
+     "company": "원티드랩",
+     "title": "원티드랩-워크데이 파트너십… 글로벌 채용 연계 강화",
+     "body": "HR 테크 기업 원티드랩이 글로벌 인사관리 플랫폼 워크데이와 파트너십을 체결하고 솔루션 연동을 추진해요. 글로벌 진출 기업과 국내 외투 기업의 채용 효율화 및 데이터 기반 HR 사업을 확대할 계획이에요.",
+     "insight": "ATS와 HRIS 간 연동 기술이 고도화됨에 따라 그룹 차원의 채용 관리 시스템 효율화 방안을 엿볼 수 있어요.",
+     "action": "현재 사용하는 채용 및 인사 시스템의 데이터 연동 편의성을 점검해 보세요.",
+     "teams": [
+      "채용",
+      "인사기획"
+     ],
+     "tags": [
+      "원티드랩",
+      "워크데이",
+      "HR테크",
+      "채용시스템"
+     ],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "worktoday.co.kr",
+       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ieHZ5UlR4WGF6dDZzSFc1R0NSNjZjN0tSTTdZVWx3S3BNV0ljUFp2Zml2VTJRckNhZFB1b1drN250RnFpRU85VXM3VjVyQVRudnZlUW9JLV9aMHRjOWg4VkZJMnd3RWM1WXg2Tw?oc=5",
+       "title": "원티드랩, 워크데이와 맞손 … 글로벌 기업 국내 채용시장 공략 강화",
+       "date": "2026-09-30"
+      },
+      {
+       "name": "hansbiz.co.kr",
+       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA4NUFGVE42ZS1jSERETThqYUd1WWVnMHBUSzJWM1R3ejJtYVRwRUJjajZYUDVCY0lyVlRBaEI1YzJMdjRVT25DdURGeExHcTJnWEsxN3pKUEdwVm1VYS13eVAxM3ViYmxHX29rSA?oc=5",
+       "title": "원티드랩, 워크데이 파트너십 체결",
+       "date": "2026-09-30"
+      },
+      {
+       "name": "전자신문",
+       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE50Nm1EUFFHZHpRZnJaOFd0QWhjam1veXRNUmdFaVBZd3JaNXNDR3dHWUJXSklpaHFkZ09qcTBBZmlXeWZ4bHlsdUNUWHhqdw?oc=5",
+       "title": "원티드랩, '워크데이 파트너 프로그램' 참여… 글로벌 채용 사업 기회 확대",
+       "date": "2026-09-30"
+      },
+      {
+       "name": "뉴스핌",
+       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5adWRXbHNXWnI3d3YwSG5CSFZLMmc2TUV5YmlESURRWWlpUEpEX3JwSndVU0k0S3U3aHNkOUZfY1hIQ0ViTEZ4eGhXR3Vod0dBYXM3djNOS1lDZG1F?oc=5",
+       "title": "원티드랩, 워크데이와 파트너십 체결…글로벌 채용 및 HR 사업 확대",
+       "date": "2026-09-30"
+      }
+     ],
+     "date": "2026-09-30",
+     "id": "20261001-13"
+    }
+   ]
+  },
   {
    "date": "2026-09-30",
    "window_days": 1,
