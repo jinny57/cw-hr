@@ -83,6 +83,28 @@ IT팀에서 Azure 앱 등록(Mail.Send 애플리케이션 권한)을 받은 뒤,
 
 `MS_TENANT_ID`, `MS_CLIENT_ID`, `MS_CLIENT_SECRET`, `ALERT_EMAIL_FROM`(보내는 계정), `ALERT_EMAIL_TO`(받는 사람, 쉼표로 여러 명)
 
+## 선택: 예비 AI (Claude)
+
+Gemini 서버가 혼잡해서 모든 Gemini 모델이 실패한 날에만 Claude가 대신 분석해요. 키가 없으면 이 단계는 건너뛰어요.
+
+1. https://console.anthropic.com 가입 → Billing에서 크레딧 충전 (최소 금액이면 충분해요)
+2. API Keys → Create Key → 복사
+3. 저장소 Settings → Secrets and variables → Actions → New repository secret
+   - Name: `ANTHROPIC_API_KEY` / Secret: 복사한 키
+4. (선택) Variables 탭에 `CLAUDE_MODEL`로 모델을 바꿀 수 있어요 (기본 `claude-haiku-4-5-20251001`)
+
+한 번 쓸 때 몇십 원 수준이고, Gemini가 정상인 날에는 호출하지 않아서 비용이 들지 않아요.
+
+## 선택: DART 공시 (무료)
+
+금융감독원 DART의 대표이사 변경·영업정지·분할·합병 공시를 가져와서, IT·커머스 기업이면 "즉시 주목"에 반영해요.
+
+1. https://opendart.fss.or.kr 에서 인증키 신청 (무료, 바로 발급)
+2. 저장소 Settings → Secrets and variables → Actions → New repository secret
+   - Name: `DART_API_KEY` / Secret: 발급받은 인증키
+
+키가 없으면 이 단계는 건너뛰어요.
+
 ## 자주 묻는 것
 
 - **실행 시간 바꾸기** — `.github/workflows/daily.yml`의 `cron`. UTC 기준이라 한국 시간에서 9시간을 빼요. (`40 23 * * 0-4` = 평일 08:40 KST)

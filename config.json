@@ -27,7 +27,12 @@
         "\"{company}\" 채용 브랜딩",
         "(채용브랜딩 OR 고용브랜드 OR EVP) 기업",
         "외국계 기업 한국 (채용 OR 복지)",
-        "기업 채용설명회 채용 콘텐츠"
+        "기업 채용설명회 채용 콘텐츠",
+        "(IT OR 플랫폼 OR 핀테크 OR 게임 OR 스타트업) (희망퇴직 OR 권고사직 OR 구조조정 OR 감원)",
+        "(CTO OR CPO OR CISO OR CHRO OR CAIO OR CEO OR 대표 OR 임원) (사임 OR 퇴임 OR 사의 OR 퇴사) (IT OR 플랫폼 OR 스타트업 OR 커머스 OR 핀테크)",
+        "(서비스 종료 OR 사업 철수 OR 영업 중단) (플랫폼 OR 앱 OR 커머스)",
+        "(유통 OR 금융 OR 증권 OR 카드사 OR 보험사) (희망퇴직 OR 구조조정 OR 인력감축)",
+        "(빅테크 OR 외국계 OR 글로벌) (감원 OR 채용동결 OR 한국 철수 OR 지사 축소) 한국"
       ],
       "watch_companies": [
         "삼성전자",
@@ -159,6 +164,40 @@
       "url": "https://www.worklaw.co.kr/",
       "base": "https://www.worklaw.co.kr",
       "pattern": "view/view\\.asp\\?bi_pidx=\\d+",
+      "cat": "labor"
+    },
+    {
+      "name": "잡코리아 HR 뉴스",
+      "type": "links",
+      "url": "https://www.jobkorea.co.kr/Corp/Lounge/News",
+      "pattern": "News_View\\?GI_Trend_News_No=\\d+",
+      "cat": "trend"
+    },
+    {
+      "name": "그리팅 블로그",
+      "type": "links",
+      "url": "https://blog.greetinghr.com/",
+      "pattern": "^https://blog\\.greetinghr\\.com/(?!tag/|author/|page/|rss)[a-z0-9-]+/?$",
+      "cat": "market"
+    },
+    {
+      "name": "시프티 블로그",
+      "type": "links",
+      "url": "https://www.shiftee.io/ko/blog",
+      "pattern": "/ko/blog/article/[a-z0-9-]+",
+      "cat": "labor"
+    },
+    {
+      "name": "고용노동부 보도자료",
+      "type": "links",
+      "url": "https://www.moel.go.kr/news/enews/report/enewsList.do",
+      "pattern": "enewsView\\.do\\?news_seq=\\d+",
+      "cat": "labor"
+    },
+    {
+      "name": "고용노동부 입법·행정예고",
+      "type": "rss",
+      "url": "https://www.moel.go.kr/rss/lawinfo.do",
       "cat": "labor"
     }
   ],

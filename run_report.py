@@ -34,6 +34,12 @@ GEMINI_MODEL = (os.environ.get("GEMINI_MODEL") or "gemini-2.5-flash").strip()
 FALLBACK_MODELS = ["gemini-flash-latest", "gemini-2.0-flash"]
 
 
+# 예비 AI: Gemini가 전부 실패한 날에만 Claude(Anthropic)를 불러요. 키가 없으면 건너뛰어요.
+ANTHROPIC_KEY = os.environ.get("ANTHROPIC_API_KEY", "").strip()
+CLAUDE_MODEL = (os.environ.get("CLAUDE_MODEL") or "claude-haiku-4-5-20251001").strip()
+USED_ENGINE = ""  # 이번 분석에 실제로 쓴 AI (사이트 하단·로그 표시용)
+
+
 def gemini_url(model):
     return f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent"
 
@@ -116,6 +122,54 @@ def collect_articles(cfg, date, days):
     return articles
 
 
+# ── 1-3단계: DART 공시 (선택 — DART_API_KEY가 있을 때만) ─────────────────────
+DART_KEY = os.environ.get("DART_API_KEY", "").strip()
+DART_PATTERN = re.compile(r"대표이사|영업정지|해산|회사분할|분할결정|영업양도|영업양수|합병결정|최대주주변경")
+
+
+def collect_dart(cfg, date, days):
+    """금융감독원 DART에서 대표이사 변경·영업정지·분할·합병 등 조직 변화 공시를 가져와요.
+    AI가 IT·커머스 등 관련 기업만 골라 '즉시 주목'에 반영해요."""
+    if not DART_KEY:
+        return []
+    bgn = (date - datetime.timedelta(days=days - 1)).strftime("%Y%m%d")
+    end = date.strftime("%Y%m%d")
+    out, seen = [], set()
+    for ty in ("I", "B"):  # I=거래소공시, B=주요사항보고
+        for page in range(1, 31):
+            try:
+                r = requests.get("https://opendart.fss.or.kr/api/list.json", timeout=20, params={
+                    "crtfc_key": DART_KEY, "bgn_de": bgn, "end_de": end, "pblntf_ty": ty,
+                    "page_no": page, "page_count": 100})
+                j = r.json()
+            except Exception as e:
+                print(f"    ⚠️  DART 읽기 실패: {e}")
+                break
+            if j.get("status") != "000":
+                if j.get("status") != "013":  # 013 = 해당 기간 공시 없음
+                    print(f"    ⚠️  DART 응답: {j.get('status')} {j.get('message')}")
+                break
+            for d in j.get("list", []):
+                name, corp = d.get("report_nm", ""), d.get("corp_name", "")
+                if not DART_PATTERN.search(name) or (corp, name) in seen:
+                    continue
+                if any(g in corp for g in cfg.get("our_group", [])):
+                    continue
+                seen.add((corp, name))
+                dt = d.get("rcept_dt", "")
+                rname = " ".join(name.split())
+                out.append({"title": f"[공시] {corp} — {rname}",
+                            "url": f"https://dart.fss.or.kr/dsaf001/main.do?rcpNo={d.get('rcept_no')}",
+                            "source": "DART 공시", "date": f"{dt[:4]}-{dt[4:6]}-{dt[6:8]}" if len(dt) == 8 else str(date),
+                            "snippet": f"{corp} 공식 공시: {name}", "hint": "ecom", "pro": True})
+            if page >= int(j.get("total_page", 1)):
+                break
+            time.sleep(0.3)
+    out = out[:60]
+    print(f"  ✅ DART 조직 변화 공시 {len(out)}건")
+    return out
+
+
 # ── 1-2단계: HR 전문 사이트 (config.json의 sites) ────────────────────────────
 SEEN_PATH = os.path.join(ROOT, "reports", "_seen_sites.json")
 
@@ -133,14 +187,16 @@ def _clean(t):
 
 def site_links(site):
     """목록 페이지의 링크 중 글 주소 모양(pattern)에 맞는 것을 모아요."""
-    page = _get(site["url"]).text
-    base = site.get("base") or re.match(r"https?://[^/]+", site["url"]).group(0)
+    from urllib.parse import urljoin
+    r = _get(site["url"])
+    page = r.text if r.encoding and r.encoding.lower() not in ("iso-8859-1",) else r.content.decode(r.apparent_encoding or "utf-8", "replace")
     found = {}
-    for m in re.finditer(r'<a\b[^>]*href="([^"]+)"[^>]*>(.*?)</a>', page, re.S | re.I):
+    for m in re.finditer(r'<a\b[^>]*href=["\']([^"\']+)["\'][^>]*>(.*?)</a>', page, re.S | re.I):
         href = html.unescape(m.group(1))
         if not re.search(site["pattern"], href):
             continue
-        url = href if href.startswith("http") else base + ("" if href.startswith("/") else "/") + href
+        # 상대 주소는 실제로 열린 페이지 주소(리다이렉트 반영) 기준으로 풀어요
+        url = urljoin(getattr(r, "url", None) or site["url"], href)
         text = _clean(m.group(2))
         if len(text) > len(found.get(url, "")):
             found[url] = text
@@ -212,14 +268,68 @@ def collect_sites(cfg, date):
 
 # ── 2단계: Gemini 분석 ───────────────────────────────────────────────────────
 def gemini(prompt):
-    """기본 모델이 없거나(404) 계속 혼잡하면(503·429) 예비 모델로 넘어가요."""
-    models = [GEMINI_MODEL] + [m for m in FALLBACK_MODELS if m != GEMINI_MODEL]
-    for i, m in enumerate(models):
+    """Gemini 모델을 차례로 시도하고, 모두 실패하면 예비 AI(Claude)로 넘어가요."""
+    global USED_ENGINE
+    errors = []
+    if GEMINI_KEY:
+        models = [GEMINI_MODEL] + [m for m in FALLBACK_MODELS if m != GEMINI_MODEL]
+        for i, m in enumerate(models):
+            try:
+                # 첫 모델은 길게 기다리고, 예비 모델은 짧게 확인만 해요
+                out = gemini_one(prompt, m, waits=[15, 30, 60, 60, 90] if i == 0 else [20, 40])
+                USED_ENGINE = m
+                return out
+            except (ModelNotFound, ServerBusy, RuntimeError) as e:
+                errors.append(str(e)[:120])
+                nxt = models[i + 1] if i + 1 < len(models) else ("Claude(예비 AI)" if ANTHROPIC_KEY else "")
+                print(f"  ⚠️  {str(e)[:200]}" + (f" → {nxt}로 다시 시도해요" if nxt else ""))
+    if ANTHROPIC_KEY:
         try:
-            return gemini_one(prompt, m)
-        except (ModelNotFound, ServerBusy) as e:
-            print(f"  ⚠️  {e}" + (f" → {models[i+1]}로 다시 시도해요" if i + 1 < len(models) else ""))
-    raise RuntimeError(f"Gemini 분석 실패 — 모든 모델이 응답하지 않았어요 ({', '.join(models)})")
+            out = claude_json(prompt)
+            USED_ENGINE = CLAUDE_MODEL
+            print(f"  🛟 예비 AI({CLAUDE_MODEL})로 분석했어요")
+            return out
+        except Exception as e:
+            errors.append(f"Claude: {str(e)[:150]}")
+    elif GEMINI_KEY:
+        errors.append("예비 AI 키(ANTHROPIC_API_KEY)가 없어 Claude는 건너뛰었어요")
+    raise RuntimeError("AI 분석 실패 — " + " / ".join(errors))
+
+
+def claude_json(prompt, max_tokens=16000):
+    """Anthropic Messages API로 JSON 응답을 받아요. 혼잡(429·529·5xx)이면 기다렸다 재시도해요."""
+    waits = [15, 30, 60]
+    last = ""
+    for attempt in range(len(waits) + 1):
+        r = requests.post(
+            "https://api.anthropic.com/v1/messages",
+            headers={"x-api-key": ANTHROPIC_KEY, "anthropic-version": "2023-06-01",
+                     "content-type": "application/json"},
+            json={"model": CLAUDE_MODEL, "max_tokens": max_tokens, "temperature": 0.2,
+                  "system": "너는 JSON만 출력해. 설명·마크다운 코드블록 없이 { 로 시작해서 } 로 끝나는 JSON 하나만 써.",
+                  "messages": [{"role": "user", "content": prompt}]},
+            timeout=300)
+        if r.status_code in (429, 500, 502, 503, 529):
+            last = f"HTTP {r.status_code}"
+            if attempt == len(waits):
+                break
+            print(f"  ⏳ Claude {r.status_code} (혼잡) — {waits[attempt]}초 후 재시도")
+            time.sleep(waits[attempt])
+            continue
+        if r.status_code != 200:
+            hint = {401: "API 키가 잘못됐어요", 400: "요청 형식 또는 크레딧 부족일 수 있어요",
+                    403: "키 권한이 없어요", 404: f"모델 이름({CLAUDE_MODEL})을 확인해 주세요"}.get(r.status_code, "")
+            raise RuntimeError(f"HTTP {r.status_code} {hint} {r.text[:300]}")
+        body = r.json()
+        text = "".join(b.get("text", "") for b in body.get("content", []) if b.get("type") == "text").strip()
+        a, b = text.find("{"), text.rfind("}")
+        try:
+            return json.loads(text[a:b + 1] if a >= 0 and b > a else text)
+        except json.JSONDecodeError:
+            last = f"JSON 해석 실패 (stop_reason={body.get('stop_reason')}, {len(text)}자)"
+            print(f"  ⚠️  Claude 응답을 JSON으로 읽지 못했어요: {last}")
+            time.sleep(5)
+    raise RuntimeError(f"Claude 응답을 받지 못했어요 ({last})")
 
 
 class ModelNotFound(Exception):
@@ -230,13 +340,13 @@ class ServerBusy(Exception):
     pass
 
 
-def gemini_one(prompt, model, max_tokens=32768):
+def gemini_one(prompt, model, max_tokens=32768, waits=(15, 30, 60, 60, 90)):
     gen = {"temperature": 0.2, "maxOutputTokens": max_tokens,
            "responseMimeType": "application/json"}
     # 2.5 flash 계열은 '생각' 토큰이 출력 한도를 먹어서 JSON이 잘릴 수 있어요 → 생각 끄기
     if "flash" in model and "2.5" in model:
         gen["thinkingConfig"] = {"thinkingBudget": 0}
-    waits = [15, 30, 60, 60, 90]  # 서버 혼잡(503)은 보통 몇 분이면 풀려요
+    waits = list(waits)  # 서버 혼잡(503)은 보통 몇 분이면 풀려요
     last = ""
     for attempt in range(len(waits) + 1):
         r = requests.post(gemini_url(model), params={"key": GEMINI_KEY},
@@ -292,6 +402,7 @@ def build_prompt(cfg, articles, date):
 [규칙]
 - 같은 사건을 다룬 기사는 카드 1개로 합치고 source_ids에 기사 번호를 모두 넣어요.
 - source_ids에는 아래 목록의 번호만 쓰세요. 목록에 없는 사실은 쓰지 마세요.
+- "[공시]"로 시작하는 항목은 금융감독원 DART 공식 공시예요. IT·플랫폼·커머스·핀테크·게임 등 관련 기업의 대표이사 변경·영업정지·분할·합병만 카드로 만들고 talent 신호로 써요. 관련 없는 업종(제조·건설·바이오 등)은 버려요.
 - [전문] 표시는 HR 전문 사이트의 글이에요. HR실에 도움이 되는 인사이트·사례·제도 정보면 포함하고, 강의·행사 홍보나 채용공고는 빼요.
 - HR과 관련 없는 기사(단순 실적, 주가, 제품 출시 등)는 버려요. 광고성·보도자료성 기사도 가치가 낮으면 버려요.
 - 카드는 {cfg.get('min_items', 8)}~25개. 중요한 것부터.
@@ -300,6 +411,12 @@ def build_prompt(cfg, articles, date):
 - teams: 이 카드를 꼭 봐야 할 팀(1~3개, 위 팀 이름 그대로)
 - company: 핵심 기업·기관명 (없으면 "업계 전반")
 - our_group: 우리 그룹사({group})가 직접 언급되면 true
+- talent: 특정 기업에서 인재가 시장에 나올 신호가 있으면 채우고, 아니면 null이에요.
+  신호 = 희망퇴직·권고사직·구조조정·감원, 사업 철수·서비스 종료·영업 중단·매각, C레벨·본부장급 리더 이탈, 대규모 조직개편, 경영난.
+  대상 = IT·플랫폼·이커머스·핀테크·게임·콘텐츠·물류 등 커넥트웨이브가 채용할 만한 인력이 있는 기업만. 우리 그룹사, 정부기관, "업계 전반"은 제외.
+  company에는 신호가 난 그 기업 이름을 정확히 써요 (언론사 이름 금지).
+  level: high = 대규모(수십 명 이상)·전사·리더급 이탈 / mid = 부분 조직 변화·가능성 단계
+  signal: 채용 담당자 관점 한 줄(40자), 예: "희망퇴직 진행 — 개발·PM 인력 시장 유입 예상"
 - 모든 문장은 해요체. body는 사실 요약, insight는 커넥트웨이브 HR 관점의 시사점, action은 담당자가 해볼 일(~해 보세요).
 
 JSON만 출력:
@@ -308,7 +425,7 @@ JSON만 출력:
   "items":[{{"cat":"카테고리id","importance":"high|mid|low","teams":["채용"],
     "company":"기업명","title":"카드 제목(50자)","body":"사실 요약(180자)",
     "insight":"시사점(120자)","action":"해볼 일(100자)","tags":["키워드",".."],
-    "our_group":false,"source_ids":[0,3]}}]}}
+    "our_group":false,"talent":{{"level":"high|mid","signal":"한 줄 신호"}} 또는 null,"source_ids":[0,3]}}]}}
 
 [기사 목록]
 {listing}
@@ -336,6 +453,11 @@ def analyze(cfg, articles, date):
         item["teams"] = [t for t in it.get("teams", []) if t in cfg["teams"]] or default_teams(cfg, item["cat"])
         item["tags"] = [str(t) for t in it.get("tags", [])][:6]
         item["our_group"] = bool(it.get("our_group")) or mentions_group(cfg, item)
+        t = it.get("talent")
+        if isinstance(t, dict) and t.get("signal") and not item["our_group"] \
+                and item.get("company") not in ("업계 전반", "", None):
+            item["talent"] = {"level": "high" if t.get("level") == "high" else "mid",
+                              "signal": str(t["signal"])[:60]}
         item["sources"] = srcs
         item["date"] = max(s["date"] for s in srcs) or str(date)
         item["id"] = f"{date:%Y%m%d}-{n:02d}"
@@ -472,6 +594,7 @@ def main():
 
     articles = collect_articles(cfg, date, days)
     articles += collect_sites(cfg, date)
+    articles += collect_dart(cfg, date, days)
     if args.collect_only:
         for a in articles[:15]:
             print(f"   · [{a['hint']}] {a['title']} ({a['source']})")
@@ -479,8 +602,8 @@ def main():
     if not articles:
         print("❌ 수집된 기사가 없어요. 네트워크나 검색어를 확인해 주세요.")
         sys.exit(1)
-    if not GEMINI_KEY:
-        print("❌ GEMINI_API_KEY가 없어요. 저장소 Settings → Secrets에 등록해 주세요.")
+    if not GEMINI_KEY and not ANTHROPIC_KEY:
+        print("❌ AI 키가 없어요. 저장소 Settings → Secrets에 GEMINI_API_KEY를 등록해 주세요.")
         sys.exit(1)
 
     try:
@@ -491,7 +614,9 @@ def main():
         print(f"\n❗ AI 분석 실패: {e}\n   → HR 단어가 들어간 기사만 골라 대신 올려요.\n")
         result = fallback(cfg, articles, date, str(e))
 
-    report = {"date": str(date), "window_days": days, "article_count": len(articles), **result}
+    report = {"date": str(date), "window_days": days, "article_count": len(articles),
+              "engine": USED_ENGINE or "없음(제목 기준)", **result}
+    print(f"  🤖 분석 엔진: {report['engine']}")
     save(cfg, report)
     try:
         send_email(cfg, report)
