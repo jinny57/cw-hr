@@ -1,0 +1,629 @@
+{
+  "date": "2026-10-02",
+  "window_days": 1,
+  "article_count": 292,
+  "engine": "없음(제목 기준)",
+  "headline": "오늘은 AI 분석이 실패해 제목 기준으로만 골랐어요",
+  "points": [
+    "수집 기사 292건 중 HR 관련 단어가 있는 25건만 올렸어요",
+    "시사점·팀 태그 없이 기사 제목만 보여드려요"
+  ],
+  "analysis_error": "AI 분석 실패 — 모델 'gemini-2.5-flash'을 찾을 수 없어요 / 모델 'gemini-flash-latest'이 계속 혼잡해요 (HTTP 503) / 모델 'gemini-2.0-flash'을 찾을 수 없어요 / 예비 AI 키(ANTHROPIC_API_KEY)가 없어 Claude는 건너뛰었어요",
+  "items": [
+    {
+      "id": "20261002-f00",
+      "cat": "market",
+      "importance": "low",
+      "teams": [
+        "채용"
+      ],
+      "company": "퍼블릭타임스",
+      "title": "李대통령, 김지용 중수청장 후보자 청문요청안 재가…국회 인사청문 절차 돌입",
+      "body": "李대통령, 김지용 중수청장 후보자 청문요청안 재가…국회 인사청문 절차 돌입 퍼블릭타임스",
+      "insight": "",
+      "action": "",
+      "tags": [],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "퍼블릭타임스",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBOYTlwMWl5a3k1NjJZTlJyZmtUZE1Sd0sxN0VJTXFmQi00Q1pOMmp3OEk4WU5BZjgtTFRqRk9MLXhrT2MzRFlNcUY2d2pUSk1QNFhrd0doLWZEYlhEamVaZXUxeWZaWFdDZWfSAW5BVV95cUxQSk5COUx1bDNLTWhVckpNeDdoN1UyQW5sNUNDd2RBRGVON05HTUsxM1VGQTNqb1FLX2xRZVcwVW1XenNENzJCYm10YTBTRFp0aEJwbG0xckhna21BYy04bGFFTEQ3dzVMZFFkdnY5Zw?oc=5",
+          "title": "李대통령, 김지용 중수청장 후보자 청문요청안 재가…국회 인사청문 절차 돌입",
+          "date": "2026-10-02"
+        }
+      ],
+      "date": "2026-10-02"
+    },
+    {
+      "id": "20261002-f01",
+      "cat": "market",
+      "importance": "low",
+      "teams": [
+        "채용"
+      ],
+      "company": "한스경제",
+      "title": "[장애인고용⑮] 삼성SDI \"인재=미래\"…선택적 외침",
+      "body": "[장애인고용⑮] 삼성SDI \"인재=미래\"…선택적 외침 한스경제",
+      "insight": "",
+      "action": "",
+      "tags": [],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "한스경제",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9PM1pDUURUdFU5M0hXRlNINUt4RnA1aTZ6RUNzNy1tNkZpRWhCMFhRVHpvb0ZnYUZMcVBycUFjWGJsMWcxTkhNd1Izd3l0dTNjSkZSY2UwOHlPNk5QTWVGcFp5NlZ2ZVhaV1J0aw?oc=5",
+          "title": "[장애인고용⑮] 삼성SDI \"인재=미래\"…선택적 외침",
+          "date": "2026-10-02"
+        }
+      ],
+      "date": "2026-10-02"
+    },
+    {
+      "id": "20261002-f02",
+      "cat": "market",
+      "importance": "low",
+      "teams": [
+        "채용"
+      ],
+      "company": "Investing.com 한국어",
+      "title": "월트 디즈니, TV 사업 구조조정으로 수백 명 감원 예상",
+      "body": "월트 디즈니, TV 사업 구조조정으로 수백 명 감원 예상 Investing.com 한국어",
+      "insight": "",
+      "action": "",
+      "tags": [],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "Investing.com 한국어",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ybld0YWpNemlXc3VIZFlEVzhxUmZLdFBCcEk4b05vcUJJaFg1VkZXSGtHZFk5b2JydUowMm4zSUdaNTQzOTRPNm00SzRWS1BLOUtoTF9fVXF4dXBKa0c0X1c0VVZ0TnJod0pXU3RGRno?oc=5",
+          "title": "월트 디즈니, TV 사업 구조조정으로 수백 명 감원 예상",
+          "date": "2026-10-02"
+        }
+      ],
+      "date": "2026-10-02"
+    },
+    {
+      "id": "20261002-f03",
+      "cat": "market",
+      "importance": "low",
+      "teams": [
+        "채용"
+      ],
+      "company": "파이낸셜뉴스",
+      "title": "나이키, 실적 엇갈리고 구조조정 발표…내년부터 감원 착수",
+      "body": "나이키, 실적 엇갈리고 구조조정 발표…내년부터 감원 착수 파이낸셜뉴스",
+      "insight": "",
+      "action": "",
+      "tags": [],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "파이낸셜뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBtbWc1WUV2XzRqZEpEUURBMVQ4T0k2Zl84T25xWlJ3Y3JocU1tMnJ6NjByWUw5dVk3UUFvYWdoOEJub2p1TUxRYXJvRUZUdXFJRUVqY1ZlZnZZQQ?oc=5",
+          "title": "나이키, 실적 엇갈리고 구조조정 발표…내년부터 감원 착수",
+          "date": "2026-10-02"
+        }
+      ],
+      "date": "2026-10-02"
+    },
+    {
+      "id": "20261002-f04",
+      "cat": "market",
+      "importance": "low",
+      "teams": [
+        "채용"
+      ],
+      "company": "데이터투자",
+      "title": "굿이어 타이어, 화학 공장 2곳 폐쇄…구조조정 비용 최대 7500만 달러",
+      "body": "굿이어 타이어, 화학 공장 2곳 폐쇄…구조조정 비용 최대 7500만 달러 데이터투자",
+      "insight": "",
+      "action": "",
+      "tags": [],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "데이터투자",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9ZVjBOZEZQZUwwdVNKZldMRGdWcXFoS3MzU1YyUUN5UEZJSmNUeEpTQ1ZGVkRkZXYyZGx4anRxNXV0Vjd2UWdNRXdGTXBiQ3dlcGlhSFJpbXlWWE9iYW9MMkkxN1MtOFhMY2l6TEVNUC01Vk0?oc=5",
+          "title": "굿이어 타이어, 화학 공장 2곳 폐쇄…구조조정 비용 최대 7500만 달러",
+          "date": "2026-10-02"
+        }
+      ],
+      "date": "2026-10-02"
+    },
+    {
+      "id": "20261002-f05",
+      "cat": "trend",
+      "importance": "low",
+      "teams": [
+        "인사기획",
+        "조직문화·HRD"
+      ],
+      "company": "브레이크뉴스",
+      "title": "전남광주특별시교육청, ‘찾아가는 인사정책 공감설명회’ 개최… 현장 소통 강화",
+      "body": "전남광주특별시교육청, ‘찾아가는 인사정책 공감설명회’ 개최… 현장 소통 강화 브레이크뉴스",
+      "insight": "",
+      "action": "",
+      "tags": [],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "브레이크뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1FbWZPWXBPSXNkQm9yYTREWWNsWlJfZ2RObnZZQ1Fra3dteERzVGp2MDJxanA0MGc5TlplSTJoSnFUdw?oc=5",
+          "title": "전남광주특별시교육청, ‘찾아가는 인사정책 공감설명회’ 개최… 현장 소통 강화",
+          "date": "2026-10-02"
+        }
+      ],
+      "date": "2026-10-02"
+    },
+    {
+      "id": "20261002-f06",
+      "cat": "labor",
+      "importance": "low",
+      "teams": [
+        "노무·ER",
+        "보상·복리후생"
+      ],
+      "company": "중도일보",
+      "title": "[기고]노동법이 달라지고 있다",
+      "body": "[기고]노동법이 달라지고 있다 중도일보",
+      "insight": "",
+      "action": "",
+      "tags": [],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "중도일보",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1PeUdtTWtSeXY1by01NmRjVG5xWXNaQVF6WWhPdkhGMXhhWk5LR084Q1E5VVdnSURnSVhEYzluNFBOakU1NElleFRaaW5ial81YnRmV3NpcTZBRXpSTHJ2Rk1PSkg0RFdYZVFuZA?oc=5",
+          "title": "[기고]노동법이 달라지고 있다",
+          "date": "2026-10-02"
+        }
+      ],
+      "date": "2026-10-02"
+    },
+    {
+      "id": "20261002-f07",
+      "cat": "labor",
+      "importance": "low",
+      "teams": [
+        "노무·ER",
+        "보상·복리후생"
+      ],
+      "company": "중도일보",
+      "title": "\"노동법이 달라진다\"…중소기업 노무관리, 이제는 '사전 점검'이 필수",
+      "body": "\"노동법이 달라진다\"…중소기업 노무관리, 이제는 '사전 점검'이 필수 중도일보",
+      "insight": "",
+      "action": "",
+      "tags": [],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "중도일보",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5peVNDS09LdnNxME9nMHhTTHBoNFhSRFZ4ZjJJUi16Zmp1LXVkQnV6M3luMklDUXVVT1Y4SHFLY2EwTDE5RzJpQzVTYjRRa2FMdkFsd01iLWtyRUplVEJzRkdaWFU?oc=5",
+          "title": "\"노동법이 달라진다\"…중소기업 노무관리, 이제는 '사전 점검'이 필수",
+          "date": "2026-10-02"
+        }
+      ],
+      "date": "2026-10-02"
+    },
+    {
+      "id": "20261002-f08",
+      "cat": "labor",
+      "importance": "low",
+      "teams": [
+        "노무·ER",
+        "보상·복리후생"
+      ],
+      "company": "뉴시스",
+      "title": "[단독]'공직내 괴롭힘' 신고 매년 300건 육박…'인정'은 10건 중 3건",
+      "body": "[단독]'공직내 괴롭힘' 신고 매년 300건 육박…'인정'은 10건 중 3건 뉴시스",
+      "insight": "",
+      "action": "",
+      "tags": [],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "뉴시스",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1Ubmt3UDJnZ3FTakFvNWZ1b3VEU1JpbXpxZmVjTE9KOTdyS3FsLWJldi1WQ1VnVTFGN0FIQ2FrRjVaek5HYlc3eEdZb0F4ck1SS1FZYkp5YUptTTVNX21Lai1tM1RJbW1nUlFUdjE1MmpQR3lWMi1XRdIBeEFVX3lxTE1Ubmt3UDJnZ3FTakFvNWZ1b3VEU1JpbXpxZmVjTE9KOTdyS3FsLWJldi1WQ1VnVTFGN0FIQ2FrRjVaek5HYlc3eEdZb0F4ck1SS1FZYkp5YUptTTVNX21Lai1tM1RJbW1nUlFUdjE1MmpQR3lWMi1XRQ?oc=5",
+          "title": "[단독]'공직내 괴롭힘' 신고 매년 300건 육박…'인정'은 10건 중 3건",
+          "date": "2026-10-02"
+        }
+      ],
+      "date": "2026-10-02"
+    },
+    {
+      "id": "20261002-f09",
+      "cat": "ecom",
+      "importance": "low",
+      "teams": [
+        "인사기획",
+        "채용"
+      ],
+      "company": "소비자가 만드는 신문",
+      "title": "[민원평가 탑티어-쿠팡] 소비자 민원 '로켓' 속도로 해결…정보보호 체계도 정비",
+      "body": "[민원평가 탑티어-쿠팡] 소비자 민원 '로켓' 속도로 해결…정보보호 체계도 정비 소비자가 만드는 신문",
+      "insight": "",
+      "action": "",
+      "tags": [],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "소비자가 만드는 신문",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBabTFSQWxFd2FkSlM0dm9xc1BwZDFldHhSdXdkR2lZSFMyV0ljQ25TdlZZZXFKX2lGU1ZrMTNLRldFOHlJcmQ3MXFxb2gwZk1TODN4UWFVRHBJRTBRSWVHcHdxYVVJQzA4SVhvWV9ScVdSR2M?oc=5",
+          "title": "[민원평가 탑티어-쿠팡] 소비자 민원 '로켓' 속도로 해결…정보보호 체계도 정비",
+          "date": "2026-10-02"
+        }
+      ],
+      "date": "2026-10-02"
+    },
+    {
+      "id": "20261002-f10",
+      "cat": "market",
+      "importance": "low",
+      "teams": [
+        "채용"
+      ],
+      "company": "잡플래닛 콘텐츠",
+      "title": "핵인싸라면 이 공고 주목! 초봉 4700도 있다고💰 사람을 만나고 대화하면서 힘이 나는 외향인에게 맞는 신입 채용공고 10개를 모아왔어요. 구찌 클라이언트 어드바이저, 세스코 전문영업직, 키엔스코리아 컨설팅 세일즈처",
+      "body": "",
+      "insight": "",
+      "action": "",
+      "tags": [],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "잡플래닛 콘텐츠",
+          "url": "https://www.jobplanet.co.kr/contents/news-8491",
+          "title": "핵인싸라면 이 공고 주목! 초봉 4700도 있다고💰 사람을 만나고 대화하면서 힘이 나는 외향인에게 맞는 신입 채용공고 10개를 모아왔어요. 구찌 클라이언트 어드바이저, 세스코 전문영업직, 키엔스코리아 컨설팅 세일즈처",
+          "date": "2026-10-02"
+        }
+      ],
+      "date": "2026-10-02"
+    },
+    {
+      "id": "20261002-f11",
+      "cat": "market",
+      "importance": "low",
+      "teams": [
+        "채용"
+      ],
+      "company": "잡플래닛 콘텐츠",
+      "title": "10 2026 포스코 채용, 자소서 가이드·PAT인적성 후기",
+      "body": "",
+      "insight": "",
+      "action": "",
+      "tags": [],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "잡플래닛 콘텐츠",
+          "url": "https://www.jobplanet.co.kr/contents/news-8436",
+          "title": "10 2026 포스코 채용, 자소서 가이드·PAT인적성 후기",
+          "date": "2026-10-02"
+        }
+      ],
+      "date": "2026-10-02"
+    },
+    {
+      "id": "20261002-f12",
+      "cat": "labor",
+      "importance": "low",
+      "teams": [
+        "노무·ER",
+        "보상·복리후생"
+      ],
+      "company": "시프티 블로그",
+      "title": "2026년, 근태관리를 효율적으로 하는 방법과 자동화 도입 절차 2026년 기업의 HR 환경은 빠르게 변화하고 있습니다. 혼합 근무제가 일상화되면서 사무직, 외근직, 교대근무 인력이 한 조직... 2026-04-27",
+      "body": "",
+      "insight": "",
+      "action": "",
+      "tags": [],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "시프티 블로그",
+          "url": "https://shiftee.io/ko/blog/article/efficient-time-and-attendance-management-automation-2026",
+          "title": "2026년, 근태관리를 효율적으로 하는 방법과 자동화 도입 절차 2026년 기업의 HR 환경은 빠르게 변화하고 있습니다. 혼합 근무제가 일상화되면서 사무직, 외근직, 교대근무 인력이 한 조직... 2026-04-27",
+          "date": "2026-10-02"
+        }
+      ],
+      "date": "2026-10-02"
+    },
+    {
+      "id": "20261002-f13",
+      "cat": "labor",
+      "importance": "low",
+      "teams": [
+        "노무·ER",
+        "보상·복리후생"
+      ],
+      "company": "시프티 블로그",
+      "title": "근무형태·근무조건이 다양한 기업을 위한 통합 근태관리 운영 방법 과거의 근태관리는 단순했습니다. 대부분의 직원이 동일한 장소와 시간에 출근하고 퇴근하는 구조였기 때문입니다. 하지만 오늘날의 ... 2026-04-21",
+      "body": "",
+      "insight": "",
+      "action": "",
+      "tags": [],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "시프티 블로그",
+          "url": "https://shiftee.io/ko/blog/article/integrated-attendance-management-for-diverse-work-types",
+          "title": "근무형태·근무조건이 다양한 기업을 위한 통합 근태관리 운영 방법 과거의 근태관리는 단순했습니다. 대부분의 직원이 동일한 장소와 시간에 출근하고 퇴근하는 구조였기 때문입니다. 하지만 오늘날의 ... 2026-04-21",
+          "date": "2026-10-02"
+        }
+      ],
+      "date": "2026-10-02"
+    },
+    {
+      "id": "20261002-f14",
+      "cat": "labor",
+      "importance": "low",
+      "teams": [
+        "노무·ER",
+        "보상·복리후생"
+      ],
+      "company": "시프티 블로그",
+      "title": "사용중인 그룹웨어와 PC-OFF를 연동해 근로시간관리 체계 구축하기 최근 많은 기업이 그룹웨어를 통해 출퇴근기록과 전자결재를 함께 운영하고 있습니다. 일정 관리, 메신저, 전자결재 기능이 통합된... 2026-06-",
+      "body": "",
+      "insight": "",
+      "action": "",
+      "tags": [],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "시프티 블로그",
+          "url": "https://shiftee.io/ko/blog/article/groupware-and-pc-off-integration-for-working-hours-management",
+          "title": "사용중인 그룹웨어와 PC-OFF를 연동해 근로시간관리 체계 구축하기 최근 많은 기업이 그룹웨어를 통해 출퇴근기록과 전자결재를 함께 운영하고 있습니다. 일정 관리, 메신저, 전자결재 기능이 통합된... 2026-06-",
+          "date": "2026-10-02"
+        }
+      ],
+      "date": "2026-10-02"
+    },
+    {
+      "id": "20261002-f15",
+      "cat": "labor",
+      "importance": "low",
+      "teams": [
+        "노무·ER",
+        "보상·복리후생"
+      ],
+      "company": "시프티 블로그",
+      "title": "평균임금 계산 방법과 임금 범위, 평균임금과 통상임금 차이점 평균임금을 정확하게 계산하려면 산정기간과 임금의 범위를 함께 확인해야 합니다. 산정 사유가 발생한 시점과 근로자의 휴직 여부 ... 2026-09-24",
+      "body": "",
+      "insight": "",
+      "action": "",
+      "tags": [],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "시프티 블로그",
+          "url": "https://shiftee.io/ko/blog/article/average-wage-vs-ordinary-wage-comparison",
+          "title": "평균임금 계산 방법과 임금 범위, 평균임금과 통상임금 차이점 평균임금을 정확하게 계산하려면 산정기간과 임금의 범위를 함께 확인해야 합니다. 산정 사유가 발생한 시점과 근로자의 휴직 여부 ... 2026-09-24",
+          "date": "2026-10-02"
+        }
+      ],
+      "date": "2026-10-02"
+    },
+    {
+      "id": "20261002-f16",
+      "cat": "labor",
+      "importance": "low",
+      "teams": [
+        "노무·ER",
+        "보상·복리후생"
+      ],
+      "company": "시프티 블로그",
+      "title": "교대근무 급여정산 가이드: 근태데이터 연동과 수당 계산 방법 교대근무를 운영하는 기업에서는 근무조와 근무시간이 다양하기 때문에 급여정산 과정에서도 여러 조건을 함께 고려해야 합니다. 특히... 2026-09-18",
+      "body": "",
+      "insight": "",
+      "action": "",
+      "tags": [],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "시프티 블로그",
+          "url": "https://shiftee.io/ko/blog/article/shift-work-attendance-data-payroll-settlement",
+          "title": "교대근무 급여정산 가이드: 근태데이터 연동과 수당 계산 방법 교대근무를 운영하는 기업에서는 근무조와 근무시간이 다양하기 때문에 급여정산 과정에서도 여러 조건을 함께 고려해야 합니다. 특히... 2026-09-18",
+          "date": "2026-10-02"
+        }
+      ],
+      "date": "2026-10-02"
+    },
+    {
+      "id": "20261002-f17",
+      "cat": "labor",
+      "importance": "low",
+      "teams": [
+        "노무·ER",
+        "보상·복리후생"
+      ],
+      "company": "시프티 블로그",
+      "title": "공휴일과 휴일이 겹치는 경우, 유급휴일 적용과 임금 처리 방법 공휴일이 주휴일이나 휴무일과 겹치는 경우, 휴일을 추가로 부여해야 하는지, 임금은 어떻게 처리해야 하는지 사업장에서의 판단이 ... 2026-09-17",
+      "body": "",
+      "insight": "",
+      "action": "",
+      "tags": [],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "시프티 블로그",
+          "url": "https://shiftee.io/ko/blog/article/public-holiday-rest-day-overlap-wage-rules",
+          "title": "공휴일과 휴일이 겹치는 경우, 유급휴일 적용과 임금 처리 방법 공휴일이 주휴일이나 휴무일과 겹치는 경우, 휴일을 추가로 부여해야 하는지, 임금은 어떻게 처리해야 하는지 사업장에서의 판단이 ... 2026-09-17",
+          "date": "2026-10-02"
+        }
+      ],
+      "date": "2026-10-02"
+    },
+    {
+      "id": "20261002-f18",
+      "cat": "labor",
+      "importance": "low",
+      "teams": [
+        "노무·ER",
+        "보상·복리후생"
+      ],
+      "company": "시프티 블로그",
+      "title": "HR 솔루션 비교 가이드: 인사관리 솔루션 선택 기준과 체크리스트 기업의 인사관리 업무는 점점 더 다양해지고 있습니다. 근태관리뿐 아니라 휴가관리, 전자결재, 급여정산 등 여러 업무가 서로 연... 2026-09-0",
+      "body": "",
+      "insight": "",
+      "action": "",
+      "tags": [],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "시프티 블로그",
+          "url": "https://shiftee.io/ko/blog/article/hr-solution-key-selection-checklist",
+          "title": "HR 솔루션 비교 가이드: 인사관리 솔루션 선택 기준과 체크리스트 기업의 인사관리 업무는 점점 더 다양해지고 있습니다. 근태관리뿐 아니라 휴가관리, 전자결재, 급여정산 등 여러 업무가 서로 연... 2026-09-0",
+          "date": "2026-10-02"
+        }
+      ],
+      "date": "2026-10-02"
+    },
+    {
+      "id": "20261002-f19",
+      "cat": "labor",
+      "importance": "low",
+      "teams": [
+        "노무·ER",
+        "보상·복리후생"
+      ],
+      "company": "시프티 블로그",
+      "title": "프랜차이즈 근태관리 가이드 : 본사·매장별 근무제도 운영 방법 프랜차이즈 기업은 본사와 직영점, 지역 운영 조직 등 여러 조직과 사업장을 함께 운영할 수 있으며, 조직과 직무에 따라 근무 ... 2026-08-28",
+      "body": "",
+      "insight": "",
+      "action": "",
+      "tags": [],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "시프티 블로그",
+          "url": "https://shiftee.io/ko/blog/article/franchise-attendance-management-headquarters-and-stores",
+          "title": "프랜차이즈 근태관리 가이드 : 본사·매장별 근무제도 운영 방법 프랜차이즈 기업은 본사와 직영점, 지역 운영 조직 등 여러 조직과 사업장을 함께 운영할 수 있으며, 조직과 직무에 따라 근무 ... 2026-08-28",
+          "date": "2026-10-02"
+        }
+      ],
+      "date": "2026-10-02"
+    },
+    {
+      "id": "20261002-f20",
+      "cat": "labor",
+      "importance": "low",
+      "teams": [
+        "노무·ER",
+        "보상·복리후생"
+      ],
+      "company": "시프티 블로그",
+      "title": "2026년 노동감독관 직무집행법 시행: 지방 노동감독 대상과 범위 2026년 12월 8일부터 「노동감독관 직무집행법」이 시행됩니다. 이 법에 따라 중앙노동감독관과 지방노동감독관을 구분하고, 고... 2026-08-2",
+      "body": "",
+      "insight": "",
+      "action": "",
+      "tags": [],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "시프티 블로그",
+          "url": "https://shiftee.io/ko/blog/article/local-labor-inspection-law-preparation-guide",
+          "title": "2026년 노동감독관 직무집행법 시행: 지방 노동감독 대상과 범위 2026년 12월 8일부터 「노동감독관 직무집행법」이 시행됩니다. 이 법에 따라 중앙노동감독관과 지방노동감독관을 구분하고, 고... 2026-08-2",
+          "date": "2026-10-02"
+        }
+      ],
+      "date": "2026-10-02"
+    },
+    {
+      "id": "20261002-f21",
+      "cat": "labor",
+      "importance": "low",
+      "teams": [
+        "노무·ER",
+        "보상·복리후생"
+      ],
+      "company": "시프티 블로그",
+      "title": "2027년 연휴 총정리: 공휴일 일정과 휴일근로수당 계산 가이드 2027년에는 제헌절 공휴일 재지정과 노동절 명칭 변경 등 법령 개정 사항이 적용됩니다. 이에 따라 사업장은 관련 규정과 근태... 2026-08-13",
+      "body": "",
+      "insight": "",
+      "action": "",
+      "tags": [],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "시프티 블로그",
+          "url": "https://shiftee.io/ko/blog/article/2027-public-holiday-calendar-holiday-pay-guide",
+          "title": "2027년 연휴 총정리: 공휴일 일정과 휴일근로수당 계산 가이드 2027년에는 제헌절 공휴일 재지정과 노동절 명칭 변경 등 법령 개정 사항이 적용됩니다. 이에 따라 사업장은 관련 규정과 근태... 2026-08-13",
+          "date": "2026-10-02"
+        }
+      ],
+      "date": "2026-10-02"
+    },
+    {
+      "id": "20261002-f22",
+      "cat": "market",
+      "importance": "low",
+      "teams": [
+        "채용"
+      ],
+      "company": "hellot.net",
+      "title": "CJ대한통운, 지역인재 채용 '물류공채' 본격화…상·하반기 정기 채용 전환",
+      "body": "CJ대한통운, 지역인재 채용 '물류공채' 본격화…상·하반기 정기 채용 전환 hellot.net",
+      "insight": "",
+      "action": "",
+      "tags": [],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "hellot.net",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9OVU01UE9YOWctazhtSmUyYVBHazIyQjBqSjhyeVg2dl9Fd2txeUx5VTFNWDh1NGhXU2NPWFRYNkdOM2tKR0FqQ3VSenF6TUpTTlNLcGpvQ3VlSlFWbnlF?oc=5",
+          "title": "CJ대한통운, 지역인재 채용 '물류공채' 본격화…상·하반기 정기 채용 전환",
+          "date": "2026-10-01"
+        }
+      ],
+      "date": "2026-10-01"
+    },
+    {
+      "id": "20261002-f23",
+      "cat": "market",
+      "importance": "low",
+      "teams": [
+        "채용"
+      ],
+      "company": "한국보험신문",
+      "title": "화재보험협회, 신입·경력직 공개채용… AI·데이터 인재 찾는다",
+      "body": "화재보험협회, 신입·경력직 공개채용… AI·데이터 인재 찾는다 한국보험신문",
+      "insight": "",
+      "action": "",
+      "tags": [],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "한국보험신문",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1OMWxLR3IzVzYzRU44bzdZdXpIc1lLNUs0MVZYbEJWcmswck8wUWxFYU5wY1U2dDFLYmh4eE9mSlFjbE9sMHVfdldBYXhjZWJzUE9zVE1zZ3BlTld5S1U3dGUtdWM4dUNPU0VJ0gFvQVVfeXFMUHBlWGNYQzM5Rmxobk1VRW40eDRFM21GMVF2TWEwQVZUVVpwNDBCZmI2ODl2RzJwT1Z0eTZQdnNodFBnWGw1d19vckV3dFlacGI2LVNxTkpib2Q4RFpXNm45MFFHdlZVbTlKc3pGajQ0?oc=5",
+          "title": "화재보험협회, 신입·경력직 공개채용… AI·데이터 인재 찾는다",
+          "date": "2026-10-01"
+        }
+      ],
+      "date": "2026-10-01"
+    },
+    {
+      "id": "20261002-f24",
+      "cat": "market",
+      "importance": "low",
+      "teams": [
+        "채용"
+      ],
+      "company": "매일일보",
+      "title": "CJ대한통운, '물류공채' 시작…올해 정기 채용 제도 전환",
+      "body": "CJ대한통운, '물류공채' 시작…올해 정기 채용 제도 전환 매일일보",
+      "insight": "",
+      "action": "",
+      "tags": [],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "매일일보",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE41aHZzbHhWS1JhNjkxeFYtMG5yb2RyNDBuT3B0WmhOSmlkcS1XU1FpM1FkanJHSFNBNnB5eV93V2tZQWh0cVNuUDZrTXVkQnVmYV9ZLUxrMHpTMjlxZ3dxNm9BREM?oc=5",
+          "title": "CJ대한통운, '물류공채' 시작…올해 정기 채용 제도 전환",
+          "date": "2026-10-01"
+        }
+      ],
+      "date": "2026-10-01"
+    }
+  ]
+}
