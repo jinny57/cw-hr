@@ -56,9 +56,643 @@
     ]
    }
   ],
-  "updated": "2026-10-02T08:52+09:00"
+  "updated": "2026-10-05T08:50+09:00"
  },
  "reports": [
+  {
+   "date": "2026-10-05",
+   "window_days": 3,
+   "article_count": 354,
+   "engine": "없음(제목 기준)",
+   "headline": "오늘은 AI 분석이 실패해 제목 기준으로만 골랐어요",
+   "points": [
+    "수집 기사 354건 중 HR 관련 단어가 있는 25건만 올렸어요",
+    "시사점·팀 태그 없이 기사 제목만 보여드려요"
+   ],
+   "analysis_error": "AI 분석 실패 — 모델 'gemini-2.5-flash'을 찾을 수 없어요 / 모델 'gemini-flash-latest'이 계속 혼잡해요 (HTTP 503) / 모델 'gemini-2.0-flash'을 찾을 수 없어요 / 예비 AI 키(ANTHROPIC_API_KEY)가 없어 Claude는 건너뛰었어요",
+   "items": [
+    {
+     "id": "20261005-f00",
+     "cat": "market",
+     "importance": "low",
+     "teams": [
+      "채용"
+     ],
+     "company": "코인리더스",
+     "title": "몸값 42억 달러 코인 은행, 테더(USDT) 1억 달러 받고도 해고 '칼바람'",
+     "body": "몸값 42억 달러 코인 은행, 테더(USDT) 1억 달러 받고도 해고 '칼바람' 코인리더스",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "코인리더스",
+       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1QdGRwbVNOUWNmSV9oX3YxZDZFN3Nxb1RaVEowV3dNSWNDN0dwbkZYdVVPdkpYUDFNbk9ZdTRGUGJNTmJpTjNLX1NR?oc=5",
+       "title": "몸값 42억 달러 코인 은행, 테더(USDT) 1억 달러 받고도 해고 '칼바람'",
+       "date": "2026-10-05"
+      }
+     ],
+     "date": "2026-10-05"
+    },
+    {
+     "id": "20261005-f01",
+     "cat": "labor",
+     "importance": "low",
+     "teams": [
+      "노무·ER",
+      "보상·복리후생"
+     ],
+     "company": "didimkorea.net",
+     "title": "E-9 고용허가 심사, 점수제에서 가감점제로 전환…준법 증빙 없으면 배정 탈락",
+     "body": "E-9 고용허가 심사, 점수제에서 가감점제로 전환…준법 증빙 없으면 배정 탈락 didimkorea.net",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "didimkorea.net",
+       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9YTGxRV29YYmE1bmNGemxXVUJUd3ZobkxyM3lFMmZxc251bXl0em15UEdNLV8wbk9yaVlqX3MwWU9hNmFmajVwU0NUMWhHQnM?oc=5",
+       "title": "E-9 고용허가 심사, 점수제에서 가감점제로 전환…준법 증빙 없으면 배정 탈락",
+       "date": "2026-10-05"
+      }
+     ],
+     "date": "2026-10-05"
+    },
+    {
+     "id": "20261005-f02",
+     "cat": "labor",
+     "importance": "low",
+     "teams": [
+      "노무·ER",
+      "보상·복리후생"
+     ],
+     "company": "유스연합",
+     "title": "5인 미만 사업장, 가산수당·유급휴가 의무화 시행…영세 사업주 노무 관리 전면 재편 불가피",
+     "body": "5인 미만 사업장, 가산수당·유급휴가 의무화 시행…영세 사업주 노무 관리 전면 재편 불가피 유스연합",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "유스연합",
+       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBIRFVoalNRZ1NFbmFQTnkwNkkyTXlGVUNSTzNTalVvMk1JdG5VZWg2UWNPakxQV1BXczJRSlRTMXBuS21wUXR5OVJoT2o2YUJUYnVz?oc=5",
+       "title": "5인 미만 사업장, 가산수당·유급휴가 의무화 시행…영세 사업주 노무 관리 전면 재편 불가피",
+       "date": "2026-10-05"
+      }
+     ],
+     "date": "2026-10-05"
+    },
+    {
+     "id": "20261005-f03",
+     "cat": "labor",
+     "importance": "low",
+     "teams": [
+      "노무·ER",
+      "보상·복리후생"
+     ],
+     "company": "인천투데이",
+     "title": "[슬기로운 노동생활] 고령자 계속고용장려금으로 고령인력과 함께 일하자",
+     "body": "[슬기로운 노동생활] 고령자 계속고용장려금으로 고령인력과 함께 일하자 인천투데이",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "인천투데이",
+       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB3R1pGUlRTVWpEbldrZW1EVU12SWlVX01Qd0N4Rm9BdjRVenV1SXlPaTdGWDRxaTZCZ2VTaFhQVWpFc2J2VmdDdHNoa3BBM0hSWnZMNjRDbXhqbzhhQkthMGRyNHJiTUl6ZURhTTNGZ2M?oc=5",
+       "title": "[슬기로운 노동생활] 고령자 계속고용장려금으로 고령인력과 함께 일하자",
+       "date": "2026-10-05"
+      }
+     ],
+     "date": "2026-10-05"
+    },
+    {
+     "id": "20261005-f04",
+     "cat": "trend",
+     "importance": "low",
+     "teams": [
+      "인사기획",
+      "조직문화·HRD"
+     ],
+     "company": "기고만장",
+     "title": "[강진 워케이션] 이방인의 슬기로운 강진 표류기 --> --> --> [강진 워케이션] 이방인의 슬기로운 강진 표류기 N",
+     "body": "",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "기고만장",
+       "url": "https://ggmj.kr/thehyuil/?idx=174938997&bmode=view",
+       "title": "[강진 워케이션] 이방인의 슬기로운 강진 표류기 --> --> --> [강진 워케이션] 이방인의 슬기로운 강진 표류기 N",
+       "date": "2026-10-05"
+      }
+     ],
+     "date": "2026-10-05"
+    },
+    {
+     "id": "20261005-f05",
+     "cat": "trend",
+     "importance": "low",
+     "teams": [
+      "인사기획",
+      "조직문화·HRD"
+     ],
+     "company": "기고만장",
+     "title": "정규직 채용 전에 외부 전문가에게 먼저 맡겨볼 업무 5가지: 실제 기업 사례 --> --> --> 정규직 채용 전에 외부 전문가에게 먼저 맡겨볼 업무 5가지: 실제 기업 사례 N",
+     "body": "",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "기고만장",
+       "url": "https://ggmj.kr/flexwork/?idx=174936582&bmode=view",
+       "title": "정규직 채용 전에 외부 전문가에게 먼저 맡겨볼 업무 5가지: 실제 기업 사례 --> --> --> 정규직 채용 전에 외부 전문가에게 먼저 맡겨볼 업무 5가지: 실제 기업 사례 N",
+       "date": "2026-10-05"
+      }
+     ],
+     "date": "2026-10-05"
+    },
+    {
+     "id": "20261005-f06",
+     "cat": "trend",
+     "importance": "low",
+     "teams": [
+      "인사기획",
+      "조직문화·HRD"
+     ],
+     "company": "기고만장",
+     "title": "[브이드림] 브이드림 9월 뉴스레터 ㅣ 2026년 장애인 고용의 이야기를 나누다 --> --> --> [브이드림] 브이드림 9월 뉴스레터 ㅣ 2026년 장애인 고용의 이야기를 나누다 N",
+     "body": "",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "기고만장",
+       "url": "https://ggmj.kr/vdream/?idx=174935863&bmode=view",
+       "title": "[브이드림] 브이드림 9월 뉴스레터 ㅣ 2026년 장애인 고용의 이야기를 나누다 --> --> --> [브이드림] 브이드림 9월 뉴스레터 ㅣ 2026년 장애인 고용의 이야기를 나누다 N",
+       "date": "2026-10-05"
+      }
+     ],
+     "date": "2026-10-05"
+    },
+    {
+     "id": "20261005-f07",
+     "cat": "trend",
+     "importance": "low",
+     "teams": [
+      "인사기획",
+      "조직문화·HRD"
+     ],
+     "company": "기고만장",
+     "title": "[EP.474] 저는 '9-Box Grid' 대신, 이렇게 우리 회사 인재들을 분석하고 관리합니다 (EDGE 7기 한준희) --> --> --> [EP.474] 저는 '9-Box Grid' 대신, 이렇게 우리 회사 ",
+     "body": "",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "기고만장",
+       "url": "https://ggmj.kr/hredge/?idx=174948211&bmode=view",
+       "title": "[EP.474] 저는 '9-Box Grid' 대신, 이렇게 우리 회사 인재들을 분석하고 관리합니다 (EDGE 7기 한준희) --> --> --> [EP.474] 저는 '9-Box Grid' 대신, 이렇게 우리 회사 ",
+       "date": "2026-10-05"
+      }
+     ],
+     "date": "2026-10-05"
+    },
+    {
+     "id": "20261005-f08",
+     "cat": "market",
+     "importance": "low",
+     "teams": [
+      "채용"
+     ],
+     "company": "잡플래닛 콘텐츠",
+     "title": "신입 개발자 연봉, 얼마 받고 싶어요? 개발자로 첫 직장에 들어간다면,초봉 얼마 받고 싶나요? 프론트엔드, 백엔드, IOS, 안드로이드, QA 등희망하는 개발자 세부직군과 첫 연봉 기대치를 남겨주세요. 여러분의 답변",
+     "body": "",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "잡플래닛 콘텐츠",
+       "url": "https://www.jobplanet.co.kr/contents/news-8493",
+       "title": "신입 개발자 연봉, 얼마 받고 싶어요? 개발자로 첫 직장에 들어간다면,초봉 얼마 받고 싶나요? 프론트엔드, 백엔드, IOS, 안드로이드, QA 등희망하는 개발자 세부직군과 첫 연봉 기대치를 남겨주세요. 여러분의 답변",
+       "date": "2026-10-05"
+      }
+     ],
+     "date": "2026-10-05"
+    },
+    {
+     "id": "20261005-f09",
+     "cat": "market",
+     "importance": "low",
+     "teams": [
+      "채용"
+     ],
+     "company": "잡플래닛 콘텐츠",
+     "title": "잡플래닛 에디터 삼성 GSAT 한 달 만에 뽀개는 법🔥",
+     "body": "",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "잡플래닛 콘텐츠",
+       "url": "https://www.jobplanet.co.kr/contents/news-8492",
+       "title": "잡플래닛 에디터 삼성 GSAT 한 달 만에 뽀개는 법🔥",
+       "date": "2026-10-05"
+      }
+     ],
+     "date": "2026-10-05"
+    },
+    {
+     "id": "20261005-f10",
+     "cat": "market",
+     "importance": "low",
+     "teams": [
+      "채용"
+     ],
+     "company": "잡플래닛 콘텐츠",
+     "title": "1 현대자동차 HMAT 적성검사·인적성 후기, 준비법",
+     "body": "",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "잡플래닛 콘텐츠",
+       "url": "https://www.jobplanet.co.kr/contents/news-8494",
+       "title": "1 현대자동차 HMAT 적성검사·인적성 후기, 준비법",
+       "date": "2026-10-05"
+      }
+     ],
+     "date": "2026-10-05"
+    },
+    {
+     "id": "20261005-f11",
+     "cat": "market",
+     "importance": "low",
+     "teams": [
+      "채용"
+     ],
+     "company": "잡플래닛 콘텐츠",
+     "title": "8 두산 채용, DCAT·DBS 인적성 후기 자소서 작성법",
+     "body": "",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "잡플래닛 콘텐츠",
+       "url": "https://www.jobplanet.co.kr/contents/news-8432",
+       "title": "8 두산 채용, DCAT·DBS 인적성 후기 자소서 작성법",
+       "date": "2026-10-05"
+      }
+     ],
+     "date": "2026-10-05"
+    },
+    {
+     "id": "20261005-f12",
+     "cat": "labor",
+     "importance": "low",
+     "teams": [
+      "노무·ER",
+      "보상·복리후생"
+     ],
+     "company": "시프티 블로그",
+     "title": "사용중인 그룹웨어와 PC-OFF를 연동해 근로시간관리 체계 구축하기 최근 많은 기업이 그룹웨어를 통해 출퇴근기록과 전자결재를 함께 운영하고 있습니다. 일정 관리, 메신저, 전자결재 기능이 통합된... 2026-06-",
+     "body": "",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "시프티 블로그",
+       "url": "https://shiftee.io/ko/blog/article/groupware-and-pc-off-integration-for-working-hours-management",
+       "title": "사용중인 그룹웨어와 PC-OFF를 연동해 근로시간관리 체계 구축하기 최근 많은 기업이 그룹웨어를 통해 출퇴근기록과 전자결재를 함께 운영하고 있습니다. 일정 관리, 메신저, 전자결재 기능이 통합된... 2026-06-",
+       "date": "2026-10-05"
+      }
+     ],
+     "date": "2026-10-05"
+    },
+    {
+     "id": "20261005-f13",
+     "cat": "labor",
+     "importance": "low",
+     "teams": [
+      "노무·ER",
+      "보상·복리후생"
+     ],
+     "company": "시프티 블로그",
+     "title": "공휴일과 휴일이 겹치는 경우, 유급휴일 적용과 임금 처리 방법 공휴일이 주휴일이나 휴무일과 겹치는 경우, 휴일을 추가로 부여해야 하는지, 임금은 어떻게 처리해야 하는지 사업장에서의 판단이 ... 2026-09-17",
+     "body": "",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "시프티 블로그",
+       "url": "https://shiftee.io/ko/blog/article/public-holiday-rest-day-overlap-wage-rules",
+       "title": "공휴일과 휴일이 겹치는 경우, 유급휴일 적용과 임금 처리 방법 공휴일이 주휴일이나 휴무일과 겹치는 경우, 휴일을 추가로 부여해야 하는지, 임금은 어떻게 처리해야 하는지 사업장에서의 판단이 ... 2026-09-17",
+       "date": "2026-10-05"
+      }
+     ],
+     "date": "2026-10-05"
+    },
+    {
+     "id": "20261005-f14",
+     "cat": "labor",
+     "importance": "low",
+     "teams": [
+      "노무·ER",
+      "보상·복리후생"
+     ],
+     "company": "시프티 블로그",
+     "title": "PC-OFF 도입 가이드: SaaS 근태관리시스템 활용 방법과 운영 기준 기업의 근로시간 관리가 세분화되면서 PC-OFF 역시 실제 근무제도와 근태관리 환경에 맞춘 운영이 중요해지고 있습니다. PC-... 2026-",
+     "body": "",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "시프티 블로그",
+       "url": "https://shiftee.io/ko/blog/article/pc-off-implementation-saas-attendance-integration",
+       "title": "PC-OFF 도입 가이드: SaaS 근태관리시스템 활용 방법과 운영 기준 기업의 근로시간 관리가 세분화되면서 PC-OFF 역시 실제 근무제도와 근태관리 환경에 맞춘 운영이 중요해지고 있습니다. PC-... 2026-",
+       "date": "2026-10-05"
+      }
+     ],
+     "date": "2026-10-05"
+    },
+    {
+     "id": "20261005-f15",
+     "cat": "labor",
+     "importance": "low",
+     "teams": [
+      "노무·ER",
+      "보상·복리후생"
+     ],
+     "company": "시프티 블로그",
+     "title": "2026년 노동감독관 역할과 권한: 수사체계 변화와 기업의 준비사항 2026년에는 특별사법경찰관의 수사체계와 노동감독관의 법적 업무 체계가 각각 변경됩니다. 2026년 10월 2일 시행되는 개정... 2026-09-",
+     "body": "",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "시프티 블로그",
+       "url": "https://shiftee.io/ko/blog/article/labor-inspector-authority-reform-attendance-checklist",
+       "title": "2026년 노동감독관 역할과 권한: 수사체계 변화와 기업의 준비사항 2026년에는 특별사법경찰관의 수사체계와 노동감독관의 법적 업무 체계가 각각 변경됩니다. 2026년 10월 2일 시행되는 개정... 2026-09-",
+       "date": "2026-10-05"
+      }
+     ],
+     "date": "2026-10-05"
+    },
+    {
+     "id": "20261005-f16",
+     "cat": "labor",
+     "importance": "low",
+     "teams": [
+      "노무·ER",
+      "보상·복리후생"
+     ],
+     "company": "시프티 블로그",
+     "title": "포괄임금제 폐지 논의에 대비한 기업 근태관리 점검 체크리스트 7가지 2026년 들어 포괄임금제와 관련해 기업의 근로시간 기록과 근태관리 중요성이 더욱 커지고 있습니다. 고용노동부는 「포괄임금 오... 2026-09-",
+     "body": "",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "시프티 블로그",
+       "url": "https://shiftee.io/ko/blog/article/wage-system-reform-attendance-checklist-7",
+       "title": "포괄임금제 폐지 논의에 대비한 기업 근태관리 점검 체크리스트 7가지 2026년 들어 포괄임금제와 관련해 기업의 근로시간 기록과 근태관리 중요성이 더욱 커지고 있습니다. 고용노동부는 「포괄임금 오... 2026-09-",
+       "date": "2026-10-05"
+      }
+     ],
+     "date": "2026-10-05"
+    },
+    {
+     "id": "20261005-f17",
+     "cat": "labor",
+     "importance": "low",
+     "teams": [
+      "노무·ER",
+      "보상·복리후생"
+     ],
+     "company": "시프티 블로그",
+     "title": "2027 임금구분지급제 시행: 주요 내용과 사업장 대응 기준 2027년 1월 1일부터 도급사업의 임금 비용 구분지급에 관한 근로기준법 제44조의4가 시행됩니다. 신설된 조항에 따라 일정한... 2026-09-03",
+     "body": "",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "시프티 블로그",
+       "url": "https://shiftee.io/ko/blog/article/subcontract-wage-cost-separation",
+       "title": "2027 임금구분지급제 시행: 주요 내용과 사업장 대응 기준 2027년 1월 1일부터 도급사업의 임금 비용 구분지급에 관한 근로기준법 제44조의4가 시행됩니다. 신설된 조항에 따라 일정한... 2026-09-03",
+       "date": "2026-10-05"
+      }
+     ],
+     "date": "2026-10-05"
+    },
+    {
+     "id": "20261005-f18",
+     "cat": "labor",
+     "importance": "low",
+     "teams": [
+      "노무·ER",
+      "보상·복리후생"
+     ],
+     "company": "시프티 블로그",
+     "title": "근로기준법 5인 미만 사업장 적용 범위와 상시근로자 수 계산 기준 상시근로자 수는 원칙적으로 법 적용 사유 발생일 전 1개월 동안 사용한 근로자의 연인원을 같은 기간의 가동일수로 나누어 산정합... 2026-08-3",
+     "body": "",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "시프티 블로그",
+       "url": "https://shiftee.io/ko/blog/article/employee-count-standard-and-workplace-coverage",
+       "title": "근로기준법 5인 미만 사업장 적용 범위와 상시근로자 수 계산 기준 상시근로자 수는 원칙적으로 법 적용 사유 발생일 전 1개월 동안 사용한 근로자의 연인원을 같은 기간의 가동일수로 나누어 산정합... 2026-08-3",
+       "date": "2026-10-05"
+      }
+     ],
+     "date": "2026-10-05"
+    },
+    {
+     "id": "20261005-f19",
+     "cat": "labor",
+     "importance": "low",
+     "teams": [
+      "노무·ER",
+      "보상·복리후생"
+     ],
+     "company": "시프티 블로그",
+     "title": "2026년 노동감독관 직무집행법 시행: 지방 노동감독 대상과 범위 2026년 12월 8일부터 「노동감독관 직무집행법」이 시행됩니다. 이 법에 따라 중앙노동감독관과 지방노동감독관을 구분하고, 고... 2026-08-2",
+     "body": "",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "시프티 블로그",
+       "url": "https://shiftee.io/ko/blog/article/local-labor-inspection-law-preparation-guide",
+       "title": "2026년 노동감독관 직무집행법 시행: 지방 노동감독 대상과 범위 2026년 12월 8일부터 「노동감독관 직무집행법」이 시행됩니다. 이 법에 따라 중앙노동감독관과 지방노동감독관을 구분하고, 고... 2026-08-2",
+       "date": "2026-10-05"
+      }
+     ],
+     "date": "2026-10-05"
+    },
+    {
+     "id": "20261005-f20",
+     "cat": "labor",
+     "importance": "low",
+     "teams": [
+      "노무·ER",
+      "보상·복리후생"
+     ],
+     "company": "시프티 블로그",
+     "title": "ERP·근태관리 연동 가이드: 데이터 관리 기준과 주요 체크사항 기업의 인사 운영에서는 인사정보뿐 아니라 근무일정, 출퇴근기록, 휴가, 근로시간 등 다양한 근태 데이터를 함께 관리해야 합니다... 2026-08-26",
+     "body": "",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "시프티 블로그",
+       "url": "https://shiftee.io/ko/blog/article/erp-integration-attendance-management-data-consistency",
+       "title": "ERP·근태관리 연동 가이드: 데이터 관리 기준과 주요 체크사항 기업의 인사 운영에서는 인사정보뿐 아니라 근무일정, 출퇴근기록, 휴가, 근로시간 등 다양한 근태 데이터를 함께 관리해야 합니다... 2026-08-26",
+       "date": "2026-10-05"
+      }
+     ],
+     "date": "2026-10-05"
+    },
+    {
+     "id": "20261005-f21",
+     "cat": "labor",
+     "importance": "low",
+     "teams": [
+      "노무·ER",
+      "보상·복리후생"
+     ],
+     "company": "시프티 블로그",
+     "title": "전자근로계약 시스템 도입 전 확인할 주요 기능과 체크리스트 전자 근로계약서는 많은 기업이 계약 업무의 디지털 전환을 위해 도입하는 계약 관리 방식으로 자리 잡고 있습니다. 종이 계약서를... 2026-08-21",
+     "body": "",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "시프티 블로그",
+       "url": "https://shiftee.io/ko/blog/article/e-signature-attendance-management-checklist",
+       "title": "전자근로계약 시스템 도입 전 확인할 주요 기능과 체크리스트 전자 근로계약서는 많은 기업이 계약 업무의 디지털 전환을 위해 도입하는 계약 관리 방식으로 자리 잡고 있습니다. 종이 계약서를... 2026-08-21",
+       "date": "2026-10-05"
+      }
+     ],
+     "date": "2026-10-05"
+    },
+    {
+     "id": "20261005-f22",
+     "cat": "labor",
+     "importance": "low",
+     "teams": [
+      "노무·ER",
+      "보상·복리후생"
+     ],
+     "company": "고용노동부 보도자료",
+     "title": "(참고) 「(가칭) 메가특구특별법 관련 원포인트 사회적 대화」 제2차 실무협의체 개최",
+     "body": "",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "고용노동부 보도자료",
+       "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=20042",
+       "title": "(참고) 「(가칭) 메가특구특별법 관련 원포인트 사회적 대화」 제2차 실무협의체 개최",
+       "date": "2026-10-05"
+      }
+     ],
+     "date": "2026-10-05"
+    },
+    {
+     "id": "20261005-f23",
+     "cat": "labor",
+     "importance": "low",
+     "teams": [
+      "노무·ER",
+      "보상·복리후생"
+     ],
+     "company": "고용노동부 보도자료",
+     "title": "인공지능(AI)·디지털 기반 직업훈련 지원 한국기술교육대 STEP, 학습관리시스템(LMS) 신규 참여기관 모집",
+     "body": "",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "고용노동부 보도자료",
+       "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=20039",
+       "title": "인공지능(AI)·디지털 기반 직업훈련 지원 한국기술교육대 STEP, 학습관리시스템(LMS) 신규 참여기관 모집",
+       "date": "2026-10-05"
+      }
+     ],
+     "date": "2026-10-05"
+    },
+    {
+     "id": "20261005-f24",
+     "cat": "labor",
+     "importance": "low",
+     "teams": [
+      "노무·ER",
+      "보상·복리후생"
+     ],
+     "company": "고용노동부 보도자료",
+     "title": "“지역인적자원개발위원회, 지역 인력양성 우수성과 공유의 장 마련”",
+     "body": "",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "고용노동부 보도자료",
+       "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=20038",
+       "title": "“지역인적자원개발위원회, 지역 인력양성 우수성과 공유의 장 마련”",
+       "date": "2026-10-05"
+      }
+     ],
+     "date": "2026-10-05"
+    }
+   ]
+  },
   {
    "date": "2026-10-02",
    "window_days": 1,
