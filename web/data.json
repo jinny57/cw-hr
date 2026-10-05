@@ -56,9 +56,639 @@
     ]
    }
   ],
-  "updated": "2026-10-05T08:50+09:00"
+  "updated": "2026-10-06T08:49+09:00"
  },
  "reports": [
+  {
+   "date": "2026-10-06",
+   "window_days": 1,
+   "article_count": 233,
+   "engine": "없음(제목 기준)",
+   "headline": "오늘은 AI 분석이 실패해 제목 기준으로만 골랐어요",
+   "points": [
+    "수집 기사 233건 중 HR 관련 단어가 있는 25건만 올렸어요",
+    "시사점·팀 태그 없이 기사 제목만 보여드려요"
+   ],
+   "analysis_error": "AI 분석 실패 — 모델 'gemini-2.5-flash'을 찾을 수 없어요 / 모델 'gemini-flash-latest'이 계속 혼잡해요 (HTTP 503) / 모델 'gemini-2.0-flash'을 찾을 수 없어요 / 예비 AI 키(ANTHROPIC_API_KEY)가 없어 Claude는 건너뛰었어요",
+   "items": [
+    {
+     "id": "20261006-f00",
+     "cat": "market",
+     "importance": "low",
+     "teams": [
+      "채용"
+     ],
+     "company": "메드월드뉴스",
+     "title": "차병원·차바이오그룹 2026년 신입∙주니어 공채",
+     "body": "차병원·차바이오그룹 2026년 신입∙주니어 공채 메드월드뉴스",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "메드월드뉴스",
+       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE41MVBvNlNCZnVIb2JhLUh1d21lTV9CandiaklncEx0dDk1WGRpQzNsbUZTWmZTS1A1UGMxN3B5TWtfTDVMUjhjUERKTExhSHotX1dqbzZDVF82bGhsOTRsU0hVdl9nM1dwMFZwTw?oc=5",
+       "title": "차병원·차바이오그룹 2026년 신입∙주니어 공채",
+       "date": "2026-10-06"
+      }
+     ],
+     "date": "2026-10-06"
+    },
+    {
+     "id": "20261006-f01",
+     "cat": "market",
+     "importance": "low",
+     "teams": [
+      "채용"
+     ],
+     "company": "pharmnews.com",
+     "title": "사람 줄이면 비용도 줄까…제약·바이오 구조조정의 ‘두 번째 계산서’",
+     "body": "사람 줄이면 비용도 줄까…제약·바이오 구조조정의 ‘두 번째 계산서’ pharmnews.com",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "pharmnews.com",
+       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBlN1BtOGE0X3NEMHBETHowVmJIY0NoUkFPMzFXZlpSM2NEaEpOR2ZUNkJIYlJJOHlwMkVMeXdVVXRyRmNWRHNidnhRX1k5SGFaOEJKZkxHbDhZZTBHeUN4MDZBMmdPUk1yeEJJVA?oc=5",
+       "title": "사람 줄이면 비용도 줄까…제약·바이오 구조조정의 ‘두 번째 계산서’",
+       "date": "2026-10-06"
+      }
+     ],
+     "date": "2026-10-06"
+    },
+    {
+     "id": "20261006-f02",
+     "cat": "market",
+     "importance": "low",
+     "teams": [
+      "채용"
+     ],
+     "company": "동아일보",
+     "title": "[단독]‘20대 직원’ 줄어든 대기업, 비중 20%도 깨졌다",
+     "body": "[단독]‘20대 직원’ 줄어든 대기업, 비중 20%도 깨졌다 동아일보",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "동아일보",
+       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBnREFBSEk2RGZYc3ptYnUyRTk1MmRFQ0xBV3JTZzNVSzVDSzJkamZxeHZwNlVJUjJ4UU1SN3VsNzVEUHhlTlNMQjROUkxsUVNrRl9wTXRvbEYyd3ZjZE9rS1VSVlB2aG9JR0IxcDJaYUpqVnpEYXfSAWZBVV95cUxPQVBxYW1KbzZpb3gzbG1yWGdqUnZ2dXBjcFoyVEFacmZHY2p0N1RyMzJieGxaMUJnSnZPR0VlTk03bmpMY0lScnFfVWw3Qzk0dGJtQXY0OWpfWVZiZHJmRS1jaHZLOWc?oc=5",
+       "title": "[단독]‘20대 직원’ 줄어든 대기업, 비중 20%도 깨졌다",
+       "date": "2026-10-06"
+      }
+     ],
+     "date": "2026-10-06"
+    },
+    {
+     "id": "20261006-f03",
+     "cat": "market",
+     "importance": "low",
+     "teams": [
+      "채용"
+     ],
+     "company": "Samsung Global Newsroom",
+     "title": "[영상] 세계 무대에서 빛난 기술 국가대표들… 삼성전자와 함께한 ‘2026 상하이 국제기능올림픽’ 도전기",
+     "body": "[영상] 세계 무대에서 빛난 기술 국가대표들… 삼성전자와 함께한 ‘2026 상하이 국제기능올림픽’ 도전기 Samsung Global Newsroom",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "Samsung Global Newsroom",
+       "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQNGFUcF90OS1LSVFXN3NIeHJMZlNGUGtlZG5HUHBBVDBGUGp1SERnMGFsdG1GTUxYdHVJMDZlNzVEX3kxcVRDYzB0WHozd3hsUjJzZm4zMHhreUVPQVY5cXdvZEZoOFhLLTItcWFfeFd2TE1yelBST1FUYUNzWUMxbVZ4TlpCXzhBd3VETkRiY3doQ3MzTVV3dDQ2OFV6VFNsOWZNamVBRnRvMTVoay14WF9KYlBldUJoQVR4MmxwNGpVRzhYR3hXZGV3OGRySjdOdUhkbDVYemg4ckUtSjNWNlBjMGp5TlBTdmRsV0xqb1pueFJWaFlNamVIYWJjR0ZlMUQ0NGgwcEFOWmJSY0tKNkJHcXBrdTBwaWFZVHpxU1piLWJ0amVwbEVLT2lveF9ubUtIQWZXb2Qxdw?oc=5",
+       "title": "[영상] 세계 무대에서 빛난 기술 국가대표들… 삼성전자와 함께한 ‘2026 상하이 국제기능올림픽’ 도전기",
+       "date": "2026-10-06"
+      }
+     ],
+     "date": "2026-10-06"
+    },
+    {
+     "id": "20261006-f04",
+     "cat": "market",
+     "importance": "low",
+     "teams": [
+      "채용"
+     ],
+     "company": "v.daum.net",
+     "title": "자동차도 AI도 결국 '사람'…현대차·테슬라, SDV 인재 쟁탈전",
+     "body": "자동차도 AI도 결국 '사람'…현대차·테슬라, SDV 인재 쟁탈전 v.daum.net",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "v.daum.net",
+       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5SVEIxMGpoQ1Y2dHVzSjU3OFhwTGMwYk9qVWJEUGtvNkV0S205RERzamVISkJ1UDJKVHBMNkdfa2E2bUNhMlJOVmJRbmgyLTA?oc=5",
+       "title": "자동차도 AI도 결국 '사람'…현대차·테슬라, SDV 인재 쟁탈전",
+       "date": "2026-10-06"
+      }
+     ],
+     "date": "2026-10-06"
+    },
+    {
+     "id": "20261006-f05",
+     "cat": "market",
+     "importance": "low",
+     "teams": [
+      "채용"
+     ],
+     "company": "리버럴미디어",
+     "title": "군포시 성민재가노인복지센터, '어르신 찾아가는 생신잔치' 성료",
+     "body": "군포시 성민재가노인복지센터, '어르신 찾아가는 생신잔치' 성료 리버럴미디어",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "리버럴미디어",
+       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE44Mi1DWll6RlR4anRNZlNmcG5VQWVxN01YUkQzSWdEeUNPZGtrdHhiOThEVlc5R25lVFpTZzViT2J3Tlk3MWFFZmVZRGpOMEhGNjc3XzlxekNnelh0OWxheVlhMkU?oc=5",
+       "title": "군포시 성민재가노인복지센터, '어르신 찾아가는 생신잔치' 성료",
+       "date": "2026-10-06"
+      }
+     ],
+     "date": "2026-10-06"
+    },
+    {
+     "id": "20261006-f06",
+     "cat": "market",
+     "importance": "low",
+     "teams": [
+      "채용"
+     ],
+     "company": "Calgary Roughnecks",
+     "title": "기능보다 화면부터 익히고 싶은 분을 위한 카카오 블록 체인 채용",
+     "body": "기능보다 화면부터 익히고 싶은 분을 위한 카카오 블록 체인 채용 Calgary Roughnecks",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "Calgary Roughnecks",
+       "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOYzJQcE9IRGp2T084WHFTU1h4UDQyN0FLdmZDVzFocmhtTld1VUtQSks3TnlOejRfSDVqUWpYYlBCOXNJR0dnTlExWTBOWVotN215S2NpbWdOdldWbkxoN0lfQmZXdGpBa1E5ZnZlVUdMUkxxamVXa00ydHdkdmVwelZZQkdnMFhrQ1Fkd3dsbFhFeS1wT0hOWTNyQzFUSmtMRTVvbk5La19OR0MyMTRlWU1tSHY5VGdXZ0dtN3lUbVhYZGN1ODhHczRxUU9NOVRlWDVJbnNYV21icXFVRW4wUGgzd2pNS2dJZzZLV1FQWVpiMzM5WmNobkVfbw?oc=5",
+       "title": "기능보다 화면부터 익히고 싶은 분을 위한 카카오 블록 체인 채용",
+       "date": "2026-10-06"
+      }
+     ],
+     "date": "2026-10-06"
+    },
+    {
+     "id": "20261006-f07",
+     "cat": "market",
+     "importance": "low",
+     "teams": [
+      "채용"
+     ],
+     "company": "재경일보",
+     "title": "감원 한파 뚫고 7% 급증…AI 해킹 막을 '방패' 찾아라 : 기업·산업",
+     "body": "감원 한파 뚫고 7% 급증…AI 해킹 막을 '방패' 찾아라 : 기업·산업 재경일보",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "재경일보",
+       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBvamNaZktyRGJBb3JfYkxRNWNHNnZXUEtpZnRuRzVIV3g0SF9FbGw4SzBrYkVZX053eWlDeHpTb09qMG1XWVFnNEZmSQ?oc=5",
+       "title": "감원 한파 뚫고 7% 급증…AI 해킹 막을 '방패' 찾아라 : 기업·산업",
+       "date": "2026-10-06"
+      }
+     ],
+     "date": "2026-10-06"
+    },
+    {
+     "id": "20261006-f08",
+     "cat": "labor",
+     "importance": "low",
+     "teams": [
+      "노무·ER",
+      "보상·복리후생"
+     ],
+     "company": "매일노동뉴스",
+     "title": "[인사] 고용노동부",
+     "body": "[인사] 고용노동부 매일노동뉴스",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "매일노동뉴스",
+       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE16Z2FGYjRUeDJrM3k5UE5FalJTUFdjUGZueXNqVmZOWkRlTGVibldYcG5UX2xqUFdZQkVhUHlrWE0zYWdGRllEaVBmcUx3b0tSTHNOb1ZzR1RjYUZqTzBMcG4xYmJSUk9HLWhVdnFrTjQ?oc=5",
+       "title": "[인사] 고용노동부",
+       "date": "2026-10-06"
+      }
+     ],
+     "date": "2026-10-06"
+    },
+    {
+     "id": "20261006-f09",
+     "cat": "labor",
+     "importance": "low",
+     "teams": [
+      "노무·ER",
+      "보상·복리후생"
+     ],
+     "company": "저스트 이코노믹스",
+     "title": "양천구, '2026 양성평등정책대상' 고용노동부 장관상 수상",
+     "body": "양천구, '2026 양성평등정책대상' 고용노동부 장관상 수상 저스트 이코노믹스",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "저스트 이코노믹스",
+       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBJQjI0VWItWTYwYlBKdXFaX3F4R1lBTFcwY0FBV2dCZTEwSkRIX01mcndtRGs1YnF3eFNjWUtjS3RReW56bFh3RlUtMEZKbW9KZy1HYlgtU1lKRk5qdE9v?oc=5",
+       "title": "양천구, '2026 양성평등정책대상' 고용노동부 장관상 수상",
+       "date": "2026-10-06"
+      }
+     ],
+     "date": "2026-10-06"
+    },
+    {
+     "id": "20261006-f10",
+     "cat": "labor",
+     "importance": "low",
+     "teams": [
+      "노무·ER",
+      "보상·복리후생"
+     ],
+     "company": "강원도민일보",
+     "title": "[새의자] 최관병 중부지방고용노동청장",
+     "body": "[새의자] 최관병 중부지방고용노동청장 강원도민일보",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "강원도민일보",
+       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5fNm02eWpwTVFoSkNzeVMyYm16RlN3WnRwaFc1VVRwRV8yTnpKUGhUSU9RUTYya1JncG1jQ1BKeDBWMkFnMG1qSjdGYi1TbVVaRHJQQXBMV0pWOUFRb0x4VHM4LW5oR2s?oc=5",
+       "title": "[새의자] 최관병 중부지방고용노동청장",
+       "date": "2026-10-06"
+      }
+     ],
+     "date": "2026-10-06"
+    },
+    {
+     "id": "20261006-f11",
+     "cat": "labor",
+     "importance": "low",
+     "teams": [
+      "노무·ER",
+      "보상·복리후생"
+     ],
+     "company": "매일노동뉴스",
+     "title": "태업을 사유로 임금을 공제할 수 있나요",
+     "body": "태업을 사유로 임금을 공제할 수 있나요 매일노동뉴스",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "매일노동뉴스",
+       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Xdkc1ZC0ya3NVQVhiMEwzLXFZc1NNZ29NSldWMFZOMElZRXcwSlAwNHd1ZW0tbjZPYmx3elJ5aFJQcXVVeXUxVVI4YlBybDRUVS1OcUR0Rl9JaTRrc2hhdlc2bm56NVpQYzJ5ZG5ZNm8?oc=5",
+       "title": "태업을 사유로 임금을 공제할 수 있나요",
+       "date": "2026-10-06"
+      }
+     ],
+     "date": "2026-10-06"
+    },
+    {
+     "id": "20261006-f12",
+     "cat": "labor",
+     "importance": "low",
+     "teams": [
+      "노무·ER",
+      "보상·복리후생"
+     ],
+     "company": "v.daum.net",
+     "title": "[단독] “준다는데 왜 못 받나”… 20대가 놓친 근로장려금 851억",
+     "body": "[단독] “준다는데 왜 못 받나”… 20대가 놓친 근로장려금 851억 v.daum.net",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "v.daum.net",
+       "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFAxN3BrUEl2LXRHdGFEV2dOYnFzbTlMUEh4OXFJTmFBWmhXeGZPSURqWG9paVNwY1NZWGRtN0JoS2dHRlRfTWc?oc=5",
+       "title": "[단독] “준다는데 왜 못 받나”… 20대가 놓친 근로장려금 851억",
+       "date": "2026-10-06"
+      }
+     ],
+     "date": "2026-10-06"
+    },
+    {
+     "id": "20261006-f13",
+     "cat": "labor",
+     "importance": "low",
+     "teams": [
+      "노무·ER",
+      "보상·복리후생"
+     ],
+     "company": "연합뉴스",
+     "title": "관악구, 이달 온라인 채용관 운영…13일엔 구청서 취업박람회",
+     "body": "관악구, 이달 온라인 채용관 운영…13일엔 구청서 취업박람회 연합뉴스",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "연합뉴스",
+       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9OcjYtNEJwdlpiTTdGbmlYSEgtX0lYVHlZb2hxUXZDWXdoa2Facy1XLXB5STFfNXVTcDJhM1NvUDNoT296cGlsdTJyZEo5Sll0MWUyQ3EyMnBEZ2vSAWBBVV95cUxNSVlFdmtubHpCaEJXRVg2bzc0STJ2UktpVE8xMkR3MXlZVFB2aTRwVnF0NmhmczVCY05jVWtaZ3gxbTJxMXp4dDAxSTJRSmNsVkU1TDFveDJsd2wyZG9ETUk?oc=5",
+       "title": "관악구, 이달 온라인 채용관 운영…13일엔 구청서 취업박람회",
+       "date": "2026-10-06"
+      }
+     ],
+     "date": "2026-10-06"
+    },
+    {
+     "id": "20261006-f14",
+     "cat": "labor",
+     "importance": "low",
+     "teams": [
+      "노무·ER",
+      "보상·복리후생"
+     ],
+     "company": "위클리코리아",
+     "title": "오클랜드 병원 ‘직장 내 괴롭힘’",
+     "body": "오클랜드 병원 ‘직장 내 괴롭힘’ 위클리코리아",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "위클리코리아",
+       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPUWI5TklZSHpndHVxamtNbWYzaGItd0Z1Y0NBZnZfVWNZdHgybFJ3SnRFbWpvRjItaldrMGhmM2NXOEVhSTJWRVVBZWZjRFVVNUt5NXo5MXRyZkRxTEwyRENHYkdCUTU2cUp6RTViM2h6RWRla1F3RkVXT1k3RERSYUdadjRTMUlfMEd3b0Nzc2tPdmdOVVdYQ1RucnlFdU5xdWU4ZE9NRDFxY1ZsTXJTN0FXMW15dndielNLM2JkcXFraGRmRVl4Q1JqOFhpM2c4djl1eHhNaFJwenFIaDMxUg?oc=5",
+       "title": "오클랜드 병원 ‘직장 내 괴롭힘’",
+       "date": "2026-10-06"
+      }
+     ],
+     "date": "2026-10-06"
+    },
+    {
+     "id": "20261006-f15",
+     "cat": "ecom",
+     "importance": "low",
+     "teams": [
+      "인사기획",
+      "채용"
+     ],
+     "company": "v.daum.net",
+     "title": "[단독] 국정원 직원 파견, 미국이 비자 거부",
+     "body": "[단독] 국정원 직원 파견, 미국이 비자 거부 v.daum.net",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "v.daum.net",
+       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAyXzYwdE9qWXZhOGppUGNScVB3dDh1TjVkQkdZZXNmTEtRbzNCOVFxS1d2UVZqSVpCM0g4cHhLQlF1aUVzLUY5SldMdUVfX2M?oc=5",
+       "title": "[단독] 국정원 직원 파견, 미국이 비자 거부",
+       "date": "2026-10-06"
+      }
+     ],
+     "date": "2026-10-06"
+    },
+    {
+     "id": "20261006-f16",
+     "cat": "ecom",
+     "importance": "low",
+     "teams": [
+      "인사기획",
+      "채용"
+     ],
+     "company": "네이버 프리미엄콘텐츠",
+     "title": "무신사차이나 김대현 대표 사임…중국 사업 새 단계로",
+     "body": "무신사차이나 김대현 대표 사임…중국 사업 새 단계로 네이버 프리미엄콘텐츠",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "네이버 프리미엄콘텐츠",
+       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPY1ZuU2l6eGpoUlNSZVlUMDhzZ2xQOGNiQlVfcmdFUFp1eTUwMnpnbmYyVHhDZlJSZlBGejBvNHA0NExkTDloZTFUaWVOWHFYYmVrOGdjcmZ5cGhPMU1fT3UyN1lDZnZaaGxPSFBwRVlDc1I5TnAtUkd4Und1Q1VaSA?oc=5",
+       "title": "무신사차이나 김대현 대표 사임…중국 사업 새 단계로",
+       "date": "2026-10-06"
+      }
+     ],
+     "date": "2026-10-06"
+    },
+    {
+     "id": "20261006-f17",
+     "cat": "ecom",
+     "importance": "low",
+     "teams": [
+      "인사기획",
+      "채용"
+     ],
+     "company": "서프라이즈뉴스",
+     "title": "파주시 취업박람회, 49개 기업 참여 확정…430여명 채용 예정",
+     "body": "파주시 취업박람회, 49개 기업 참여 확정…430여명 채용 예정 서프라이즈뉴스",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "서프라이즈뉴스",
+       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBQbmZLTjF1bS1ZX3g0TmZIQkRoLWJsM2JmeGg2Y2dPMW1rQUxBeVBlRko5Vjlya2FaNUZRU1REM3k1UkZEeUxCYlhVVXJla3dTbnhhd0dBVVd0MmxzUmU4dDJvdW5KcUI0RFh3Z3BB?oc=5",
+       "title": "파주시 취업박람회, 49개 기업 참여 확정…430여명 채용 예정",
+       "date": "2026-10-06"
+      }
+     ],
+     "date": "2026-10-06"
+    },
+    {
+     "id": "20261006-f18",
+     "cat": "market",
+     "importance": "low",
+     "teams": [
+      "채용"
+     ],
+     "company": "잡플래닛 콘텐츠",
+     "title": "5 “연차 무제한인데 업계 최고 연봉” 중소기업은 어디?",
+     "body": "",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "잡플래닛 콘텐츠",
+       "url": "https://www.jobplanet.co.kr/contents/news-8472",
+       "title": "5 “연차 무제한인데 업계 최고 연봉” 중소기업은 어디?",
+       "date": "2026-10-06"
+      }
+     ],
+     "date": "2026-10-06"
+    },
+    {
+     "id": "20261006-f19",
+     "cat": "labor",
+     "importance": "low",
+     "teams": [
+      "노무·ER",
+      "보상·복리후생"
+     ],
+     "company": "시프티 블로그",
+     "title": "평균임금 계산 방법과 임금 범위, 평균임금과 통상임금 차이점 평균임금을 정확하게 계산하려면 산정기간과 임금의 범위를 함께 확인해야 합니다. 산정 사유가 발생한 시점과 근로자의 휴직 여부 ... 2026-09-24",
+     "body": "",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "시프티 블로그",
+       "url": "https://shiftee.io/ko/blog/article/average-wage-vs-ordinary-wage-comparison",
+       "title": "평균임금 계산 방법과 임금 범위, 평균임금과 통상임금 차이점 평균임금을 정확하게 계산하려면 산정기간과 임금의 범위를 함께 확인해야 합니다. 산정 사유가 발생한 시점과 근로자의 휴직 여부 ... 2026-09-24",
+       "date": "2026-10-06"
+      }
+     ],
+     "date": "2026-10-06"
+    },
+    {
+     "id": "20261006-f20",
+     "cat": "labor",
+     "importance": "low",
+     "teams": [
+      "노무·ER",
+      "보상·복리후생"
+     ],
+     "company": "시프티 블로그",
+     "title": "금융권 근태관리, 조직별 근무제도와 다지점 운영 방법 알아보기 금융권은 하나의 기업 안에서도 본점과 지점, 고객 응대 조직 등 조직별 업무 환경과 근무 형태가 다양할 수 있습니다. 본점의 ... 2026-09-23",
+     "body": "",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "시프티 블로그",
+       "url": "https://shiftee.io/ko/blog/article/finance-multi-branch-attendance-management",
+       "title": "금융권 근태관리, 조직별 근무제도와 다지점 운영 방법 알아보기 금융권은 하나의 기업 안에서도 본점과 지점, 고객 응대 조직 등 조직별 업무 환경과 근무 형태가 다양할 수 있습니다. 본점의 ... 2026-09-23",
+       "date": "2026-10-06"
+      }
+     ],
+     "date": "2026-10-06"
+    },
+    {
+     "id": "20261006-f21",
+     "cat": "labor",
+     "importance": "low",
+     "teams": [
+      "노무·ER",
+      "보상·복리후생"
+     ],
+     "company": "시프티 블로그",
+     "title": "공휴일과 휴일이 겹치는 경우, 유급휴일 적용과 임금 처리 방법 공휴일이 주휴일이나 휴무일과 겹치는 경우, 휴일을 추가로 부여해야 하는지, 임금은 어떻게 처리해야 하는지 사업장에서의 판단이 ... 2026-09-17",
+     "body": "",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "시프티 블로그",
+       "url": "https://shiftee.io/ko/blog/article/public-holiday-rest-day-overlap-wage-rules",
+       "title": "공휴일과 휴일이 겹치는 경우, 유급휴일 적용과 임금 처리 방법 공휴일이 주휴일이나 휴무일과 겹치는 경우, 휴일을 추가로 부여해야 하는지, 임금은 어떻게 처리해야 하는지 사업장에서의 판단이 ... 2026-09-17",
+       "date": "2026-10-06"
+      }
+     ],
+     "date": "2026-10-06"
+    },
+    {
+     "id": "20261006-f22",
+     "cat": "labor",
+     "importance": "low",
+     "teams": [
+      "노무·ER",
+      "보상·복리후생"
+     ],
+     "company": "시프티 블로그",
+     "title": "프랑스 노동법 알아보기: 근로시간·연결차단권·최저임금 등 주요 기준 프랑스는 노동 관련 사항을 노동법전(Code du travail)으로 규율하고 있습니다. 법정 근로시간, 연장근로, 휴식시간,... 2026-09-",
+     "body": "",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "시프티 블로그",
+       "url": "https://shiftee.io/ko/blog/article/france-labor-law-working-hours-leave-guide",
+       "title": "프랑스 노동법 알아보기: 근로시간·연결차단권·최저임금 등 주요 기준 프랑스는 노동 관련 사항을 노동법전(Code du travail)으로 규율하고 있습니다. 법정 근로시간, 연장근로, 휴식시간,... 2026-09-",
+       "date": "2026-10-06"
+      }
+     ],
+     "date": "2026-10-06"
+    },
+    {
+     "id": "20261006-f23",
+     "cat": "labor",
+     "importance": "low",
+     "teams": [
+      "노무·ER",
+      "보상·복리후생"
+     ],
+     "company": "시프티 블로그",
+     "title": "근로기준법 5인 미만 사업장 적용 범위와 상시근로자 수 계산 기준 상시근로자 수는 원칙적으로 법 적용 사유 발생일 전 1개월 동안 사용한 근로자의 연인원을 같은 기간의 가동일수로 나누어 산정합... 2026-08-3",
+     "body": "",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "시프티 블로그",
+       "url": "https://shiftee.io/ko/blog/article/employee-count-standard-and-workplace-coverage",
+       "title": "근로기준법 5인 미만 사업장 적용 범위와 상시근로자 수 계산 기준 상시근로자 수는 원칙적으로 법 적용 사유 발생일 전 1개월 동안 사용한 근로자의 연인원을 같은 기간의 가동일수로 나누어 산정합... 2026-08-3",
+       "date": "2026-10-06"
+      }
+     ],
+     "date": "2026-10-06"
+    },
+    {
+     "id": "20261006-f24",
+     "cat": "labor",
+     "importance": "low",
+     "teams": [
+      "노무·ER",
+      "보상·복리후생"
+     ],
+     "company": "시프티 블로그",
+     "title": "프랜차이즈 근태관리 가이드 : 본사·매장별 근무제도 운영 방법 프랜차이즈 기업은 본사와 직영점, 지역 운영 조직 등 여러 조직과 사업장을 함께 운영할 수 있으며, 조직과 직무에 따라 근무 ... 2026-08-28",
+     "body": "",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "시프티 블로그",
+       "url": "https://shiftee.io/ko/blog/article/franchise-attendance-management-headquarters-and-stores",
+       "title": "프랜차이즈 근태관리 가이드 : 본사·매장별 근무제도 운영 방법 프랜차이즈 기업은 본사와 직영점, 지역 운영 조직 등 여러 조직과 사업장을 함께 운영할 수 있으며, 조직과 직무에 따라 근무 ... 2026-08-28",
+       "date": "2026-10-06"
+      }
+     ],
+     "date": "2026-10-06"
+    }
+   ]
+  },
   {
    "date": "2026-10-05",
    "window_days": 3,
