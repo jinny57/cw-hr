@@ -589,7 +589,7 @@ def main():
 
     cfg = load_config()
     date = datetime.date.fromisoformat(args.date) if args.date else datetime.datetime.now(KST).date()
-    days = 3 if date.weekday() == 0 else 1  # 월요일엔 주말 포함 3일치
+    days = 1  # 매일 수집하므로 최근 1일치만 봐요
     print(f"🚀 {cfg['site_title']} — {date} 수집 시작")
 
     articles = collect_articles(cfg, date, days)
