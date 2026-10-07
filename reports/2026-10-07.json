@@ -1,445 +1,196 @@
 {
   "date": "2026-10-07",
   "window_days": 1,
-  "article_count": 317,
-  "engine": "없음(제목 기준)",
-  "headline": "오늘은 AI 분석이 실패해 제목 기준으로만 골랐어요",
+  "article_count": 299,
+  "engine": "gemini-3.8-flash",
+  "headline": "유통 구조조정 속 인재 유입 기회와 노동 규제 점검",
   "points": [
-    "수집 기사 317건 중 HR 관련 단어가 있는 25건만 올렸어요",
-    "시사점·팀 태그 없이 기사 제목만 보여드려요"
+    "홈플러스 희망퇴직 및 무신사 솔드아웃 서비스 종료로 이커머스·MD 인재 유입 신호 포착",
+    "네이버 직영 물류 전환 및 카페24의 D2C 데이터 기반 솔루션 경쟁 격화",
+    "2027 임금구분지급제 법제화 및 산단 불법파견 대규모 적발 등 외주·도급 노무 리스크 강화"
   ],
-  "analysis_error": "AI 분석 실패 — 모델 'gemini-2.5-flash'을 찾을 수 없어요 / 모델 'gemini-flash-latest'이 계속 혼잡해요 (HTTP 503) / 모델 'gemini-2.0-flash'을 찾을 수 없어요 / 예비 AI 키(ANTHROPIC_API_KEY)가 없어 Claude는 건너뛰었어요",
   "items": [
     {
-      "id": "20261007-f00",
-      "cat": "market",
-      "importance": "low",
+      "cat": "labor",
+      "importance": "high",
+      "company": "고용노동부",
+      "title": "노동부 산단 기획감독서 불법파견 136명 적발 및 직접고용 명령",
+      "body": "고용노동부가 안산 산단지역 19개 사업장을 감독한 결과 18곳에서 법 위반을 적발했어요. 무허가 인력업체 등을 통한 불법파견 노동자 136명에 대해 원청 제조업체에 직접고용 시정지시를 내렸어요.",
+      "insight": "제조업뿐 아니라 물류 풀필먼트 및 배송 거점에서도 파견법 위반 단속 강도가 크게 높아지는 추세예요.",
+      "action": "몰테일·스윗트래커 물류센터 현장의 인력공급 업체 적격성 및 도급 운영 실태를 현장 실사해 보세요.",
       "teams": [
-        "채용"
+        "노무·ER",
+        "인사기획"
       ],
-      "company": "히트뉴스",
-      "title": "[경력채용] 한림제약, 휴메딕스, GC녹십자웰빙, 삼익제약, 차바이오텍",
-      "body": "[경력채용] 한림제약, 휴메딕스, GC녹십자웰빙, 삼익제약, 차바이오텍 히트뉴스",
-      "insight": "",
-      "action": "",
-      "tags": [],
+      "tags": [
+        "불법파견",
+        "직접고용",
+        "고용노동부",
+        "물류노무"
+      ],
       "our_group": false,
       "sources": [
         {
-          "name": "히트뉴스",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBOU0FJVWNmU3lQUGUxOFNvRUcxLUNJY25xZ3lacERkc056NlFPVFZUUVRfSDc5dDVNMkRWUS1sczAxVTFwdHcyRmhoU1FrSklxQVpnYWVlbXhmU3BNZjlqejlmMkpMdkJoQ3dn?oc=5",
-          "title": "[경력채용] 한림제약, 휴메딕스, GC녹십자웰빙, 삼익제약, 차바이오텍",
+          "name": "고용노동부 보도자료",
+          "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=20049",
+          "title": "안산 산단지역 불법파견 감독 결과 발표",
+          "date": "2026-10-07"
+        },
+        {
+          "name": "Daum",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBTQWlNQnN1RU1zZFI1RU12amhLVk0zaGN0RXpVQUxMNjJ4OHlBTnZOM2QtOEhla3drRnlkTlhlWUlGZUNaakdNRVRLbGZwV3M?oc=5",
+          "title": "노동부, 안산 산단서 불법 파견 136명 적발…제조업체 직접고용 명령",
+          "date": "2026-10-07"
+        },
+        {
+          "name": "뉴스핌",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9NaXhGWDVwNFhldjB5Q2VvcGlkdDdMa0FsUjBOVUE5clhMYzBlT01ybE9iVnBLdzhoYmJvQ0dnWHdDMjdQS2N0dFJwNGo5WmJPVFNKQ0NPb2NTWGM5?oc=5",
+          "title": "노동부, 안산서 136명 불법 파견 적발…직접고용 조치",
+          "date": "2026-10-07"
+        },
+        {
+          "name": "아주경제",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9LMDV1SHJKU245Y1Y2czFET0FQRDdOdE4yd0hEa3FQREZZaHo1S1R3NVZ1U280LTFSVnJrWHMyMlMwMVdNUjNxejM4YzhQVlZqeHFzbG5GRknSAVhBVV95cUxPSzA1dUhySlNuOWNWNnMxRE9BUEQ3TnROMndIRGtxUERGWWh6NUtUdzVWdVNvNC0xUlZya1hzMjJTMDFXTVIzcXozOGM4UFZWanhxc2xuRkZJ?oc=5",
+          "title": "안산산단 19곳 감독했더니 18곳이 법 위반…136명 불법파견 적발",
+          "date": "2026-10-07"
+        },
+        {
+          "name": "뉴스1",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE84SGhGNm13cWZERjVYT1lISUpJazd3aHVNNUEyRU1Rc1MwWHEyM2ZpY0ZySlBielBIdFZDVHBadnU4UkcwTTBEYnRiQ0lLTVJCalJnUWppSWZzTEtJNHlzTTFGRFlveDZ60gFoQVVfeXFMTzhIaEY2bXdxZkRGNVhPWUhJSklrN3dodU01QTJFTVFzUzBYcTIzZmljRnJKUGJ6UEh0VkNUcFp2dThSRzBNMERidGJDSUtNUkJqUmdRamlJZnNMS0k0eXNNMUZEWW94Nno?oc=5",
+          "title": "무허가 인력업체까지 제조라인 투입…안산 산단 136명 불법파견 적발",
+          "date": "2026-10-07"
+        },
+        {
+          "name": "더팩트",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBFTEMtMm0zZ1hndmFfeWljNUFDbU9tOG14YzNTV1NiTnpHX0s2NktaVnlTM01TVE5hbkVfT0VEV1NwWUdRam5MM2hLb3lhQ3RwOWd0c01B0gFQQVVfeXFMUGxSckowbFZEdkQybDRqbjZuV1NaSFBaNlQ4eXpLclEyd0w3Q05EVC1MekNWOGktN3EzeFRqa3hzOWs1N0VQNTFWdDNCY2Vsa0Y?oc=5",
+          "title": "안산 산단 인력업체 10곳, 제조업체에 근로자 136명 불법파견",
+          "date": "2026-10-07"
+        },
+        {
+          "name": "Daum",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1VU2dvVkVsNUppaTdGQ081NHVJcTByNlRWNlhjZ3drNm5oMUlLWlFLMUZlNzBwRkNJNURUN2FXQlV4LVZMWE1SM1o2WnppTkU?oc=5",
+          "title": "안산 산단 18곳 불법파견 적발…136명 직접고용 시정지시",
           "date": "2026-10-07"
         }
       ],
-      "date": "2026-10-07"
+      "date": "2026-10-07",
+      "id": "20261007-03"
     },
     {
-      "id": "20261007-f01",
       "cat": "market",
-      "importance": "low",
+      "importance": "high",
+      "company": "홈플러스",
+      "title": "홈플러스 본사 및 점포 대규모 희망퇴직 단행",
+      "body": "홈플러스가 사업장 축소와 경영난 속에 본사와 점포 직원을 대상으로 대규모 희망퇴직을 공식 시행해요. 미지급 급여와 상여금, 법정 퇴직금을 지급하는 조건으로 22일까지 신청을 접수받아요.",
+      "insight": "오프라인 유통 및 이커머스 사업 부문에서 숙련된 커머스 MD, 물류 운영, 영업 관리 인력풀이 대거 이직 시장에 풀릴 전망이에요.",
+      "action": "다나와·에누리 및 그룹 커머스 조직의 MD·소싱 포지션 타깃으로 홈플러스 퇴직 인력을 집중 스크리닝해 보세요.",
       "teams": [
         "채용"
       ],
-      "company": "연합뉴스",
-      "title": "IBK증권, SK하이닉스 목표가 400만원 유지…\"지나치게 저평가\"",
-      "body": "IBK증권, SK하이닉스 목표가 400만원 유지…\"지나치게 저평가\" 연합뉴스",
-      "insight": "",
-      "action": "",
-      "tags": [],
+      "tags": [
+        "희망퇴직",
+        "구조조정",
+        "MD채용",
+        "유통인재"
+      ],
       "our_group": false,
+      "talent": {
+        "level": "high",
+        "signal": "대규모 희망퇴직 진행 — MD·물류 운영 인력 시장 유입 예상"
+      },
       "sources": [
         {
           "name": "연합뉴스",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBweENUQVhObDN5WFhWeXFMekI4N1VWWlFpYUJWYVk4QlY2STNoSmtyOEhabjlRZkY4aGt1bWlPRmhiYUVNYlZOSEdqTDN4c1JSRnZ0TWM1M1B3WmvSAWBBVV95cUxQLWpTR1JyNUphNFhtdkFCVEhNeWVnUGFOdEY2b014V0VVN3NlZl81b3hrZGxRbnFmMnVwb3FHZ3NoN185NXN2MG96Qlp5VGFDUXZZWW5RU2s1aGZ5NXd1YlY?oc=5",
-          "title": "IBK증권, SK하이닉스 목표가 400만원 유지…\"지나치게 저평가\"",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA0SFB5MlJ4UDk5cDV6eV93YW1xdmlOQTZhZnJaY2NjTDE2SDFmb2dOMURwd0RnMFJXSEo3TWRoMnlxY293WFNITExMdUN1Q2ZCeVd5RHZLOEZTTG5MeXA4OdIBYEFVX3lxTFA0SFB5MlJ4UDk5cDV6eV93YW1xdmlOQTZhZnJaY2NjTDE2SDFmb2dOMURwd0RnMFJXSEo3TWRoMnlxY293WFNITExMdUN1Q2ZCeVd5RHZLOEZTTG5MeXA4OQ?oc=5",
+          "title": "홈플러스, 희망퇴직 시행…\"미지급 급여·퇴직금 지급\"",
+          "date": "2026-10-07"
+        },
+        {
+          "name": "Daum",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9YbjJ0RzBrRVRNSDBJSWo3aE1EN3JDRnhhVVBFWkpKeUNxVWE4WkQ5X1pxbXZkd2pfSFRRV2ptN0w0ZjVHNllESU1VU1poOEk?oc=5",
+          "title": "홈플러스, 희망퇴직 시행…“미지급 급여·상여금·퇴직금 지급”",
+          "date": "2026-10-07"
+        },
+        {
+          "name": "연합인포맥스",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1XQjR2ZDh5MFRHS25nRmVwY0hheFotSW1QRjRqS3lFeF9fN3JyM29zWF91LUdkR2tBNGdmemowMDNHUkV6eERJMEZONWREbnlMUE9wblJIVkVfN1JMVHc3U3VhOGw4QW5kNjk2ajl5LWE?oc=5",
+          "title": "홈플러스, 본사·점포 희망퇴직 시행…22일까지 접수",
+          "date": "2026-10-07"
+        },
+        {
+          "name": "비즈워치",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE14U2hhZnA5M2NKSUVRWUxPRUhLdWdMUHBQZFRPM3FNQzV4N21OYXdkbzkzckg1cFh0czktaV9XbWh3N3hiWnlteFlXWkFjNnZmRTdLY2E3emdDYUt2LTBkbi03RUVJcnZqVV9ZMw?oc=5",
+          "title": "사업장 반토막 난 홈플러스, 결국 희망퇴직 시행",
+          "date": "2026-10-07"
+        },
+        {
+          "name": "공감신문",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5kR2lwMVFzc05TNjdmamZKZlhHQlhuQnMySTVYSUxIVnhLUG1tMGh0Zy1icTRBMU83ajZpXzZfVGJ0Uk00NU9rWlVoVWZFbjliUTNWZGh6OHlJcnVrZGZBbXN0UTU0bDBs?oc=5",
+          "title": "홈플러스, 대규모 인력 구조조정 돌입…희망퇴직 시작 배경은?",
           "date": "2026-10-07"
         }
       ],
-      "date": "2026-10-07"
+      "date": "2026-10-07",
+      "id": "20261007-00"
     },
     {
-      "id": "20261007-f02",
-      "cat": "market",
-      "importance": "low",
+      "cat": "ecom",
+      "importance": "high",
+      "company": "무신사",
+      "title": "무신사, 리셀 플랫폼 '솔드아웃' 사업 종료 발표",
+      "body": "무신사가 6년 만에 한정판 리셀 플랫폼 솔드아웃 서비스를 전면 종료하기로 결정했어요. 상장을 앞두고 비수익 부실 사업을 과감히 정리하며 전사 차원의 내실 다지기에 나섰어요.",
+      "insight": "버티컬 커머스 플랫폼 인력의 대규모 재배치 또는 시장 이탈이 본격화될 수 있어요. 플랫폼 개발 및 검수·물류 인재 확보 찬스예요.",
+      "action": "솔드아웃 소속 개발, PO, 버티컬 물류 기획 인력 프로필을 서칭하여 다나와·몰테일 포지션 매칭을 검토해 보세요.",
       "teams": [
-        "채용"
+        "채용",
+        "인사기획"
       ],
-      "company": "약업닷컴",
-      "title": "[국감] 국정감사 돌입, 보건복지위 증인·참고인으로 미리 본 핵심 쟁점은?",
-      "body": "[국감] 국정감사 돌입, 보건복지위 증인·참고인으로 미리 본 핵심 쟁점은? 약업닷컴",
-      "insight": "",
-      "action": "",
-      "tags": [],
+      "tags": [
+        "솔드아웃",
+        "무신사",
+        "사업종료",
+        "인재영입"
+      ],
       "our_group": false,
+      "talent": {
+        "level": "mid",
+        "signal": "솔드아웃 서비스 종료 — 커머스 개발·PO 인력 이직 수요 증가"
+      },
       "sources": [
         {
-          "name": "약업닷컴",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE02WnFFNDFxcVZlY0I1cVJiSFN5UEVweVpYWml1azZ5MllXWi1lbGpyaUxDWEZRcU4wS1JUVlVEQnlyZ21IdGs0T2RHeG10NXU3Vm5OWHo5WUJjNjdTRk5aZVB0Mm1HX3gtUmZrVk81TGYyZw?oc=5",
-          "title": "[국감] 국정감사 돌입, 보건복지위 증인·참고인으로 미리 본 핵심 쟁점은?",
-          "date": "2026-10-07"
-        }
-      ],
-      "date": "2026-10-07"
-    },
-    {
-      "id": "20261007-f03",
-      "cat": "market",
-      "importance": "low",
-      "teams": [
-        "채용"
-      ],
-      "company": "매일경제",
-      "title": "경영권 인수 넘어 성장자본으로…PEF 순기능 살려야 [김앤장 금융·핀테크·가상자산 인사이트]",
-      "body": "경영권 인수 넘어 성장자본으로…PEF 순기능 살려야 [김앤장 금융·핀테크·가상자산 인사이트] 매일경제",
-      "insight": "",
-      "action": "",
-      "tags": [],
-      "our_group": false,
-      "sources": [
+          "name": "뉴시스",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE52VXlkbTN3STNvNW0tUVA3UVVUZHA0M296YmlvcjF3Rk10ei1uUnpXRlIzYi1MTnBvU1hrU0N1cGdrdGlHMUhRZXZSbkQ2dy1LbWFuNVp5eHhycWZpOVJfU0V2clBWZW9xZy1xcGt3Zkl4bEpuLUwtMdIBeEFVX3lxTE52VXlkbTN3STNvNW0tUVA3UVVUZHA0M296YmlvcjF3Rk10ei1uUnpXRlIzYi1MTnBvU1hrU0N1cGdrdGlHMUhRZXZSbkQ2dy1LbWFuNVp5eHhycWZpOVJfU0V2clBWZW9xZy1xcGt3Zkl4bEpuLUwtMQ?oc=5",
+          "title": "'슈테크' 저물고 리셀은 진화…솔드아웃 6년 만에 퇴장",
+          "date": "2026-10-06"
+        },
         {
-          "name": "매일경제",
-          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFB4aW1KLXhNTEl4NVlzSkkySlg1Qm9Gc1N6LUdwdkhLY1NidmV1MU96VTNtX0UyZkd5QkhrS1NQcDdJYTBNelE?oc=5",
-          "title": "경영권 인수 넘어 성장자본으로…PEF 순기능 살려야 [김앤장 금융·핀테크·가상자산 인사이트]",
-          "date": "2026-10-07"
+          "name": "어패럴뉴스",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5JRHNya210eEJLQUxhSE84VTEzZTNoQ1hMZjc5SUNPYzVxd3pic0h6bm54TXoybHc1Z2owbVJsMndKeFV5UmZIV2YxaEJPaHoxRlA4QUNqY0FSblpwZ0toZ0ZTNU82VHdlOHJwMXhwUlR6Zw?oc=5",
+          "title": "무신사, '솔드아웃' 종료…부실 사업 정리, 내실 다지기",
+          "date": "2026-10-06"
         }
       ],
-      "date": "2026-10-07"
+      "date": "2026-10-06",
+      "id": "20261007-01"
     },
     {
-      "id": "20261007-f04",
-      "cat": "market",
-      "importance": "low",
-      "teams": [
-        "채용"
-      ],
-      "company": "VOV World",
-      "title": "베트남 관광 경쟁력 제고를 위한 전면적 구조조정 추진…“핵심 경제 부문으로 도약”",
-      "body": "베트남 관광 경쟁력 제고를 위한 전면적 구조조정 추진…“핵심 경제 부문으로 도약” VOV World",
-      "insight": "",
-      "action": "",
-      "tags": [],
-      "our_group": false,
-      "sources": [
-        {
-          "name": "VOV World",
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQMEtvMENMTTJzMzF5NnQ2RE1fUmxTUUNSaUR5MVdLeDQtbEtYNUVWbDFUMGs0SW4wNE1IMmRudEUtZlp1QnZVWU5DOTV0Vi1BQUhrd0tlWkN5WmJqdno5Qi1rRTU3bnYyS083V2dGTUVXVUNTU0RYNVNweXk1MlRoMXN3RGU5YXoxQW5LVk1leUFyMUI4aXVsNjdRYUJ4OFk2WDBhR2wyaWJPVHhET0xUOTlicFY5c2p3TWpqY0tWcEZMMG9na2Nya1QwNHQ4NGNNSGRyYmplT0MyZ3hweWc?oc=5",
-          "title": "베트남 관광 경쟁력 제고를 위한 전면적 구조조정 추진…“핵심 경제 부문으로 도약”",
-          "date": "2026-10-07"
-        }
-      ],
-      "date": "2026-10-07"
-    },
-    {
-      "id": "20261007-f05",
-      "cat": "market",
-      "importance": "low",
-      "teams": [
-        "채용"
-      ],
-      "company": "데이터투자",
-      "title": "카리부 바이오사이언시스, CAR-T 치료제 개발 중단 계획 및 구조조정 승인…\"전략적 대안 모색\"",
-      "body": "카리부 바이오사이언시스, CAR-T 치료제 개발 중단 계획 및 구조조정 승인…\"전략적 대안 모색\" 데이터투자",
-      "insight": "",
-      "action": "",
-      "tags": [],
-      "our_group": false,
-      "sources": [
-        {
-          "name": "데이터투자",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5wcWdYeGxuRnBOVWVWcTl6RDJsVl9OT2hjbnliQ00tcTA4QWdETGQ0SUVMY2hQYTRsdlB1R015bm5Jb2tGeHREd3Q4d2tJSVpjbWpzSHhaTTF0akw5R2FxbWNrRmloSHdOZXFPcE5CQmUyOGM?oc=5",
-          "title": "카리부 바이오사이언시스, CAR-T 치료제 개발 중단 계획 및 구조조정 승인…\"전략적 대안 모색\"",
-          "date": "2026-10-07"
-        }
-      ],
-      "date": "2026-10-07"
-    },
-    {
-      "id": "20261007-f06",
       "cat": "labor",
-      "importance": "low",
+      "importance": "high",
+      "company": "고용노동부",
+      "title": "2027년 도급사업 임금구분지급제 시행 대비 권고",
+      "body": "2027년 1월 1일부터 도급사업에서 임금 비용을 다른 공사·용역 대금과 구분하여 지급하도록 의무화하는 근로기준법 제44조의4가 시행돼요. 적용 대상 사업장은 시스템 개편이 필요해요.",
+      "insight": "스윗트래커, 몰테일 등 물류 도급 및 고객센터 위탁 계약 시 인건비 분리 지급 프로세스와 정산 시스템을 사전에 갖춰야 해요.",
+      "action": "물류 및 고객센터 외주 도급 계약 현황을 전수 점검하고, 계약서 내 임금 구분 기재 방안을 법무팀과 협의해 보세요.",
       "teams": [
         "노무·ER",
         "보상·복리후생"
       ],
-      "company": "얼리어답터뉴스",
-      "title": "고용노동부 2026년 상반기 노동력조사: 건설·돌봄 인력 수요 확대, 사업주 대응 전략은",
-      "body": "고용노동부 2026년 상반기 노동력조사: 건설·돌봄 인력 수요 확대, 사업주 대응 전략은 얼리어답터뉴스",
-      "insight": "",
-      "action": "",
-      "tags": [],
-      "our_group": false,
-      "sources": [
-        {
-          "name": "얼리어답터뉴스",
-          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE53Zmx5U3NWOE1tZFJaX0dXVWZyUW0tSmZEOGlWWDlHMWhPT0tCNHJZc0tqTXl5VHFFTFdCVkNnSXVnNVVvT0lBSTlR?oc=5",
-          "title": "고용노동부 2026년 상반기 노동력조사: 건설·돌봄 인력 수요 확대, 사업주 대응 전략은",
-          "date": "2026-10-07"
-        }
+      "tags": [
+        "근로기준법",
+        "임금구분지급제",
+        "도급관리",
+        "노무리스크"
       ],
-      "date": "2026-10-07"
-    },
-    {
-      "id": "20261007-f07",
-      "cat": "trend",
-      "importance": "low",
-      "teams": [
-        "인사기획",
-        "조직문화·HRD"
-      ],
-      "company": "기고만장",
-      "title": "CMO·CTO 없이도 전문성을 확보하는 법 --> --> --> CMO·CTO 없이도 전문성을 확보하는 법 N",
-      "body": "",
-      "insight": "",
-      "action": "",
-      "tags": [],
-      "our_group": false,
-      "sources": [
-        {
-          "name": "기고만장",
-          "url": "https://ggmj.kr/flexwork/?idx=174981114&bmode=view",
-          "title": "CMO·CTO 없이도 전문성을 확보하는 법 --> --> --> CMO·CTO 없이도 전문성을 확보하는 법 N",
-          "date": "2026-10-07"
-        }
-      ],
-      "date": "2026-10-07"
-    },
-    {
-      "id": "20261007-f08",
-      "cat": "trend",
-      "importance": "low",
-      "teams": [
-        "인사기획",
-        "조직문화·HRD"
-      ],
-      "company": "기고만장",
-      "title": "[노무법인 위민] 인사·노무 뉴스레터_2026년 10월 1주차 --> --> --> [노무법인 위민] 인사·노무 뉴스레터_2026년 10월 1주차 N",
-      "body": "",
-      "insight": "",
-      "action": "",
-      "tags": [],
-      "our_group": false,
-      "sources": [
-        {
-          "name": "기고만장",
-          "url": "https://ggmj.kr/wemean/?idx=174978344&bmode=view",
-          "title": "[노무법인 위민] 인사·노무 뉴스레터_2026년 10월 1주차 --> --> --> [노무법인 위민] 인사·노무 뉴스레터_2026년 10월 1주차 N",
-          "date": "2026-10-07"
-        }
-      ],
-      "date": "2026-10-07"
-    },
-    {
-      "id": "20261007-f09",
-      "cat": "market",
-      "importance": "low",
-      "teams": [
-        "채용"
-      ],
-      "company": "잡플래닛 콘텐츠",
-      "title": "이직하고 싶은 엔터 기업 2위 '하이브', 1위는?🕺 엔터 업계로 이직한다면, 원픽은 어디인가요? 잡플위키 이직 티어 월드컵, 이번엔 엔터테인먼트 편입니다. 엔터테인먼트사 중에 가장 몸집이 큰 하이브·SM·JYP·Y",
-      "body": "",
-      "insight": "",
-      "action": "",
-      "tags": [],
-      "our_group": false,
-      "sources": [
-        {
-          "name": "잡플래닛 콘텐츠",
-          "url": "https://www.jobplanet.co.kr/contents/news-8496",
-          "title": "이직하고 싶은 엔터 기업 2위 '하이브', 1위는?🕺 엔터 업계로 이직한다면, 원픽은 어디인가요? 잡플위키 이직 티어 월드컵, 이번엔 엔터테인먼트 편입니다. 엔터테인먼트사 중에 가장 몸집이 큰 하이브·SM·JYP·Y",
-          "date": "2026-10-07"
-        }
-      ],
-      "date": "2026-10-07"
-    },
-    {
-      "id": "20261007-f10",
-      "cat": "market",
-      "importance": "low",
-      "teams": [
-        "채용"
-      ],
-      "company": "잡플래닛 콘텐츠",
-      "title": "(주)글로비언트 문의 건수가 아니라, 고객의 경험을 관리합니다. 글로비언트 고객경험본부",
-      "body": "",
-      "insight": "",
-      "action": "",
-      "tags": [],
-      "our_group": false,
-      "sources": [
-        {
-          "name": "잡플래닛 콘텐츠",
-          "url": "https://www.jobplanet.co.kr/contents/news-8495",
-          "title": "(주)글로비언트 문의 건수가 아니라, 고객의 경험을 관리합니다. 글로비언트 고객경험본부",
-          "date": "2026-10-07"
-        }
-      ],
-      "date": "2026-10-07"
-    },
-    {
-      "id": "20261007-f11",
-      "cat": "market",
-      "importance": "low",
-      "teams": [
-        "채용"
-      ],
-      "company": "잡플래닛 콘텐츠",
-      "title": "9 SKT 합숙 면접 후기, 면접 질문 모음",
-      "body": "",
-      "insight": "",
-      "action": "",
-      "tags": [],
-      "our_group": false,
-      "sources": [
-        {
-          "name": "잡플래닛 콘텐츠",
-          "url": "https://www.jobplanet.co.kr/contents/news-8490",
-          "title": "9 SKT 합숙 면접 후기, 면접 질문 모음",
-          "date": "2026-10-07"
-        }
-      ],
-      "date": "2026-10-07"
-    },
-    {
-      "id": "20261007-f12",
-      "cat": "trend",
-      "importance": "low",
-      "teams": [
-        "인사기획",
-        "조직문화·HRD"
-      ],
-      "company": "잡코리아 HR 뉴스",
-      "title": "지난 10년간의 조직건강 진단 데이터를 통해, 퇴사하지 않고 조직과 거리를 두는 구성원 증가와 정서적 몰입 하락의 흐름을 살펴본다.",
-      "body": "",
-      "insight": "",
-      "action": "",
-      "tags": [],
-      "our_group": false,
-      "sources": [
-        {
-          "name": "잡코리아 HR 뉴스",
-          "url": "https://www.jobkorea.co.kr/Corp/Lounge/News_View?GI_Trend_News_No=1066&Page=1&psTab=10&selText=",
-          "title": "지난 10년간의 조직건강 진단 데이터를 통해, 퇴사하지 않고 조직과 거리를 두는 구성원 증가와 정서적 몰입 하락의 흐름을 살펴본다.",
-          "date": "2026-10-07"
-        }
-      ],
-      "date": "2026-10-07"
-    },
-    {
-      "id": "20261007-f13",
-      "cat": "trend",
-      "importance": "low",
-      "teams": [
-        "인사기획",
-        "조직문화·HRD"
-      ],
-      "company": "잡코리아 HR 뉴스",
-      "title": "노동조합의 단체교섭 요구서를 받은 직후, HR이 접수 시점부터 공고 기간·노조 적격성·교섭창구·교섭단위 분리 시기까지 확인해야 할 7가지 실무 점검",
-      "body": "",
-      "insight": "",
-      "action": "",
-      "tags": [],
-      "our_group": false,
-      "sources": [
-        {
-          "name": "잡코리아 HR 뉴스",
-          "url": "https://www.jobkorea.co.kr/Corp/Lounge/News_View?GI_Trend_News_No=1065&Page=1&psTab=10&selText=",
-          "title": "노동조합의 단체교섭 요구서를 받은 직후, HR이 접수 시점부터 공고 기간·노조 적격성·교섭창구·교섭단위 분리 시기까지 확인해야 할 7가지 실무 점검",
-          "date": "2026-10-07"
-        }
-      ],
-      "date": "2026-10-07"
-    },
-    {
-      "id": "20261007-f14",
-      "cat": "labor",
-      "importance": "low",
-      "teams": [
-        "노무·ER",
-        "보상·복리후생"
-      ],
-      "company": "시프티 블로그",
-      "title": "근무형태·근무조건이 다양한 기업을 위한 통합 근태관리 운영 방법 과거의 근태관리는 단순했습니다. 대부분의 직원이 동일한 장소와 시간에 출근하고 퇴근하는 구조였기 때문입니다. 하지만 오늘날의 ... 2026-04-21",
-      "body": "",
-      "insight": "",
-      "action": "",
-      "tags": [],
-      "our_group": false,
-      "sources": [
-        {
-          "name": "시프티 블로그",
-          "url": "https://shiftee.io/ko/blog/article/integrated-attendance-management-for-diverse-work-types",
-          "title": "근무형태·근무조건이 다양한 기업을 위한 통합 근태관리 운영 방법 과거의 근태관리는 단순했습니다. 대부분의 직원이 동일한 장소와 시간에 출근하고 퇴근하는 구조였기 때문입니다. 하지만 오늘날의 ... 2026-04-21",
-          "date": "2026-10-07"
-        }
-      ],
-      "date": "2026-10-07"
-    },
-    {
-      "id": "20261007-f15",
-      "cat": "labor",
-      "importance": "low",
-      "teams": [
-        "노무·ER",
-        "보상·복리후생"
-      ],
-      "company": "시프티 블로그",
-      "title": "사용중인 그룹웨어와 PC-OFF를 연동해 근로시간관리 체계 구축하기 최근 많은 기업이 그룹웨어를 통해 출퇴근기록과 전자결재를 함께 운영하고 있습니다. 일정 관리, 메신저, 전자결재 기능이 통합된... 2026-06-",
-      "body": "",
-      "insight": "",
-      "action": "",
-      "tags": [],
-      "our_group": false,
-      "sources": [
-        {
-          "name": "시프티 블로그",
-          "url": "https://shiftee.io/ko/blog/article/groupware-and-pc-off-integration-for-working-hours-management",
-          "title": "사용중인 그룹웨어와 PC-OFF를 연동해 근로시간관리 체계 구축하기 최근 많은 기업이 그룹웨어를 통해 출퇴근기록과 전자결재를 함께 운영하고 있습니다. 일정 관리, 메신저, 전자결재 기능이 통합된... 2026-06-",
-          "date": "2026-10-07"
-        }
-      ],
-      "date": "2026-10-07"
-    },
-    {
-      "id": "20261007-f16",
-      "cat": "labor",
-      "importance": "low",
-      "teams": [
-        "노무·ER",
-        "보상·복리후생"
-      ],
-      "company": "시프티 블로그",
-      "title": "급여정산 오류를 줄이는 근태 데이터 관리와 임금명세서 발송 자동화 전략 매월 급여정산 시즌이 다가오면 인사·급여 담당자는 반복되는 확인 작업과 데이터 검증에 많은 시간을 할애하게 됩니다. 근로시간 ... 2026-0",
-      "body": "",
-      "insight": "",
-      "action": "",
-      "tags": [],
-      "our_group": false,
-      "sources": [
-        {
-          "name": "시프티 블로그",
-          "url": "https://shiftee.io/ko/blog/article/payroll-automation-and-attendance-data-management",
-          "title": "급여정산 오류를 줄이는 근태 데이터 관리와 임금명세서 발송 자동화 전략 매월 급여정산 시즌이 다가오면 인사·급여 담당자는 반복되는 확인 작업과 데이터 검증에 많은 시간을 할애하게 됩니다. 근로시간 ... 2026-0",
-          "date": "2026-10-07"
-        }
-      ],
-      "date": "2026-10-07"
-    },
-    {
-      "id": "20261007-f17",
-      "cat": "labor",
-      "importance": "low",
-      "teams": [
-        "노무·ER",
-        "보상·복리후생"
-      ],
-      "company": "시프티 블로그",
-      "title": "2027 임금구분지급제 시행: 주요 내용과 사업장 대응 기준 2027년 1월 1일부터 도급사업의 임금 비용 구분지급에 관한 근로기준법 제44조의4가 시행됩니다. 신설된 조항에 따라 일정한... 2026-09-03",
-      "body": "",
-      "insight": "",
-      "action": "",
-      "tags": [],
       "our_group": false,
       "sources": [
         {
@@ -449,182 +200,332 @@
           "date": "2026-10-07"
         }
       ],
-      "date": "2026-10-07"
+      "date": "2026-10-07",
+      "id": "20261007-02"
     },
     {
-      "id": "20261007-f18",
-      "cat": "labor",
-      "importance": "low",
+      "cat": "ecom",
+      "importance": "mid",
+      "company": "카페24",
+      "title": "카페24, D2C 자사몰 데이터 활용 쇼핑몰 성장률 분석 발표",
+      "body": "카페24 분석 결과 자사몰 빅데이터를 적극 활용한 쇼핑몰의 성장률이 전 구간 평균 4.0%p 높았으며, 월 1억 이상 쇼핑몰의 73%가 데이터를 분석해 비즈니스에 접목하고 있다고 밝혔어요.",
+      "insight": "메이크샵과 플레이오토 역시 셀러를 지원하는 데이터 분석 역량과 마케팅 테크 조직의 고도화가 요구돼요.",
+      "action": "셀러 솔루션 부문 내 데이터 분석가 및 그로스 마케팅 기획자 채용 파이프라인을 강화해 보세요.",
       "teams": [
-        "노무·ER",
+        "인사기획",
+        "채용"
+      ],
+      "tags": [
+        "카페24",
+        "메이크샵",
+        "자사몰데이터",
+        "D2C"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "물류신문",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5KWWJBbW96REtNYW9UWkhhaUpIcEtnd3FiMFRndk14b1hOa0d6Mk5pdElFLTNMQ0hybll2ZjRNUHBrTmstZUVHOVlpSl82d0tSMzlBUnFwRlVoVjZxVEcxdlVYOFVIQ0V6WUhF?oc=5",
+          "title": "카페24, \"자사몰 데이터 활용 쇼핑몰 성장률 더 높아\"",
+          "date": "2026-10-06"
+        },
+        {
+          "name": "리버티코리아포스트",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Bb0VfVGlYOWNDSWRZR1hOeDRURXNmUDZBaFR0N2dQaU9OUE91RmlXN0V5Z0pPYWhDQ2tzam1yUzl2ZXVrcE9sTU8tTWtfQmhnbjBYT1ZLUnpHOGdSdm9WWHJvZWhJYknSAWdBVV95cUxOQW9FX1RpWDljQ0lkWUdYTng0VEVzZlA2QWhUdDdnUGlPTlBPdUZpVzdFeWdKT2FoQ0Nrc2ptclM5dmV1a3BPbE1PLU1rX0JoZ24wWE9WS1J6RzhnUnZvVlhyb2VoSWJJ?oc=5",
+          "title": "카페24, 자사몰 데이터 활용한 쇼핑몰 성장률 더 높았다…전 구간 평균 4.0%p↑",
+          "date": "2026-10-06"
+        },
+        {
+          "name": "한스경제",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9wUUFTZnUtSU5kVU95MHVoV2doeEl4WmdTYlBIWlE4c1dfQjY0Nkx3SURndTlyQVlpU1RrNXRhclhzZmZma3lKblBLc0VxOFlXQjdORWh3NFg2LXFvR3NlMXJab2dvUEVnblg2eXdWONIBb0FVX3lxTE9wUUFTZnUtSU5kVU95MHVoV2doeEl4WmdTYlBIWlE4c1dfQjY0Nkx3SURndTlyQVlpU1RrNXRhclhzZmZma3lKblBLc0VxOFlXQjdORWh3NFg2LXFvR3NlMXJab2dvUEVnblg2eXdWOA?oc=5",
+          "title": "카페24 “자사몰 데이터 활용한 쇼핑몰 성장률 더 높았다”",
+          "date": "2026-10-06"
+        },
+        {
+          "name": "버핏연구소",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5OQUliTnUxVF9kMHhKVVNraE9FYUpFRDRGdWVxYzNoNzFfWE5scWRDTHhfM09KRW1FQ19XU0RSNURIaXRVRDhKQnhRcDV6Z21TdFZMYlhNU1c2bTI0ZDZSVFl3?oc=5",
+          "title": "[전자·IT 레이더] LG CNS·카페24·쿠콘, 블록체인·빅데이터·API 기술로 서비스 업무 효율화",
+          "date": "2026-10-06"
+        },
+        {
+          "name": "Chosunbiz",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNczUySGxGY1BEMy1wUW1MU2cyZTM0a3pmRExuY0l0cVhNdDlTR3FmTUdXaDhrS3FrMnE2bVBKVnQ4Q2E0VmRXRm5HX0J3YlUwYW5SVnJYY0ZqMlNBS0lPVXliMnhXU2hDOXpDMGUyM0lOcVpyNjRsTkJjVUwwc1NkbE9CZVp3ZThBdWNyZm5RT05EZWx1WGFaX1Fyd1FUd9IBngFBVV95cUxNczUySGxGY1BEMy1wUW1MU2cyZTM0a3pmRExuY0l0cVhNdDlTR3FmTUdXaDhrS3FrMnE2bVBKVnQ4Q2E0VmRXRm5HX0J3YlUwYW5SVnJYY0ZqMlNBS0lPVXliMnhXU2hDOXpDMGUyM0lOcVpyNjRsTkJjVUwwc1NkbE9CZVp3ZThBdWNyZm5RT05EZWx1WGFaX1Fyd1FUdw?oc=5",
+          "title": "월 거래액 1억 넘는 자사몰 73%, 데이터 들여다본다 - 조선비즈",
+          "date": "2026-10-06"
+        }
+      ],
+      "date": "2026-10-06",
+      "id": "20261007-05"
+    },
+    {
+      "cat": "trend",
+      "importance": "mid",
+      "company": "유니포스트",
+      "title": "'1시간 단위 연차' 도입 확산에 따른 HR 리스크 대응 가이드",
+      "body": "유니포스트가 시간 단위 연차 도입 확산에 따른 인사노무 리스크 분석 리포트를 발표했어요. 유연한 휴가 부여 이면에 근태 시스템 오류, 잔여 휴가 정산 복잡성, 연차촉진 리스크가 지적됐어요.",
+      "insight": "유연근무제와 시간 연차 제도를 운영할 때 법적 분쟁을 방지하고 근태 관리 시스템과의 정확한 연동이 필수적이에요.",
+      "action": "사내 그룹웨어 및 근태 솔루션의 시간 단위 연차 산정 방식과 연차유급휴가 사용촉진 절차를 재확인해 보세요.",
+      "teams": [
+        "인사기획",
         "보상·복리후생"
       ],
-      "company": "시프티 블로그",
-      "title": "근로기준법 5인 미만 사업장 적용 범위와 상시근로자 수 계산 기준 상시근로자 수는 원칙적으로 법 적용 사유 발생일 전 1개월 동안 사용한 근로자의 연인원을 같은 기간의 가동일수로 나누어 산정합... 2026-08-3",
-      "body": "",
-      "insight": "",
-      "action": "",
-      "tags": [],
+      "tags": [
+        "시간단위연차",
+        "근태관리",
+        "연차촉진",
+        "HR테크"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "전자신문",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9TMmsxeDlmdGh5ZE8yX25TY0tRcTJIamk3LVlrelNuR2hLeFZmWGtFRlhRVm00T3dPZ3ZEUUxOOHJLMHljXzY3ZnIzY3N6UQ?oc=5",
+          "title": "유니포스트, '1시간 단위 연차 시대의 HR 리스크와 대응 전략' e북 발간…노무 리스크 분석·업종별 해결 사례 수록",
+          "date": "2026-10-07"
+        },
+        {
+          "name": "데이터뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE50cERqYV9tdE5NQUVzMEN6aGVUZ3ZIUTVFRzdGNnhPaVkweDIxQkUtV3pUT1lGMUk2T1RsbjROazNXcWhzUURZYW9HZVpwTmd0Ny1YZ2FiT1YtT1dnWHdN?oc=5",
+          "title": "유니포스트, ‘시간 단위 연차’ 대응 HR 실무 리포트 발간",
+          "date": "2026-10-07"
+        },
+        {
+          "name": "아웃소싱타임스",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9oS3pjc0FPT245bURiRkxjcUpYTlNYZVVKMURWMUhLdlBXV3UxSnladEZnX0o2WVZlTjFXT0lpTDRpQ1JwNHBFTGQzc2ZnT0g3UFFRY1hzOHdzZ1FZbXlLZ1lyUGlOUnpzeGw0SnZpR3V4QQ?oc=5",
+          "title": "[사업주가 반드시 알아야 할 인사노무상식⑨] 연차유급휴가 사용촉진제도와 관련된 사업주 의무사항 안내",
+          "date": "2026-10-07"
+        }
+      ],
+      "date": "2026-10-07",
+      "id": "20261007-07"
+    },
+    {
+      "cat": "market",
+      "importance": "mid",
+      "company": "업계 전반",
+      "title": "ICT 신입 채용 급감 및 채용 시 'AI 실무 활용 역량' 필수화",
+      "body": "ICT 분야 신입 채용이 3년 새 48% 급감한 가운데, 채용 공고에서는 AI 툴 사용량 한도를 넘겨본 실전 경험 등 업무 내 AI 활용 능력을 우대하는 경향이 뚜렷해졌어요.",
+      "insight": "주니어 채용 시에도 단순 전공 지식보다는 생성형 AI 툴을 업무에 실질적으로 활용해 본 경험을 검증해야 해요.",
+      "action": "마케팅, 기획, 개발 직군 채용 과제 및 면접 평가 기준에 AI 툴 활용 실무 평가 항목을 시범 도입해 보세요.",
+      "teams": [
+        "채용",
+        "조직문화·HRD"
+      ],
+      "tags": [
+        "ICT채용",
+        "AI역량",
+        "신입채용",
+        "채용트렌드"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "오픈애즈",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4xWGtFWVA2ZEx1V2h2SFJ2UTEtdHZOQ25oZENzcVdhblNlblY5Ym5BZFBLQ2FhcW9rQnRtandPQTFVSnFYNmhHYk00a19wWjVaNkRVaWJoOVVTRFJfU0M1eGt0QWhxcEpVekRvX0N3?oc=5",
+          "title": "'AI 사용량 제한 걸려본 분' 우대합니다: 마케터 공고 322건 속 AI 요구사항",
+          "date": "2026-10-07"
+        },
+        {
+          "name": "머니투데이",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5zUS01TkpTVVNvZjkxaDdUeUlaOGg4cXpMa1hLdFF1VVl3WW5Zb1NzWWhWODlKWWw5NUJUQjlUd09iMm80MkhqYmpLSFRxcjZJSDR6cjE3VHBhV3pjbTAzeDJ1d2Z3ZWVHT1pHVnBfOHRUQdIBckFVX3lxTE5zUS01TkpTVVNvZjkxaDdUeUlaOGg4cXpMa1hLdFF1VVl3WW5Zb1NzWWhWODlKWWw5NUJUQjlUd09iMm80MkhqYmpLSFRxcjZJSDR6cjE3VHBhV3pjbTAzeDJ1d2Z3ZWVHT1pHVnBfOHRUQQ?oc=5",
+          "title": "ICT 신입채용 3년새 48%↓…이훈기 \"AI시대, 숙련인력 성장 기회 사라져\" - 머니투데이",
+          "date": "2026-10-06"
+        }
+      ],
+      "date": "2026-10-07",
+      "id": "20261007-08"
+    },
+    {
+      "cat": "ecom",
+      "importance": "mid",
+      "company": "네이버",
+      "title": "네이버, 자체 물류시스템 개발 착수 및 '직영 체제' 전환 추진",
+      "body": "네이버가 NFA(풀필먼트 연합) 중심 구조에서 벗어나 자체 물류시스템 개발에 착수하며 직영 체제 전환을 본격화하고 있어요. 배송 경쟁력 강화를 위한 독자 물류 플랫폼을 구축할 계획이에요.",
+      "insight": "네이버의 물류 직영화로 인해 IT 물류 아키텍처 및 공급망 엔지니어에 대한 업계 내 영입 경쟁이 가열될 것으로 보여요.",
+      "action": "플레이오토 및 스윗트래커의 핵심 물류 WMS/TMS 개발 인력에 대한 리텐션 전략을 점검해 보세요.",
+      "teams": [
+        "인사기획",
+        "채용"
+      ],
+      "tags": [
+        "네이버",
+        "물류시스템",
+        "직영물류",
+        "풀필먼트"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "리드경제",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE10ZWdGeFhMbDc5ckRXNGtndXBRQ0E0LWc2bVhfUnRHWEYzbkt5d2RMVW9hSVhGakl0VWhMeXZMRU81ejBLWGRXMFVTd0pKd3gyamdtLUxVWjY1QXVOSk1GRUV6V0FEcnVCYmlDTjJpSGw?oc=5",
+          "title": "네이버, 자체 물류시스템 개발 착수…'직영 체제' 전환 시동",
+          "date": "2026-10-06"
+        }
+      ],
+      "date": "2026-10-06",
+      "id": "20261007-04"
+    },
+    {
+      "cat": "trend",
+      "importance": "mid",
+      "company": "오픈AI",
+      "title": "오픈AI, 철학과 가치관 검증하는 '미션 인터뷰' 도입",
+      "body": "오픈AI가 AGI 시대의 윤리와 회사의 철학적 미션에 정렬된 인재인지 검증하는 '미션 인터뷰'를 채용 프로세스에 공식 도입했어요. 직무 기술 중심 평가를 넘어 가치관 적합성을 집중 검증해요.",
+      "insight": "AI 전환이 가속화될수록 단순 역량 평가뿐 아니라 기업 문화와 지향점에 동의하는 컬처핏 인터뷰의 중요성이 커져요.",
+      "action": "그룹 경력직 면접 가이드에 커넥트웨이브 인재상과 조직 철학을 검증할 수 있는 질문 셋을 추가해 보세요.",
+      "teams": [
+        "채용",
+        "조직문화·HRD"
+      ],
+      "tags": [
+        "오픈AI",
+        "미션인터뷰",
+        "컬처핏",
+        "채용평가"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "포춘코리아",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9VZ2xRWVJ3OWk4akJBZDRyRGdVekFoMDFaZGp6bWdjNVJHdGNGNEZnS29UZlVVQm1jV1V2eHRfWkVTUnV6TkdlV1lGcGd6VHFMTzFwVnY5ZDdpd0xJX2xLN3VHUWtyWk9UenR6NjZsbTNpTzVyTVHSAXZBVV95cUxPVWdsUVlSdzlpOGpCQWQ0ckRnVXpBaDAxWmRqem1nYzVSR3RjRjRGZ0tvVGZVVUJtY1dVdnh0X1pFU1J1ek5HZVdZRnBnelRxTE8xcFZ2OWQ3aXdMSV9sSzd1R1FrclpPVHp0ejY2bG0zaU81ck1R?oc=5",
+          "title": "오픈AI, 채용서 AGI 철학까지 본다…‘미션 인터뷰’ 도입",
+          "date": "2026-10-06"
+        }
+      ],
+      "date": "2026-10-06",
+      "id": "20261007-06"
+    },
+    {
+      "cat": "trend",
+      "importance": "low",
+      "company": "업계 전반",
+      "title": "HR SaaS 및 PC-OFF 연동을 통한 근로시간 관리 체계화",
+      "body": "그룹웨어와 SaaS 근태관리, PC-OFF를 연동해 주 52시간 준수와 데이터 안정성을 확보하는 가이드가 공유됐어요. 시스템 간 API 연동 및 데이터 백업 관리가 주요 핵심으로 꼽혀요.",
+      "insight": "그룹 내 분산된 다나와, 플레이오토 등의 근태 및 그룹웨어 시스템 간 데이터 정합성을 확보해 노무 리스크를 줄여야 해요.",
+      "action": "계열사별 근태 시스템 연동 상태와 PC-OFF 도입 현황을 점검하고 표준 데이터 기준을 마련해 보세요.",
+      "teams": [
+        "인사기획",
+        "보상·복리후생"
+      ],
+      "tags": [
+        "HRSaaS",
+        "근태관리",
+        "PCOFF",
+        "근로시간"
+      ],
       "our_group": false,
       "sources": [
         {
           "name": "시프티 블로그",
-          "url": "https://shiftee.io/ko/blog/article/employee-count-standard-and-workplace-coverage",
-          "title": "근로기준법 5인 미만 사업장 적용 범위와 상시근로자 수 계산 기준 상시근로자 수는 원칙적으로 법 적용 사유 발생일 전 1개월 동안 사용한 근로자의 연인원을 같은 기간의 가동일수로 나누어 산정합... 2026-08-3",
+          "url": "https://shiftee.io/ko/blog/article/attendance-management-saas-stability-checklist",
+          "title": "근태관리 SaaS 도입 시 확인해야 할 안정성 기준과 체크리스트 최근 기업들은 근무일정 관리, 출퇴근기록 관리, 휴가 관리, 전자결재 등 다양한 인사 업무를 SaaS 기반 솔루션으로 운영하고... 2026-07-15",
+          "date": "2026-10-07"
+        },
+        {
+          "name": "시프티 블로그",
+          "url": "https://shiftee.io/ko/blog/article/groupware-and-pc-off-integration-for-working-hours-management",
+          "title": "사용중인 그룹웨어와 PC-OFF를 연동해 근로시간관리 체계 구축하기 최근 많은 기업이 그룹웨어를 통해 출퇴근기록과 전자결재를 함께 운영하고 있습니다. 일정 관리, 메신저, 전자결재 기능이 통합된... 2026-06-",
+          "date": "2026-10-07"
+        },
+        {
+          "name": "시프티 블로그",
+          "url": "https://shiftee.io/ko/blog/article/hr-saas-migration-data-backup-checklist",
+          "title": "HR SaaS 솔루션 전환 가이드 : 데이터 백업과 도입 체크리스트 기업의 HR 시스템에는 직원 정보부터 조직·직무 정보, 근무일정, 출퇴근기록, 휴가, 승인 내역까지 다양한 데이터가 축적됩니다... 2026-09-",
+          "date": "2026-10-07"
+        },
+        {
+          "name": "시프티 블로그",
+          "url": "https://shiftee.io/ko/blog/article/hr-solution-key-selection-checklist",
+          "title": "HR 솔루션 비교 가이드: 인사관리 솔루션 선택 기준과 체크리스트 기업의 인사관리 업무는 점점 더 다양해지고 있습니다. 근태관리뿐 아니라 휴가관리, 전자결재, 급여정산 등 여러 업무가 서로 연... 2026-09-0",
+          "date": "2026-10-07"
+        },
+        {
+          "name": "시프티 블로그",
+          "url": "https://shiftee.io/ko/blog/article/pc-off-attendance-payroll-integration",
+          "title": "PC-OFF 프로그램과 근태관리·급여 시스템 연동 방법 및 구축 가이드 사무직 근태관리에서 PC-OFF 프로그램은 계획된 근무일정을 기준으로 PC 사용을 관리하고, 출퇴근기록, 휴가, 연장·단축근무... 2026-0",
           "date": "2026-10-07"
         }
       ],
-      "date": "2026-10-07"
+      "date": "2026-10-07",
+      "id": "20261007-09"
     },
     {
-      "id": "20261007-f19",
+      "cat": "trend",
+      "importance": "low",
+      "company": "오프피스트",
+      "title": "직급체계 단순화와 '그레이존' 메우는 조직문화 전략",
+      "body": "HR 전문 리포트에서 직급체계 단순화에 따른 평가·보상 연계 방안과, 공식 직무 기술서에 명시되지 않은 업무 공백(그레이존)을 채우는 조직시민행동(OCB) 촉진 방안을 다뤘어요.",
+      "insight": "그룹 통합 과정에서 직급 단순화 및 유연한 조직 문화를 정착시키기 위해서는 상호 협업을 인정해 주는 평가 기제가 필요해요.",
+      "action": "다면평가나 피어리뷰(동료 피드백) 항목에 타 팀 및 협업 공백 지원에 대한 평가 지표를 보완해 보세요.",
+      "teams": [
+        "조직문화·HRD",
+        "인사기획"
+      ],
+      "tags": [
+        "직급단순화",
+        "조직시민행동",
+        "조직문화",
+        "평가제도"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "오프피스트",
+          "url": "https://www.offpiste.ai/articles/직급체계-단순화에-따른-인사제도의-변화-2491",
+          "title": "직급체계 단순화에 따른 인사제도의 변화",
+          "date": "2026-10-02"
+        },
+        {
+          "name": "오프피스트",
+          "url": "https://www.offpiste.ai/articles/그레이존을-메우는-사람들-조직시민행동의-두-얼굴-2392",
+          "title": "그레이존을 메우는 사람들 조직시민행동의 두 얼굴",
+          "date": "2026-10-02"
+        },
+        {
+          "name": "오프피스트",
+          "url": "https://www.offpiste.ai/articles/우리는-정렬되어-있다고-믿었다-2485",
+          "title": "우리는 정렬되어 있다고 믿었다",
+          "date": "2026-10-02"
+        },
+        {
+          "name": "오프피스트",
+          "url": "https://www.offpiste.ai/articles/part-5-구성원을-어른으로-대한다는-것-2480",
+          "title": "part 5 구성원을 어른으로 대한다는 것",
+          "date": "2026-10-02"
+        }
+      ],
+      "date": "2026-10-02",
+      "id": "20261007-11"
+    },
+    {
       "cat": "labor",
       "importance": "low",
+      "company": "경기도",
+      "title": "2026 경기가족친화기업 0.5&0.75잡 일·생활 균형 지원사업",
+      "body": "경기도가 도내 기업을 대상으로 일·생활 균형과 가족친화적 근로문화 조성을 돕는 '0.5&0.75잡' 단축근무 지원사업 신청 절차와 대상 기준을 발표했어요.",
+      "insight": "판교·경기권에 소재한 그룹사 및 조직의 경우 지자체 지원금을 활용해 육아기 근로시간 단축 복지를 유연하게 운영할 수 있어요.",
+      "action": "경기 지역 계열사 구성원을 대상으로 0.5&0.75잡 지원제도 적용 가능 여부를 검토해 보세요.",
       "teams": [
-        "노무·ER",
-        "보상·복리후생"
+        "보상·복리후생",
+        "인사기획"
       ],
-      "company": "시프티 블로그",
-      "title": "프랜차이즈 근태관리 가이드 : 본사·매장별 근무제도 운영 방법 프랜차이즈 기업은 본사와 직영점, 지역 운영 조직 등 여러 조직과 사업장을 함께 운영할 수 있으며, 조직과 직무에 따라 근무 ... 2026-08-28",
-      "body": "",
-      "insight": "",
-      "action": "",
-      "tags": [],
+      "tags": [
+        "가족친화",
+        "근로시간단축",
+        "정부지원금",
+        "워라밸"
+      ],
       "our_group": false,
       "sources": [
         {
           "name": "시프티 블로그",
-          "url": "https://shiftee.io/ko/blog/article/franchise-attendance-management-headquarters-and-stores",
-          "title": "프랜차이즈 근태관리 가이드 : 본사·매장별 근무제도 운영 방법 프랜차이즈 기업은 본사와 직영점, 지역 운영 조직 등 여러 조직과 사업장을 함께 운영할 수 있으며, 조직과 직무에 따라 근무 ... 2026-08-28",
+          "url": "https://shiftee.io/ko/blog/article/gyeonggi-05-075-job-support-program",
+          "title": "2026 경기가족친화기업 0.5&0.75잡 지원: 신청 대상·방법·절차 알아보기 경기도는 도내 기업의 가족친화적 근로문화 조성과 일·생활 균형을 지원하기 위해 경기가족친화기업 0.5&0.75잡 지원사업(일명... 2",
           "date": "2026-10-07"
         }
       ],
-      "date": "2026-10-07"
-    },
-    {
-      "id": "20261007-f20",
-      "cat": "labor",
-      "importance": "low",
-      "teams": [
-        "노무·ER",
-        "보상·복리후생"
-      ],
-      "company": "시프티 블로그",
-      "title": "휴일수당·야간수당 계산 오류를 줄이는 근태관리 방법 근로시간 관리 환경이 변화하면서 많은 기업의 관심은 출퇴근기록 자체보다 기록 이후의 관리 단계로 이동하고 있습니다. 출퇴근기록... 2026-08-19",
-      "body": "",
-      "insight": "",
-      "action": "",
-      "tags": [],
-      "our_group": false,
-      "sources": [
-        {
-          "name": "시프티 블로그",
-          "url": "https://shiftee.io/ko/blog/article/holiday-and-night-pay-error-reduction-guide",
-          "title": "휴일수당·야간수당 계산 오류를 줄이는 근태관리 방법 근로시간 관리 환경이 변화하면서 많은 기업의 관심은 출퇴근기록 자체보다 기록 이후의 관리 단계로 이동하고 있습니다. 출퇴근기록... 2026-08-19",
-          "date": "2026-10-07"
-        }
-      ],
-      "date": "2026-10-07"
-    },
-    {
-      "id": "20261007-f21",
-      "cat": "labor",
-      "importance": "low",
-      "teams": [
-        "노무·ER",
-        "보상·복리후생"
-      ],
-      "company": "시프티 블로그",
-      "title": "2026년 직장 내 괴롭힘 예방·대응 매뉴얼 알아보기: 조사·조치 방법 등 직장 내 괴롭힘 신고를 접수하거나 발생 사실을 인지한 사용자는 근로기준법 제76조의3에 따라 지체 없이 객관적인 조사를 실시해... 2026",
-      "body": "",
-      "insight": "",
-      "action": "",
-      "tags": [],
-      "our_group": false,
-      "sources": [
-        {
-          "name": "시프티 블로그",
-          "url": "https://shiftee.io/ko/blog/article/workplace-reporting-response-guide",
-          "title": "2026년 직장 내 괴롭힘 예방·대응 매뉴얼 알아보기: 조사·조치 방법 등 직장 내 괴롭힘 신고를 접수하거나 발생 사실을 인지한 사용자는 근로기준법 제76조의3에 따라 지체 없이 객관적인 조사를 실시해... 2026",
-          "date": "2026-10-07"
-        }
-      ],
-      "date": "2026-10-07"
-    },
-    {
-      "id": "20261007-f22",
-      "cat": "labor",
-      "importance": "low",
-      "teams": [
-        "노무·ER",
-        "보상·복리후생"
-      ],
-      "company": "시프티 블로그",
-      "title": "육아휴직자의 연차사용촉진제도 적용 기준과 실무 관리 방법 육아휴직 기간은 「근로기준법」상 출근으로 간주되어 연차휴가가 정상 발생하며, 연차사용촉진제도의 적용 여부는 복직 시점과 연차 ... 2026-08-05",
-      "body": "",
-      "insight": "",
-      "action": "",
-      "tags": [],
-      "our_group": false,
-      "sources": [
-        {
-          "name": "시프티 블로그",
-          "url": "https://shiftee.io/ko/blog/article/parental-leave-annual-leave-use-encouragement-system-guide",
-          "title": "육아휴직자의 연차사용촉진제도 적용 기준과 실무 관리 방법 육아휴직 기간은 「근로기준법」상 출근으로 간주되어 연차휴가가 정상 발생하며, 연차사용촉진제도의 적용 여부는 복직 시점과 연차 ... 2026-08-05",
-          "date": "2026-10-07"
-        }
-      ],
-      "date": "2026-10-07"
-    },
-    {
-      "id": "20261007-f23",
-      "cat": "labor",
-      "importance": "low",
-      "teams": [
-        "노무·ER",
-        "보상·복리후생"
-      ],
-      "company": "시프티 블로그",
-      "title": "단시간근로자 연차휴가 발생 기준과 연차수당 정산 방법 단시간근로자는 1주 동안의 소정근로시간이 해당 사업장의 통상근로자보다 짧은 근로자를 의미합니다. 다만 단시간근로자도 「근로기준... 2026-07-31",
-      "body": "",
-      "insight": "",
-      "action": "",
-      "tags": [],
-      "our_group": false,
-      "sources": [
-        {
-          "name": "시프티 블로그",
-          "url": "https://shiftee.io/ko/blog/article/part-time-worker-annual-leave-accrual-and-settlement",
-          "title": "단시간근로자 연차휴가 발생 기준과 연차수당 정산 방법 단시간근로자는 1주 동안의 소정근로시간이 해당 사업장의 통상근로자보다 짧은 근로자를 의미합니다. 다만 단시간근로자도 「근로기준... 2026-07-31",
-          "date": "2026-10-07"
-        }
-      ],
-      "date": "2026-10-07"
-    },
-    {
-      "id": "20261007-f24",
-      "cat": "labor",
-      "importance": "low",
-      "teams": [
-        "노무·ER",
-        "보상·복리후생"
-      ],
-      "company": "고용노동부 보도자료",
-      "title": "대지급금 부정수급 신고포상금, 최대 2억원까지 확대",
-      "body": "",
-      "insight": "",
-      "action": "",
-      "tags": [],
-      "our_group": false,
-      "sources": [
-        {
-          "name": "고용노동부 보도자료",
-          "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=20047",
-          "title": "대지급금 부정수급 신고포상금, 최대 2억원까지 확대",
-          "date": "2026-10-07"
-        }
-      ],
-      "date": "2026-10-07"
+      "date": "2026-10-07",
+      "id": "20261007-10"
     }
   ]
 }
