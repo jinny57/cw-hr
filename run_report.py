@@ -28,10 +28,54 @@ KST = datetime.timezone(datetime.timedelta(hours=9))
 UA = {"User-Agent": "Mozilla/5.0 (HR-Radar; +https://github.com)"}
 
 GEMINI_KEY = os.environ.get("GEMINI_API_KEY", "")
-# 변수가 비어 있어도(Actions에서 vars 미설정) 기본 모델을 쓰도록 'or'로 처리해요
-GEMINI_MODEL = (os.environ.get("GEMINI_MODEL") or "gemini-2.5-flash").strip()
-# 기본 모델이 없어졌을 때를 대비한 예비 모델 (구글이 항상 최신 flash로 연결해 주는 이름)
-FALLBACK_MODELS = ["gemini-flash-latest", "gemini-2.0-flash"]
+# 모델을 직접 지정하지 않으면(GEMINI_MODEL 비어 있음) 구글에 '지금 쓸 수 있는 모델'을 물어보고 자동으로 골라요.
+# 구글은 오래된 모델을 몇 달마다 은퇴시키기 때문에 이름을 고정해 두면 언젠가 깨져요.
+GEMINI_MODEL = (os.environ.get("GEMINI_MODEL") or "").strip()
+# 목록 조회까지 실패했을 때만 쓰는 비상 목록
+STATIC_FALLBACK = ["gemini-flash-latest", "gemini-3.5-flash", "gemini-3-flash-preview", "gemini-flash-lite-latest"]
+_MODEL_RX = re.compile(r"gemini-(?:(\d+(?:\.\d+)?)-flash(-lite)?(-preview(?:-[\w-]+)?)?|flash(-lite)?-latest)")
+_MODEL_SKIP = re.compile(r"image|tts|audio|live|native|embedding|thinking-exp|exp-")
+
+
+def gemini_candidates():
+    """사용 가능한 Gemini Flash 모델을 좋은 순서로 골라요:
+    지정 모델 → 최신 정식 Flash → 최신 프리뷰 Flash → flash-latest 별칭 → Flash-Lite (가볍고 덜 붐빔)."""
+    names = []
+    try:
+        token = ""
+        for _ in range(5):
+            r = requests.get("https://generativelanguage.googleapis.com/v1beta/models",
+                             params={"key": GEMINI_KEY, "pageSize": 200, **({"pageToken": token} if token else {})},
+                             timeout=30)
+            r.raise_for_status()
+            j = r.json()
+            names += [m["name"].split("/", 1)[-1] for m in j.get("models", [])
+                      if "generateContent" in m.get("supportedGenerationMethods", [])]
+            token = j.get("nextPageToken", "")
+            if not token:
+                break
+    except Exception as e:
+        print(f"  ⚠️  모델 목록을 못 읽어서 비상 목록을 써요: {e}")
+        return ([GEMINI_MODEL] if GEMINI_MODEL else []) + [m for m in STATIC_FALLBACK if m != GEMINI_MODEL]
+
+    def ver(n):
+        m = _MODEL_RX.fullmatch(n)
+        return float(m.group(1)) if m and m.group(1) else 0.0
+    flash = [n for n in names if _MODEL_RX.fullmatch(n) and not _MODEL_SKIP.search(n)]
+    stable = sorted([n for n in flash if "lite" not in n and "preview" not in n and "latest" not in n], key=ver, reverse=True)
+    preview = sorted([n for n in flash if "lite" not in n and "preview" in n], key=ver, reverse=True)
+    alias = [n for n in ("gemini-flash-latest",) if n in names]
+    lite = [n for n in ("gemini-flash-lite-latest",) if n in names] + \
+           sorted([n for n in flash if "lite" in n and "latest" not in n and "preview" not in n], key=ver, reverse=True)
+    order = ([GEMINI_MODEL] if GEMINI_MODEL and GEMINI_MODEL in names else []) + stable[:2] + preview[:1] + alias + lite[:1]
+    out = []
+    for n in order:
+        if n not in out:
+            out.append(n)
+    if GEMINI_MODEL and GEMINI_MODEL not in names:
+        print(f"  ⚠️  지정한 모델 '{GEMINI_MODEL}'은 은퇴했거나 없어요 — 자동 선택으로 대신해요")
+    print(f"  🔎 사용할 Gemini 모델 순서: {' → '.join(out) or '(없음)'}")
+    return out or STATIC_FALLBACK
 
 
 # 예비 AI: Gemini가 전부 실패한 날에만 Claude(Anthropic)를 불러요. 키가 없으면 건너뛰어요.
@@ -272,7 +316,7 @@ def gemini(prompt):
     global USED_ENGINE
     errors = []
     if GEMINI_KEY:
-        models = [GEMINI_MODEL] + [m for m in FALLBACK_MODELS if m != GEMINI_MODEL]
+        models = gemini_candidates()
         for i, m in enumerate(models):
             try:
                 # 첫 모델은 길게 기다리고, 예비 모델은 짧게 확인만 해요
@@ -343,9 +387,14 @@ class ServerBusy(Exception):
 def gemini_one(prompt, model, max_tokens=32768, waits=(15, 30, 60, 60, 90)):
     gen = {"temperature": 0.2, "maxOutputTokens": max_tokens,
            "responseMimeType": "application/json"}
-    # 2.5 flash 계열은 '생각' 토큰이 출력 한도를 먹어서 JSON이 잘릴 수 있어요 → 생각 끄기
-    if "flash" in model and "2.5" in model:
+    # '생각' 토큰이 출력 한도를 먹어 JSON이 잘리는 걸 막아요.
+    # 2.5 계열은 thinkingBudget, 3 이후 계열은 thinkingLevel을 써요 (안 받으면 빼고 다시 보내요)
+    mv = _MODEL_RX.fullmatch(model)
+    v = float(mv.group(1)) if mv and mv.group(1) else None
+    if v is not None and v < 3:
         gen["thinkingConfig"] = {"thinkingBudget": 0}
+    elif "lite" not in model:
+        gen["thinkingConfig"] = {"thinkingLevel": "low"}
     waits = list(waits)  # 서버 혼잡(503)은 보통 몇 분이면 풀려요
     last = ""
     for attempt in range(len(waits) + 1):
@@ -361,6 +410,9 @@ def gemini_one(prompt, model, max_tokens=32768, waits=(15, 30, 60, 60, 90)):
             continue
         if r.status_code == 404:
             raise ModelNotFound(f"모델 '{model}'을 찾을 수 없어요")
+        if r.status_code == 400 and "thinkingConfig" in gen and "think" in r.text.lower():
+            gen.pop("thinkingConfig")  # 이 모델은 해당 설정을 안 받아요 → 빼고 바로 다시
+            continue
         if r.status_code != 200:
             msg = r.text[:400]
             hint = {400: "요청 형식 또는 API 키가 잘못됐어요",
