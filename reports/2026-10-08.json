@@ -1,0 +1,576 @@
+{
+  "date": "2026-10-08",
+  "window_days": 1,
+  "article_count": 306,
+  "engine": "gemini-3.7-flash",
+  "headline": "홈플러스 대규모 희망퇴직과 카카오 자회사 정리 등 유통·플랫폼 인력 변동성 확대",
+  "points": [
+    "홈플러스 전사 희망퇴직 및 카카오엔터 자회사 청산에 따른 이커머스·플랫폼 인재 시장 유입",
+    "포괄임금 오남용 감독 및 도급사업 임금구분지급제 등 근로시간·보상 관련 노무 규제 강화 대비 필요",
+    "AMD 국내 수백 명 채용 및 AI·근태 자동화 확산 속 플랫폼 테크 인재 확보전 심화"
+  ],
+  "items": [
+    {
+      "cat": "ecom",
+      "importance": "high",
+      "company": "홈플러스",
+      "title": "홈플러스, 매장 축소 여파로 전사 희망퇴직 단행",
+      "body": "홈플러스가 점포 축소 및 경영난 심화로 전사 직원을 대상으로 희망퇴직 접수에 돌입했어요. 미지급 급여와 퇴직금을 정산 지급하며 인력 구조조정을 본격화하고 있어요.",
+      "insight": "오프라인 유통 및 이커머스 물류·MD 인력의 대거 이탈이 예상되어, 당사 이커머스 및 물류 부문 대체 인력 확보 기회예요.",
+      "action": "홈플러스 퇴직 인력 중 커머스 MD 및 물류 운영 경력자를 대상으로 타깃 소싱 파이프라인을 구축해 보세요.",
+      "teams": [
+        "채용",
+        "인사기획"
+      ],
+      "tags": [
+        "홈플러스",
+        "희망퇴직",
+        "구조조정",
+        "MD",
+        "물류"
+      ],
+      "our_group": false,
+      "talent": {
+        "level": "high",
+        "signal": "전사 희망퇴직 진행 — 커머스 MD·물류 운영 인력 대규모 시장 유입"
+      },
+      "sources": [
+        {
+          "name": "국민일보",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Wam1tR2RMUEFRZ0trRHdzNld1NWRmWXlib2llN2hOcHhwU0Y1QTdpR1RRVl8wU0ZKSll0Rl84cG50a0hlZHE4SEduMWhUMVlQQ3E4Z0ZybnRtcHBTdnF6eUwwSWtCSGg0eVJWUNIBbEFVX3lxTE9Wam1tR2RMUEFRZ0trRHdzNld1NWRmWXlib2llN2hOcHhwU0Y1QTdpR1RRVl8wU0ZKSll0Rl84cG50a0hlZHE4SEduMWhUMVlQQ3E4Z0ZybnRtcHBTdnF6eUwwSWtCSGg0eVJWUA?oc=5",
+          "title": "홈플러스, 희망퇴직 돌입… 미지급급여·퇴직금 지급",
+          "date": "2026-10-08"
+        },
+        {
+          "name": "연합뉴스TV",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0yU1kxc0k3dFVJaGlZdlJtZ0piNlJaZDlYcGU2ZVZTS2xRZG50QVczS0lYa1prNkV2UnlpU1JuTXhmOV9iYWF2ODdzbm1pWWh4WkxSWXk3TV84QWpXWkMxSzRoWThFU3c?oc=5",
+          "title": "매출은 줄고, 직원 절반은 유급휴업…홈플러스 결국 ’희망퇴직’ [뉴스더보기]",
+          "date": "2026-10-07"
+        },
+        {
+          "name": "경북일보",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1OOE5JUHNXVVVYVUdvUDdqcERsU0hvYVJUdjRPdmxoeEZjOGVyQ1dCZjNMUTRIWVpPRjFpWWlIdWNxWmZZNjdmUl80T3pfTGptRlVwaDdkdXdMQ3ptNDBEUUNuSXVNWG1STU5ZVnpTVQ?oc=5",
+          "title": "홈플러스 희망퇴직 접수…대구·경북 9개 점포 직원 포함",
+          "date": "2026-10-07"
+        },
+        {
+          "name": "인천일보",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAyQ25PazdYUW40TkstR2s2OWprelJ5R2JfSVRXVk9YYVhEc1JhbGtGTFVYZTA1cTlEX2JPWklUMXZ3NkZHM2JOcGEzWGhPSVFneERuX2lfdGMwXzVPcEFIMEl6RlZrTm9TeHJ3QlJtNnE?oc=5",
+          "title": "홈플러스, 희망퇴직 다시 받는다",
+          "date": "2026-10-07"
+        },
+        {
+          "name": "경남도민일보",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1tZ1VQZnItRDlUa1h2WkphTkt4bzREalJwOHlQQ2swUkxxZWpKOThrdkdQUnpmdm8xcTNUVmNJdmZ1bnVOUmhSSUpBZUpUYkxfZUFGbGJ0a2JnQm5Qc0FNRklXSXVSa1N5akE?oc=5",
+          "title": "홈플러스 또 희망퇴직…경남 노동자들 “인력 감축 수순”",
+          "date": "2026-10-07"
+        },
+        {
+          "name": "전북일보 인터넷신문",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ZUWVwOVh5ekE2ZXFvS0w5aW1wQWhSWllKdGd2akhrOU9HMG95U3R5blc0c3E3OFFrUFJUcTlOR1RRZC1qQ3R1N3lUM0c0cnFCRUNzaUxhdmHSAVhBVV95cUxOWVFlcDlYeXpBNmVxb0tMOWltcEFoUlpZSnRndmpIazlPRzBveVN0eW5XNHNxNzhRa1BSVHE5TkdUUWQtakN0dTd5VDNHNHJxQkVDc2lMYXZh?oc=5",
+          "title": "홈플러스 희망퇴직 실시···실직자 다수 발생할 듯",
+          "date": "2026-10-07"
+        },
+        {
+          "name": "뉴스핌",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0xZkVDUHdFYXltSF8wank2bGNYWElicmwzWnFmdG4tSjctVnNvTXdrSUE4WDVOY3BDZDNXb2Q3c0lDelhCMERNREUtRUZHS1I2cDRJbGVEcFlfTVVp?oc=5",
+          "title": "새 주인 찾는 홈플러스, 희망퇴직 카드 꺼냈다",
+          "date": "2026-10-07"
+        },
+        {
+          "name": "한겨레",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE96a2drZm1mZnRCUzZPSWZTQXlvMDhydkxUNjRLRnB5NVF4OWw1VWVWZ094WFlkanZsWnVjV2N3WU5BOHZnQVE1SlVFcUNWYmxmbGx0c0lBMnVVOWljS2JQckJHT1p2Rl9IbGc?oc=5",
+          "title": "홈플러스, 희망퇴직 들어가는데…대주주 MBK 김병주는 국감 ‘불출석’",
+          "date": "2026-10-07"
+        },
+        {
+          "name": "전자신문",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1EeC1yUnVmUWVXMjFqUWppc1RTdFF6enE1TkVkdG5RdmlDVGN4aS1FdGZoNEJNTllnOC1vWmdjbXlDRTNoOHJIVW84Y1RMUQ?oc=5",
+          "title": "홈플러스, 희망퇴직 시행…67개점 축소에 인력 구조조정",
+          "date": "2026-10-07"
+        },
+        {
+          "name": "경기일보",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1IMlJNY3d3YmNSVWNpT1d4ME5ac2l3Ql9odExpdWVfbGJtdzlLSnBndUVhdUswNVA5dnhmcVpVVXRrWW1ZaGJMRGtWZ1ZETVBGVnNOV2cxVmdCTGs?oc=5",
+          "title": "경영 정상화 난항 홈플러스, 희망퇴직 돌입…김병주는 국감 출불석",
+          "date": "2026-10-07"
+        },
+        {
+          "name": "아시아경제",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9OUlluLVcyd1pLbTR6VFNLcTZZZzlyalBsRVN3UnUyUmtvZ2hGcmdNUXBVTmZNXzFFbHRkRjdJSE03QTVDTGd4ZzVMSnc4TDhMaEZXMmZXQlFLb19mcXk0bA?oc=5",
+          "title": "홈플러스, 7일부터 희망퇴직…점포 축소에 인력 구조조정",
+          "date": "2026-10-07"
+        },
+        {
+          "name": "신아일보",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE90eWxfSTU5Z3N5WnV1UUduWmFiREtWVmNqTFdIa2l0SXN2c21KM010SFRuOFJqRjFDTE9XcGliNW9mNEdQUExXbzk1VUtGX0RreWRBYndfQlRfWmowVWF4X3dVZDBDV2txMktKXzB1LWo?oc=5",
+          "title": "홈플러스, 희망퇴직 단행…점포 반토막 여파",
+          "date": "2026-10-07"
+        },
+        {
+          "name": "천지일보",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9nS1dCWEJvVjBNcldCblBMenZObl9qVzZqVzJwNFFJdXo0RVFZc21ILUNSd1pHZU94TzJlYXc1TWIyVnd1S2wtS20xazN4M011YmRqV1MxVWZOaUhVdTBCbUVGSGFlZk1XS3c?oc=5",
+          "title": "홈플러스, 결국 희망퇴직 시행… 22일까지 신청받는다",
+          "date": "2026-10-07"
+        },
+        {
+          "name": "뉴시안",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1UOUdyZnE4N1FFZVpfTU0zS05LeXFVR0Y1MjlQakFRS0stMTJrYWdLUks0NGd5ZFRJelpHb0dwNTFyNDlLdlpWQk8zU1R3QWdnTzJxWmVreEo0S3N6WC0xZ05GSjgyZHFZVGow0gFuQVVfeXFMT3oxYlVpbHJVZmwxWHVURnIzdUJvd2pYMzNlMWM1SVRKUzFiSFNhRGs1S3YtOWZWNDlpVFpDMjgyWHNyRGFDQS1wbldCWVRiSDFvTE53NU5ESlp6RXhUQ2VFNm5iS1ZvcG5EUGc1SXc?oc=5",
+          "title": "홈플러스, 희망퇴직 시행… 매장 반토막·직원 절반 ‘유급휴업’",
+          "date": "2026-10-07"
+        },
+        {
+          "name": "서울파이낸스",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1fVmloU05DVnUxVFJ4UVFGSTh5c252VUpMNERjbTdVSTJadjB6MEtMX3hPdnp5UHNEZkpVdzVCMl9XZ3BwNHlvdlowSF9Cd0dTaGVUdEprUmowejhNVjU1TDFLdU9CaWpHdVE?oc=5",
+          "title": "홈플러스, 희망퇴직 실시···MBK 지분도 전량 소각",
+          "date": "2026-10-07"
+        },
+        {
+          "name": "한국금융신문",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1yaUJIc3N4N0Jhc0dMLWUxWWZxOU01MG0yWHhwSURNd2lKS0lZU3Nnb1doRkhCcldqYmJoNDd4UlJlbnltaERsbXU5cTBsNFBSb0hXRXg5LVlTOTNyTVBGNDRVWWl0aEtRX21YNFFVYXg4SHF1MVp6aHdRWkc?oc=5",
+          "title": "홈플러스, 희망퇴직 시행…“규모는 미정”",
+          "date": "2026-10-07"
+        },
+        {
+          "name": "문화일보",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1qWl9hOWZOWEF0TkxxRjhMa1ZyWmVlSnpwMTNfZkh4UXF5d1M2YTdrWlNxYjMydmFUeUtKTjN5MndteEttc05weWhmMGlXQWNL?oc=5",
+          "title": "‘정상화 난망’ 홈플러스, 결국 희망퇴직 실시…MBK 지분 전량 소각",
+          "date": "2026-10-07"
+        }
+      ],
+      "date": "2026-10-08",
+      "id": "20261008-00"
+    },
+    {
+      "cat": "labor",
+      "importance": "high",
+      "company": "고용노동부",
+      "title": "산단 협력사 불법파견 무더기 적발 및 직접고용 시정조치",
+      "body": "고용노동부가 안산 산단지역 점검 결과 18개 사업장에서 불법파견 근로자 136명을 적발하고 제조업체에 직접고용 명령 등 시정조치를 내렸어요.",
+      "insight": "물류 하역, 검수 등 플랫폼 지원 업무의 위탁·도급 운영 시 위장도급 및 불법파견 판단 기준에 대한 상시 모니터링이 요구돼요.",
+      "action": "그룹 물류센터 및 파트너사 현장 운영 체계가 파견법상 불법 소지가 없는지 노무 점검을 진행해 보세요.",
+      "teams": [
+        "노무·ER"
+      ],
+      "tags": [
+        "불법파견",
+        "직접고용",
+        "물류센터",
+        "노무리스크"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "참여와혁신",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5Oc3ZDbXk4UlVFUXktREQtZEtlX3I3RDdOQUU0N2V2UHVSc21pRVNJRXctN056TG1ScjBlbzBiLXBsV1dBQjlvMk5XNE95bE9LOHJiRXlQQW1jc015aGFxRDYzZ2UzWXhBSU5vbTV3?oc=5",
+          "title": "노동부, 안산 산단 136명 불법 파견 적발···직접 고용 조치",
+          "date": "2026-10-07"
+        },
+        {
+          "name": "프레스뉴스",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE83dUdrdnVpY1N5eHc1YUhfRTlqOTl3Y1lvNUN2dVBqQnVWQU5KeVRBb0VpanY5SmNESkZVcDhKQ3dKOFRneTRZbWZlWEtPeTg4ZjMxLWJNckRpakYySDZ0WkNFS2xra29WTER1dE16MmUydw?oc=5",
+          "title": "고용노동부, 안산 산단지역 불법파견 감독 결과 발표",
+          "date": "2026-10-07"
+        },
+        {
+          "name": "기호일보",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9vVzhwdWJGWXpLY3JNdldKWFQxUS1aSlJlT2dMTXIteUYwT3V3MjhGc1hVWXBMU0lwa1dYbVBTck93MDlKR0c3LS1Ud3dhRTBSY0JpYUFjZ3ZZNW5pekZyd3B4MWtrVE9NcHdOc2pRcw?oc=5",
+          "title": "노동부, 안산산단 지역 불법파견 감독결과 발표…18개소 적발",
+          "date": "2026-10-07"
+        },
+        {
+          "name": "Daum",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBTQWlNQnN1RU1zZFI1RU12amhLVk0zaGN0RXpVQUxMNjJ4OHlBTnZOM2QtOEhla3drRnlkTlhlWUlGZUNaakdNRVRLbGZwV3M?oc=5",
+          "title": "노동부, 안산 산단서 불법 파견 136명 적발…제조업체 직접고용 명령",
+          "date": "2026-10-07"
+        }
+      ],
+      "date": "2026-10-07",
+      "id": "20261008-05"
+    },
+    {
+      "cat": "market",
+      "importance": "high",
+      "company": "AMD",
+      "title": "AMD, 한국 AI 연구센터 설립 및 대규모 R&D 인재 채용",
+      "body": "리사 수 AMD CEO가 한국 AI 연구센터 구축을 공식화하며 수백 명 규모의 AI 전문 R&D 인재 채용 계획을 발표했어요.",
+      "insight": "국내 빅테크 및 IT 플랫폼 기업의 AI·머신러닝 개발자 유출이 가속화될 우려가 있어 당사 AI 인재 유치에도 경쟁 압박이 커져요.",
+      "action": "당사 데이터·AI 개발 직군의 경쟁력 있는 처우와 R&D 업무 환경을 점검하고 차별화된 영입 소구점을 마련해 보세요.",
+      "teams": [
+        "채용"
+      ],
+      "tags": [
+        "AMD",
+        "AI채용",
+        "R&D",
+        "인재확보"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "머니투데이",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE40alh6NW9Td3Z4d0NYY016b18xYjQ1SU85a2hjZ01fc2NBVlM2ODRJYTBHQWtySVFNNXo1bFRrRTAwU2Jlb3N0WUl1UnVsaEtGVklsY0JtaFVWdERCVWswaGtoWFQyZXM2RGVpVdIBbEFVX3lxTE40alh6NW9Td3Z4d0NYY016b18xYjQ1SU85a2hjZ01fc2NBVlM2ODRJYTBHQWtySVFNNXo1bFRrRTAwU2Jlb3N0WUl1UnVsaEtGVklsY0JtaFVWdERCVWswaGtoWFQyZXM2RGVpVQ?oc=5",
+          "title": "리사 수 \"AMD '韓 AI연구센터' 인재 수백명 채용\" - 머니투데이",
+          "date": "2026-10-08"
+        },
+        {
+          "name": "국민일보",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9INXQwYXVlVzlOY09GNVhrU0dfMGYzYUgyUmF3U08yWkpaNExaeHlWV2l0cU5RZFJpMUZsV2RlUmlZLWNBT2M4WTdNVVhHTEdOUk5wbzFPRDZxOWJIV0JadTVadXgtLXN5ZFZabNIBbEFVX3lxTE9INXQwYXVlVzlOY09GNVhrU0dfMGYzYUgyUmF3U08yWkpaNExaeHlWV2l0cU5RZFJpMUZsV2RlUmlZLWNBT2M4WTdNVVhHTEdOUk5wbzFPRDZxOWJIV0JadTVadXgtLXN5ZFZabA?oc=5",
+          "title": "리사 수 “반도체는 팀 스포츠”… AMD, 한국과 AI 동맹 넓힌다",
+          "date": "2026-10-08"
+        },
+        {
+          "name": "데일리안",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE01dmxEeG5UYm00SWNnRkpJUHE3UkRmZmxwZHdSa3lGUnBXRkxKeGxpSU8tVi1zQi1CQUhKUjBHQzNYYUdZTEpibExIeDFXVk1GOFFBUA?oc=5",
+          "title": "리사 수 \"한국은 매우 중요한 생태계\"…삼성·SK와 HBM 동맹 강화",
+          "date": "2026-10-07"
+        }
+      ],
+      "date": "2026-10-08",
+      "id": "20261008-02"
+    },
+    {
+      "cat": "labor",
+      "importance": "high",
+      "company": "고용노동부",
+      "title": "도급사업 '임금구분지급제' 신설 등 근로기준법 개정 대비",
+      "body": "2027년 시행 예정인 근로기준법 제44조의4(도급사업 임금비용 구분지급) 및 노동감독관 직무집행법 등 외주·도급 관련 법적 의무가 점차 엄격화되고 있어요.",
+      "insight": "물류 및 풀필먼트(스윗트래커, 몰테일 등) 현장에서 활용하는 협력사 도급 계약 시 인건비 분리 지급 및 노무 리스크 대응 체계 마련이 필수적이에요.",
+      "action": "물류·운영 부문 외주 계약 체결 시 임금 분리 지급 조항 반영 여부를 사전 검토하고 가이드라인을 수립해 보세요.",
+      "teams": [
+        "노무·ER",
+        "보상·복리후생"
+      ],
+      "tags": [
+        "임금구분지급제",
+        "도급관리",
+        "물류센터",
+        "근로기준법"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "시프티 블로그",
+          "url": "https://shiftee.io/ko/blog/article/subcontract-wage-cost-separation",
+          "title": "2027 임금구분지급제 시행: 주요 내용과 사업장 대응 기준 2027년 1월 1일부터 도급사업의 임금 비용 구분지급에 관한 근로기준법 제44조의4가 시행됩니다. 신설된 조항에 따라 일정한... 2026-09-03",
+          "date": "2026-10-08"
+        },
+        {
+          "name": "시프티 블로그",
+          "url": "https://shiftee.io/ko/blog/article/local-labor-inspection-law-preparation-guide",
+          "title": "2026년 노동감독관 직무집행법 시행: 지방 노동감독 대상과 범위 2026년 12월 8일부터 「노동감독관 직무집행법」이 시행됩니다. 이 법에 따라 중앙노동감독관과 지방노동감독관을 구분하고, 고... 2026-08-2",
+          "date": "2026-10-08"
+        }
+      ],
+      "date": "2026-10-08",
+      "id": "20261008-04"
+    },
+    {
+      "cat": "market",
+      "importance": "high",
+      "company": "카카오엔터테인먼트",
+      "title": "카카오엔터, 타파스 이어 번역 자회사 청산 및 인력 감원",
+      "body": "카카오엔터테인먼트가 북미 플랫폼 타파스에 이어 글로벌 번역 자회사 청산에 착수하며 소속 직원 30여 명의 고용 관계를 정리 중인 것으로 확인되었어요.",
+      "insight": "글로벌 콘텐츠 및 플랫폼 운영 실무 인력이 시장에 유입될 수 있어, 글로벌 역량이 필요한 몰테일 등 그룹사에 적합해요.",
+      "action": "콘텐츠 로컬라이제이션 및 글로벌 플랫폼 운영 경력자에 대해 링크드인 등에서 선제적 인재 풀을 확보해 보세요.",
+      "teams": [
+        "채용"
+      ],
+      "tags": [
+        "카카오엔터",
+        "자회사청산",
+        "인력정리",
+        "글로벌플랫폼"
+      ],
+      "our_group": false,
+      "talent": {
+        "level": "mid",
+        "signal": "자회사 청산 진행 — 글로벌 플랫폼 운영 및 로컬라이제이션 인력 유입"
+      },
+      "sources": [
+        {
+          "name": "머니투데이",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5pLUR4eGpuR3dDdWVuVzRsX2NSZ0dEWURqTDZmN2tMVW5palNjc2g2MUM1LTZxLUlpbE1Fc3JuVV83Wkt1TnRIb2NIbURVZ0JvVENaV3lpeGdRVzlsMW53OWtYSDgwOUNSX25wMtIBbEFVX3lxTE5pLUR4eGpuR3dDdWVuVzRsX2NSZ0dEWURqTDZmN2tMVW5palNjc2g2MUM1LTZxLUlpbE1Fc3JuVV83Wkt1TnRIb2NIbURVZ0JvVENaV3lpeGdRVzlsMW53OWtYSDgwOUNSX25wMg?oc=5",
+          "title": "[단독]카카오엔터, 타파스 이어 번역 자회사도 청산…직원 30여명 정리 수순 - 머니투데이",
+          "date": "2026-10-08"
+        }
+      ],
+      "date": "2026-10-08",
+      "id": "20261008-01"
+    },
+    {
+      "cat": "labor",
+      "importance": "high",
+      "company": "고용노동부",
+      "title": "포괄임금제 폐지 논의와 근로시간 관리 감독 강화 대응 필요",
+      "body": "고용노동부의 포괄임금 오남용 집중 점검과 함께 근태 기록의 투명성 요구가 커지면서 기업들의 실근로시간 기반 보상 체계 개편이 요구되고 있어요.",
+      "insight": "당사 그룹 내 포괄임금제 적용 사업장의 근로시간 산정 적법성을 선제 점검하지 않으면 향후 노무 리스크로 비화될 수 있어요.",
+      "action": "그룹 계열사별 포괄임금 약정 현황과 실제 연장·야간근로 시간 트래킹 시스템을 전수 조사해 보세요.",
+      "teams": [
+        "노무·ER",
+        "보상·복리후생",
+        "인사기획"
+      ],
+      "tags": [
+        "포괄임금제",
+        "근로시간",
+        "근태관리",
+        "노무감독"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "시프티 블로그",
+          "url": "https://shiftee.io/ko/blog/article/wage-system-reform-attendance-checklist-7",
+          "title": "포괄임금제 폐지 논의에 대비한 기업 근태관리 점검 체크리스트 7가지 2026년 들어 포괄임금제와 관련해 기업의 근로시간 기록과 근태관리 중요성이 더욱 커지고 있습니다. 고용노동부는 「포괄임금 오... 2026-09-",
+          "date": "2026-10-08"
+        }
+      ],
+      "date": "2026-10-08",
+      "id": "20261008-03"
+    },
+    {
+      "cat": "market",
+      "importance": "mid",
+      "company": "한화에어로스페이스",
+      "title": "채용 내 학벌·나이 차별 논란 확산 및 공정채용 준수 필요성",
+      "body": "한화에어로스페이스가 경력직 채용 과정에서 내부 지침상 나이 및 학벌 제한 논란이 불거져 대표이사가 공식 사과하고 국감 후속조치에 착수했어요.",
+      "insight": "채용 가이드라인 내 잠재적 차별 요소는 고용평등법 위반 리스크뿐 아니라 그룹사 채용 브랜드에 치명적인 타격을 줄 수 있어요.",
+      "action": "그룹 전사 면접관 교육 및 채용 전형 기준표 내 차별 유발 요소(나이, 학력 등) 유무를 전면 점검해 보세요.",
+      "teams": [
+        "채용",
+        "조직문화·HRD"
+      ],
+      "tags": [
+        "공정채용",
+        "채용차별",
+        "EVP",
+        "채용브랜딩"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "굿모닝충청",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5maXprcW5pTnA0LVpycTJSVENyaFJLOWx1R0dPYmNQRnptNmZzOEZocFVqLWNrQ2xCcGxOSDZtVkV3dHRXVU9FUFlMSF9jU1RSQ2d3UExBSjBXd0FZRENObGJaLUU0dVk1WnlmdUhtMzZaUQ?oc=5",
+          "title": "한화에어로스페이스 대표, '학벌·나이 제한' 채용 지침 사과",
+          "date": "2026-10-08"
+        },
+        {
+          "name": "피앤피뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBSMkpOV05rQ2dDU1Mydk9jTjZIcTNYVUxjVXp1Q3RPQVc1OUotUnZ1dVIxM2lWRGUzWVRRaGF2TDFnc3c4SjBfLURoMDU2UEhSUFpEd2o2bTVuU1JDcEE?oc=5",
+          "title": "“신입 채용에 나이 영향 있다” 79.5%…그런데 10명 중 7명은 “나이 제한 불필요”",
+          "date": "2026-10-08"
+        },
+        {
+          "name": "매일일보",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8xYXd6WHg1WUV6OGRyYm5XTFNWY1Qybnh1QWZsQUhtajk1SjgxWUE3cm1YWkl0TjBnQzhuU2x5X3FwbHVoZnJwOTRaQWNkZjB5NTU3ay1JT0dnQkd4UE4yRG0tamo?oc=5",
+          "title": "한화에어로, 경력직 채용 지침 논란 후속조치 착수",
+          "date": "2026-10-07"
+        },
+        {
+          "name": "현대경제신문",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE02amVQckhSXzBGdEl4ZHhuS1JNdXJnRFkzcGdzRVBOaWs1MDBfQVYzbXdzYVZoWUZHS2haOV9JRC1lczkxRDBmRlRHM1pBYWQ0WFJNTWdZU1JyUHR5dldpd2xnYXhUXzTSAWtBVV95cUxNd0lISzRPNlMzYVJPZWY4c0JaelpDaXpMVHRVLUQ1OG12S21uVHNpMjFfdkZNd0ZoUElTcGFXVmJySjI5dmFIRjFnWG5UVFJvZjAwemtxN0pZVkpWVkdpS3p6SlpKbWRNVlRvUQ?oc=5",
+          "title": "[2026 국감]한화에어로 경력직 채용 논란···개선 자료 제출 요구",
+          "date": "2026-10-07"
+        }
+      ],
+      "date": "2026-10-08",
+      "id": "20261008-07"
+    },
+    {
+      "cat": "trend",
+      "importance": "mid",
+      "company": "업계 전반",
+      "title": "페이롤 자동화 확산과 인사 담당자의 내부 통제 기준",
+      "body": "페이롤 및 근태 관리 시스템의 자동화 과정에서 세무·노무 규정 해석 오류를 방지하기 위해 인사 담당자의 검증과 거버넌스 유지가 강조되고 있어요.",
+      "insight": "급여 및 복리후생 정산 자동화 툴 도입 시 전산화와 별개로 정기적인 감사 및 예외 케이스 검증 체계가 병행되어야 해요.",
+      "action": "현재 활용 중인 급여 연동 시스템의 계산 로직 오류 점검 프로세스와 정기 크로스체크 방안을 수립해 보세요.",
+      "teams": [
+        "인사기획",
+        "보상·복리후생"
+      ],
+      "tags": [
+        "페이롤",
+        "HRTech",
+        "급여정산",
+        "자동화",
+        "내부통제"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "기고만장",
+          "url": "https://ggmj.kr/Deel/?idx=174998423&bmode=view",
+          "title": "[Deel] 페이롤 자동화 전에 알아야 할 것: 인간이 통제를 유지해야 하는 영역 --> --> --> [Deel] 페이롤 자동화 전에 알아야 할 것: 인간이 통제를 유지해야 하는 영역 N",
+          "date": "2026-10-08"
+        },
+        {
+          "name": "시프티 블로그",
+          "url": "https://shiftee.io/ko/blog/article/groupware-and-pc-off-integration-for-working-hours-management",
+          "title": "사용중인 그룹웨어와 PC-OFF를 연동해 근로시간관리 체계 구축하기 최근 많은 기업이 그룹웨어를 통해 출퇴근기록과 전자결재를 함께 운영하고 있습니다. 일정 관리, 메신저, 전자결재 기능이 통합된... 2026-06-",
+          "date": "2026-10-08"
+        },
+        {
+          "name": "시프티 블로그",
+          "url": "https://shiftee.io/ko/blog/article/pc-off-attendance-payroll-integration",
+          "title": "PC-OFF 프로그램과 근태관리·급여 시스템 연동 방법 및 구축 가이드 사무직 근태관리에서 PC-OFF 프로그램은 계획된 근무일정을 기준으로 PC 사용을 관리하고, 출퇴근기록, 휴가, 연장·단축근무... 2026-0",
+          "date": "2026-10-08"
+        }
+      ],
+      "date": "2026-10-08",
+      "id": "20261008-09"
+    },
+    {
+      "cat": "labor",
+      "importance": "mid",
+      "company": "업계 전반",
+      "title": "시간 단위 연차 확대 추세와 사업장 노무 리스크 대응",
+      "body": "근로시간 유연화로 1시간 단위 연차휴가 사용이 확산됨에 따라 연차 관리 복잡도 증가 및 수당 정산 오류 등 노무 관리 리스크가 부각되고 있어요.",
+      "insight": "유연근무제 운영과 연계된 시간 단위 연차 제도가 체계화되지 않으면 잔여 연차 정산 및 수당 분쟁이 발생할 수 있어요.",
+      "action": "당사 그룹웨어 내 시간 단위 연차 신청 기준과 미사용 연차 유급휴가 촉진 절차를 재확인해 보세요.",
+      "teams": [
+        "노무·ER",
+        "보상·복리후생"
+      ],
+      "tags": [
+        "시간단위연차",
+        "연차수당",
+        "근태관리",
+        "연차촉진"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "전자신문",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9TMmsxeDlmdGh5ZE8yX25TY0tRcTJIamk3LVlrelNuR2hLeFZmWGtFRlhRVm00T3dPZ3ZEUUxOOHJLMHljXzY3ZnIzY3N6UQ?oc=5",
+          "title": "유니포스트, '1시간 단위 연차 시대의 HR 리스크와 대응 전략' e북 발간…노무 리스크 분석·업종별 해결 사례 수록",
+          "date": "2026-10-07"
+        },
+        {
+          "name": "데이터뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA3R2RrYjFoVHJPRWc0TmxRRDkycUFKcXZOR0lJa2FUN3QzQ0xmcmkzdTJjOThxQjRpY3lJR3d4blNtVU5qLUU3LXdOWGhBa1pWSDhNVnktdTluYXJHbzAwRW9lQXY?oc=5",
+          "title": "유니포스트, ‘시간 단위 연차’ 대응 HR 실무 리포트 발간",
+          "date": "2026-10-07"
+        },
+        {
+          "name": "아웃소싱타임스",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9oS3pjc0FPT245bURiRkxjcUpYTlNYZVVKMURWMUhLdlBXV3UxSnladEZnX0o2WVZlTjFXT0lpTDRpQ1JwNHBFTGQzc2ZnT0g3UFFRY1hzOHdzZ1FZbXlLZ1lyUGlOUnpzeGw0SnZpR3V4QQ?oc=5",
+          "title": "[사업주가 반드시 알아야 할 인사노무상식⑨] 연차유급휴가 사용촉진제도와 관련된 사업주 의무사항 안내",
+          "date": "2026-10-07"
+        }
+      ],
+      "date": "2026-10-07",
+      "id": "20261008-10"
+    },
+    {
+      "cat": "market",
+      "importance": "mid",
+      "company": "업계 전반",
+      "title": "신입 개발자 직군별 연봉 격차 분석 및 채용 기준 점검",
+      "body": "잡플래닛 분석에 따르면 신입 개발자 초봉 4천만 원대 형성 여부와 함께 백엔드, 프론트엔드 등 직군별 연봉 및 포지션 격차가 지속 확인되고 있어요.",
+      "insight": "신입 및 주니어 테크 인재 유치 시 직군별 시장 벤치마크에 맞춘 오퍼 제안이 없으면 입사 포기율이 증가할 수 있어요.",
+      "action": "다나와, 메이크샵 등 주요 플랫폼 직군별 신입·주니어 개발자 연봉 테이블의 시장 경쟁력을 재검토해 보세요.",
+      "teams": [
+        "채용",
+        "보상·복리후생"
+      ],
+      "tags": [
+        "개발자연봉",
+        "초봉",
+        "프론트엔드",
+        "백엔드",
+        "채용경쟁력"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "잡플래닛 콘텐츠",
+          "url": "https://www.jobplanet.co.kr/contents/news-8498",
+          "title": "개발자 초봉, 4천 넘을까? 직군별 비교💵 신입 개발자로 커리어를 시작하려는 취준생이라면 “개발자는 신입도 초봉 4천만원 받는다던데?”, “프론트엔드랑 백엔드는 연봉 차이가 클까?” 같은 궁금증이 생기죠. 그래서 잡",
+          "date": "2026-10-08"
+        },
+        {
+          "name": "잡플래닛",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBDd2hreGVaS0hpXzk3Q1FkMFBlNG0xOFppR0VSYVNpTHJOT0FaS202bmZWdk1uYm1ZcUpuRXFaTG1uYUdDbXNiYUdpRXVMbDRaa1B4RjdTaW9sQQ?oc=5",
+          "title": "신입 개발자 연봉, 백엔드·프론트엔드 초봉 현실은?",
+          "date": "2026-10-07"
+        }
+      ],
+      "date": "2026-10-08",
+      "id": "20261008-06"
+    },
+    {
+      "cat": "trend",
+      "importance": "mid",
+      "company": "업계 전반",
+      "title": "최종 합격자 입사 포기 방지 및 후보자 온보딩 경험 관리",
+      "body": "최종 합격 후 입사를 포기하는 원인 분석 리포트에서 처우 불일치, 불투명한 커뮤니케이션, 온보딩 공백이 핵심 요인으로 지적되었어요.",
+      "insight": "어려운 채용 과정을 통과한 우수 인재의 이탈을 줄이기 위해 처우 협의부터 입사 첫 주까지의 경험 관리가 중요해요.",
+      "action": "합격 통보 후 첫 출근 전까지의 Pre-onboarding 프로세스를 체계화하고 안내 커뮤니케이션을 강화해 보세요.",
+      "teams": [
+        "조직문화·HRD",
+        "채용"
+      ],
+      "tags": [
+        "온보딩",
+        "입사포기",
+        "후보자경험",
+        "채용프로세스"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "기고만장",
+          "url": "https://ggmj.kr/hredge/?idx=174997561&bmode=view",
+          "title": "[EP.475 ] 최종 합격자 입사 포기이유 3가지와 예방법 / [ Edge7기 김성중 ] --> --> --> [EP.475 ] 최종 합격자 입사 포기이유 3가지와 예방법 / [ Edge7기 김성중 ] N",
+          "date": "2026-10-08"
+        }
+      ],
+      "date": "2026-10-08",
+      "id": "20261008-08"
+    },
+    {
+      "cat": "trend",
+      "importance": "low",
+      "company": "업계 전반",
+      "title": "속도 중심 운영 속 조직 침묵 현상과 성장 경험 회복",
+      "body": "AI 도입과 단기 속도 중심 운영으로 인해 문제 해결과 성장의 기회가 줄어들며 구성원의 침묵과 성과 저하가 조기 신호로 나타난다는 HR 분석이 제기되었어요.",
+      "insight": "업무 툴 도입 확대 속에서도 구성원이 주도적으로 과제를 정의하고 성장할 수 있는 코칭 문화가 유지되어야 해요.",
+      "action": "팀장급 리더십 교육 시 구성원 성장 지원 및 피드백 중심 1on1 미팅 가이드를 배포해 보세요.",
+      "teams": [
+        "조직문화·HRD",
+        "인사기획"
+      ],
+      "tags": [
+        "조직문화",
+        "조직침묵",
+        "리더십",
+        "직원경험",
+        "성장지원"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "잡코리아 HR 뉴스",
+          "url": "https://www.jobkorea.co.kr/Corp/Lounge/News_View?GI_Trend_News_No=1068&Page=1&psTab=10&selText=",
+          "title": "조직의 성과 저하와 침묵, 늘어나는 인수인계와 반복 회의는 성장 경험이 사라지는 조기 신호일 수 있다. AI와 속도 중심 운영 속에서 약해지는 문제 해결·판단 역량을 점검하고, 해",
+          "date": "2026-10-08"
+        },
+        {
+          "name": "오프피스트",
+          "url": "https://www.offpiste.ai/articles/지금-리더의-관계-역량이-더욱-중요한-이유-2483",
+          "title": "지금 리더의 관계 역량이 더욱 중요한 이유",
+          "date": "2026-10-02"
+        },
+        {
+          "name": "오프피스트",
+          "url": "https://www.offpiste.ai/articles/주니어들이-질문을-안-해요-2475",
+          "title": "주니어들이 질문을 안 해요",
+          "date": "2026-10-02"
+        }
+      ],
+      "date": "2026-10-08",
+      "id": "20261008-11"
+    }
+  ]
+}
