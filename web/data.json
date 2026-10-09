@@ -56,9 +56,635 @@
     ]
    }
   ],
-  "updated": "2026-10-08T08:55+09:00"
+  "updated": "2026-10-09T09:04+09:00"
  },
  "reports": [
+  {
+   "date": "2026-10-09",
+   "window_days": 1,
+   "article_count": 309,
+   "engine": "gemini-3.7-flash",
+   "headline": "오늘은 AI 분석이 실패해 제목 기준으로만 골랐어요",
+   "points": [
+    "수집 기사 309건 중 HR 관련 단어가 있는 25건만 올렸어요",
+    "시사점·팀 태그 없이 기사 제목만 보여드려요"
+   ],
+   "analysis_error": "'list' object has no attribute 'get'",
+   "items": [
+    {
+     "id": "20261009-f00",
+     "cat": "market",
+     "importance": "low",
+     "teams": [
+      "채용"
+     ],
+     "company": "워크투데이",
+     "title": "대기업 채용시장 살아나나 … 3분기 반도체 채용공고 102% 급증",
+     "body": "대기업 채용시장 살아나나 … 3분기 반도체 채용공고 102% 급증 워크투데이",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "워크투데이",
+       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1henZNTC1yMUZTci1VYU9qSEg5REp3a0I0alByVUV3TDBWdzNSMVp1eUc3SzN5ZUhFc3ZwS0hteEFUTEFISkprOEJrcGk2elZBRFY1c1A3ZlVManYyNkVaOFJ4SU5HWkRUaTFCUQ?oc=5",
+       "title": "대기업 채용시장 살아나나 … 3분기 반도체 채용공고 102% 급증",
+       "date": "2026-10-09"
+      }
+     ],
+     "date": "2026-10-09"
+    },
+    {
+     "id": "20261009-f01",
+     "cat": "market",
+     "importance": "low",
+     "teams": [
+      "채용"
+     ],
+     "company": "Unite.AI",
+     "title": "Arena, AI 평가를 진전시키기 위해 $200백만 시리즈 B를 $3.1십억 가치로 확보",
+     "body": "Arena, AI 평가를 진전시키기 위해 $200백만 시리즈 B를 $3.1십억 가치로 확보 Unite.AI",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "Unite.AI",
+       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNOUZjOExFVUl5SEhxQnJuTHpsMExTSExxd0pKWW5oeDlIOERXaWdxeEtqOGF1TGV5QXk5WHkycUQ3cWJfVGpFd2lHejY2dXdZcHZOVE9PdzdKNWZzRE5DdHdENjFLRXJwNXgxbjdpTG9XdWlMT20wNFRIcHJvaWhxdWhmZk9Qb3dxLXlMaFVlNkRXNktsZGpoM2RVMA?oc=5",
+       "title": "Arena, AI 평가를 진전시키기 위해 $200백만 시리즈 B를 $3.1십억 가치로 확보",
+       "date": "2026-10-09"
+      }
+     ],
+     "date": "2026-10-09"
+    },
+    {
+     "id": "20261009-f02",
+     "cat": "market",
+     "importance": "low",
+     "teams": [
+      "채용"
+     ],
+     "company": "뉴스핌",
+     "title": "美, 마이크로소프트 등 일부 기업 영주권 신청 중단…\"미국인 해고하고 외국인 채용\"",
+     "body": "美, 마이크로소프트 등 일부 기업 영주권 신청 중단…\"미국인 해고하고 외국인 채용\" 뉴스핌",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "뉴스핌",
+       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5sNnRGblpEeXFIS0p4a0VrempTQlMxdGtGNW1qUG9QYlNRWk42bnNZaHFQdFM2a1ZsZkQxdXVqajVHRkp5bnZEU1ZoVlJwOHhBdUtwVFpXNmNTZHRo?oc=5",
+       "title": "美, 마이크로소프트 등 일부 기업 영주권 신청 중단…\"미국인 해고하고 외국인 채용\"",
+       "date": "2026-10-09"
+      }
+     ],
+     "date": "2026-10-09"
+    },
+    {
+     "id": "20261009-f03",
+     "cat": "market",
+     "importance": "low",
+     "teams": [
+      "채용"
+     ],
+     "company": "MBC 뉴스",
+     "title": "미국, 빅테크 기업 외국인 채용 사실상 제한",
+     "body": "미국, 빅테크 기업 외국인 채용 사실상 제한 MBC 뉴스",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "MBC 뉴스",
+       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5oNEZqNXBTZ2tMV3NFOER3NEdaeVpmSjI2SDNOTGZmZHo2X3NhVFYyeVpCeFBUTXQwNHJpc2xXTTl4VlJsMmRzdWcxU1JsTGphVHIwYW5DZW9xNXdyN2pfcnB6Rmg5ZFNsQVVwSUJzdV9fdDk0QWVxdWdR0gF6QVVfeXFMTmg0Rmo1cFNna0xXc0U4RHc0R1p5WmZKMjZIM05MZmZkejZfc2FUVjJ5WkJ4UFRNdDA0cmlzbFdNOXhWUmwyZHN1ZzFTUmxMamFUcjBhbkNlb3E1d3I3al9ycHpGaDlkU2xBVXBJQnN1X190OTRBZXF1Z1E?oc=5",
+       "title": "미국, 빅테크 기업 외국인 채용 사실상 제한",
+       "date": "2026-10-09"
+      }
+     ],
+     "date": "2026-10-09"
+    },
+    {
+     "id": "20261009-f04",
+     "cat": "market",
+     "importance": "low",
+     "teams": [
+      "채용"
+     ],
+     "company": "세계일보",
+     "title": "美, 마이크로소프트 등 빅테크의 ‘외국인 노동자 영주권 신청’ 배제",
+     "body": "美, 마이크로소프트 등 빅테크의 ‘외국인 노동자 영주권 신청’ 배제 세계일보",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "세계일보",
+       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBkMjNVQ1JMTHJKSXdaSTV4X2hZOWdtN0hsOUdVU3FuT0JRTURKY0gyQ0kxRlpQal94dUJCd1Y3VUpwTFA5ODlhNmtkWS1SdDBVaWtZRmg0MTfSAVRBVV95cUxPdGdZX1VNdW94UjRIa2tyODQ0WXFwNGY1MzhBdXpiaFhRaVdhOHBsaHZKYlZmcnh5X0RRR0hYT1hhWUliU1otcm9sdlBPQ3ZGcGhTOF8?oc=5",
+       "title": "美, 마이크로소프트 등 빅테크의 ‘외국인 노동자 영주권 신청’ 배제",
+       "date": "2026-10-09"
+      }
+     ],
+     "date": "2026-10-09"
+    },
+    {
+     "id": "20261009-f05",
+     "cat": "market",
+     "importance": "low",
+     "teams": [
+      "채용"
+     ],
+     "company": "연합뉴스",
+     "title": "美, MS 등 빅테크의 '외국인 노동자 영주권 신청' 배제",
+     "body": "美, MS 등 빅테크의 '외국인 노동자 영주권 신청' 배제 연합뉴스",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "연합뉴스",
+       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5uS1IyS0xaMURiRkFlY1FTTmhVX2t0WnFjM21CUEpOYk44UWlFc19LektqelZ0X3VPUGRCQjlzWHRMRFdBRnBNRDdCUU1TU0FkbmlNcXhGcnQzZkQ1cDFhRtIBYEFVX3lxTE5uS1IyS0xaMURiRkFlY1FTTmhVX2t0WnFjM21CUEpOYk44UWlFc19LektqelZ0X3VPUGRCQjlzWHRMRFdBRnBNRDdCUU1TU0FkbmlNcXhGcnQzZkQ1cDFhRg?oc=5",
+       "title": "美, MS 등 빅테크의 '외국인 노동자 영주권 신청' 배제",
+       "date": "2026-10-09"
+      }
+     ],
+     "date": "2026-10-09"
+    },
+    {
+     "id": "20261009-f06",
+     "cat": "market",
+     "importance": "low",
+     "teams": [
+      "채용"
+     ],
+     "company": "시애틀코리안데일리",
+     "title": "[2보] MS \"H-1B로 미국인 대체했다는 밴스 주장은 왜곡\"…\"신청 80%는 기존 직원\"",
+     "body": "[2보] MS \"H-1B로 미국인 대체했다는 밴스 주장은 왜곡\"…\"신청 80%는 기존 직원\" 시애틀코리안데일리",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "시애틀코리안데일리",
+       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBscG1WQUstMVlQalBROFNoLVBqdTdpV3YyX3FabEpaaWRqQjlFd0Fydl91VGRyS1hqVXRoYW1Fa0Jzc21HcjBWSVQxcnlOWXp6aVBCeHdYbDhHSXl2YU1WalVrTjdvaDg2Y2hrY1BKS2Y?oc=5",
+       "title": "[2보] MS \"H-1B로 미국인 대체했다는 밴스 주장은 왜곡\"…\"신청 80%는 기존 직원\"",
+       "date": "2026-10-09"
+      }
+     ],
+     "date": "2026-10-09"
+    },
+    {
+     "id": "20261009-f07",
+     "cat": "market",
+     "importance": "low",
+     "teams": [
+      "채용"
+     ],
+     "company": "SeattleN",
+     "title": "아마존 또 감원 나섰다…이번엔 온라인 쇼핑 핵심 ‘스토어스’ 부문 > 시애틀 뉴스/핫이슈",
+     "body": "아마존 또 감원 나섰다…이번엔 온라인 쇼핑 핵심 ‘스토어스’ 부문 > 시애틀 뉴스/핫이슈 SeattleN",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "SeattleN",
+       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5CZ1NQTm5oUlVudEZsT0F4NllEdDA2RVVSLVhaNWk0d3EzUkczOG00XzZ4S1FZbVhTZnRraVFCVmtIWFpDMkdvaE5B?oc=5",
+       "title": "아마존 또 감원 나섰다…이번엔 온라인 쇼핑 핵심 ‘스토어스’ 부문 > 시애틀 뉴스/핫이슈",
+       "date": "2026-10-09"
+      }
+     ],
+     "date": "2026-10-09"
+    },
+    {
+     "id": "20261009-f08",
+     "cat": "market",
+     "importance": "low",
+     "teams": [
+      "채용"
+     ],
+     "company": "데이터투자",
+     "title": "페이오니아, 바락 에일람 이사 사임…최고법률책임자에 525만 달러 잔류 보상금 부여 예정",
+     "body": "페이오니아, 바락 에일람 이사 사임…최고법률책임자에 525만 달러 잔류 보상금 부여 예정 데이터투자",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "데이터투자",
+       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1YV2x3ZHdHTWRFOTNXaGUxRHFKUFhKLXh4cG5wSm1XdTB1dzRjcW5RbGZ2Rlp4MkJiZ055bXktX2hsTlhiSFNILXhpUUM1NkpXY0pENlNsT1hIVkVtTmFwa3NDQTJNYXN3dUN0MThqOEYtVDQ?oc=5",
+       "title": "페이오니아, 바락 에일람 이사 사임…최고법률책임자에 525만 달러 잔류 보상금 부여 예정",
+       "date": "2026-10-09"
+      }
+     ],
+     "date": "2026-10-09"
+    },
+    {
+     "id": "20261009-f09",
+     "cat": "market",
+     "importance": "low",
+     "teams": [
+      "채용"
+     ],
+     "company": "양파티브이뉴스",
+     "title": "[양파TV뉴스 특집기획 ③] 대구 새마을금고 구조조정의 핵심은 ‘누가 합병되느냐’가 아니다",
+     "body": "[양파TV뉴스 특집기획 ③] 대구 새마을금고 구조조정의 핵심은 ‘누가 합병되느냐’가 아니다 양파티브이뉴스",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "양파티브이뉴스",
+       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB2VHloSGZxTUFNNl80eGpxUldOYl9iMXM3YkMyZDFQM09lUFpaTkNlbm1ZYmVQcXRrRVg5RXBRcmp6Zmh2NXEtQkxxdXFVMjVIaEdUWkFYdHhFM1BEY0kyY2R3N2RzZ2Ix?oc=5",
+       "title": "[양파TV뉴스 특집기획 ③] 대구 새마을금고 구조조정의 핵심은 ‘누가 합병되느냐’가 아니다",
+       "date": "2026-10-09"
+      }
+     ],
+     "date": "2026-10-09"
+    },
+    {
+     "id": "20261009-f10",
+     "cat": "trend",
+     "importance": "low",
+     "teams": [
+      "인사기획",
+      "조직문화·HRD"
+     ],
+     "company": "지티티코리아",
+     "title": "AI 채용 사기, 신원 교차 검증으로 적발",
+     "body": "AI 채용 사기, 신원 교차 검증으로 적발 지티티코리아",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "지티티코리아",
+       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE51ZkduX1hrZ0UzZUJVeGI3SzdoOTFNb1ZxSHJ5RU82ZFRYYVpsekx3Zi1RaEExcUNHeERZLXJBY2hQVkUyRDRHOEJJREJFc2V0MUVSaG5KQktBRHRsbkR6T2pQOEVWMldTRkE?oc=5",
+       "title": "AI 채용 사기, 신원 교차 검증으로 적발",
+       "date": "2026-10-09"
+      }
+     ],
+     "date": "2026-10-09"
+    },
+    {
+     "id": "20261009-f11",
+     "cat": "trend",
+     "importance": "low",
+     "teams": [
+      "인사기획",
+      "조직문화·HRD"
+     ],
+     "company": "월요신문",
+     "title": "슈퍼코더, 대학생 대상 'AI 면접대회' 개최…반도체 기업 채용 과정 체험",
+     "body": "슈퍼코더, 대학생 대상 'AI 면접대회' 개최…반도체 기업 채용 과정 체험 월요신문",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "월요신문",
+       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAtZmVOYk1FdVd1d2pjcVFqMk9RQ0hYNkFybU5GY3B1TnZKNWJIWlZHdmxpRXFQbk5URlpfTERJcmhORjU2MUhNWjhxeDl2WWRBS3RxM2gzOTVPa0FYWnF3NFFoVU02YmotbWc?oc=5",
+       "title": "슈퍼코더, 대학생 대상 'AI 면접대회' 개최…반도체 기업 채용 과정 체험",
+       "date": "2026-10-09"
+      }
+     ],
+     "date": "2026-10-09"
+    },
+    {
+     "id": "20261009-f12",
+     "cat": "labor",
+     "importance": "low",
+     "teams": [
+      "노무·ER",
+      "보상·복리후생"
+     ],
+     "company": "경향신문",
+     "title": "[단독]계약서만 봐선 1년 임금 모른다…55개 대학 중 49곳 ‘법 위반 소지’[강사법 7년, 남은 ‘시간강사’①]",
+     "body": "[단독]계약서만 봐선 1년 임금 모른다…55개 대학 중 49곳 ‘법 위반 소지’[강사법 7년, 남은 ‘시간강사’①] 경향신문",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "경향신문",
+       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9xdzdlZVA4WkkyUEFkR3ZTRHFkU1dkenQ4S0xnRzJqal9jRjVTc0s4VzAzd3Z5MmVFdzZkdG94bHA5N09qaWJ0WkF0NklNRmsxODNfSWhPZjJLOUN5TlQ40gFfQVVfeXFMT3F3N2VlUDhaSTJQQWRHdlNEcWRTV2R6dDhLTGdHMmpqX2NGNVNzSzhXMDN3dnkyZUV3NmR0b3hscDk3T2ppYnRaQXQ2SU1GazE4M19JaE9mMks5Q3lOVDg?oc=5",
+       "title": "[단독]계약서만 봐선 1년 임금 모른다…55개 대학 중 49곳 ‘법 위반 소지’[강사법 7년, 남은 ‘시간강사’①]",
+       "date": "2026-10-09"
+      }
+     ],
+     "date": "2026-10-09"
+    },
+    {
+     "id": "20261009-f13",
+     "cat": "trend",
+     "importance": "low",
+     "teams": [
+      "인사기획",
+      "조직문화·HRD"
+     ],
+     "company": "기고만장",
+     "title": "[고용노동부] 2026 공정채용 하반기 대국민 이벤트! --> --> --> [고용노동부] 2026 공정채용 하반기 대국민 이벤트! N",
+     "body": "",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "기고만장",
+       "url": "https://ggmj.kr/moel-kr/?idx=175018059&bmode=view",
+       "title": "[고용노동부] 2026 공정채용 하반기 대국민 이벤트! --> --> --> [고용노동부] 2026 공정채용 하반기 대국민 이벤트! N",
+       "date": "2026-10-09"
+      }
+     ],
+     "date": "2026-10-09"
+    },
+    {
+     "id": "20261009-f14",
+     "cat": "trend",
+     "importance": "low",
+     "teams": [
+      "인사기획",
+      "조직문화·HRD"
+     ],
+     "company": "기고만장",
+     "title": "[Deel] 미국 프리랜서(1099) 오분류: 회사가 알아야 할 위험 --> --> --> [Deel] 미국 프리랜서(1099) 오분류: 회사가 알아야 할 위험 N",
+     "body": "",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "기고만장",
+       "url": "https://ggmj.kr/Deel/?idx=175008413&bmode=view",
+       "title": "[Deel] 미국 프리랜서(1099) 오분류: 회사가 알아야 할 위험 --> --> --> [Deel] 미국 프리랜서(1099) 오분류: 회사가 알아야 할 위험 N",
+       "date": "2026-10-09"
+      }
+     ],
+     "date": "2026-10-09"
+    },
+    {
+     "id": "20261009-f15",
+     "cat": "trend",
+     "importance": "low",
+     "teams": [
+      "인사기획",
+      "조직문화·HRD"
+     ],
+     "company": "기고만장",
+     "title": "[브이드림] 장애인 고용 인사이트 ㅣ 장애인 채용 고민을 해결한 시스템 --> --> --> [브이드림] 장애인 고용 인사이트 ㅣ 장애인 채용 고민을 해결한 시스템 N",
+     "body": "",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "기고만장",
+       "url": "https://ggmj.kr/vdream/?idx=175007163&bmode=view",
+       "title": "[브이드림] 장애인 고용 인사이트 ㅣ 장애인 채용 고민을 해결한 시스템 --> --> --> [브이드림] 장애인 고용 인사이트 ㅣ 장애인 채용 고민을 해결한 시스템 N",
+       "date": "2026-10-09"
+      }
+     ],
+     "date": "2026-10-09"
+    },
+    {
+     "id": "20261009-f16",
+     "cat": "trend",
+     "importance": "low",
+     "teams": [
+      "인사기획",
+      "조직문화·HRD"
+     ],
+     "company": "기고만장",
+     "title": "[Deel] 직원 모니터링, 국가마다 다른 규칙입니다 --> --> --> [Deel] 직원 모니터링, 국가마다 다른 규칙입니다 N",
+     "body": "",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "기고만장",
+       "url": "https://ggmj.kr/Deel/?idx=175006262&bmode=view",
+       "title": "[Deel] 직원 모니터링, 국가마다 다른 규칙입니다 --> --> --> [Deel] 직원 모니터링, 국가마다 다른 규칙입니다 N",
+       "date": "2026-10-09"
+      }
+     ],
+     "date": "2026-10-09"
+    },
+    {
+     "id": "20261009-f17",
+     "cat": "trend",
+     "importance": "low",
+     "teams": [
+      "인사기획",
+      "조직문화·HRD"
+     ],
+     "company": "기고만장",
+     "title": "[Deel] 직원 정신건강, 이제는 고용주의 법적 의무입니다 (유럽/호주) --> --> --> [Deel] 직원 정신건강, 이제는 고용주의 법적 의무입니다 (유럽/호주) N",
+     "body": "",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "기고만장",
+       "url": "https://ggmj.kr/Deel/?idx=175005509&bmode=view",
+       "title": "[Deel] 직원 정신건강, 이제는 고용주의 법적 의무입니다 (유럽/호주) --> --> --> [Deel] 직원 정신건강, 이제는 고용주의 법적 의무입니다 (유럽/호주) N",
+       "date": "2026-10-09"
+      }
+     ],
+     "date": "2026-10-09"
+    },
+    {
+     "id": "20261009-f18",
+     "cat": "market",
+     "importance": "low",
+     "teams": [
+      "채용"
+     ],
+     "company": "잡플래닛 콘텐츠",
+     "title": "잡플래닛 에디터 주4일제도 채용중! 워라밸 극상 회사 신입 공고",
+     "body": "",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "잡플래닛 콘텐츠",
+       "url": "https://www.jobplanet.co.kr/contents/news-8501",
+       "title": "잡플래닛 에디터 주4일제도 채용중! 워라밸 극상 회사 신입 공고",
+       "date": "2026-10-09"
+      }
+     ],
+     "date": "2026-10-09"
+    },
+    {
+     "id": "20261009-f19",
+     "cat": "market",
+     "importance": "low",
+     "teams": [
+      "채용"
+     ],
+     "company": "잡플래닛 콘텐츠",
+     "title": "(주)인라이플 OpenRTB 광고 플랫폼을 만드는 Backend팀 [인터뷰] 모비위드 백엔드팀, 최병철 과장",
+     "body": "",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "잡플래닛 콘텐츠",
+       "url": "https://www.jobplanet.co.kr/contents/news-8502",
+       "title": "(주)인라이플 OpenRTB 광고 플랫폼을 만드는 Backend팀 [인터뷰] 모비위드 백엔드팀, 최병철 과장",
+       "date": "2026-10-09"
+      }
+     ],
+     "date": "2026-10-09"
+    },
+    {
+     "id": "20261009-f20",
+     "cat": "market",
+     "importance": "low",
+     "teams": [
+      "채용"
+     ],
+     "company": "잡플래닛 콘텐츠",
+     "title": "ESG Walk & Connect Challenge 사내복지활용 (주)페렌벨",
+     "body": "",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "잡플래닛 콘텐츠",
+       "url": "https://www.jobplanet.co.kr/contents/news-8500",
+       "title": "ESG Walk & Connect Challenge 사내복지활용 (주)페렌벨",
+       "date": "2026-10-09"
+      }
+     ],
+     "date": "2026-10-09"
+    },
+    {
+     "id": "20261009-f21",
+     "cat": "trend",
+     "importance": "low",
+     "teams": [
+      "인사기획",
+      "조직문화·HRD"
+     ],
+     "company": "잡코리아 HR 뉴스",
+     "title": "평가제도 변경만으로 해결되지 않는 성과관리의 본질을 성과책임에서 찾고, 조직 목적·성과책임·목표·피드백의 연결과 리더 권한·코칭의 역할을 살펴본 인터뷰.",
+     "body": "",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "잡코리아 HR 뉴스",
+       "url": "https://www.jobkorea.co.kr/Corp/Lounge/News_View?GI_Trend_News_No=1070&Page=1&psTab=10&selText=",
+       "title": "평가제도 변경만으로 해결되지 않는 성과관리의 본질을 성과책임에서 찾고, 조직 목적·성과책임·목표·피드백의 연결과 리더 권한·코칭의 역할을 살펴본 인터뷰.",
+       "date": "2026-10-09"
+      }
+     ],
+     "date": "2026-10-09"
+    },
+    {
+     "id": "20261009-f22",
+     "cat": "trend",
+     "importance": "low",
+     "teams": [
+      "인사기획",
+      "조직문화·HRD"
+     ],
+     "company": "잡코리아 HR 뉴스",
+     "title": "카운터 오퍼는 보상 제시보다 퇴사 원인을 진단하고, 인재의 대체 가능성과 조직의 개선 가능성을 함께 판단하는 일이다.",
+     "body": "",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "잡코리아 HR 뉴스",
+       "url": "https://www.jobkorea.co.kr/Corp/Lounge/News_View?GI_Trend_News_No=1069&Page=1&psTab=10&selText=",
+       "title": "카운터 오퍼는 보상 제시보다 퇴사 원인을 진단하고, 인재의 대체 가능성과 조직의 개선 가능성을 함께 판단하는 일이다.",
+       "date": "2026-10-09"
+      }
+     ],
+     "date": "2026-10-09"
+    },
+    {
+     "id": "20261009-f23",
+     "cat": "labor",
+     "importance": "low",
+     "teams": [
+      "노무·ER",
+      "보상·복리후생"
+     ],
+     "company": "시프티 블로그",
+     "title": "2026년, 근태관리를 효율적으로 하는 방법과 자동화 도입 절차 2026년 기업의 HR 환경은 빠르게 변화하고 있습니다. 혼합 근무제가 일상화되면서 사무직, 외근직, 교대근무 인력이 한 조직... 2026-04-27",
+     "body": "",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "시프티 블로그",
+       "url": "https://shiftee.io/ko/blog/article/efficient-time-and-attendance-management-automation-2026",
+       "title": "2026년, 근태관리를 효율적으로 하는 방법과 자동화 도입 절차 2026년 기업의 HR 환경은 빠르게 변화하고 있습니다. 혼합 근무제가 일상화되면서 사무직, 외근직, 교대근무 인력이 한 조직... 2026-04-27",
+       "date": "2026-10-09"
+      }
+     ],
+     "date": "2026-10-09"
+    },
+    {
+     "id": "20261009-f24",
+     "cat": "labor",
+     "importance": "low",
+     "teams": [
+      "노무·ER",
+      "보상·복리후생"
+     ],
+     "company": "시프티 블로그",
+     "title": "교대근무 급여정산 가이드: 근태데이터 연동과 수당 계산 방법 교대근무를 운영하는 기업에서는 근무조와 근무시간이 다양하기 때문에 급여정산 과정에서도 여러 조건을 함께 고려해야 합니다. 특히... 2026-09-18",
+     "body": "",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "시프티 블로그",
+       "url": "https://shiftee.io/ko/blog/article/shift-work-attendance-data-payroll-settlement",
+       "title": "교대근무 급여정산 가이드: 근태데이터 연동과 수당 계산 방법 교대근무를 운영하는 기업에서는 근무조와 근무시간이 다양하기 때문에 급여정산 과정에서도 여러 조건을 함께 고려해야 합니다. 특히... 2026-09-18",
+       "date": "2026-10-09"
+      }
+     ],
+     "date": "2026-10-09"
+    }
+   ]
+  },
   {
    "date": "2026-10-08",
    "window_days": 1,
