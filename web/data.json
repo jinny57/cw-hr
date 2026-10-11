@@ -56,9 +56,461 @@
     ]
    }
   ],
-  "updated": "2026-10-09T09:04+09:00"
+  "updated": "2026-10-12T08:52+09:00"
  },
  "reports": [
+  {
+   "date": "2026-10-12",
+   "window_days": 1,
+   "article_count": 230,
+   "engine": "gemini-3.8-flash",
+   "headline": "빅테크·유통 구조조정 속 공짜야근 단속 강화",
+   "points": [
+    "홈플러스 희망퇴직 및 글로벌 빅테크 감원으로 이커머스·플랫폼 인력 시장 유입 가속화",
+    "고용노동부의 포괄임금·공짜야근 기획단속 및 노동감독관 직무집행법 시행 대비 필요",
+    "토스플레이스 등 핀테크 대규모 채용 속 AI 역량 중심의 개발·실무자 채용 트렌드 확산"
+   ],
+   "items": [
+    {
+     "cat": "market",
+     "importance": "high",
+     "company": "아마존",
+     "title": "아마존·넷플릭스 등 글로벌 빅테크 추가 감원 및 인력 조정",
+     "body": "아마존과 넷플릭스가 팬데믹 과잉 채용 해소 및 성장 둔화 대응을 이유로 수백 명에서 전체 5% 규모의 인력 감축을 단행했어요.",
+     "insight": "글로벌 테크 기업 출신의 플랫폼 개발자, 글로벌 물류 전문가 등 고급 테크 인재 확보 기회가 열리고 있어요.",
+     "action": "몰테일 해외 물류망 고도화 및 그룹 테크 플랫폼 개발을 위해 글로벌 테크사 출신 한인 인재 타깃 소싱을 검토해 보세요.",
+     "teams": [
+      "채용"
+     ],
+     "tags": [
+      "빅테크",
+      "감원",
+      "구조조정",
+      "아마존",
+      "넷플릭스"
+     ],
+     "our_group": false,
+     "talent": {
+      "level": "high",
+      "signal": "빅테크 대규모 감원 — 테크·물류 글로벌 개발 인력 유입"
+     },
+     "sources": [
+      {
+       "name": "SBS Biz",
+       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBtNy1MTUdwSmhuWHVqS2lndEE3bVVVNFhUSjdQTjJkQjh1NXRMUl9YQWlhTEZZbjVxQTBMTnQ0V05wNndmVjdjcTNROFFya0JRYm8w0gFYQVVfeXFMTVNrQnh6SVpwRUpLQTFieGF5UDlfOWlkYW8xU2V2a2Z4d01YS1NoMC1CdnZic1VmVVVsZUJHMTdnSUc5c2tDeFB3U3I3ZmJLRzd2S0xYZVdTSA?oc=5",
+       "title": "아마존·넷플릭스에 '칼바람'…팬데믹 때 과잉 채용",
+       "date": "2026-10-12"
+      },
+      {
+       "name": "Chosunbiz",
+       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaHVpTllENlB1UC16dUUzTVNQTG4zUXNNQXlXTF9NazM3UkM3ZHZCTlAyakRaekFhN2NuMmJRalhTTUMzUzNxZ2NsN3RHSkZkZ3BBYnVkQUZsMWllSXFmZ3Q2b1RPdU1RcU84ZzJLVHR2T1lsUGQ0RzJhdC1VRVpKLWhPYmplOU1pajdfQXBQdy1iT0pCZUc2ZXNRVFQtd9IBsgFBVV95cUxNcDRBU1JLdWpodVo2X0VuTi1sdHlLQWJQRkN0OHNnVlpuVEk2emRyeS00OERWaUtZVUZDYy1VSGtQdWtvZkFJYjFPNHNTeGlqdFdhaVowNXpqaVRoZEh1NW5vOUVGR0NoN0tsSklQc0dvM0hBQUdfbWpmWG5VYVFqM2ZiQzc3MjV1X1V2ZGFnckRXZnhqTm95RnpNU1lmYjNjRUFpMDZkckJRcVczRDNJa2hn?oc=5",
+       "title": "과잉 채용·성장세 주춤에… 인력 감축 나선 아마존·넷플릭스 - 조선비즈",
+       "date": "2026-10-11"
+      },
+      {
+       "name": "코리아포스트 한글판",
+       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE81TUJybm43VjU2d3ZtZkMzREplR1U1eS1RRDJuT3hBUmZuOTFMWHVFaF9PTlZwbHVmQVk1dWxVNFBrbW1iMUxBa2pHR2hUY3dfQ0xZM25tSURXVVl0R09sd01ObE5pbWhyZDFYeTZ3?oc=5",
+       "title": "[오늘의글로벌PICK!] 아마존·넷플릭스 감원…“팬데믹 과잉 채용”·“성장 속도 높여야”",
+       "date": "2026-10-11"
+      },
+      {
+       "name": "파이낸셜뉴스",
+       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBCdm5fRzBOUHhWeWgydHVDZDJlLXc0ODBMRWdGbWNUQ0N0c0JxYllQRGdnaDVtVjNGTnRZd1p1WVN6ejNoeGxxQVlILUFWUE9HYWJvaVNpYUctQQ?oc=5",
+       "title": "\"너무 많이 뽑았다\"…아마존·넷플릭스 '감원 칼바람'",
+       "date": "2026-10-11"
+      },
+      {
+       "name": "헤럴드경제",
+       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBFMlRaYkhHYjZmMUJ6NEVCWU9RaGVnamt4QVlhZkdIeGxUOHppbnFSN29EZUMyZk1XbGtZd3FzdXJ0MXo1eWtzU1BabWlqTVh6QmhaclFn?oc=5",
+       "title": "아마존·넷플릭스 잇달아 감원…직원 수백명 해고",
+       "date": "2026-10-11"
+      },
+      {
+       "name": "플래텀(Platum)",
+       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBiYkFXTlY4ZVdtOE5iMm11QkRjZXhIdDNubktqZG4yZ0VTd2NtLU1qbWw3VE1KYzJQejl5cXBsc2ZaWk9fMGlLag?oc=5",
+       "title": "메타·아마존·오라클, 매출 성장 속 감원…AI 투자는 확대",
+       "date": "2026-10-11"
+      },
+      {
+       "name": "IT조선",
+       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5IMHJ4WnhxQmFzQ1NjdWgtR3FETWktTUo4Zk5jcmplLW8zQnd4dXNnWmVuNUt0ZkRFX2Rkd0RrVnVleVJwWnpmZWRSZi1lRmNvSDVsTmtXeWgyMEREaHRJVUJUSEdwZ21vMTMwUE1WYU3SAXRBVV95cUxQRWZsRHlaZ1dmN1lWeWhIbWJSMTlOYk5uRTUzTVhxUWNiZFhoQjJrOGZmeGpfd2FZQVQyc19nOExZZXBtLVd2azZ1OElTNnVlMWZ0NjlNLTNIbXZZaWU5eHBPeGtPTXE2Zlh3OF9nR1FlZ3VrMw?oc=5",
+       "title": "아마존, 또 감원… 넷플릭스도 직원 5% 구조조정한다",
+       "date": "2026-10-11"
+      },
+      {
+       "name": "문화일보",
+       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9DZUc1TWxTWjF5TTl3SVhDT2NVQVEybklhamItb3pHYmpSYlZ1TTBGMk9vVUxGOS1OZHRwcVR5Y25yU2RKYTFWZmNYY3gtZmo5?oc=5",
+       "title": "美 기업 감원 칼바람…아마존 추가 해고·넷플릭스 800명 감축 추진",
+       "date": "2026-10-11"
+      },
+      {
+       "name": "머니투데이",
+       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ncmQ3TVN5M1BJTEp5aXQ1TkZvcDdVMnNEV2M1dHhkZE5tWmpUMlNuWUppdTNmZ04xdFg3VUk0U1hlMk95MTRfcWVrQTNCWVl2WFBkSXhnWjVZOVZCbDJsUzhjT0dQd1R1WW1yMXNR0gFuQVVfeXFMTWdyZDdNU3kzUElMSnlpdDVORm9wN1Uyc0RXYzV0eGRkTm1aalQyU25ZSml1M2ZnTjF0WDdVSTRTWGUyT3kxNF9xZWtBM0JZWXZYUGRJeGdaNVk5VkJsMmxTOGNPR1B3VHVZbXIxc1E?oc=5",
+       "title": "아마존 이어 넷플릭스도 800명 해고…\"유튜브 못 따라잡아\" - 머니투데이",
+       "date": "2026-10-11"
+      },
+      {
+       "name": "매일신문",
+       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA4Z21YSENXbU90NjZINnd3clhmWGwtSjdwVTRDRmhTbTRwWjZzS1VZYmZJTi0tMk5kdUZHOERJOFo5OFpZYmwwcVRIemVlNHUtQ0RQSHIxMVlUNVpMNHJiOWJn?oc=5",
+       "title": "넷플릭스, 전체 인력 5% 800명 해고 계획…2022년 이후 최대",
+       "date": "2026-10-11"
+      },
+      {
+       "name": "매일경제 마켓",
+       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE93QktlQ204TFdZVkV0OXFaTFpMUFZUdWZkajNPNEkxUlNuQXNSbTlCclNyYU5ocGhCd0RHa0dOcEZoTC0tVDJmZDFIRHk2M0NDd2c?oc=5",
+       "title": "아마존·넷플릭스에 부는 칼바람…직원 수백명 감원",
+       "date": "2026-10-11"
+      }
+     ],
+     "date": "2026-10-12",
+     "id": "20261012-02"
+    },
+    {
+     "cat": "ecom",
+     "importance": "high",
+     "company": "홈플러스",
+     "title": "매출 부진 및 매각 난항 속 추가 희망퇴직 실시",
+     "body": "홈플러스가 매출 목표 미달과 M&A 통매각 난항 속에서 인력 감축 수순으로 추가 희망퇴직을 단행하며 위기가 심화되고 있어요.",
+     "insight": "대형 유통사의 오프라인 및 이커머스 MD, 소싱, 물류 운영 인력들이 대거 이직 시장으로 유입될 가능성이 높아요.",
+     "action": "다나와·에누리 가격비교 상품 카테고리 확장 및 물류 서비스 강화를 위한 유통·MD 경력자 풀을 선제 확보해 보세요.",
+     "teams": [
+      "채용",
+      "인사기획"
+     ],
+     "tags": [
+      "홈플러스",
+      "희망퇴직",
+      "구조조정",
+      "M&A"
+     ],
+     "our_group": false,
+     "talent": {
+      "level": "high",
+      "signal": "추가 희망퇴직 진행 — 유통·MD·물류 인력 시장 유입 예상"
+     },
+     "sources": [
+      {
+       "name": "경남도민일보",
+       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1tZ1VQZnItRDlUa1h2WkphTkt4bzREalJwOHlQQ2swUkxxZWpKOThrdkdQUnpmdm8xcTNUVmNJdmZ1bnVOUmhSSUpBZUpUYkxfZUFGbGJ0a2JnQm5Qc0FNRklXSXVSa1N5akE?oc=5",
+       "title": "홈플러스 또 희망퇴직…경남 노동자들 “인력 감축 수순”",
+       "date": "2026-10-11"
+      },
+      {
+       "name": "머니투데이",
+       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5uZVpnQzlyYVFaUnk5M1lpZGxDMkJ3dDNTTVpBWGp4aGFfMlBDaXY5SGk5cjNPbEdPVjZnNFRCM0dDaXAxMDRWd2tBbXlwbGgyTmlvcHhMRm5BM3VNeVlJTkxDTkk1U2o4UlRNTFZ3Z9IBb0FVX3lxTE5uZVpnQzlyYVFaUnk5M1lpZGxDMkJ3dDNTTVpBWGp4aGFfMlBDaXY5SGk5cjNPbEdPVjZnNFRCM0dDaXAxMDRWd2tBbXlwbGgyTmlvcHhMRm5BM3VNeVlJTkxDTkk1U2o4UlRNTFZ3Zw?oc=5",
+       "title": "재개장 '반짝 효과' 홈플러스, M&A 빨간불...'파산 위기' 또 온다 - 머니투데이",
+       "date": "2026-10-11"
+      },
+      {
+       "name": "에너지경제신문",
+       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1pdkYxMld5UldHVEpIUHNvdkFJTzdLMzJ4Yk5LbVFfdjdsRWQwVXhyaXlJeWEzU0hWbEllaHl0d181aHNIYk0yTlRLcXZfcmtWTUZwY3F2OEs1OTg?oc=5",
+       "title": "몸집 줄인 홈플러스, ‘새 주인 찾기’ 순항? 난항?",
+       "date": "2026-10-11"
+      },
+      {
+       "name": "아주경제",
+       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBrektEMkFDWG15U3MwUGFOTEJYS2VoMVFZVmdmZG54VkpHcFRZTzNrS1VyLXE5cVN3YVY1ak54aTR3UjN2bUpJMEJIdFlKQnh3UjNhVVBZZ0zSAVhBVV95cUxQa3pLRDJBQ1hteVNzMFBhTkxCWEtlaDFRWVZnZmRueFZKR3BUWU8za0tVci1xOXFTd2FWNWpOeGk0d1Izdm1KSTBCSHRZSkJ4d1IzYVVQWWdM?oc=5",
+       "title": "매출 목표 30% 그친 홈플러스…통매각 무산 우려",
+       "date": "2026-10-11"
+      },
+      {
+       "name": "천지일보",
+       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBSZWR0R1FvTmxPdVRWVkRnNXJkNlZEcVpETGVxNGpYNFZOckNwUjFENkZ5UTYtYnVzS1AwUXRhWHF6RlBCRlNWWVIxeXpMX3VQdGp2X1VXR0RtSkNiMEFlci1mVXBGd3BVRVE?oc=5",
+       "title": "홈플러스, 매출 하락세에 분리매각 전망도",
+       "date": "2026-10-11"
+      },
+      {
+       "name": "비즈중앙",
+       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5hNzNZbFpFM216eTZpdnR3MHAxY3VlTXgtRUwwS3BvN1dmazA1VVZhLWk5TjZla2l3b1ZCOFIya012cnhjcG02d1Y1NU5fd21GWDF0SF95UE8tWkxZSGtaMmplRWQ2dUU4UFhyMlg0TlE?oc=5",
+       "title": "홈플러스 매출 ‘목표치 30%’ 경고등… M&A 불발 시 ‘분리매각’ 수순",
+       "date": "2026-10-11"
+      }
+     ],
+     "date": "2026-10-11",
+     "id": "20261012-01"
+    },
+    {
+     "cat": "labor",
+     "importance": "high",
+     "company": "고용노동부",
+     "title": "야근수당 미지급 등 82곳 적발 및 공짜야근 근절 단속 강화",
+     "body": "고용노동부 감독 결과 연장근로수당을 고의로 미지급하거나 포괄임금제를 오남용해 공짜야근을 강요한 사업장 82곳이 적발되었어요.",
+     "insight": "이커머스·IT 업계 특유의 포괄임금 관행 및 연장근로 관리 실태에 대한 고용노동부의 기획 근로감독 위험이 커지고 있어요.",
+     "action": "그룹사 전반의 연장근로 기록 체계와 PC-OFF 시스템 준수 현황을 점검하고 포괄임금 운영 리스크를 사전 진단해 보세요.",
+     "teams": [
+      "노무·ER",
+      "보상·복리후생",
+      "인사기획"
+     ],
+     "tags": [
+      "공짜야근",
+      "포괄임금",
+      "연장근로수당",
+      "근로감독"
+     ],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "머니투데이",
+       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5jTmx2dngyTUREM09ZVnFlODZrdjA5RTNiWC1RWTE1SnlIMm5RRUVxSmhnSDlKUzV3WkNGeUU5WjBsdzlpYXZHYjlfZUlvTzY5MUhuY2hxeFlBSGVnLU82ckw0TmQ5czZZWVlsbVRiaFFPQdIBckFVX3lxTE5jTmx2dngyTUREM09ZVnFlODZrdjA5RTNiWC1RWTE1SnlIMm5RRUVxSmhnSDlKUzV3WkNGeUU5WjBsdzlpYXZHYjlfZUlvTzY5MUhuY2hxeFlBSGVnLU82ckw0TmQ5czZZWVlsbVRiaFFPQQ?oc=5",
+       "title": "[단독]야근값 떼먹고 \"들통나면 주지 뭐\"...82곳 '공짜 노동' 딱 걸렸다 - 머니투데이",
+       "date": "2026-10-12"
+      }
+     ],
+     "date": "2026-10-12",
+     "id": "20261012-00"
+    },
+    {
+     "cat": "labor",
+     "importance": "high",
+     "company": "고용노동부",
+     "title": "2026년 12월 노동감독관 직무집행법 시행 대비 필요",
+     "body": "2026년 12월 8일부터 노동감독관 직무집행법이 시행되어 중앙과 지방 감독관 역할이 구분되고 사업장 현장 감독 권한이 명확화돼요.",
+     "insight": "지방노동청의 상시·기획 감독 강도가 높아질 예정이므로 물류센터 및 IT 자회사들의 노무 리스크 관리가 시급해요.",
+     "action": "스윗트래커 물류 현장 및 각 계열사의 법정 의무 이행 사항과 근로감독 대비 체크리스트를 선제 정비해 보세요.",
+     "teams": [
+      "노무·ER",
+      "인사기획"
+     ],
+     "tags": [
+      "노동감독관직무집행법",
+      "근로감독",
+      "노무점검",
+      "고용노동부"
+     ],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "시프티 블로그",
+       "url": "https://shiftee.io/ko/blog/article/local-labor-inspection-law-preparation-guide",
+       "title": "2026년 노동감독관 직무집행법 시행: 지방 노동감독 대상과 범위 2026년 12월 8일부터 「노동감독관 직무집행법」이 시행됩니다. 이 법에 따라 중앙노동감독관과 지방노동감독관을 구분하고, 고... 2026-08-2",
+       "date": "2026-10-12"
+      }
+     ],
+     "date": "2026-10-12",
+     "id": "20261012-03"
+    },
+    {
+     "cat": "ecom",
+     "importance": "mid",
+     "company": "무신사",
+     "title": "IPO 앞둔 무신사, 비핵심 계열사 통폐합 등 사업 효율화",
+     "body": "무신사가 10조 원 규모 IPO를 앞두고 자회사 합병 및 적자 서비스 정리 등 체질 개선과 조직 슬림화에 속도를 내고 있어요.",
+     "insight": "리셀(솔드아웃) 등 일부 정리·통합 부서 인력의 유출 가능성이 있어 버티컬 커머스 경력직 확보에 유리해요.",
+     "action": "버티컬 패션·커머스 플랫폼 경력직을 대상으로 다나와·에누리 서비스 기획 및 MD 포지션 다이렉트 소싱을 시도해 보세요.",
+     "teams": [
+      "채용",
+      "인사기획"
+     ],
+     "tags": [
+      "무신사",
+      "IPO",
+      "계열사통합",
+      "조직개편"
+     ],
+     "our_group": false,
+     "talent": {
+      "level": "mid",
+      "signal": "계열사 통폐합 — 버티컬 커머스·기획 인력 이직 가능성"
+     },
+     "sources": [
+      {
+       "name": "딜사이트",
+       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5TbHd1XzgtNnA2bUdSQU9XT0NIU2NVanNzckFpaEcyMVVQblkzdkRJMXZIWEdzTzZ3ZnFGZzFsbXlaTndQQVdhOUNzalczT1U?oc=5",
+       "title": "[무신사 IPO] 소요한남 계약 부진에 조만호 지분담보 리스크 커져…사재 투입 촉각",
+       "date": "2026-10-12"
+      },
+      {
+       "name": "www.dt.co.kr",
+       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBoN3U5cXBCMXo1Q2Y3cjNxQmxxc1NsTzY3YmFqLUVTYkVxWU0xZnR1ckJhWjNQdzU3VjM5Yi12TTRDXzd1cTV2X2E1bjdoUQ?oc=5",
+       "title": "계열사 합치고 문닫고… 무신사 ‘10조 상장’ 승부수 시험대",
+       "date": "2026-10-11"
+      },
+      {
+       "name": "에너지경제신문",
+       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBRaHdFVXdhcVhtZVN2czNBQ1lOR2EwX1lDQUVEZzZQd2ZOWlRtTXNwY0p3QVc1cEJzcVZkbzJnV3Y4T3liY0IxU2xYVEpVYlZDeVhFOEpvTElMamZFZHQ0SEt3?oc=5",
+       "title": "한풀 꺾인 ‘한정판 리셀’ 인기…솔드아웃 ‘통합’·크림 ‘확장’ 살길찾기",
+       "date": "2026-10-11"
+      }
+     ],
+     "date": "2026-10-12",
+     "id": "20261012-05"
+    },
+    {
+     "cat": "trend",
+     "importance": "mid",
+     "company": "업계 전반",
+     "title": "채용 시장 내 AI 코딩·업무 툴 활용 역량 요구 급증",
+     "body": "미국 소프트웨어 개발 공고가 15% 반등한 가운데, 기업들의 채용 요건에서 클로드 등 생성형 AI 툴 활용 요구가 170% 급증했어요.",
+     "insight": "단순 코딩 실력보다 AI 툴을 능숙하게 다뤄 생산성을 극대화하는 인재 검증이 핵심 채용 기준으로 부상하고 있어요.",
+     "action": "개발직군 및 기획직 채용 평가표에 AI 업무 도구 활용 역량 평가 항목을 신설하고 사내 교육을 기획해 보세요.",
+     "teams": [
+      "채용",
+      "조직문화·HRD"
+     ],
+     "tags": [
+      "AI채용",
+      "생산성",
+      "개발자채용",
+      "HR테크"
+     ],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "디지털투데이",
+       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5FcjBzNmFySU53WHBKTWt3MHNRMWVaRlJqSWZKV2ZPVHNrMm9EMFlwRzJDLURSRDZsWTNQeGFDUkV0RkY3MWhaTWhJQi1JOGRLSkNSNncxYlNWWUdGcllvaDk0UThmT1B2QzhpWkNXVzQ4ZWM?oc=5",
+       "title": "\"AI가 코딩해도 사람 필요해\"…美 SW 개발자 채용 공고 15%↑",
+       "date": "2026-10-12"
+      },
+      {
+       "name": "www.thefairnews.co.kr",
+       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1fSVBQeVIya2pGX0dNN2hmTTczNkpMbG5Kek52UnhqQlFaUEJwZzZaSkF5c1R6SnNtTFZUd2ZqeUdvc3pLaGhHUTAweGVjcFNMYUl1OENMTi1SM0ZQVk5wU0txdzhQSFFQTkV0RjVxUFY?oc=5",
+       "title": "\"이젠 엑셀 대신 클로드\"…기업 채용시장서 'AI 툴' 활용 요구 170% 급증",
+       "date": "2026-10-12"
+      }
+     ],
+     "date": "2026-10-12",
+     "id": "20261012-06"
+    },
+    {
+     "cat": "market",
+     "importance": "mid",
+     "company": "토스플레이스",
+     "title": "오프라인 결제사 토스플레이스, 세 자릿수 첫 대규모 공채",
+     "body": "토스 결제 단말기 자회사 토스플레이스가 법인 설립 이래 처음으로 세 자릿수 규모의 대규모 공개 채용을 시작했어요.",
+     "insight": "오프라인 커머스 및 결제 솔루션 분야의 영업·개발 인력 확보 경쟁이 치열해질 전망이에요.",
+     "action": "메이크샵·플레이오토의 솔루션 기획·개발 경력직 지원자 이탈 방지를 위해 리크루팅 프로세스 속도를 점검해 보세요.",
+     "teams": [
+      "채용"
+     ],
+     "tags": [
+      "토스플레이스",
+      "대규모채용",
+      "결제솔루션",
+      "공채"
+     ],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "이데일리",
+       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNm1EWnNPR3hEMHdRWjA2aV9WaHJ1Z29sc1BNWElJU2Zla1JPMXNiTnB1VXhzVHRNaVNDcE5NclByXy02TEdhdmt0VjdCaFQxRTQ3cU95clJ1N3hSeXVFQmY4UnM4TFNzUkhrRktvSGRnU1BTSngtaUlDQW5LMjV6dw?oc=5",
+       "title": "토스플레이스, 법인 설립 후 첫 대규모 공채…세 자릿수 채용",
+       "date": "2026-10-12"
+      }
+     ],
+     "date": "2026-10-12",
+     "id": "20261012-04"
+    },
+    {
+     "cat": "labor",
+     "importance": "mid",
+     "company": "업계 전반",
+     "title": "장시간 연구·개발 노동에 따른 과로사 산재 인정 및 노동특례 논란",
+     "body": "주 60시간 초과 근무를 지속한 대기업 연구직 직원이 과로사 산재로 인정되며 IT·R&D직 노동시간 규제 이슈가 재점화되었어요.",
+     "insight": "개발 및 기획 부서의 마감 압박으로 인한 장시간 노동을 방치할 경우 중대재해 및 과로사 리스크로 번질 수 있어요.",
+     "action": "개발·기술 직군의 주간 실근무 시간을 전수 점검하고 특정 기간 집중 근무 시 의무 휴식권 보장 제도를 도입해 보세요.",
+     "teams": [
+      "노무·ER",
+      "인사기획"
+     ],
+     "tags": [
+      "과로사",
+      "산재",
+      "주52시간",
+      "연구개발직"
+     ],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "한겨레",
+       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE90QXF5SnFuWklLYnZBLUFWbjFleXdtaWRaZWlucklpU3Z6d0ViNkJ2T2VaZlRpOEtVZ2JCZF9hQ19zQjA4Tm9OUTRId283SGVYQk1hVm14SDY5Tm5GZlJMTWVXcEU?oc=5",
+       "title": "[단독] ‘주 60시간’ 삼성전자 연구직 또 ‘과로사 산재’…메가특구 노동특례 우려 커져",
+       "date": "2026-10-12"
+      }
+     ],
+     "date": "2026-10-12",
+     "id": "20261012-07"
+    },
+    {
+     "cat": "trend",
+     "importance": "low",
+     "company": "시프티",
+     "title": "근태 데이터 연동 기반 급여정산 자동화 및 오류 방지 전략",
+     "body": "사무직·외근직·교대근무 등 혼합 근무제 환경에서 PC-OFF 및 근태 데이터를 급여 시스템과 자동 연동해 정산 오류를 줄이는 방안이 제시되었어요.",
+     "insight": "수기 검증 업무를 줄이고 통상임금·평균임금 산정 오류 리스크를 사전에 예방할 수 있는 HR 테크 도입이 요구돼요.",
+     "action": "그룹사 통합 근태 데이터와 급여 계산 프로세스의 연동 현황을 검토하고 자동화 솔루션 도입 타당성을 분석해 보세요.",
+     "teams": [
+      "보상·복리후생",
+      "인사기획"
+     ],
+     "tags": [
+      "근태관리",
+      "급여자동화",
+      "PCOFF",
+      "HR테크"
+     ],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "시프티 블로그",
+       "url": "https://shiftee.io/ko/blog/article/efficient-time-and-attendance-management-automation-2026",
+       "title": "2026년, 근태관리를 효율적으로 하는 방법과 자동화 도입 절차 2026년 기업의 HR 환경은 빠르게 변화하고 있습니다. 혼합 근무제가 일상화되면서 사무직, 외근직, 교대근무 인력이 한 조직... 2026-04-27",
+       "date": "2026-10-12"
+      },
+      {
+       "name": "시프티 블로그",
+       "url": "https://shiftee.io/ko/blog/article/payroll-automation-and-attendance-data-management",
+       "title": "급여정산 오류를 줄이는 근태 데이터 관리와 임금명세서 발송 자동화 전략 매월 급여정산 시즌이 다가오면 인사·급여 담당자는 반복되는 확인 작업과 데이터 검증에 많은 시간을 할애하게 됩니다. 근로시간 ... 2026-0",
+       "date": "2026-10-12"
+      },
+      {
+       "name": "시프티 블로그",
+       "url": "https://shiftee.io/ko/blog/article/pc-off-attendance-payroll-integration",
+       "title": "PC-OFF 프로그램과 근태관리·급여 시스템 연동 방법 및 구축 가이드 사무직 근태관리에서 PC-OFF 프로그램은 계획된 근무일정을 기준으로 PC 사용을 관리하고, 출퇴근기록, 휴가, 연장·단축근무... 2026-0",
+       "date": "2026-10-12"
+      }
+     ],
+     "date": "2026-10-12",
+     "id": "20261012-09"
+    },
+    {
+     "cat": "trend",
+     "importance": "low",
+     "company": "업계 전반",
+     "title": "직장 내 괴롭힘 판단 기준의 모호성 및 소통 갈등 증가",
+     "body": "단순 인사 태도나 사소한 감정 표현까지 직장 내 괴롭힘으로 신고되는 사례가 늘며 조직 내 세대·상하 간 소통 피로감이 커지고 있어요.",
+     "insight": "조직 내 불필요한 노무 분쟁을 막고 건강한 피드백 문화를 정착시키기 위해 명확한 가이드라인이 필요해요.",
+     "action": "관리자 및 팀원을 대상으로 직장 내 괴롭힘 성립 요건과 올바른 업무 피드백 방식에 대한 사내 교육을 실시해 보세요.",
+     "teams": [
+      "조직문화·HRD",
+      "노무·ER"
+     ],
+     "tags": [
+      "직장내괴롭힘",
+      "조직문화",
+      "소통갈등",
+      "피드백"
+     ],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "이데일리",
+       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTFNtbEYwN3ROYXhCZkZpbm9qM1JHMTdrQW1HUTV0WHI0SFF6QlByUy0tZGN0aThoYWYtLTRHMjItR2gzVXcxdHljYlF2aFQyWVlEX3BXRkxrcnRRLWJmaUNDNWxhMXNMT2RCQVAxWVgyMW9WZzFJS1Fmc1J6T1RKRw?oc=5",
+       "title": "“인사 안 한 것도 아닌데”…후배에게 목례했다가 ‘괴롭힘 신고’ 위기",
+       "date": "2026-10-12"
+      },
+      {
+       "name": "뉴시스",
+       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBkekE5MXFJY0lvXzdKT3JnR3h0WnhCS3JqTXNWNEx4QUx4UGNSZkpwcnhBTVVNdkFUQ1RnanhhTUVpbnRkc215dmFMeHNjNkd4QnFGU3dKZVZPUDJySDhrNXpCUmpLYmQ4RlRTeHcyX05BUmpwVUVJadIBeEFVX3lxTFBkekE5MXFJY0lvXzdKT3JnR3h0WnhCS3JqTXNWNEx4QUx4UGNSZkpwcnhBTVVNdkFUQ1RnanhhTUVpbnRkc215dmFMeHNjNkd4QnFGU3dKZVZPUDJySDhrNXpCUmpLYmQ4RlRTeHcyX05BUmpwVUVJaQ?oc=5",
+       "title": "\"업무 실수하는 후배에 인사 줄였더니\"…괴롭힘 신고하겠다는 후배",
+       "date": "2026-10-11"
+      }
+     ],
+     "date": "2026-10-12",
+     "id": "20261012-08"
+    }
+   ]
+  },
   {
    "date": "2026-10-09",
    "window_days": 1,
