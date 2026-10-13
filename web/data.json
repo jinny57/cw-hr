@@ -56,9 +56,468 @@
     ]
    }
   ],
-  "updated": "2026-10-12T08:52+09:00"
+  "updated": "2026-10-13T09:00+09:00"
  },
  "reports": [
+  {
+   "date": "2026-10-13",
+   "window_days": 1,
+   "article_count": 310,
+   "engine": "gemini-3.7-flash",
+   "headline": "핀테크 대규모 채용과 유통가 구조조정·사옥 이전 동향",
+   "points": [
+    "토스플레이스가 전 직군 세 자릿수 대규모 공채에 나서며 IT 인재 유치 경쟁이 심화돼요.",
+    "G마켓의 성수 신사옥 이전과 홈플러스 희망퇴직 등 이커머스 업계 조직 재편이 이어져요.",
+    "체불처벌 강화 및 과로사 산재 인정 등 노동부 감독 강화로 노무 리스크 관리가 시급해요."
+   ],
+   "items": [
+    {
+     "cat": "market",
+     "importance": "high",
+     "company": "토스플레이스",
+     "title": "토스플레이스, 창사 첫 전 직군 세 자릿수 대규모 공채 진행",
+     "body": "토스 결제 단말기 제조 자회사 토스플레이스가 기존 직원 절반 규모에 달하는 전 직군 세 자릿수 대규모 공개 채용을 진행해요. 이달 31일까지 지원을 받아요.",
+     "insight": "플랫폼·결제 인프라 확장에 따른 공격적 인재 영입으로, 플랫폼 개발 및 PM 직군에서 인재 유출 방어와 유치 경쟁력 점검이 필요해요.",
+     "action": "주요 개발·기획 직군의 처우 및 EVP 경쟁력을 점검하고, 이탈 우려 핵심 인재 대상 리텐션 방안을 마련해 보세요.",
+     "teams": [
+      "채용"
+     ],
+     "tags": [
+      "토스플레이스",
+      "대규모채용",
+      "개발자채용",
+      "경력공채"
+     ],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "뉴스1",
+       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9tVm5PS0ZzU1ZxTmVLQzhhUm42WklaUDF1eWJ1TGtjYXNVUUxvaG4xVE5FSzJnZ2lVQVpIdXlxSkV5d1k1UXYyWjBscUEzc2RzVXpn?oc=5",
+       "title": "\"직원 절반 규모 뽑는다\"…AI 채용 한파에도 토스플레이스 '세 자릿수 공채'",
+       "date": "2026-10-13"
+      },
+      {
+       "name": "에너지경제신문",
+       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1tWWRwRzI4RE5EMzNCVGhTZW9lQmJpZU85MU1VMTZnRVlYaktUNXVmLXhpcHQ5ZThveERQOExIQjd0Z3NIMlF2R3hrempjQWxpY2tVYkxxbnp0X0lZYld1U1hKWQ?oc=5",
+       "title": "토스플레이스, 첫 대규모 공채…전 직군 세 자릿수 채용",
+       "date": "2026-10-12"
+      },
+      {
+       "name": "알파경제",
+       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9waFpaUXBZSXdxekM2dlV5bnE5bC1OYWVPOGN3Y05hTld6cDBQVHNYSEY3TlEzY2VHdHhncVZab0lOY2wtU1dWZWRiZ1NSUDhPYWw5N3RnQ29udHVxY2pycDF4eWZTNmc4Q00wU1hR?oc=5",
+       "title": "토스플레이스, 첫 대규모 공채…전 직군서 세 자릿수 채용",
+       "date": "2026-10-12"
+      },
+      {
+       "name": "지디넷코리아",
+       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBPOHB6RXYyUmtKajVta3E4Z3BfNllLdkZlQ1dicVpvYnJEemlsSzZIVlh1UERrM083Z1U0NXRHd0c5NDFlYjlwWHJ6ajB1b3Nqb3BOYk5n?oc=5",
+       "title": "토스 결제 단말기 자회사 '토스플레이스', 세 자릿수 채용",
+       "date": "2026-10-12"
+      },
+      {
+       "name": "동아일보",
+       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1lOWZOWlhRZHplOHVPQ2pPN2tkcWxoS0FyU3h1YWJkS190R3V5NGhRSFQ2MHEySEpxNmJySlBKSUdkQm1yWm5oejQyQzFNVGt1OEhrSUZMc1FFQlRueGhzOTBuZnUxQdIBZkFVX3lxTE1lOWZOWlhRZHplOHVPQ2pPN2tkcWxoS0FyU3h1YWJkS190R3V5NGhRSFQ2MHEySEpxNmJySlBKSUdkQm1yWm5oejQyQzFNVGt1OEhrSUZMc1FFQlRueGhzOTBuZnUxQQ?oc=5",
+       "title": "토스플레이스, 대규모 공개 채용…“세 자릿수 규모로 뽑을 계획”",
+       "date": "2026-10-12"
+      },
+      {
+       "name": "데일리안",
+       "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPY3NON3JRaWVFSE5QMGNCMnpIbWduYU1ud21USzZoWTBOYWFyd2EzWENZYkJYM0s1bEtXVTJWbjYteTBWNnhCNUU4eG1lWVhuT1dSdlNrclFSXzdnZllCM1dZUHpMMUJINDRRNG55aFlwdDNhLWNkV1NTWEdtLURpeXFBRzlVNGVKQ3BTX2tJUk16MERmM19wN1RiNjllbzJVWHc2Q2p6Q25DM1BYNmdkWEdRaTZNcTByaGVxZXQyUVB3X0U4MHVkaExGbUhSVGx5RXl1Vzd0ME01aEFJRFRaZjJvci1BV01lNkxDLUVLN3JnZEZWTzIwSjhfRGJsbjU1WVMtRURmcllWWGdpQVhjclppd1JhNERZZUVTRjMtTXBpQkE?oc=5",
+       "title": "토스플레이스, 대규모 채용…전 직군서 세 자릿수 뽑는다",
+       "date": "2026-10-12"
+      },
+      {
+       "name": "머니투데이",
+       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1YQ0dWWVhlcXBHckJKdWhzaWdScFVEVEo1SkUzVUZwV2paVGNfbzVJTFYxZTN3ZWFkZlVWOThkUVAxa1R0bFJFNzRfbnZiYmo5eUx5VUV3VkluMHBEdXFOMUw0STAxWEdKemZN0gFwQVVfeXFMT3RoMGVnTDVhQVAxa3lpdUlEU3VORkloR1pDenp5b0pmLW1oQnkyTEx2RENqUTRtRmhKcXRDbEZVQmFIQVRJa0g2cjVGZDBwWmk2aG9JSGVNUDA4Nlpkc29Yam1vMDlSSW9HVHFDZkhBXw?oc=5",
+       "title": "토스플레이스, 창사 후 첫 대규모 채용… 이달 31일까지 - 머니투데이",
+       "date": "2026-10-12"
+      }
+     ],
+     "date": "2026-10-13",
+     "id": "20261013-00"
+    },
+    {
+     "cat": "ecom",
+     "importance": "high",
+     "company": "홈플러스",
+     "title": "홈플러스, 국감서 희망퇴직 및 정상화 지연 질타 직면",
+     "body": "홈플러스가 2000억 원 지원을 받고도 희망퇴직을 시행한 점과 미흡한 보상 조건 등에 대해 국감에서 질타를 받았어요. 경영진은 M&A 필요성과 한계를 토로했어요.",
+     "insight": "유통업계 오프라인-온라인 구조조정 가속화로 커머스 전문 MD 및 영업 인력들이 대거 시장으로 유입되고 있어요.",
+     "action": "홈플러스 출신 커머스 MD, 신선식품 바이어, 물류 운영 전문 인재 리스트를 확보해 다나와·에누리 영입 풀을 구축해 보세요.",
+     "teams": [
+      "인사기획",
+      "채용"
+     ],
+     "tags": [
+      "홈플러스",
+      "희망퇴직",
+      "이커머스",
+      "인력유입"
+     ],
+     "our_group": false,
+     "talent": {
+      "level": "high",
+      "signal": "희망퇴직 및 구조조정 진행 — 커머스 MD·영업 인력 시장 유입 예상"
+     },
+     "sources": [
+      {
+       "name": "지디넷코리아",
+       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5lT1ZHT013UXBaR0VpRnR5OW9Lb2EyLWxnU2V3WWhJQjhNdTBFcnMweXZreWt6WF9oMXNmNEtoSTRmYXRwRmFsZzIzWmZRczdIeVNLOWFR?oc=5",
+       "title": "\"희망퇴직 왜받나?\"...홈플러스 정상화 방안 국감서 질타",
+       "date": "2026-10-12"
+      },
+      {
+       "name": "뉴스토마토",
+       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9kdjQtMFJsbzRYUndMbFp1VWh6dkhOVFhVWkVWaHp4S3B2OFhfbm1kVGM0c1BwWEtWRzhyNU9TXzc4NEY3emg4ZGlsbnBUc045R0FuX25ENVhHeXFDNkJKRA?oc=5",
+       "title": "홈플러스 조주연 \"희망퇴직 조건 미흡·현금거래 한계…심려 끼쳐 죄송\"",
+       "date": "2026-10-12"
+      },
+      {
+       "name": "디지털데일리",
+       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1id1ZQYzd0bkdMX1pIaGNaOTBnYndKRjg5Q0x0V1VkaE5Bc0FTME1YU2s3cGFWMU9QZ0FZZ0tBYzZudTV6QmRJd2xyNDllSW1IdTdySEpYWmdwU0hSdTlxYV9Pc2s?oc=5",
+       "title": "홈플러스, 2000억 받고도 직원엔 희망퇴직, 입점업체엔 “여력 없다” [2026 국감]",
+       "date": "2026-10-12"
+      },
+      {
+       "name": "뉴시스",
+       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBjM2lmM013STRiWVBmSlNESGpOaTV2T0hGMDY1WkZsaWQ2bXZJMC0yaVNfZGdIWjRpeEdnbWVCdmt6T09oQ0NkSm1DQUNjdGNNNDNodUVhcUh4bmpteGI1ONIBeEFVX3lxTFBtS2pIR1VxVENHaTJadEp2cUJfUkZ0OGRwWEpkcG9nTkRCaGVTYWhVdXROMVUyVS03a0R1YzRTVG1jRG9ualpjbUFNU09WLTBuN3h4TTlybDVvWl83SDVsczRHWGtxWWVDYzNtb1YwYldnYldGRzBxLQ?oc=5",
+       "title": "조주연 홈플러스 대표 \"정상화 한계…계획대로 M&A 진행돼야\"",
+       "date": "2026-10-12"
+      },
+      {
+       "name": "경남도민일보",
+       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5WMmZnREY2NkhqNGZ3T1dlZmxGR1dpa3R6elc3WUdPc0pCcDJLdGZZTWtfOWFKN0xHWHZWVF9wVy1NWm8yWXdTSXMwT0YxZm1Pb2RueDl6Q01DZFdNbjJVaElKR254ZXVnb3c?oc=5",
+       "title": "조주연 홈플러스 대표 “입점업체 보상 여력 없다”",
+       "date": "2026-10-12"
+      },
+      {
+       "name": "우먼타임스",
+       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5uekFCaFFZWHpJeWhYaEo2OFZHeGFCV3Z3SGdIdmYydVl5emwxb2Vnd25fVjRaQ3pBQjJzb2drX013alFiUHhXYUdMUjBZUHRuMjlVQUNxbENMN0lkRmJ6TktiVHJKczM0VFRhZjlGVWPSAXRBVV95cUxPSEFrR1lYb2JPZWJpalJYRExPLUFLd0gyZG1zV28xY0MxcXFSRzQxcHVTZ0ZNZ29Fby1tc3FFVll2ZERLQm0xN1JTZXFYdDNHSDA2SUwzaVBJejE5Uk5yc0NRZ2VLNlMtd1FQd1V5RnN0VkZOOA?oc=5",
+       "title": "쿠팡·배민·홈플러스, 정무위 국감서 질타…거래 관행·경영난 도마",
+       "date": "2026-10-12"
+      }
+     ],
+     "date": "2026-10-12",
+     "id": "20261013-01"
+    },
+    {
+     "cat": "labor",
+     "importance": "high",
+     "company": "고용노동부",
+     "title": "임금체불 처벌 대폭 강화…재직자 지연이자 및 금융 제재 도입",
+     "body": "임금체불 사업주에 대해 징역형 등 처벌이 강화되며, 재직자 대상 체불에도 연 20% 지연이자가 적용되고 대출·카드 정지 등 강력한 제재가 본격 시행돼요.",
+     "insight": "포괄임금제 사업장이나 수당 정산 오류 발생 시 노무 분쟁 리스크와 금전적 제재가 대폭 커지므로 정밀한 급여 정산 프로세스가 필수적이에요.",
+     "action": "그룹사 전반의 연장·야간수당 정산 프로세스와 휴일근로수당 계산 기준을 재검토해 미지급 리스크를 선제 점검해 보세요.",
+     "teams": [
+      "노무·ER",
+      "보상·복리후생"
+     ],
+     "tags": [
+      "임금체불",
+      "근로기준법",
+      "지연이자",
+      "노무리스크"
+     ],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "매일신문",
+       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQYjZXajZCVmtwVlQ3c1NBMGVSYnJzcHEyeERqQXVwd25TblI2Z0d5a2hvUkhNbDlneE1qMTczeVdJVXVvTkFxLVBJOEtSbldmS3dIeHZlMGdtcXpSYlM4cWxn?oc=5",
+       "title": "임금체불 사업주 카드·대출 정지…재직자도 연 20% 지연이자",
+       "date": "2026-10-12"
+      },
+      {
+       "name": "뉴스법률",
+       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5MQWVWcHNOakpYZFlVWFNYZUF5TkJOa0hZNkVMcWdCa2E4YzE4ckhJbmI3ZmVrWFlzbXJxLVVzRFNKQUY2OGl4Zm1XV3hZRmpwNko4Ulg5MFc?oc=5",
+       "title": "임금 떼먹으면 징역 5년…체불처벌 대폭 강화 시행",
+       "date": "2026-10-12"
+      }
+     ],
+     "date": "2026-10-12",
+     "id": "20261013-03"
+    },
+    {
+     "cat": "labor",
+     "importance": "high",
+     "company": "고용노동부",
+     "title": "연구직 과로사 산재 인정에 노동부 특별연장근로 감독 강화 예고",
+     "body": "삼성전자 연구직의 주 60시간 초과 근무에 따른 과로사가 산재로 인정되면서, 노동부는 특별연장근로 및 장시간 노동 사업장에 대한 관리·감독 강화를 예고했어요.",
+     "insight": "IT·이커머스 개발 및 프로덕트 출시 시즌의 집중 근무 관행에 대해 노무 리스크가 증대될 수 있으므로 선제적 근태 관리가 요구돼요.",
+     "action": "개발·물류 직무를 포함한 그룹사 특별연장근로 신청 내역 및 주 52시간 준수 현황을 긴급 점검해 보세요.",
+     "teams": [
+      "노무·ER",
+      "인사기획"
+     ],
+     "tags": [
+      "과로사",
+      "주52시간",
+      "특별연장근로",
+      "근태관리"
+     ],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "한겨레",
+       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE90QXF5SnFuWklLYnZBLUFWbjFleXdtaWRaZWlucklpU3Z6d0ViNkJ2T2VaZlRpOEtVZ2JCZF9hQ19zQjA4Tm9OUTRId283SGVYQk1hVm14SDY5Tm5GZlJMTWVXcEU?oc=5",
+       "title": "[단독] ‘주 60시간’ 삼성전자 연구직 또 ‘과로사 산재’…메가특구 노동특례 우려 커져",
+       "date": "2026-10-12"
+      },
+      {
+       "name": "KBS 뉴스",
+       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9TV01KdllKUkRuZzJUUFBoeklrSmpJWHJpcEh6a2luVnptWmxvMzJBNm5ySHpaOU1tSVZpTXp0NTcxRXhWOV9hZExyYzk4ZFgzM25PZExncmc5OWc?oc=5",
+       "title": "‘주6 60시간’ 삼성전자 연구직 ‘과로사 산재’ 인정…노동부 “특별연장근로 관리·감독 강화”",
+       "date": "2026-10-12"
+      }
+     ],
+     "date": "2026-10-12",
+     "id": "20261013-04"
+    },
+    {
+     "cat": "ecom",
+     "importance": "mid",
+     "company": "G마켓",
+     "title": "G마켓, 16년 만에 성수동 신사옥 이전…소통·협업 중심 공간 구축",
+     "body": "G마켓이 16년 만에 본사를 성수동 '스탈릿성수N'으로 이전했어요. 제임스 장 대표 지휘 하에 벽을 허물고 셀러·고객 소통을 강화하는 공간 혁신을 단행했어요.",
+     "insight": "오피스 환경과 일하는 방식을 결합한 조직문화 쇄신 시도로, 근무 환경 변화가 구성원 몰입도와 브랜드 매력도에 미치는 영향을 참고할 수 있어요.",
+     "action": "당사 사옥 공간 활용 및 하이브리드 근무 환경에서 부서 간 협업을 활성화할 수 있는 공간 개선 과제를 검토해 보세요.",
+     "teams": [
+      "조직문화·HRD",
+      "인사기획"
+     ],
+     "tags": [
+      "G마켓",
+      "사옥이전",
+      "조직문화",
+      "근무환경"
+     ],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "물류신문",
+       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE02YXotekZWRlhWVVBqUFgxSVJMNmRsUTRyVmFGYkRTdS00UHZ2T0xFcmxzcGE2c0ExUXN5NW9tTlAtSVNuME9BdlJhU0RYbVZ2NFNRY0JtQmZ4WTN3OVROajIwa1l3SFhfOEZ3?oc=5",
+       "title": "G마켓, 성수동에 새 둥지…소통·협업 강화한다",
+       "date": "2026-10-12"
+      },
+      {
+       "name": "동행미디어 시대",
+       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1OMU5CSWZTLXdJaDFsSzRrNjAtcE9aLVI1VG5VRFpNNjFaYXRoLUUxRE1TbzVyMG5CZjk2UmdtTzBkRzZOTlo3UTdvVDVDNjJqcWhEOXA3c1M4X3FxSkE?oc=5",
+       "title": "G마켓, 16년 만에 성수서 새 출발",
+       "date": "2026-10-12"
+      },
+      {
+       "name": "전자신문",
+       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBXZHlmckVCMTdFaXJOLWNiV2xiUVZ6OHFYMXJlS3Nhay1UU3BFc3JEbnp6WHFGaGEzdGFPWTdIUmlTRkROWVQ2dkF1NVVpQQ?oc=5",
+       "title": "[르포] 촬영·미팅·팝업 한 건물에…G마켓, 성수에 '셀러 베이스캠프'",
+       "date": "2026-10-12"
+      },
+      {
+       "name": "에너지경제신문",
+       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB2VWFpTzZFcDY1bEpzbTY1dHF5X3RmMWpsVDNsOUltY3BhNmdBLTkzbzR6dzU2akVpd0VDVkFrLXZhX09YUzdjX1FlU3dacDNhN0xyV01za0swZkU?oc=5",
+       "title": "G마켓 ‘성수 시대’ 개막···성수동 신사옥 첫 출근",
+       "date": "2026-10-12"
+      },
+      {
+       "name": "뉴시스",
+       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9kaHNESzVWM1pGR2dZV29YSGhGNm9HQWVvZlNhNmNUVVE0QnlOTGdyZUFVaWdVZkxnMkRHZWNjYW9LVEVlWXZod1ZTZnQxTTBJU2ptX3ZPcTZiUXU3d2lPQtIBeEFVX3lxTE0xdWlWRmNBaFZnVWJhZHAxNHotQXNhNEhLUTVGcE1MRDk2WU91ejdxYzVFSmx5QVNaUS1PWFVVaV9BZTFJbXUycmE2Qk02RWU3eHdUUDlRTGlPbUVudER1UWdPRnFGemlzM3hhaG5sX3J3TG96b1FmRw?oc=5",
+       "title": "[현장] G마켓 성수 신사옥 가보니…제임스 장 대표 주문대로 '벽' 없앴다",
+       "date": "2026-10-12"
+      },
+      {
+       "name": "데일리포스트",
+       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5SN3RMWTFmR2JIQlpoMGNnMkJzMngxc3Rzb1RrZ0plY1E3YnBOZW1pQXZCdEJSSGowNV9VUHhyZEhrdkZoSi1UbnJrR3ZnTDJ5dU5mVm9tQmtPNEw0anl2ZW9uam5VYlJMMHBNTEhKVdIBc0FVX3lxTFBtaUlfNXNYb0NDODZfeVJVUDJyU0FQcU9BdWF4UlNPZ2hkRm5jckwwa2JBZ3BZZl9kVmNvNTVReHM5UFdMbldJdEFWTWU1ckNvbVNiaXJYbEVQY3VnMURvUFV0aXA0RlBrNEdFcGdSZ05UVEU?oc=5",
+       "title": "G마켓, 성수동 ‘스탈릿성수N’으로 사옥 이전…고객·셀러 소통 강화",
+       "date": "2026-10-12"
+      },
+      {
+       "name": "디지털데일리",
+       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9yM3lUcTVtazhnZm5xSVhUeXQxZUFSVXdYbkNlRjJHS0VnTi1fVW5JMUhmNnowcm10Q29fR0tFT1hhR1pzY3p2dHBLa3ozMTBEYUlzbEJPejRyU3owdGp3WHJJZVc?oc=5",
+       "title": "“조용한 사무실은 싫다”더니…‘성수 시대’ G마켓, 16년 만에 확 바꿨다",
+       "date": "2026-10-12"
+      }
+     ],
+     "date": "2026-10-12",
+     "id": "20261013-02"
+    },
+    {
+     "cat": "market",
+     "importance": "mid",
+     "company": "업계 전반",
+     "title": "채용 시장 내 챗GPT·클로드 등 실무 AI 툴 활용 역량 요구 급증",
+     "body": "3분기 채용공고 분석 결과 챗GPT, 클로드 등 특정 생성형 AI 툴 활용을 명시한 공고가 전년 대비 170% 이상 급증하며 증가율 1위를 기록했어요.",
+     "insight": "단순 직무 지식을 넘어 일하는 방식에 생성형 AI 도구를 접목할 수 있는 실무 인재를 요구하는 기조가 채용 시장 전반으로 확산 중이에요.",
+     "action": "다나와·메이크샵 등 주요 직무별 JD에 AI 툴 활용 역량을 자격요건 및 우대사항으로 반영하는 방안을 채용팀과 협의해 보세요.",
+     "teams": [
+      "채용",
+      "인사기획"
+     ],
+     "tags": [
+      "AI채용",
+      "클로드",
+      "챗GPT",
+      "직무기술서"
+     ],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "뉴스웍스",
+       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5RT0NUelgwZHhINjZjclA4MEs0RDhDRGVkSjJVbEViZV8yUUNVUzhUOU8xLUJGQmhBX1c3N01JZHRpMjF5MGVMMklhTW80dkVoRHVtZnc1Qy1RMTcxbEV1Wjd0N2FsVUppRk5GN1VnWdIBc0FVX3lxTFA5ZzZxZ0FveDVLeUxqV1ZfeGlJRUtMU2dfUm5QNkRQb2VxdlZUWDBvcVJrcUljYTdSRWZQaHpOZTYxZVBNOUhaWUxkYTFYazBRblhLYkw3UzhyaEtGWnozWWRQTUM2UURJbkwtOEt1WU5xeXc?oc=5",
+       "title": "[IT라운지] 장윤중 '밀켄서밋 K컬처 팬덤'·딥브레인 'AI가드 개발'·카모 'AI주니어랩 모집'·네이버 'AI글래스 길안내'·'AI툴키워드 채용 공고 급증'",
+       "date": "2026-10-12"
+      },
+      {
+       "name": "와이드경제",
+       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1LWTZKWHB4NlhtcnQweHdpZjNhNTBxd2g2TmRKV01zRldWb0ZkMTRIazJRRjlia0RYbEd2ZEt3elpYTzZ5TDBFYzFDWURzakFvdHQyQ3JyZG5fQ3B0eFBwSGZ5R0x5c3puOXZhRg?oc=5",
+       "title": "\"챗GPT·클로드 다룰 줄 아나요?\"… 실무 AI 툴 찾는 채용공고 2.7배 껑충",
+       "date": "2026-10-12"
+      },
+      {
+       "name": "디지털투데이",
+       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1BQWI2alVKb0xsV3dBTVlTdHQzblhaN1ZUSnhyZENoVE1wMGJ4WVp5UTNBNXk4OHRwd0dpTGsxbzlNb0o5WXpDX3hpZjlZNXloNzVhOXgwVHJ5Zkx0UEpCSm8yX3RkaHN5Q0c0a2tnbHl3Q28?oc=5",
+       "title": "챗GPT·클로드 등 특정 AI 툴 명시한 AI 채용 공고 급증",
+       "date": "2026-10-12"
+      },
+      {
+       "name": "연합뉴스",
+       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5TN0Yzd2F1NW1seno5bkM4Q2lOZzZSbkVhOGFXak5ORzBIblNYZkhubjVoM0ExU3pUanBROHVEMXhjcDEtYkJ1eWx5R1pSTm9YMVhLcHZRMmlGeWVoSS1SZtIBYEFVX3lxTE5TN0Yzd2F1NW1seno5bkM4Q2lOZzZSbkVhOGFXak5ORzBIblNYZkhubjVoM0ExU3pUanBROHVEMXhjcDEtYkJ1eWx5R1pSTm9YMVhLcHZRMmlGeWVoSS1SZg?oc=5",
+       "title": "3분기 인공지능 툴 키워드 공고 170%↑…증가율 1위는 '클로드'",
+       "date": "2026-10-12"
+      }
+     ],
+     "date": "2026-10-12",
+     "id": "20261013-06"
+    },
+    {
+     "cat": "labor",
+     "importance": "mid",
+     "company": "잡코리아 HR 뉴스",
+     "title": "직장 내 괴롭힘 피해자 보호와 허위·악성신고 대응 원칙 수립 사례",
+     "body": "보호 원칙을 견지하면서도 명확한 사실관계 검증, 객관적 기록 관리, 일관된 처리 기준으로 허위·악성 괴롭힘 신고의 제도 악용에 대응하는 사업장 가이드라인이 공유됐어요.",
+     "insight": "괴롭힘 신고 처리 시 중립성과 객관적 프로세스가 결여될 경우 조직 내 갈등이 증폭되므로 공정한 매뉴얼 정비가 필요해요.",
+     "action": "사내 직장 내 괴롭힘 처리 규정 및 조사 매뉴얼을 점검하고 객관적 사실관계 조사 체크리스트를 보완해 보세요.",
+     "teams": [
+      "노무·ER",
+      "조직문화·HRD"
+     ],
+     "tags": [
+      "직장내괴롭힘",
+      "조사매뉴얼",
+      "ER",
+      "노무관리"
+     ],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "잡코리아 HR 뉴스",
+       "url": "https://www.jobkorea.co.kr/Corp/Lounge/News_View?GI_Trend_News_No=1071&Page=1&psTab=10&selText=",
+       "title": "직장 내 괴롭힘 신고의 보호 원칙을 지키면서도, 사실관계 검증·기록·일관된 기준으로 허위·악성신고의 제도 악용에 대응하는 사업장 사례.",
+       "date": "2026-10-13"
+      }
+     ],
+     "date": "2026-10-13",
+     "id": "20261013-05"
+    },
+    {
+     "cat": "ecom",
+     "importance": "mid",
+     "company": "리트머스",
+     "title": "리트머스, 네이버 쇼핑 출신 이경환 CTO 영입",
+     "body": "커머스 테크 기업 리트머스가 네이버 쇼핑 출신의 이경환 기술 리더를 신임 CTO로 영입하며 AI 개발 체계와 기술력 고도화에 나섰어요.",
+     "insight": "이커머스 및 가격비교 영역에서 빅테크 출신 핵심 기술 리더들의 연쇄 이동 흐름을 주시할 필요가 있어요.",
+     "action": "네이버 쇼핑·검색 출신 핵심 개발 인력 네트워크를 지속 업데이트하고 커넥트웨이브 기술 인재 타깃팅에 활용해 보세요.",
+     "teams": [
+      "채용"
+     ],
+     "tags": [
+      "리트머스",
+      "CTO영입",
+      "네이버쇼핑",
+      "테크리더"
+     ],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "머니투데이",
+       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9TcFRtbTRQczlTalR1ODRxbEdpYWlleWpidzRlQlNKOVdWcDBhVC1NUEhZMVdBUmZwSHhrdGZhcHBzTWJZNHZycXhjRUd0ZFBMRGFtNGdWbG5CMnVzbF92MXRBeFZncWkzVU4tczB6MjNzd9IBckFVX3lxTE9TcFRtbTRQczlTalR1ODRxbEdpYWlleWpidzRlQlNKOVdWcDBhVC1NUEhZMVdBUmZwSHhrdGZhcHBzTWJZNHZycXhjRUd0ZFBMRGFtNGdWbG5CMnVzbF92MXRBeFZncWkzVU4tczB6MjNzdw?oc=5",
+       "title": "리트머스, 네이버 쇼핑 출신 이경환 CTO 영입…\"AI 개발 체계 고도화\" - 머니투데이",
+       "date": "2026-10-12"
+      }
+     ],
+     "date": "2026-10-12",
+     "id": "20261013-07"
+    },
+    {
+     "cat": "trend",
+     "importance": "mid",
+     "company": "시프티",
+     "title": "2026 직장인 휴가 데이터 분석… 금요 연차 집중 및 연말 소진 현상",
+     "body": "연차 데이터 417만 건 분석 결과, 금요일 연차 사용과 4분기 연말 휴가 소진 집중 현상이 3년 연속 굳어진 것으로 나타났어요.",
+     "insight": "연말 잔여 연차 소진 쏠림으로 인한 업무 공백 및 대체 인력 운영 방안, 연차 사용 촉진 시기 관리가 필요한 시점이에요.",
+     "action": "그룹사별 연차 소진율을 10월 중 점검하고 부서별 업무 공백이 없도록 4분기 분산 사용 권장 캠페인을 시행해 보세요.",
+     "teams": [
+      "보상·복리후생",
+      "인사기획"
+     ],
+     "tags": [
+      "연차휴가",
+      "휴가동향",
+      "근태관리",
+      "복리후생"
+     ],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "시프티 블로그",
+       "url": "https://shiftee.io/ko/blog/article/shiftee-2026-employee-annual-leave-usage-trend-report",
+       "title": "시프티, 2026 직장인 휴가 동향 발표 - 2025년의 417만 건 연차 데이터 분석… 요일·월별 사용 패턴 공개 - 3년째 굳어진 ‘불금 연차’와 ‘연말 소진’, ... 2026-09-03",
+       "date": "2026-10-13"
+      }
+     ],
+     "date": "2026-10-13",
+     "id": "20261013-08"
+    },
+    {
+     "cat": "trend",
+     "importance": "low",
+     "company": "오프피스트",
+     "title": "효과적인 1on1 실전 노하우와 평가면담 리스크 관리 방안",
+     "body": "평가면담이 상처가 되지 않도록 심리적 안전감을 기반으로 한 상시 1on1 미팅 실전 운영법과 피드백 전달 프레임워크가 제시됐어요.",
+     "insight": "하반기 다면평가 및 연말 성과평가를 앞두고 리더-팀원 간 신뢰 기반의 상시 커뮤니케이션 역량이 성과 관리의 핵심이에요.",
+     "action": "연말 평가면담을 대비해 팀장급 리더 대상 '건설적 피드백과 1on1 대화법' 가이드북을 배포해 보세요.",
+     "teams": [
+      "조직문화·HRD"
+     ],
+     "tags": [
+      "1on1",
+      "성과평가",
+      "평가면담",
+      "리더십"
+     ],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "오프피스트",
+       "url": "https://www.offpiste.ai/articles/왜-평가면담은-서로에게-상처가-되었을까-2561",
+       "title": "왜 평가면담은 서로에게 상처가 되었을까",
+       "date": "2026-10-12"
+      },
+      {
+       "name": "오프피스트",
+       "url": "https://www.offpiste.ai/articles/경험으로-쌓아가는-1on1-실전-노하우-2448",
+       "title": "경험으로 쌓아가는 1on1 실전 노하우",
+       "date": "2026-10-12"
+      },
+      {
+       "name": "오프피스트",
+       "url": "https://www.offpiste.ai/articles/불신의-비용-신뢰의-배당금-1833",
+       "title": "불신의 비용 신뢰의 배당금",
+       "date": "2026-10-12"
+      }
+     ],
+     "date": "2026-10-12",
+     "id": "20261013-09"
+    }
+   ]
+  },
   {
    "date": "2026-10-12",
    "window_days": 1,
