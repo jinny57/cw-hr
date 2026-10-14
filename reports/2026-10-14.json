@@ -1,0 +1,543 @@
+{
+  "date": "2026-10-14",
+  "window_days": 1,
+  "article_count": 300,
+  "engine": "gemini-3.8-flash",
+  "headline": "포괄임금제 규제 가속과 IT·유통 채용 판도 변화",
+  "points": [
+    "노동부 장관의 포괄임금제 근절 법 개정 추진에 따른 선제적 근태 체계 정비 필요",
+    "크래프톤 신입 100명 공채 및 홈플러스 위기 등 업계 인재 이동 신호 포착",
+    "카페24 셀러 편의 신규 서비스 출시로 메이크샵·플레이오토 대응력 강화 요구"
+  ],
+  "items": [
+    {
+      "cat": "labor",
+      "importance": "high",
+      "company": "고용노동부",
+      "title": "노동부 장관, 포괄임금제 근절 법 개정 추진 및 기획감독 강화",
+      "body": "노동부 장관이 국정감사에서 공짜노동을 유발하는 포괄임금제 근절을 위한 근로기준법 개정 의지를 밝히고 오남용 사업장 감독을 강화하고 있어요.",
+      "insight": "IT·플랫폼 기업 대상 근로시간 측정 및 포괄임금 오남용 감독 리스크가 커지고 있어 사전 정비가 시급해요.",
+      "action": "그룹사 포괄임금 계약 현황과 실제 근로시간 기록 시스템을 점검해 보세요.",
+      "teams": [
+        "보상·복리후생",
+        "노무·ER",
+        "인사기획"
+      ],
+      "tags": [
+        "포괄임금제",
+        "근로기준법",
+        "고용노동부",
+        "근태관리"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "시프티 블로그",
+          "url": "https://shiftee.io/ko/blog/article/comprehensive-wage-system-labor-inspection-compliance-guide",
+          "title": "포괄임금제 오남용 기획감독 강화, 사업장 점검 항목 총정리 포괄임금제를 운영하는 사업장은 실제 근로시간을 객관적으로 기록·관리하고, 법정수당을 정확하게 산정·지급할 수 있는 체계를 갖추... 2026-08-10",
+          "date": "2026-10-14"
+        },
+        {
+          "name": "파이낸셜뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9iLXJpaHF4OFByaF9YODV2dEtoQ0hkcUZySGlCdzIwbmxKWkxCb0Rwa3JBVXhJTUdVN3NEam5LV3R2ejRXUkljajg0VFktdnB2YUM1Z1psV2VBdw?oc=5",
+          "title": "노동장관 \"공짜노동 유발하는 포괄임금제, 근절돼야…근로기준법 개정 조력\"",
+          "date": "2026-10-13"
+        },
+        {
+          "name": "뉴스핌",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBwdkFPUVhrZi12d2FKcC1zRFU4ZlNfdW1PTzY4VnJQNDJpNmhPbW9Fb0hKZllaMnpQWkdrVktaQTFJWU5mNGk1WkZpeEM3aFVvSzRYZklXYkY3UzRi?oc=5",
+          "title": "[2026 국감] 이용우 의원, 포괄임금 오남용 지적…김영훈 \"연내 법 개정 추진\"",
+          "date": "2026-10-13"
+        }
+      ],
+      "date": "2026-10-14",
+      "id": "20261014-00"
+    },
+    {
+      "cat": "labor",
+      "importance": "high",
+      "company": "고용노동부",
+      "title": "정년연장 입법화 논의 본격화, 정부안 조속 발표 예고",
+      "body": "노동부 장관이 정년연장 법안의 연내 처리 필요성을 언급하며 사회적 논의 결단에 따른 정부안 발표를 공식화했어요.",
+      "insight": "법정 정년연장 현실화 시 장기적인 인력 운용 계획과 임금체계 개편 부담이 가시화될 수 있어요.",
+      "action": "연령대별 인력 구조를 시뮬레이션하고 임금피크제 등 대안 체계를 검토해 보세요.",
+      "teams": [
+        "인사기획",
+        "노무·ER"
+      ],
+      "tags": [
+        "정년연장",
+        "인력운용",
+        "임금체계",
+        "노동정책"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "아주경제",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE14WU1ILVZsRU9ZaXVISWxpT2xXeDRyaF9zQ3BnbkUtankyRm5FdGtyeTMyNndCTG9DdHp2WF9BbFJxWFRfNk5UQjhZVk5QMjRFOXd6ZDViV1TSAVhBVV95cUxNeFlNSC1WbEVPWWl1SElsaU9sV3g0cmhfc0NwZ25FLWp5MkZuRXRrcnkzMjZ3QkxvQ3R6dlhfQWxScVhUXzZOVEI4WVZOUDI0RTl3emQ1YldU?oc=5",
+          "title": "[2026 국정감사] 노란봉투법·정년연장 도마에…메가특구 노동특례 사회적대화 공방도",
+          "date": "2026-10-13"
+        },
+        {
+          "name": "파이낸셜뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE02TnAyNkJPS19kRXd3MEVEME4wQ0lhcWYwMTBPMUZLZEdheEVHVk4wZU1CZ1FmYkxCTnhqdVBnMll0MXkteWtYX2thY2E4N09JWkJhZjZwQU9iZw?oc=5",
+          "title": "김영훈 \"정년연장 법안 연내 처리를… 정부안 조속히 밝힐 것\" [李정부 2년차 국정감사]",
+          "date": "2026-10-13"
+        },
+        {
+          "name": "파이낸셜뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9QbkZDY1l6b25jNlFBU1RJOGlYOXhjemdTTUo1ckdxOWthS2t2OTdwbk9YU3N1U3Y0aThmOHM0eGw5Y1dYTkJ2Y18zM2d1MEhUdzlQZmE4TFl2UQ?oc=5",
+          "title": "노동장관 \"정년연장 연내 처리돼야…결단만 남으면 정부안 밝힐 것\"",
+          "date": "2026-10-13"
+        }
+      ],
+      "date": "2026-10-13",
+      "id": "20261014-01"
+    },
+    {
+      "cat": "labor",
+      "importance": "high",
+      "company": "고용노동부",
+      "title": "노란봉투법 개정 지침 보완 및 원·하청 교섭 지원 방침",
+      "body": "국감에서 노란봉투법 지침 모호성에 대한 지적이 제기되자 노동부는 지침을 개선하고 원·하청 교섭을 적극 지원하겠다고 밝혔어요.",
+      "insight": "물류 거점 및 외주 위탁 비중이 있는 커넥트웨이브 사업 구조상 간접고용 교섭 리스크를 관리해야 해요.",
+      "action": "스윗트래커와 몰테일 물류센터의 외주 용역 및 하청 계약 관계를 재점검해 보세요.",
+      "teams": [
+        "노무·ER"
+      ],
+      "tags": [
+        "노란봉투법",
+        "원하청교섭",
+        "노무리스크",
+        "외주관리"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "참여와혁신",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1PR3VTWHU1bW94bnppRmY4RTFPMWtOa1R6RHZnTHFMYlVvVzRZUy1ENFN6OXo4dHZORk41cVQ4TmYtV0FMaTVTSTM4NDR0TnV4dERhU1kzN0QwYmE3TDVfTnBKTzdSdjQwb0xKOU5B?oc=5",
+          "title": "[2026 노동 국감] 노동부 장관, 개정 노조법 혼란? “대화 통한 신뢰 구축이 우선”",
+          "date": "2026-10-13"
+        },
+        {
+          "name": "머니투데이",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9kUF9fLVg2WTdLbXYteC1FaVlRWnJ4dVBXcGhTUFp5b05xRV9uSTg3QzZONlJjS3hGa2lxeEpma3pGMnNiV2EyOGhIVjlwRC03R001MGpTakdpLXQ2TXNhM0ZaSm9qQ242RDNkdFBYSFHSAXBBVV95cUxPZFBfXy1YNlk3S212LXgtRWlZUVpyeHVQV3BoU1BaeW9OcUVfbkk4N0M2TjZSY0t4RmtpcXhKZmt6RjJzYldhMjhoSFY5cEQtN0dNNTBqU2pHaS10Nk1zYTNGWkpvakNuNkQzZHRQWEhR?oc=5",
+          "title": "\"모호한 노란봉투법 지침, 혼란 가중\" 지적에…노동장관 \"개선하겠다\" - 머니투데이",
+          "date": "2026-10-13"
+        },
+        {
+          "name": "전자신문",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1qbjlIUkFtdXFqWnQ4d1NhZE1qb3hNZzRqbW1odmVYSFpMWmRnTFhZcmZZOEM1cTFhaVVlNk5RMWlNeEg3VThIRjA1cEV0Zw?oc=5",
+          "title": "[2026 국감] 김영훈 장관 “노란봉투법 원·하청 교섭 적극 지원”…노동시간 특례는 '대화'",
+          "date": "2026-10-13"
+        }
+      ],
+      "date": "2026-10-13",
+      "id": "20261014-02"
+    },
+    {
+      "cat": "ecom",
+      "importance": "high",
+      "company": "홈플러스",
+      "title": "홈플러스 2,000억 수혈에도 정상화 난항, 분리매각설 대두",
+      "body": "홈플러스가 자금 수혈에도 정상화가 불투명해 M&A 불발 시 분리매각 가능성이 제기되며 위기감이 커지고 있어요.",
+      "insight": "대형마트 사업 축소 과정에서 이커머스·온라인 물류 전문 인력의 대거 이탈이 예상돼요.",
+      "action": "홈플러스 온라인 MD 및 물류 운영 핵심 인력을 선별해 인재풀을 구축해 보세요.",
+      "teams": [
+        "채용"
+      ],
+      "tags": [
+        "홈플러스",
+        "구조조정",
+        "이커머스MD",
+        "물류인재"
+      ],
+      "our_group": false,
+      "talent": {
+        "level": "high",
+        "signal": "분리매각설·경영난 지속 — 이커머스 MD 및 물류 인재 유입 예상"
+      },
+      "sources": [
+        {
+          "name": "뉴스투데이",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9JVVhqZzBVUmxjOXNsTXJRbkRGQ2hRaklmWm81UDZyc2VBWGxwaHUwMkdmeFU4NF83REMzMWJnSDBHT1BEM2RueV9LTzFrdk1GUlhzZVRUNE9JbjhGLWc?oc=5",
+          "title": "홈플러스, 2000억 수혈에도 정상화는 '안갯속'…M&A 불발 시 '플랜B' 없다",
+          "date": "2026-10-14"
+        },
+        {
+          "name": "직썰",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBaQTkxNmVXZmdkclF1c1hLWHAxUTk1SmE3STBlV244Z2R6akZjMlBfQnFTcnc3MG8tYjJxN0IyS1pialUwRzVKamtxZV8xajlTZXYtODVOYzNhS3g1cENGd1JlczBKaVIt0gFsQVVfeXFMTWdfV1k3MWEyTWg0N2tfWkRqOGdudG95SldCQW9HTDc2UUFOaDJVTGpLMVlUaW5uVVdzOVdPYXlEX1ozNWJYVWNQNjJKLTQxdWs5X3gxM3RGTzE1enliQmNmZkl5ZjlORnhLY2Vt?oc=5",
+          "title": "2000억 수혈에도 ‘제자리걸음’…홈플러스, 결국 ‘분리매각’ 가나",
+          "date": "2026-10-13"
+        },
+        {
+          "name": "시사오늘",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBNQklxNTh6d3V6LWRwQlhuRzlNWFBudndfODY5YjJvc2htWllOSUJHNzNOWXRMMmcyYkRsS2hMZWFWRHRLUnRvTFlMNTIzczN2VDZXRnhMNzBpS2JTbnVVbWVlWmFwRm9CdUZV?oc=5",
+          "title": "국감서 드러난 홈플러스 회생 현주소…자금 수혈에도 정상화 험난",
+          "date": "2026-10-13"
+        }
+      ],
+      "date": "2026-10-14",
+      "id": "20261014-03"
+    },
+    {
+      "cat": "ecom",
+      "importance": "mid",
+      "company": "카페24",
+      "title": "카페24, 주소 자동연동 '쇼핑패스포트' 출시로 셀러 생태계 강화",
+      "body": "카페24가 복수 쇼핑몰 간 배송지 정보를 연동하는 '쇼핑패스포트'를 출시해 이용자 편의성과 셀러 락인을 강화했어요.",
+      "insight": "셀러 솔루션 경쟁사의 제품 편의성 향상에 대응해 우리 플랫폼 기획·개발 인력의 기술 역량 고도화가 요구돼요.",
+      "action": "메이크샵·플레이오토의 솔루션 기획 담당자 인터뷰를 통해 필요 기술 직무를 파악해 보세요.",
+      "teams": [
+        "인사기획",
+        "채용"
+      ],
+      "tags": [
+        "카페24",
+        "쇼핑패스포트",
+        "셀러솔루션",
+        "경쟁자동향"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "머니투데이",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA3ZDdBalNFUk1HaGRNNktJZzBuZzE4aGpCbVltbWpzWUlvdUpZdWJkWXBVd2F5aWRuS3JMWXotNlVTMTVzT3dhelU4dEJ0c2N3WERGa1JFZ3RHWEk3aU1JeUZweUFNQzIx0gFuQVVfeXFMTUU0MC1NTFRrcFFJSGhFTnlzRWZ0TW5pTHlRSFZneW9GWTRPMUZ4UWdLdXZSSXlXaUdBVVVmdHFvdG1jSTQzb3gxd2pDVW9GTnU4bVktdjVHaFRJWU5TeTRfRWFGQ2l6a1dhRnFIc2c?oc=5",
+          "title": "카페24, '쇼핑패스포트' 출시…쇼핑몰마다 주소 입력할 필요 없어 - 머니투데이",
+          "date": "2026-10-13"
+        },
+        {
+          "name": "뉴시스",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9naVY1SWtmQ010SXIyRVVXNnpFZkVURjhVTnlkc3ZtVURqc21PWTV6LVRFNjhMTzRqVzRUZUZEX3VJUjdWQlhkTmlJQ1I1eFdnQ3JCTGRUbFh4VFJ1ZEs4MGhVMjJnUjFVWlpyM0NOeE83TURobEg5T9IBeEFVX3lxTE9naVY1SWtmQ010SXIyRVVXNnpFZkVURjhVTnlkc3ZtVURqc21PWTV6LVRFNjhMTzRqVzRUZUZEX3VJUjdWQlhkTmlJQ1I1eFdnQ3JCTGRUbFh4VFJ1ZEs4MGhVMjJnUjFVWlpyM0NOeE83TURobEg5Tw?oc=5",
+          "title": "\"주소 입력은 한 번만\"…카페24, '쇼핑패스포트' 서비스 선봬",
+          "date": "2026-10-13"
+        },
+        {
+          "name": "아시아투데이",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Jb1dXUThMSnJBNVlJdmtXajhLTjZqSUhDeThBV2RsTG9iNUx6SndKU19yaU5OTjZzN0Y2Ym5MSTNBck9NNUw5Q0NyOFpvTkVuV3FzZHBZU2d0VVpsV241MEFaX0pTZmt1LW4tOGRn?oc=5",
+          "title": "카페24, 쇼핑몰 배송정보 입력 간소화…‘쇼핑패스포트’ 출시",
+          "date": "2026-10-13"
+        },
+        {
+          "name": "서울경제",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5jdWI1UkU4WDFicGhpX1BTN0VQZ0w5ME56LXdad19Id1lhR0RER0R3ZEdaMmJnSUh1NmREYU1CSkJ0RG8ybzdhNW5kN2pXdTh1SEHSAVNBVV95cUxQNUNyNjdkb0xQQnBGN1RPTVRzeVk2RTFEMGxKQkFIejFmMVhUTk9DUGZLcDB0eUQtbTk5NU51enZwSkFmLWhhQ29qR21pd3djRlJhOA?oc=5",
+          "title": "쇼핑몰 달라도 주소 입력 끝… 카페24, 쇼핑패스포트 출시",
+          "date": "2026-10-13"
+        },
+        {
+          "name": "소셜밸류",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE15dnBHbnd1bWRzWU9mZzJHNTBpNXdtMWU4aWJSODk1bzl3Tnh0eW1LcFd3U3VIazZpVWxSbFg4cjBwTk85dlhwNUYwaE11aHh5RXluYVNOWUZadmFiLWM4aEdfd9IBbEFVX3lxTE1VUDJ4bklCTUlYNUNiTDJCZWY4NVNPVkpZSTQzTm1LdHJoWnY1YWRZd2tkdjctdkJfT1VpZnZFZUQ0bDJkSFhjU3hqRHhNdktMcFlYVmRscHBsTTFNY3g0UjBoZ0lMTDBfeUlLTQ?oc=5",
+          "title": "카페24, 쇼핑몰 간 배송정보 연동…‘쇼핑패스포트’ 출시",
+          "date": "2026-10-13"
+        },
+        {
+          "name": "지디넷코리아",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBUeWxHRG1mcFh4YU5DY2JySE9uY1dUTEdHTERzX2xNeU02Q3B4T1NKZjRraXVQUmllTWwtNFg4ZXdWR2NZUngtSU9jaUhkMUd0VGFpZ3BR?oc=5",
+          "title": "배송지 입력 번거로움 '뚝'…카페24, '쇼핑패스포트' 출시",
+          "date": "2026-10-13"
+        },
+        {
+          "name": "이데일리",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNaFNpTUJiUTJlNGczWjVQdTRBMlFXMjVmS2Q0bTdNM0t4LXZpUnRabkIxaFk5a1NTZVhJQVZBOHp2QmdBaW5oT0JjTlFvT1AxcmRwWjR4bkJ3WGJFVHJUZGprMEhieTVESW5vTjhVLV8telJyeTVuWmh2b044SUdQZQ?oc=5",
+          "title": "카페24, 쇼핑몰마다 주소 입력 안 해도 된다…‘쇼핑패스포트’ 출시",
+          "date": "2026-10-13"
+        },
+        {
+          "name": "중소기업신문",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9SdDYwQ0lvOERya1NINDAtZU1HQ2pibS1zRWlta19HV1ZPeC1nUUdaU0VNUWliM1hkOHlXdTJZOE53ZkNmRTlia0c5YVdJOVdYOVRyaWl4VWhrbTZ6c3JVSEJaMlAtNTFIRXlySW1R?oc=5",
+          "title": "쇼핑몰마다 반복되는 주소 입력, 카페24가 없앤다",
+          "date": "2026-10-13"
+        }
+      ],
+      "date": "2026-10-13",
+      "id": "20261014-05"
+    },
+    {
+      "cat": "trend",
+      "importance": "mid",
+      "company": "업계 전반",
+      "title": "근태 SaaS 연동 및 급여정산 자동화로 HR 운영 효율화 가속",
+      "body": "ERP와 근태관리 SaaS를 연동해 근무시간 데이터 검증 및 임금명세서 발송을 자동화하는 트렌드가 확산되고 있어요.",
+      "insight": "다양한 그룹 계열사의 복잡한 교대근무 및 근태 기준을 단일 시스템으로 정밀하게 연동할 필요성이 커졌어요.",
+      "action": "그룹 내 근태 데이터와 급여 ERP 간 연동 누락 및 수작업 검증 프로세스를 점검해 보세요.",
+      "teams": [
+        "인사기획",
+        "보상·복리후생"
+      ],
+      "tags": [
+        "HR테크",
+        "근태관리",
+        "급여정산",
+        "SaaS"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "시프티 블로그",
+          "url": "https://shiftee.io/ko/blog/article/attendance-management-saas-stability-checklist",
+          "title": "근태관리 SaaS 도입 시 확인해야 할 안정성 기준과 체크리스트 최근 기업들은 근무일정 관리, 출퇴근기록 관리, 휴가 관리, 전자결재 등 다양한 인사 업무를 SaaS 기반 솔루션으로 운영하고... 2026-07-15",
+          "date": "2026-10-14"
+        },
+        {
+          "name": "시프티 블로그",
+          "url": "https://shiftee.io/ko/blog/article/payroll-automation-and-attendance-data-management",
+          "title": "급여정산 오류를 줄이는 근태 데이터 관리와 임금명세서 발송 자동화 전략 매월 급여정산 시즌이 다가오면 인사·급여 담당자는 반복되는 확인 작업과 데이터 검증에 많은 시간을 할애하게 됩니다. 근로시간 ... 2026-0",
+          "date": "2026-10-14"
+        },
+        {
+          "name": "시프티 블로그",
+          "url": "https://shiftee.io/ko/blog/article/shift-work-attendance-data-payroll-settlement",
+          "title": "교대근무 급여정산 가이드: 근태데이터 연동과 수당 계산 방법 교대근무를 운영하는 기업에서는 근무조와 근무시간이 다양하기 때문에 급여정산 과정에서도 여러 조건을 함께 고려해야 합니다. 특히... 2026-09-18",
+          "date": "2026-10-14"
+        },
+        {
+          "name": "시프티 블로그",
+          "url": "https://shiftee.io/ko/blog/article/hr-saas-migration-data-backup-checklist",
+          "title": "HR SaaS 솔루션 전환 가이드 : 데이터 백업과 도입 체크리스트 기업의 HR 시스템에는 직원 정보부터 조직·직무 정보, 근무일정, 출퇴근기록, 휴가, 승인 내역까지 다양한 데이터가 축적됩니다... 2026-09-",
+          "date": "2026-10-14"
+        },
+        {
+          "name": "시프티 블로그",
+          "url": "https://shiftee.io/ko/blog/article/erp-integration-attendance-management-data-consistency",
+          "title": "ERP·근태관리 연동 가이드: 데이터 관리 기준과 주요 체크사항 기업의 인사 운영에서는 인사정보뿐 아니라 근무일정, 출퇴근기록, 휴가, 근로시간 등 다양한 근태 데이터를 함께 관리해야 합니다... 2026-08-26",
+          "date": "2026-10-14"
+        },
+        {
+          "name": "시프티 블로그",
+          "url": "https://shiftee.io/ko/blog/article/erp-attendance-data-integration-payroll-accuracy",
+          "title": "ERP·근태 데이터 연동으로 급여정산 정확도를 높이는 방법 많은 기업이 ERP를 활용해 인사와 급여 업무를 운영하고 있습니다. ERP는 조직 정보와 직원 정보, 급여 기준 데이터를 관리... 2026-08-12",
+          "date": "2026-10-14"
+        },
+        {
+          "name": "시프티 블로그",
+          "url": "https://shiftee.io/ko/blog/article/attendance-approval-workflow-solution-checklist",
+          "title": "근태 승인 프로세스 효율화를 위한 전자결재 운영 체크리스트 기업의 근무제도가 다양해지면서 휴가, 연장근무, 휴일근무, 근무 변경 등 인사팀과 관리자가 처리해야 하는 근태 관련 요청도 함... 2026-08-06",
+          "date": "2026-10-14"
+        }
+      ],
+      "date": "2026-10-14",
+      "id": "20261014-07"
+    },
+    {
+      "cat": "market",
+      "importance": "mid",
+      "company": "크래프톤",
+      "title": "크래프톤, 채용 동결 깨고 'AI 네이티브' 신입 100명 공채",
+      "body": "크래프톤이 주니어 AI 인재 육성을 위해 AI 네이티브 신입 공채를 정례화하고 역대 최대 규모인 100명 이상을 채용해요.",
+      "insight": "IT 채용 시장에서 실무 AI 활용 능력을 갖춘 주니어 인재 확보 경쟁이 한층 치열해지고 있어요.",
+      "action": "사내 개발 직군 채용 전형에 AI 도구 활용 역량 평가 기준을 반영해 보세요.",
+      "teams": [
+        "채용"
+      ],
+      "tags": [
+        "크래프톤",
+        "신입공채",
+        "AI인재",
+        "채용트렌드"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "팝콘뉴스",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1jc2lrbVVaZDgwOUpDLWd6M2FRRjdrUjlmRVRlM1VNUlhDcjdTQ1VXcXFKOTFPQ3pPX3J1cHpXdzJmVjY4dmFvQ2RabkhETnROTUJNUFRxQ052Q0xTdUFJU2RNUmpaS2xMTDhIZzV30gFyQVVfeXFMTVEwalJDLTdMcjVEbTFrZ3k2d2x3WG1lWkR6NU5DZXd2d0IzQ2IzbkpBU1RCQXByWWFkdTFaZV8wblRhdTRraEY3RVlES2VUOTNzVTNtUHpYYUFQWXVHQTFkZWFBZGV6UjRESERDNXVkcDZR?oc=5",
+          "title": "크래프톤, '채용 동결' 선언 후 역대 최대 신입 공채…AI 인재 100명 이상 뽑는다",
+          "date": "2026-10-13"
+        },
+        {
+          "name": "데일리포스트",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5XZnFuc1Fhb2NsSFZTQ0NtR0NJZUpyamJjX1hnYmQ1NTJtYWhqelkwcGNXajNKOWpQOV95SFI1YnRNdGlhMXNDbkVPTUdqcFNMRDFJOXFqZWFxRHJpbjhpYlBmX1RWa3I2VXFabEJQWdIBc0FVX3lxTE95cXJlS2dLSi1JUnRIQjhCNG1JR3JOdFRDUVFXWTFQZ3h0bXVVNF9ScU5LOG9BdUtwd09LUFQ1dEIzN3duYndNenRibmZUTlJHZUNiMnZuOXJxdWs4V1BBOWpjdzB5aHFseWpnZWxENW8zcms?oc=5",
+          "title": "크래프톤, ‘AI Native’ 주니어 공채 정례화…올해 채용 규모 및 접수 기한은?",
+          "date": "2026-10-13"
+        },
+        {
+          "name": "뉴스핌",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9VVDhDZ19SWnE0YkoxMHF0Tmk3R2MtTUQzWUJGTlVpZEdSXzBxVnY4WE5CRnIzeFlYcEI1VTNXTzVmVl9HcUtpcFpwckcwMmdMXzVzWFduTUExS3N5?oc=5",
+          "title": "크래프톤, 역대 최대 규모 신입 공채...AI 인재 100명 이상 채용",
+          "date": "2026-10-13"
+        },
+        {
+          "name": "IT조선",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBhVTE5dFljaE5NTmExb19USnRGa1NZanZrMTZCQ19FaTBBQXd0dWI5S3hBbWFWQkNvQTNqemN3S003RnppT01nX1Niem5TNkJ1SUdzUHlUWGVfWmNvWWtEbW9UQkRqemxjVWdfanE5WlfSAXRBVV95cUxPMkRwbEVBTzhhaGtVQ1htWDhQT3dWZTJJc2Y1elRxbm5mek4zdk55eEZPeTFYX253eXpERGl1eUdCMHFFRlNrZlh4N01PWlBMa3lsN2ZKQjA5dUswNF9xYklxQjdqaGQ2eDc5M3dRM2x2ZW5WVQ?oc=5",
+          "title": "“AI 네이티브 100명 뽑는다”… 크래프톤, 신입 공채",
+          "date": "2026-10-13"
+        },
+        {
+          "name": "디일렉",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBkYVloRFVJMWVjakd6RFNhN0pHbTBBVWQ2aWMwMkZkTVFMeEVRT0p4bHBHNjNWRDlqRU9zdGRQWnhuRFpGV3dMd1lXaVVoZGloTF9jNWp5UnY1V2VlcFo3ay1vVTFBZw?oc=5",
+          "title": "크래프톤, AI 활용 신입 100명 채용…23일까지 접수",
+          "date": "2026-10-13"
+        }
+      ],
+      "date": "2026-10-13",
+      "id": "20261014-04"
+    },
+    {
+      "cat": "market",
+      "importance": "mid",
+      "company": "업계 전반",
+      "title": "개발자 채용 면접의 핵심 기준으로 'AI 스택 설계 역량' 부상",
+      "body": "단순 코딩 테스트를 넘어 실무에서 AI 도구를 활용해 아키텍처를 설계하는 'AI 스택 설계 역량'이 주요 채용 기준으로 자리잡고 있어요.",
+      "insight": "다나와·에누리 등 서비스의 검색 및 데이터 아키텍처 고도화를 이끌 수 있는 차별화된 개발 인재 선발이 필요해요.",
+      "action": "개발 직군 면접 질문지에 AI 협업 및 프롬프트 기반 아키텍처 설계 평가 문항을 추가해 보세요.",
+      "teams": [
+        "채용"
+      ],
+      "tags": [
+        "AI채용",
+        "개발자면접",
+        "기술스택",
+        "인재검증"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "뉴스N연합",
+          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFAxWnJ2YWFFNFFjTlRHNnBtMWFpQ3dvRFB1bEp6VFZlV0pXWVNDVmxKT2hBaUUtU2lYa3lTTXZ1VkRDUlhrOTRmT2Fn?oc=5",
+          "title": "채용 면접의 새 기준: 'AI 스택 설계 능력'을 묻는 기업들",
+          "date": "2026-10-14"
+        },
+        {
+          "name": "Vietnam.vn",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1XUzNjNFNOMjhtMWVfTG03a2c3RlB2d1pRbXdZZ1RGblQ3dld3N1hXY19GMUtjcVEtNkJLMnhXY2NObHlCNEZUdWFPMGRtY0NlOUFtMmdSWXk0UURFcEVUT0txT2N0ZldhVk5ueXh5TXNSRDE0UzJQZA?oc=5",
+          "title": "AI 기술은 젊은 전문가들에게 새로운 기준을 제시합니다.",
+          "date": "2026-10-14"
+        }
+      ],
+      "date": "2026-10-14",
+      "id": "20261014-08"
+    },
+    {
+      "cat": "ecom",
+      "importance": "mid",
+      "company": "카카오",
+      "title": "카카오그룹, 인적분할 앞두고 계열사 CEO 공동 IR 개최",
+      "body": "카카오그룹이 인적분할을 앞두고 주요 계열사 대표들이 모여 첫 공동 IR을 열고 사업 방향성을 공유했어요.",
+      "insight": "인적분할과 조직 재편 과정에서 계열사 내부 리더십 이동 및 전문 인력 동요가 발생할 수 있어요.",
+      "action": "카카오 계열 플랫폼 기획 및 이커머스 핵심 포지션 인재의 이동 추이를 관찰해 보세요.",
+      "teams": [
+        "채용",
+        "인사기획"
+      ],
+      "tags": [
+        "카카오",
+        "인적분할",
+        "조직개편",
+        "플랫폼"
+      ],
+      "our_group": false,
+      "talent": {
+        "level": "mid",
+        "signal": "인적분할 및 조직개편 — 플랫폼 기획·개발 리더급 이탈 가능성"
+      },
+      "sources": [
+        {
+          "name": "카카오",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE12aGJYT29aYm0zTmg2NHFEeDcyOGhENkwzMURNVGNOMXdlRnowS09oOS1ELW5JMm00cmtZNVV2NU1qSnJGNnNCN3AzeTlrenV6SlZrWjJ3?oc=5",
+          "title": "카카오그룹, 인적분할 앞두고 주요 계열사 CEO 함께 모여 ‘첫 공동 IR’ 개최",
+          "date": "2026-10-14"
+        }
+      ],
+      "date": "2026-10-14",
+      "id": "20261014-06"
+    },
+    {
+      "cat": "market",
+      "importance": "low",
+      "company": "롯데건설",
+      "title": "롯데건설, 4월 이어 반년 만에 2차 희망퇴직 단행",
+      "body": "롯데건설이 체질 개선과 원가율 방어를 위해 7년 차 대리급 이상까지 범위를 넓혀 올해 두 번째 희망퇴직을 시행해요.",
+      "insight": "건설업 인력 구조조정 기조이지만, 건설사 출신 구매·경영기획·시설 관리 직무 인력의 이직 수요가 늘고 있어요.",
+      "action": "총무·인프라 등 유관 직무 공석 발생 시 즉시 투입 가능한 경력 인재풀로 활용해 보세요.",
+      "teams": [
+        "채용"
+      ],
+      "tags": [
+        "롯데건설",
+        "희망퇴직",
+        "인재유입",
+        "체질개선"
+      ],
+      "our_group": false,
+      "talent": {
+        "level": "high",
+        "signal": "연내 2차 희망퇴직 단행 — 대리급 이상 관리 인력 시장 유출"
+      },
+      "sources": [
+        {
+          "name": "미래경제",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBzTHZoRW1mZ3NfMkFJSU5HemZXSFBBVndORmN5LUQ3UGRGakNKZTA2RU15M09EMHlYX0NXYkhaWE9aWGFzMFlFTGlaM0ZWN1c0Qkpzd0U2czVZMVZhVDV1MkpPRl9JWG9wUFdxQw?oc=5",
+          "title": "롯데건설, 4월 이어 올해 두 번째 희망퇴직 단행",
+          "date": "2026-10-13"
+        },
+        {
+          "name": "증권경제신문",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1oMG5rN1hZWGs4XzJNWEc5RXg3UENjWER3T1ZMbmxEREtzVjFhSUhEWGhYU2EweXl1Nl93aFVtUEI5aUh1UTBSY20yeTNhSVlnWV9CR1k5YUpFSkFibkxQSFRaUi1qZFktM1l2RGVyZElFdw?oc=5",
+          "title": "롯데건설, 올해 두 번째 희망퇴직 시행···\"체질 개선 차원\"",
+          "date": "2026-10-13"
+        },
+        {
+          "name": "SR타임스",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1CeXdPQWlGdHJqTGc1RURiMGFfTld3WGtkUlp6VG9uTzhqTTRtbVFiWWQzQUlQVGRvOUtZU1VGc00yQ3Z1V3Y4UXU1N1F6V2NlQ25xX3RYaXVSZzBFUUhoOFQ4a0VOUG05?oc=5",
+          "title": "롯데건설, 반년 만에 또 희망퇴직 단행…7년차 대리급도 포함",
+          "date": "2026-10-13"
+        },
+        {
+          "name": "비즈니스포스트",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1abTVBZ09WMWpnT2pycl9jdFpKaEZZMHRZUkVId2ZlbnZXUW40ZmF5WXRidk9WUHh1UW9oc19ISUJBSVUtNWdzWFEwMmJsaGNmM2U0SG5LTWY2anA3aXk3UHdCZmtpUFUxWnlrbGtVT21DMWs?oc=5",
+          "title": "롯데건설 플랜트 덜고 주택·개발 중심으로 개편, 오일근 원가율 개선 지렛대로 내실 다진다",
+          "date": "2026-10-13"
+        }
+      ],
+      "date": "2026-10-13",
+      "id": "20261014-09"
+    },
+    {
+      "cat": "trend",
+      "importance": "low",
+      "company": "업계 전반",
+      "title": "하반기 평가면담 피로도 해소 및 건설적 피드백 체계 필요",
+      "body": "평가면담이 일방적 질책으로 끝나 조직 내 불신을 키우는 문제를 짚고, 심리적 안정감과 코칭 중심의 면담 방식이 강조되고 있어요.",
+      "insight": "연말 정기 평가 시즌을 앞두고 평가 면담이 실질적인 동기부여와 육성의 장이 되도록 가이드라인이 필요해요.",
+      "action": "팀장급 리더를 대상으로 '상처 주지 않는 피드백 코칭 가이드'를 배포해 보세요.",
+      "teams": [
+        "조직문화·HRD"
+      ],
+      "tags": [
+        "평가면담",
+        "조직문화",
+        "코칭",
+        "피드백"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "오프피스트",
+          "url": "https://www.offpiste.ai/articles/왜-평가면담은-서로에게-상처가-되었을까-2561",
+          "title": "왜 평가면담은 서로에게 상처가 되었을까",
+          "date": "2026-10-12"
+        },
+        {
+          "name": "오프피스트",
+          "url": "https://www.offpiste.ai/articles/불신의-비용-신뢰의-배당금-1833",
+          "title": "불신의 비용 신뢰의 배당금",
+          "date": "2026-10-12"
+        },
+        {
+          "name": "오프피스트",
+          "url": "https://www.offpiste.ai/articles/영화-킹스-스피치가-리더에게-주는-질문리더에게-코치가-필요한-이유-2549",
+          "title": "영화 킹스 스피치가 리더에게 주는 질문리더에게 코치가 필요한 이유",
+          "date": "2026-10-12"
+        },
+        {
+          "name": "오프피스트",
+          "url": "https://www.offpiste.ai/articles/진짜-안전감이-필요한건가-2-왜-그들은-최악이-되었나-2536",
+          "title": "진짜 안전감이 필요한건가 2 왜 그들은 최악이 되었나",
+          "date": "2026-10-12"
+        }
+      ],
+      "date": "2026-10-12",
+      "id": "20261014-10"
+    }
+  ]
+}
