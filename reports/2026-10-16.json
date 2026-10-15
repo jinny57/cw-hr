@@ -1,0 +1,579 @@
+{
+  "date": "2026-10-16",
+  "window_days": 1,
+  "article_count": 291,
+  "engine": "gemini-3.8-flash",
+  "headline": "유통·빅테크 인력 재편 가속 및 플랫폼 노동 규제 가시화",
+  "points": [
+    "홈플러스·신한카드 등 구조조정 본격화로 유통·IT 경력 인재 유입 기회 확대",
+    "넷플릭스·MS 등 글로벌 빅테크 대규모 감원 지속 속 AI 기반 인력 대체 현실화",
+    "‘일하는 사람 기본법’ 및 특고·플랫폼 근로기준법 적용 논의로 노무 리스크 증대"
+  ],
+  "items": [
+    {
+      "cat": "market",
+      "importance": "high",
+      "company": "신한카드",
+      "title": "신한카드, 9개월 만에 올해 두 번째 희망퇴직 단행",
+      "body": "신한카드가 근속 15년 이상 직원을 대상으로 올해에만 벌써 두 번째 희망퇴직을 실시해요. 가맹점 수수료 인하 등 업황 악화 및 수익성 개선 목적이에요.",
+      "insight": "금융·핀테크 경험을 보유한 기획, 마케팅, 결제 시스템 운영 및 시니어 IT 인력들이 시장에 풀릴 가능성이 높아요.",
+      "action": "메이크샵·플레이오토의 PG 및 핀테크 연계 결제 솔루션 기획 포지션 타깃으로 인재풀을 구성해 보세요.",
+      "teams": [
+        "채용"
+      ],
+      "tags": [
+        "신한카드",
+        "희망퇴직",
+        "핀테크인재",
+        "경력채용"
+      ],
+      "our_group": false,
+      "talent": {
+        "level": "high",
+        "signal": "올해 두 번째 희망퇴직 단행 — 결제·기획 시니어 인력 유입"
+      },
+      "sources": [
+        {
+          "name": "아이뉴스24",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5NQlBUR0ktZVlpNlA3alRFN1o3M081QkpWUHJKbklBS054TDJkZmgyZzNjV3V1WjlRdnVpdG9LUjlBZVRQU1lOT0tUMVE?oc=5",
+          "title": "신한카드 올해 두번째 희망퇴직⋯근속 15년 이상 대상",
+          "date": "2026-10-16"
+        },
+        {
+          "name": "연합인포맥스",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5jcHBVUGJMaGhFNmNCNzUyQUs2cU5sUzQ0czJ4a2RMUWtnYkZ0WGNnZy1XWnIwNlBsS2dhZWk3NlBDTFZ4TDIyOWQ5RjdfcnROd2NTR195cHAzNDBsOHctYm9aelB3cERKN1dfYmJxY3A1MmVk?oc=5",
+          "title": "신한카드, 9개월 만에 또 희망퇴직 받는다…올해만 두 번째 |",
+          "date": "2026-10-15"
+        },
+        {
+          "name": "주간한국",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9zSGgtMEZhRTFnT0cxTXowNFQ1NmhGdC1hU3Q5WUwyTm5ZbTkyZnBuNGo5Q0UzdHRvZDdlS0xwRkhlcXM1ZV8wYzBwMWFsekFGbDI2Y1l0WE9JalRkQk5oMzdIZFFtSk05TDVqOEFHSWtKc1dO0gF0QVVfeXFMT3NIaC0wRmFFMWdPRzFNejA0VDU2aEZ0LWFTdDlZTDJOblltOTJmcG40ajlDRTN0dG9kN2VLTHBGSGVxczVlXzBjMHAxYWx6QUZsMjZjWXRYT0lqVGRCTmgzN0hkUW1KTTlMNWo4QUdJa0pzV04?oc=5",
+          "title": "신한카드, 또 희망퇴직 단행…근속 15년 이상 직원 대상",
+          "date": "2026-10-15"
+        },
+        {
+          "name": "Chosunbiz",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUHgtVzBRaVNFa3FUSlpOQ29sQk1kbWJScFlLLXBhbnplOWd5X2RrWmYySlRoakkzNDdzZzV3ajFxZUFvdXRldm1Za2J3NEFsX0dYc3ZKOGtiT2NkU3VDc1FJN2NDU3JmUmZJLWk5RlY5S3ZrOWdCNFpmUWZ0S3RJSdIBlAFBVV95cUxORGI4blU2YTZvemVCQVRtWUJMYmdBSU13LW1oM05Odkk4Y1FxbWpFb0lxQngyY2g5dmx0V2hDQjVCNGNmTW5hRVBNQjR4SnNVV1N3Ml92eTNZRWM3MFdmeXBJbzEzcDh4Zkh2dmNxd21kWmtZZk5rTXN4ekp4d2YtYlY5Q1BjTjQzbnczbUl5aHpPYW9a?oc=5",
+          "title": "신한카드, 올해 두 번째 희망퇴직… 15년 이상 근속 직원 대상 - 조선비즈",
+          "date": "2026-10-15"
+        },
+        {
+          "name": "매일일보",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9CYU5pZzN5dG9TVldnWEtOSXAteHJNcGwwNlBfQnlDcFI5T1ZPNnNNR2hwWFdobkFPcldza0VacTVjUjBERjJEWXktQ0IxSzc0UkxQOXJpRVgwM24tazFqNWJncFc?oc=5",
+          "title": "박창훈 신한카드 대표 취임후 세번째 희망퇴직 '올해만 두번째'",
+          "date": "2026-10-15"
+        },
+        {
+          "name": "서울경제TV",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5MVnVqN2cyeEtGa0VSNDNmN1ZNTEQ4bHhXU2F2V0pQajRKVEc3NDAtYVdUZ3lUY0NudEtGcEEyNEdKWU5BdHktamcwYzFDTzB4Q0xTUmc0LUNJTEU2dDZsMlQxYjY?oc=5",
+          "title": "신한카드, 올해 두 번째 희망퇴직…수익성 악화에 인력 감축",
+          "date": "2026-10-15"
+        },
+        {
+          "name": "서울파이낸스",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9hbEpPU3dIME82TDlqUDh6WlZRQk5IVERRUUNuUTktaWpTYWJkdFdYeWhEUEZya1ZzSHVZM1VmVk56WGp6MDhCZUttbTJPMU92MVEtWnZjMjBTbWJVeUpRbDVpb3J4eXJpaWc?oc=5",
+          "title": "신한카드, 올해 두 번째 희망퇴직 단행···15년 이상 근속자 대상",
+          "date": "2026-10-15"
+        }
+      ],
+      "date": "2026-10-16",
+      "id": "20261016-01"
+    },
+    {
+      "cat": "trend",
+      "importance": "high",
+      "company": "넷플릭스",
+      "title": "넷플릭스, 실적 호조에도 글로벌 1000명(6%) 감원 단행",
+      "body": "넷플릭스가 2022년 이후 최대 규모로 전 세계 직원의 약 6%에 해당하는 1,000명을 감원했어요. 숏폼 플랫폼과의 시청시간 경쟁 격화와 성장 둔화 대응 차원이에요.",
+      "insight": "글로벌 테크·플랫폼 기업들이 실적 성장과 무관하게 효율화 위주로 조직을 긴축 운영하고 있음을 보여줘요.",
+      "action": "글로벌 플랫폼 출신 국내외 개발·데이터 분석 인력의 이직 신호를 모니터링해 보세요.",
+      "teams": [
+        "채용",
+        "인사기획"
+      ],
+      "tags": [
+        "넷플릭스",
+        "구조조정",
+        "글로벌감원",
+        "플랫폼트렌드"
+      ],
+      "our_group": false,
+      "talent": {
+        "level": "high",
+        "signal": "전사 1000명 감원 — 테크·데이터·글로벌 운영 인력 유입"
+      },
+      "sources": [
+        {
+          "name": "한국면세뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBsVndzd05aQk5JcUhVb3dqbFZ3d0d1YkNnOGVvTmMyS0VkOU1sRC1JLTkxNG5TZWx4YmRxUmJGbGM0UEVPS3pWcUFmUmx3ckdQbjNVVG5WMllJeUJqSldVeEJQNzdqN0owdkE?oc=5",
+          "title": "美 넷플릭스, 전 세계 직원 약 1000명 감원…2022년 이후 최대 규모",
+          "date": "2026-10-16"
+        },
+        {
+          "name": "Martin Cid Magazine",
+          "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPUEszNTQzX3piOS03UTM4LXdDbE9FRnFQZDVmV1dGNWJqWS1rNU5vUUloVUx2eGJ3V0VmWkx6LXFJRGdPWXpmNXVoaXVoal93SXNtUGxPeWlNalBPTjlqN19MQ1ZUWngxWGFzemEtbDVPMU5MNUQwSzJ5Y0NxcXkwQjBxelMzNXFaRFZNUEowRGx0T3U5TEhqdERmY2x5VjMzWnQycG9HUERkbzFodkFzcmhza0xOdmNhTFBqV21DLVhXbEpwOFdMNHZWRlBVWDh0aWRVcDJUN290WVQ3Sm5GbTBENWQ1eTVmcFhPTDhONk5zS1ZPYzkxM0t6QVNWLWlBeDhJZGhoeEVpS2V1YzR1dUJoVUpHU1ItY1B6VnF4ZjVPQk1hR3Q1RXdMMEsyQQ?oc=5",
+          "title": "넷플릭스, 1000명 감원… 이익 늘어나는데 2022년 이후 최대 규모 구조조정",
+          "date": "2026-10-15"
+        },
+        {
+          "name": "한국일보",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBsaUVVNWtJS05LcHREdHg4TnUwdzhwWHJadmo1MllFSm1WLVR4d28tY3lXRlAtMkFGZVJMazFqcHdCbUZYamhDd1pPUmxsblJJdzZOVlc5ZjdiMWJZTDVHZUNCMS1rMFRuLWpDY2VB0gFzQVVfeXFMTXl5WUtlTDhKbW9nVDJfMUdtSHVpSnNVaXVwT2k0Yy1qa0lrMW5PdnZTcnB5eXJNZ0g3dnlEVWJIZUQ3WXJFV25reU56QWxKaUphcEplSi1iYXhlWUpYaXoxMzkxNjA1T2VrYnJhWjNtaDRyNA?oc=5",
+          "title": "구독형 모델 한계? 넷플릭스 6% 감원… 4년 만에 최대",
+          "date": "2026-10-15"
+        },
+        {
+          "name": "뉴닉",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1tVUhNaUI1X0hSblA4NC1fYldKRzNoaVgxQ2hCQUR0c1F4UFVTVXg4NlhLQjBRbXVuVGtiTnhUS1JMYlNwRnlSVy1pMlpONVU0N3Z3?oc=5",
+          "title": "디즈니에 이어 넷플릭스까지 1000명 구조조정하는 이유, 실적은 좋은데 다음 '오징어 게임'이 없다고? 📺",
+          "date": "2026-10-15"
+        },
+        {
+          "name": "조선일보",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbkh0RlVDcWhqVktIZWctcUhnczRyeTN4ZWxfNi10eTJmUThRMGFIMW1wWXdDU2lUa0JGTVNBc255WGpaS25RY1BZYU5mcUJ3RDVaSFp4Nk5zNWY5V0hhN091Y2xDdlh5dEZsNmxWSkhkTE52NkZ6d3ptUGszZ0lfenp6Yw?oc=5",
+          "title": "넷플릭스 전체 직원의 6%인 1000명 감원…유튜브·숏폼과 시청시간 경쟁 격화",
+          "date": "2026-10-15"
+        },
+        {
+          "name": "더팩트",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBEQm45b05xNWo3YUJDTFNvNm1zcTRXb0kybGJhTE5rempFanBwQW9MUWphdHNlVm1mSFBtbEZ2U280TmZQZWVqeGVyc2Fkck9HQ2fSAVJBVV95cUxQREJuOW9OcTVqN2FCQ0xTbzZtc3E0V29JMmxiYUxOa3pqRWpwcEFvTFFqYXRzZVZtZkhQbWxGdlNvNE5mUGVlanhlcnNhZHJPR0Nn?oc=5",
+          "title": "'숏폼'에 밀린 넷플릭스…성장 둔화에 직원 1000명 감원",
+          "date": "2026-10-15"
+        },
+        {
+          "name": "한국소비자경제",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9oNk9DX1drRHZRMGdKbjJNLWtNN09qaFAzRVNzQ1dseUNLWWFBcGYyVndOQ01hTEV1UEhDTjhVd01oNDFUeVZMQzdHTlhXeFdKbG13Qk9MTXNjcEFUZGpxSUJqdjdsYTRtdG9jTtIBb0FVX3lxTE1TdHlSMmRlcTBjTXVxT0ZrSXg1T2NlRWJ4SkxJbTV2MHhHM2VIR0VaMnRISlVTVnN0NWVROFRSclFwdGJLZmhqNmZiZ1JfV1poSTdodElsTUU2bEF4LWhPVkktQ1pBaTBGbEhsVjhoYw?oc=5",
+          "title": "넷플릭스, 전 세계 직원 1000명 감원…4년 만에 최대 규모 구조조정",
+          "date": "2026-10-15"
+        }
+      ],
+      "date": "2026-10-16",
+      "id": "20261016-02"
+    },
+    {
+      "cat": "ecom",
+      "importance": "high",
+      "company": "홈플러스",
+      "title": "홈플러스 희망퇴직 신청자 몰려 조기 마감",
+      "body": "홈플러스가 근속 연수 기준 희망퇴직 접수를 시작한 지 8일 만에 수백 명의 신청자가 몰리며 조기 마감했어요. 별도 퇴직 위로금이 없는 조건임에도 이례적인 조기 마감이에요.",
+      "insight": "이커머스와 대형마트 전반의 업황 불안에 따른 인재 이탈이 가시화되었으며, 커머스 운영 및 물류 경력자 수급에 유리한 시점이에요.",
+      "action": "퇴직 인력 중 다나와·몰테일 등 당사 물류센터 운영 및 MD 직무에 적합한 인재를 적극 서칭해 보세요.",
+      "teams": [
+        "채용",
+        "인사기획"
+      ],
+      "tags": [
+        "홈플러스",
+        "희망퇴직",
+        "유통구조조정",
+        "경력인재"
+      ],
+      "our_group": false,
+      "talent": {
+        "level": "high",
+        "signal": "희망퇴직 수백 명 조기 마감 — MD·물류·운영 인력 시장 유입 예상"
+      },
+      "sources": [
+        {
+          "name": "경북도민일보",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE91UUc1WWNfTWlXV0xuRk5lQkxFbUkzWVpiek9tZ2RiaE9NUzVzUFVZNExaNUxwVzh6SGpkUG9zZGJtV0F3MGFMTkd0SS1qdmtOcWpDVjRPcVBDWkFkR3JBc1F2RlZMYW1MMmc?oc=5",
+          "title": "홈플러스, 희망퇴직 신청자 몰리며 8일만에 조기 마감",
+          "date": "2026-10-15"
+        },
+        {
+          "name": "KBS 뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBFME1jZEVQRmktdUFHSmFzYWdfTjRZQVpLbzgta1VNRmRYV3RpdWdHZURNdWZoSzUxdFZlNndiRmdCR2Y0VllYMERsWjkyTXNPNFFlVnZVWDg3bEU?oc=5",
+          "title": "홈플러스, 희망퇴직 접수 신청자 몰려 조기마감",
+          "date": "2026-10-15"
+        },
+        {
+          "name": "아시아경제",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1LTmFBbHZnV2lXR1FPTjJkb29PUXVNbVExRXpiMUF6aEd3WFRzRzFOY1lXWEMwWm1CdGU1WE9IdmZySTNYMmZkUGJzNG1TbXFwTHJoejQ0YmItZThzOFhVMw?oc=5",
+          "title": "퇴직 위로금도 없는데 \"제가 그만둘게요\"…홈플러스 희망퇴직 조기 마감된 까닭",
+          "date": "2026-10-15"
+        },
+        {
+          "name": "폴리뉴스 Polinews",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE90MXdiaW9IOGVjTERoUTVBY1BjeTJyMGtuSy1jT3VzNmpYM2luRGJPdkVEWTlES1V0bS1RWVhlcEtkZlNLZDNzRTVGTU1fRzQ3V0YtaUlLOW9qRzRUMWpXMVlrdlRESzJpRS1DVUJR?oc=5",
+          "title": "[유통 국감 리포트⑥] 정무위 민병덕, 홈플러스 '위로금 없는 희망퇴직'·GS리테일 장려금 축소 공개 질타",
+          "date": "2026-10-15"
+        },
+        {
+          "name": "천지일보",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5yamJsalFsWkVSMzZDMXRiSjNKS3dDSDd0dGk4NlhCT1VrWXdQX012VVJjTzV3QnJjcm1fUmRLLVFJcjM5WFdtRHpnSDgwZ2lBZUlKb0FxZ3VRSFdNQldJWjNyUjhJOGkxRHc?oc=5",
+          "title": "위로금 없어도 수백 명 몰렸다… 홈플러스 희망퇴직 ‘조기 마감’",
+          "date": "2026-10-15"
+        },
+        {
+          "name": "MTN 머니투데이방송",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9PWHhQRmRXMFhxOGJmSkZBa0pHeWthUHNnU1lJMDhmNUNxYndyZEJyU3lOcE5pMndDREZyWWlnNGZpRDctNE1lVV84M0lvWmZ6dVotT1U4T18wSlVVSXM4?oc=5",
+          "title": "홈플러스, 희망퇴직 접수 조기 마감…\"신청자 몰려\"",
+          "date": "2026-10-15"
+        }
+      ],
+      "date": "2026-10-15",
+      "id": "20261016-00"
+    },
+    {
+      "cat": "ecom",
+      "importance": "mid",
+      "company": "G마켓",
+      "title": "G마켓, ‘셀러 컨퍼런스’ 열고 AI 판매자 솔루션 전면 도입 예고",
+      "body": "G마켓 장승환 대표가 66만 입점 셀러를 대상으로 AI 판매 관리 솔루션 및 신규 핫딜 개편 전략을 공개하며 상생과 편의성 확대를 발표했어요.",
+      "insight": "경쟁사의 셀러 지원 솔루션 고도화에 맞서, 당사 메이크샵·플레이오토도 AI 셀러 에이전트 개발 및 운영 인력 확보가 시급해요.",
+      "action": "경쟁사 대응을 위한 셀러 솔루션 AI PM 및 데이터 엔지니어 포지션 충원 현황을 검토해 보세요.",
+      "teams": [
+        "인사기획",
+        "채용"
+      ],
+      "tags": [
+        "G마켓",
+        "셀러솔루션",
+        "AI에이전트",
+        "이커머스경쟁"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "어패럴뉴스",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBwTFAzbXpRam9FdnVDMzlKX2lfeW1mTzNvWHJ3aDNLaEM0RC11NE9uSnBqbzN5b3g0TEVQOU80TG50MWlmZ213TkxMeUkzcjBPSUdwNFk5MlpnQUc2VHh0aTBmZk12SkhSMkpMazA4MVBRMzQ?oc=5",
+          "title": "G마켓, 셀러 컨퍼런스 개최…2027년 판매 지원 전략 공개",
+          "date": "2026-10-15"
+        },
+        {
+          "name": "토요경제",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9pWWIwMnR6VkpLZEwwSHhDMFl1ZWo5V3A0LUtYQmJaUFUxSEhvT0ZuVVpoSTFjaXpudWhPVmpmdTVtelZHTnJEWldtTVlRWk9FUWIweTVZeklzbDI5Zy05R9IBb0FVX3lxTE5UR3JPSDZzQmloX2NiaWpTRlBIUENUaldEU3huUDFQeGk5dURvQ3hCWWdRcWhmWmVDWndYcFV3TkJWcndlMlBGbTNrajRuU1ZmbmJKT1VBUDViaGZ5MTdXX0Q2TnFrWlJxOERVWGZ3SQ?oc=5",
+          "title": "[이커머스동향] SSG닷컴 ‘쓱7클럽’ 가입자 3배…G마켓은 셀러 지원 강화",
+          "date": "2026-10-15"
+        },
+        {
+          "name": "데일리포스트",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5tbERRZkZBaDRMSTlXY085Zy1sTkhTNWtnUlVsQWhtY3VMdXRIUG5yZHhGd3RIUW5LY1BOeHJvdmtfZFJqd3JCbmxYcUFlU2JRVHlPc2U0czdETGxBN0ltemsxRkhCVEkzcWUzRkR0Y9IBc0FVX3lxTE9RMkxpc1ZwdER6SUNYVkxZYXJkT3hwa1dzNWs4LTFjWmdZaXVHUjNqOWxLSkNfNFhOdFhveXQzeDZmMlJqdFBWNXNGZGEzVXNKbUFsN3BZdkhXaGZoanVzc3JNTFdqT1FGUmY5S2R6YllNQVU?oc=5",
+          "title": "G마켓 제임스 장 대표 “고객 쇼핑 편의 제고 및 셀러 동반성장 솔루션 강화할 것”",
+          "date": "2026-10-15"
+        },
+        {
+          "name": "바이라인네트워크",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Ya1FOWlFEQzlVSTAybmF2dU5BS3dPdnVvVnZocGhtdktJZ0ZGc3VJRzlpX2xXNjBKTFFBU2JaWkxRZTRGcHNhYVRESkxuTnFUN2FGVnd3?oc=5",
+          "title": "G마켓, 셀러 지원 확대…신규 딜·AI 판매 관리 기능 도입 추진",
+          "date": "2026-10-15"
+        },
+        {
+          "name": "머니투데이",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5HTkdMYmJCTjNCVEVRaW1ncWZDYnhyNHg4Zy1RWHZNWTVoTUlmQUtGUHkyeWNleVJnZVNwaXJCRjBlUDBDR1VrNC1tek1RRXFWdV9qOHJKbm5mWGNSRWdLd0h4ajh2azhMNzdKU2ZBTdIBb0FVX3lxTE5HTkdMYmJCTjNCVEVRaW1ncWZDYnhyNHg4Zy1RWHZNWTVoTUlmQUtGUHkyeWNleVJnZVNwaXJCRjBlUDBDR1VrNC1tek1RRXFWdV9qOHJKbm5mWGNSRWdLd0h4ajh2azhMNzdKU2ZBTQ?oc=5",
+          "title": "셀러 맞춤형 지원 나선다…G마켓, '2026 셀러 컨퍼런스' 개최 - 머니투데이",
+          "date": "2026-10-15"
+        },
+        {
+          "name": "물류신문",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBWVGpCZWJOYWxxZ1FHZEdaMVlFSUdWSHFzel9SYzh4Z0RGZ2VINDZGbnZIdnVyQXIxM1Q1Q0FCaGdsWkUyUXhLQjc5TVh0ODRyaXkzLVNOYTdXaW96QWJlZzcwUVVnTWtKcFBB?oc=5",
+          "title": "G마켓, 66만 셀러와 상생 강화…AI·프로모션 지원 확대",
+          "date": "2026-10-15"
+        },
+        {
+          "name": "현대경제신문",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE41NEw3cU1XSkFaRFpYS1lsaXFqelBXT0tVdzZfNm1pWllDRktYMUNaOU1xek5wMXNZQS1ZVUxQMG5kQmVnOHNNNEVvbnFjaU5vajN1SUNYbDVsRjRMNlFNOXNGV1hiZ3BK0gFrQVVfeXFMUGZFT2d5Uktrb3hoajQxWkR0M19yb3NJLXRra214Y3h3Q3pIaXlLSlRVWlpkWGY4QmFseXBISUVqM3NZcDZ4dDg0RXVmajJRdUpJeUhCempKMVMzS1BCQVJqN2F6dzJ2WW04UU0?oc=5",
+          "title": "G마켓, 핫딜 개편·판매자 AI 도입···66만 셀러 지원 강화",
+          "date": "2026-10-15"
+        },
+        {
+          "name": "경기신문",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE43UzMwZlZidEt1STkyeWROMFlaMVlDLW5KWllLb29kRkJBU09QYThNczUxLXEwamgyRlQ1TFZJQ0RIblNMYkgyb3VqTUxyLU92QlRrV1pTVkhhUkxXODNTNWZ3a2w?oc=5",
+          "title": "G마켓, 66만 셀러와 동반성장한다…핫딜 개편·AI 도입",
+          "date": "2026-10-15"
+        },
+        {
+          "name": "뉴시스",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBPV1dvanVNRjY1Qk83S3p3XzA3VEpWS1BVWEVZSGp1V0dMaVNXd054QTV4YzdLOVc3Z3dTcHh5c09seGdiVVVNdUpLS3ZER2xKM2F0allNZlVDVkM3Q1dadzFvcVAxSy15dHlqU1NKSWpsU015WjVaatIBeEFVX3lxTFBPV1dvanVNRjY1Qk83S3p3XzA3VEpWS1BVWEVZSGp1V0dMaVNXd054QTV4YzdLOVc3Z3dTcHh5c09seGdiVVVNdUpLS3ZER2xKM2F0allNZlVDVkM3Q1dadzFvcVAxSy15dHlqU1NKSWpsU015WjVaag?oc=5",
+          "title": "G마켓, 66만 셀러 지원 전략 공유…\"핫딜 개선·AI 에이전트 도입\"",
+          "date": "2026-10-15"
+        },
+        {
+          "name": "글로벌에픽",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9PTTljSU1lX3pJTHQyZ1Vlc29QVmVGdDlvMFBXNTJPY3JUdmI4T21ZUHhJMUpZdlY4RWswMTJ1SFpHRXZ2T2JTb0tZcUVVaG83b1RhZ3l3Wk5NSlhEcWRjRWtMbWNWVzhtaUlmVHpob3daMGx5eE1aTlBOSko?oc=5",
+          "title": "G마켓 장승환 대표, ‘AI 쇼핑 혁신’ 나선다",
+          "date": "2026-10-15"
+        }
+      ],
+      "date": "2026-10-15",
+      "id": "20261016-06"
+    },
+    {
+      "cat": "labor",
+      "importance": "high",
+      "company": "노동계 전반",
+      "title": "노동계, 특고·플랫폼 노동자 ‘근로자 추정제도’ 도입 촉구",
+      "body": "한국노총과 민주노총이 국회 토론회를 열고, 입증 책임을 사용자에게 전환하는 ‘노동자 추정 제도’ 및 플랫폼 노동자의 근로기준법 적용을 강력히 요구했어요.",
+      "insight": "물류 및 배송 현장(몰테일, 스윗트래커) 위탁 용역자의 법적 지위 변화 논란이 커질 수 있어 사전 대비가 필요해요.",
+      "action": "물류·운송 관련 현장 위탁 업무의 지휘·감독 실태와 계약 관계를 노무 차원에서 재정비해 보세요.",
+      "teams": [
+        "노무·ER",
+        "인사기획"
+      ],
+      "tags": [
+        "노동자추정제",
+        "플랫폼노동자",
+        "근로기준법",
+        "노무리스크"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "한국노총",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB5bl83eVJabzNsNXJWeHV6a19MSGxWRXNYUFpSRXQyMHluNXdKdjVUUElUTzRrTlhIQUsxOVBaWHZCYUVoLW4xRQ?oc=5",
+          "title": "한국노총, 노동자 추정 제도 도입, 특고·플랫폼노동자 근로기준법 적용방안 토론회 개최",
+          "date": "2026-10-15"
+        },
+        {
+          "name": "민주노총",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBhcTJyTmlYZGJYSVEwNlhUMmhYT0p4SnlIUFFMOU54NVBTWWVKN0dpUnl1b3E0ajJvUTVzbjByLVdvTm1ZZVJDSzJHc3Y3dw?oc=5",
+          "title": "[토론회] 국정과제 노동자 추정 제도 도입, 특고·플랫폼 노동자 근로기준법 적용 방안 국회 토론회 자료집",
+          "date": "2026-10-15"
+        }
+      ],
+      "date": "2026-10-15",
+      "id": "20261016-04"
+    },
+    {
+      "cat": "labor",
+      "importance": "high",
+      "company": "고용노동부",
+      "title": "고용노동부, 청년 프리랜서 위한 ‘일하는 사람 기본법’ 추진",
+      "body": "고용노동부가 특고 및 프리랜서 등 노무제공자의 기본 권익 보호를 골자로 하는 「일하는 사람 기본법」 입법을 공식화했어요.",
+      "insight": "기존 근로기준법상 근로자가 아니더라도 플랫폼 연계 노동자 및 외부 프리랜서와의 계약 조건 보호가 강화되는 추세예요.",
+      "action": "당사 플랫폼 내 입점 셀러 대상 외주 계약 및 배송/물류 도급·위탁 용역 계약서의 법적 준수 여부를 선제 점검해 보세요.",
+      "teams": [
+        "노무·ER",
+        "인사기획"
+      ],
+      "tags": [
+        "일하는사람기본법",
+        "고용노동부",
+        "프리랜서",
+        "노무관리"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "고용노동부 보도자료",
+          "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=20093",
+          "title": "기본이 지켜지는 청년 프리랜서 일자리, 「일하는 사람 기본법」으로 만든다.",
+          "date": "2026-10-16"
+        }
+      ],
+      "date": "2026-10-16",
+      "id": "20261016-03"
+    },
+    {
+      "cat": "trend",
+      "importance": "mid",
+      "company": "업계 전반",
+      "title": "채용 전형 혁신: AI 코딩테스트 도입 및 자소서 폐지 확산",
+      "body": "기업들이 생성형 AI 악용을 막기 위해 전통적 자기소개서를 축소하고 코딩테스트 대신 AI 역량 검증 및 심층 대면·실습 평가로 채용 전형을 전면 재편하고 있어요.",
+      "insight": "AI 자소서 생성기가 보편화되면서 서류 평가의 변별력이 급격히 떨어져 검증 도구 개선이 요구돼요.",
+      "action": "당사 개발자 및 일반직 공채 서류전형 기준을 재점검하고 직무 역량 기반 실기 과제 전형 비중 확대를 검토해 보세요.",
+      "teams": [
+        "채용"
+      ],
+      "tags": [
+        "채용트렌드",
+        "AI전형",
+        "자소서폐지",
+        "코딩테스트"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "더팩트",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5HQnVVTE5JYmNfTDF6emJzM1hybVR6enNuSlhvUk9NNkZYWENiaUdHT1Z1YXp4OXN2VUxFQ0JZWEJOaUh4M0tuN01iLUhibGhLSmlIQtIBVEFVX3lxTE5HQnVVTE5JYmNfTDF6emJzM1hybVR6enNuSlhvUk9NNkZYWENiaUdHT1Z1YXp4OXN2VUxFQ0JZWEJOaUh4M0tuN01iLUhibGhLSmlIQg?oc=5",
+          "title": "게임업계 신입 공채 문턱 바뀐다…코딩테스트 대신 AI 평가",
+          "date": "2026-10-15"
+        },
+        {
+          "name": "에너지경제신문",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9LS2lzMlN6Q08zeWJoOVRBY2JQbWtLMFlNVlhHTFJqQVFyUjRNTXBhY3JvdFIzMEtMUnZMN0g4ZTdfbnhFdkVITUstcG5NMWZrbk1YQlBJLTgxbkE?oc=5",
+          "title": "AI 못 쓰면 취업도 불리…기업들 자소서·면접 싹 바꿨다",
+          "date": "2026-10-15"
+        },
+        {
+          "name": "전자신문",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA4NXJqTmJKQ1RSX21nLTZwdkNidzFDdVV1NW9JdTJkcnlFSXZvMnlpYlJpSFFHOFdpRHl3NndsZW00dTU0S0RySGwxYVZRQQ?oc=5",
+          "title": "나인하이어, 채용 담당자 위한 AI 활용 가이드북 발행",
+          "date": "2026-10-15"
+        },
+        {
+          "name": "매일경제",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5kSXhtQnA4cy1jX19fZjJ1bzV6TlduMzFBejkxTWJ2ZWxfVDkzelhwRjJsbXZkbHJMVDVsZEV6RVYtMzBBYnJnc1pJVTZfQQ?oc=5",
+          "title": "AI가 써주고 AI가 평가…美 채용시장서 사라지는 자기소개서",
+          "date": "2026-10-15"
+        },
+        {
+          "name": "로이슈",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBJVFY0S1FjUENXcTE3aXZJODV2QTAwd2M4Qy1pdTNjWGQ0UC1XVUFoWFdtSDVua1F6dWltQllYdk5lT1ZpaGxfVnJ1LVpOZl9hbzkxWnlBTElWRTYyVnhpelpjQ3duWGRXRThVSHkzR1FLa1pMTEp6Sm5R?oc=5",
+          "title": "나인하이어, 생성형 AI 채용 가이드북 공개… 실무 콘텐츠 강화",
+          "date": "2026-10-15"
+        }
+      ],
+      "date": "2026-10-15",
+      "id": "20261016-08"
+    },
+    {
+      "cat": "labor",
+      "importance": "mid",
+      "company": "고용노동부",
+      "title": "근태 데이터 연동과 주 36시간제 등 유연근무 근태 관리 체계 부각",
+      "body": "주 36시간제 등 단축 근무제 도입 사례와 함께, 정확한 임금 산정을 위한 그룹웨어 연동 및 PC-OFF 시스템 구축 가이드가 확산되고 있어요.",
+      "insight": "포괄임금제 규제 기조 속에서 연장·야간 근로시간의 실질적 기록 및 급여 데이터 정합성 유지가 노무 관리의 핵심 이슈로 대두됐어요.",
+      "action": "그룹웨어 및 근태 솔루션 간 데이터 불일치 여부를 전수 점검하고 PC-OFF 기준을 다시 점검해 보세요.",
+      "teams": [
+        "보상·복리후생",
+        "노무·ER"
+      ],
+      "tags": [
+        "근태관리",
+        "PCOFF",
+        "주36시간제",
+        "급여정산"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "시프티 블로그",
+          "url": "https://shiftee.io/ko/blog/article/groupware-and-pc-off-integration-for-working-hours-management",
+          "title": "사용중인 그룹웨어와 PC-OFF를 연동해 근로시간관리 체계 구축하기 최근 많은 기업이 그룹웨어를 통해 출퇴근기록과 전자결재를 함께 운영하고 있습니다. 일정 관리, 메신저, 전자결재 기능이 통합된... 2026-06-",
+          "date": "2026-10-16"
+        },
+        {
+          "name": "시프티 블로그",
+          "url": "https://shiftee.io/ko/blog/article/payroll-automation-and-attendance-data-management",
+          "title": "급여정산 오류를 줄이는 근태 데이터 관리와 임금명세서 발송 자동화 전략 매월 급여정산 시즌이 다가오면 인사·급여 담당자는 반복되는 확인 작업과 데이터 검증에 많은 시간을 할애하게 됩니다. 근로시간 ... 2026-0",
+          "date": "2026-10-16"
+        },
+        {
+          "name": "시프티 블로그",
+          "url": "https://shiftee.io/ko/blog/article/attendance-management-software-adoption-checklist",
+          "title": "근태관리 프로그램 선택 가이드: 도입 전 확인할 주요 기능 근태관리는 직원의 출근과 퇴근 시각을 기록하는 것뿐 아니라 근무일정, 휴가, 연장·야간·휴일근로 등 근태정보를 함께 관리하는 ... 2026-10-15",
+          "date": "2026-10-16"
+        },
+        {
+          "name": "시프티 블로그",
+          "url": "https://shiftee.io/ko/blog/article/36-hour-workweek-attendance-management-guide",
+          "title": "주 36시간제 근태관리 방법과 근태관리프로그램 활용 가이드 근로시간 단축과 생산성을 함께 고려하면서 주 36시간제 도입을 준비하는 기업 사례가 등장하고 있습니다. 기존 주 40시간 근무... 2026-10-09",
+          "date": "2026-10-16"
+        }
+      ],
+      "date": "2026-10-16",
+      "id": "20261016-09"
+    },
+    {
+      "cat": "trend",
+      "importance": "mid",
+      "company": "마이크로소프트",
+      "title": "MS 베트남 인력 대량 해고 및 AI 인력 대체 본격화",
+      "body": "마이크로소프트가 AI 도입에 따라 베트남 지사 인력을 대량 해고하는 등 단순 직무에 대한 AI 직접 대체가 현실화되고 있어요.",
+      "insight": "고객 응대, 단순 전산 처리, 번역 등 반복 업무 직군에서 AI 도입에 따른 인력 효율화 압박이 본격화될 전망이에요.",
+      "action": "그룹 내 단순 반복 직무를 식별하고 이를 생성형 AI 툴로 전환할 수 있는 내부 재교육(Reskilling) 계획을 검토해 보세요.",
+      "teams": [
+        "인사기획",
+        "조직문화·HRD"
+      ],
+      "tags": [
+        "마이크로소프트",
+        "AI대체",
+        "인력감원",
+        "직무재교육"
+      ],
+      "our_group": false,
+      "talent": {
+        "level": "mid",
+        "signal": "베트남 지사 AI 대체 감원 — 글로벌 거점 인력 변동"
+      },
+      "sources": [
+        {
+          "name": "한국일보",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9TMmhMamJLMFdOYWQyMGw2RnhBbVBDVEhKVnQteTI0cXU1aVAwUk84QXZjOTVucUZyZHRpZnZoTEVkM25wc0ZJcGR6Z1VDZFROTnBSWUxfbWo1bXZ3d1FCUGtoSU5SY2hGeWlCcTJn?oc=5",
+          "title": "AI가 인력 대체 현실화...마이크로소프트, 베트남 직원 '대량 해고'",
+          "date": "2026-10-15"
+        },
+        {
+          "name": "매일일보",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFByMWNFUnpQVzFWM1VUenpSVlpkbGpGOHRmN2htWjJhc1QxU0lodm8xMUl1VEJVUVd0a2t1YmpYTk9ITjR0ZmlPbEMzcTBKWkliYTk2U2FCOHktS3FEWld6SVU4VjI?oc=5",
+          "title": "[기획]글로벌 빅테크 감원 태풍…韓, '노조‘에 발목",
+          "date": "2026-10-15"
+        }
+      ],
+      "date": "2026-10-15",
+      "id": "20261016-05"
+    },
+    {
+      "cat": "trend",
+      "importance": "mid",
+      "company": "현대해상",
+      "title": "현대해상, 직원 반대로 인사 체계 개편안 잠정 불발",
+      "body": "현대해상이 추진하던 3세 경영자 주도의 신인사제도 개편안이 직원 과반수 이상의 거센 반대에 부딪혀 좌초 위기에 놓였어요.",
+      "insight": "구성원 수용성이나 노사 간 사전 공감대 형성이 결여된 일방적 인사 개편은 심각한 내부 갈등을 초래한다는 반면교사예요.",
+      "action": "향후 평가·보상 제도 개편 시 구성원 대상 사전 타운홀 및 서베이를 통한 의견 수렴 절차를 필수화해 보세요.",
+      "teams": [
+        "인사기획",
+        "조직문화·HRD"
+      ],
+      "tags": [
+        "현대해상",
+        "인사제도개편",
+        "조직수용성",
+        "노사소통"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "더게이트",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1aWDZHZnlVSjJIWEZzWXR4OHZCb2JrcHF3R0RzazUtTmFhQVBvT3czTWpjOEE2bERtd0IybTZhUlRWZzFTdktTOWZZOEpMNkY1M00yZUJzYVdKN0I5Wnl0SXc5LUdKd1Uw?oc=5",
+          "title": "\"절반 이상이 거부했다\"…이석현 현대해상 대표, '인사개편 좌초'에 경영 책임론 [더게이트 포커스]",
+          "date": "2026-10-15"
+        },
+        {
+          "name": "Chosunbiz",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNVFKUktmbnZJUUI2WjM2RkpzU0QtQlNJSVIycUE4NU1WZUNPSnBNaGhXMW53NGVlWUVnbGJGOUVZcTBZZXJVTmNkSzVRYTJUdUVjRnk4YjFTZ0pyRXRLbWUtQm9yMk9iOXUxYU1pU2d3WWoxR2FNcGkxbXNnOGNNcFVxODRYUXJmcjhIMUE4eVZIVU150gGUAUFVX3lxTFA1UUpSS2ZudklRQjZaMzZGSnNTRC1CU0lJUjJxQTg1TVZlQ09KcE1oaFcxbnc0ZWVZRWdsYkY5RVlxMFllclVOY2RLNVFhMlR1RWNGeThiMVNnSnJFdEttZS1Cb3IyT2I5dTFhTWlTZ3dZajFHYU1waTFtc2c4Y01wVXE4NFhRcmZyOEgxQTh5VkhVTXk?oc=5",
+          "title": "[단독] 정경선표 현대해상 인사 체계 개편안, 직원 반대로 불발 - 조선비즈",
+          "date": "2026-10-15"
+        }
+      ],
+      "date": "2026-10-15",
+      "id": "20261016-07"
+    },
+    {
+      "cat": "market",
+      "importance": "low",
+      "company": "케이뱅크",
+      "title": "케이뱅크, 채용연계형 인턴십 모집으로 AI·플랫폼 인재 확보",
+      "body": "케이뱅크가 2027년 상반기를 대비해 AI 및 디지털 금융 플랫폼 역량을 갖춘 채용연계형 인턴 선발을 시작했어요.",
+      "insight": "인터넷전문은행의 선제적 IT·AI 주니어 인재 유치 경쟁이 가열되고 있어 당사 수급 경쟁에도 영향을 줄 수 있어요.",
+      "action": "당사 플랫폼 개발·데이터 분석 주니어 포지션 공고 일정과 브랜딩 메시지를 정비해 보세요.",
+      "teams": [
+        "채용"
+      ],
+      "tags": [
+        "케이뱅크",
+        "인턴채용",
+        "AI인재",
+        "캠퍼스리크루팅"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "데일리브리프",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Wa045MmhKcElzaGEzd2pubkxuT1ItdlJlTWNyWGtvYndSZnc4aHVXeFlqZjRzNzdMU0tHMTRvLVdSSEpCUUx0YjZ3c195R0ZQNlRZaEdKcVN4YkR0TmtDWmo5a1FDRmJMT2ZGNm5n?oc=5",
+          "title": "케이뱅크, 26일까지 채용연계형 인턴십 선발",
+          "date": "2026-10-15"
+        },
+        {
+          "name": "아주경제",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5GU3RndnNsQVFodDViNms1QWVOT0RkcnY0VjhXWlp2ZEQtTUVCUzRSUV82VVdoLVpwMWNnbmhtOU93TEZEWklYa19iLVpXbWNRRXNKdk05YTHSAVhBVV95cUxORlN0Z3ZzbEFRaHQ1YjZrNUFlTk9EZHJ2NFY4V1padmRELU1FQlM0UlFfNlVXaC1acDFjZ25obTlPd0xGRFpJWGtfYi1aV21jUUVzSnZNOWEx?oc=5",
+          "title": "케이뱅크, 2027년 상반기 채용연계형 인턴 모집…AI 인재 확보",
+          "date": "2026-10-15"
+        }
+      ],
+      "date": "2026-10-15",
+      "id": "20261016-10"
+    }
+  ]
+}
