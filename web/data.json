@@ -56,9 +56,455 @@
     ]
    }
   ],
-  "updated": "2026-10-14T09:00+09:00"
+  "updated": "2026-10-15T09:03+09:00"
  },
  "reports": [
+  {
+   "date": "2026-10-15",
+   "window_days": 1,
+   "article_count": 303,
+   "engine": "gemini-3.8-flash",
+   "headline": "넷플릭스 대규모 감원 속 테크 인재 유입 기회와 노동 규제 점검",
+   "points": [
+    "넷플릭스가 제품·기술 부문 포함 전 직원의 6%(1,000명)를 감원하며 글로벌 테크 인재 유출 본격화",
+    "G마켓의 AI 기반 셀러 지원 강화 등 이커머스 업계의 셀러 솔루션 경쟁 심화",
+    "포괄임금제 규제 대비 근태관리 점검 및 청년층 직장 내 괴롭힘 퇴사 급증에 따른 내부 관리 필요성 대두"
+   ],
+   "items": [
+    {
+     "cat": "market",
+     "importance": "high",
+     "company": "넷플릭스",
+     "title": "넷플릭스, 성장 둔화로 전 직원 6%(1,000명) 감원 단행",
+     "body": "넷플릭스가 성장 둔화 및 경쟁 심화로 인해 전 직원의 6%에 달하는 1,000여 명 규모의 구조조정을 단행했습니다. 이번 감원은 2022년 이후 최대 규모로, 특히 제품 및 기술 부문 인력이 큰 타격을 입은 것으로 전해졌습니다.",
+     "insight": "글로벌 빅테크의 프로덕트·엔지니어링 인재가 대거 시장으로 유입될 가능성이 커졌습니다. 플랫폼 고도화를 추진 중인 이커머스 기업에 우수 테크 인재 영입 기회가 될 수 있습니다.",
+     "action": "글로벌 플랫폼 출신 개발자, 프로덕트 매니저(PM) 대상 인재 풀을 신속히 모니터링하고 다이렉트 소싱을 검토해 보세요.",
+     "teams": [
+      "채용"
+     ],
+     "tags": [
+      "넷플릭스",
+      "구조조정",
+      "테크인재",
+      "글로벌인재",
+      "인재유입"
+     ],
+     "our_group": false,
+     "talent": {
+      "level": "high",
+      "signal": "1,000명 감원 단행 — 제품·기술(개발·PM) 핵심 인력 시장 유입"
+     },
+     "sources": [
+      {
+       "name": "연합뉴스TV",
+       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBhOS14Rk52aUV4MWVsRllqRjVUSUhVUU51dUQ1V0NkcWRKNi1ycjdOUmNSeW9rQ2k1bnRMRmZFWFdNZjRhRWFGdi1yaU1MMXdrOVh2MjJXeUR6dlp4dWEwUHRRTzVlYmc?oc=5",
+       "title": "넷플릭스, 직원 6% 구조조정…4년 만에 최대규모",
+       "date": "2026-10-15"
+      },
+      {
+       "name": "JTBC",
+       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9SXzdZZnJtU2tjSnE2b1BwcFVUby1HVFQxRUl3V05WdFFQczlMZ3daU1JIT1oxNFh1SWFuNUlzdlJHVTdvNENDaEx1aWlhNURuQ1R4NQ?oc=5",
+       "title": "넷플릭스, 직원 1000명 감원…유튜브와 경쟁 심화",
+       "date": "2026-10-15"
+      },
+      {
+       "name": "알파경제",
+       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFByN2FZeU5WRi1LS3ByaHdURHM1ZEc4N0Ewc25nLUFKVWZNNzZrS2oxMzFsYVBkRWpoUmY2Q01xeWVNLVZUOWdpekd6cTJ6dEV4SmdXRTU0YWdpbl9feGZBYmNlQU9MRTFDUElkLWd3?oc=5",
+       "title": "넷플릭스(NFLX.O) 1,000명 감원 확정…제품·기술 부문 타격",
+       "date": "2026-10-15"
+      },
+      {
+       "name": "파이낸셜뉴스",
+       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBQT05iWDkzMVJXc1pPcFZ5T3ZzNHNqazEzUWRyRFB0MXFZU2dQR2V1VERBNm80MExJWF9KdS1Gdm9OT0xRNFBkUmdpNEQtVGxJS3dYMjlOWXlNdw?oc=5",
+       "title": "넷플릭스, 직원 6% 감원…실적 호조에도 성장세 '빨간불'",
+       "date": "2026-10-15"
+      },
+      {
+       "name": "아이뉴스24",
+       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB6NDAwZTlpYWkxSWRla1hfQ1ZVbXVLZUZ4LXltTHBZQXZDOVlvQW9wdGVjYzF2M0ZoM2FRYmRHZ0lDWUdUWFZPZWwwOA?oc=5",
+       "title": "넷플릭스, 성장 둔화에 직원 1000명 감원",
+       "date": "2026-10-15"
+      },
+      {
+       "name": "뉴스핌",
+       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBGOTBXMFh5T1RXWjU0U251ZGUzQlZUdjVnem5jTTBBTGdKV0Z5Y05ZMVVyWUt2VFJ1bEw2MlpoYUZSbFhReTBpSk9wbmhJSzlEbmt4WkJfU2daQU55?oc=5",
+       "title": "넷플릭스, 성장 둔화에 직원 6% 감원",
+       "date": "2026-10-15"
+      },
+      {
+       "name": "news.sbs.co.kr",
+       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9keUh1ZGpUeWc5VjhxNE95YjNOUWhwSTJHVzlmQWhheTZDaDk0c0JobXJ4cmptUEF3V0owQnhZZmVRdFc2NV9meWg3ank5UzlINVNRZEU0RVUyNVl0aXhoYWdqOTh0dw?oc=5",
+       "title": "'성장 둔화' 넷플릭스, 1천 명 감원…2022년 이후 최대 규모 구조조정",
+       "date": "2026-10-14"
+      },
+      {
+       "name": "Chosunbiz",
+       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaUJUNTU0TjhXd2dtRk5saWtyUW9GQnlGa04weldWQ3BmdWZFdXN3MFRLRWh5NWFIQk9keHlZVmVBRzlVRVc5UXh1bzEwTWpCcXhWRWl3X3RSTWlYMkpzSmE5Rnc3cjhuTnNuclE5eGdvRXY3cGZ0S0ZvbXpqZmRvbkNB0gGWAUFVX3lxTE14ZTJ5US1SLUdtTnRhUGxsMmE3enJUbW5IdXVDOEo0WDhHdk5lSUJpV2l6WWNWQ0NOdWRtaFJzRmc5a1JsVkZrNnNkanpPdDdsdDJrbnNqZ1ByMkRvTUNkOHNFMXdYRzJGdS1HNDNlOVRaN0lYOC1hLUtDMmYxYkxvaGtBekxVTVJMa2NURzE3aGtEZ1dWZw?oc=5",
+       "title": "넷플릭스, 직원 1000명 감원… 성장 정체에 2022년 이후 최대 구조조정 - 조선비즈",
+       "date": "2026-10-14"
+      },
+      {
+       "name": "연합뉴스",
+       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1DNF9helVHa1pRMWxldVQyd09yWFNEU0o4dlc3Z0tUU29nb1NUQUoyVV9XZHlfSlc1YkNSdTdRWDZPc3Z1c0xJU1lLQmNOLVRXdTJhbXB4eXMyVFXSAWBBVV95cUxPdDZzbktfTkxPa05XanZvbE1ROERqU3A4MEU1VUhISHRvM28tZEpxTGhlYjlGUjBndFBELWtadTRfZDhrcUEwcWxQRnRQVk5DTVJKUkQ1b0J4aHNkb2doc0o?oc=5",
+       "title": "넷플릭스, 성장 둔화에 1천명 감원…2022년 이후 최대 규모",
+       "date": "2026-10-14"
+      }
+     ],
+     "date": "2026-10-15",
+     "id": "20261015-00"
+    },
+    {
+     "cat": "ecom",
+     "importance": "high",
+     "company": "G마켓",
+     "title": "G마켓, 1,000명 셀러 컨퍼런스 개최 및 AI 판매지원 강화",
+     "body": "G마켓이 66만 셀러를 대상으로 1,000명을 초청한 '2026 셀러 컨퍼런스'를 열고 신규 딜 및 AI 판매관리 지원책을 발표했습니다. 장승환 대표는 AI를 통한 쇼핑 혁신과 판매자 밀착 지원으로 동반 성장을 이끌겠다고 강조했습니다.",
+     "insight": "메이크샵, 플레이오토 등 셀러 대상 솔루션을 운영하는 커넥트웨이브와 직결되는 경쟁사 행보입니다. AI 커머스 및 셀러 지원 솔루션 기획 역량을 갖춘 핵심 인재 확보 경쟁이 가속화될 수 있습니다.",
+     "action": "G마켓의 AI 셀러 솔루션 담당 부서 및 핵심 기획 인력 이동 동향을 정기적으로 파악해 보세요.",
+     "teams": [
+      "인사기획",
+      "채용"
+     ],
+     "tags": [
+      "G마켓",
+      "셀러솔루션",
+      "AI커머스",
+      "경쟁자동향"
+     ],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "비즈워치",
+       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1kQ1FTX2VZaUJNQzFxdnN4REpTS3JocGVHZWlvblBQbmdQN2FnQUVTQlRSbTNBZVdFanpZZ3g2SW1aVGJzX0hjSEwwYlBzRFpKSGFOV2xHa1A4bmx6a3ZUVW8tLVBpUndUWERUMA?oc=5",
+       "title": "1000명 셀러 모신 G마켓…'밀착 지원' 승부수",
+       "date": "2026-10-15"
+      },
+      {
+       "name": "뉴데일리",
+       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOHctTjhCay0yaDlLSks1REZ2WVFueWRzWk9kMng5YUxodlhqR0RPQ1EyWmZkZE9mS2VkVVE2WmxWZGJwM1JhVXBTQXVvNlBpYkp2Z0hqbzhpVV9QQmF6aXJUWUdBalhfUFI3MkpaZjF2Z0twZTR3UWt3NFpsaFFUStIBgAFBVV95cUxNOHctTjhCay0yaDlLSks1REZ2WVFueWRzWk9kMng5YUxodlhqR0RPQ1EyWmZkZE9mS2VkVVE2WmxWZGJwM1JhVXBTQXVvNlBpYkp2Z0hqbzhpVV9QQmF6aXJUWUdBalhfUFI3MkpaZjF2Z0twZTR3UWt3NFpsaFFUSg?oc=5",
+       "title": "[르포] \"판매자가 커야 G마켓도 큰다\" … 셀러 성장에 힘 싣는 까닭",
+       "date": "2026-10-15"
+      },
+      {
+       "name": "이데일리",
+       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSEIxNGNTRGpGMGJDRFhhZEpWY0RjejRSZkNybDVJWV8yT3B2WHBkZTFvajBfbXlKelRTbkowYUx0dkhmWkRURXozLXlWZDhOTzl5MHlRSW8tMEpudllxbVJhd2lDTnFBX0dXWEVicEtWQ0JXMG1VMV9VLTFvNGtxSQ?oc=5",
+       "title": "장승환 G마켓 대표 “AI로 쇼핑 혁신”…66만 셀러 성장 지원 강화",
+       "date": "2026-10-15"
+      },
+      {
+       "name": "뉴스후플러스",
+       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBUa05qR1NSR1lHRVZyb25nU2dSN3hJRG1wSVBWWGtNdTdNSW5IV1ZRd3daTWx6SnZzb3gwNEhDRjVmUVZHVldoY3Uwc3lIck5JendNQkNrLWhuQ2xPOEpZSnQtV19Cd21DOWdxYkxn?oc=5",
+       "title": "G마켓, 셀러 1000명 초청해 신규 딜·AI 판매 지원책 공개",
+       "date": "2026-10-15"
+      },
+      {
+       "name": "싱글리스트",
+       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9sWk10WEJOR2lnWm4yWmJjWkFwajhWdHRKSUZCRklVNDJyc0VjNGl4UFQ5UThKSktWbVJtUW5FOFd4aG9IQXpYVHM2a1FkUHhVV3JOVjFlNmNVYl9FdUZlVU5HOFprZw?oc=5",
+       "title": "G마켓, '2026 셀러 컨퍼런스' 개최...신규 딜 도입부터 AI 판매관리",
+       "date": "2026-10-15"
+      }
+     ],
+     "date": "2026-10-15",
+     "id": "20261015-01"
+    },
+    {
+     "cat": "market",
+     "importance": "high",
+     "company": "크래프톤",
+     "title": "크래프톤, AI 역량 중심으로 세 자릿수 신입 역대급 공채",
+     "body": "크래프톤이 AI 채용 한파 속에서도 세 자릿수(100명 이상) 규모의 신입사원 공개 채용을 진행합니다. 특히 단순 직무 스펙을 넘어 AI 활용 역량을 중심으로 인재를 선발하는 파격적인 채용 기조를 내세웠습니다.",
+     "insight": "IT 채용 시장 전반이 위축된 가운데 AI 역량을 핵심 기준으로 삼는 채용 트렌드가 뚜렷해지고 있습니다. 우수 IT 주니어 인력 확보 시 AI 역량 검증 방식의 고도화가 요구됩니다.",
+     "action": "당사 신입 및 경력 개발직군 채용 전형에 AI 도구 활용 역량 검증 프로세스를 도입해 보세요.",
+     "teams": [
+      "채용"
+     ],
+     "tags": [
+      "크래프톤",
+      "공채",
+      "AI역량",
+      "채용트렌드"
+     ],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "논객닷컴",
+       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9hRjMyUU9MQjNTWmJ2NUNPM3JPYUphMlVtRlN0RzZFYXhxeW5DeGdGOHU3cDdJQzVvUF94Wk8zaUJjVHBKSlp6elh0Mm5ZRHhCNk1qenFCdzhkSmxKQXlmTUE3RlI1QWNjSzQ40gFrQVVfeXFMT2FGMzJRT0xCM1NaYnY1Q08zck9hSmEyVW1GU3RHNkVheHF5bkN4Z0Y4dTdwN0lDNW9QX3haTzNpQmNUcEpKWnp6WHQybllEeEI2TWp6cUJ3OGRKbEpBeWZNQTdGUjVBY2NLNDg?oc=5",
+       "title": "크래프톤, 신입 100명 이상 뽑는다…AI 역량 중심 채용 확대",
+       "date": "2026-10-14"
+      },
+      {
+       "name": "헤럴드경제",
+       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5VWmUxNkVGTldZUVhNakpKUUxjTlRBb0pGTjhxU2M0Ry1IOUt5eG0xNERPck9aM1NJM2NXQ1BDY2l3dTY1ZndEdEZIOVRWSTBnWThQNGln?oc=5",
+       "title": "AI발 한파 속 ‘크래프톤의 역발상’…세자릿 수 역대급 공채",
+       "date": "2026-10-14"
+      }
+     ],
+     "date": "2026-10-14",
+     "id": "20261015-02"
+    },
+    {
+     "cat": "labor",
+     "importance": "high",
+     "company": "고용노동부",
+     "title": "포괄임금제 오남용 기획감독 강화에 따른 근태 관리 리스크 대비",
+     "body": "고용노동부의 포괄임금 오남용 근절 기조가 지속되는 가운데 포괄임금제 폐지 논의와 맞물려 기업의 정확한 근로시간 기록과 근태관리 중요성이 부각되고 있습니다. 실근로시간 미측정 및 수당 미지급 시 중대 리스크로 이어질 수 있습니다.",
+     "insight": "플랫폼 및 이커머스 업계 특성상 연장·야간 근로가 잦아 명확한 근태 기록 시스템이 미비할 경우 법적 분쟁 및 고용부 감독 대상이 될 수 있습니다.",
+     "action": "그룹 내 계열사별 포괄임금 적용 범위 및 실근로시간 측정 시스템(PC-OFF 등) 연동 현황을 사전 점검해 보세요.",
+     "teams": [
+      "노무·ER",
+      "인사기획"
+     ],
+     "tags": [
+      "포괄임금제",
+      "근태관리",
+      "고용노동부",
+      "근로기준법"
+     ],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "시프티 블로그",
+       "url": "https://shiftee.io/ko/blog/article/wage-system-reform-attendance-checklist-7",
+       "title": "포괄임금제 폐지 논의에 대비한 기업 근태관리 점검 체크리스트 7가지 2026년 들어 포괄임금제와 관련해 기업의 근로시간 기록과 근태관리 중요성이 더욱 커지고 있습니다. 고용노동부는 「포괄임금 오... 2026-09-",
+       "date": "2026-10-15"
+      },
+      {
+       "name": "시프티 블로그",
+       "url": "https://shiftee.io/ko/blog/article/pc-off-attendance-payroll-integration",
+       "title": "PC-OFF 프로그램과 근태관리·급여 시스템 연동 방법 및 구축 가이드 사무직 근태관리에서 PC-OFF 프로그램은 계획된 근무일정을 기준으로 PC 사용을 관리하고, 출퇴근기록, 휴가, 연장·단축근무... 2026-0",
+       "date": "2026-10-15"
+      }
+     ],
+     "date": "2026-10-15",
+     "id": "20261015-03"
+    },
+    {
+     "cat": "labor",
+     "importance": "mid",
+     "company": "업계 전반",
+     "title": "비정규직 무기계약직 전환 기준 및 근로계약 체결 요건 점검 필요",
+     "body": "기간제 및 단시간근로자의 2년 초과 근무 시 무기계약직 전환 기준과 법적 예외 사유에 대한 노무 가이드가 발표되었습니다. 근로계약서 필수 기재사항 누락 방지와 전자근로계약 시스템의 적법한 도입 필요성이 함께 제기되었습니다.",
+     "insight": "물류(몰테일·스윗트래커) 및 고객센터 등 기간제·단시간 인력 비중이 있는 조직의 계약 갱신 관리에 법적 흠결이 발생하지 않도록 정기적인 관리가 필수적입니다.",
+     "action": "계열사별 기간제·단시간 근로자의 근속 기간 현황을 전수 파악하고 전자계약 체결 프로세스를 검토해 보세요.",
+     "teams": [
+      "노무·ER",
+      "인사기획"
+     ],
+     "tags": [
+      "기간제근로자",
+      "무기계약직",
+      "전자근로계약",
+      "노무리스크"
+     ],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "시프티 블로그",
+       "url": "https://shiftee.io/ko/blog/article/fixed-term-worker-permanent-conversion-criteria",
+       "title": "기간제·단시간근로자의 무기계약직 전환 기준과 예외 사유 총정리 기간제·단시간근로자를 채용해 계약을 반복 갱신하다 보면, 어느 시점부터 근로계약 형태가 달라지는지 판단이 어려운 경우가 많습니... 2026-09-21",
+       "date": "2026-10-15"
+      },
+      {
+       "name": "시프티 블로그",
+       "url": "https://shiftee.io/ko/blog/article/employment-contract-required-entries-guide",
+       "title": "근로계약서 작성 시 꼭 알아야 할 교부 의무와 필수 기재사항 근로계약서의 서면 명시·교부 의무는 모든 근로자에게 적용되지만, 기간제·단시간근로자는 「기간제 및 단시간근로자 보호 등에 관한... 2026-08-24",
+       "date": "2026-10-15"
+      },
+      {
+       "name": "시프티 블로그",
+       "url": "https://shiftee.io/ko/blog/article/e-signature-attendance-management-checklist",
+       "title": "전자근로계약 시스템 도입 전 확인할 주요 기능과 체크리스트 전자 근로계약서는 많은 기업이 계약 업무의 디지털 전환을 위해 도입하는 계약 관리 방식으로 자리 잡고 있습니다. 종이 계약서를... 2026-08-21",
+       "date": "2026-10-15"
+      }
+     ],
+     "date": "2026-10-15",
+     "id": "20261015-06"
+    },
+    {
+     "cat": "trend",
+     "importance": "mid",
+     "company": "업계 전반",
+     "title": "평가면담의 상처를 방지하는 실전 1on1 코칭 노하우 확산",
+     "body": "HR 실무 전문가 분석에 따르면 일방적인 평가면담이 조직 내 불신을 초래하는 주원인으로 지적되며, 정기적인 1on1과 상시 피드백 중심의 성과관리 체계로의 전환 노하우가 공유되고 있습니다.",
+     "insight": "연말 정기 평가 시즌을 앞두고 평가 결과 통보 위주의 면담은 우수 인재의 이탈을 부를 수 있습니다. 과정 중심의 1on1을 통해 성장과 목표 일치감을 유도해야 합니다.",
+     "action": "평가권자들을 위한 '상처 주지 않는 성과 피드백 및 1on1 면담 가이드' 교육 자료를 제작해 보세요.",
+     "teams": [
+      "조직문화·HRD",
+      "인사기획"
+     ],
+     "tags": [
+      "평가면담",
+      "1on1",
+      "성과관리",
+      "리더십"
+     ],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "오프피스트",
+       "url": "https://www.offpiste.ai/articles/왜-평가면담은-서로에게-상처가-되었을까-2561",
+       "title": "왜 평가면담은 서로에게 상처가 되었을까",
+       "date": "2026-10-12"
+      },
+      {
+       "name": "오프피스트",
+       "url": "https://www.offpiste.ai/articles/경험으로-쌓아가는-1on1-실전-노하우-2448",
+       "title": "경험으로 쌓아가는 1on1 실전 노하우",
+       "date": "2026-10-12"
+      },
+      {
+       "name": "오프피스트",
+       "url": "https://www.offpiste.ai/articles/불신의-비용-신뢰의-배당금-1833",
+       "title": "불신의 비용 신뢰의 배당금",
+       "date": "2026-10-12"
+      }
+     ],
+     "date": "2026-10-12",
+     "id": "20261015-07"
+    },
+    {
+     "cat": "ecom",
+     "importance": "mid",
+     "company": "홈플러스",
+     "title": "홈플러스, 지속된 실적 부진 속 희망퇴직 및 M&A 난항 지속",
+     "body": "홈플러스가 매출 부진과 M&A 불확실성 속에서 전사적인 비용 절감과 희망퇴직 등 구조조정 압박을 받고 있습니다. 대규모 자금 수혈에도 불구하고 오프라인 및 이커머스 전반의 정상화가 지연되고 있습니다.",
+     "insight": "대형 유통업계의 지속적인 구조조정으로 유통·이커머스 MD 및 물류 운영 경력직 인력이 이직 시장에 다수 등장할 가능성이 있습니다.",
+     "action": "홈플러스 출신 커머스 MD 및 공급망·물류 관리 전문 인력의 이력서를 스크리닝해 보세요.",
+     "teams": [
+      "채용"
+     ],
+     "tags": [
+      "홈플러스",
+      "희망퇴직",
+      "구조조정",
+      "MD인재"
+     ],
+     "our_group": false,
+     "talent": {
+      "level": "mid",
+      "signal": "실적 부진 및 희망퇴직 진행 — 유통 MD·물류 인력 유입 가능"
+     },
+     "sources": [
+      {
+       "name": "메트로신문",
+       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5KZjNsOEYzcDRZQ1ZiSGItSmoyNTZwUmlORnE3Zjl4WUg3aEtqRkV1UXAtWnBHbW9YT2hpd2R2aWNaU2hhTmVGV2o2Xzk1UkQzY0YxemZ6aDdiUGt2V0ZRWQ?oc=5",
+       "title": "매출 부진에 희망퇴직까지…홈플러스, M&A도 '안갯속'",
+       "date": "2026-10-14"
+      },
+      {
+       "name": "뉴스투데이",
+       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9JVVhqZzBVUmxjOXNsTXJRbkRGQ2hRaklmWm81UDZyc2VBWGxwaHUwMkdmeFU4NF83REMzMWJnSDBHT1BEM2RueV9LTzFrdk1GUlhzZVRUNE9JbjhGLWc?oc=5",
+       "title": "홈플러스, 2000억 수혈에도 정상화는 '안갯속'…M&A 불발 시 '플랜B' 없다",
+       "date": "2026-10-14"
+      },
+      {
+       "name": "비즈한국",
+       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE00SVJ4THJmZnpqcS1yMmhycm9ubER6VkRfYWdtNWM4LWxMemMtc2ktTG5sRkQ1TTIyc0hYSVBMekgzOEVNZFRvVGRZLVNyMkdSSGVheDc3NTlYRUxadUZoMUlzUHBmUmtwRndGdGpiaXhuY0hGa016MXdR?oc=5",
+       "title": "MBK 지분 소각 후에도 꺼지지 않는 ‘홈플러스 책임론’…김병주 국감 또 나오나",
+       "date": "2026-10-14"
+      }
+     ],
+     "date": "2026-10-14",
+     "id": "20261015-08"
+    },
+    {
+     "cat": "labor",
+     "importance": "mid",
+     "company": "고용노동부",
+     "title": "직장 내 괴롭힘 실업급여 수급자 중 2030 청년층이 78% 차지",
+     "body": "고용노동부 자료에 따르면 올해 1~7월 직장 내 괴롭힘으로 퇴사해 실업급여를 지급받은 인원의 78.3%가 2030 청년 세대인 것으로 나타났습니다. 직장 내 괴롭힘에 대한 청년층의 민감도와 즉각적인 퇴사 대응이 급증하는 추세입니다.",
+     "insight": "청년층 구성원 비중이 높은 IT·이커머스 조직에서 불명확한 업무 지시나 수직적 소통이 괴롭힘 이슈로 비화되어 조기 퇴사로 이어질 위험이 큽니다.",
+     "action": "괴롭힘 신고 채널의 신뢰도를 점검하고, 리더 및 팀장 대상 매니징 커뮤니케이션 가이드를 배포해 보세요.",
+     "teams": [
+      "노무·ER",
+      "조직문화·HRD"
+     ],
+     "tags": [
+      "직장내괴롭힘",
+      "퇴사율",
+      "2030세대",
+      "조직문화"
+     ],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "잡플래닛 콘텐츠",
+       "url": "https://www.jobplanet.co.kr/contents/news-8515",
+       "title": "이거 hoxy,,, 직내괴? 긴가민가 헷갈려요😢 서왕진 국회의원실이 고용노동부로부터 받은 자료에 따르면, 올해 1~7월 직장 내 괴롭힘 때문에 퇴사해 실업급여를 받은 사람의 78.3%가 20~30대였습니다. 30대가",
+       "date": "2026-10-15"
+      },
+      {
+       "name": "잡플래닛",
+       "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxPeGhkNW5FdllQUUo0Yk9YaVU4a0tPWTF5aXhlcG5oczMtMHZSUUN3NmxEdHlSd1RSbndwLWxPNDRDTEhYbmdfbm5LX2x6ZmtldkFIT2RrWlV4aU52cWFlYUJzc2t6d08xNW9WZGdjeUJ5YUNQZnZOVnFZbmhwaTdCMDlPZzNHSDgwOTQxZ0hVZkpkX2g2SlBlSkpSSlZEREhFOS1keFYyengxaS1BUEpSR0VXUENUWVZodXVGR1hnUTRFM0dxanFOWkZlb1JHTWhJbTByNzFkUjYxclFpZU9ldFZtRUdtUUtOZFprQ21qd2RzWl92cEE5cmZNaUQ0YmY5SWJkd3lqRkNVUHBVMWtXQ2VINS1zNE5MS3ZVcmo1Vk5KZ2tmZVNlVGhsOUFkYzZyRVU3Z1JFbl9YWGZGcEJSSWgxckN4OVY0?oc=5",
+       "title": "직장 내 괴롭힘 당하고 있는 게 맞는지 헷갈려요😢",
+       "date": "2026-10-14"
+      }
+     ],
+     "date": "2026-10-15",
+     "id": "20261015-04"
+    },
+    {
+     "cat": "trend",
+     "importance": "mid",
+     "company": "업계 전반",
+     "title": "유연근무제 확대가 구성원 만족도 및 업무 몰입 향상 견인",
+     "body": "전문 리포트를 통해 유연근무제를 적극적으로 도입하고 활용하는 기업일수록 구성원의 업무 만족도와 몰입도가 크게 향상된다는 분석이 제시되었습니다. 시차출퇴근, 선택적 근로시간제 등 조직 특성에 맞춘 제도 정착이 강조되고 있습니다.",
+     "insight": "인재 유치와 근속 유지를 위해 유연한 근무 환경 제공은 필수적인 복리후생 요소로 자리잡고 있습니다. 그룹 내 다나와, 에누리 등 다양한 법인의 업무 환경 표준화가 중요합니다.",
+     "action": "당사 계열사별 유연근무제(시차출퇴근제, 재택근무 등) 활용 현황 및 구성원 만족도를 조사해 보세요.",
+     "teams": [
+      "인사기획",
+      "보상·복리후생"
+     ],
+     "tags": [
+      "유연근무제",
+      "근무형태",
+      "조직몰입",
+      "복리후생"
+     ],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "기고만장",
+       "url": "https://ggmj.kr/hredge/?idx=175098025&bmode=view",
+       "title": "[EP.477] 유연근무 제도의 적극 활용, 조직 구성원 만족도 향상의 지름길입니다. (EDGE 7기 오일중) --> --> --> [EP.477] 유연근무 제도의 적극 활용, 조직 구성원 만족도 향상의 지름길입니다",
+       "date": "2026-10-15"
+      }
+     ],
+     "date": "2026-10-15",
+     "id": "20261015-05"
+    },
+    {
+     "cat": "trend",
+     "importance": "low",
+     "company": "업계 전반",
+     "title": "채용공고 60% 급여 비공개 실태와 투명성 제고 요구 증대",
+     "body": "국내 채용공고의 약 60%가 '면접 후 결정'으로 급여를 비공개하고 있어 구직자의 피로감이 누적되고 있습니다. 글로벌 및 국내 일부 기업을 중심으로 연봉 정보 사전 공개를 통한 채용 브랜딩 강화 움직임이 나타나고 있습니다.",
+     "insight": "급여 비공개 관행은 지원자의 신뢰도를 낮추고 최종 오퍼 단계에서의 협상 결렬을 유발할 수 있습니다. 투명한 보상 밴드 제시가 인재 확보 경쟁력이 될 수 있습니다.",
+     "action": "채용 포지션별 예상 연봉 범위나 초임 가이드를 공고에 선제적으로 공개하는 방안을 인사기획팀과 협의해 보세요.",
+     "teams": [
+      "채용",
+      "인사기획"
+     ],
+     "tags": [
+      "급여공개",
+      "채용브랜딩",
+      "채용공고",
+      "연봉협상"
+     ],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "메트로신문",
+       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5fbXNHQ2Q5R0VWQk1BcHhDdF9kRnlsZjd0N04xbUtSVFhCQ1cyOVgtUHBVb1dRV090UVhiYXZzVUVhWUUzRm1LbVZEeEkzNE9JUXBHT0J0a0lWSnlYSGp0cw?oc=5",
+       "title": "\"연봉은 면접 후 결정\"…채용공고 10건 중 6건 급여 비공개 [영상PICK]",
+       "date": "2026-10-14"
+      }
+     ],
+     "date": "2026-10-14",
+     "id": "20261015-09"
+    }
+   ]
+  },
   {
    "date": "2026-10-14",
    "window_days": 1,
