@@ -1,0 +1,392 @@
+{
+  "date": "2026-10-19",
+  "window_days": 1,
+  "article_count": 224,
+  "engine": "gemini-3.8-flash",
+  "headline": "근기법 '동일노동 동일임금' 신설 추진과 유통·금융권 인력 재편",
+  "points": [
+    "노동부의 근로기준법 내 '동일가치노동 동일임금' 법제화 및 직무급제 추진 본격화",
+    "홈플러스·신한카드 등 오프라인 유통 및 금융권의 희망퇴직 확산에 따른 인재 이동",
+    "토스플레이스 대규모 공채 등 핀테크·포스 솔루션 분야의 채용 경쟁 심화"
+  ],
+  "items": [
+    {
+      "cat": "labor",
+      "importance": "high",
+      "company": "고용노동부",
+      "title": "노동부, 근로기준법 내 '동일가치노동 동일임금' 조항 신설 추진",
+      "body": "고용노동부가 연내 '동일가치노동 동일임금' 로드맵을 마련하고 근로기준법에 해당 원칙을 명문화하는 방안을 추진해요. 직무급제 도입 검토와 함께 고용 형태별 차별 해소를 핵심 정책 과제로 다루고 있어요.",
+      "insight": "이커머스·플랫폼 업계 내 직군별, 계약형태별(정규직/계약직/외주) 임금 테이블 및 보상 체계의 적법성과 공정성에 대한 점검 요구가 거세질 전망이에요.",
+      "action": "그룹 내 동일·유사 직무를 수행하는 인력 간 임금 격차와 직무 평가 기준을 사전에 점검해 보세요.",
+      "teams": [
+        "노무·ER",
+        "보상·복리후생",
+        "인사기획"
+      ],
+      "tags": [
+        "동일노동동일임금",
+        "근로기준법",
+        "직무급제",
+        "노동부"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "한겨레",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1sX05MRVAtdGVTeVg0dzVQNFZCZ1hUY0o2eXYybk1pWnhHYm93eTFhSGFzTkpmOWZ6dHNaaEZRZm5UMk43V0paRGRnemEtYjV4bGY0a3hCUTE3S2hvTFhtdWlXYU4?oc=5",
+          "title": "노동부, ‘동일노동 동일임금 조항’ 근로기준법에 신설한다",
+          "date": "2026-10-19"
+        },
+        {
+          "name": "조선일보",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRjluZnAzbHNpdVItbDFBdXRsQWZuOEQ3TFJGaC1uQnV3bkRrd0FyYUlOZXhsbDNSb1VWLTA4SVRMZ1FuQ2pGV05YTkVnSlhFb2c0TDFKbER0SmJZdGtVNlM3SGF4MFFPbDh2Wkd1UWZCdDRDdms5d09rSlRXQlZrQWpR?oc=5",
+          "title": "노동부, 연내 ‘동일가치노동 동일임금’ 로드맵 발표",
+          "date": "2026-10-18"
+        },
+        {
+          "name": "경북도민일보",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE11RG9kbEVaUVJtN1lkRnI1dmNYTGVfTmNGZG05VDNhWkRnblB0eVo4dzJZdjUzT0owX1hnamJBeDFXQmMtODdVUU8wNk8tRTFmN2RtOTJmNkZPdmdfcmVqV0M1M0NCLW9oV3c?oc=5",
+          "title": "'같은 일 하면 같은 임금'…정부, 근로기준법 개정 추진",
+          "date": "2026-10-18"
+        },
+        {
+          "name": "신아일보",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1BeUI3bW05UjMtOUdOOWlhaC0ya0E3S01iV0JZdnNUUVhHUTJHSm9NQTRMVGVTaGRMeW9WbV9rRXA3VzY2MmltMnFBT3ZVNDN2TExVUzVrc0ZLekkxeWVYVl8yUjVMbURCUkZLMFBiQjc?oc=5",
+          "title": "정부, '동일가치노동 동일임금' 연내 로드맵 마련…'직무급제' 도입 검토",
+          "date": "2026-10-18"
+        }
+      ],
+      "date": "2026-10-19",
+      "id": "20261019-00"
+    },
+    {
+      "cat": "ecom",
+      "importance": "high",
+      "company": "홈플러스",
+      "title": "홈플러스, 매출 부진과 M&A 난항 속 위로금 없는 희망퇴직 진행",
+      "body": "홈플러스가 실적 부진과 매각 지연 속에서 위로금 조건이 축소되거나 사실상 배제된 조건으로 대규모 희망퇴직 신청을 접수하고 있어 내부 동요가 커지고 있어요.",
+      "insight": "전통 유통·물류 및 커머스 운영 경력을 보유한 MD, 물류 인력들이 대거 이직 시장으로 유입될 가능성이 높아요.",
+      "action": "다나와·에누리 및 몰테일 물류센터 운영에 필요한 커머스 MD·물류 현장 관리자 타깃 소싱 리스트를 점검해 보세요.",
+      "teams": [
+        "채용",
+        "인사기획"
+      ],
+      "tags": [
+        "홈플러스",
+        "희망퇴직",
+        "인력유출",
+        "유통"
+      ],
+      "our_group": false,
+      "talent": {
+        "level": "high",
+        "signal": "홈플러스 희망퇴직 — 커머스 MD·물류 운영 인력 대규모 시장 유입 예상"
+      },
+      "sources": [
+        {
+          "name": "파이낸셜뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE40b1dYSV9HODFMZUc0YUhJYWhsWWtHSmdUV0E4dXBXdTJWby1xRUpobzBEYnNITnd5b1hKUjJlUU1CQXMzSURZLXhOY0Q0eGNaU25vYnhNTHB0dw?oc=5",
+          "title": "홈플, 매출 부진에 M&A도 난항... 위로금 없는 희망퇴직 신청 몰려",
+          "date": "2026-10-18"
+        }
+      ],
+      "date": "2026-10-18",
+      "id": "20261019-01"
+    },
+    {
+      "cat": "market",
+      "importance": "high",
+      "company": "토스플레이스",
+      "title": "토스플레이스, 법인 설립 후 첫 대규모 공개채용 개시",
+      "body": "오프라인 결제 단말기 솔루션 기업 토스플레이스가 설립 이래 첫 대규모 공채를 열고 개발, 사업, 영업 등 전 직군에 걸쳐 인재를 모집하고 있어요.",
+      "insight": "플레이오토, 메이크샵 등 셀러 솔루션을 보유한 커넥트웨이브 입장에서 결제 솔루션 및 가맹점 관리 분야 핵심 IT·영업 인재 확보 경쟁이 심화될 수 있어요.",
+      "action": "오프라인 POS 및 커머스 연동 기술 인력 이탈 방지를 위해 셀러 솔루션 부문 보상 경쟁력을 확인해 보세요.",
+      "teams": [
+        "채용"
+      ],
+      "tags": [
+        "토스플레이스",
+        "대규모공채",
+        "오프라인솔루션",
+        "채용경쟁"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "비즈월드",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1zTUNDczhVVlJBQXBRdmo3UjQwMFc2WkZfanYzNUpOZlU2aEZ6Sy1fMTVHTEU1WUdScGpSQktlQnpYS0Z2OG9DOVhpQnlFN2pCRnNvbTZCZTU4QXBYV2MwcjFHRU9ISGphNUE?oc=5",
+          "title": "토스플레이스, 법인 설립 후 첫 대규모 공개채용…31일까지 진행",
+          "date": "2026-10-19"
+        }
+      ],
+      "date": "2026-10-19",
+      "id": "20261019-02"
+    },
+    {
+      "cat": "trend",
+      "importance": "mid",
+      "company": "시프티",
+      "title": "주 36시간제 및 PC-OFF 시스템 연계 근태관리 트렌드 확산",
+      "body": "주 36시간제 도입 검토 기업이 늘어나는 가운데, PC-OFF와 근태 SaaS를 연동해 계획된 근무일정에 맞춰 실제 근로시간을 엄격히 통제하고 급여와 연동하는 관리법이 주목받고 있어요.",
+      "insight": "유연근무제가 보편화된 IT 플랫폼 환경에서 형식적 PC-OFF를 넘어 생산성 기반의 시간 관리와 노무 리스크 방지용 근태 연동이 필수화되고 있어요.",
+      "action": "현재 운영 중인 유연근무 및 PC-OFF 시스템과 초과근로 승인 프로세스의 실효성을 검토해 보세요.",
+      "teams": [
+        "인사기획",
+        "노무·ER"
+      ],
+      "tags": [
+        "근태관리",
+        "PCOFF",
+        "주36시간제",
+        "HR테크"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "시프티 블로그",
+          "url": "https://shiftee.io/ko/blog/article/efficient-time-and-attendance-management-automation-2026",
+          "title": "2026년, 근태관리를 효율적으로 하는 방법과 자동화 도입 절차 2026년 기업의 HR 환경은 빠르게 변화하고 있습니다. 혼합 근무제가 일상화되면서 사무직, 외근직, 교대근무 인력이 한 조직... 2026-04-27",
+          "date": "2026-10-19"
+        },
+        {
+          "name": "시프티 블로그",
+          "url": "https://shiftee.io/ko/blog/article/36-hour-workweek-attendance-management-guide",
+          "title": "주 36시간제 근태관리 방법과 근태관리프로그램 활용 가이드 근로시간 단축과 생산성을 함께 고려하면서 주 36시간제 도입을 준비하는 기업 사례가 등장하고 있습니다. 기존 주 40시간 근무... 2026-10-09",
+          "date": "2026-10-19"
+        },
+        {
+          "name": "시프티 블로그",
+          "url": "https://shiftee.io/ko/blog/article/pc-off-implementation-saas-attendance-integration",
+          "title": "PC-OFF 도입 가이드: SaaS 근태관리시스템 활용 방법과 운영 기준 기업의 근로시간 관리가 세분화되면서 PC-OFF 역시 실제 근무제도와 근태관리 환경에 맞춘 운영이 중요해지고 있습니다. PC-... 2026-",
+          "date": "2026-10-19"
+        },
+        {
+          "name": "시프티 블로그",
+          "url": "https://shiftee.io/ko/blog/article/pc-off-attendance-payroll-integration",
+          "title": "PC-OFF 프로그램과 근태관리·급여 시스템 연동 방법 및 구축 가이드 사무직 근태관리에서 PC-OFF 프로그램은 계획된 근무일정을 기준으로 PC 사용을 관리하고, 출퇴근기록, 휴가, 연장·단축근무... 2026-0",
+          "date": "2026-10-19"
+        }
+      ],
+      "date": "2026-10-19",
+      "id": "20261019-05"
+    },
+    {
+      "cat": "labor",
+      "importance": "mid",
+      "company": "고용노동부",
+      "title": "'직장 내 괴롭힘' 악용 및 반복 신고 급증에 정부 제도 개선 고심",
+      "body": "직장 내 괴롭힘 제도를 고의로 반복 신고하거나 AI 음성변조를 악용해 유급휴가를 취득하는 등 부작용이 증가하면서 정부와 입법부가 제도 개선과 악용 방지 대책을 논의 중이에요.",
+      "insight": "형식적인 분리 조치나 모호한 사내 조사 규정은 업무 공백과 조직 갈등을 키울 수 있으므로, 객관적인 조사 프로세스 확립이 필요해요.",
+      "action": "사내 괴롭힘 신고 접수 후 사실관계 조사 절차와 허위·악용 신고에 대한 대응 매뉴얼을 정비해 보세요.",
+      "teams": [
+        "노무·ER",
+        "조직문화·HRD"
+      ],
+      "tags": [
+        "직장내괴롭힘",
+        "노무분쟁",
+        "HR컴플라이언스",
+        "사내규정"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "매일경제",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB6aUIwVDk1OEtoVjU3bzVHa0k4M3haYzE1UkVldGVLT2liUktPMVBmN1IyWlcwTGVWaVhHSlduRk8yYXpXWlI1Q3R1YkpyVk9iTmNyTQ?oc=5",
+          "title": "“직내괴 7번 신고하더니, 결국 휴가 받아냈다”…정부도 대책마련 고심",
+          "date": "2026-10-19"
+        },
+        {
+          "name": "매일경제",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE43UVhiUTg3QnhwQlpVM1E5LUtvMFdFb0N4V1pJOGxfOGVwbGhVZkpSdDI3NGRQYmpNVWd3RXNKSm5rM19vRWlmYUtfdWJsazBPOUlyUQ?oc=5",
+          "title": "\"노는 직원에 한소리 했다가…\" '을의 갑질' 무기가 된 직내괴",
+          "date": "2026-10-18"
+        },
+        {
+          "name": "매일경제",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE01MDFxTXZ4alJ0UjQ4V0c1NU1uVmRyWE1TMUVjX0ZfVFA0RGtYRU5qc3pkWnU3YnNVNGhKSEQ0bkpEWFR6cmMtTFBGMG9KSUFyRXVWbQ?oc=5",
+          "title": "AI로 상사 음성변조해 신고…갈등 키워 휴가 타내기도",
+          "date": "2026-10-18"
+        }
+      ],
+      "date": "2026-10-19",
+      "id": "20261019-03"
+    },
+    {
+      "cat": "labor",
+      "importance": "mid",
+      "company": "중앙노동위원회",
+      "title": "사업장 쪼개기로 5인 미만 주장한 사업장에 노동위 부당해고 판정",
+      "body": "법인을 쪼개 실질적으로 하나의 사업장임에도 상시근로자 5인 미만 사업장으로 위장해 직원을 해고한 사업주에 대해 노동위원회가 부당해고 판정을 내렸어요.",
+      "insight": "여러 계열사나 자회사를 운영하는 그룹 지배구조 하에서 계열사 간 인력 겸임이나 독립 법인성 요건을 엄격히 준수해야 노무 리스크를 피할 수 있어요.",
+      "action": "그룹 계열사 간 파견·겸임 및 법인 간 독립적 인사노무 관리 체계가 원칙대로 운영되고 있는지 점검해 보세요.",
+      "teams": [
+        "노무·ER",
+        "인사기획"
+      ],
+      "tags": [
+        "부당해고",
+        "5인미만",
+        "근로기준법",
+        "법인분할"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "프레시안",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE01bDJEYzJ0S0VabkxPRjRuRUFkWjVicS1YMS1obExNWnhaZUptMlVZbTFydzBFbjFhNHNrRTlDTWNVeXU3R3pjc3BXYk1IRjctRWRIY0t4LTVYMkxOeGIwenJKdkhjRWRVY1ln?oc=5",
+          "title": "'5인 미만'이라며 직원 해고한 유명 베이커리…노동위 \"부당해고, 복직시켜야\"",
+          "date": "2026-10-18"
+        },
+        {
+          "name": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBpWEE3SXRvak56cUI3Q1lyU0pWcTRzRnc5bldNQ0d4R1o3bkhLcjE0MDFRU0Q3TExWX3ZIVmdWOTdlOUpELS10aG9mRm0yQU85dXN1ZTJIanBfczMxTWZQUNIBYEFVX3lxTFBpWEE3SXRvak56cUI3Q1lyU0pWcTRzRnc5bldNQ0d4R1o3bkhLcjE0MDFRU0Q3TExWX3ZIVmdWOTdlOUpELS10aG9mRm0yQU85dXN1ZTJIanBfczMxTWZQUA?oc=5",
+          "title": "사업장 쪼개 '5인 미만' 주장한 베이커리…노동위 \"부당해고\"",
+          "date": "2026-10-18"
+        },
+        {
+          "name": "뉴시스",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ValhJb1Z0MnRQNUJVRDFHWkU5NWdfWGdBeVhZZEtQMDU3NmEtd2RLSWxjQm4wUGRhcmdtS2JzQVFFd0lKUVh1dHNadFZmQ2Z1VlUtcVNYcW90YXFzV2stdlJ3eWZCUUhqTWNpc0xJbjdfX2ctbElPS9IBeEFVX3lxTE1ValhJb1Z0MnRQNUJVRDFHWkU5NWdfWGdBeVhZZEtQMDU3NmEtd2RLSWxjQm4wUGRhcmdtS2JzQVFFd0lKUVh1dHNadFZmQ2Z1VlUtcVNYcW90YXFzV2stdlJ3eWZCUUhqTWNpc0xJbjdfX2ctbElPSw?oc=5",
+          "title": "유명 빵집 '5인 미만 쪼개기' 철퇴…노동위 \"부당해고\"",
+          "date": "2026-10-18"
+        }
+      ],
+      "date": "2026-10-18",
+      "id": "20261019-04"
+    },
+    {
+      "cat": "market",
+      "importance": "mid",
+      "company": "신한카드",
+      "title": "신한카드, 박창훈 체제 세 번째 희망퇴직으로 체질 개선 단행",
+      "body": "신한카드가 연임을 앞두고 비용 효율화와 인력 체질 개선을 위해 박창훈 대표 체제 하에서 세 번째 희망퇴직을 추진하고 있어요.",
+      "insight": "금융·결제 플랫폼 분야의 디지털 마케팅, 결제 인프라, 빅데이터 기획 전문 인력이 대거 외부로 나올 수 있어요.",
+      "action": "다나와·메이크샵 등 그룹 플랫폼의 핀테크·페이먼트 관련 직무 풀로 흡수할 경력직 인재를 파악해 보세요.",
+      "teams": [
+        "채용"
+      ],
+      "tags": [
+        "신한카드",
+        "희망퇴직",
+        "핀테크",
+        "인재유입"
+      ],
+      "our_group": false,
+      "talent": {
+        "level": "mid",
+        "signal": "신한카드 희망퇴직 — 결제 솔루션 및 데이터 기획 인력 시장 유입 예상"
+      },
+      "sources": [
+        {
+          "name": "뉴스1",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBQcENid2gtaFpOVkRUSWFBUFAtTlZDOUZCQW4weGQ3eFQ2YktWZEJycGZHblJhZGlnTXJWbTVJQUVublhwTVVGMFB6NGdmU1dLOWktQkdCR1lmaE15cXZvSA?oc=5",
+          "title": "박창훈 체제 세 번째 희망퇴직…연임 앞둔 신한카드 '체질 개선' 승부수",
+          "date": "2026-10-19"
+        }
+      ],
+      "date": "2026-10-19",
+      "id": "20261019-06"
+    },
+    {
+      "cat": "market",
+      "importance": "low",
+      "company": "현대자동차",
+      "title": "현대차·기아, 채용 연계 '소프티어 부트캠프 9기' 모집",
+      "body": "현대차와 기아가 소프트웨어 및 AI 엔지니어 양성을 위해 채용 전환형 교육 프로그램인 소프티어 부트캠프 9기 참가자를 모집하기 시작했어요.",
+      "insight": "완성차 및 전통 대기업들이 주니어 테크·AI 개발 인재를 선제적으로 육성·흡수하는 부트캠프 전형을 정례화하고 있어요.",
+      "action": "커넥트웨이브 테크 직군 신입·주니어 소싱을 위한 산학협력이나 인턴십 프로그램 구성을 벤치마킹해 보세요.",
+      "teams": [
+        "채용"
+      ],
+      "tags": [
+        "현대차",
+        "소프티어",
+        "부트캠프",
+        "개발자채용"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "Hyundai Motor Group",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdFlDbWc3ekNNeElWNHAzTk5JTkZJMVRFSEhEYXRGN2ZuRG01Sl9XQ1Vqd05DM2hITkpnMXQ4dnlsUVllckd1REloQ05mYTFST2VITE1LdExKWXpKSGFOT0w4WXpqZDIxdEl6czV2eG01SW9wWk5LQWd3QTNFRVZaUWlPd1VHR05kMGNrSTV1Zw?oc=5",
+          "title": "현대차·기아, ‘소프티어 부트캠프 9기’ 모집 | 뉴스 | 현대자동차그룹",
+          "date": "2026-10-19"
+        },
+        {
+          "name": "스마트투데이",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9DMml0b0FuV1ktYlhCRWxlT1RSUkhpMVdlOGNELWxjajBzVFdnUEIzSU1XVW5HOERDUHJDMUNrckVRWG9xQmdSTVkwXzJkY0sxMElmRHg4NEFLSVZiYXhJ?oc=5",
+          "title": "현대차·기아, 채용 연계 ‘소프티어 부트캠프 9기’ 모집",
+          "date": "2026-10-19"
+        },
+        {
+          "name": "PRESS9",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA5a1RMWmZmc3U2RmZjbF9mc1NjZVdfWk14OWZUY2htZlk1cEItVW5PLWNaVnpSZ0dmUWRSSGgycDhTNzRxY29LMzNaSnBMNURXUndocDJVRFAxWlgzQjVWZUNlQVQ?oc=5",
+          "title": "현대차·기아, AI 엔지니어 양성 부트캠프 9기 모집",
+          "date": "2026-10-19"
+        }
+      ],
+      "date": "2026-10-19",
+      "id": "20261019-08"
+    },
+    {
+      "cat": "trend",
+      "importance": "low",
+      "company": "토스증권",
+      "title": "토스증권, 대표 직속 내부통제 TF 가동 및 인사평가 반영",
+      "body": "토스증권이 대표 직속으로 내부통제 TF를 신설하고 준법 감시 및 컴플라이언스 역량을 전사 임직원의 인사평가 지표에 직접 반영하기로 결정했어요.",
+      "insight": "플랫폼 기업에서도 고성장기 이후에는 컴플라이언스와 내부통제가 단순 지원 업무가 아닌 개인 성과와 연계된 핵심 평가 항목으로 진화하고 있어요.",
+      "action": "개인정보 보호와 플랫폼 공정성 등 이커머스 핵심 준법 요소를 연말 평가 체계에 반영할 방안을 모색해 보세요.",
+      "teams": [
+        "인사기획",
+        "조직문화·HRD"
+      ],
+      "tags": [
+        "토스증권",
+        "내부통제",
+        "인사평가",
+        "컴플라이언스"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "매일일보",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1NTXRjblk0UHJNSGpxQnZkQm5EVG4zZjJEQmxaa0hzT0t4NTF1T25oWFE2RjRPM0J1bWhDSGNBUEowR1FFZWxnSExfVjJDQ2d4OEZOVGRuRjZWaVlMN3puRnJMWmU?oc=5",
+          "title": "토스증권, 대표 직속 내부통제 TF 가동…준법 역량 인사평가 반영",
+          "date": "2026-10-18"
+        }
+      ],
+      "date": "2026-10-18",
+      "id": "20261019-07"
+    },
+    {
+      "cat": "trend",
+      "importance": "low",
+      "company": "법무법인 바른",
+      "title": "경영성과급의 임금성 인정 여부와 노동쟁의 대상 범위 논란",
+      "body": "최근 판례와 학계를 중심으로 경영성과급이 근로기준법상 임금에 해당하는지와 이를 둘러싼 단체교섭 및 쟁의행위 정당성에 대한 법적 기준 분석이 활발해지고 있어요.",
+      "insight": "성과급 지급 기준의 사전 공지 여부와 단체협약 규정 방식에 따라 성과급이 근로조건화되어 분쟁 소지가 될 수 있어요.",
+      "action": "그룹 내 성과급 지급 규정의 임의성 및 목표 달성 평가 기준 명시 여부를 노무 관점에서 재확인해 보세요.",
+      "teams": [
+        "보상·복리후생",
+        "노무·ER"
+      ],
+      "tags": [
+        "경영성과급",
+        "임금성",
+        "노동쟁의",
+        "보상체계"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "매일경제",
+          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE8zUUdsRDJFOHBlZVBQSk1DeXdKdFhlb0dBN0c3MzhTVFdlUGNLaFZwZTVoSU9WUnZITjIwM0JDNHN1MF9LdXc?oc=5",
+          "title": "경영성과급은 어디까지 ‘쟁의 대상’인가 [바른 컴플라이언스 리포트]",
+          "date": "2026-10-19"
+        }
+      ],
+      "date": "2026-10-19",
+      "id": "20261019-09"
+    }
+  ]
+}
