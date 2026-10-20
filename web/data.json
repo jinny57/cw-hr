@@ -56,9 +56,494 @@
     ]
    }
   ],
-  "updated": "2026-10-19T08:58+09:00"
+  "updated": "2026-10-20T09:02+09:00"
  },
  "reports": [
+  {
+   "date": "2026-10-20",
+   "window_days": 1,
+   "article_count": 297,
+   "engine": "gemini-3.8-flash",
+   "headline": "넷플릭스 대규모 감원과 노동 정책 변화 속 선제적 HR 대응 필요",
+   "points": [
+    "넷플릭스 1,000명 감원 및 신한카드 2차 희망퇴직 등 플랫폼·금융권 구조조정 가속",
+    "동일가치노동 동일임금 로드맵 및 2027 임금구분지급제 등 정부 노동 정책 구체화",
+    "아마존 물류 로봇 100만 대 돌파 및 AI 채용 확산에 따른 고용 환경 급변"
+   ],
+   "items": [
+    {
+     "cat": "trend",
+     "importance": "high",
+     "company": "넷플릭스",
+     "title": "넷플릭스, 성장 둔화 여파로 1,000명 감원 및 핵심 임원 교체",
+     "body": "넷플릭스가 미국 가입자 증가 정체 등 성장 둔화에 대응해 1,000명 규모의 감원을 단행하고 주요 콘텐츠 및 영화 부문 총괄 리더를 교체했어요.",
+     "insight": "글로벌 빅테크 및 콘텐츠 플랫폼의 효율화가 지속되면서 국내외 플랫폼 인재풀의 시장 유입 가능성이 높아지고 있어요.",
+     "action": "글로벌 콘텐츠 및 플랫폼 기획·개발 경력직 이탈 동향을 파악하고 핵심 포지션 타깃 소싱에 활용해 보세요.",
+     "teams": [
+      "채용",
+      "인사기획"
+     ],
+     "tags": [
+      "넷플릭스",
+      "구조조정",
+      "감원",
+      "인재소싱"
+     ],
+     "our_group": false,
+     "talent": {
+      "level": "high",
+      "signal": "대규모 감원 및 리더 사임 — 기획·개발 핵심 인재 시장 유입 예상"
+     },
+     "sources": [
+      {
+       "name": "중앙신문",
+       "url": "https://news.google.com/rss/articles/CBMihANBVV95cUxQemp5YzBNZ2Y4VWZqMjM2Uy1MbmtXMUhVaW5JU3luRFhnb2NZUW5qSmdpeEtsaGRzY09ONGtfYS1kUnJZS1pYdTQxSldjTHVZZnRjWWVNa285RlVGUmlRdnEybXF1cDhwQ2dLSWZsU0l5bFBGZGUzWkNCMzYyUkFJNjRxUW1yRzFiSmtSZ3JGNWM2Y1I4allCc3luaDRWWHJOVDNnWncybUk1dVhHWkswR3NkOWxfTndsM2R3dUJNdEp5MFFnbkJFTm9Kc20xUTJjdk9oUGNGQW9BVlQ3WWptRDg3YVpUa1BzWnA5VHdRMnlVeVpkVzYtSEpfdGtacFNYbHpBUVdkUUFBTk1CdE5Rc3U2bDVLQUh1NHBUT2kxR1V4dENwOFI3QzN3MDV3ZlpBQ2pMUTljRlA5SWI3VnM1SUczY25IS29kYnBOZ1N1Mng1RWtaQUVmVnVVTGI2YVFKeTlaSUV6VUJobmVXRFZvdjFRa2VnVlVsRGxRbGQydE4yOTJk?oc=5",
+       "title": "넷플릭스, '케데헌' 제작 이끈 영화 총괄도 사임…성장 둔화 여파",
+       "date": "2026-10-20"
+      },
+      {
+       "name": "글로벌이코노믹",
+       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNG5RUGhrTmRYQTVxNHZZeVk0YVdMRlViYXlpdDNCVTlDcWFfck1nSmpNc0N2UlI2a21IVk5EeHd6Uzlwa0doMm1XRHlpcmxrci1LbDMyc2tEUmlyWWZJUDdkWUtxNWhhZWxfU0d3Z1l0NUdSSVNjVkdsdW9HRUoyWWltdjZzTXI0?oc=5",
+       "title": "넷플릭스 美 가입자 증가 정체…콘텐츠 수장 교체·1000명 감원",
+       "date": "2026-10-20"
+      },
+      {
+       "name": "이투데이",
+       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE81UnV0VXJOY0pIOFpwQXlUczlYekpFVUprSVF2b1dUZGlXc3p6SmMteS1IUV90aUhnYmx3MmVzbzRqWTZhVWhyRm52ZmxxVFRwS1hKTg?oc=5",
+       "title": "넷플릭스 대규모 구조조정 속 ‘케더헌’ 이끈 영화 총괄도 사임 [마켓핫]",
+       "date": "2026-10-20"
+      },
+      {
+       "name": "마켓인",
+       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA3dWg0MEJKUE9YQm1vSU0wRkx4aVJCUzF3eXpwbVc4ZTF4WEJKbGNUZVk2djFzel9YS0J3YnVQOWpUMnYtT0dwWnVHOUNkQkFBOHJfaXZYTVB2QXM4MTNndnlycGdFWjNxYVVjX0l1TWZSVms?oc=5",
+       "title": "'케데헌' 총괄마저…넷플릭스 핵심 임원 줄이탈, 왜?",
+       "date": "2026-10-20"
+      },
+      {
+       "name": "연합뉴스",
+       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE81WHBHaHdwWFhNUjdYb3RGWEFXc0RtVGNIYXNzTmtnVGxGc3BOUWFEa0dUeHkzWGVLZHFGUEE4bnRDZldCa0VJTndzR1N6NWd5OThSWXVsSVpIUmhJUEh6eEtiZHkyckRKLW1raUhPLWREbno4UTJOd3lxWE8td9IBYEFVX3lxTFBfTjZNbm1UalB1RENiMTdlekIzSjNFaHhLVWN4TFR0SlNWckpmcFV2OUdQbm9oQ3ZCemJveEJqYWxYMHEtTFBYRXlZTEZOU1lYOThzWGV1VlkzVmxKbnZKQw?oc=5",
+       "title": "'성장둔화' 넷플릭스, '케데헌' 이끈 영화 총괄도 사임",
+       "date": "2026-10-20"
+      },
+      {
+       "name": "아이뉴스24",
+       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE54YXFycjM5WWRYd0thaGVIUnhSeGJqTUhZVTRPcVh3SS1HLXJXZXJINXJFcnVHZDhzSmI3M1FXV0Iwa3Q0WVhPVXlrZw?oc=5",
+       "title": "넷플릭스 '케데헌' 총괄도 사임⋯핵심 임원 줄이탈",
+       "date": "2026-10-20"
+      },
+      {
+       "name": "www.famtimes.co.kr",
+       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1UMElBeTlBY0Y0X0ltNHVOd0NLYVhNRlFoWk1rZU04WnAtNjRmamxXM2x3LU1qUUd2NFZueFFHSGdFbVFpNG0tVU9WV3NPZXA0bk02cnR0YjJmT2RsdGpCb3dpY1JRbm9raHNBcHFn?oc=5",
+       "title": "넷플릭스 1000명 감원…'오징어게임·케데헌' 콘텐츠 총괄 교체",
+       "date": "2026-10-19"
+      }
+     ],
+     "date": "2026-10-20",
+     "id": "20261020-00"
+    },
+    {
+     "cat": "labor",
+     "importance": "high",
+     "company": "고용노동부",
+     "title": "정부, '동일가치노동 동일임금' 법제화 및 연내 임금체계 로드맵 추진",
+     "body": "고용노동부가 직무·성과 중심 임금체계 확산과 격차 해소를 위해 '동일가치노동 동일임금' 법제화 로드맵을 연내 마련하기로 했어요.",
+     "insight": "그룹 내 직군·직무별 임금 격차와 처우 기준에 대한 객관적 직무가치 평가 체계 도입 필요성이 점차 커질 전망이에요.",
+     "action": "그룹사 직무분류체계와 직무급 도입 가능성을 검토하고 임금체계 합리화 방안을 선제적으로 연구해 보세요.",
+     "teams": [
+      "보상·복리후생",
+      "노무·ER",
+      "인사기획"
+     ],
+     "tags": [
+      "동일가치노동",
+      "임금체계",
+      "노동부",
+      "직무급"
+     ],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "https://www.seoulilbo.co.kr/",
+       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAtMkFvbE5YVkxxRF9CMWNWQ0lLWXU5WmJNc3BGcnVfdWJ3cFpXTmxSS1E3WVJhSnhJUjl4WmFqS1JWQ0lxMGx2UXctTlZydzg1b3VlUEY5V1htb2tNc1VjVkdXd0VnSHR1NktzQ3hB?oc=5",
+       "title": "정부, ‘동일가치노동 동일임금’ 제도화 추진…연내 임금개편 청사진",
+       "date": "2026-10-19"
+      },
+      {
+       "name": "스페셜경제",
+       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBpQzFYWktodFlKSWZPOUxtZks4dnVwUXAtTXhobDQ1dHhHd1hWeU5nZ0o3R0NHNDAycC1MeTRnNjgwTTUwb1F0N0lFOE1VS2ZRY2dLTjFwUUd6eDVDQ2RCTFNZbElxSWJISUU3eA?oc=5",
+       "title": "고용노동부, '동일노동 동일임금' 연내 로드맵 마련",
+       "date": "2026-10-19"
+      },
+      {
+       "name": "더쎈뉴스",
+       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0wc0tWUEV2YzZGaXR3czdDNk5RaFRVUERtajU2b1FpekFwX0hhdHVRYjFEQzBOeGJmWkNBYWpPczVPRy1wUkFwMGdBQzlBUk9TZUxfOWJwODRmYVl2MjZGeWpWVVVWMmNP?oc=5",
+       "title": "'동일가치노동 동일임금' 법제화 착수…뿌리 깊은 호봉제 벽에 실효성 의문",
+       "date": "2026-10-19"
+      },
+      {
+       "name": "재경일보",
+       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA3WTl1aHVWSFMtdlBfR3U2ZWdOTkxkblY4ekJIaFBmSmRoT3VjMWRLcS04ME05bFJaOVVZNzU1V3o0cEMtcGFqLWVHNA?oc=5",
+       "title": "노동부 동일노동 동일임금 로드맵 연내 추진 : 정책.지표",
+       "date": "2026-10-19"
+      }
+     ],
+     "date": "2026-10-19",
+     "id": "20261020-01"
+    },
+    {
+     "cat": "labor",
+     "importance": "high",
+     "company": "고용노동부",
+     "title": "2027년 도급사업 임금구분지급제 시행에 따른 사전 대비 필요",
+     "body": "도급사업에서 임금 비용을 다른 공사대금과 분리해 지급하도록 하는 근로기준법 제44조의4가 2027년 1월 1일부터 전격 시행돼요.",
+     "insight": "물류 및 고객센터, 솔루션 외주 등 외주·도급 계약을 다수 운영하는 커넥트웨이브 특성상 정산 및 도급 관리 프로세스 개편이 필수적이에요.",
+     "action": "현재 운영 중인 외주·도급 계약의 임금 산정 방식 및 계약 조항을 전수 점검하고 시스템 대응 로드맵을 마련해 보세요.",
+     "teams": [
+      "노무·ER",
+      "보상·복리후생"
+     ],
+     "tags": [
+      "임금구분지급제",
+      "근로기준법",
+      "외주관리",
+      "노무"
+     ],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "시프티 블로그",
+       "url": "https://shiftee.io/ko/blog/article/subcontract-wage-cost-separation",
+       "title": "2027 임금구분지급제 시행: 주요 내용과 사업장 대응 기준 2027년 1월 1일부터 도급사업의 임금 비용 구분지급에 관한 근로기준법 제44조의4가 시행됩니다. 신설된 조항에 따라 일정한... 2026-09-03",
+       "date": "2026-10-20"
+      }
+     ],
+     "date": "2026-10-20",
+     "id": "20261020-02"
+    },
+    {
+     "cat": "ecom",
+     "importance": "mid",
+     "company": "11번가",
+     "title": "11번가, B2B 사업자 전문관 '사업자플러스' 오픈으로 활로 모색",
+     "body": "11번가가 대량·반복 구매 사업자를 타깃으로 한 맞춤형 큐레이션관인 '사업자플러스'를 론칭하며 B2B e커머스 공략을 강화하고 있어요.",
+     "insight": "메이크샵, 플레이오토 등 B2B 셀러 기반 사업을 영위하는 우리 그룹 사업군과 사업자 유치 경쟁이 심화될 수 있어요.",
+     "action": "B2B 이커머스 MD 및 셀러 영업 조직의 경쟁력 유지를 위해 유관 인재 트래킹 및 보상 경쟁력을 확인해 보세요.",
+     "teams": [
+      "인사기획",
+      "채용"
+     ],
+     "tags": [
+      "11번가",
+      "B2B커머스",
+      "셀러솔루션",
+      "경쟁사이슈"
+     ],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "ER 이코노믹리뷰",
+       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1aTWRxRlZrbzRORXNaZk1ybjZNZzhKTVpYYVpSTFRjZmlXeGhNQTVlcGp2RUVpcDN4VXp4VWtjZzRWUTFHMXBjRzlKNEp5T0N6ay1GQTh1UkVfeWxPRlpGbXN1N0JoU0VFeHNYaQ?oc=5",
+       "title": "[돋보기] 11번가의 출구 찾기…B2B 시장 노린다",
+       "date": "2026-10-20"
+      },
+      {
+       "name": "데일리안",
+       "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQekVGQlNYWnFDdWp6aWE1akFFMzVfSVJvUGxNa1c2QVBtTW1JOVdPNkhtUVNadzA4R0FVYWlfamZUY3BWM2JSOU9TU1l6ZWgwcWNvZGo1ZVF0ZU5tN0FoNG1lUkxXMHAtZmZnMXhEY3poQXdYRTdnT2lCUUtSaWdsSXI3dEd1bi00S1NQcVhybU5GM3VCU0JFVVFaZHYxaC1pRURockRvSXlZeGZ0cmlDdlozbFB4aEp4RlhITmVJZGFqSXlkVmotRTFiZmNGSWZKbXZ5WEl4T0JTSW02VEUxR2FVaXFWWXNiVnp6ODM0WGx2bXpleVlhdUNnbTdSYlJIWDFyb3lKZENiS3ZJQ0t3dWNnMVZVaFgz?oc=5",
+       "title": "11번가, ‘사업자플러스’ 전문관 오픈",
+       "date": "2026-10-19"
+      },
+      {
+       "name": "뷰어스",
+       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA4dER5a0ZHVDBIalQwdzVlblpURFdNM040NG1OYjhEdVFKbGVpREpMTWloZXl4LWc2RHlnM2NTbHhOb0lIYlgwV1d1SzNHaVhod2ZSTmg1bUc?oc=5",
+       "title": "[유통갤러리] 11번가, ‘사업자플러스’ 전문관 오픈 外",
+       "date": "2026-10-19"
+      },
+      {
+       "name": "전자신문",
+       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBBVC1YcTMteW9GTVZCT2dJWWN6cVdqQ1NYX183anNKVlN6LUxURV9BZlJ4bm9FWmJWaEpxdzZ0cGRvVWcyWjdRelVkZU81UQ?oc=5",
+       "title": "11번가, 사업자 전용 큐레이션관 '사업자플러스' 오픈",
+       "date": "2026-10-19"
+      },
+      {
+       "name": "신아일보",
+       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5zdG5hR2ZXWTFmZ2RiZm1FQnVsMEFtemwxdDdILVJ2OUc5OHc1VndpZkpKaUdCRWxKTlU4Y1dGMkJ4c0IwNzFlV0Q2UnBQaXNNRTZkeHJJaFZVZDRUY1N6N3V5LUtPcUZEamlySFp2dEY?oc=5",
+       "title": "11번가, 대량·반복 구매 사업자 맞춤형 전문관 신설",
+       "date": "2026-10-19"
+      }
+     ],
+     "date": "2026-10-20",
+     "id": "20261020-05"
+    },
+    {
+     "cat": "market",
+     "importance": "mid",
+     "company": "신한카드",
+     "title": "신한카드, 수익성 개선 위해 올해 두 번째 희망퇴직 단행",
+     "body": "신한카드가 업계 1위 수성 실패와 수익성 악화에 대응하기 위해 사옥 매각 추진에 이어 올해 두 번째 전사 희망퇴직을 실시했어요.",
+     "insight": "금융·핀테크권의 대규모 감원으로 인해 데이터 분석, 디지털 마케팅, 결제 솔루션 전문 인력풀이 시장에 대거 공급되고 있어요.",
+     "action": "셀러 솔루션(메이크샵·플레이오토)의 결제 및 데이터 관련 포지션에 금융권 출신 경력직 매칭을 검토해 보세요.",
+     "teams": [
+      "채용",
+      "보상·복리후생"
+     ],
+     "tags": [
+      "신한카드",
+      "희망퇴직",
+      "핀테크",
+      "인재확보"
+     ],
+     "our_group": false,
+     "talent": {
+      "level": "high",
+      "signal": "연 2회 희망퇴직 단행 — 결제·데이터·영업 인력 시장 공급"
+     },
+     "sources": [
+      {
+       "name": "미디어펜",
+       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE94Rnd2X3BoektVX0Y2RG5EbjhwU0M4dDZXcnBTeVNrNUtNM1VkRk1LTllQSEoyQllSSDZaY1VHT3JCN25KcHFqNV82LUpLVS1LMHRJWNIBWEFVX3lxTE9zSV9neF8tYlcxYS01V0JXdjBQX1pKNG1QSFVXRG50ZU05R2FQeTJ0WVpvY3pYb3hZbDRrd0dGT3VDWU83RkJtT1FYMHBETENJZU05dVVyVEY?oc=5",
+       "title": "1위 뺏긴 신한카드, 올해 두 번째 희망퇴직 단행…경영 효율화 속도",
+       "date": "2026-10-19"
+      },
+      {
+       "name": "뉴스웨이",
+       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9HMXFvZ1pVN0Rnd3o3YVdRM3l4bmxDb1pPVEoyb0lzR1RYLVM0X0N2N29kZ1RPblhlU2RBN05IN3I0Y3NjcTB5OXZJV00tblREaVp4T29lMVg4UTdQeVh4R0I1MThCV21NRXc?oc=5",
+       "title": "사옥 매각·희망퇴직까지...박창훈號 신한카드, 수익성 개선 안간힘",
+       "date": "2026-10-19"
+      },
+      {
+       "name": "파이낸셜포스트",
+       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE11aWxtZHp1elVZeEFPUy14Z05zazhnNWZzNElJaVdwRUZOczR4YndLX1pQQmJmSjNLd0V1bTRpUF9jYVJtME5sdkpaRGtpWWpEb3lwcjB2alpXVWpPSzdpN19xTGtEdS1JbzA0cTFfd0lmOTRL?oc=5",
+       "title": "박창훈 신한카드 대표, 연임 앞두고 '구조조정' 재시동",
+       "date": "2026-10-19"
+      }
+     ],
+     "date": "2026-10-19",
+     "id": "20261020-03"
+    },
+    {
+     "cat": "trend",
+     "importance": "mid",
+     "company": "업계 전반",
+     "title": "AI 채용 도구 확산 속 법적 공백 우려와 구직자 AI 대체 불안 고조",
+     "body": "AI 채용과 역량검사가 확산되고 있으나 법적 평가 기준 공백 문제가 제기되고 있으며, IT 구직자의 63%가 AI 대체 불안감을 느끼고 있어요.",
+     "insight": "채용 전형 내 AI 솔루션 적용 시 공정성과 신뢰성 확보가 중요하며, 직무별 인재상 정의 역시 AI 활용 역량 중심으로 재편돼야 해요.",
+     "action": "현재 도입 중이거나 검토 중인 채용 검증 도구의 편향성과 평가 기준을 검토하고 투명한 안내 프로세스를 수립해 보세요.",
+     "teams": [
+      "채용",
+      "조직문화·HRD"
+     ],
+     "tags": [
+      "AI채용",
+      "채용트렌드",
+      "구직자동향",
+      "공정채용"
+     ],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "서울경제",
+       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5vRGRWb3hxWkhvYTl4bndPUURFNUNlMlVJZ0xGdGNSQWY0VGJuZFZkX2lsUG81aEt3YWo5TWlUQUxDNGI3OHJpMTJoVkpOa1E5UTFJ0gFTQVVfeXFMTm9EZFZveHFaSG9hOXhud09RREU1Q2UyVUlnTEZ0Y1JBZjRUYm5kVmRfaWxQbzVoS3dhajlNaVRBTEM0Yjc4cmkxMmhWSk5rUTlRMUk?oc=5",
+       "title": "AI가 내 일자리 뺏을라…IT 구직자 63% ‘대체 불안’",
+       "date": "2026-10-20"
+      },
+      {
+       "name": "산업일보",
+       "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5hcEstdkk2VjNiOGlfcGVhTkZFcUxwdVhMRTRvYk1UT3pTMkRtalpsS19HNG5kYURjZ1dFQXVYUjBtdXp2?oc=5",
+       "title": "AI 채용·인사 평가 확산하는데 명확한 기준 없어…‘노동법의 공백’ 메워야",
+       "date": "2026-10-19"
+      },
+      {
+       "name": "서울신문",
+       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBhVHF5YkZqTElDOXNRYWJjWS13T1RHVGNybzNtZEh6MWFVV0VQbjRoUDJUTmROSzY0b2NmRDVMeWJENzh4M0J5NDU4b0x2MF94YjNrR2N2RnJwYjdza2tUblRLbTJpRmFvZXZMeFBmczYtTEJaUXFwTkhJTQ?oc=5",
+       "title": "[단독]‘AI 채용’ 테스트 들여다보니…‘복붙형’ 낙제점·‘검증형’ 고득점",
+       "date": "2026-10-19"
+      }
+     ],
+     "date": "2026-10-20",
+     "id": "20261020-06"
+    },
+    {
+     "cat": "market",
+     "importance": "mid",
+     "company": "업계 전반",
+     "title": "보안 개발자 수요 폭증, 일반 개발자 대비 연봉 51% 높아",
+     "body": "AI 해킹 및 정보보안 위협이 커지면서 보안 개발자에 대한 수요가 급증하고 있으며 연봉 수준도 일반 개발자 대비 51% 높게 형성되고 있어요.",
+     "insight": "가격비교 및 결제, 물류 데이터를 방대하게 다루는 커넥트웨이브 그룹의 인프라 보안 인력 채용과 리텐션 난이도가 상승하고 있어요.",
+     "action": "그룹 내 보안 전담 인력의 보상 테이블을 점검하고 보안 전문 프리미엄 처우 기준 마련을 검토해 보세요.",
+     "teams": [
+      "채용",
+      "보상·복리후생"
+     ],
+     "tags": [
+      "보안개발자",
+      "연봉동향",
+      "개발자채용",
+      "리텐션"
+     ],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "서울경제",
+       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBxWkxtYmZxOU42NU1ZeEZXRjVYZ2dpU2RIMEw0b3BBenYySXFqTy1Pd2dlV2Y5cVl0T0s3X1FtelJNNTF0cXc0NlVFMlVuOWk0THfSAVNBVV95cUxNX21KZmtlRGZaTFBFMW1aUXdEQTV2UTlkOE9XRF9ncFVsMElZc2hpOTczMVBxRFBieTFGNWlCcS1IV0FNN05NdVpSTGJJVDUxNjQxVQ?oc=5",
+       "title": "해킹 위협에 수요 폭증…몸값 확 뛴 보안 개발자",
+       "date": "2026-10-19"
+      },
+      {
+       "name": "Traders Union",
+       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZmFtcnVieEh4a3FnSkRtMzJlcG9tN2R3ZG5OOUlYa2JyWFhpSENKSzh2dVYwZGtCUzFuaDVoZjlIOG9ONVpaNWRnVjlfbzdpa1BmZE9QMGpscmZOb3k4bkhIdHBUWW9yZ3YzbFRiSGlXeVg1NzNfTjFySlZXVG52YVR5LThFazRzRndYSjVwYVlhcmg4SXFkYnNxSHpTeFhsMmtlSA?oc=5",
+       "title": "한국 보안 개발자 연봉, AI 해킹 우려 속 일반 개발자보다 51% 높아",
+       "date": "2026-10-19"
+      }
+     ],
+     "date": "2026-10-19",
+     "id": "20261020-07"
+    },
+    {
+     "cat": "ecom",
+     "importance": "mid",
+     "company": "아마존",
+     "title": "아마존, 물류 현장 로봇 100만 대 돌파로 인력 운용 혁신 가속",
+     "body": "아마존이 물류센터 전반에 로봇 100만 대 이상을 배치하며 물류비 절감과 배송 속도 극대화를 추진하고 고용 구조의 변화를 이끌고 있어요.",
+     "insight": "스윗트래커, 몰테일 등 그룹 물류 계열사도 자동화 솔루션 도입과 이에 맞춘 물류 오퍼레이션 전문 직무 재정의가 필요해요.",
+     "action": "물류 계열사 현장 인력 운영 효율성과 자동화 설비 운영 전문 인력의 수급 계획을 인사기획팀과 협의해 보세요.",
+     "teams": [
+      "인사기획",
+      "채용"
+     ],
+     "tags": [
+      "아마존",
+      "물류자동화",
+      "물류센터",
+      "고용구조"
+     ],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "AI넷",
+       "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBqYlRUZkNhdHQ5c0tJMDRuNmdmZkpjaHVqZmpZR1hOUGc3N0hDZmgteC1kQmlDRHZWM3otVkhqQ1Y?oc=5",
+       "title": "[아마존, 물류 현장 '로봇 100만 대' 돌파] 150만 노동자에 드리운 '물리적·고용적 위협' - 기계 팔·자율주행 카트 등 대규모 배치로 물류비 절감 및 배송 속도 극대화",
+       "date": "2026-10-19"
+      }
+     ],
+     "date": "2026-10-19",
+     "id": "20261020-04"
+    },
+    {
+     "cat": "trend",
+     "importance": "mid",
+     "company": "잡코리아 HR",
+     "title": "성과급 효과 극대화 위한 4대 설계 원칙: 전략 연계·공정성·적시성·명확성",
+     "body": "단순 보상을 넘어 구성원 동기부여를 이끌기 위해서는 조직 전략과의 직접적 연계, 공정한 배분, 적시 보상, 명확한 기준 설정이 필수적이라는 제언이에요.",
+     "insight": "사업부별(가격비교/셀러/물류) 특성이 다양한 커넥트웨이브에 일률적 보상보다 비즈니스 목표에 맞춘 차등 보상 프레임워크가 필요해요.",
+     "action": "연말 평가 및 인센티브 지급 시즌에 앞서 현행 성과급 산정 기준의 구성원 피드백을 모니터링해 보세요.",
+     "teams": [
+      "보상·복리후생",
+      "인사기획"
+     ],
+     "tags": [
+      "성과급",
+      "보상설계",
+      "동기부여",
+      "평가보상"
+     ],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "잡코리아 HR 뉴스",
+       "url": "https://www.jobkorea.co.kr/Corp/Lounge/News_View?GI_Trend_News_No=1072&Page=1&psTab=10&selText=",
+       "title": "성과급의 효과를 높이는 전략 연계, 공정성, 적시성, 명확성의 설계 원칙",
+       "date": "2026-10-20"
+      }
+     ],
+     "date": "2026-10-20",
+     "id": "20261020-08"
+    },
+    {
+     "cat": "trend",
+     "importance": "low",
+     "company": "시프티",
+     "title": "다양한 근무형태 기업을 위한 통합 근태관리 및 솔루션 선택 가이드",
+     "body": "시차출퇴근, 원격근무, 물류 교대근무 등 직무별 근무환경이 분화되면서 휴가·연장근로·정산이 유기적으로 연동되는 통합 근태 솔루션 구축이 요구돼요.",
+     "insight": "개발/기획 본사와 물류/CS 현장이 공존하는 커넥트웨이브 그룹 계열사 전반의 근태 표준화와 시스템 통합 필요성을 시사해요.",
+     "action": "각 계열사별로 상이하게 운영되는 출퇴근 기록 및 연장근무 승인 프로세스의 통합 관리 방안을 검토해 보세요.",
+     "teams": [
+      "인사기획",
+      "노무·ER"
+     ],
+     "tags": [
+      "근태관리",
+      "근무제도",
+      "HR솔루션",
+      "인사운영"
+     ],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "시프티 블로그",
+       "url": "https://shiftee.io/ko/blog/article/integrated-attendance-management-for-diverse-work-types",
+       "title": "근무형태·근무조건이 다양한 기업을 위한 통합 근태관리 운영 방법 과거의 근태관리는 단순했습니다. 대부분의 직원이 동일한 장소와 시간에 출근하고 퇴근하는 구조였기 때문입니다. 하지만 오늘날의 ... 2026-04-21",
+       "date": "2026-10-20"
+      },
+      {
+       "name": "시프티 블로그",
+       "url": "https://shiftee.io/ko/blog/article/attendance-management-software-adoption-checklist",
+       "title": "근태관리 프로그램 선택 가이드: 도입 전 확인할 주요 기능 근태관리는 직원의 출근과 퇴근 시각을 기록하는 것뿐 아니라 근무일정, 휴가, 연장·야간·휴일근로 등 근태정보를 함께 관리하는 ... 2026-10-15",
+       "date": "2026-10-20"
+      },
+      {
+       "name": "시프티 블로그",
+       "url": "https://shiftee.io/ko/blog/article/attendance-management-process-roles-checkpoints",
+       "title": "근태관리란? 단계별 업무와 담당자 역할 분담으로 보는 근태관리 프로세스 근태관리는 근로자의 출퇴근 시간을 기록하는 것부터 시작하지만, 실제 필요한 업무는 근무일정과 근로시간 관리, 연장근무 승인, ... 2026-1",
+       "date": "2026-10-20"
+      },
+      {
+       "name": "시프티 블로그",
+       "url": "https://shiftee.io/ko/blog/article/hr-solution-key-selection-checklist",
+       "title": "HR 솔루션 비교 가이드: 인사관리 솔루션 선택 기준과 체크리스트 기업의 인사관리 업무는 점점 더 다양해지고 있습니다. 근태관리뿐 아니라 휴가관리, 전자결재, 급여정산 등 여러 업무가 서로 연... 2026-09-0",
+       "date": "2026-10-20"
+      }
+     ],
+     "date": "2026-10-20",
+     "id": "20261020-10"
+    },
+    {
+     "cat": "labor",
+     "importance": "low",
+     "company": "사법부",
+     "title": "법원, 직장 내 괴롭힘 성립 요건으로 '우위성 입증' 필수 판시",
+     "body": "법원은 직장 내 하급자로부터의 이른바 '을질' 갈등에서도 최소한의 업무상·관계상 우위성이 인정되어야 직장 내 괴롭힘이 성립한다고 판단했어요.",
+     "insight": "다양한 연령대와 수평적 문화를 가진 IT 조직에서 발생하는 세대·직급 간 갈등 신고에 대해 명확한 노무 판단 기준을 확립해야 해요.",
+     "action": "사내 괴롭힘 고충 처리 매뉴얼의 '관계의 우위' 판단 가이드라인을 최신 법원 판례 기준에 맞춰 보완해 보세요.",
+     "teams": [
+      "노무·ER",
+      "조직문화·HRD"
+     ],
+     "tags": [
+      "직장내괴롭힘",
+      "노무판례",
+      "고충처리",
+      "조직문화"
+     ],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "YTN",
+       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE12eFhsd1o1YUJ2UGZ4LUJMUEUxSGRSblg5N3diNy1MQjNMVmZQekc0bFk1V3FJdk5ySWJuYWJYLWNlcXFQenU1WndFWkxUVG1ZeEEwMm4xbGJ2WnVLdlE?oc=5",
+       "title": "\"후배가 괴롭혀요\" 직장 내 을(乙)질? '손톱만큼'이라도 우위 있어야 직괴 성립",
+       "date": "2026-10-19"
+      },
+      {
+       "name": "KBS 뉴스",
+       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBEX3p2U1JVTDg5dldGclpmNmxVOXI2LUtGTjNlOHhsMC1EUjd6UHd4dTBoWFQ0TXYwTlpWUWpxM1ZZSC1rSV85Vlg2SXR2Z1l4T2kwWXZOemVRTlE?oc=5",
+       "title": "[친절한 변호사K] 직장 내 괴롭힘, 어디까지 인정될까?",
+       "date": "2026-10-19"
+      }
+     ],
+     "date": "2026-10-19",
+     "id": "20261020-09"
+    }
+   ]
+  },
   {
    "date": "2026-10-19",
    "window_days": 1,
