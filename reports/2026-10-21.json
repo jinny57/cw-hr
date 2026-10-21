@@ -1,0 +1,465 @@
+{
+  "date": "2026-10-21",
+  "window_days": 1,
+  "article_count": 300,
+  "engine": "gemini-3.8-flash",
+  "headline": "카페24 운영 대행 확장과 직장 내 괴롭힘·AI 채용 규제 강화",
+  "points": [
+    "카페24가 브랜드 운영 대행 서비스를 출시해 셀러 솔루션 경쟁이 심화돼요.",
+    "직장 내 괴롭힘 조사 결과 통지 권고 등 노무 리스크 관리 기준이 강화돼요.",
+    "AI 채용 공정성 조례 발의와 포괄임금제 점검 등 채용·근태 관리 체계 정비가 필요해요."
+  ],
+  "items": [
+    {
+      "cat": "ecom",
+      "importance": "high",
+      "company": "카페24",
+      "title": "카페24, 쇼핑몰 직접 운영 대행 '책임지는 엔터프라이즈' 출시",
+      "body": "카페24가 브랜드 발굴부터 쇼핑몰 전략 수립 및 직접 운영까지 전담하고 성과 기준 달성 시 수수료를 받는 '책임지는 엔터프라이즈' 서비스를 공식 출시했어요.",
+      "insight": "메이크샵·플레이오토의 주요 경쟁사가 단순 솔루션을 넘어 운영 대행 조직을 확장하고 있어, 이커머스 운영 전문가 및 MD 인재 유치 경쟁이 심화될 수 있어요.",
+      "action": "셀러 운영 대행 및 엔터프라이즈 지원 직무의 채용 파이프라인과 인력 구성을 점검해 보세요.",
+      "teams": [
+        "인사기획",
+        "채용"
+      ],
+      "tags": [
+        "카페24",
+        "메이크샵",
+        "셀러솔루션",
+        "운영대행",
+        "인재확보"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "머니투데이",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5zZ3ZldXZjbG52bl9ZaXN4NFZ3ZE4zTksxTXRsdWM1SUlib3ZFU253MDhvUmktcXVRNW05QzBuNk1BbzFDazloQ2c2T0FlcmhzY2xhbGpkOFV0U1FfdVVBa1RKRk81U3JlTVhIb2530gFuQVVfeXFMTnNndmV1dmNsbnZuX1lpc3g0VndkTjNOSzFNdGx1YzVJSWJvdkVTbncwOG9SaS1xdVE1bTlDMG42TUFvMUNrOWhDZzZPQWVyaHNjbGFsamQ4VXRTUV91VUFrVEpGTzVTcmVNWEhvbnc?oc=5",
+          "title": "쇼핑몰 전략부터 운영까지…카페24, '책임지는 엔터프라이즈' 출시 - 머니투데이",
+          "date": "2026-10-20"
+        },
+        {
+          "name": "리버티코리아포스트",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE84eHduMjdOX3ZIUlg1a0pIVEJ3dGpDeXpDMXhPeXYwa0Z1Q2lfMmdvdVlpZ0Q1OWgyZkVXSjNwazlpbUswMnhpME53enRCZDdZRml2SWUwai12RVRYU3c0bnQ4ZXhCX2fSAWdBVV95cUxPOHh3bjI3Tl92SFJYNWtKSFRCd3RqQ3l6QzF4T3l2MGtGdUNpXzJnb3VZaWdENTloMmZFV0ozcGs5aW1LMDJ4aTBOd3p0QmQ3WUZpdkllMGotdkVUWFN3NG50OGV4Ql9n?oc=5",
+          "title": "카페24, 브랜드에 필요한 일 먼저 찾아 직접 운영한다…‘책임지는 엔터프라이즈’ 출시",
+          "date": "2026-10-20"
+        },
+        {
+          "name": "뉴스포스트",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE13SFdiVWsycVZta2IzSG1oelItWWNhRkNVV0kyQ3pKcHZiVlBLM0xNYU9FVHdOcXpSQ3U0QUxCbkVmUUFqbFVzdHhmaWY0eG1wQjd0VWF3TVBmTG1OTzB5WTVubWd5QS1G?oc=5",
+          "title": "카페24, 브랜드 성장 과제 발굴해 직접 운영…'책임지는 엔터프라이즈' 서비스 개시",
+          "date": "2026-10-20"
+        },
+        {
+          "name": "Chosunbiz",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSHM5VG9HZDJCZlVKUTF4UkFRYzBTeW4wWDlyelZfVVBVbTZiSjZOcTFzY3hjcXpNQUhsVDRNVHJnZEpBWGFOM1BkWjkwZXVja1l0cTA2UlB4ZU5tSFZwYTdBNEdsbTdFMWloeHY1VmlhVTZuVThoRUhra3hEay1zeVdEVDBtdzFPT0HSAZ4BQVVfeXFMTy1GWFAtRWtuNFpJejRfcHpSWWc1aDFVSTctOE91dGxFcEt0U1lQeDNmNWMzcWFWaUVRRXVNVVVFYzkwOTBOTFRjS1VobjhJX0NUdFFoVzBISEM3MmVWdllHdmJyeDZEQ3drSGs4Vk1JVVp3bXk3MFNYQl9WdkZNZmJtZ2dBRTZrZGh1OXFEYXdPcHdZejhpa1dwamc2Z3c?oc=5",
+          "title": "카페24, 성과 기준 넘어야 수수료 받는 쇼핑몰 운영 서비스 출시 - 조선비즈",
+          "date": "2026-10-20"
+        },
+        {
+          "name": "한스경제",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBOS0pfNVM5WjhpQkh3OXlDU0I5ZjE0MW4tTHBQVUNEZTdwM2dpQXVtT0tTTjRjQmd1UGxHV01BaFRuamFTRUNOdHF3ZnppSjJjOGl3WEdheDlBYW1RUkpfMTVDdmNub2VTRmlkTtIBb0FVX3lxTE1UYWVDMUdRbmNrWVZTN3FBMFpPMmQyS0p3a0w0YWZjaVNRazdzcWJXMHc1V2ZKUmZHRG1VY2FmdW5VNVZtZC1zMDRFZlVFOE9pUjNMbkxjMDVCdUdmMkFzZGRoQnZRaDlhTzJLeEItUQ?oc=5",
+          "title": "카페24, ‘책임지는 엔터프라이즈’ 출시…브랜드 성장 돕는다",
+          "date": "2026-10-20"
+        },
+        {
+          "name": "MTN 머니투데이방송",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9UZmZjdHhwZW9CMmpob0N4eUJwRU1ycHdTMEdfUS1lUkVNcWcwV0dfaFRfWnUwVFVUNzdNSlQxbnN1b05XRjdEbzQ5MGM3Sl9SZnYyNThCNHQ1TU5nU2dV?oc=5",
+          "title": "카페24, 브랜드 맞춤형 성장 엔터프라이즈 서비스 출시",
+          "date": "2026-10-20"
+        },
+        {
+          "name": "디지털투데이",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9yVHNWMkRBTmlfWkR5dk9uNVRoblpWNkJyNUVXQnE5eVM0Y0hjLU03Szg3a3g5aHBXSk96QUM1cEh4ajJmbFYxTVh3Njd3WEdZa3g5TlF5UWJIb21pbjFCRy1HX183dzh5VkQ3bzFUWWFwY00?oc=5",
+          "title": "카페24, '책임지는 엔터프라이즈' 출시…브랜드 운영까지 직접 지원",
+          "date": "2026-10-20"
+        },
+        {
+          "name": "이데일리",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcnZqOE55b0dBTTB5Wmc5RFNnMnlJUUQ2WDdHZnBlNTA5Q3BwYk1ycHhqMVJCMjl4WDJyX3NHVTl4czJuM3lJdWpmWTh1UHJtekhxOVVPWm56Wld1eEFNX00xcGdRZ0NGMktlamFlTzdOMVVKRlJwUHpZSHljRGFfSA?oc=5",
+          "title": "카페24, 쇼핑몰 운영까지 직접 맡는다…‘책임지는 엔터프라이즈’ 출시",
+          "date": "2026-10-20"
+        }
+      ],
+      "date": "2026-10-20",
+      "id": "20261021-00"
+    },
+    {
+      "cat": "labor",
+      "importance": "high",
+      "company": "고용노동부",
+      "title": "직장 내 괴롭힘 조사 결과 신고인 통지 권고 및 표준취업규칙 개정",
+      "body": "개정 직장 내 괴롭힘 매뉴얼에 따라 신고인에게도 조사 결과의 구체적 판단 근거를 통지하도록 권고되며, 셀프조사 방지와 개인정보 보호 조치가 강화되었어요.",
+      "insight": "괴롭힘 처리 절차 미흡 시 노무 리스크와 법적 분쟁으로 번질 위험이 커져 취업규칙과 조사 프로세스의 객관성 확보가 필수적이에요.",
+      "action": "사내 직장 내 괴롭힘 처리 매뉴얼과 통지 양식을 점검하고 조사 절차 가이드를 최신화해 보세요.",
+      "teams": [
+        "노무·ER",
+        "인사기획"
+      ],
+      "tags": [
+        "직장내괴롭힘",
+        "취업규칙",
+        "노무관리",
+        "조사절차"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5EMG9NbGxrU0hlc2c1Y3pHUEp2WlE3dFFSNTh6WkJvcXZOcG5tczdvNjRLOFUxRHVZV2ptSW1LREFSOHVzWXpsSWNZaU8tVElJZWQ0bDRyZmJ2aEdsTExscdIBYEFVX3lxTE5EMG9NbGxrU0hlc2c1Y3pHUEp2WlE3dFFSNTh6WkJvcXZOcG5tczdvNjRLOFUxRHVZV2ptSW1LREFSOHVzWXpsSWNZaU8tVElJZWQ0bDRyZmJ2aEdsTExscQ?oc=5",
+          "title": "셀프조사 막고 통지 명확히…직장 내 괴롭힘 실무 쟁점은?",
+          "date": "2026-10-20"
+        },
+        {
+          "name": "CEO스코어데일리",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE44VmstSFFISXFLZ3FrQ2dmX3V5RTZLdFRRVXVuNGY1VVppeVNOdHowNUxtQmxvZlZxQVAzZmVtMzRVUTlvN1V4ZEJjRUdtOXdLOFhud3E3WUpkaVA5NWh5bVpfeDNuZk50OXkw?oc=5",
+          "title": "대한상의, 개정 표준취업규칙 대응 인사·노무 실무 쟁점 웨비나 개최",
+          "date": "2026-10-20"
+        },
+        {
+          "name": "이코노미스트",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ZdzZ0Z2JqWk1YbkYwM2tkdk5VakFqZjN6QS1YUkVhNHNZX3ZzaEFlUEtwd29GR3oxY21uRmwxX25LcUE3YV9QQ1ZkbEk0azdER29sbDZNMEZwMTlaN0dFZUxR?oc=5",
+          "title": "직장 내 괴롭힘 신고인에도 ‘판단 근거’ 통지…기업 대응 어떻게 달라지나",
+          "date": "2026-10-20"
+        },
+        {
+          "name": "글로벌이코노믹",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTzFpa09FVGk0Mkl2S1F2bGxMVTFYd2k0TFEyQ2E2Q3JDUkdUbWVHa3ZVV2Z2bkZXT2ZpNXFoTkVNRS1NeXR3bkNVNlpyS0o2dTktcXZyZUdQSGt4anB2Mnl5RkpXblpDTWxnQ1FuNUJWajRqSFNwa2tRTVB0ZXZoWTJMbUFxZw?oc=5",
+          "title": "직장 내 괴롭힘 조사 결과, 신고인에도 통지 권고…기업 대응 기준 구체화",
+          "date": "2026-10-20"
+        },
+        {
+          "name": "브릿지경제",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8zMTJYWUU2LV82Y1I3VmtjN0ZaNnQ5SHZqTzVlM3BGdlJVRjhCemphdVlra3RJVUVvc3lkYVAxZGlkdWx4UkR3MUhFRGRCQXk3ZTI1ZHkza2I2QQ?oc=5",
+          "title": "“직장 내 괴롭힘 조사결과, 신고인에도 판단근거 통지 권고”",
+          "date": "2026-10-20"
+        },
+        {
+          "name": "www.dt.co.kr",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1KdEFRZkpNT1Y0VnZtVXZiS1owa1BnWnFwU0ExVWdKUHM2bE1FYmplUXpnSzBQUHhJb2VCcGNEOUNqVXNYdUV2UnRFOUZBUQ?oc=5",
+          "title": "대한상의, ‘개정 직장 내 괴롭힘 매뉴얼 실무 쟁점’ 웹 세미나 개최",
+          "date": "2026-10-20"
+        },
+        {
+          "name": "ER 이코노믹리뷰",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBiYjY2ZDhCdUJqMVFOdVNKbmxjcWRCalJ6d19MeTZUbzhUT3d1TnBjQmhVOHpKak10Yjh2Wk5icHkyc0Rwd19VaWF0Q3ducTJhLUtDWHhzZmo1bHdYMWd6OEFIbWxhNnVYWFBrVQ?oc=5",
+          "title": "3년 만에 바뀐 직장 내 괴롭힘 매뉴얼…“통지 범위·개인정보 보호 함께 따져야”",
+          "date": "2026-10-20"
+        },
+        {
+          "name": "아시아투데이",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0yNmo5bnF2ajM3b2Z6M1BEZGMxdnRYc2ZJenVTRXBPX1dPMlRuRXprSjNaUUJOM090dW14cTNkWExzcUdxSWtDQ3VJWmNqWGRsc0lqMks5dk5GZWhiUjlTMlRnZjFHNmNxci1lMA?oc=5",
+          "title": "대한상의, ‘직장 내 괴롭힘’ 기업 대응 절차 강화",
+          "date": "2026-10-20"
+        }
+      ],
+      "date": "2026-10-20",
+      "id": "20261021-01"
+    },
+    {
+      "cat": "trend",
+      "importance": "mid",
+      "company": "업계 전반",
+      "title": "AI 도입 확산에 따른 주니어 채용 감소 및 육성 패러다임 변화",
+      "body": "AI 도입으로 신입 직무 진입 문턱이 높아지고 채용 규모가 축소되는 반면, 중장기적 관점에서 사내 전문가 육성과 보안 등 특화 개발자 수요가 급증하고 있어요.",
+      "insight": "단순 업무가 AI로 대체됨에 따라 주니어 인재를 초기부터 어떻게 실무 전문가로 육성할 것인가에 대한 사내 교육 체계 재설계가 필요해요.",
+      "action": "신입 및 주니어 엔지니어를 위한 AI 페어링 온보딩과 직무 교육 프로그램을 기획해 보세요.",
+      "teams": [
+        "채용",
+        "조직문화·HRD"
+      ],
+      "tags": [
+        "AI채용",
+        "신입육성",
+        "인재육성",
+        "보안개발자"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "이데일리",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMXlVc09SYnVmZk5PaHVTRDVlUjRjMW1EX2oxbFB5QUZMN00wNGIwZ0o5SVJ2X2FsbGJJY0ZMMUlGZXJTb1JjTFNVRFpWSWxwLUE2VVNIVnZRa2VXaWlqQWo1SWl0ZzhLZUxCRFlDLXo0ZV9tZ0pOdEJ2MzNxdkJzeA?oc=5",
+          "title": "신입 일은 AI가 하는데…10년 뒤 전문가는 누가 키우나",
+          "date": "2026-10-21"
+        },
+        {
+          "name": "The Economy Korea",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9EbFlsSTNuSnVsbWhVcjlfcXFHemdzWXZQV0RwTWhnV1VBNUdfSllvOEVrbnl2NHVtOEZ3YzlFbFVvMXZEY1k2S2NaYjBURHJwZjFVcjJWVzVJUnNINGc?oc=5",
+          "title": "[딥파이낸셜] AI 시대 높아진 생산성 기준, 사내 인력 육성 중요성 부각",
+          "date": "2026-10-21"
+        },
+        {
+          "name": "매일일보",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9NZUVpaFRDTTVPYTBudkIzX2xMMGFUUVo3UzFnY0x2emFLZ3NsV3M1QjQxTkZ4NC1zMVpxeHhuckszd1NPVXhSR05DYm1EV20wZVdUWmY4LTBSTGNIdTNLQVR2Sno?oc=5",
+          "title": "[기획]\"팀원 절반이 부장급\"…대기업서 줄어드는 신입사원",
+          "date": "2026-10-20"
+        },
+        {
+          "name": "뉴시스",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5YeXRpX1VXbjYzSnE5RFBRWGlwQ0syeWZNMFZGZzVlczA4aGJIYXdhdGhFQzBvUkxBbUlaSklJZWp3Uy1iSXlSeEpNemZ4WUxBZm0wWEJzenIyeWR2YmdodNIBeEFVX3lxTE5fY1JMbmlwM1JaeE1rUWFvZW0xRlF2a3FvWG1kbUVSajNrN2Z1Z09ualdYSk5CcDF0WUs3aXB0VktLd0tqZUlvTHd0eFdxR1hiWW8tUkRXZmJLMHpFMmV6ZGVqR1VqQUNRa2dIX1FQdkxSV0FockZvUg?oc=5",
+          "title": "신입은 사라지고 경력 문턱은 높아졌다…AI가 바꾼 채용 시장",
+          "date": "2026-10-20"
+        },
+        {
+          "name": "서울경제",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE90dnlEMVl3d29rVzByelZDNm1wSXZIWldIOGJwanA2aXNULUpBQUNyMTJmc2ZudVh3aHVFUHVZcnpyN2xVbGxQVVFqalY0bGhqS2dV0gFTQVVfeXFMT3R2eUQxWXd3b2tXMHJ6VkM2bXBJdkhaV0g4YnBqcDZpc1QtSkFBQ3IxMmZzZm51WHdodUVQdVlyenI3bFVsbFBVUWpqVjRsaGpLZ1U?oc=5",
+          "title": "일반 개발자보다 50% 더 번다…AI 시대 ‘귀하신 몸’ 된 보안 개발자",
+          "date": "2026-10-20"
+        },
+        {
+          "name": "더쎈뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE54eTF3MDRfN09WbFRIVXU2M0RSQUVHQjBDZ3E4bHQzWkFZN3FHUlB0YUpOa0ZZYUlCSEhPRFpyT3ZrUjVpcjd5SkVVSmpYNHlRZWtjYmZOU01NSVg5SGVMbnVBcGVtME9G?oc=5",
+          "title": "“AI가 신입사원 자리 뺏는다”…‘PD수첩’이 파헤친 채용 현실",
+          "date": "2026-10-20"
+        },
+        {
+          "name": "매일일보",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9HQ2paRjRkV0NIUjNwal9VeVVRSEQ0UlM5Sm1zU0kwR3hOeEdWZnA0VDJPS0s3MXdfVnlYb3dMWE9xOFpZemZCanZyVy1pZzROdEZCZmRXSDdsNk16RUY5aGxiY0M?oc=5",
+          "title": "[기획]AI가 빨아들이는 청년일자리…대기업 신규채용 사라진다",
+          "date": "2026-10-20"
+        }
+      ],
+      "date": "2026-10-21",
+      "id": "20261021-04"
+    },
+    {
+      "cat": "trend",
+      "importance": "mid",
+      "company": "고용노동부",
+      "title": "포괄임금제 폐지 논의와 근태관리 점검 중요성 증대",
+      "body": "포괄임금 오남용 방지 기조 속에 기업의 정확한 근로시간 기록과 근태 데이터 관리 필요성이 커지고 있으며, 2027년 임금구분지급제 시행 등 관련 규제가 강화되고 있어요.",
+      "insight": "가격비교·물류 등 그룹 내 교대근무 및 연장근로 발생 부서의 근태 기록 정밀도와 급여 산정 적합성을 지속적으로 점검해야 해요.",
+      "action": "다나와·몰테일 등 그룹 계열사별 연장근로 기록 방식과 포괄임금 항목을 대조 검토해 보세요.",
+      "teams": [
+        "보상·복리후생",
+        "노무·ER"
+      ],
+      "tags": [
+        "포괄임금제",
+        "근태관리",
+        "급여정산",
+        "노무이슈"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "시프티 블로그",
+          "url": "https://shiftee.io/ko/blog/article/efficient-time-and-attendance-management-automation-2026",
+          "title": "2026년, 근태관리를 효율적으로 하는 방법과 자동화 도입 절차 2026년 기업의 HR 환경은 빠르게 변화하고 있습니다. 혼합 근무제가 일상화되면서 사무직, 외근직, 교대근무 인력이 한 조직... 2026-04-27",
+          "date": "2026-10-21"
+        },
+        {
+          "name": "시프티 블로그",
+          "url": "https://shiftee.io/ko/blog/article/payroll-automation-and-attendance-data-management",
+          "title": "급여정산 오류를 줄이는 근태 데이터 관리와 임금명세서 발송 자동화 전략 매월 급여정산 시즌이 다가오면 인사·급여 담당자는 반복되는 확인 작업과 데이터 검증에 많은 시간을 할애하게 됩니다. 근로시간 ... 2026-0",
+          "date": "2026-10-21"
+        },
+        {
+          "name": "시프티 블로그",
+          "url": "https://shiftee.io/ko/blog/article/workforce-management-solution-integrated-attendance-hr",
+          "title": "인력관리 솔루션이란? 근태관리와 HR업무 통합 관리 방법 기업의 근무형태와 조직 운영 방식이 다양해지면서 HR 담당자가 관리해야 하는 데이터도 늘어나고 있습니다. 근무일정과 출퇴근기록... 2026-09-29",
+          "date": "2026-10-21"
+        },
+        {
+          "name": "시프티 블로그",
+          "url": "https://shiftee.io/ko/blog/article/shift-work-attendance-data-payroll-settlement",
+          "title": "교대근무 급여정산 가이드: 근태데이터 연동과 수당 계산 방법 교대근무를 운영하는 기업에서는 근무조와 근무시간이 다양하기 때문에 급여정산 과정에서도 여러 조건을 함께 고려해야 합니다. 특히... 2026-09-18",
+          "date": "2026-10-21"
+        },
+        {
+          "name": "시프티 블로그",
+          "url": "https://shiftee.io/ko/blog/article/wage-system-reform-attendance-checklist-7",
+          "title": "포괄임금제 폐지 논의에 대비한 기업 근태관리 점검 체크리스트 7가지 2026년 들어 포괄임금제와 관련해 기업의 근로시간 기록과 근태관리 중요성이 더욱 커지고 있습니다. 고용노동부는 「포괄임금 오... 2026-09-",
+          "date": "2026-10-21"
+        },
+        {
+          "name": "시프티 블로그",
+          "url": "https://shiftee.io/ko/blog/article/subcontract-wage-cost-separation",
+          "title": "2027 임금구분지급제 시행: 주요 내용과 사업장 대응 기준 2027년 1월 1일부터 도급사업의 임금 비용 구분지급에 관한 근로기준법 제44조의4가 시행됩니다. 신설된 조항에 따라 일정한... 2026-09-03",
+          "date": "2026-10-21"
+        }
+      ],
+      "date": "2026-10-21",
+      "id": "20261021-03"
+    },
+    {
+      "cat": "market",
+      "importance": "mid",
+      "company": "서울시의회",
+      "title": "서울시의회 '깜깜이 AI 채용 방지 조례안' 발의 및 평가 기준 공개 추진",
+      "body": "채용 과정에서 활용되는 AI 솔루션의 투명성과 공정성을 담보하기 위해 평가 기준을 공개하도록 유도하는 AI 채용 공정성 확보 조례안이 발의되었어요.",
+      "insight": "AI 기반 서류 심사나 역량 검사를 도입할 때 알고리즘의 공정성과 명확한 기준 설명 책임이 강조되는 추세예요.",
+      "action": "그룹 공채 및 상시 채용에서 AI 솔루션 활용 현황을 파악하고 평가 투명성 준수 방안을 마련해 보세요.",
+      "teams": [
+        "채용",
+        "인사기획"
+      ],
+      "tags": [
+        "AI채용",
+        "채용공정성",
+        "조례안",
+        "채용트렌드"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "파이낸스투데이",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9FQk56QlVCQ0EzOGkzNXVhWFk2ZjRFMmQyOVd4dUF5MnpwUU80aWItcFNpWF9DeG1aYzBfU2tIOGNfRmxBaEkyV1R3N281R041dEhzN2E2Y0FBWUlZeG80cFRqSlV3aTFSWHNPdw?oc=5",
+          "title": "김미주 서울시의원, ‘깜깜이 AI 채용’ 막는다…공정성 확보 조례안 발의",
+          "date": "2026-10-20"
+        },
+        {
+          "name": "매일일보",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBaSDJHZ3I4S1ZJS1BIaXlZakdnYWdfeHVySFdOWXNmLTNNOWN2azZZYXpOUnYxZjVTMEdCVW94RnpiLXY4T2MtVHpYUTVfMUlUM3JHUWRSYUJ5emMyX3kzLU51d1M?oc=5",
+          "title": "김미주 서울시의회 의원, ‘AI 채용 공정성 확보 조례안’ 발의",
+          "date": "2026-10-20"
+        },
+        {
+          "name": "OBS경인TV",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ZNXRkUWw1YW1rckZTSVg3TE5oVW1mcW1pdUdHN0JhZmZ1TDg4YzZtZklRTW9tMS1YRXdxMEpFTmZESXluc0RmRWg0MVpPSlN3OTNzdmh4cWVYQXJjYUZOWFJkOWtwMTU5VER5dlRn?oc=5",
+          "title": "서울시의회, AI 채용도 평가 기준 공개…'깜깜이 AI 채용' 막는다",
+          "date": "2026-10-20"
+        },
+        {
+          "name": "퍼블릭타임스",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5EcUhjSk9XQ2VHZ1FKakp6MmIyaHZ0c0JLdUxONTNBSTVPaGMyb09Ca0ZmTW1KUklqb0hXVVZEb0pLLWczZkV6N0c4U0ZTM0gta1lwSmoxMmRMcmZ5MkJXTVBRY0xwNzRSdWfSAW5BVV95cUxNN01ranl2X3JHNDlpQXUzNzNId0x0bFowXzV2NkdsZXd3ZGJCd0tjaXdxY0NfYjRFYWJmbjY1MkFVUEpJWGhUMWx3dTk3c2NJMmZpQnJqaDVCS2J4Xzd6cExITlItUHhHczgwRWR0Zw?oc=5",
+          "title": "김미주 시의원, ‘깜깜이 AI 채용’ 방지 조례제정 발의",
+          "date": "2026-10-20"
+        },
+        {
+          "name": "핀포인트뉴스",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1URVB0VGpkdFV1MFA0MTlVZmdCWFM2LWdZdFBjSThibXEwclV4UUR3aTBfTDhMNlZSaWo5bDU4OVcwWUZhR0kzSWZwVW1wQVdqQXNyQ2FWNUR1V1FnSjlMMzUzSkVvTzNiS2NXdHByQzRPakXSAXdBVV95cUxQa2Ixa19RaXF0VlNwSVZKeElGODJNZVFQcjg3dkZJTXBQYTJ6c1pXLUo2N0JmUW9Pa2h2ZnJ3cEgzdWdTQXFKenJ6R0JIZ3ZaVjNPMFFsQXFXVnlESm5YX0ZRTDRMS2RoMGxiaWh1RVZwUWkwWXhPdw?oc=5",
+          "title": "김미주 서울시의원, AI 채용 공정성 확보 조례안 발의",
+          "date": "2026-10-20"
+        }
+      ],
+      "date": "2026-10-20",
+      "id": "20261021-02"
+    },
+    {
+      "cat": "trend",
+      "importance": "mid",
+      "company": "헤드헌팅 업계",
+      "title": "서치펌 오더 의뢰 시 HR 담당자 핵심 점검 포인트 공유",
+      "body": "23년 차 서치펌 대표가 HR 담당자가 헤드헌터에게 포지션 오더를 맡기기 전 직무 범위, 필수 역량, 조직 핏 등 확인해야 할 5가지 체크리스트를 공유했어요.",
+      "insight": "핵심 개발자 및 리더급 경력 채용 시 외부 서치펌과의 명확한 커뮤니케이션 기준이 마련되어야 채용 리드타임을 단축할 수 있어요.",
+      "action": "현재 협력 서치펌 관리 프로세스를 점검하고 포지션 브리핑 템플릿을 표준화해 보세요.",
+      "teams": [
+        "채용"
+      ],
+      "tags": [
+        "헤드헌팅",
+        "경력채용",
+        "채용프로세스",
+        "서치펌"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "기고만장",
+          "url": "https://ggmj.kr/hredge/?idx=175191008&bmode=view",
+          "title": "[EP.479] 헤드헌터에게 오더 맡기기 전, HR담당자가 꼭 확인할 5가지 (23년차 서치펌 대표) --> --> --> [EP.479] 헤드헌터에게 오더 맡기기 전, HR담당자가 꼭 확인할 5가지 (23년차 서치",
+          "date": "2026-10-21"
+        }
+      ],
+      "date": "2026-10-21",
+      "id": "20261021-05"
+    },
+    {
+      "cat": "market",
+      "importance": "low",
+      "company": "넷플릭스",
+      "title": "넷플릭스, 매출 성장 둔화 속 1000명 감원 및 고위 임원진 사임",
+      "body": "넷플릭스가 성장세 둔화에 대응해 직원 1,000여 명 감원을 단행하고 영화 부문 총괄 댄 린 등 주요 고위 임원진이 퇴진했어요.",
+      "insight": "글로벌 빅테크의 콘텐츠 및 플랫폼 운영 인력이 대거 시장에 유입되고 있어 국내외 미디어·플랫폼 경력자 확보 기회가 될 수 있어요.",
+      "action": "넷플릭스 등 글로벌 플랫폼 출신 콘텐츠 기획 및 글로벌 운영 인력 풀을 서칭해 보세요.",
+      "teams": [
+        "채용"
+      ],
+      "tags": [
+        "넷플릭스",
+        "구조조정",
+        "인력감원",
+        "글로벌인재"
+      ],
+      "our_group": false,
+      "talent": {
+        "level": "high",
+        "signal": "대규모 감원 진행 — 플랫폼 기획·글로벌 인력 유입 예상"
+      },
+      "sources": [
+        {
+          "name": "한국경제",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAxMTZJcTZJQVRWQktuRUg4cmtlRWF5elJYRmlVa3U2ZGJWWHAwVjZOb2FIaE83ZjJuLXlVSjg3S180OGowcm1leUhHM2tRYlZQZXh1cXRJclc1dw?oc=5",
+          "title": "넷플릭스, 3년 만에 최저 매출 성장률…직원 1000명 감원",
+          "date": "2026-10-21"
+        },
+        {
+          "name": "파이낸셜포스트",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1EZHFHNGJmRHh0QTNHMmt4cW5vcHI5cVRDMGN0dkpwMjZ2c00wR0NDRFdhbTFfbkVERE1naEh0RlRwa1NJeXNoZG5PUjNUczRNMkl6WXZCNTQxZUU5TEtmblU2dldzcGVYU0FsY1Jsdnhvdmp3?oc=5",
+          "title": "넷플릭스, 3Q 매출 129억 달러...실적 웃돌았지만 주가 털썩",
+          "date": "2026-10-21"
+        },
+        {
+          "name": "팸타임스 FAM Times",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA0MVB5MF9Wb1N0OUV1VEFxUE9EbEY2S2xqLW5aLUJralExSXFmb05Zcks5TERxNUFFdUVES1diWFMwamVQOTYwQmdSYWRrUG9wLUVnZWFkcjM2YXE1LW42UGtZaUJrMHo1VUV3WkRn?oc=5",
+          "title": "넷플릭스 영화 총괄 댄 린 퇴진…바자리아 이어 일주일 새 두 번째",
+          "date": "2026-10-20"
+        },
+        {
+          "name": "Hypebeast.KR",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdGNTQVlHX2ZLTFpUMkRrMXhROUN5b0ppank2OTc3aWQtcjNVRkJaa0dsUXA1NTRnNE0wRDNPOEsxaW83THJVLUlNYmFFRGRBeEt6bjBXajBmRFZjX1NrQ0xINGprTXNJOUp6ZGloMGZPNExkMW1ENnVoTjhsRDBhUWs0VWlEd05oVFJxZWd3YVVVVFZuRG1CZWxqUTlBUGxLNnBPZUtVekQ?oc=5",
+          "title": "넷플릭스 영화 부문 수장 댄 린(Dan Lin), 대규모 임원진 구조조정 속 해고",
+          "date": "2026-10-20"
+        },
+        {
+          "name": "경향신문",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBnMmxDcGJrNXJ0WUh3U1d1WkZTRGxYLVM1aHo0ZU5zVHFRU25nelNLOWY0RVdzd2Z2c1Bya05hYy1NTTh0U0FEVU1EVzdOUHd1b0tGeW14ZU5fMWQ0OGRr0gFfQVVfeXFMUGcybENwYms1cnRZSHdTV3VaRlNEbFgtUzVoejRlTnNUcVFTbmd6U0s5ZjRFV3N3ZnZzUHJrTmFjLU1NOHRTQURVTURXN05Qd3VvS0Z5bXhlTl8xZDQ4ZGs?oc=5",
+          "title": "유튜브에 밀렸나…넷플릭스, ‘케데헌’ 이끈 영화 총괄도 사임",
+          "date": "2026-10-20"
+        },
+        {
+          "name": "IT조선",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5TaVVFS0p6Q0c4MUc1WU40NW1CWGlGemV5Y1FfbWF1ZXIwN1lTb2psdE9Hb0FqalM2QzVucFo2SFhuS0dIZExkZ3cyajlWN2d1V1FjYTZzS0xzV3NZaVlFZHF3OUYwUlNOd19DTTZlX3nSAXRBVV95cUxPNi1XM2JJLVNtZlp4Uy1KcGo3dlVVUmtWaU5iWnA2cmRQX1ZTZXpnU2E5QzNoVzl0d1NSd182ZlRfdnZKRWZNcnNHVU9KSldfUTg4VmRyeEhLeGR0UlVNQVplM2JpaFVXUG1rT3BOMGlDbmNtYw?oc=5",
+          "title": "성장 정체 위기감?… 넷플릭스, CCO 이어 영화 총괄도 짐 싼다",
+          "date": "2026-10-20"
+        }
+      ],
+      "date": "2026-10-21",
+      "id": "20261021-06"
+    },
+    {
+      "cat": "market",
+      "importance": "low",
+      "company": "신한카드",
+      "title": "신한카드, 3번째 희망퇴직 단행 및 경영 효율화 추진",
+      "body": "신한카드가 비용 절감과 수익성 회복을 위해 사옥 매각과 함께 3번째 희망퇴직을 추진하며 인력 슬림화에 나섰어요.",
+      "insight": "금융·핀테크권의 숙련된 결제·데이터·재무 인력이 이직 시장에 진입하고 있어 이커머스 금융/결제 파트 영입 대상군으로 적합해요.",
+      "action": "간편결제 및 정산 시스템 고도화를 위한 핀테크/금융권 희망퇴직자 인재 풀을 모니터링해 보세요.",
+      "teams": [
+        "채용",
+        "보상·복리후생"
+      ],
+      "tags": [
+        "신한카드",
+        "희망퇴직",
+        "금융권",
+        "핀테크인재"
+      ],
+      "our_group": false,
+      "talent": {
+        "level": "mid",
+        "signal": "희망퇴직 실시 — 금융 결제·정산 인력 시장 유입"
+      },
+      "sources": [
+        {
+          "name": "프레스맨",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBwQ0ZMSHI2a3czUGFwcUFXckx5UUNqTTEybDBwMHpvRVQ2b1ZyaU9DTEVRYldROFdNM3NsWGI5bHoyU3hmbzhydjR0Wk02Mk5SeDQ3YVFfVUhJa2RfeDJEdFhjOGFsWWtJOXc?oc=5",
+          "title": "신한카드, 사옥 매각·세 번째 희망퇴직... 수익 회복 준비",
+          "date": "2026-10-20"
+        }
+      ],
+      "date": "2026-10-20",
+      "id": "20261021-07"
+    }
+  ]
+}
