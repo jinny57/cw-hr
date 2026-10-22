@@ -1,0 +1,408 @@
+{
+  "date": "2026-10-22",
+  "window_days": 1,
+  "article_count": 291,
+  "engine": "gemini-3.8-flash",
+  "headline": "이베이 감원 지속 및 물류 채용 경쟁 심화",
+  "points": [
+    "글로벌 이커머스 이베이가 인력 9% 추가 감원을 단행하며 이커머스 업계 인력 유출이 가속화돼요.",
+    "쿠팡CFS가 전문대졸 대상 정규직 물류 리더 공채를 시작해 물류·풀필먼트 인재 확보전에 나섰어요.",
+    "AI 해고 공개법 발의 및 노조의 AI 통제 요구 등 AI 도입에 따른 노무·고용 리스크가 본격 부각돼요."
+  ],
+  "items": [
+    {
+      "cat": "market",
+      "importance": "high",
+      "company": "쿠팡풀필먼트서비스",
+      "title": "쿠팡CFS, 전문대졸 대상 첫 정규직 공채로 물류 현장 리더 육성",
+      "body": "쿠팡풀필먼트서비스가 전문대졸 인재를 대상으로 첫 정규직 공채를 실시해요. 현장 관리자인 '팀캡틴'을 직접 선발해 미래 물류 리더로 체계적으로 육성한다는 계획이에요.",
+      "insight": "현장 물류 관리직의 처우와 경력 개발 경로를 정규직 공채로 공식화함으로써 청년 물류 인재 선점 효과를 노리고 있어요.",
+      "action": "몰테일·스윗트래커 물류 거점의 센터장 및 현장 관리 인력 채용 요건과 채용 브랜딩 전략을 점검해 보세요.",
+      "teams": [
+        "채용",
+        "보상·복리후생"
+      ],
+      "tags": [
+        "쿠팡CFS",
+        "물류채용",
+        "정규직공채",
+        "팀캡틴",
+        "물류인재"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "백세시대",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9COVptdjdGR1FFQldLajgzM3g5OVg5OFVIMVhDd0xaRTNqTFJZT0d1Wk1ESXdrZGFIVFJUdmdnM2x6QWJueGIwM3RpdjBDV21TalZBMTBncEJSSnBBSm85cUJTaGd4LTRWOXFV?oc=5",
+          "title": "쿠팡풀필먼트서비스, 청년 인재 채용 확대…전문대졸 대상 물류리더 모집",
+          "date": "2026-10-21"
+        },
+        {
+          "name": "데일리로그",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9VZHFGd0Vid3kzMHB5cFVWU25VZmFoUGFmdVJsOEVzWFM5LTJiNF9udkl2anJSaDNNcFh5MUJoelZGN0d1Y1JKT3kyemFKcUhuRWRBNlNMWkFJS3VYaVlST3VvMzhuWWozMVdR?oc=5",
+          "title": "쿠팡풀필먼트, 첫 정규직 전문대졸 공채…21일부터 접수",
+          "date": "2026-10-21"
+        },
+        {
+          "name": "현대경제신문",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9DbnlOcVJUSXpWMmRUekhWdWcwRzIzR1g3ODA5emNFTi1LNzQ2eVNuQW51d1c0MV9RSlJmal9wOTlsX3M2eVZJa3VsWVM4alIzRkNxS0tqcXJQbk1zVEhOLUoydFJLcnRl0gFrQVVfeXFMUEE3NjlOb1VNS05ScEJuM1hmTVE0eU45ZkQzc24zY2ZsQ0d1SVpSNC1naVpRQWR2TVhNZHVaa2t4OFFGdkx2R1Atc1hwTkZ4bTFIWC1ITU9BZWV1MGtzcVdDMlZYUnI4WWh3RGM?oc=5",
+          "title": "쿠팡풀필먼트서비스, 전문대졸 첫 정규직 공채···물류 현장 관리자 육성",
+          "date": "2026-10-21"
+        },
+        {
+          "name": "전자신문",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBsQzhQalExeDZrLWlzYzhudTZvV09BOEczS2VEcUppRmtvdVJLb01aMGUwb2JjeDM4VHNVdVh3dUJteHg3V05va1V6UHE3QQ?oc=5",
+          "title": "쿠팡 CFS, 전문대졸 첫 공채…“물류 현장 리더 육성”",
+          "date": "2026-10-21"
+        },
+        {
+          "name": "한국재난안전뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBkYkhkeUJlTWgwYm4xNzZjZjZ2MzE1amE3VXlMRGEwT3U3dmEwdFRLQXozZXZKYTRCbkhWTktENHhZODZBR0RjQm5UWHhfVDZhUG44OUlmMTRsVmdRWUE?oc=5",
+          "title": "쿠팡풀필먼트서비스, 전문대졸 인재 정규직 채용해 미래 물류리더로 육성",
+          "date": "2026-10-21"
+        },
+        {
+          "name": "뉴스저널리즘",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA4aXB3bVdzVXllb1NBOVN3X3VkTUFfOWlpcUZrbmN0ZklLQkk0Z3J3eXBUaFlmNzZJNEFjUFVtaWZKWVE2ellCcDJHUUVtQ0JlcmpGcTlpY01ScnQ3Y3p1VnBjckFsUUpBMFU0?oc=5",
+          "title": "쿠팡풀필먼트서비스, 전문대졸 첫 공채…정규직 '팀캡틴' 뽑는다",
+          "date": "2026-10-21"
+        },
+        {
+          "name": "서울경제",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9BVlprcVRlYmNuRWhNX0ktOEpJWnlZYzgtUUstWktUTC1LNG9zMjVGZXIteW9KUk5WVnVVeE1pbjlONGpPOTZCaEVVSG9jU1RmdGfSAVNBVV95cUxNWmxnVVZ0ZDVxYlhIM0NKQ0dIZjhTTmVBMEs0OWVDVUJObldnWmRzQllRRm9PSVJueVN2NjdiNWVKTktIcnpVblNNMkprM3FvT2ZvUQ?oc=5",
+          "title": "쿠팡풀필먼트서비스, 전문대졸 공채 선발…“청년 물류 인재 확대”",
+          "date": "2026-10-21"
+        }
+      ],
+      "date": "2026-10-21",
+      "id": "20261022-01"
+    },
+    {
+      "cat": "ecom",
+      "importance": "high",
+      "company": "eBay",
+      "title": "이베이, 전략적 구조조정으로 전사 인력 9% 추가 감원 단행",
+      "body": "이베이가 올해 들어 두 번째로 전체 인력의 9%를 추가 감원하는 대규모 구조조정을 단행해요. 비용을 절감하고 핵심 사업 경쟁력에 역량을 집중하기 위한 조치예요.",
+      "insight": "글로벌 이커머스 플랫폼의 감축 기조가 지속되면서 국내외 플랫폼 기획·개발·운영 전문 인력의 이직 수요가 확대될 가능성이 커요.",
+      "action": "이베이 및 관련 이커머스 퇴직 인력 풀을 모니터링하고 다나와·에누리 핵심 직무 소싱에 연계해 보세요.",
+      "teams": [
+        "채용",
+        "인사기획"
+      ],
+      "tags": [
+        "이베이",
+        "구조조정",
+        "인력감원",
+        "이커머스",
+        "인재확보"
+      ],
+      "our_group": false,
+      "talent": {
+        "level": "high",
+        "signal": "전사 9% 추가 감원 — 커머스 기획·개발 인력 시장 유입"
+      },
+      "sources": [
+        {
+          "name": "뉴스핌",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1aM2xxZk9zWENwOUJMOUgxRC1jdUthZzZOLU9oOVpralB5UVdhWHlwWGdjT1lzeVlIMmtLY0FnWGw4UTFRZHp0WWpKSXh6RFNxN2ZwYkJZdmNjb2JG?oc=5",
+          "title": "\"이베이, 인력 9% 추가 감원\"…올해만 두 번째",
+          "date": "2026-10-22"
+        },
+        {
+          "name": "알파경제",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8td0d1blNoYnFUc3RQaW9aYVlEWG11cW5GOXlQdE1pby1jQ3Jrdnh6X0dMVlBvNWtTRGs0b2pOb0xGRjFoVWF3b2RVU0RyUGc4N0lONGJBZjBxVmZFWkRIX1JmWmVLbEMwRVRHbXFB?oc=5",
+          "title": "이베이(EBAY.O), 올해만 '두 번째' 감원…전체 인력 9% 줄이고 핵심 사업에 집중한다",
+          "date": "2026-10-22"
+        },
+        {
+          "name": "Investing.com 한국어",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1QS0Z5bWNuQXExZXFDRWpUUDJtNXRrQ2I3TjZ3WnA2UlIwOXNJMVNFSDl1RGhMUDJSR2hpakpZb2Q3LVlJcm9URDJlUkpzN2VLVXVVZVFLbWtPVFZFWTRvZmltS0N2cXJiaE1UTzBpOVk?oc=5",
+          "title": "eBay, 전략적 구조조정으로 전체 인력의 9% 감축 계획",
+          "date": "2026-10-21"
+        }
+      ],
+      "date": "2026-10-22",
+      "id": "20261022-00"
+    },
+    {
+      "cat": "labor",
+      "importance": "high",
+      "company": "업계 전반",
+      "title": "‘AI 해고 공개법’ 발의 및 노조의 AI 업무 통제 요구 본격화",
+      "body": "AI·자동화로 인한 대량 해고 시 사전 신고를 의무화하는 법안이 발의되고, 노동계에서는 AI 단독 활용을 노사 교섭 의제로 올리며 인력 대체 방지에 나서고 있어요.",
+      "insight": "그룹 차원의 업무 자동화 및 AI 도입 추진 시 단순 생산성 향상을 넘어 잠재적인 노무 갈등과 고용 불안 이슈를 선제 관리해야 해요.",
+      "action": "AI 툴 도입에 따른 직무 변화 영향도를 파악하고 관련 노사 커뮤니케이션 가이드라인을 사전 수립해 보세요.",
+      "teams": [
+        "노무·ER",
+        "인사기획"
+      ],
+      "tags": [
+        "AI해고공개법",
+        "노사협상",
+        "업무자동화",
+        "고용안정",
+        "노동법"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "매일경제",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5hOUlEcUM0VmdwUV9oVHNKY3hZOUJsdVZSZVR2cTBzV2EwV3RBNjl0X3p6YUk1c3QwSTI4R1hMdHJFRURObXI1aHJqaktXZw?oc=5",
+          "title": "“김과장, 혼자 AI로 업무하면 배신이야”…노사협상 의제 올리는 노조들",
+          "date": "2026-10-22"
+        },
+        {
+          "name": "아시아뉴스통신",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE85VVZoT2xkNjJGV1puYmcwczcwSm9Ia1c5N1o5QXBtVV85MEIzTWN2cGM5bTktLTUxVExiaGxtOXVwaVdzdGxJRHhyVDR3YVFBWUFGMWljaTZyNmpfMGhMa056ZmdLTXBvX1BpbzFhbV9MaFh6?oc=5",
+          "title": "윤종군, ‘AI·자동화로 인한 대량해고, 국가가 알아야’ AI 해고 공개법 대표 발의",
+          "date": "2026-10-22"
+        }
+      ],
+      "date": "2026-10-22",
+      "id": "20261022-02"
+    },
+    {
+      "cat": "labor",
+      "importance": "mid",
+      "company": "쿠팡",
+      "title": "쿠팡 일용직 퇴직금 미지급 소송 결심 임박… 비정규직 노무 리스크",
+      "body": "쿠팡 일용직 근로자 퇴직금 미지급 혐의에 대한 형사재판이 내달 결심을 앞두고 있어요. 반복 고용된 일용직의 근로자성 및 퇴직금 산정 기준이 쟁점이에요.",
+      "insight": "물류 및 고객센터 단기 인력 운용 시 계속근로기간 인정 요건을 엄격히 관리하지 않으면 대규모 사후 정산 및 법적 제재 위험이 발생해요.",
+      "action": "스윗트래커와 몰테일 물류센터의 단기·일용직 계약 갱신 현황과 퇴직금 발생 기준을 재점검해 보세요.",
+      "teams": [
+        "노무·ER",
+        "보상·복리후생"
+      ],
+      "tags": [
+        "쿠팡",
+        "퇴직금",
+        "일용직",
+        "노무리스크",
+        "근로기준법"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "시사저널",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1EYzJ1d2EzX3p0ZTByVDg5al9kOTV2LUthZzFKeENZd3BhellmOGJWSzZKcDB3RWI1UDVnTnZERDBXOF9LYTdWMEkybHRIMExsT0VlQ3hhUDhfRkF5V21QRG5wd21kUE1iZG1TTGRxbHNXR1nSAXNBVV95cUxNRGMydXdhM196dGUwclQ4OWpfZDk1di1LYWcxSnhDWXdwYXpZZjhiVks2SnAwd0ViNVA1Z052REQwVzhfS2E3VjBJMmx0SDBMbE9FZUN4YVA4X0ZBeVdtUERucHdtZFBNYmRtU0xkcWxzV0dZ?oc=5",
+          "title": "“가장 엄한 처벌을”…쿠팡 퇴직금 재판서 일용직 호소",
+          "date": "2026-10-21"
+        },
+        {
+          "name": "뉴시스",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1OSnlQTGUtR1Bpb2lKQ3RZdEhhX0twRS1JMDVGd3VHWHZHbC1fUTlpM0xDcDJkUDlPSjJTR3YzejRfTTlpSlNoSmFZSlFSUVBlMGpCU1NTaEc1SDhBYXdDTnUyX2Z3Y0huVnlSMDJjMjBNRTA5R0c1TtIBeEFVX3lxTE1OSnlQTGUtR1Bpb2lKQ3RZdEhhX0twRS1JMDVGd3VHWHZHbC1fUTlpM0xDcDJkUDlPSjJTR3YzejRfTTlpSlNoSmFZSlFSUVBlMGpCU1NTaEc1SDhBYXdDTnUyX2Z3Y0huVnlSMDJjMjBNRTA5R0c1Tg?oc=5",
+          "title": "쿠팡 일용직 근로자, '퇴직금 미지급' 재판서 엄벌 호소…내달 결심",
+          "date": "2026-10-21"
+        },
+        {
+          "name": "뉴스1",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Hd0psbmxFQWdoZm1uLUxHdU1FaDRocUwyQVBEZDRQa2RGUU5JMkFObWhZM1FrWnJSQnZ1MXhHSFVRbUVmTEpzX1Nzbk8wek9SaE5zZDZqY0lBZUl2cWdGUVBfSVQ?oc=5",
+          "title": "\"일용직은 을, 엄벌 촉구\"…'쿠팡 퇴직금 미지급' 재판 내달 마무리",
+          "date": "2026-10-21"
+        }
+      ],
+      "date": "2026-10-21",
+      "id": "20261022-05"
+    },
+    {
+      "cat": "trend",
+      "importance": "mid",
+      "company": "플렉스",
+      "title": "플렉스-한국MS, MS 365 코파일럿에 HR 데이터 연동 추진",
+      "body": "HR 플랫폼 플렉스가 한국MS와 협력해 M365 코파일럿 환경에서 근태, 인사정보, 평가 등 사내 HR 데이터를 안전하게 조회·활용하는 솔루션을 출시해요.",
+      "insight": "HR 데이터와 사내 협업툴 내 LLM 연동이 가속화되며, 단순 조회 및 제증명 발급 업무를 자동화해 HR 실무자의 운영 리소스를 대폭 줄일 수 있어요.",
+      "action": "그룹 내 그룹웨어 및 협업 환경과 연계 가능한 HR 자동화 기능 적용 타당성을 검토해 보세요.",
+      "teams": [
+        "인사기획",
+        "조직문화·HRD"
+      ],
+      "tags": [
+        "플렉스",
+        "마이크로소프트",
+        "코파일럿",
+        "HR테크",
+        "AI"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "스타트업투데이",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE16aVBsTE16bFlNdjVpV2sxQlhRUHA1UmJ0d1FHcGpTZDdta1JkZUhNcTlrejFSb3BkQnd6UmZYeHAtNWUyeUo4cWx2eUxCeC0zajc0T1Q3VkpPQTIyZE5hRm16STc5Y2c2c2EwRER3?oc=5",
+          "title": "플렉스, 한국마이크로소프트와 기업용 AI 생태계 확장∙∙∙대기업∙중견기업 공략 본격화",
+          "date": "2026-10-21"
+        },
+        {
+          "name": "지디넷코리아",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBlZ0sydkVhVXFLQkNZNkJFUW9TVkxlWTlyS3BRc3o2aWV5bG1nUnVyemM1emxOZ3hveWFoSVAwT1pKdndNV0ZtcGEzWm9fRHBfei0zaWdn?oc=5",
+          "title": "플렉스, 한국MS와 손잡고 기업용 AI 시장 공략…코파일럿에 인사 데이터 연동",
+          "date": "2026-10-21"
+        },
+        {
+          "name": "www.ebn.co.kr",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE44VDhDd1lLUDNlNkM4aDdneXlRVHlhejMtTmtfQkJFcUJJSGw5ZVJKbC1wV1V4RHZNRmVXZDI4V1huZ3Q2TmZ4dlNkb1BMTzY5YkF2UzZFYmJneGlHSzRTaTBXdE94SjlH?oc=5",
+          "title": "[Tech & Now] 플렉스·MS 기업용 AI 협력…코난테크놀로지, 서울과기대와 국방 AI '협력'",
+          "date": "2026-10-21"
+        }
+      ],
+      "date": "2026-10-21",
+      "id": "20261022-06"
+    },
+    {
+      "cat": "ecom",
+      "importance": "mid",
+      "company": "넷플릭스",
+      "title": "넷플릭스, 콘텐츠 조직 개편과 맞물린 전략적 인력 감원 지속",
+      "body": "넷플릭스가 글로벌 1위 시청 점유율 유지 속에서도 제작비 효율화와 콘텐츠 조직 개편을 추진하며 지속적인 감원 조치를 밀어붙이고 있어요.",
+      "insight": "플랫폼 기업들이 실적 성장 여부와 무관하게 고정비 축소와 조직 슬림화를 상시 추진하는 기조가 뚜렷해지고 있어요.",
+      "action": "플랫폼 콘텐츠·마케팅 조직의 운영 효율화 추이를 벤치마킹하고 우수 인력 시장 상황을 트래킹해 보세요.",
+      "teams": [
+        "채용",
+        "인사기획"
+      ],
+      "tags": [
+        "넷플릭스",
+        "조직개편",
+        "인력감원",
+        "콘텐츠",
+        "플랫폼"
+      ],
+      "our_group": false,
+      "talent": {
+        "level": "mid",
+        "signal": "조직 개편 및 감원 — 플랫폼 기획·마케팅 인재 이동"
+      },
+      "sources": [
+        {
+          "name": "네이버 프리미엄콘텐츠",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdml5NVJ5ZHZIOFhuOHFJeGpiakR0bEp2cHMtc0dfTTNOVUhHaTJ3TC00aDlWZ3R5YmdwZDVEQXRqZUNMT24ydEZBdFl0ZUQ1Q0FvbzVRaHluWGZfYVo0ajRXRzN0OXpmNG1HUUx0TElpbE40QzlZSURTeEtqS3phMlJiNDdvbkJH?oc=5",
+          "title": "업계 최저 해지율 자신감…넷플릭스가 감원과 콘텐츠 조직 개편을 밀어붙이는 이유",
+          "date": "2026-10-22"
+        },
+        {
+          "name": "머니네버슬립",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBILXFMT3E3eWJZUmlqZVpvdlZsQVVGemRrRHRpblNlQ085X2VNaklmOVVYVFBjX3ZRYUVrXy1WcTBMTmlObmtXRm1jNnFwWmZPZUV1dlBsN3BHT1d6MGh6MkFBSzhhYkxLN292ZUs2emJpQWPSAXdBVV95cUxQWEVTbVRtMEZXZmpkb1ZYV2RXRS1XYVFmMHMzV2hOMWdzWGo0bFRpT09ZZl9fa29qT1NTTWlyTjFkYUxqQXJwancyTXFVdElseFlpXzJCUTc1NVFaVlJSS3haNUR3ZTVHdkxqMzNNWkx3ZkVGRERITQ?oc=5",
+          "title": "[한입뉴스] 극장으로 향하는 넷플릭스? 外",
+          "date": "2026-10-22"
+        }
+      ],
+      "date": "2026-10-22",
+      "id": "20261022-03"
+    },
+    {
+      "cat": "ecom",
+      "importance": "mid",
+      "company": "카페24",
+      "title": "카페24, 대화형 AI 구매 추천 및 이커머스 솔루션 기능 고도화",
+      "body": "카페24가 이용자 질문을 분석해 상품을 추천하고 장바구니에 담아주는 대화형 AI 솔루션을 국내 최초로 도입하는 등 셀러 지원을 강화하고 있어요.",
+      "insight": "경쟁 셀러 솔루션사가 AI 기술을 쇼핑몰 솔루션에 적극 내재화하면서 AI 엔지니어 및 프로덕트 기획 인재 유치가 핵심 과제로 부상했어요.",
+      "action": "메이크샵과 플레이오토 솔루션 내 AI 역량 확충을 지원하기 위한 전문 개발자 채용 파이프라인을 점검해 보세요.",
+      "teams": [
+        "인사기획",
+        "채용"
+      ],
+      "tags": [
+        "카페24",
+        "생성형AI",
+        "이커머스솔루션",
+        "메이크샵",
+        "경쟁사동향"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "Chosunbiz",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVGIzZEFQQTU3RnlCNFI1cnQtSXFKekpTcl92d3NKTEN3YU03MUFPYzVESWZRRFlqWDk1T0pIeFduN0tvb3Rrd2xKMHctcTRMaHM3bzVGM0FvUFl2ZlIyVmM4VFdpNi1pME1BcG94Si1aZmlmV1dEWTdtanI2UDhxelZGTVhkZVAxLXfSAZ4BQVVfeXFMTW0zUG9tOWdvRlNFbF8yRjBqUlVfSjVOWVEweDVfb1NJV3pVUEgzSEliTUs5aUFXS2c1M2ZUejBsYlNXN2ZFZUtnZHBwM1N6OUt6enlfMl9LVms1X3pWdGRFSFM3R1NGdTJoVW1ncXZBekFlYXE4M1l2WFZGUERmX0U5OHc5UTdrV0xSUzJRSHByR2VKSGZyZW5FSjZyZmc?oc=5",
+          "title": "AI한테 말하면 장바구니까지… 카페24, 국내 첫 적용 - 조선비즈",
+          "date": "2026-10-22"
+        },
+        {
+          "name": "스마트비즈",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0ycjlzRHctT1hEd3RDTzVsVS0xcUlNN1RnVmNXV25TM054dkR1aXlxYTlVaWZDVm1DRVNDdGd0N1Bwcm1SdDBHdlJSdUtKcnZvX0pIVzRRa1BVWUU0ZkJleVlrRmZ5LUhJcU4zRg?oc=5",
+          "title": "카페24, ‘MAKE YOUR BRAND!’ 성료···제조기업 브랜드 성장·판로 확대 전략 공유",
+          "date": "2026-10-21"
+        }
+      ],
+      "date": "2026-10-22",
+      "id": "20261022-04"
+    },
+    {
+      "cat": "trend",
+      "importance": "low",
+      "company": "업계 전반",
+      "title": "그룹웨어-PC-OFF 연동 및 출퇴근 데이터 기반 급여정산 자동화 확산",
+      "body": "전자결재 그룹웨어와 SaaS 근태관리 및 PC-OFF 시스템을 연동해 근로시간 검증과 임금명세서 발송을 자동화하는 인사 운영 방식이 주목받고 있어요.",
+      "insight": "유연근무제 확대와 다각화된 사업장 환경에서 근태 데이터 정합성을 확보하면 마감 리소스와 노무 리스크를 동시에 줄일 수 있어요.",
+      "action": "다나와, 에누리 등 그룹사 전반의 근태 기록 방식과 PC-OFF 연동 현황을 비교 조사해 보세요.",
+      "teams": [
+        "인사기획",
+        "보상·복리후생"
+      ],
+      "tags": [
+        "근태관리",
+        "PCOFF",
+        "급여정산",
+        "임금명세서",
+        "근로시간"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "시프티 블로그",
+          "url": "https://shiftee.io/ko/blog/article/groupware-and-pc-off-integration-for-working-hours-management",
+          "title": "사용중인 그룹웨어와 PC-OFF를 연동해 근로시간관리 체계 구축하기 최근 많은 기업이 그룹웨어를 통해 출퇴근기록과 전자결재를 함께 운영하고 있습니다. 일정 관리, 메신저, 전자결재 기능이 통합된... 2026-06-",
+          "date": "2026-10-22"
+        },
+        {
+          "name": "시프티 블로그",
+          "url": "https://shiftee.io/ko/blog/article/payroll-automation-and-attendance-data-management",
+          "title": "급여정산 오류를 줄이는 근태 데이터 관리와 임금명세서 발송 자동화 전략 매월 급여정산 시즌이 다가오면 인사·급여 담당자는 반복되는 확인 작업과 데이터 검증에 많은 시간을 할애하게 됩니다. 근로시간 ... 2026-0",
+          "date": "2026-10-22"
+        },
+        {
+          "name": "시프티 블로그",
+          "url": "https://shiftee.io/ko/blog/article/pc-off-implementation-saas-attendance-integration",
+          "title": "PC-OFF 도입 가이드: SaaS 근태관리시스템 활용 방법과 운영 기준 기업의 근로시간 관리가 세분화되면서 PC-OFF 역시 실제 근무제도와 근태관리 환경에 맞춘 운영이 중요해지고 있습니다. PC-... 2026-",
+          "date": "2026-10-22"
+        }
+      ],
+      "date": "2026-10-22",
+      "id": "20261022-07"
+    },
+    {
+      "cat": "trend",
+      "importance": "low",
+      "company": "업계 전반",
+      "title": "대기업 사내대출 복지 제도, 주택담보대출 규제 우회 논란 확산",
+      "body": "금융당국의 가계대출 규제 강화 속에서 대기업 사내 복지기금을 통한 저금리 주택자금 대출 제도가 국정감사 등에서 사회적 규제 회피 논란으로 떠올랐어요.",
+      "insight": "사내대출 복지 혜택은 우수 인재 리텐션 유인책이지만, 외부 제도 강화 시 기금 운영 및 과세·공시 기준이 강화될 수 있어요.",
+      "action": "당사 사내근로복지기금의 대출 조건과 한도가 법적 가이드라인에 부합하는지 사전 검토해 보세요.",
+      "teams": [
+        "보상·복리후생"
+      ],
+      "tags": [
+        "사내복지기금",
+        "사내대출",
+        "주택자금",
+        "복리후생",
+        "금융규제"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "서울경제",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA0YmtqTGJDWTVqUFVaSV9naTIxMHVIaUFGWkx1ZktOWTY0dUpzYVRneEh4UmVLeXZwM2pfTkllOFRsTjZqUVQ1ay16OUs0eElBOEE?oc=5",
+          "title": "대기업판 ‘복지 찬스’가 집값 상승 자극했나…규제 밖 주택대출 논란",
+          "date": "2026-10-22"
+        },
+        {
+          "name": "핀포인트뉴스",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBCcmJmV2hLeUNZVGQ2c3YxSDFSWUxLcW1PYU5PY2dFT2hXb2J4ZWx4TTlUQjRoR2ZreTZ4MWQ1UlBzVXFfREFrNkJnUTEzVF9TS0ZMZWhhd2h1YlNVR3lONElKOVhYMEgwOExOekl0bUVXTHfSAXdBVV95cUxPbWpCWE9RMmFhTEVLeGNWU0pkdmU5a184UTQ1RlpHT2RyQU5mSHhBMGk0RkdxajBWcDdCaENFaU9oZFJaMzBwemhFaDhxUTZ1VFRmLThvX2lpdDZHdlhna2h1QnhhaG9lTjlybUl1TkdtamdyaGRfZw?oc=5",
+          "title": "갈수록 불어나는 대기업 사내대출…직장 복지가 가르는 ‘내집 마련’ 격차",
+          "date": "2026-10-21"
+        }
+      ],
+      "date": "2026-10-22",
+      "id": "20261022-08"
+    }
+  ]
+}
