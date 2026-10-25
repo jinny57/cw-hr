@@ -56,9 +56,555 @@
     ]
    }
   ],
-  "updated": "2026-10-23T09:02+09:00"
+  "updated": "2026-10-26T08:59+09:00"
  },
  "reports": [
+  {
+   "date": "2026-10-26",
+   "window_days": 1,
+   "article_count": 208,
+   "engine": "gemini-3.8-flash",
+   "headline": "신세계 리더십 개편 및 쿠팡 근로감독 발표 속 노동감독 체계 강화",
+   "points": [
+    "신세계 정용진 회장 직할 체제 전환과 SSG닷컴 대표 교체 등 대규모 리더십 쇄신이 본격화됐어요.",
+    "고용노동부의 쿠팡 근로감독 결과 발표 및 신규 감독관 현장 실습 등 플랫폼·물류 업계 대상 노무 리스크가 고조되고 있어요.",
+    "글로벌 금융·빅테크의 AI 기반 구조조정과 삼성 중심의 대규모 하반기 정기 공채가 동시에 진행 중이에요."
+   ],
+   "items": [
+    {
+     "cat": "market",
+     "importance": "mid",
+     "company": "삼성전자",
+     "title": "삼성 19개 관계사, 하반기 정기 공채 GSAT 실시",
+     "body": "삼성그룹이 19개 관계사를 대상으로 하반기 신입 공채 필기시험(GSAT)을 실시했어요. 4대 그룹 중 유일하게 대규모 정기 공채를 유지하며 신입 인재 확보 드라이브를 걸고 있어요.",
+     "insight": "대기업의 대규모 공채로 하반기 신입·주니어 개발 및 데이터 엔지니어 지원자 풀이 대기업으로 집중될 가능성이 커요.",
+     "action": "공채 탈락 고배수 우수 주니어 지원자를 타깃으로 한 수시 채용 브랜딩 콘텐츠를 배포해 보세요.",
+     "teams": [
+      "채용",
+      "인사기획"
+     ],
+     "tags": [
+      "삼성",
+      "공채",
+      "GSAT",
+      "신입채용"
+     ],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "뉴스로드",
+       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Zc1RlOW1pTDJ2QUY2QWZfOHBiV252VklodTlsSkhsNnhXeEtucXVaNzlvVFRfQmVsd2xoOFQ1dmxtS05IVjVYcjAwRUxxOWRzc0NGZUgyS0dsdGw3dzdRNTEtVWl0YVJPTVBmVtIBb0FVX3lxTFBvNVpBVC1CbC1oT25HNTc5XzdXYVE5M1d1MjlJV1NfWUxDOVBGbTV4QzJ4SEd4WHN4aEk1T2ExNExZWHpQaXJiQ3dIQlI4OTM3SEtGUnhYRVM0eDJEX2NQTlZvVVlMMlR3OGhqZ1lQUQ?oc=5",
+       "title": "“4대 그룹 유일 공채” 삼성, 하반기 GSAT로 청년 채용 드라이브",
+       "date": "2026-10-26"
+      },
+      {
+       "name": "여성소비자신문",
+       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1IcVo0NkxEYlFVRXZvN3JWcG9wUldnSk5kNi1rRlM3XzJxNjEzWTlRdUQ3NDUxUndEdDVKQUVHTTVUWW9mX0QxSGZudVEzUEdwRTRWNmlieVdyRDc0Wmx1ZUIzOWVwUQ?oc=5",
+       "title": "삼성-LG전자, 2026년 하반기 삼성직무적성검사(GSAT) 실시...상업용 세탁가전 유럽시장 공략 가속",
+       "date": "2026-10-26"
+      },
+      {
+       "name": "청년일보",
+       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE12MlF5T2hXTS1NX0FqR0o3ai1VOUs1aGNXcXdIWkZfd1lxOHY0aHNXb1pxTlFnZjBlR1oxUy1NV0hneTQyMHp1cUswVTlydDk1T1hQMl9tZUREMU9XZVJNRUhSd1BhQkU?oc=5",
+       "title": "삼성, 정기 공채로 청년 채용 이어간다...하반기 GSAT 실시",
+       "date": "2026-10-25"
+      },
+      {
+       "name": "더글로벌기빙뉴스",
+       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5naUxoWVFEVVUtd0p2VjY4bEI3cG00SlJRSm15Rl9idEpUZG4wc2xvWmpEVkdJZmdhcVNUV1AxQ1Ffa1J3aUJIc2ZZV2VSZVFadDRNYg?oc=5",
+       "title": "삼성, 19개 관계사 하반기 공채 GSAT 실시…11월 면접 진행",
+       "date": "2026-10-25"
+      },
+      {
+       "name": "경기신문",
+       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1hYVBaaDVsR2FtWUpSZFZ6WlFtRzkwMVE5Q0tTaDBuUzNLX2JkVU1yOFZMYXR6eXR6RVZNdHlSTi1Pa2VsQnUyUFRPbDRsc0dFRThiSUpzcGp4emZTN1QzUkFn?oc=5",
+       "title": "삼성, 하반기 공채 GSAT 실시… 미래 인재 확보·일자리 창출",
+       "date": "2026-10-25"
+      },
+      {
+       "name": "천지일보",
+       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1lVUQyN1JkeUxuTjVqR3lxV1JJay1jckE4a1FpQXZwVTFOQ1RHNGYwTU9MbERKelRGUDFlRUJpdDdqZE9wamtYdlEtaldJWTlrcjhEaVo0VV9YcmNKU1NHUjhFZ0lLWWd2RFE?oc=5",
+       "title": "‘4대그룹 유일 공채’ 삼성, 하반기 GSAT 실시… 19개 관계사 참여",
+       "date": "2026-10-25"
+      },
+      {
+       "name": "라이센스뉴스",
+       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8wUGVkdHN3SG9XQlNmaUx3LXQ3bnhUb2NfNHJfZTYzNXF6XzFCb2dhNTNzbVlBOGFHUUNTNm9TU1hxNlNGV0xCMmI1cWJvTC1McmhueVlpYVQzcE5fVGhzZlF5OWZkQllZczdz?oc=5",
+       "title": "70년 정기 공채 이어가는 삼성…19개 관계사 하반기 GSAT 실시",
+       "date": "2026-10-25"
+      },
+      {
+       "name": "아시아투데이",
+       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1KQ1VsNGM0V0owUFh5WUZuVUJvQ0VxQkN3V0x1ZnVzc0xCTmdtVzkyNW5aajFiYVVDMmxWSG5VYm5oTm9rOTQ4TFNEUFM4d2VkekpoZHZvYmh5Qk5TMUl6akdUN0cydGhtaTJoQw?oc=5",
+       "title": "삼성, 미래 인재 확보·청년 일자리 창출…하반기 GSAT 실시",
+       "date": "2026-10-25"
+      },
+      {
+       "name": "마일드경제",
+       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBqSWUzSktVT2JQTDA5ZUNOc2JGa1o0V0xlYWZQRGRIVGd3OE4zVG9EaHFkMEdNaC1FSGZpeTVLREc3LXpYWUhNNWJoZmhSV0FBU1Z0b2dFSkRLQVNlMmRuTDhzbE1MV1A1N2Uw?oc=5",
+       "title": "삼성, 하반기 공채 GSAT 마무리 '미래산업 인재' 선점 나선다",
+       "date": "2026-10-25"
+      },
+      {
+       "name": "미디어펜",
+       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5rNXUteVJSMFZMVFpQeUxyaE9obURNZVpSaUFHU3lVT1NUOHNSME0zc0lLbW9qVTZ3QXNKQk9YSTFUR3FWN1dVcFVvaTVqaW51N1FkaNIBWEFVX3lxTFB2WEpPM0NXWmpZdVBwb2V4dHZpWDVfcU1yelNPTmdaODVESW9ma3l5cGZ1NVZiZjJ4bm9wVENjMFBma0xkTlJmc21hUVFoaWpuTW56TWNrTFg?oc=5",
+       "title": "이재용 ‘5년 6만명 채용’ 약속 속도… 삼성, 19개사 하반기 GSAT 치렀다",
+       "date": "2026-10-25"
+      },
+      {
+       "name": "파이낸셜뉴스",
+       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9xQmVmbUpBNmVBS1lRMVQzcEE5XzIwY1libWhNQXFUNTQzU2RpQ25rYTZrYXQtbjZNR0FfcTJiODgtU01BTUhsUXYzUU1fQlhZbl9qMm5iOHlhQQ?oc=5",
+       "title": "삼성, 하반기 GSAT 실시…70년 공채 이어가며 6만명 채용 박차",
+       "date": "2026-10-25"
+      },
+      {
+       "name": "뉴스핌",
+       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1tak13cjRCRDA3NGp5UGlKVldRR1ktU2NwaU9zMnVRM3RuZ05sUmFQNVZJaWNBUzZKSk81RXBOb0dpZUJJQlVvNTN4RW1TMHJyaUFVMDhCZzZmZFBS?oc=5",
+       "title": "삼성, 하반기 GSAT 실시…19개 관계사 신입사원 채용",
+       "date": "2026-10-25"
+      },
+      {
+       "name": "경기일보",
+       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE16enZBd2lGX0xobHVEbzV6NjcyMGhLNTdxVmlHeVYtWEx4Q1dobzVIQmpWdnAzZ3RDSkNkTzI4OW81ZzNnMmFxc3dTT0ZsT3hrcEItb3c5bnhVbms?oc=5",
+       "title": "삼성, 하반기 GSAT 실시…19개 관계사 신입사원 선발",
+       "date": "2026-10-25"
+      },
+      {
+       "name": "서울경제",
+       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1zWjdiNGxqOHkxd1VzZEJTWEF4Z0ctbjN2NkZWS3RTUTBiWThDaGJXUnRINnFHVkY3OWh1cExGN0lmY0JLdjF3OS11TFEyTndVU19R0gFTQVVfeXFMTXNaN2I0bGo4eTF3VXNkQlNYQXhnRy1uM3Y2RlZLdFNRMGJZOENoYldSdEg2cUdWRjc5aHVwTEY3SWZjQkt2MXc5LXVMUTJOd1VTX1E?oc=5",
+       "title": "삼성, 하반기 공채 실시…‘5년간 6만명 채용’ 약속 속도",
+       "date": "2026-10-25"
+      },
+      {
+       "name": "파이낸셜포스트",
+       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBYRVRtM0ZQQm5RSUVWdC1tbERrZVQzXzZJN0RnRjB3WHFWUllYOVZvbzVYRExXS2hVeDFHYkc1WWdrMEt4UnUwSGZJMWJhZ3hjbURpMFktdldvc1lCckVyS2xlcDQ2aWRRa3hrUkRoRUtjdkFN?oc=5",
+       "title": "삼성, 하반기 GSAT 진행… 삼성전자 등 19개 관계사 신입 공채 진행",
+       "date": "2026-10-25"
+      },
+      {
+       "name": "엠투데이",
+       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBtcW1YaF9kRU9pYUp2ZjlWVjNhWi1JNzV3RHdzcWp4cWVoRXozVmVnSFc3SjR4UlRjNHNNODRMN0ZQN1BlS3NtdUtKZU1YMWtCMV9Vbjc2anlJS2J6SWNzcE1iSVdJZFV0bjhkQ1F1VQ?oc=5",
+       "title": "삼성 입사 관문 GSAT 실시⋯19개 계열사 하반기 공채",
+       "date": "2026-10-25"
+      },
+      {
+       "name": "파이낸셜신문",
+       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1zdWFHMGh6VHl4c29MRTE3cHpZX2htR0dEYVlXbTl4dXlvcXNYMGNmMEoxMG9RMEl3dkNmeWx2U2J4MFNnTEdNOWZnNjBPcEx6TmZaYzZXNllaWnlQRUgxeWhfSktKdnppWVpr?oc=5",
+       "title": "삼성, 하반기 GSAT 실시…반도체·AI·바이오 미래 인재 확보 나선다",
+       "date": "2026-10-25"
+      },
+      {
+       "name": "뉴스웍스",
+       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1DUVVIbWotWHNYMFlPSnRnS2pwZWcwd2szUVV3Z1R2eGV0VTU2N0Z0dm1NR1c3blpIN1FXdGg3SzVWVFNRVG1ySUtSVFFPbjJON3dUWmxhNU5kTFA0RXhCbkoySnhXMDgwTHZ0MHYzUdIBc0FVX3lxTFBVeVQwUFppd2hudmFxek9RSlhvZXhhQkVQSWx0aHEzUUN4c3hUeDMtZHJlNGg3bFpMVFlId0h5UFNvSXpreDAzdkNtOE1lSFFnRjJTUWFJNkYzZ0JqalV6SE5SbTRwZW1HZkNfX1JSTlpFQkU?oc=5",
+       "title": "삼성 19개 관계사, 24~25일 하반기 GSAT 실시…70년째 공채 유지",
+       "date": "2026-10-25"
+      },
+      {
+       "name": "중앙이코노미뉴스",
+       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE42RElLZUx1ZFdJbjRnZU5WNzRJVUEyNE5haXJKYlpfaXp5Z092dkQ2VmJFelNMOE9LRi1oZnBHajVlUm5hekRJMGFlc2U1eDduLW1TMzJYMjFfLVRpOGh4dUZpMHJLZnVzUEtRTm9XSU5rQQ?oc=5",
+       "title": "삼성, 하반기 GSAT 실시…19개 관계사 참여해 미래 인재 선발",
+       "date": "2026-10-25"
+      },
+      {
+       "name": "소셜밸류",
+       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9qQzJOdVYyaXlvd25oc01XOTNxNmZZS0NfZ3hBMW9aN2VlS2lnTlFNM0JQYmU3bUxHM01WWUVBV1FjYlNoQVY5eEcwLVA2WTJVZWp4RWM2R0JlRllWU3NaQm9hONIBbEFVX3lxTE9wdjJwa19UTlhjMUdyM2xuRW5hZU1pN1lxTjFuUlZlZXBhTnVUUWF5R2lGcHljVm9KTVlqWU9zYl80OW9jcDlORWRRVGoxUzE5eTFZZFQ1THBUVnoyY1hCVVZKaThTSWZyNWV0VA?oc=5",
+       "title": "삼성, 하반기 공채 GSAT 마무리…11월 면접 거쳐 신입 선발",
+       "date": "2026-10-25"
+      },
+      {
+       "name": "뉴스후플러스",
+       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5TUS0wY3o4NUhVM3NXejdEaFBDa3RhQXJuai1WdkZub19xeW5KbUo4N0wtaTRnNzRSZC16NG5oOW92ZVI1b0NwSFVqbzlZNGZ4VTZmdjZXSXdhZGxURWU0d2haQ09OS09QNFE2aEpB?oc=5",
+       "title": "삼성, 하반기 공채 '본궤도'…19개 관계사 GSAT 실시",
+       "date": "2026-10-25"
+      }
+     ],
+     "date": "2026-10-26",
+     "id": "20261026-05"
+    },
+    {
+     "cat": "labor",
+     "importance": "high",
+     "company": "고용노동부",
+     "title": "지방노동감독관 '감독학교' 본격화…현장 근로감독 강화",
+     "body": "고용노동부가 신규 지방노동감독관 실습 교육을 위한 '감독학교'를 운영하고, 모의 사업장 실습을 거쳐 12월부터 현장에 본격 투입해요. 임금체불, 근로시간, 불공정 채용 등 36개 항목에 대한 고강도 점검이 예고됐어요.",
+     "insight": "근로감독관의 현장 실습 및 지자체 합동 감독 확대로 IT·플랫폼 업계 전반의 근로기준 준수 감시 강도가 대폭 상승할 전망이에요.",
+     "action": "포괄임금제 운영 사업장의 연장근로 승인 프로세스와 출퇴근 기록 보관 실태를 사전 정비해 보세요.",
+     "teams": [
+      "노무·ER",
+      "인사기획"
+     ],
+     "tags": [
+      "근로감독관",
+      "감독학교",
+      "고용노동부",
+      "노무점검"
+     ],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "고용노동부 보도자료",
+       "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=20136",
+       "title": "“신규 지방노동감독관, ‘감독학교’에서 베테랑의 노하우 배운다”",
+       "date": "2026-10-26"
+      },
+      {
+       "name": "누리일보",
+       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9rQ1Q5RkRiTzJhWHZrZm1MN0w0bkdoamtGQXh2Z1A5V24yTGZsaU5mMWlBTXl0dWdIRW9MSVRsM1laajc1T1N0MWdVMjR2Y0h5OEFaWjE2S2pibEk?oc=5",
+       "title": "고용노동부, 신규 지방노동감독관, '감독학교'에서 베테랑의 노하우 배운다",
+       "date": "2026-10-25"
+      },
+      {
+       "name": "뉴시스",
+       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9jQVZzdWVKYlJOZ1hCYVhtckdfNWV0WjJXQXdESUFlaEp4dk16N1lnUEQ2X25jd0FRYjREWWJwa295OTA2WHViajJCbndoX0g2UmNJTk9ORGRJSTNYcFh2cWJENmZKSVl1S05qUHhZSEVDVVhUSjFjbtIBeEFVX3lxTE9jQVZzdWVKYlJOZ1hCYVhtckdfNWV0WjJXQXdESUFlaEp4dk16N1lnUEQ2X25jd0FRYjREWWJwa295OTA2WHViajJCbndoX0g2UmNJTk9ORGRJSTNYcFh2cWJENmZKSVl1S05qUHhZSEVDVVhUSjFjbg?oc=5",
+       "title": "지방노동감독관 '감독학교' 시작…모의 사업장 실습교육",
+       "date": "2026-10-25"
+      },
+      {
+       "name": "연합뉴스",
+       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE54MGRFaTgtZDlBRk4zdUxHZE5SLUhzN21wU2tMcG12OWVoSjUzSkw1X2l5cWZIc19HMEN0WjIzeGx6aENaTFZQZjA1cDdIb1UtNDUwZU0zbkhnM2xqdUMzWNIBYEFVX3lxTE54MGRFaTgtZDlBRk4zdUxHZE5SLUhzN21wU2tMcG12OWVoSjUzSkw1X2l5cWZIc19HMEN0WjIzeGx6aENaTFZQZjA1cDdIb1UtNDUwZU0zbkhnM2xqdUMzWA?oc=5",
+       "title": "73년만에 지방정부도 노동감독…'감독학교'서 노하우 배운다",
+       "date": "2026-10-25"
+      },
+      {
+       "name": "뉴스1",
+       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5JUTh0S3IzUFI4azVrOEw4UGxOaEp6SUcyRW12VDJSUjlfUkpjak9ZU1NKejFmZlA5V2laNl9HLWxleXdkMHBpWE9tV2hMYmEtZm9oZXFRS0huRk9YOGplZllUSQ?oc=5",
+       "title": "지방노동감독관, 시정지시부터 송치까지 모의 사업장서 익힌다",
+       "date": "2026-10-25"
+      },
+      {
+       "name": "글로벌이코노믹",
+       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUnJqczJicmFXaktDSm1iQ3JxYjg4SEg5Rmh1T1V6aWtibVJSelM5b3NCSXlSZ2U2YUtPOUZBRmRaa3EyNGFHTkFrV1lxbkxOQjVxQzh1S3Vpb2pFaFdVMVMtTlZyUE9vZmVNOUhwdjFOTERwMklVelRCTFRTb0xmTE1SaElCS1NxZXFB?oc=5",
+       "title": "신규 노동감독관 6주간 현장 실습…지방정부 노동감독도 사전 점검",
+       "date": "2026-10-25"
+      },
+      {
+       "name": "아주경제",
+       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE45VmE0dzdZYUExMDI2dXJoLWZOS3kxSGwxM2JpX2FxekFlbkVFQmZ3VmZWcndrSTg4SGI1Q3lobHJHdjAycG84bWhtR0lZUFFPSmh3aVY4SDHSAVhBVV95cUxOOVZhNHc3WWFBMTAyNnVyaC1mTkt5MUhsMTNiaV9hcXpBZW5FRUJmd1ZmVnJ3a0k4OEhiNUN5aGxyR3YwMnBvOG1obUdJWVBRT0pod2lWOEgx?oc=5",
+       "title": "지방노동감독관 12월 현장 투입…노동부, 36개 항목 실습교육 실시",
+       "date": "2026-10-25"
+      },
+      {
+       "name": "뉴스핌",
+       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBIZHJkQTViSzMzenZpMThOM0tYc256UXJiaXhReUpOM1l4ZjVNanlEajFnY2hPRGxldTFDc3pTb0F2VVFPLTRQQTBPS1VhS2VVOTFpMWJ2YmZrOTNt?oc=5",
+       "title": "지방노동감독관 대상 실습교육 본격 가동…지방정부 능력도 확인",
+       "date": "2026-10-25"
+      }
+     ],
+     "date": "2026-10-26",
+     "id": "20261026-02"
+    },
+    {
+     "cat": "ecom",
+     "importance": "high",
+     "company": "신세계",
+     "title": "신세계그룹, 정용진 직할 체제 전환 및 SSG닷컴 대표 교체",
+     "body": "신세계그룹이 정기 임원인사에서 정용진 회장의 이마트 대표 복귀와 직할 체제 전환을 발표했어요. SSG닷컴 및 이마트 신임 대표로 김홍극 신세계까사 대표가 내정되었으며, 역대 최대 규모의 신규 임원 쇄신 인사가 단행됐어요.",
+     "insight": "이커머스 및 리테일 경쟁사의 고강도 인적 쇄신으로 조직 재편에 따른 C레벨 및 핵심 PM·MD 인력의 이동 가능성이 높아졌어요.",
+     "action": "SSG닷컴 및 이마트 출신의 핵심 기획·MD·개발 인재 풀을 사전 확보하고 이직 의향을 모니터링해 보세요.",
+     "teams": [
+      "인사기획",
+      "채용"
+     ],
+     "tags": [
+      "신세계",
+      "SSG닷컴",
+      "임원인사",
+      "조직개편"
+     ],
+     "our_group": false,
+     "talent": {
+      "level": "high",
+      "signal": "경영진 쇄신 및 조직개편 — 커머스 기획·MD 이탈 가능성"
+     },
+     "sources": [
+      {
+       "name": "강원일보",
+       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5pNHVTNTVjY3ZCZi04QjRLbl9FbHZ4TFNfZm5VMkJIMTVGaUVQLVljNThXYzMxM09VMkVDWDNRNDR5X0IzQzN4RzJkbThheFNpT1ZuMHJoWXVzYk0?oc=5",
+       "title": "이마트·SSG닷컴 신임 대표에 정선 출신 김홍극 신세계까사 대표",
+       "date": "2026-10-26"
+      },
+      {
+       "name": "대한경제",
+       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB2b1JrRU9qSEw0ek1WT3pyaEduM1d1ZlZJRTRuUkFUMnVjVy1ZalVtc0Y4T3Fxa3A2eGZOSFRQQ2d0aTU3cTZFVkVPNjVDS09DQWpwaVhXUDJyUDJEUG9iQzJQTEJGUS0zYWhwZVcyRTNoa1U?oc=5",
+       "title": "정용진, 13년 만에 이마트 대표 복귀…그룹 경영전략실장 없이 정 회장 직할 체제",
+       "date": "2026-10-26"
+      },
+      {
+       "name": "스포츠동아",
+       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5vR0VnZ3dvUnZ6Mm1Bb1YtYXZrQUFSVWU1Q1JpZHBuQXgzSjNOTTMwbmh5OHBYUVcwV3lZbXZtQW90NmczdDk3ZE5ZRFZlNERrbGJ0TmJUOXhhTzhybWtGQVh3bk14dmtQcll4aXdwZ0VIb1U?oc=5",
+       "title": "“정용진의 책임경영” 신세계, 2027년 정기 임원인사",
+       "date": "2026-10-25"
+      },
+      {
+       "name": "국제신문",
+       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeVNMQzRieHJXZEZjS0FsXzE0TnZBLUQ5ZEcyLVhIOS0zVm1hM000dm15cjVXSzBlUVNCOVRqdDdwNW12T2JtZzNrUUx1bTYzRGdyVHBPUnBCZm1DREo3YnNDSlhJeEx2bEZiX3Q3Qm5ObW9FeWJvTURxWUp2WHN3UVc3SzZxWEVrQUNBZkt3?oc=5",
+       "title": "‘책임경영 선언’ 정용진 이마트 대표 내정…신규임원 역대 최대",
+       "date": "2026-10-25"
+      },
+      {
+       "name": "AP신문",
+       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1FZ0Y2dkdhcHpFR0hTRzloNVBEaFRRVGU3SXFlRUdPc1hQMWhta01HaDZ1bTYtZW5lQWdaVndWLTVzUUxsU0R2bkpBM3RKYXNUalNuR2ZCVFJhS0JteGVWYm1fOVMydF9mdEV6Qg?oc=5",
+       "title": "\"이마트 상품본부장 다시 전면에\"…정용진이 김홍극 택한 이유 |",
+       "date": "2026-10-25"
+      },
+      {
+       "name": "아주경제",
+       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE83SzY2dWxiZy1hcURXTkJpTmIxZ2c3aDdFLWR6ZEVWVkQtTU5uRDlSbThkeE5JcDZWQTlNMTV6bTVNbE5JNUpXMzcxY1ZONWkySHdnZDAwWDnSAVhBVV95cUxPN0s2NnVsYmctYXFEV05CaU5iMWdnN2g3RS1kemRFVlZELU1ObkQ5Um04ZHhOSXA2VkE5TTE1em01TWxOSTVKVzM3MWNWTjVpMkh3Z2QwMFg5?oc=5",
+       "title": "신세계 쇄신 신호탄…롯데·CJ·현대百, 연말 인사에 쏠린 눈",
+       "date": "2026-10-25"
+      }
+     ],
+     "date": "2026-10-26",
+     "id": "20261026-00"
+    },
+    {
+     "cat": "labor",
+     "importance": "high",
+     "company": "고용노동부",
+     "title": "고용노동부, 쿠팡 산업안전 및 근로기준 감독 결과 발표",
+     "body": "고용노동부가 쿠팡에 대한 산업안전보건 및 근로기준 감독 결과를 공식 발표했어요. 플랫폼 및 물류센터 근로 환경과 안전보건 준수 여부, 노동시간 관리 실태에 대한 정부 차원의 집중 조사가 이뤄졌어요.",
+     "insight": "스윗트래커·몰테일 등 당사 물류 및 풀필먼트 사업장의 근로시간, 야간근로, 산업안전 관리 체계에 대한 사전 점검이 필요해요.",
+     "action": "물류 계열사의 교대제 근로시간 관리와 물류 거점의 현장 안전 점검 실태를 전수 조사해 보세요.",
+     "teams": [
+      "노무·ER",
+      "보상·복리후생"
+     ],
+     "tags": [
+      "쿠팡",
+      "고용노동부",
+      "근로기준",
+      "산업안전",
+      "물류"
+     ],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "고용노동부 보도자료",
+       "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=20130",
+       "title": "쿠팡 산업안전·근로기준 감독 결과 발표",
+       "date": "2026-10-26"
+      }
+     ],
+     "date": "2026-10-26",
+     "id": "20261026-01"
+    },
+    {
+     "cat": "labor",
+     "importance": "mid",
+     "company": "업계 전반",
+     "title": "기간제·단시간 근로자 무기계약 전환 관리 및 갱신 리스크",
+     "body": "기간제 근로자의 정규직 전환 비율이 15% 수준에 그친다는 조사와 함께, 시프티 등 전문가 채널에서 기간제법상 2년 초과 시 무기계약 전환 예외 사유 및 관리 방안이 공유됐어요.",
+     "insight": "고객센터, 단기 데이터 라벨러, 물류 계약직 등의 갱신 주기 관리 소홀 시 의도치 않은 무기계약 간주 분쟁이 발생할 수 있어요.",
+     "action": "계약직 전원의 근속 기간과 계약 만료 예정일을 재검토하고 무기계약 전환 대상자를 선별해 보세요.",
+     "teams": [
+      "노무·ER",
+      "인사기획"
+     ],
+     "tags": [
+      "기간제",
+      "단시간근로자",
+      "무기계약직",
+      "근로계약"
+     ],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "시프티 블로그",
+       "url": "https://shiftee.io/ko/blog/article/fixed-term-worker-permanent-conversion-criteria",
+       "title": "기간제·단시간근로자의 무기계약직 전환 기준과 예외 사유 총정리 기간제·단시간근로자를 채용해 계약을 반복 갱신하다 보면, 어느 시점부터 근로계약 형태가 달라지는지 판단이 어려운 경우가 많습니... 2026-09-21",
+       "date": "2026-10-26"
+      },
+      {
+       "name": "연합뉴스",
+       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5OSHBGdlJlVnFvQ0JuaUJVN3hOODlkSDFmLWtCTFNFYTVzVTAzcGhHTHFsUTZncEI4YU5LSFR3amlVdkR4YVZTZDREMklBSHF1SW5IQ1hZY1doMHREWUVITdIBYEFVX3lxTE5OSHBGdlJlVnFvQ0JuaUJVN3hOODlkSDFmLWtCTFNFYTVzVTAzcGhHTHFsUTZncEI4YU5LSFR3amlVdkR4YVZTZDREMklBSHF1SW5IQ1hZY1doMHREWUVITQ?oc=5",
+       "title": "\"기간제 노동자 15%만 정규직 전환…60%는 비정규직 되풀이\"",
+       "date": "2026-10-25"
+      },
+      {
+       "name": "뉴시스",
+       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAzTjMwTV8tbWh4X2dvYWVMb2J5UG5RX1UxNkdWWDVpMVN4XzRwRFpVQjJxQ0VCTzdJZjFzaFJCSVJNajJPN0VQUFUtYmNWV3Zqa1BmN2xULXRfYXJKbmgtMktyRzJvTXF1YjVEdDdHbENWWkVPd3RIY9IBeEFVX3lxTFAzTjMwTV8tbWh4X2dvYWVMb2J5UG5RX1UxNkdWWDVpMVN4XzRwRFpVQjJxQ0VCTzdJZjFzaFJCSVJNajJPN0VQUFUtYmNWV3Zqa1BmN2xULXRfYXJKbmgtMktyRzJvTXF1YjVEdDdHbENWWkVPd3RIYw?oc=5",
+       "title": "\"기간제 직원 10명 중 8명은 같은 직장 정규직 못 돼\"",
+       "date": "2026-10-25"
+      },
+      {
+       "name": "데일리안",
+       "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNVGdiWllKUkt1SUl0TFZaOXc3TUxCSTNnUWdGdzBsTVJKTWlucTR2dkt2WVU5YjY3QkZWTUUtUWdHblRVMUdrc0M4XzhLcUpDdF9xUmxHaWUzblZfcHB4a3F0NndYMGVmNm9QNjlDLW9ITGZHLUxRbm9HT3d6QS1QT0ZvdklZM1RtNjU4ZE5fcFBoYm1OX3BZdzhveGJqQmZRVXJXM0laVVFfVW1ua2xuQjhMZHdjSzJSYkRQcXBtTUpSU2EyT00yanlJd1lXdFYtcjZpZ1FqVjBuZ2lBVDBOcW93dHRoSm0xZWNIVXlrbHN1QkczV3NUZkxSZnlWRm5tMUww?oc=5",
+       "title": "2년 일해도 정규직 '남의 일'…기간제 10명 중 6명 비정규직 남았다",
+       "date": "2026-10-25"
+      }
+     ],
+     "date": "2026-10-26",
+     "id": "20261026-06"
+    },
+    {
+     "cat": "trend",
+     "importance": "mid",
+     "company": "아메리칸 익스프레스",
+     "title": "아메리칸 익스프레스, 호실적 속 AI 전환 대비 5% 감원",
+     "body": "아메리칸 익스프레스가 견조한 실적 달성에도 불구하고 AI 도입 확대 및 업무 자동화 대비 차원에서 전 세계 인력의 5%를 감원하기로 결정했어요.",
+     "insight": "AI 생산성 전환이 전통 금융을 넘어 글로벌 플랫폼 및 핀테크 전반의 구조적 인력 조정으로 이어지는 흐름이에요.",
+     "action": "그룹 내 단순 반복 업무 중심의 직무를 분석하고 AI 리스킬링 교육 수요를 파악해 보세요.",
+     "teams": [
+      "채용",
+      "조직문화·HRD"
+     ],
+     "tags": [
+      "AI구조조정",
+      "감원",
+      "핀테크",
+      "조직재편"
+     ],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "알파경제",
+       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5uVVU1LW5TeHg3R3ZXak5qN3VlM3BmN240YzY1WWlqaEppSG9uY1dvZThaY2dCYTVzTDc4Q00xYmhQSnA3cHBpVjR2VTRVMHhGakFJSjE3d3RMY005V3lMTFBNNnJxU2hPOEc5WG13?oc=5",
+       "title": "아메리칸 익스프레스(AXP.N), AI 시대 대비 감원...글로벌 인력 5% 줄인다",
+       "date": "2026-10-26"
+      },
+      {
+       "name": "AI포스트",
+       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAxUUtObllaUm1tLTZXREVRYU41ZjVKLUNqWk15N1hyY1lTZjlqVUFybndFeGF4dE9qckFTRUdSNmxpdlAxbV9ONzlCMEN6NERJN0Y2UVMtRVo5VUtra205REpDS1lhVi16MmtEbFRB0gFyQVVfeXFMT3cwUWptc1B4bktnY1BUTDJvQmlXQjdQb1l1SlBLYlNZVHhDRzdnNjNpUWZFTml4QjhDVE8tbUxaUEVUYUt3aExfSG1KRGVyM2dOUXJ6dThheS01eWZvNFpPTVlKQnFHN2M1SF9abG40cUxn?oc=5",
+       "title": "\"돈 잘 벌지만 AI 쓰려 사람 자른다\"…아메리칸 익스프레스, 호실적 속 감원 단행",
+       "date": "2026-10-25"
+      }
+     ],
+     "date": "2026-10-26",
+     "id": "20261026-04"
+    },
+    {
+     "cat": "ecom",
+     "importance": "mid",
+     "company": "카페24",
+     "title": "카페24, 브랜드 쇼핑몰 전담 운영 대행 서비스 출시",
+     "body": "카페24가 브랜드 쇼핑몰의 운영을 전담 대행하는 엔드투엔드(End-to-End) 신규 서비스를 출시하며 이커머스 솔루션 기능 확장에 나섰어요.",
+     "insight": "메이크샵·플레이오토와 경쟁하는 셀러 솔루션 영역에서 서비스 범위가 확장되고 있어 관련 기획·운영 전문 역량 유치가 중요해졌어요.",
+     "action": "셀러 운영 대행 서비스 전문 인력(운영 기획 및 고객 성공 매니저) 프로파일을 점검해 보세요.",
+     "teams": [
+      "인사기획",
+      "채용"
+     ],
+     "tags": [
+      "카페24",
+      "메이크샵",
+      "셀러솔루션",
+      "이커머스"
+     ],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "신아일보",
+       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBRNjlxMnMtMzM1OVBsaVNvMHVLbTdSWS1Sd25kZHpaUDlmQ19MQXpMdWFSajJNbGItSnREUTRpSUZKT0xCakdtcnNXVlRaVV9oTjVObjRUQU9IRi1mdnJKUlJxaVRkVkRhRDZvTHpzaVk?oc=5",
+       "title": "카페24, 브랜드 쇼핑몰 운영 전담 서비스 출시",
+       "date": "2026-10-25"
+      }
+     ],
+     "date": "2026-10-25",
+     "id": "20261026-03"
+    },
+    {
+     "cat": "trend",
+     "importance": "low",
+     "company": "업계 전반",
+     "title": "혼합근무 환경 속 근태 자동화 및 주 36시간제 관리 가이드",
+     "body": "하이브리드 근무 정착에 따른 그룹웨어 연동 PC-OFF, 임금명세서 자동화 및 주 36시간제 등 유연근무제 도입 기업을 위한 근태관리 프로세스 가이드가 제시됐어요.",
+     "insight": "다양한 근무형태(재택, 현장물류, 거점근무)를 가진 그룹사 구조에서 출퇴근 및 잔업 데이터의 정밀 연동이 급여 오류 방지의 핵심이에요.",
+     "action": "출퇴근 기록 및 PC-OFF 시스템과 급여 정산 연동의 자동화율을 점검해 보세요.",
+     "teams": [
+      "인사기획",
+      "보상·복리후생"
+     ],
+     "tags": [
+      "근태관리",
+      "유연근무제",
+      "PC-OFF",
+      "급여정산"
+     ],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "시프티 블로그",
+       "url": "https://shiftee.io/ko/blog/article/efficient-time-and-attendance-management-automation-2026",
+       "title": "2026년, 근태관리를 효율적으로 하는 방법과 자동화 도입 절차 2026년 기업의 HR 환경은 빠르게 변화하고 있습니다. 혼합 근무제가 일상화되면서 사무직, 외근직, 교대근무 인력이 한 조직... 2026-04-27",
+       "date": "2026-10-26"
+      },
+      {
+       "name": "시프티 블로그",
+       "url": "https://shiftee.io/ko/blog/article/integrated-attendance-management-for-diverse-work-types",
+       "title": "근무형태·근무조건이 다양한 기업을 위한 통합 근태관리 운영 방법 과거의 근태관리는 단순했습니다. 대부분의 직원이 동일한 장소와 시간에 출근하고 퇴근하는 구조였기 때문입니다. 하지만 오늘날의 ... 2026-04-21",
+       "date": "2026-10-26"
+      },
+      {
+       "name": "시프티 블로그",
+       "url": "https://shiftee.io/ko/blog/article/groupware-and-pc-off-integration-for-working-hours-management",
+       "title": "사용중인 그룹웨어와 PC-OFF를 연동해 근로시간관리 체계 구축하기 최근 많은 기업이 그룹웨어를 통해 출퇴근기록과 전자결재를 함께 운영하고 있습니다. 일정 관리, 메신저, 전자결재 기능이 통합된... 2026-06-",
+       "date": "2026-10-26"
+      },
+      {
+       "name": "시프티 블로그",
+       "url": "https://shiftee.io/ko/blog/article/payroll-automation-and-attendance-data-management",
+       "title": "급여정산 오류를 줄이는 근태 데이터 관리와 임금명세서 발송 자동화 전략 매월 급여정산 시즌이 다가오면 인사·급여 담당자는 반복되는 확인 작업과 데이터 검증에 많은 시간을 할애하게 됩니다. 근로시간 ... 2026-0",
+       "date": "2026-10-26"
+      },
+      {
+       "name": "시프티 블로그",
+       "url": "https://shiftee.io/ko/blog/article/attendance-management-software-adoption-checklist",
+       "title": "근태관리 프로그램 선택 가이드: 도입 전 확인할 주요 기능 근태관리는 직원의 출근과 퇴근 시각을 기록하는 것뿐 아니라 근무일정, 휴가, 연장·야간·휴일근로 등 근태정보를 함께 관리하는 ... 2026-10-15",
+       "date": "2026-10-26"
+      },
+      {
+       "name": "시프티 블로그",
+       "url": "https://shiftee.io/ko/blog/article/36-hour-workweek-attendance-management-guide",
+       "title": "주 36시간제 근태관리 방법과 근태관리프로그램 활용 가이드 근로시간 단축과 생산성을 함께 고려하면서 주 36시간제 도입을 준비하는 기업 사례가 등장하고 있습니다. 기존 주 40시간 근무... 2026-10-09",
+       "date": "2026-10-26"
+      },
+      {
+       "name": "시프티 블로그",
+       "url": "https://shiftee.io/ko/blog/article/attendance-management-process-roles-checkpoints",
+       "title": "근태관리란? 단계별 업무와 담당자 역할 분담으로 보는 근태관리 프로세스 근태관리는 근로자의 출퇴근 시간을 기록하는 것부터 시작하지만, 실제 필요한 업무는 근무일정과 근로시간 관리, 연장근무 승인, ... 2026-1",
+       "date": "2026-10-26"
+      }
+     ],
+     "date": "2026-10-26",
+     "id": "20261026-07"
+    },
+    {
+     "cat": "market",
+     "importance": "low",
+     "company": "업계 전반",
+     "title": "채용 기준의 일관성 유지 및 서치펌 파트너십 구축 방안",
+     "body": "채용 과정에서 면접관마다 조건이 추가되어 기준이 흔들리는 현상을 방지하는 평가 프레임워크와 국내 대형 서치펌 10선 등 핵심 채용 채널 활용법이 공유됐어요.",
+     "insight": "개발 및 사업 리더급 채용 시 현업 면접관의 주관적 평가 편차를 줄이고 역량 기준을 구조화해야 채용 실패를 막을 수 있어요.",
+     "action": "직무별 구조화 면접 질문지(Behavioral Interview) 가이드를 현업 평가자에게 재배포해 보세요.",
+     "teams": [
+      "채용"
+     ],
+     "tags": [
+      "구조화면접",
+      "채용기준",
+      "서치펌",
+      "면접관교육"
+     ],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "기고만장",
+       "url": "https://ggmj.kr/hredge/?idx=175254063&bmode=view",
+       "title": "[EPI 483] 인사담당자가 알아두면 좋은 20년이상 된 국내 대형 서치펌 TOP 10 --> --> --> [EPI 483] 인사담당자가 알아두면 좋은 20년이상 된 국내 대형 서치펌 TOP 10 N",
+       "date": "2026-10-26"
+      },
+      {
+       "name": "오프피스트",
+       "url": "https://www.offpiste.ai/articles/면접할-때마다-조건이-추가된다면-흔들리는-채용-기준-바로잡기-2624",
+       "title": "면접할 때마다 조건이 추가된다면 흔들리는 채용 기준 바로잡기",
+       "date": "2026-10-23"
+      }
+     ],
+     "date": "2026-10-26",
+     "id": "20261026-08"
+    }
+   ]
+  },
   {
    "date": "2026-10-23",
    "window_days": 1,
