@@ -56,9 +56,629 @@
     ]
    }
   ],
-  "updated": "2026-10-26T08:59+09:00"
+  "updated": "2026-10-27T09:10+09:00"
  },
  "reports": [
+  {
+   "date": "2026-10-27",
+   "window_days": 1,
+   "article_count": 309,
+   "engine": "없음(제목 기준)",
+   "headline": "오늘은 AI 분석이 실패해 제목 기준으로만 골랐어요",
+   "points": [
+    "수집 기사 309건 중 HR 관련 단어가 있는 25건만 올렸어요",
+    "시사점·팀 태그 없이 기사 제목만 보여드려요"
+   ],
+   "analysis_error": "HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=240)",
+   "items": [
+    {
+     "id": "20261027-f00",
+     "cat": "market",
+     "importance": "low",
+     "teams": [
+      "채용"
+     ],
+     "company": "연합인포맥스",
+     "title": "마이크로소프트, AI 투자 확대 속 또 희망퇴직…대상자 6만명",
+     "body": "마이크로소프트, AI 투자 확대 속 또 희망퇴직…대상자 6만명 연합인포맥스",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "연합인포맥스",
+       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1hbjk3U09rbVo3bkI4Rk9DS0dJbUkwc3RXcHBtVjNDYm5LMjFhYzgycDltbjZtajJOelMydTd0d211cE1mTm8zZTNXV3lUdHBCREgzSG1zNmRCVDhRTU9DNS0ycFB4SGFJRnpXTUh5c3Q?oc=5",
+       "title": "마이크로소프트, AI 투자 확대 속 또 희망퇴직…대상자 6만명",
+       "date": "2026-10-27"
+      }
+     ],
+     "date": "2026-10-27"
+    },
+    {
+     "id": "20261027-f01",
+     "cat": "market",
+     "importance": "low",
+     "teams": [
+      "채용"
+     ],
+     "company": "머니투데이",
+     "title": "MS, 직원 6만명에 희망퇴직 제안…AI 투자 부담에 인력 감축 - 머니투데이",
+     "body": "MS, 직원 6만명에 희망퇴직 제안…AI 투자 부담에 인력 감축 - 머니투데이 머니투데이",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "머니투데이",
+       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAyRUpGbHRIWEZUak0xMzVFZXF0UXpxV0tDTVJSVE15cnRiVHY0R292WVcwa0ozVk5CdWxDbkFHX2xrSEV6UVVObW1wX0xxaGNoSl9rWWlmdEUxaXEwdVZOU3ROOGZtZDAzSUo0ZjB30gFuQVVfeXFMUDJFSkZsdEhYRlRqTTEzNUVlcXRRenFXS0NNUlJUTXlydGJUdjRHb3ZZVzBrSjNWTkJ1bENuQUdfbGtIRXpRVU5tbXBfTHFoY2hKX2tZaWZ0RTFpcTB1Vk5TdE44Zm1kMDNJSjRmMHc?oc=5",
+       "title": "MS, 직원 6만명에 희망퇴직 제안…AI 투자 부담에 인력 감축 - 머니투데이",
+       "date": "2026-10-27"
+      }
+     ],
+     "date": "2026-10-27"
+    },
+    {
+     "id": "20261027-f02",
+     "cat": "market",
+     "importance": "low",
+     "teams": [
+      "채용"
+     ],
+     "company": "뉴스핌",
+     "title": "[미국 특징주] 스카이댄스, 워너브러더스 인수 후 첫 희망퇴직… 800억달러 부채에 '허리띠 졸라매기'",
+     "body": "[미국 특징주] 스카이댄스, 워너브러더스 인수 후 첫 희망퇴직… 800억달러 부채에 '허리띠 졸라매기' 뉴스핌",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "뉴스핌",
+       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1GQ2w1MFVrYmZmM0ZKN0ZnY3VmaXJBQlFkVmprVlVPWGdyRlpEU0NjY2pkb3FxcFVJd09JTERhaFh0RVotdkQ1VnliQVJRWHlOWHFOOUw0dzJraHZ3?oc=5",
+       "title": "[미국 특징주] 스카이댄스, 워너브러더스 인수 후 첫 희망퇴직… 800억달러 부채에 '허리띠 졸라매기'",
+       "date": "2026-10-27"
+      }
+     ],
+     "date": "2026-10-27"
+    },
+    {
+     "id": "20261027-f03",
+     "cat": "market",
+     "importance": "low",
+     "teams": [
+      "채용"
+     ],
+     "company": "뉴스1",
+     "title": "MS, 전 직원 27%에 희망퇴직 제안…\"AI 투자 확대 속 비용절감\"",
+     "body": "MS, 전 직원 27%에 희망퇴직 제안…\"AI 투자 확대 속 비용절감\" 뉴스1",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "뉴스1",
+       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1aM2xmOG1sUk41STlXc19uZmJCSGo5SG50ZDM2U2l0b0FtUUEwZ1IwRVU2bjZlMi1RRTJ2ODh6ZXcxYk9XMXdxaFZyUXdWcjVBYjJ2YkhOcnY?oc=5",
+       "title": "MS, 전 직원 27%에 희망퇴직 제안…\"AI 투자 확대 속 비용절감\"",
+       "date": "2026-10-27"
+      }
+     ],
+     "date": "2026-10-27"
+    },
+    {
+     "id": "20261027-f04",
+     "cat": "market",
+     "importance": "low",
+     "teams": [
+      "채용"
+     ],
+     "company": "파이낸스투데이",
+     "title": "MS, 직원 6만 명에 희망퇴직 제안…AI 중심 사업 재편에 인력 구조조정",
+     "body": "MS, 직원 6만 명에 희망퇴직 제안…AI 중심 사업 재편에 인력 구조조정 파이낸스투데이",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "파이낸스투데이",
+       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5HQjB5ZzJ5QjBhX1FTYUR0UkJscWFlQ2ZaYmJIYWE3UEFJYWQ2UjhVaHVLcVZaaFc1dzZuWGRJbTh4N1Jmb04wZW5XTUJQT1Y5S1dZUUFlenVYckFaSWpaZ2o4VnRGeE80eHFKcQ?oc=5",
+       "title": "MS, 직원 6만 명에 희망퇴직 제안…AI 중심 사업 재편에 인력 구조조정",
+       "date": "2026-10-27"
+      }
+     ],
+     "date": "2026-10-27"
+    },
+    {
+     "id": "20261027-f05",
+     "cat": "market",
+     "importance": "low",
+     "teams": [
+      "채용"
+     ],
+     "company": "알파경제",
+     "title": "마이크로소프트(MSFT.O), AI 시대 맞춰 인력 재편…희망퇴직 시행",
+     "body": "마이크로소프트(MSFT.O), AI 시대 맞춰 인력 재편…희망퇴직 시행 알파경제",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "알파경제",
+       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE50UURHX0tuTUdCVWw3QkxES1cySmU1b2s5VmliQ0UtR2h2dVpoTTV0ZTRLbjUyUmFLSXRFRlZkcVB0bkoxRjZiQ185WW5tT0hYbHNGYnRGX1VRQm10cUZ2QlZzNkRvWlhySnNxVHhR?oc=5",
+       "title": "마이크로소프트(MSFT.O), AI 시대 맞춰 인력 재편…희망퇴직 시행",
+       "date": "2026-10-27"
+      }
+     ],
+     "date": "2026-10-27"
+    },
+    {
+     "id": "20261027-f06",
+     "cat": "market",
+     "importance": "low",
+     "teams": [
+      "채용"
+     ],
+     "company": "이데일리",
+     "title": "MS, AI 투자 부담에 결국…직원 6만명에 희망퇴직 제안",
+     "body": "MS, AI 투자 부담에 결국…직원 6만명에 희망퇴직 제안 이데일리",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "이데일리",
+       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWEdwVmF0SjhIcU1IXzJuZ05NYWp4SVljdU5ldzFCYm5BaWV1NEo0X0g5TXcyUWVjeUtvMmVCYWp6NUgtek1vc015SmZLbkdvQWFmdW85eVpja1JIdUVQOTd1dmpyNElXblo5THptMV95eFQzRDl3NjRMenZyWnp4UA?oc=5",
+       "title": "MS, AI 투자 부담에 결국…직원 6만명에 희망퇴직 제안",
+       "date": "2026-10-27"
+      }
+     ],
+     "date": "2026-10-27"
+    },
+    {
+     "id": "20261027-f07",
+     "cat": "market",
+     "importance": "low",
+     "teams": [
+      "채용"
+     ],
+     "company": "GeekNews",
+     "title": "Microsoft, 전체 직원 약 4분의 1에 대규모 희망퇴직 제안",
+     "body": "Microsoft, 전체 직원 약 4분의 1에 대규모 희망퇴직 제안 GeekNews",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "GeekNews",
+       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA1Yk1XbHRxcy14Q1RVUXJJYWhHZExsdlkwZTlXQ25UQS1Ic3BzZEZKM2FWcHU1VGNZSGhVcnloeW1UQnJsOTNQcldUaw?oc=5",
+       "title": "Microsoft, 전체 직원 약 4분의 1에 대규모 희망퇴직 제안",
+       "date": "2026-10-27"
+      }
+     ],
+     "date": "2026-10-27"
+    },
+    {
+     "id": "20261027-f08",
+     "cat": "market",
+     "importance": "low",
+     "teams": [
+      "채용"
+     ],
+     "company": "매일일보",
+     "title": "GS글로벌·에스엘 등 하반기 신입 채용…인턴 모집 활발",
+     "body": "GS글로벌·에스엘 등 하반기 신입 채용…인턴 모집 활발 매일일보",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "매일일보",
+       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9SeURQRDJjeENuVWZLNXNIZ0c3Z0pNUHNZekY1X1huSU1jNm1ocHpBWW5VNTNlZVBvTW50RVFGVGZRZi0zODUzNVFfRDd6UEtGRmxxd2d6bnZ2UHdrNnlRNHRvTFo?oc=5",
+       "title": "GS글로벌·에스엘 등 하반기 신입 채용…인턴 모집 활발",
+       "date": "2026-10-27"
+      }
+     ],
+     "date": "2026-10-27"
+    },
+    {
+     "id": "20261027-f09",
+     "cat": "market",
+     "importance": "low",
+     "teams": [
+      "채용"
+     ],
+     "company": "비욘드포스트",
+     "title": "GS글로벌·에스엘·카카오게임즈 등 신입·인턴 채용 진행",
+     "body": "GS글로벌·에스엘·카카오게임즈 등 신입·인턴 채용 진행 비욘드포스트",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "비욘드포스트",
+       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBObXFPeTNmS2xPcUs0OXhHMlFfVERmd0hpcHZXdHJIQUxYQVp3WHdELXJxQXVRZldnaVF4QjdWakxLcWVUeGlfWlU1YzhIZDRpZEtwX1ZSNUFqZ243dUc3aFdUakdNaDFNMzNLV1FVbmVnTW1Icjdhd1BaTnA?oc=5",
+       "title": "GS글로벌·에스엘·카카오게임즈 등 신입·인턴 채용 진행",
+       "date": "2026-10-27"
+      }
+     ],
+     "date": "2026-10-27"
+    },
+    {
+     "id": "20261027-f10",
+     "cat": "market",
+     "importance": "low",
+     "teams": [
+      "채용"
+     ],
+     "company": "싱글리스트",
+     "title": "GS글로벌·에스엘·BGF로지스·카카오게임즈…10월 신입·인턴채용",
+     "body": "GS글로벌·에스엘·BGF로지스·카카오게임즈…10월 신입·인턴채용 싱글리스트",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "싱글리스트",
+       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9EbkpaU243Rkp2T3NhS25FR1J0WUItTkhYdHI5NjhLRjNrQkFPWmx1NzZISVRmRmktRVBYOWNvdy1vbm14RjBSRW5NY1F0cm44VnJTOUdpcmYtV0xob1pQcm1WcTY2dw?oc=5",
+       "title": "GS글로벌·에스엘·BGF로지스·카카오게임즈…10월 신입·인턴채용",
+       "date": "2026-10-27"
+      }
+     ],
+     "date": "2026-10-27"
+    },
+    {
+     "id": "20261027-f11",
+     "cat": "market",
+     "importance": "low",
+     "teams": [
+      "채용"
+     ],
+     "company": "피앤피뉴스",
+     "title": "GS글로벌·에스엘 등 하반기 신입 채용…BGF로지스·카카오게임즈 인턴 모집",
+     "body": "GS글로벌·에스엘 등 하반기 신입 채용…BGF로지스·카카오게임즈 인턴 모집 피앤피뉴스",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "피앤피뉴스",
+       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFByZmlWcmJCME5FWTVaay1GTnpYNkpXbHFybzZndzlWWllzeFVUR3RPRVpaalNrd1hxelNOV3VXNjZndnYxTzFjOWxoTElVcnAxbkRXNVpn?oc=5",
+       "title": "GS글로벌·에스엘 등 하반기 신입 채용…BGF로지스·카카오게임즈 인턴 모집",
+       "date": "2026-10-27"
+      }
+     ],
+     "date": "2026-10-27"
+    },
+    {
+     "id": "20261027-f12",
+     "cat": "market",
+     "importance": "low",
+     "teams": [
+      "채용"
+     ],
+     "company": "로이슈",
+     "title": "GS글로벌·에스엘·이카운트 등 하반기 신입 채용…BGF로지스·카카오게임즈 인턴 모집",
+     "body": "GS글로벌·에스엘·이카운트 등 하반기 신입 채용…BGF로지스·카카오게임즈 인턴 모집 로이슈",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "로이슈",
+       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBkTXZia0x0MHlfTHlwNlRCT2Z3enJudlEyWGVPbC1oZEN1aDFBVW8tNXUyZjBrVkNwcHQ2V041cWc0SGZlOUZMbTE2NGNKdko1OENldjY3UGRhQ1FTUk04TXlqaV9JbEYzTTJYLTZPcU5PX3RHUk1USWdR?oc=5",
+       "title": "GS글로벌·에스엘·이카운트 등 하반기 신입 채용…BGF로지스·카카오게임즈 인턴 모집",
+       "date": "2026-10-27"
+      }
+     ],
+     "date": "2026-10-27"
+    },
+    {
+     "id": "20261027-f13",
+     "cat": "market",
+     "importance": "low",
+     "teams": [
+      "채용"
+     ],
+     "company": "비즈월드",
+     "title": "iM증권, 신입사원 공개채용…11월 8일까지 접수",
+     "body": "iM증권, 신입사원 공개채용…11월 8일까지 접수 비즈월드",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "비즈월드",
+       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBkSTRxRlVESkplX2o2ZkMxOHJDeF9mc2V4QWpLRnpUa25pamhzN0hVRDN3NkZjc1lIR1o3cURNYjN4aldDWEg2VkRXczlob0tpdWp4Nzl3YkJjS0xzNU9lRHc4ZEwwczd1alE?oc=5",
+       "title": "iM증권, 신입사원 공개채용…11월 8일까지 접수",
+       "date": "2026-10-27"
+      }
+     ],
+     "date": "2026-10-27"
+    },
+    {
+     "id": "20261027-f14",
+     "cat": "market",
+     "importance": "low",
+     "teams": [
+      "채용"
+     ],
+     "company": "블루밍비트",
+     "title": "마이크로소프트, 직원 6만명 대상 희망퇴직 제안",
+     "body": "마이크로소프트, 직원 6만명 대상 희망퇴직 제안 블루밍비트",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "블루밍비트",
+       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5hOGRhcjlvTjd3YWhOemkzWk1zUVhMR05iSG5oX29lWk5sZzExcEhnS3VhTUhTcWZQbzdrZFI1RjlXRjF0b2R2dUJkTWQ5by1G?oc=5",
+       "title": "마이크로소프트, 직원 6만명 대상 희망퇴직 제안",
+       "date": "2026-10-27"
+      }
+     ],
+     "date": "2026-10-27"
+    },
+    {
+     "id": "20261027-f15",
+     "cat": "market",
+     "importance": "low",
+     "teams": [
+      "채용"
+     ],
+     "company": "한국공공정책신문",
+     "title": "재난 시나리오에 묻힌 오늘의 AI 피해 — 채용·금융·정보 소비 현장부터 규제해야",
+     "body": "재난 시나리오에 묻힌 오늘의 AI 피해 — 채용·금융·정보 소비 현장부터 규제해야 한국공공정책신문",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "한국공공정책신문",
+       "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1ETGhXQjNhNXgxaUx6QjNFWVdNQmY1WGVBdE1RRTFmdjZUNnFSMzJsYWZrb2NDU3RKb0hwc2VOcDg4UU0?oc=5",
+       "title": "재난 시나리오에 묻힌 오늘의 AI 피해 — 채용·금융·정보 소비 현장부터 규제해야",
+       "date": "2026-10-27"
+      }
+     ],
+     "date": "2026-10-27"
+    },
+    {
+     "id": "20261027-f16",
+     "cat": "market",
+     "importance": "low",
+     "teams": [
+      "채용"
+     ],
+     "company": "라디오코리아",
+     "title": "넷플릭스, 실적 호조에도 구조조정...왜?",
+     "body": "넷플릭스, 실적 호조에도 구조조정...왜? 라디오코리아",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "라디오코리아",
+       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5hVE96S2FxRVZhY05RZTVPd051RmpkYXRHaW5ncGxnQ2ZkZDhoZm4zdzFSYkhWRWpDdWhTT0dGSzZKcjkySk9xSm92WUJ0aXRXUlR1RFVfMG03NENXRVpaTjZyS1E?oc=5",
+       "title": "넷플릭스, 실적 호조에도 구조조정...왜?",
+       "date": "2026-10-27"
+      }
+     ],
+     "date": "2026-10-27"
+    },
+    {
+     "id": "20261027-f17",
+     "cat": "market",
+     "importance": "low",
+     "teams": [
+      "채용"
+     ],
+     "company": "SeattleN",
+     "title": "[긴급]마이크로소프트, 직원 6만명에 희망퇴직 제안…전체 인력 4분의 1 대상 > 시애틀 뉴스/핫이슈",
+     "body": "[긴급]마이크로소프트, 직원 6만명에 희망퇴직 제안…전체 인력 4분의 1 대상 > 시애틀 뉴스/핫이슈 SeattleN",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "SeattleN",
+       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1xZzJhZnJ0S3ZsREhkU1d3MTBtN196OXVUby1LS2xQd0xDWHRmRl9XaDExX1JrUDdmemNCWVBNcmtSN0swZ21WdWdn?oc=5",
+       "title": "[긴급]마이크로소프트, 직원 6만명에 희망퇴직 제안…전체 인력 4분의 1 대상 > 시애틀 뉴스/핫이슈",
+       "date": "2026-10-27"
+      }
+     ],
+     "date": "2026-10-27"
+    },
+    {
+     "id": "20261027-f18",
+     "cat": "market",
+     "importance": "low",
+     "teams": [
+      "채용"
+     ],
+     "company": "시애틀코리안데일리",
+     "title": "마이크로소프트, 직원 4분의 1에 '자발적 퇴직' 제안…약 6만 명 대상",
+     "body": "마이크로소프트, 직원 4분의 1에 '자발적 퇴직' 제안…약 6만 명 대상 시애틀코리안데일리",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "시애틀코리안데일리",
+       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBLLUN5TTc4aEhmakgtTWg1WU1CU2poQ3pjdkl1TlFQM1JJSlMzeWh6WTl5QjdBaGloUFc1UzZIRURraVZkM2dURmFGSV9KdlVQT0lpTlFqa0N5cUZTRnBrcGExcmtybjlkNGxEVktMRXV0M3PSAXNBVV95cUxQSy1DeU03OGhIZmpILU1oNVlNQlNqaEN6Y3ZJdU5RUDNSSUpTM3loelk5eUI3QWhpaFBXNVM2SEVEa2lWZDNnVEZhRklfSnZVUE9JaU5RamtDeXFGU0Zwa3BhMXJrcm45ZDRsRFZLTEV1dDNz?oc=5",
+       "title": "마이크로소프트, 직원 4분의 1에 '자발적 퇴직' 제안…약 6만 명 대상",
+       "date": "2026-10-27"
+      }
+     ],
+     "date": "2026-10-27"
+    },
+    {
+     "id": "20261027-f19",
+     "cat": "trend",
+     "importance": "low",
+     "teams": [
+      "인사기획",
+      "조직문화·HRD"
+     ],
+     "company": "The Economy Korea",
+     "title": "[딥컬쳐] 재택근무가 넓힌 취업 문턱, 사무실 복귀에 고용 위축 우려",
+     "body": "[딥컬쳐] 재택근무가 넓힌 취업 문턱, 사무실 복귀에 고용 위축 우려 The Economy Korea",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "The Economy Korea",
+       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9WUlNYUTB6TUtyZjN4aWd0QUpCUVdia01pZDlrOS1RM25uQjlrb2o3MjFTaUt2TzkxNDEtS3c1dkFWQVY0SlJPdGVpQWVMcVpIWENSeDBMdWI2eThZS0E?oc=5",
+       "title": "[딥컬쳐] 재택근무가 넓힌 취업 문턱, 사무실 복귀에 고용 위축 우려",
+       "date": "2026-10-27"
+      }
+     ],
+     "date": "2026-10-27"
+    },
+    {
+     "id": "20261027-f20",
+     "cat": "labor",
+     "importance": "low",
+     "teams": [
+      "노무·ER",
+      "보상·복리후생"
+     ],
+     "company": "뉴시스",
+     "title": "오늘 노동부 종합국감…초광역특구 '주52시간 예외' 공방 이어질 듯",
+     "body": "오늘 노동부 종합국감…초광역특구 '주52시간 예외' 공방 이어질 듯 뉴시스",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "뉴시스",
+       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9XckFHU0tIelM3LWxIbElwS1dSTzRpeEtXTHQyUFJZdjFEVmhaLWgxa2NyRVpicW9YRThzMFRxbVU4bkVvSkszOEtheUpWaFFIN3JHUGt2UzFZU1lYQl9jZWt2WDB1cXZXeGI3WWVMWG5RckdIU3Z6ZtIBeEFVX3lxTE9XckFHU0tIelM3LWxIbElwS1dSTzRpeEtXTHQyUFJZdjFEVmhaLWgxa2NyRVpicW9YRThzMFRxbVU4bkVvSkszOEtheUpWaFFIN3JHUGt2UzFZU1lYQl9jZWt2WDB1cXZXeGI3WWVMWG5RckdIU3Z6Zg?oc=5",
+       "title": "오늘 노동부 종합국감…초광역특구 '주52시간 예외' 공방 이어질 듯",
+       "date": "2026-10-27"
+      }
+     ],
+     "date": "2026-10-27"
+    },
+    {
+     "id": "20261027-f21",
+     "cat": "labor",
+     "importance": "low",
+     "teams": [
+      "노무·ER",
+      "보상·복리후생"
+     ],
+     "company": "기호일보",
+     "title": "‘지방직’ 노동감독관도 ‘국가직’ 소방관도 인건비는 지자체 몫?",
+     "body": "‘지방직’ 노동감독관도 ‘국가직’ 소방관도 인건비는 지자체 몫? 기호일보",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "기호일보",
+       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1paEhod05mTjZnX1oxSm9MdGtGVWtpekFGMDNxNEY5NVc0dm9EM3dmWk5pZUlXeDlMeXkxVXZINTlhY1U0UkhoVlRvY1NlVUtNSzF5YkdvYkU2RG94MWRkbHlSZW90ZDBtYVRXNmJLOA?oc=5",
+       "title": "‘지방직’ 노동감독관도 ‘국가직’ 소방관도 인건비는 지자체 몫?",
+       "date": "2026-10-27"
+      }
+     ],
+     "date": "2026-10-27"
+    },
+    {
+     "id": "20261027-f22",
+     "cat": "labor",
+     "importance": "low",
+     "teams": [
+      "노무·ER",
+      "보상·복리후생"
+     ],
+     "company": "누리일보",
+     "title": "31억 투입 고용노동부 ‘노동법 챗봇’…현행법도 틀렸다",
+     "body": "31억 투입 고용노동부 ‘노동법 챗봇’…현행법도 틀렸다 누리일보",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "누리일보",
+       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE42aVo1UHJ4aGZQUUMwNy1GXzN2SWtyNjRxQUdBZjcxcEF2T0JmY2FmdjZud1VLNDMzVFFseTNEeGE5UnAzMXhWVjlwTVVDMmlyVF9pRzRSZWZvZmV5V1JV?oc=5",
+       "title": "31억 투입 고용노동부 ‘노동법 챗봇’…현행법도 틀렸다",
+       "date": "2026-10-27"
+      }
+     ],
+     "date": "2026-10-27"
+    },
+    {
+     "id": "20261027-f23",
+     "cat": "labor",
+     "importance": "low",
+     "teams": [
+      "노무·ER",
+      "보상·복리후생"
+     ],
+     "company": "연합뉴스",
+     "title": "20년 전 기준에 머문 근로감독관 교육자료…\"대법판례 역행\"",
+     "body": "20년 전 기준에 머문 근로감독관 교육자료…\"대법판례 역행\" 연합뉴스",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "연합뉴스",
+       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE84QzNlN21PaEFIc0lYR3IyeGlNc0hhMWcxYk1PZDdXSGY2ZXNtZDJXSDk1bVJIX2djVm53SWxpNVJzNlhBenZmakdZaTNtZk96bC1ocFR3OGVlODNOOGYtbtIBYEFVX3lxTE84QzNlN21PaEFIc0lYR3IyeGlNc0hhMWcxYk1PZDdXSGY2ZXNtZDJXSDk1bVJIX2djVm53SWxpNVJzNlhBenZmakdZaTNtZk96bC1ocFR3OGVlODNOOGYtbg?oc=5",
+       "title": "20년 전 기준에 머문 근로감독관 교육자료…\"대법판례 역행\"",
+       "date": "2026-10-27"
+      }
+     ],
+     "date": "2026-10-27"
+    },
+    {
+     "id": "20261027-f24",
+     "cat": "labor",
+     "importance": "low",
+     "teams": [
+      "노무·ER",
+      "보상·복리후생"
+     ],
+     "company": "연합뉴스",
+     "title": "고용센터 취업상담사 1인당 관리인원 최대 11.5배차…지역 쏠림",
+     "body": "고용센터 취업상담사 1인당 관리인원 최대 11.5배차…지역 쏠림 연합뉴스",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "연합뉴스",
+       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBMcjREODdLZWdyUk5nU3JDNnQweGg1T19Ba1ZaUjNETTZ4dUozTUM3Vzd1LXdMdDhVTnZCVjJldUVCZklzWkQyYUoxT3dDTU1NODIwU0VHQ2xxNFhueXp4RtIBYEFVX3lxTFBMcjREODdLZWdyUk5nU3JDNnQweGg1T19Ba1ZaUjNETTZ4dUozTUM3Vzd1LXdMdDhVTnZCVjJldUVCZklzWkQyYUoxT3dDTU1NODIwU0VHQ2xxNFhueXp4Rg?oc=5",
+       "title": "고용센터 취업상담사 1인당 관리인원 최대 11.5배차…지역 쏠림",
+       "date": "2026-10-27"
+      }
+     ],
+     "date": "2026-10-27"
+    }
+   ]
+  },
   {
    "date": "2026-10-26",
    "window_days": 1,
