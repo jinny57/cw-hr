@@ -56,9 +56,498 @@
     ]
    }
   ],
-  "updated": "2026-10-27T09:10+09:00"
+  "updated": "2026-10-28T09:13+09:00"
  },
  "reports": [
+  {
+   "date": "2026-10-28",
+   "window_days": 1,
+   "article_count": 298,
+   "engine": "gemini-3-flash-preview",
+   "headline": "MS 6만 명 희망퇴직 및 카카오 AI 면접 도입 등 HR 기술 변화 가속",
+   "points": [
+    "마이크로소프트가 AI 투자 확대를 위해 전 세계 인력의 약 27%인 6만 명 규모 희망퇴직을 실시해요.",
+    "카카오가 채용 효율화를 위해 AI 사전 인터뷰와 인성검사를 전 직군에 도입하며 절차를 개편해요.",
+    "산업안전보건법 개정으로 산재 사망 발생 시 영업이익의 5%까지 과징금이 부과되는 등 규제가 강화돼요."
+   ],
+   "items": [
+    {
+     "cat": "market",
+     "importance": "high",
+     "company": "마이크로소프트(MS)",
+     "title": "MS, AI 투자 재원 확보 위해 6만 명 희망퇴직 실시",
+     "body": "마이크로소프트가 전 세계 인력의 약 27%에 해당하는 6만 명을 대상으로 희망퇴직을 제안했어요. AI 분야 투자를 늘리기 위한 인력 구조조정의 일환이며, 데이터센터 부문을 제외한 전방위적 감원이 예상돼요. 한국법인은 이번 대상에서 제외된 것으로 알려졌어요.",
+     "insight": "글로벌 빅테크의 대규모 인력 유입 신호예요. 특히 클라우드와 AI 인프라 외의 소프트웨어 엔지니어 및 기획 인력이 시장에 대거 나올 수 있어 우수 인재 영입 기회로 활용 가능해요.",
+     "action": "글로벌 테크 기업 출신 핵심 인재들의 이직 동향을 모니터링하고, 필요시 다이렉트 소싱을 강화해 보세요.",
+     "teams": [
+      "채용"
+     ],
+     "tags": [
+      "희망퇴직",
+      "빅테크",
+      "AI투자",
+      "인재유입"
+     ],
+     "our_group": false,
+     "talent": {
+      "level": "high",
+      "signal": "대규모 희망퇴직 실시 — 글로벌 수준의 개발·기획 인력 시장 유입 예상"
+     },
+     "sources": [
+      {
+       "name": "조선일보",
+       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPR2RiYUNEWDdyQ2Jfbk9LUGN0SUlObXU3SndyNU84TTd4dFdvckhsTjNYcVlsbGVuRmVHLVNTcmo3MENldDVjNlhvaV93dmRlOVZIQ3Z2OFVmMU05SmRXRlE1ZllaM0lZZERkWVJ3X18yeFZ5QnZSTUNZMFJlUnpDem1SUQ?oc=5",
+       "title": "MS, 직원 6만명에게 희망퇴직 제안",
+       "date": "2026-10-28"
+      },
+      {
+       "name": "라디오코리아",
+       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5vX0lhaEV3VVVnMkhYTk40SURvQVdEdTBWY3JKMmg5UTNkVXlMeEV1bU1zdTNKUGRGSDU4bEYxRWFuUTBpN0dCbEh5QVlrODRqZ251WnBmVk1XR1hsTTFxVDB4dnQ?oc=5",
+       "title": "“AI 투자 늘리더니 인력 감축?”…MS, 직원 6만 명에 희망퇴직 제안",
+       "date": "2026-10-28"
+      },
+      {
+       "name": "포춘코리아",
+       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5rZHkzQ1hESVh6SWJvWElDQ0Z6S2dsVGVkM1czQ2JENGRWODJqY1RaU0lBQjJwajFBaE5NTk9uVTlHekRfSDY1OGgwMnpxLTJLckhpSWUxd1M5X0NWdGVlWExlZVV6dHAxRnRCOWZfbHJRLWd0MnfSAXZBVV95cUxOa2R5M0NYRElYeklib1hJQ0NGektnbFRlZDNXM0NiRDRkVjgyamNUWlNJQUIycGoxQWhOTU5PblU5R3pEX0g2NThoMDJ6cS0yS3JIaUllMXdTOV9DVnRlZVhMZWVVenRwMUZ0QjlmX2xyUS1ndDJ3?oc=5",
+       "title": "MS, 전체 직원 약 30%에 희망퇴직 제안…AI 투자 확대 속 인력 재편",
+       "date": "2026-10-27"
+      },
+      {
+       "name": "중앙일보",
+       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBETXE0d1pLXy01Q1hvQ2ZaUE5GandFRXg1SHk1dTlUOHpadk1lejRsZFI3NVlfTlhKQzE2RUhoVkhYRndLcXExS2ZGaDdWb05RcnNRV0x3?oc=5",
+       "title": "MS, AI 투자 확대 속 전체 직원의 27% 대상 희망퇴직 실시",
+       "date": "2026-10-27"
+      },
+      {
+       "name": "NHKニュース",
+       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9GSUhpZE5tNjUtNGo0emJXMW0xU2Z6eGhCZ21FSjllMXBKZVQzNnZlRTlRbGs3X25DbWNRbnNQbkJXRndpZHI1Sl9scUZOb3Z3b3R2RzNjWEtiNlNGWEpyNWc5MUo?oc=5",
+       "title": "마이크로소프트 희망퇴직자 모집, 대상 6만여 명",
+       "date": "2026-10-27"
+      },
+      {
+       "name": "뷰어스",
+       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9pQldQa2h2WHoyNVBoQURQYjN5RlVRWDIzUFFBVlF2OWtwblJpdFU0anUyNmhsZnBHcl9acjhIQndndHlKcDRUa0xLYlRWbjZ4aDdoT2Ztdi0?oc=5",
+       "title": "MS, 직원 6만명 대상 희망퇴직…AI 투자 확대 속 인력 재편",
+       "date": "2026-10-27"
+      },
+      {
+       "name": "전자신문",
+       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBGSnYtcDB3X3dfcmg5TTQzMl9Pd25BQnVQcXlERC1EOFM1RElkU1R6RDJ4SDQxR3BiNUg4QV84Ynlna1R1cnpVVUpINXlXZw?oc=5",
+       "title": "MS, 직원 6만명에 희망퇴직 제안…“AI 투자 효율성 제고”",
+       "date": "2026-10-27"
+      },
+      {
+       "name": "IT조선",
+       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8wWGhmaGd3RzlLVFBTa3VKWmFDZGtveHlabW91aDRkYXJGQXlTSW9LdThvdG55UUpIYm1lTXdIS3EtSHZibjJid3NQUjZtd2xiZDFmSHluOVRid1FDT2FkT1hOd1huZ05xMGxTSlNveGV0ZERu0gF0QVVfeXFMTzBYaGZoZ3dHOUtUUFNrdUpaYUNka294eVptb3VoNGRhckZBeVNJb0t1OG90bnlRSkhibWVNd0hLcS1IdmJuMmJ3c1BSNm13bGJkMWZIeW45VGJ3UUNPYWRPWE53WG5nTnEwbFNKU294ZXRkRG4?oc=5",
+       "title": "AI 키우는 MS, 6만명 희망퇴직",
+       "date": "2026-10-27"
+      },
+      {
+       "name": "BeInCrypto",
+       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE80UDBERHFZaEZTVVlVd3dGN0dPWjR1M295Tmt6Vm5oLTRQUW1mMHdlQW1QeTJTU2JESWhYcHBVaUFyd0U4Y2FuekhMbVBBeEtBRjZPem5TSWxnbUJ3TjVmWE5kSzRubE53OGF5NUc3R0ZfSkd3elJrYg?oc=5",
+       "title": "마이크로소프트, 6만명 퇴출 임박…실적 발표 앞두다",
+       "date": "2026-10-27"
+      },
+      {
+       "name": "데일리안",
+       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5VMGJ6NDZzdXc0R3A2ZTFZcG8zUWNsajlWb3IwVE5Ba3ZFSlBWYnozUmhSMkZuTXdTdF85S2lrdEl6SXRvN1lXYlRMU0ZiTmpEb0I1RQ?oc=5",
+       "title": "마이크로소프트, 직원 6만명에 희망퇴직 제안…한국법인은 제외",
+       "date": "2026-10-27"
+      },
+      {
+       "name": "연합뉴스",
+       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBGeDNuLWhfaHJnRGZSSEM4YlJwcXhnbzdRNzlILUR6WmJnX3NqamVIek55X3ZnTExNaFUyY2x2N3BJNDFzN0tQTlhnUS14ZU1LdW9OUmVuVXVkaWfSAWBBVV95cUxQR1JObkpFcTRUeWxjaFUzSjhsc0RXQzBpdi1BMmppb3pkdWVuQlRkRFFuNHlLalZjZzdacV91UngwNmNPd2F6TXBQbHBzMW5rX2J1Y0pjdE1OSXZxRHUzSC0?oc=5",
+       "title": "MS, AI 지출에 또 감원…전세계 인력 4분의1 대상으로 희망퇴직",
+       "date": "2026-10-27"
+      },
+      {
+       "name": "팸타임스 FAM Times",
+       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBFMllQX1puZ2psX196RmRma29Rc2tSTWg1a2pfQ1hhd0ZlSWM2aG4zcGV3YmVJQXJWeW1oVGxSLXYzQkRuMGFYcnBlcjNQZHNkZTFRTkEzMGFyekNwNXM0bXAwV2l0OUdrd20zcnhn?oc=5",
+       "title": "MS, 직원 4분의 1인 6만 명에 퇴직 제안…AI 투자 속 인력 재편",
+       "date": "2026-10-27"
+      },
+      {
+       "name": "조선일보",
+       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNLW1kUGtNbG5zazRSLXMxZGVjQVNDb21icHlScFlMXy1KVFFoUTFoREZZemw2ZjU5OGZkc1hjU1VRZFNJaUxVYTBMaENEckVKRTBUaXd4MkZ5SF80OXNJenJEYVZBbFh2aGdIdEhGOHhTNEM4V1NLUEs2N3lHdmptUWZNbw?oc=5",
+       "title": "MS조차 AI發 구조조정... 6만명에 희망퇴직 실시",
+       "date": "2026-10-27"
+      },
+      {
+       "name": "한국일보",
+       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB1Y2Y4QlQxZUNFNjJEUG9sTTFiWUhMd1pmX2RtbGxrSHowYWl0WnpaQkFVTFhwUjRIb2NUeUdjTkd3dmVFTTRSbEx2b1ZhNWRqQkNvc2w2XzZrQUpZTi0wUktLejNyZWhTUk90Y0dB0gFzQVVfeXFMUHNBQU8yZ2ZDZklPRk14TThkTHpfQV9MYW43ZTg1ODFyZHdvYTlNeVZXUVlTT3owSU1MSjQ3OXllU2R4X29xNDFFNHhJU2Y4VzlLUWVaSWRQbHVWR05JVl9EemFKZWlvSnc1ZkQwSERDb25JTQ?oc=5",
+       "title": "'AI 투자비 허덕'…MS 6만명 희망퇴직, 메타는 135조원 주식 발행",
+       "date": "2026-10-27"
+      },
+      {
+       "name": "YTN",
+       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5LQnc0dExUR1BnaVkweFc0dW9adVh4NTZFZ1pGUzZqajhYYW00T29ZckNyOURXOXdBUEh5QWxMbWVIWTRWMi01SzF4OHJvbFBoZ3hfWTkzUDRDbkU0cGc?oc=5",
+       "title": "\"최대 6만 명 짐 싼다\"...MS, 데이터센터 빼고 전방위 감원",
+       "date": "2026-10-27"
+      },
+      {
+       "name": "Chosunbiz",
+       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbDVnRGFpOGs4Q1hQNUFXcHg5T21fTklKSy1TSFpmVDFXQ2J4TU82bHpROUFqNW9FZVZBS2FVXzB1N001TV83WVVNTGw2QnlPMjl1N0hFTGNSWjUzd2dOSFVRekdlQTBzelRkOENNY1drakNLTC1XcWd3WlluOGhhUnBSWFFuUklqRkFONGZPdHlmbEJhZXfSAZYBQVVfeXFMT2w1Z0RhaThrOENYUDVBV3B4OU9tX05JSkstU0haZlQxV0NieE1PNmx6UTlBajVvRWVWQUthVV8wdTdNNU1fN1lVTUxsNkJ5TzI5dTdIRUxjUlo1M3dnTkhVUXpHZUEwc3pUZDhDTWNXa2pDS0wtV3Fnd1pZbjhoYVJwUlhRblJJakZBTjRmT3R5ZmxCYWV3?oc=5",
+       "title": "MS, 직원 6만명에 자발적 퇴사 제안…AI 투자 확대 속 인력 재편",
+       "date": "2026-10-27"
+      },
+      {
+       "name": "국민일보",
+       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ZTVhWV1ZTOTBTY2lneWpJRER1M21pOVVRLVpfZVN0cGI0S1RpVHBtT0NSMWxvTmQ0N2hfMDgwNjhjaXdzN3NnalQ2alNRdzRmVVZQTTduejk?oc=5",
+       "title": "AI발 구조조정 본격화?…MS, 직원 27% ‘희망퇴직’ 제안",
+       "date": "2026-10-27"
+      }
+     ],
+     "date": "2026-10-28",
+     "id": "20261028-00"
+    },
+    {
+     "cat": "trend",
+     "importance": "high",
+     "company": "카카오",
+     "title": "카카오, 채용 전 과정에 AI 사전 인터뷰 도입",
+     "body": "카카오가 신입 및 경력 채용 시 AI를 활용한 사전 인터뷰와 인성검사를 도입하기로 했어요. 기존의 대면/화상 면접 전 단계에서 AI가 질문을 던지고 평가 데이터를 보조적으로 활용하는 방식이에요. 최종 합격 판단은 여전히 사람이 담당하지만, 채용 효율성을 대폭 높이려는 시도예요.",
+     "insight": "동종 업계 리딩 기업이 AI 채용을 공식화함에 따라, 지원자들의 AI 면접 경험이 보편화될 것으로 보여요. 우리 그룹도 대규모 채용 시 효율성 제고를 위한 AI 툴 검토가 필요할 수 있어요.",
+     "action": "현재 운영 중인 채용 프로세스 중 AI 도입 시 효율이 가장 높을 구간(예: 서류 스크리닝, 사전 인터뷰)을 검토해 보세요.",
+     "teams": [
+      "채용",
+      "인사기획"
+     ],
+     "tags": [
+      "AI채용",
+      "면접혁신",
+      "채용효율화",
+      "HR테크"
+     ],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "아이뉴스24",
+       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1JemM4bV8wLXdnV245aUEwTXNraXZKVnpKeHJVbC16THc2c3RQS2JGQWhRQm5GdjFDZUpIZ1NaUXV2ZkUtZml1UlhjZw?oc=5",
+       "title": "카카오, 채용 과정에 AI 활용한 사전 인터뷰 추진⋯\"기존 절차 강화\"",
+       "date": "2026-10-28"
+      },
+      {
+       "name": "테크42",
+       "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPVVpnQTNzdG5FVnJTbWpnY01leHpZT20xQWNmeEh1OFktSUgyV2tkVVNNMnRObjNxTGo3V0RQd001MEJRanZ2dHVFX3B1cVlEZWZ2bG1MNUtlSGN6TVJJUXZFZnlDR05aQkk3elFPVkRHZFFkb3ltdmcwRjJVN1o5RnF0dUxNTGdoLU9MTlliZmk1U2xMQ3FxYmdocXFmR3FKTzFQQTdCbEpRM3NMMkVkLWhnTmlKUG9jV3BoM1MxTEJySnJWUF95ZHhlTi1ELTI0UmVFNGZaUDJKNEVRcmNWMEhlN0t3d3picG9Tc3AyZ1ZYbTRtWmNlWnJ1T1JLTG1jbHpOTlQzeFhlT0QxTmlQN1JnZkFCdEZBMEdfa3ZHZFhGM0FkaHlNUDVCNU9sc3phYVE?oc=5",
+       "title": "'AI가 묻고 사람이 고른다'…카카오, 채용 사전 인터뷰 AI 전환",
+       "date": "2026-10-28"
+      },
+      {
+       "name": "Chosunbiz",
+       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcEpOZmdua3owaWZabXgtM0pOWDNjbC1fd1N1V283Z1hXS2w0eW1KbnM4c0x0NWxsVnc0X2d1M25heVA1NGZTSWpBSUt3RmNvSnp3dE1GTElKd0tjcjdScDdHUUFuWFJhMWh0N05UekR5MmJsZVdCcEZWZXl0UkZ4UDNB0gGWAUFVX3lxTE1rSVlCQTRuaTBZcUMycjhCVk5MWTB4MU1Wd3YtN2hFVHkxMUlkTzdUNldpbUtZcVFyTFgtSGR1MGtJQ1paTVhJZUE3UzBzRFFWdG1MR0ZiVHpfNWFUSEdYTmF0NnJMNGlYa0pPazY4QVhKbTJHZmVjaktScjdMNDBPZEpYbm9zOG5jTG9Oa0FMSWszRHo2Zw?oc=5",
+       "title": "카카오, 채용에 ‘AI 면접관’ 들인다… 인성검사도 도입",
+       "date": "2026-10-27"
+      },
+      {
+       "name": "한국경제TV",
+       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOcGE0Yk5Oa0E4Y256U2Q4NXM2MEpQc29FT0lrM2JmRmk3Y0EzU0Y2Z1czNlpuSjM3aW81N0tuNzhEa3FDMHlrX2FRTVFlR1BiZjRYbTFvMGlzVWhuTGVNYkFNeGJwbWtmazhyM2Izb0hMTXhHaWptbGxmbUFWNkhfaQ?oc=5",
+       "title": "카카오, 채용 과정에 AI 사전 인터뷰·인성검사 도입 추진",
+       "date": "2026-10-27"
+      },
+      {
+       "name": "www.ebn.co.kr",
+       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE92clJNbERjcHk0WlMxb0JTWVg1c01ZSHNHa1d0Z1czNjRUZFJIaWRnMXRIWDBPbVJFRmExZjdFbDdMRndma19XUV8zS294Ym5DYjNKWDNSM2FRM0EwdTNQSkN0TFF4SGIz?oc=5",
+       "title": "카카오, 채용에 AI 사전 인터뷰·인성검사 도입 추진",
+       "date": "2026-10-27"
+      },
+      {
+       "name": "IT조선",
+       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5PN2hJeDNLVjlXc05qYU9qT3I0TU9OcHhsWGYtellwU25JQjU3d2IwT0dJWWJWZHh0Mjg0NHU0RUl6aVAxMzUwWHF6VDB4UUdvUE5TMnhkNDJJQU9ydHNfUWxybTNnT2xYNkNsczhtazNyVkVG0gF0QVVfeXFMTk83aEl4M0tWOVdzTmphT2pPcjRNT05weGxYZi16WXBTbklCNTd3YjBPR0lZYlZkeHQyODQ0dTRFSXppUDEzNTBYcXpUMHhRR29QTlMyeGQ0MklBT3J0c19RbHJtM2dPbFg2Q2xzOG1rM3JWRUY?oc=5",
+       "title": "사람 대신 AI가 묻고 평가한다… 카카오, 채용 절차 개편",
+       "date": "2026-10-27"
+      },
+      {
+       "name": "매일일보",
+       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9OUzVINHlHZy05NEgzQnJCczVyMmZmZkFDaWN5VE9pN0l4M05UVEQzcDVZWDEyVEZVUE5mY2hJcENXRHpoUm4yM1Q2aEc1THF6WktJOEZVNWdnZHUwM0pYbndONzY?oc=5",
+       "title": "카카오, 채용 사전인터뷰 AI로 전환…합격 판단은 사람이",
+       "date": "2026-10-27"
+      },
+      {
+       "name": "생생비즈플러스",
+       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE53cTlPcFk3M044RlB0bXB1Q1JrTjc3OWM5VmRaSkt0QWw4eVpGVmRTRGlqbndyX0Ruc2w3UW9KZDhGV0JzWGlqRjVwdFR1bGZNME40QXJaTGV6VUwtcHZqNzZ1eFZOdGIwcHc1QQ?oc=5",
+       "title": "카카오, 채용 과정에 AI 활용한다...사전 인터뷰·인성검사 AI로 진행",
+       "date": "2026-10-27"
+      },
+      {
+       "name": "한스경제",
+       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5Wd3VVd2tuN0d4LVBtSGpaNEhxVEd0dzhoSFFPRkRPNFdnZU5MXy1KWmFSbnpYaFJKZkVMcTJEdTB6QXZ1eFFNS01GMXo4cHJUeGxtTXl2c2tRREJFX0VTMXphX1g4eFgwWW00bFRPRdIBb0FVX3lxTE5Wd3VVd2tuN0d4LVBtSGpaNEhxVEd0dzhoSFFPRkRPNFdnZU5MXy1KWmFSbnpYaFJKZkVMcTJEdTB6QXZ1eFFNS01GMXo4cHJUeGxtTXl2c2tRREJFX0VTMXphX1g4eFgwWW00bFRPRQ?oc=5",
+       "title": "카카오, 채용 면접에 AI 도입…신입·경력 전 직군 평가 방식 변화",
+       "date": "2026-10-27"
+      }
+     ],
+     "date": "2026-10-28",
+     "id": "20261028-01"
+    },
+    {
+     "cat": "labor",
+     "importance": "high",
+     "company": "고용노동부",
+     "title": "산업안전보건법 개정, 산재 사망 시 과징금 대폭 강화",
+     "body": "산업안전보건법 개정안이 공포되었어요. 산재 사망자가 3명 이상 발생한 사업장에 대해 영업이익의 최대 5%까지 과징금을 부과할 수 있는 근거가 마련되었어요. 또한 노동감독관 직무집행법 시행으로 지방 노동감독 대상과 범위가 구체화되어 현장 감독이 강화될 전망이에요.",
+     "insight": "물류센터(몰테일, 스윗트래커)를 운영하는 우리 그룹 특성상 안전 보건 관리는 경영 리스크와 직결돼요. 단순 수칙 준수를 넘어 실질적인 사고 예방 체계가 필수적이에요.",
+     "action": "물류 사업장의 안전 점검 현황을 재확인하고, 개정된 산안법 기준에 따른 대응 매뉴얼을 업데이트하세요.",
+     "teams": [
+      "노무·ER",
+      "인사기획"
+     ],
+     "tags": [
+      "산업안전보건법",
+      "노동감독",
+      "중대재해",
+      "과징금"
+     ],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "시프티 블로그",
+       "url": "https://shiftee.io/ko/blog/article/local-labor-inspection-law-preparation-guide",
+       "title": "2026년 노동감독관 직무집행법 시행: 지방 노동감독 대상과 범위 2026년 12월 8일부터 「노동감독관 직무집행법」이 시행됩니다. 이 법에 따라 중앙노동감독관과 지방노동감독관을 구분하고, 고... 2026-08-2",
+       "date": "2026-10-28"
+      },
+      {
+       "name": "고용노동부 보도자료",
+       "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=20147",
+       "title": "노사정이 함께 만드는 안전한 일터 구축을 위한 제도적 기반 -산업안전보건법 개정·공포-",
+       "date": "2026-10-28"
+      },
+      {
+       "name": "뉴스파노라마",
+       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1qd2otc0NZM2hKdmNrMzNYSlNwUld4Y3hKTUt2ME1oSlgwdFRPSDJkTktRRm12TzBadWhRMTB6Ri1ScjFaRzFkRF93RTZuMWJyenAtZkdkT3dDNnZfVlRyUG9KcXZ1TjA0OUNsdWdhNA?oc=5",
+       "title": "고용노동부, 노사정이 함께 만드는 안전한 일터 구축을 위한 제도적 기반",
+       "date": "2026-10-28"
+      },
+      {
+       "name": "전기신문",
+       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE10d3Rac0MzdGczRi03ek1LQzhZaFpWS3NOTm9EUHBFSnNzSkVUZ25PNzY2THBNNGNsTlUycmxZZVR0Z3J5ejdvaXBualJBendGUUh6dk0tY2NUZDk0SDA5OF9kT0JMQzBSNWVMN29JcVbSAXBBVV95cUxNdHd0WnNDM3RnM0YtN3pNS0M4WWhaVktzTk5vRFBwRUpzc0pFVGduTzc2NkxwTTRjbE5VMnJsWWVUdGdyeXo3b2lwbmpSQXp3RlFIenZNLWNjVGQ5NEgwOThfZE9CTEMwUjVlTDdvSXFW?oc=5",
+       "title": "산재사망 3명 이상 사업장, 영업이익 5% 과징금 부과…산안법 개정안 공포",
+       "date": "2026-10-27"
+      }
+     ],
+     "date": "2026-10-28",
+     "id": "20261028-02"
+    },
+    {
+     "cat": "ecom",
+     "importance": "mid",
+     "company": "11번가",
+     "title": "11번가, 신규 판매자 지원 강화로 셀러 확보 총력",
+     "body": "11번가가 신규 판매자의 정착을 돕는 '성장미션' 프로그램을 도입했어요. 60일 이내 미션 완료 시 광고 포인트를 지급하는 등 초기 정착을 지원해요. 이는 쿠팡의 독주 속에서 G마켓과 11번가가 각기 다른 생존 전략을 펼치는 과정의 일환이에요.",
+     "insight": "메이크샵, 플레이오토 등 우리 그룹의 셀러 솔루션 사업부와 경쟁 관계에 있는 플랫폼의 움직임이에요. 경쟁사의 셀러 지원 정책은 곧 해당 플랫폼의 인력 수요 변화로 이어질 수 있어요.",
+     "action": "이커머스 플랫폼 간 셀러 확보 경쟁 상황을 모니터링하며, 관련 도메인 지식을 가진 경력직 인재 풀을 확보해 두세요.",
+     "teams": [
+      "인사기획",
+      "채용"
+     ],
+     "tags": [
+      "이커머스",
+      "셀러지원",
+      "11번가",
+      "플랫폼경쟁"
+     ],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "연합뉴스",
+       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Dc0R3bG5KUTdRUk9BTXItakF5c0hDbUY4U281amgyeGJIODlvZkhqRGJSU0FVVFNQWUcta1FmZGNVUEtqOVR0Q052ZW54TGRwQlpyZ0VLeFpEcTDSAWBBVV95cUxNQmNjRU9zYmxHNGNvTlZaMlBzRnBFZUdCQkFCSEFGYTk4dHUwREc2cHk2WHRTbEFHa3dzaERtUUFlZnZOb2EwMkhMZFQwaHZGMkstQ1BrZkotRlZvRkczMHc?oc=5",
+       "title": "11번가, 신규 판매자 성장 지원 프로그램 도입",
+       "date": "2026-10-28"
+      },
+      {
+       "name": "비즈니스포스트",
+       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9sc25uUEZQTWZRbFZteXdxN2JyaWFDb2stNVZkUFdaVlRoSU9tTkxpRGxvWXU0QTRreEZIYkZUcHlUMm9CT3hDZGZvRGdOZGhFamx3LWxsa011WTREaTQ1aFBfb00zN3c0U2pydVUzaGo0dTg?oc=5",
+       "title": "11번가 신규 판매자 성장미션 도입, 60일 안에 완료하면 광고 포인트 추가 지급",
+       "date": "2026-10-28"
+      },
+      {
+       "name": "뉴스핌",
+       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB6SDlSZHllZ0Qzd1pxQ3NiSm4yS0diMXBTZlhvYjZLQ2gwTFE1YzNQenYzZTZ2WGswQ2tTbnpBMVU1VGRpR0doOEstY1hMM3JkbHZQUnRERGJBYWoy?oc=5",
+       "title": "신규 판매자 키우는 11번가…상품 등록부터 광고까지 지원",
+       "date": "2026-10-28"
+      },
+      {
+       "name": "아시아경제",
+       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBlUlFSNHJoNHpQaHhVVmo5X3JQMUlsS1hrNVhYQkRHS2xVMlFvNXFxOEo4NS1wWFduNDVaZzBOX1d1V1Y4ejRoS3dQSjlpaXR5UndPd0lRZkRDdFVNMWxvRA?oc=5",
+       "title": "11번가, 신규 판매자 정착 돕는다…'성장미션' 도입",
+       "date": "2026-10-28"
+      },
+      {
+       "name": "뉴스1",
+       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5kNnBtM3NMeTB5MzhLM0M4NUZiUGpGWTRVNkNMXzJXQVFiSzdEcjBQckRkYm9nZkRJMU9zcDFmSlNEdjdJLWw3RVk0dDhvYkUtN3ptaXZnaW5Xb0N6Q3c0?oc=5",
+       "title": "11번가, '신규셀러 성장미션' 도입…판매자 초기 정착 지원",
+       "date": "2026-10-28"
+      }
+     ],
+     "date": "2026-10-28",
+     "id": "20261028-05"
+    },
+    {
+     "cat": "trend",
+     "importance": "mid",
+     "company": "업계 전반",
+     "title": "2027년 임금구분지급제 및 주휴수당 계산 주의",
+     "body": "2027년부터 도급사업의 임금 비용 구분지급에 관한 근로기준법이 시행돼요. 또한 2027년 최저임금 적용에 따른 주휴수당 계산법과 공휴일-휴일 중복 시 임금 처리 방법 등 복잡해지는 급여 산정 기준에 대한 대비가 필요하다는 전문가 제언이 있었어요.",
+     "insight": "급여 정산 오류는 노사 갈등의 단초가 돼요. 특히 도급 계약이 많은 물류나 외주 운영 부문에서 임금 구분 지급 기준을 미리 점검해야 해요.",
+     "action": "급여 시스템이 변경되는 법령 기준을 자동으로 반영할 수 있는지 점검하고, 노무법인 자문을 통해 정산 로직을 검토하세요.",
+     "teams": [
+      "인사기획",
+      "노무·ER"
+     ],
+     "tags": [
+      "임금구분지급제",
+      "주휴수당",
+      "급여관리",
+      "근로기준법"
+     ],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "시프티 블로그",
+       "url": "https://shiftee.io/ko/blog/article/weekly-holiday-pay-standard-for-part-time-workers",
+       "title": "주휴수당 지급 조건과 계산 방법: 2027년 최저임금 적용 주휴수당은 근로자가 일정한 요건을 충족한 경우 유급 주휴일에 대해 지급받는 임금입니다. 정규직뿐만 아니라 아르바이트·단시간근로... 2026-10-01",
+       "date": "2026-10-28"
+      },
+      {
+       "name": "시프티 블로그",
+       "url": "https://shiftee.io/ko/blog/article/public-holiday-rest-day-overlap-wage-rules",
+       "title": "공휴일과 휴일이 겹치는 경우, 유급휴일 적용과 임금 처리 방법 공휴일이 주휴일이나 휴무일과 겹치는 경우, 휴일을 추가로 부여해야 하는지, 임금은 어떻게 처리해야 하는지 사업장에서의 판단이 ... 2026-09-17",
+       "date": "2026-10-28"
+      },
+      {
+       "name": "시프티 블로그",
+       "url": "https://shiftee.io/ko/blog/article/subcontract-wage-cost-separation",
+       "title": "2027 임금구분지급제 시행: 주요 내용과 사업장 대응 기준 2027년 1월 1일부터 도급사업의 임금 비용 구분지급에 관한 근로기준법 제44조의4가 시행됩니다. 신설된 조항에 따라 일정한... 2026-09-03",
+       "date": "2026-10-28"
+      },
+      {
+       "name": "시프티 블로그",
+       "url": "https://shiftee.io/ko/blog/article/holiday-and-night-pay-error-reduction-guide",
+       "title": "휴일수당·야간수당 계산 오류를 줄이는 근태관리 방법 근로시간 관리 환경이 변화하면서 많은 기업의 관심은 출퇴근기록 자체보다 기록 이후의 관리 단계로 이동하고 있습니다. 출퇴근기록... 2026-08-19",
+       "date": "2026-10-28"
+      }
+     ],
+     "date": "2026-10-28",
+     "id": "20261028-04"
+    },
+    {
+     "cat": "labor",
+     "importance": "mid",
+     "company": "고용노동부",
+     "title": "청년일자리도약장려금 및 육아휴직 대체인력 지원 활용",
+     "body": "강남구 등 지자체에서 청년 1인당 최대 720만 원을 지원하는 청년일자리도약장려금 참여 기업을 모집 중이에요. 또한 육아휴직 대체인력 채용 시 '잡셰어링(직무 공유)' 모델을 활용해 숙련 인력을 확보하고 정부 지원금을 받는 사례가 HR 인사이트로 제시되었어요.",
+     "insight": "채용 비용 절감과 육아기 근로자의 업무 공백 최소화를 동시에 달성할 수 있는 기회예요. 특히 대체인력 채용이 어려운 직무에 잡셰어링 도입을 고려해 볼 만해요.",
+     "action": "현재 채용 중인 청년 인력이 지원 대상에 해당되는지 확인하고, 육아휴직 예정자 부서와 대체인력 운영 방안을 협의해 보세요.",
+     "teams": [
+      "채용",
+      "보상·복리후생"
+     ],
+     "tags": [
+      "고용지원금",
+      "육아휴직",
+      "잡셰어링",
+      "청년채용"
+     ],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "기고만장",
+       "url": "https://ggmj.kr/flexwork/?idx=175301819&bmode=view",
+       "title": "육아휴직 대체인력 채용, 잡셰어링으로 선택지를 넓히는 법 --> --> --> 육아휴직 대체인력 채용, 잡셰어링으로 선택지를 넓히는 법 N",
+       "date": "2026-10-28"
+      },
+      {
+       "name": "기고만장",
+       "url": "https://ggmj.kr/kfo/?idx=175287350&bmode=view",
+       "title": "[하이테커] 강남구 기업 청년 1인당 최대 720만원 💸 청년일자리도약장려금 참여기업 모집 (~12/31) --> --> --> [하이테커] 강남구 기업 청년 1인당 최대 720만원 💸 청년일자리도약장려금 참여기업 ",
+       "date": "2026-10-28"
+      }
+     ],
+     "date": "2026-10-28",
+     "id": "20261028-03"
+    },
+    {
+     "cat": "trend",
+     "importance": "low",
+     "company": "업계 전반",
+     "title": "리더의 정서지능 및 성과 착시 방지 안목 강조",
+     "body": "불확실한 경영 환경에서 리더의 '잠시 멈추는 힘(정서지능)'과 겉으로 보이는 성과 뒤의 실질적 기여를 파악하는 안목이 조직 성패를 결정한다는 HR 인사이트가 공유되었어요. 또한 직함이 없어도 영향력을 발휘하는 조직 구조에 대한 논의도 활발해요.",
+     "insight": "단순 성과 지표 중심의 평가를 넘어, 리더들이 조직 내 '조용한 기여자'를 찾아내고 정서적으로 조직을 이끌 수 있는 역량 교육이 필요해요.",
+     "action": "차기 리더십 교육 커리큘럼에 정서지능(EQ)과 다각도 성과 분석 세션을 포함하는 방안을 검토해 보세요.",
+     "teams": [
+      "조직문화·HRD"
+     ],
+     "tags": [
+      "리더십",
+      "정서지능",
+      "성과평가",
+      "조직문화"
+     ],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "오프피스트",
+       "url": "https://www.offpiste.ai/articles/잠시-멈추는-힘-리더의-정서지능-emotional-intelligence-2636",
+       "title": "잠시 멈추는 힘 리더의 정서지능 emotional intelligence",
+       "date": "2026-10-26"
+      },
+      {
+       "name": "오프피스트",
+       "url": "https://www.offpiste.ai/articles/직함-없는-사람이-움직이는-조직-2626",
+       "title": "직함 없는 사람이 움직이는 조직",
+       "date": "2026-10-26"
+      },
+      {
+       "name": "오프피스트",
+       "url": "https://www.offpiste.ai/articles/성과-착시와-리더의-안목-part1-쥐를-다-잡은-흰-고양이는-왜-잘렸을까--2612",
+       "title": "성과 착시와 리더의 안목 part1 쥐를 다 잡은 흰 고양이는 왜 잘렸을까",
+       "date": "2026-10-26"
+      }
+     ],
+     "date": "2026-10-26",
+     "id": "20261028-06"
+    },
+    {
+     "cat": "market",
+     "importance": "low",
+     "company": "업계 전반",
+     "title": "중고신입 면접 질문 및 1분 자기소개 트렌드",
+     "body": "잡플래닛 분석 결과, 신입 면접 5건 중 1건에서 자기소개가 여전히 중요하게 다뤄지며, 특히 '중고신입'에게는 전 직장 퇴사 사유에 대한 전략적 답변이 합격의 핵심으로 꼽혔어요. 또한 실력 중심의 '고딩 개발자' 채용 사례도 늘고 있어요.",
+     "insight": "경력을 가진 신입 지원자가 늘어남에 따라, 이들의 이탈 방지를 위한 면접 시 검증 문항을 정교화할 필요가 있어요.",
+     "action": "면접관 가이드북에 중고신입 지원자의 적응 가능성과 퇴사 리스크를 검증할 수 있는 질문 리스트를 추가해 보세요.",
+     "teams": [
+      "채용"
+     ],
+     "tags": [
+      "면접팁",
+      "중고신입",
+      "자기소개",
+      "채용트렌드"
+     ],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "잡플래닛 콘텐츠",
+       "url": "https://www.jobplanet.co.kr/contents/news-8546",
+       "title": "🧑‍💼: 자기소개 해보세요 ❓: 그냥 뽑아주심 안 될까요 신입 면접을 앞두고 1분 자기소개 첫마디부터 막혔다면 이 글부터 보세요. 잡플래닛 사원급 면접 후기 3만여 건을 분석해 보니 5건 중 1건에 자기소개가 나왔어",
+       "date": "2026-10-28"
+      },
+      {
+       "name": "잡플래닛 콘텐츠",
+       "url": "https://www.jobplanet.co.kr/contents/news-8531",
+       "title": "뉴스 중고신입 면접 질문 8가지, 이렇게 답하세요 \"전 직장은 왜 그만뒀어요?\" 중고신입이라면 면접에서 이 질문을 피하기 어려워요. 퇴사 이유를 솔직하게 말하면 금방 그만둘 사람처럼 보일까 걱정되고, 경력을 내세우면",
+       "date": "2026-10-28"
+      },
+      {
+       "name": "조선일보",
+       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNd0RCS0JWWDc0WThONy1NZVZtdm40dWp1NXhsdWNJODl6Wmp6cllKWWdWRFVRVVZnWjFnSmRnYkNjcURqejhBMXdtc0dHSzlJSVFTSDdJNFoxNnFWcjV5U2hoU2MxU1VldWVhOUt5TnRpbFFnTURjM1ZJRlotaTFOc3RvZw?oc=5",
+       "title": "‘고딩 개발자’가 온다...AI 네이티브 찾는 스타트업, 학력 무관 실력만 평가",
+       "date": "2026-10-27"
+      }
+     ],
+     "date": "2026-10-28",
+     "id": "20261028-07"
+    }
+   ]
+  },
   {
    "date": "2026-10-27",
    "window_days": 1,
