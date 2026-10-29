@@ -1,0 +1,640 @@
+{
+  "date": "2026-10-29",
+  "window_days": 1,
+  "article_count": 305,
+  "engine": "gemini-3.8-flash",
+  "headline": "주4일제 지원 확대와 빅테크·유통 구조조정 가속화",
+  "points": [
+    "정부의 임금 삭감 없는 주4일제 독려와 퇴직급여 사외적립 의무화 추진",
+    "마이크로소프트 대규모 희망퇴직 및 이마트24 등 유통업계 인력 감축 지속",
+    "카카오 등 주요 IT·플랫폼 기업 채용 시 AI 사전 인터뷰 도입 확산"
+  ],
+  "items": [
+    {
+      "cat": "labor",
+      "importance": "high",
+      "company": "고용노동부",
+      "title": "정부, '임금 삭감 없는 주 4일제' 확산 및 월 최대 60만원 지원 정책 추진",
+      "body": "대통령이 SNS를 통해 임금 삭감 없는 주4일제와 '워라밸+4.5' 제도 참여를 독려했어요. 생산성 향상과 연계한 근로시간 단축 기업에 1인당 최대 월 60만 원을 지원하는 방안이 제시되었어요.",
+      "insight": "이커머스 업계 특성상 유연근무제가 핵심 경쟁력인 만큼 정부 지원책 연계 도입 가능성을 선제적으로 타진할 필요가 있어요.",
+      "action": "고용노동부의 워라밸 지원금 요건을 확인하고 그룹 내 유연근무 확대 시 도입 가능한 조직을 검토해 보세요.",
+      "teams": [
+        "인사기획",
+        "보상·복리후생",
+        "노무·ER"
+      ],
+      "tags": [
+        "주4일제",
+        "워라밸지원금",
+        "유연근무",
+        "근로시간"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "조선일보",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNW53TFJZR0RPOUJjZDk1Ti1ZTFp1d3RlWGNuZjJydjVZd3hweXpyNzhhVmY5Z3RwaXVDRHVXN20wZldNNW5YcTYzWUZWdGdtVG1ZNHZ6X2tfZk1CWGRZZGF3SVJKSmZ0a3NmajAzV2RsblpoNGVOVERneDU4alNEQWZEX2ZXaUJZNTBVVEdSSEE?oc=5",
+          "title": "李 \"임금 삭감 없는 주4일제 잘 활용하라\"",
+          "date": "2026-10-28"
+        },
+        {
+          "name": "아주경제",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBUNGRjbEJDckNrZHhSX2FvTC11QWJVWEhYWlZuLV9zZXJOSWVON0I0UDZFMHhnbGVUV2tBZTluVUpQYlpOOXFuYVF4VWtyQWhqN003LW1TNkfSAVhBVV95cUxQVDRkY2xCQ3JDa2R4Ul9hb0wtdUFiVVhIWFpWbi1fc2VyTkllTjdCNFA2RTB4Z2xlVFdrQWU5blVKUGJaTjlxbmFReFVrckFoajdNNy1tUzZH?oc=5",
+          "title": "李대통령 노동시간 단축, 일자리 늘려…워라밸+4.5 잘 활용",
+          "date": "2026-10-28"
+        },
+        {
+          "name": "SBS Biz",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9HYkMzVjMwNndHWVVxSFlsc01oUWV6d19sQXBDY25KbFRtcG9KRWZfR1JiUU5fdHFjX09HM25iMEt6VDZqeGtFSzgwa1daUVZiaHZ4QWJDRm3SAVhBVV95cUxPR2JDM1YzMDZ3R1lVcUhZbHNNaFFlendfbEFwQ2NuSmxUbXBvSkVmX0dSYlFOX3RxY19PRzNuYjBLelQ2anhrRUs4MGtXWlFWYmh2eEFiQ0Zt?oc=5",
+          "title": "李 생산성 올라 노동시간 줄면 일자리 늘어…임금 안 깎는 주 4일제 활용",
+          "date": "2026-10-28"
+        },
+        {
+          "name": "전자신문",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE01SHFRSFhzck93TXdaYmdobHNTRXZTTzhydGgxSFY2dlBXN1g5MW5NdmJNZ0V2ME1NaFNGeEUwRXpDZFpqX3VFWkItM1pfQQ?oc=5",
+          "title": "李 “노동 발전 역사는 노동시간 단축의 역사”…'워라밸+4.5' 참여 독려",
+          "date": "2026-10-28"
+        },
+        {
+          "name": "매일경제",
+          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9Xajh1cjJJNmtfeFZJZ0drWk9SbW1FQzdTcjhnOXJpOGp4d01zeVlxZm9MT3FHVkpaY0tPbW9ZOTJHd1Z2eXc?oc=5",
+          "title": "李대통령 “임금삭감 없는 주 4일제 잘 활용하시라”…SNS서 확산 독려",
+          "date": "2026-10-28"
+        },
+        {
+          "name": "파이낸셜뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1CRkx3dldTQm9iV19LT3N6MDJuTjV2WXhjQldmLURNdmFpVEZaTjY5QjQ0SE5JUFlBekQ0QXZxRVM1ZUMtX09oYWY0MlktZHJGTFlkOWZLRG1CZw?oc=5",
+          "title": "李대통령 \"임금 삭감 없는 주4일제 잘 활용하길\"",
+          "date": "2026-10-28"
+        },
+        {
+          "name": "머니투데이",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9HTFBRbFZZZERSTF81a25pVmJjWGFKYmJrYV90bDFxZTVnUlBFMTN0LXp4cEQ1N25CMlhTSkl6NngzWnJxcjR3QTlhVXFJY0g1X3ZzWUpwaHRuNENSNzg0OHZQV1hIY2JxX29YctIBckFVX3lxTE9NTFJZY1pnaTByZDlHZUpLMjBQYzJlNGowV2tmUW44S1RwTDVpcW8xSl9WZ1E1UTVNRGM5S1MwVUN6LW0yM1hjWkpTOUtzeFdVYkFPb1RQSUFNd2dhc1BILXVSYUpncXYwTkRsTTBnUWZGZw?oc=5",
+          "title": "1인당 최대 月60만원 지원…李대통령 \"임금 삭감 없는 '주 4일제' 잘 활용하길\" - 머니투데이",
+          "date": "2026-10-28"
+        }
+      ],
+      "date": "2026-10-28",
+      "id": "20261029-00"
+    },
+    {
+      "cat": "market",
+      "importance": "high",
+      "company": "마이크로소프트",
+      "title": "마이크로소프트, AI 조직 포함 전사 6만 명 규모 희망퇴직 추진",
+      "body": "마이크로소프트가 최대 분기 실적 달성에도 불구하고 전체 인력의 약 27%에 달하는 6만 명 규모 희망퇴직을 제안했어요. 이번 대상에는 코파일럿 등 핵심 AI 개발팀과 임원급도 포함되었어요.",
+      "insight": "빅테크의 공격적인 AI 인프라 재편 속에 글로벌 경험을 갖춘 고숙련 개발자 및 AI 연구 인력이 시장에 대거 공급될 전망이에요.",
+      "action": "커넥트웨이브 가격비교 및 검색 고도화에 필요한 시니어급 AI·클라우드 개발자 풀을 즉시 스크리닝해 보세요.",
+      "teams": [
+        "채용",
+        "인사기획"
+      ],
+      "tags": [
+        "마이크로소프트",
+        "빅테크",
+        "AI인재",
+        "희망퇴직"
+      ],
+      "our_group": false,
+      "talent": {
+        "level": "high",
+        "signal": "6만 명 희망퇴직 추진 — 글로벌 AI·클라우드 엔지니어 유입"
+      },
+      "sources": [
+        {
+          "name": "조선일보",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPelBfR0ZYQld4UHE4V3RZMk1UbnhVYlFPQmtIV0NkVC04ME41M3FSTVJPWHE5bDVmVS1fT3ljMXo3aURkaXVGYzZVaDV2dTRRdU5VV2NxRHNrMVJhWjljNEtTbEVwekxyS3BxQTRURC11eUl2OTJValRnazFIcl8yYzFibw?oc=5",
+          "title": "‘6만명 희망 퇴직’ 마이크로소프트 사상 최대 분기 실적...비용 부담은 여전",
+          "date": "2026-10-29"
+        },
+        {
+          "name": "밴쿠버 조선일보",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNN2JndzlNMmpTajBOazd4cGUxVUplSFRiNVd5NjdIb3R3WDF3YWdqTU44NTF3UWFCRVpxMm4wbmU0ak1XVzduemV5YXY1enJMTkxmZl9wMDZDMVNWM3VBZmlYSlFuaTdyWk14N3I0M3llX0ktOTJxbXM3a2lTY0w3a0FVek8ta1FFVjRZN3h1TEx1dzJRVVdZ?oc=5",
+          "title": "[밴쿠버 조선일보]MS조차 AI發 구조조정··· 6만 명에 희망퇴직 실시 | 밴쿠버 뉴스",
+          "date": "2026-10-29"
+        },
+        {
+          "name": "디지털데일리",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB3NHlURkZtSi1iWjQ3WVFObEFiUnpFOGN3X1NieHItN19SUnByQldSdWpBWHJiR3J2UGxjTW5nMWI1SWExekl1SGVRdzVXaENkc2ZwQVNEM2xpUnQtSzluQXpXV1c?oc=5",
+          "title": "[빅테크24시] MS, 직원 27%에 희망퇴직 제안…일부 임원도 대상",
+          "date": "2026-10-28"
+        },
+        {
+          "name": "뉴스투데이",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1abFd1MENsX3l3N0V2Wk1TeEhjRW11QllQSnJqdF9wa1Q3T0tURzlOck5vS18tS29JcklkVnNfMWRXeDY3N0hWSVNhaGU3cjBmME03Q0tncUUzcDY2UVE?oc=5",
+          "title": "[JOB리포트] 코파일럿도 희망퇴직 대상…MS가 보여준 ‘AI 일자리’의 온도차",
+          "date": "2026-10-28"
+        },
+        {
+          "name": "ITWorld Korea",
+          "url": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxNbVNZSGUyREtEVzRWWTFNNHJUaElCVEF3YjlPOW1XM2h3Qk02WHVITzVvOGFrVzA4dHFCTmswb1hkQlBVaEVJdnZhUmxzTkN6VzFvZFo1SGxVOEpULXpUZ0VFZlBzdDVGUEdIdjVMak9na1ZSTE93UUl3cUFGX0NZTS1lUHUwTldBcjZoYklWalNuN2Rnbm5hY1FzY090QWNmT2FQYlhtZUJZdEVlQnFtaV9taS1WQXZzRUpRWHRVNURKdGwyUGNQOFFoeFlOTFRzcndKQUxwbjh5MUMtbG9HVXBGRlNZbUMxN2ZNTDZTSkZXY1hFMm8zbGVfRkxBWDJubF9va3IzV3FVamdCbVRNa2lBc3JWREVRRVh6anVGTUVuczhWcnR6aU1KWXN3LWh6bHlqbFFCcG9zeUt5VUk1ZF9zV2hXWENLUFhESGFoSDFmUGZSQWhjQnlBOUFhdU9zWVhv?oc=5",
+          "title": "퇴직 제안으로 속도를 내는 마이크로소프트의 인력 감축…AI 개발 팀까지 포함",
+          "date": "2026-10-28"
+        },
+        {
+          "name": "Martin Cid Magazine",
+          "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOX2o2Nm1UYXQ4cU9aVVhQbHBZS0hNX3JLN00zMENLYTZ5SjVaZVBmZVZPWjEwN1FVaDVUNERVU0ZhekstSF9XazRaRG1vbW9Uekg5WVZ6VzVzcENvLVZidEpoUXZSR2FuYTVITTdhcmFwLVdLNEJ0ZVNibWppaF9CclhFODFUZnVvcXhaemlCeUJLZXpRejZ5V0xZRVZybzZyZnRWZXVzQmZfMGZ1a3hFWk1CZHJHcHJHdkpLajl6WG9xVll2SWdZcHhjWWNKTFAxNXA1RVlQbnVFcnh1UEZOSTJ0LVBIT3k1a1ZIdFRvWlIxcjhuVGd4Z3ktUXQ4bWF1aDktUTdBUEcyOUtvYkRxYzNEMUJQdmVudGNISDJBMUY1MTJxcHhv?oc=5",
+          "title": "마이크로소프트, 전체 직원 4분의 1인 6만 명에 희망퇴직 제안…일부 부사장급도 대상",
+          "date": "2026-10-28"
+        },
+        {
+          "name": "뉴시스",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE95WllBb1BYYlRha1FvTF9ISlNHWk1OclpKd2twWTNxeXdWNWdKY3dQYmtHcHg3cXRUWElRRUhENC1oT0NWVGRzeXpTRUE3V09jVFdUVmpkVFplVVoyVTdfRkRtbnpYMDNaWWI2UEMwTzhhOXpIWG02S9IBeEFVX3lxTE95WllBb1BYYlRha1FvTF9ISlNHWk1OclpKd2twWTNxeXdWNWdKY3dQYmtHcHg3cXRUWElRRUhENC1oT0NWVGRzeXpTRUE3V09jVFdUVmpkVFplVVoyVTdfRkRtbnpYMDNaWWI2UEMwTzhhOXpIWG02Sw?oc=5",
+          "title": "\"AI엔 수백조, 인력은 감축\"…MS發 빅테크 인력 재편 본격화?",
+          "date": "2026-10-28"
+        }
+      ],
+      "date": "2026-10-29",
+      "id": "20261029-02"
+    },
+    {
+      "cat": "trend",
+      "importance": "high",
+      "company": "카카오",
+      "title": "카카오, 채용 프로세스에 AI 사전 인터뷰 및 심층 인성검사 전격 도입",
+      "body": "카카오가 신규 채용 전형에 무하유 등 전문 솔루션을 결합한 AI 사전 인터뷰와 인성검사를 도입하기로 했어요. 지원자의 실무 적합도와 조직 적합성을 사전에 정밀 판별하는 체계를 구축해요.",
+      "insight": "플랫폼 대기업들의 AI 채용 도입이 빨라지며 서류·사전 인터뷰 공수 절감과 객관적 평가 기준 마련이 트렌드로 자리잡고 있어요.",
+      "action": "우리 그룹 채용 프로세스에도 1차 면접 효율화를 위한 AI 인터뷰 툴 도입 타당성을 분석해 보세요.",
+      "teams": [
+        "채용",
+        "인사기획"
+      ],
+      "tags": [
+        "카카오",
+        "AI채용",
+        "AI면접",
+        "채용프로세스"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "오픈애즈",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAwZ2RMUU83ZFZyYmZSX25yU3FuRU5LWEg1WExKbE9GWmVuTUpyNDJkSzRnMkN3MGgwWDBUeV8tbHJOb3VPUHRneWhrWnV0cFA2bnlLbFBtY0VrSHVjTFgwR01ZUS1FSmRfTlFLZy1B?oc=5",
+          "title": "유튜브, 연재형 '쇼츠 시리즈' 도입 / 카카오, 채용 과정에 AI 사전 인터뷰·인성검사 도입 추진",
+          "date": "2026-10-29"
+        },
+        {
+          "name": "아주경제",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBHN1dmNmlNMm93QjdxenliVDQwLUJSWEJXRlVPV01mOFhyVnpaQUhRVXA2WlhDV0JEcEVRWVdYOGk5X0pCWGFkVV9tLWlCRkFORWdsT09GejXSAVhBVV95cUxQRzdXZjZpTTJvd0I3cXp5YlQ0MC1CUlhCV0ZVT1dNZjhYclZ6WkFIUVVwNlpYQ1dCRHBFUVlXWDhpOV9KQlhhZFVfbS1pQkZBTkVnbE9PRno1?oc=5",
+          "title": "카오 채용에 들어간 AI 면접관…무하유는 누구?",
+          "date": "2026-10-29"
+        },
+        {
+          "name": "OBS경인TV",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5NbXFQRGFSM2NfN1N4YzhySXBqTXRYWmRRSVVtd1h5aUFLU1poWlBUb2E1MXZfdzN2TTVsajZCWFdNTjlkdUVITm85ekVsMi1YS3AwQjhnSHYzd0ktQWkxTjc2Vi1rRWxIZjA1TUdn?oc=5",
+          "title": "카카오, 채용 과정에 AI 사전 인터뷰·인성검사",
+          "date": "2026-10-28"
+        }
+      ],
+      "date": "2026-10-29",
+      "id": "20261029-03"
+    },
+    {
+      "cat": "labor",
+      "importance": "high",
+      "company": "고용노동부",
+      "title": "고용부, 쿠팡 근로감독서 'PIP 취업규칙 미작성' 및 산재은폐 정황 적발",
+      "body": "고용노동부 근로감독 결과 쿠팡에서 성과개선프로그램(PIP) 관련 규정을 취업규칙에 제대로 명시하지 않고 산재 은폐 정황이 있던 사실이 확인되었어요. 국회에서는 증거은폐 방지법안까지 발의되었어요.",
+      "insight": "성과 저조자 관리 프로그램(PIP)의 절차적 정당성과 취업규칙 명시 여부, 산재 처리의 투명성에 대한 사법적 리스크 관리가 시급해요.",
+      "action": "그룹 내 PIP 및 저성과자 관리 절차가 취업규칙과 일치하는지 노무 진단을 진행하고 산재 처리 가이드를 재정비해 보세요.",
+      "teams": [
+        "노무·ER",
+        "인사기획"
+      ],
+      "tags": [
+        "쿠팡",
+        "PIP",
+        "취업규칙",
+        "근로감독",
+        "노무리스크"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "광주데일리뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE44MXVpX1RrVlJ5M2REMFBXeXU0aUZLZGZTSG9OYXdJaTRueGdlMm96ZHJpa0RQZnpxcWllQjRjWjNobHlIUG5YVm5sdnhvMWh1QWFyb245RFd0emY1ZkRiSXN3QVliUGRkb1E?oc=5",
+          "title": "\"산재 증거 은폐, 제2의 김범석 막는다\"…쿠팡 김범석 방지법 대표발의",
+          "date": "2026-10-29"
+        },
+        {
+          "name": "뉴뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE85MDY4YWdndm5WNzFONmMzcUwtSEVvanZaOWMyUTRDa1BYbUZBUUVzTklyaE5vdDZYZGUwOWVtSmQ2SUoxNi1pTHoxVy1XNFc2VEx4cHN6TU1jcFg5WFpYUjNPRjlmZw?oc=5",
+          "title": "쿠팡 감독서 PIP 취업규칙 미작성·산재은폐 정황 확인",
+          "date": "2026-10-28"
+        },
+        {
+          "name": "한국재난안전뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBVYVhSN2x4eHZpalN3VWNtOVBNcnhXTUpGeEVrdXlPd2RFbC1iWEFraW9EQVBINkNkM2VKb1dPS2xzVXNJR2JEVE1NbnFFVlJMVjVIR2JZc2FYcW1LTXc?oc=5",
+          "title": "노동부 쿠팡 산재 은폐 의혹 불기소…김영훈 장관 “미국 외압 없었다”",
+          "date": "2026-10-28"
+        }
+      ],
+      "date": "2026-10-29",
+      "id": "20261029-05"
+    },
+    {
+      "cat": "ecom",
+      "importance": "high",
+      "company": "이마트24",
+      "title": "이마트24, 과장급 이상 대상 최대 24개월분 보상 희망퇴직 단행",
+      "body": "신세계 계열 이마트24가 실적 개선을 위해 다음 달까지 과장급 이상 직원을 대상으로 최대 24개월분 보상을 지급하는 '커리어리뉴얼' 희망퇴직을 실시해요.",
+      "insight": "오프라인 유통 및 편의점 MD·운영 기획 인력이 대거 시장에 유입되어 이커머스 MD 및 물류 인재로 전환 흡수할 기회예요.",
+      "action": "다나와·에누리 및 플레이오토 MD·사업개발 포지션과 매칭 가능한 우수 퇴직 예정자 소싱을 검토해 보세요.",
+      "teams": [
+        "채용",
+        "인사기획"
+      ],
+      "tags": [
+        "이마트24",
+        "희망퇴직",
+        "MD채용",
+        "유통구조조정"
+      ],
+      "our_group": false,
+      "talent": {
+        "level": "high",
+        "signal": "과장급 이상 희망퇴직 진행 — 커머스 MD·기획 인력 유입"
+      },
+      "sources": [
+        {
+          "name": "연합인포맥스",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1KYVVib0lZbktJRUhnOG5ucERvSzViRTFCM0F5cUN1Zmx2VHlmTmZqeUtwZFVod0RYWTZBQlYzd21kbXJUWE5UeVkwaWN1a1FGRzRmWkhYLUZ0T01sUk9ZclQ1d2J1R0h5ekRqYktNUTYzc0lq?oc=5",
+          "title": "이마트24, 다음 달까지 희망퇴직 받는다 |",
+          "date": "2026-10-28"
+        },
+        {
+          "name": "생생비즈플러스",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1HbkNYeVhQakVzMEJBd1JGMjVzRGlVOXhfN1VLa3AySGc1ZS1URmtZbVhlRmY5cXFNc05nNzJmRUtMd0w2VExvTDNNclVjN2Q3c0RyVkNscFB4ZHFEQm55TnpScVNYZVEyZ2pQZQ?oc=5",
+          "title": "이마트24, 과장급 이상으로 '커리어리뉴얼' 확대…최대 24개월분 보상 '희망퇴직'",
+          "date": "2026-10-28"
+        }
+      ],
+      "date": "2026-10-28",
+      "id": "20261029-01"
+    },
+    {
+      "cat": "labor",
+      "importance": "high",
+      "company": "정부 전반",
+      "title": "퇴직급여 사외적립 2030년까지 전면 의무화 및 기금형 퇴직연금 도입",
+      "body": "정부가 근로자의 수급권 보장을 위해 2030년까지 퇴직급여 사외적립을 단계적으로 전면 의무화하고 기금형 퇴직연금 제도를 본격 도입하기로 했어요.",
+      "insight": "사내유보 방식의 퇴직충당금을 운영 중인 계열사의 경우 사외적립 비율 상향에 따른 중장기 현금 흐름 및 자금 운용 전략 재점검이 필요해요.",
+      "action": "계열사별 퇴직연금 적립 현황 및 사외적립률을 파악하고 기금형 도입에 따른 보상 체계 영향을 검토해 보세요.",
+      "teams": [
+        "보상·복리후생",
+        "인사기획"
+      ],
+      "tags": [
+        "퇴직급여",
+        "퇴직연금",
+        "사외적립",
+        "복리후생"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "뉴시스",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9JMW5FS3lXYVBSRVdtTFdrWXJPLWwzME12dFBiNWxoNmxpQlg4V19mT1BESVpEZEVOUUJHbFQwOXZ0cjFKY283TFd5NW1tV1FBWV93T1VXRDRKVTJ3Y1hnQtIBeEFVX3lxTE1aaVVVb3FBRUQ1WDBYdUVlTWdoSUE3aFE0S1NqZ3NRZlQ0OUotYlQtYXhFRERTUFI5RXdpdUx6cldvakM4a25YbWs0ZjVZXzdOaHEyX0lzX3dFTy1RMEctTWlTU01VYlVnLTFCYVRaeXNFdmpSczM4cg?oc=5",
+          "title": "퇴직급여 사외적립 2030년까지 전면 의무화…'기금형'도 도입",
+          "date": "2026-10-29"
+        }
+      ],
+      "date": "2026-10-29",
+      "id": "20261029-04"
+    },
+    {
+      "cat": "trend",
+      "importance": "mid",
+      "company": "시프티",
+      "title": "유연근무·해외근무 확산에 따른 통합 근태관리 SaaS 및 급여 연동 가이드",
+      "body": "재택·거점오피스 등 다양한 근무 형태와 해외 사업장 확대로 인해 SaaS 기반 근태 데이터 정합성과 급여명세서 발송 자동화 체계 구축이 강조되고 있어요.",
+      "insight": "해외 역직구 및 물류 법인(몰테일 등)을 보유한 커넥트웨이브 그룹 관점에서 글로벌·유연 근무의 통합 데이터 관리가 필수적이에요.",
+      "action": "다양한 법인 형태에 맞춰 근태 데이터 누락과 급여정산 오류를 방지할 수 있는 시스템 연동 현황을 확인해 보세요.",
+      "teams": [
+        "인사기획",
+        "보상·복리후생"
+      ],
+      "tags": [
+        "근태관리",
+        "SaaS",
+        "급여자동화",
+        "글로벌근태"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "시프티 블로그",
+          "url": "https://shiftee.io/ko/blog/article/attendance-management-saas-stability-checklist",
+          "title": "근태관리 SaaS 도입 시 확인해야 할 안정성 기준과 체크리스트 최근 기업들은 근무일정 관리, 출퇴근기록 관리, 휴가 관리, 전자결재 등 다양한 인사 업무를 SaaS 기반 솔루션으로 운영하고... 2026-07-15",
+          "date": "2026-10-29"
+        },
+        {
+          "name": "시프티 블로그",
+          "url": "https://shiftee.io/ko/blog/article/integrated-attendance-management-for-diverse-work-types",
+          "title": "근무형태·근무조건이 다양한 기업을 위한 통합 근태관리 운영 방법 과거의 근태관리는 단순했습니다. 대부분의 직원이 동일한 장소와 시간에 출근하고 퇴근하는 구조였기 때문입니다. 하지만 오늘날의 ... 2026-04-21",
+          "date": "2026-10-29"
+        },
+        {
+          "name": "시프티 블로그",
+          "url": "https://shiftee.io/ko/blog/article/payroll-automation-and-attendance-data-management",
+          "title": "급여정산 오류를 줄이는 근태 데이터 관리와 임금명세서 발송 자동화 전략 매월 급여정산 시즌이 다가오면 인사·급여 담당자는 반복되는 확인 작업과 데이터 검증에 많은 시간을 할애하게 됩니다. 근로시간 ... 2026-0",
+          "date": "2026-10-29"
+        },
+        {
+          "name": "시프티 블로그",
+          "url": "https://shiftee.io/ko/blog/article/global-workforce-attendance-hr-system-guide",
+          "title": "해외 근무 직원 근태관리, HR 시스템을 활용한 통합인력관리 방법 알아보기 기업의 해외 사업장 운영과 글로벌 인력 활용이 확대되면서 해외 근무 직원의 근태관리 중요성도 높아지고 있습니다. 국가마다 근로... 2026",
+          "date": "2026-10-29"
+        },
+        {
+          "name": "시프티 블로그",
+          "url": "https://shiftee.io/ko/blog/article/attendance-management-software-adoption-checklist",
+          "title": "근태관리 프로그램 선택 가이드: 도입 전 확인할 주요 기능 근태관리는 직원의 출근과 퇴근 시각을 기록하는 것뿐 아니라 근무일정, 휴가, 연장·야간·휴일근로 등 근태정보를 함께 관리하는 ... 2026-10-15",
+          "date": "2026-10-29"
+        },
+        {
+          "name": "시프티 블로그",
+          "url": "https://shiftee.io/ko/blog/article/remote-work-attendance-management-solution-guide",
+          "title": "재택근무 시 정확한 출퇴근기록을 위한 근태관리 솔루션 선택 기준 재택근무를 운영하는 기업에서는 사무실 밖에서도 정확한 출퇴근기록과 근로시간을 관리할 수 있는 체계를 마련하는 것이 중요합니다.... 2026-10-07",
+          "date": "2026-10-29"
+        },
+        {
+          "name": "시프티 블로그",
+          "url": "https://shiftee.io/ko/blog/article/time-clock-integration-reliability-and-scalability",
+          "title": "출퇴근기록기 연동 시 안정적인 근태관리를 위한 3가지 체크포인트 여러 사업장이나 다수의 직원을 관리하는 기업에서는 출퇴근기록기를 활용해 직원의 출근·퇴근 시각을 기록하고, 해당 데이터를 근태... 2026-10-02",
+          "date": "2026-10-29"
+        }
+      ],
+      "date": "2026-10-29",
+      "id": "20261029-10"
+    },
+    {
+      "cat": "labor",
+      "importance": "mid",
+      "company": "인천광역시",
+      "title": "지방정부 노동감독권 분점 및 인천시 2027년 '노동감독과' 신설 추진",
+      "body": "노동감독관 직무집행법 개정에 따라 중앙정부의 감독 권한 일부가 지자체로 분점되면서, 인천시가 2027년 상반기 조직개편을 통해 '노동감독과'를 신설하기로 했어요.",
+      "insight": "물류센터(스윗트래커·몰테일 거점) 및 사업장이 위치한 지역 지자체의 현장 근로감독 빈도와 감독 강도가 강화될 수 있어요.",
+      "action": "수도권 및 거점 물류센터의 노무 준수 상태(근로시간, 휴게시간, 안전보건)를 점검하고 감독 대응 체계를 마련해 보세요.",
+      "teams": [
+        "노무·ER",
+        "인사기획"
+      ],
+      "tags": [
+        "지방정부",
+        "노동감독",
+        "지자체감독",
+        "물류센터노무"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "시프티 블로그",
+          "url": "https://shiftee.io/ko/blog/article/regional-labor-inspection-delegation-under-30-employees",
+          "title": "2026년 12월 지방정부 노동감독 시행: 30인 미만 사업장 주요 확인 사항 2026년 12월 8일부터 노동감독관 직무집행법이 시행되면서, 고용노동부장관의 사업장 근로감독 권한의 일부를 지방정부 시·도지... 20",
+          "date": "2026-10-29"
+        },
+        {
+          "name": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE45T0dTcmdUdVk2YXZYUXZvTmcxWkRWVHUwTHpVMm1rLUQ0SVIzQ1dHRHN4S19TTV9TcFYxSERyb1Q3eDNlRFFVbkZURm5vMXQxZE1WRUlIRENHYWPSAWBBVV95cUxQTHY2LWpYamZ4SDZWWW9pSE1ySExmM0d6cklMODVNbkpVXzVZQ0hnTlVWZDdqV0ZicU9Zb1B0R1JUa2YwSThOb0lYeFA5SGJ1ZExiVVhIc1U2MTlRMjVicmg?oc=5",
+          "title": "인천시, '평화협력과'·'노동감독과' 내년 초 신설",
+          "date": "2026-10-29"
+        },
+        {
+          "name": "미디어인천신문",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA3WVU1VzlzUDdsQXM1c1pqdy1kNU9PZy1KdVQ2Tkk4UlF2eXQtOGJqSHQ5NlROZEIwS3k4d241TVY4cGY0RXdqWHk3T3RLSzRHaVJGTFN0NktVNFJGNWx6Y0t0WnUxNWV1Rnc?oc=5",
+          "title": "인천시, 2027년 상반기 조직개편...‘노동감독과-평화협력과’ 신설",
+          "date": "2026-10-29"
+        },
+        {
+          "name": "인천투데이",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5kb1hOOGpjbGFkZUMzeno0d3UtWkdYVVNMR3pudUJ5NjJTeEdvbDU3Tl84c2xjLW00M1lzZHRocHFWVktMbGdOZzRwU0ZoYjJMcmFac0l0VktEcFZxWE5KcmlNYlVUWE5yTTRSMXliT1g?oc=5",
+          "title": "인천시, 2027년 노동감독과·평화협력과 신설 조직개편 추진",
+          "date": "2026-10-29"
+        },
+        {
+          "name": "프레시안",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAzc2xkMldSTWdPMnFrVHNxVC1wUHk4N0tlbGdIX1dheGtDVFM3MkZzU0RTQm1adVhXcVhGcURQejJiZzNzOTZxSzc5ZTQxLWhvWGh3WHFyX3R6c0ZNSmZOWWh2OGtibUNlMUNV?oc=5",
+          "title": "인천시, 노동감독과·평화협력과 신설 등 내년 1월 조직개편 추진",
+          "date": "2026-10-29"
+        }
+      ],
+      "date": "2026-10-29",
+      "id": "20261029-06"
+    },
+    {
+      "cat": "trend",
+      "importance": "mid",
+      "company": "인라이플",
+      "title": "인라이플, 일하는 방식 쇄신 위한 회의실 문화 개선 프로젝트 추진",
+      "body": "애드테크 기업 인라이플이 불필요한 회의와 길어지는 업무 프로세스를 줄이기 위해 '조직을 ez롭게' 회의실 문화 개선 프로젝트를 전개했어요.",
+      "insight": "이커머스·플랫폼 조직에서 빈번히 발생하는 비효율적인 미팅과 보고 지연을 줄여 구성원의 몰입과 업무 속도를 끌어올릴 수 있어요.",
+      "action": "우리 그룹사 회의 시간 단축 가이드 및 캘린더 미팅 룰을 점검하고 간소화 캠페인을 기획해 보세요.",
+      "teams": [
+        "조직문화·HRD",
+        "인사기획"
+      ],
+      "tags": [
+        "회의문화",
+        "일하는방식",
+        "조직문화",
+        "업무효율화"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "잡플래닛 콘텐츠",
+          "url": "https://www.jobplanet.co.kr/contents/news-8334",
+          "title": "(주)인라이플 일이 안 끝나는 이유, 사실 이거 때문이었습니다... 복잡한 업무를 쉽게 만드는 이지대리의 한마디",
+          "date": "2026-10-29"
+        },
+        {
+          "name": "잡플래닛 콘텐츠",
+          "url": "https://www.jobplanet.co.kr/contents/news-8335",
+          "title": "[조직을 ez롭게] 회의실 빙하기 탈출기 조직문화 개선 프로젝트 1편_회의실 문화편 (주)인라이플",
+          "date": "2026-10-29"
+        },
+        {
+          "name": "잡플래닛 콘텐츠",
+          "url": "https://www.jobplanet.co.kr/contents/news-8547",
+          "title": "[조직을 ez롭게] 회의실 관찰 다큐 프로직장인 이지대리의 하루 (주)인라이플",
+          "date": "2026-10-29"
+        },
+        {
+          "name": "잡플래닛",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE41UFN4WGVETksyQ3diRFRLTHFPbERRRU1QQWU5NkNwX3p5YTJTX1U5ZzhLNTh3U3FrWXlacHVJSGtfSG5ucEpQaEFaUGNZSTNaT2xZVTdFXzRXZw?oc=5",
+          "title": "[조직을 ez롭게] 회의실 관찰 다큐 | (주)인라이플의 컬쳐 뉴스 | (주)인라이플",
+          "date": "2026-10-28"
+        }
+      ],
+      "date": "2026-10-29",
+      "id": "20261029-08"
+    },
+    {
+      "cat": "trend",
+      "importance": "mid",
+      "company": "SK C&C",
+      "title": "SK AX, 실무능력 분석 중심 AI 채용 솔루션 '지핏 스튜디오' 출시",
+      "body": "SK AX가 단순 스펙이 아닌 실제 직무 수행 능력을 정밀 분석하고 면접 소요 시간을 대폭 단축하는 AI 채용 솔루션 '지핏 스튜디오'를 출시했어요.",
+      "insight": "직무 적합성과 실무 역량 검증이 핵심인 개발·데이터·MD 직군 채용에서 평가 공수를 줄이고 면접 편차를 최소화할 수 있어요.",
+      "action": "신규 채용 솔루션 도입 사례와 기능 데모를 확인하여 그룹 수시 채용 효율화 도구로 적합한지 비교해 보세요.",
+      "teams": [
+        "채용",
+        "인사기획"
+      ],
+      "tags": [
+        "SKAX",
+        "지핏스튜디오",
+        "AI솔루션",
+        "실무평가"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "서울경제TV",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9BdGVfQkl6WmhHUUhoOGJLQlctaWlTZFNBam80ak9xOVdyVmkzWFYtTE5HbVFPTjVvcm1wRHBIbU96VXo0d1lMS3JRYTZYOXNMUmlWd0pyS3JwNlJJRFhtYXQwWTI?oc=5",
+          "title": "SK AX, AI 채용 솔루션 ‘지핏 스튜디오’ 선보여…실무능력 분석",
+          "date": "2026-10-29"
+        },
+        {
+          "name": "이데일리",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbTFsSHIyM0ptbEwzQ0V6VUl3dlhpV1lpYnZ5WXZQOEMyVDVteEk5b0xCekhNd2drV0lQSVQyNVNnZXRmMkpuVFIzRVpPbExydHZrNmVmRnI0TGxBNTltSmdTRG04a0t0SVJMbEFjalI3bGFtR0pYQ1dvU0htODB6Mw?oc=5",
+          "title": "실무형 인재 뽑고 면접 시간 줄인다…AI 채용 솔루션 출시한 SK AX",
+          "date": "2026-10-29"
+        }
+      ],
+      "date": "2026-10-29",
+      "id": "20261029-07"
+    },
+    {
+      "cat": "market",
+      "importance": "mid",
+      "company": "업계 전반",
+      "title": "美 이직 프리미엄 축소 및 '잡호핑' 기조 둔화 흐름 확산",
+      "body": "미국 고용 시장에서 잦은 이직을 통해 연봉을 대폭 올리던 이른바 '잡호핑 신화'가 흔들리고 이직 시 임금 인상 프리미엄이 빠르게 축소되고 있어요.",
+      "insight": "국내 IT 업계 역시 무리한 연봉 점핑 이직보다는 고용 안정성과 조직 문화, 복리후생을 중시하는 인재 락인 기조가 강해지고 있어요.",
+      "action": "연봉 인상 중심의 영입 전략 외에 복리후생 경쟁력과 커리어 성장 경로를 강조하는 채용 EVP를 다듬어 보세요.",
+      "teams": [
+        "보상·복리후생",
+        "채용"
+      ],
+      "tags": [
+        "이직시장",
+        "임금프리미엄",
+        "잡호핑",
+        "EVP"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "이데일리",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRGRtY1ZHaVdwMHAxRmNabk5wdFR6bzZBSFdKcnVfVUF5S25lamNUQmZDNFBFbGQ3VkR5SVRfa243Y3JaVWtfTXJPWmVGdV9aLTYzWU1DeDRFU1hJY3E4T2U1UC1tWHAtc3UyaHRmNlF3eUR0SUY4ck50MjVtVEhRVQ?oc=5",
+          "title": "美 이직 임금 프리미엄 축소…'잡호핑 신화' 흔들",
+          "date": "2026-10-29"
+        }
+      ],
+      "date": "2026-10-29",
+      "id": "20261029-09"
+    },
+    {
+      "cat": "trend",
+      "importance": "low",
+      "company": "업계 전반",
+      "title": "원격·해외 근무 증가에 따른 직장 내 괴롭힘 대응 및 감사 체계 강화",
+      "body": "원격지 및 해외 사무소에서 발생하는 직장 내 괴롭힘 징계 사례와 상사 폭언에 대한 모바일 녹음 증거 채택 등 직장 내 갈등 대응 매뉴얼 정비가 요구되고 있어요.",
+      "insight": "원격 협업과 분산 근무 환경에서 비대면 커뮤니케이션 갈등이 음성화될 수 있으므로 사내 신고 채널과 심리적 안전망이 중요해요.",
+      "action": "비대면·해외 파견 근무자 대상 고충 상담 프로세스를 재점검하고 직장 내 괴롭힘 예방 교육 자료를 보완해 보세요.",
+      "teams": [
+        "노무·ER",
+        "조직문화·HRD"
+      ],
+      "tags": [
+        "직장내괴롭힘",
+        "원격근무갈등",
+        "조직문화",
+        "노무가이드"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "오프피스트",
+          "url": "https://www.offpiste.ai/articles/직장-내-괴롭힘과-갈등-대응-2652",
+          "title": "직장 내 괴롭힘과 갈등 대응",
+          "date": "2026-10-28"
+        },
+        {
+          "name": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE43dmhzWUo4QmhIc1NFM3RaUk1KSzU4YWtwaDg4czFMNU5IY2xjb2dhblBZam9RcVliNFo1SURBVmNobEVmQTUtb0R1OHhtVXRwRi1yWFIyT0xJLUXSAWBBVV95cUxQN3oxN1dUNG1wUnhNYTJ3TVNYQ2VHWnhhc1FsUVJlbXNTVVFNVHRub0l3Ul83NVlMOWhLLWc5Z1N5OWdreWQ0ODdaRy1UcU83SU1pLXVSV0dZb0IyR3BYS1Q?oc=5",
+          "title": "\"코이카 해외사무소서 직장 내 괴롭힘 잦아…직원에 폭언\"",
+          "date": "2026-10-29"
+        },
+        {
+          "name": "공감신문",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5mTnNDc0liUzB5UDJoeFZXaDREZjZXTGhzanFZZG55T2hEMjVMSXNJS0FnV1JiWHEyR0FTcXJpdnNGalBuSW8wbUVsS0gxSlF4MFc5YVFwSG1hZWY0NEI1d0VmdWQzQTk2?oc=5",
+          "title": "KOICA 해외사무소, 직장 내 괴롭힘 빈번... 감사 부실 논란",
+          "date": "2026-10-29"
+        },
+        {
+          "name": "재경일보",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9icVNVQkN3ekhGUjJQenFIbWZWdlNJTHBGRWtfb1o4LVdaWUlpTExfeG9wZ2JaY3JGYXV5Q0NBNEFuZ2RQUWctWmU3SQ?oc=5",
+          "title": "코이카 직장 괴롭힘 징계 7건…김대식 “6건 해외서 발생” : 정치",
+          "date": "2026-10-29"
+        },
+        {
+          "name": "로톡뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4xaGpSYVpvVHZYajlaVHVRWHZfVFlkaTl2QWM4NVFwRmx4dk5YXzkwY3paaG1BV3lsdWZMTkRQMVM0NjZzR3A1T0dCbEQ2TVFtcFYzeHJoWnlsZw?oc=5",
+          "title": "상사에게 부모님 욕설까지 들었다, 녹음파일은 증거가 될까",
+          "date": "2026-10-28"
+        }
+      ],
+      "date": "2026-10-29",
+      "id": "20261029-12"
+    },
+    {
+      "cat": "ecom",
+      "importance": "low",
+      "company": "신세계그룹",
+      "title": "신세계그룹 남매 계열분리 가시화 및 이마트·이커머스 재정비 속도",
+      "body": "정용진 회장의 이마트 현장 경영과 정유경 총괄사장의 계열분리 수순 속에 G마켓·SSG닷컴 등 이커머스 사업의 대형 할인전 및 체질 개선 작업이 가속화되고 있어요.",
+      "insight": "G마켓과 쓱닷컴의 대대적인 조직 재정비 및 인적 쇄신에 따라 이커머스 플랫폼 기획자 및 마케팅 인력의 이직 의향이 높아질 수 있어요.",
+      "action": "주요 경쟁사 출신 시니어 플랫폼 인력 풀을 선제적으로 조사해 영입 파이프라인을 구축해 보세요.",
+      "teams": [
+        "채용",
+        "인사기획"
+      ],
+      "tags": [
+        "신세계",
+        "G마켓",
+        "SSG닷컴",
+        "이커머스동향"
+      ],
+      "our_group": false,
+      "talent": {
+        "level": "mid",
+        "signal": "계열분리 및 조직 재정비 지속 — 이커머스 기획·마케팅 인력 관심"
+      },
+      "sources": [
+        {
+          "name": "땅집고",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1sSFB2VUFrUHFGUXE5dTVTd0NqVFRKR0FBdmJyYjVwbGRETENBRVVrX0lsd05WakpHeno4MDlVLVhHaUZaTnN5MXdCQndvTmJsNEJwcm8tTEV2Ums5TjBzTUxyTzNxVzlMQ3d1OEJUbThXc2vSAXNBVV95cUxNbEhQdlVBa1BxRlFxOXU1U3dDalRUSkdBQXZicmI1cGxkRExDQUVVa19JbHdOVmpKR3p6ODA5VS1YR2lGWk5zeTF3QkJ3b05ibDRCcHJvLUxFdlJrOU4wc01Mck8zcVc5TEN3dThCVG04V3Nr?oc=5",
+          "title": "13년 만에 이마트 돌아온 정용진…G마켓 부진 털고 9.5조 테마파크 풀까",
+          "date": "2026-10-29"
+        },
+        {
+          "name": "뉴스드림",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA1RzBnX21tWFNrQVJlWTJXeUJGQ016N1JrbWJOZmhMQ1RrRHpmcXgtNDM4M0J4MkcxVEVsYjhsUnUzbWFydnppUHY4X1hxdU1VTkticEJfS1lxbEI3SndlVnpxa1VHR1I3emtB0gFuQVVfeXFMUHlyLUw4ZHhDTXNYRzdleEdGTVhXcU84UkpCMzdUalJKMjlBcnAyOFJqeEFidDFrVzAyazBzVG9NeVBZMjljcGhqVVpQMkluWmY2ZnRYd2xBbE1oYm0td1hicGVZYlRCazI2VmlKVHc?oc=5",
+          "title": "SSG닷컴, 연중 최대 '쓱데이' 할인 행사 돌입…장보기·라이프스타일 특가",
+          "date": "2026-10-29"
+        },
+        {
+          "name": "Naver Blog",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWFdGNS16Y292UkJEU2NMNG16VG1XQmZOSFFyV01kMG1iakxIZ0ppWFpkNkJVQmEtYl9mdXF5MGhyRjNjUUpWWTJoUTJCNkRJU1BNbWpjRlh4aTlQbDQ5QTRNTXdwdHVSVXBEQUdhM3hLMUFXTE84TjByMUR0alRMVWM0WHIzNDhvNnAyTTA5bw?oc=5",
+          "title": "[정유경의 신세계 리부트] 남매 계열분리 막바지…풀어야 할 남은 과제는 : 네이버 블로그",
+          "date": "2026-10-29"
+        }
+      ],
+      "date": "2026-10-29",
+      "id": "20261029-11"
+    }
+  ]
+}
