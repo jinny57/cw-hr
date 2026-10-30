@@ -1,0 +1,645 @@
+{
+  "date": "2026-10-30",
+  "window_days": 1,
+  "article_count": 290,
+  "engine": "gemini-3.8-flash",
+  "headline": "홈플러스 구조조정 파행과 AI 기반 채용 선발 혁신",
+  "points": [
+    "홈플러스, 극심한 자금난으로 400여 명 희망퇴직 철회 및 임금 지급 연기 파행",
+    "카카오·SK AX 등 테크 기업의 AI 면접 및 심층 채용 자동화 솔루션 도입 가속화",
+    "퇴직연금 사외적립 2030년 단계적 의무화 노사정 합의 및 사내근로복지기금 감독 강화"
+  ],
+  "items": [
+    {
+      "cat": "ecom",
+      "importance": "high",
+      "company": "홈플러스",
+      "title": "홈플러스, 자금난 심화로 400여 명 희망퇴직 전격 철회 및 체불 위기",
+      "body": "홈플러스가 자금난 악화로 400여 명 대상 희망퇴직을 실행 이틀 전 전격 철회했어요. 급여 지급 연기와 공과금 체납 위기까지 겹치며 내부 혼란이 극심해진 상태예요.",
+      "insight": "구조조정 계획 철회와 임금 불안정으로 인해 유통·이커머스 MD 및 물류, 이커머스 운영 핵심 인력의 대거 이직 시도가 본격화될 가능성이 매우 높아요.",
+      "action": "퇴사 위험군에 있는 대형마트·이커머스 출신 MD, 온라인 소싱, 물류 운영 전문 인재를 선제적으로 서칭해 파이프라인을 구축해 보세요.",
+      "teams": [
+        "채용",
+        "인사기획",
+        "노무·ER"
+      ],
+      "tags": [
+        "홈플러스",
+        "희망퇴직철회",
+        "인재유출",
+        "유통구조조정"
+      ],
+      "our_group": false,
+      "talent": {
+        "level": "high",
+        "signal": "희망퇴직 파행 및 경영난 — 유통·MD·물류 인력 시장 유출 본격화"
+      },
+      "sources": [
+        {
+          "name": "아이뉴스24",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBuZVd3YVI0NkRpUnBoUk05MDJvdkYyaVJLb2xhWEV0MG5BLXQyOTNQS1ZFN2FNRXEyRWtMUHFUenluVTJiUm10UThnRQ?oc=5",
+          "title": "홈플러스, 희망퇴직 400여명 퇴직 이틀 전 철회…자금난 심화",
+          "date": "2026-10-30"
+        },
+        {
+          "name": "서울파이낸스",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ZRWVpZ1JoS1l3VDN0ODZUZ3FjMnpmMFR3a3Z4MGJHNVQzQlVuaGZVUlFWUEMzTHJYcm5FSWtWVlRZRS1xVGZfUjdtV1d1UE15RzBtdG9mWkUzY1pQckN6WFRFMmlQVEotNlE?oc=5",
+          "title": "홈플러스 회생 '제자리걸음'···희망퇴직 중단·임금 지급도 불투명",
+          "date": "2026-10-30"
+        },
+        {
+          "name": "news.sbs.co.kr",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQeTBvQ3VaUmNheUhBbGZUWk9oUmJGYzN4a0dCNUlCZ2xueGJremt6alYwaUI4SUEyQTNwVFM0VEdDaUNZUnpDcEtRLUJXb2lDeXNlNXhJM0Y1QmEtSGVha1d1QnRRc0FLTmw2eVVSYzlMaGFfcW5WV0Z5N2s5TFIwcU1fRFV4LUtEd0ZyT2k1SFBGRGluMkE?oc=5",
+          "title": "홈플러스 희망퇴직 철회…신청자 400여 명 고용 유지",
+          "date": "2026-10-30"
+        },
+        {
+          "name": "아시아경제",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQOWtqbjVydksxd3gzN2xYREViazQ1eXR4ZFFReF9ZYU5qal9VYjZsQWdSS3N2d1ZPOTNySzBiaVlYNld1azJtZk9ZcDhLSUk4U1gyVEFjU1o3ZU9OWmh6dHFxTk5EbXh3OHc4bFJYVGVsemYwQU9XV016bUhJSndORkdB?oc=5",
+          "title": "2000억 수혈에도 자금난 여전…홈플러스, 희망퇴직마저 철회",
+          "date": "2026-10-30"
+        },
+        {
+          "name": "뉴스1",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE40R3hZM3lUQ1l5a2JXVjdobDJfSThOcjBnZGwxZ0M5VFpmTlR1a1NYYXRadi1GQ0RfSERHR3VXejFOSmttMTVuNmh2ZE10RlpHT1FUUU5MRUFvRTh0enk0?oc=5",
+          "title": "홈플러스, 희망퇴직 신청자 400여명 퇴직 취소…자금난에 구조조정 차질",
+          "date": "2026-10-30"
+        },
+        {
+          "name": "Queen 이코노미퀸",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9jTHpGeEJITkUwZlBfR0k4MmtJazZ2RFNwZjB4NGk1TldlQ3FIdTF3NnMxUjlNUC1uY3lwU2paME5JZVdEZU5wUmJoVHBDNVVmdGRLa0p5NngyRmZkM3lDdUdlN2ZCMWVB?oc=5",
+          "title": "희망퇴직 접수받고 이틀 전 취소한 홈플러스…심화되는 자금난에 직원들 혼란",
+          "date": "2026-10-30"
+        },
+        {
+          "name": "데일리안",
+          "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPeHdlZVFhbC1WRkhTNTFzdlJMWjlUa2ZwNUlxZDdTSWZ1eGtwd3BxS1VfQ195ZW9DWVFFNkg5ZjlHbFlEVVMza3Q0R29FVzl2LWVpNWlnaGx2MzdwQ3RyUU5ZYVpNS3Y4RzE3eDdwOTVldTZULTlqcV9COWRRS3h6Rk9zUXBLTVJlSXlBa3hYRDlNVlBPTjJIellmbTk4M0VzTmxIVE1HN25NTlAzUWtweklBOWJERXltQ2VZUXNfOWd1U09hRXRWN0Y5QS1LSm9ZWHhTdzQ0Q0F4dDNnUjk1RGswTW9SVFpnQ2Jzdkx0V09HQmNhZG1oU29IX05nM2w2cVBZdS1BX2FacVhOalJlNUluUU43OXBDQjBTazREZ3czbm8?oc=5",
+          "title": "홈플러스, 희망퇴직 이틀 전 취소…체불급여 지급도 연기",
+          "date": "2026-10-30"
+        },
+        {
+          "name": "공감신문",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9FeXpQZ25PWjRoeFk1MlNlZklVWDRtaDNhdUVySkRXNkpDWlFVeUtLWHhkeTlkV0Y0a1NteFEyVWZrVWpLZy11N201YnRQTXF4cTF1RnUzd0Z1UDJVbWktNm9Tb29ILVh2?oc=5",
+          "title": "홈플러스 위기: 급여 연기와 단전 위협, 희망퇴직 철회까지",
+          "date": "2026-10-30"
+        },
+        {
+          "name": "연합뉴스TV",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE40Ukx5S2dETzJuTEE1MVRoNnRCMVllazIzRDdfUU1GcTM0VDlUSUZ0OUVYU1ZaX0JwSDNMOURIN0prNHVmN01NWGNnOE1KSFJDQy05a3F0R0Y2UjBlS3BWRnI5TDVqN00?oc=5",
+          "title": "’전기료 체납’ 홈플러스, 희망퇴직 철회…밀린 월급 지급도 연기",
+          "date": "2026-10-29"
+        },
+        {
+          "name": "신아일보",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA1Vk5HNnpRU09aM0wyX3ZZM2ZiWU4xRHBsSnZYTVZUSFlIbXlDLVJPdE84UVh1ZERlUVpMbThXUjNHVmd5Rkt0TndmdmRVWkEzcUpzSTZiakdtMnlCeGxGYml0WnZvdTJ2aXBjMmFJcUU?oc=5",
+          "title": "홈플러스, 희망퇴직 철회…8월 급여 지급도 연기",
+          "date": "2026-10-29"
+        },
+        {
+          "name": "더바이어",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5VTFRLckpUUzNBamhTOHZWTlFfZ0NKOWhaLWpPQ29RTENfeDhkNWo5NUtVX1ExLTRWbmxLSkt5Y3Q0cEJUc3ZSVzhRNWVsWTJfck85aVlteWJ4bmI3Z05jX1ViR3lJQm5nZU00?oc=5",
+          "title": "희망퇴직 돌연 취소…'구조조정 추진' 홈플러스에 무슨 일이",
+          "date": "2026-10-29"
+        },
+        {
+          "name": "브릿지경제",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBRUHlpSVdOd1pLOFA3RHloMWVJVktGVVh2T3lyWVY1N0liX00wRG42bFJmQXBRYjF3d3Y1YlNNTVNONGNiZEIwXzBGTndaN2dDN0FMeW1RR2JyQQ?oc=5",
+          "title": "홈플러스, 희망퇴직 취소… 급여 잔액 지급일 미정",
+          "date": "2026-10-29"
+        }
+      ],
+      "date": "2026-10-30",
+      "id": "20261030-00"
+    },
+    {
+      "cat": "trend",
+      "importance": "high",
+      "company": "카카오",
+      "title": "카카오·SK AX, AI 기반 사전 인터뷰 및 대규모 면접 솔루션 도입 확산",
+      "body": "카카오가 채용 과정에 AI 심층 면접 및 사전 인성검사 도입을 추진 중이며, SK AX는 지원자 1,800명을 6시간 만에 평가하는 면접 솔루션 '지핏 스튜디오'를 공개했어요.",
+      "insight": "서류 및 1차 스크리닝 단계에서 AI 도구를 활용해 채용 리드타임을 대폭 줄이고 정량적 평가 객관성을 확보하는 HR 테크 도입이 대세로 자리잡고 있어요.",
+      "action": "다나와·메이크샵 등 그룹 내 대규모 개발·공통 직무 수시채용 시 1차 전형에 AI 인터뷰 툴 도입 타당성을 검토해 보세요.",
+      "teams": [
+        "채용",
+        "인사기획"
+      ],
+      "tags": [
+        "AI면접",
+        "채용솔루션",
+        "카카오",
+        "SKAX",
+        "HR테크"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "지디넷코리아",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE54MTJuTE91V3JnWUtFSEswRUJudVZSU0xmTkkweHZGNklqdUpmRUlRUXIzWlFVc0g0djRTTnpWMVM1UW1hNUZrcHl3TDNobGxBblVhRXhB?oc=5",
+          "title": "\"면접관도 AI 시대\"…카카오가 준비하는 AI 면접은?",
+          "date": "2026-10-30"
+        },
+        {
+          "name": "조선일보",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQU09aUUJVY1NXQWxscjJSY1BVNkd0U3ZsSm5sQWVBNG5ibEl6R3JiU2pHTWhmREUyQ1NrQ29scHkyU2hCd0dNcmo0bGxXSUxXRV8xMmZyS05PRmNocUxRSk1VZVNIb0pkMlRyb3FhaGxmV2Z5MUhzUi1yRzlHb0xmZUlVZw?oc=5",
+          "title": "AI가 30분 심층 면접… 기업 인재 선발 돕는다",
+          "date": "2026-10-30"
+        },
+        {
+          "name": "오픈애즈",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAwZ2RMUU83ZFZyYmZSX25yU3FuRU5LWEg1WExKbE9GWmVuTUpyNDJkSzRnMkN3MGgwWDBUeV8tbHJOb3VPUHRneWhrWnV0cFA2bnlLbFBtY0VrSHVjTFgwR01ZUS1FSmRfTlFLZy1B?oc=5",
+          "title": "유튜브, 연재형 '쇼츠 시리즈' 도입 / 카카오, 채용 과정에 AI 사전 인터뷰·인성검사 도입 추진",
+          "date": "2026-10-29"
+        },
+        {
+          "name": "테크M",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ySkh3UXlkbFRWaUdQd1o1OXRucmlWbmRQRVlLWW9hMTVTbG5zOUVJb0FGNmJQd2VtUFBZcm5rd0M3RDNpb2ZNa19tY3NKcy1WekZ4ZjY1bVdBaUJuMG1QS05LVTFlTXFhS2fSAWpBVV95cUxPckpId1F5ZGxUVmlHUHdaNTl0bnJpVm5kUEVZS1lvYTE1U2xuczlFSW9BRjZiUHdlbVBQWXJua3dDN0QzaW9mTWtfbWNzSnMtVnpGeGY2NW1XQWlCbjBtUEtOS1UxZU1xYUtn?oc=5",
+          "title": "SK AX, AI 채용 도우미 '지핏 스튜디오' 출시...'시간당 300명 면접'",
+          "date": "2026-10-29"
+        },
+        {
+          "name": "한스경제",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9JVHpJYjIwRnVWSkJPTFV4X0RzR18xZ2lwSloxNHAwQ3hwUmhwdGsxUm5hMWdpelB4ZVZwRGxNS3hFcVBRT1R3bFo2RVVYZ29wNGpvSXM4MmxCZWNCd1VHTHJMcUhiS05JcmxVaNIBb0FVX3lxTE9IY3haMWtEcmFCWGZKbjE2S3h4VUVHWkRRNkxaalczVDJMUTdVSDJOZ0RVNHBDUU9MaFVydmhfY2NfREQ5bVJ6ekNiMk4wN3RKOEpKOUtoOEdTY0dINlR6MUlaMUhhUi00VG5LV2tEMA?oc=5",
+          "title": "SK AX, AI 면접으로 지원자 1800명 6시간 만에 평가",
+          "date": "2026-10-29"
+        },
+        {
+          "name": "데일리바이트(DAILY BYTE)",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRjFHNUxkRzhHOFlpR2NrSkltWHpyYllhUjdocWVDLWhvYjd3dWZTSFlhcDk3WW43eS1rYWd4MzZvMXdGTkkzT2NjR1ZiSHVFZ1N5SkMzTm12M21xOVM1TDlBa3F0YlRxQ3I2UXkxMHN0akUxR0g5WGltZmpYZE9oVkZOZS1rdw?oc=5",
+          "title": "SK AX, AI 면접 솔루션 '지핏 스튜디오' 출시",
+          "date": "2026-10-29"
+        },
+        {
+          "name": "파이낸셜리뷰",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5EeTFQN1B2RC0xcjNqUmk0T0dRUkVjaVNtd0pBSmI4MDdQZHlQcVVseTJfQkhQX2lCOW16TVY4ZWFyY05CTEZzWGtvSGczZUwxUjA1TkRWVjU2aFl4aVE5QVVnRVNYWEwxcEFMeGlObmExYk1z?oc=5",
+          "title": "SK AX, ‘G-Fit Studio’ 출시...인재 확보에 AI 혁신 접목한다",
+          "date": "2026-10-29"
+        }
+      ],
+      "date": "2026-10-30",
+      "id": "20261030-02"
+    },
+    {
+      "cat": "labor",
+      "importance": "high",
+      "company": "고용노동부",
+      "title": "퇴직연금 사외적립 2030년 의무화 합의 및 사내복지기금 전수 점검",
+      "body": "노사정이 퇴직금 체불 방지를 위해 2030년까지 전 사업장 사외적립 의무화에 합의했어요. 고용노동부는 5,308개 사내복지기금 법인의 스톡옵션 유용 등 부정 집행 점검 결과도 발표했어요.",
+      "insight": "그룹사 전체의 퇴직연금 제도 운영 현황과 사외적립률 사전 점검이 필요하며, 사내근로복지기금 운영의 컴플라이언스 기준이 한층 엄격해질 전망이에요.",
+      "action": "사내 퇴직연금 적립 체계와 복지기금 운용 항목을 관련 법령 가이드라인에 맞춰 점검해 보세요.",
+      "teams": [
+        "인사기획",
+        "보상·복리후생",
+        "노무·ER"
+      ],
+      "tags": [
+        "퇴직연금",
+        "사외적립의무화",
+        "사내근로복지기금",
+        "고용노동부"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "고용노동부 보도자료",
+          "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=20163",
+          "title": "사내·공동근로복지기금 유용 근절 위한 5,308개 기금법인 ‘전수 점검’ 결과 발표",
+          "date": "2026-10-30"
+        },
+        {
+          "name": "고용노동부 보도자료",
+          "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=20160",
+          "title": "퇴직연금 기능강화를 위한 노사정 합의로 노동자의 든든한 노후소득 보장체계 구축",
+          "date": "2026-10-30"
+        },
+        {
+          "name": "뉴시스",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5DXzE2WTRoZFluYnZuRkRocHhqdUdEOVJ0clkxdWZoOXpGT2M5ZDItTWxSeHNNenVtWEJwdFNCMXllNmk2VW8yNVVZVm1sNzZwNDNFTzJZQ0JlYl9DM3ZhQWF0NUR1UmhTcjFJQ0V6WUFhU0dDUVdNd9IBeEFVX3lxTE5DXzE2WTRoZFluYnZuRkRocHhqdUdEOVJ0clkxdWZoOXpGT2M5ZDItTWxSeHNNenVtWEJwdFNCMXllNmk2VW8yNVVZVm1sNzZwNDNFTzJZQ0JlYl9DM3ZhQWF0NUR1UmhTcjFJQ0V6WUFhU0dDUVdNdw?oc=5",
+          "title": "'근로자 복지기금'으로 임원 스톡옵션 지급…\"재발 방지 감독\"",
+          "date": "2026-10-29"
+        },
+        {
+          "name": "경남신문",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBRZVIyQ0p3R2Z3X2gxN3RjWU1yQ2pWZVhWcjdZcEJ6ZjBxNl96MlJydl83a25rSGN4ZzE1djlYOTZabURkOEpBT01qTGs0djJ3ZVU4YUhDY013QQ?oc=5",
+          "title": "[당정 ‘퇴직금 기능 강화 방안’ 발표] 퇴직금 체불 막는다… 2030년까지 전 사업장 ‘사외적립 의무화’",
+          "date": "2026-10-29"
+        }
+      ],
+      "date": "2026-10-30",
+      "id": "20261030-01"
+    },
+    {
+      "cat": "ecom",
+      "importance": "mid",
+      "company": "쿠팡",
+      "title": "쿠팡CLS, 부산에 420억 투자 스마트 물류센터 신설…670명 고용",
+      "body": "쿠팡로지스틱스서비스가 부산시와 협력해 420억 원을 들여 AI 기반 스마트 물류센터를 짓고 670명 규모의 현장 및 기술 인력을 신규 채용하기로 했어요.",
+      "insight": "영남권 물류 인프라 확장으로 물류 자동화, 풀필먼트 운영 기획 인력 수요가 급증하며 몰테일·스윗트래커와 영남권 물류 전문 인력 확보 경쟁이 발생할 수 있어요.",
+      "action": "물류 계열사의 영남 거점 핵심 물류 운영 인력의 처우와 리텐션 방안을 사전 점검해 보세요.",
+      "teams": [
+        "채용",
+        "인사기획"
+      ],
+      "tags": [
+        "쿠팡CLS",
+        "물류센터",
+        "대규모채용",
+        "스마트물류"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "뉴시스",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE51ckROcU9oU2tEZG92Vnd3aTBnUHdUR0tHbnlpODNDZWhGdC1kM1liNGNMem5wUUpCeFNGZTR0ZTZfUV9zWjUzcVJPR3ZKa3FaMXlPUEJKdVplcXp4bjdTNzBjakhFQmJYZDlzSHROQzI0NG82ZGJRadIBeEFVX3lxTE51ckROcU9oU2tEZG92Vnd3aTBnUHdUR0tHbnlpODNDZWhGdC1kM1liNGNMem5wUUpCeFNGZTR0ZTZfUV9zWjUzcVJPR3ZKa3FaMXlPUEJKdVplcXp4bjdTNzBjakhFQmJYZDlzSHROQzI0NG82ZGJRaQ?oc=5",
+          "title": "쿠팡CLS, 부산에 420억원 투자…스마트 물류센터 짓고 670명 고용",
+          "date": "2026-10-30"
+        },
+        {
+          "name": "뉴스드림",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE53dmhmUHpVZkNDQjBNY2Y0dm5jdXVHd05ZeHBXbUUxVzFOd1dIa2ktQnFGNHhDVXdMc3ppUDVIUXVEQVNiNlZEeEdTOG1aN1hqaEpfdVBObkRpajVQWUxRVTFHM29qdmY4dHfSAW5BVV95cUxOZklLVFR5MUs2Y3ZNWFRpWHFZUUJSZ3BpQWRTNVdRTTBVUEdRUEJ4UWVWTlI5ZTlFTEtreGJEY2IzU1pmbVNaWG9ZRDg3X2loUzk0UGJadUYydm1oT1lqVUIzTUJFRm54YmI4M3V0dw?oc=5",
+          "title": "쿠팡로지스틱스서비스, 부산시와 손잡고 신규 스마트 물류센터 구축",
+          "date": "2026-10-30"
+        },
+        {
+          "name": "뉴스후플러스",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBFWDVNajJ4ZW1lMkttb0RaVWhIdlRQY0VfQ3pLZ2NHbGZ5UlZWZUVEbV9EVi16U21mNjZzT2cydzdDeDBEQnFiZGdlbEt6X0RsQmZLQnlTTHprNjFrcF9BSHh0MnFBb1dfMjUyYkJ3?oc=5",
+          "title": "쿠팡로지스틱스서비스, 부산 스마트 물류센터에 420억원 투자·670명 고용",
+          "date": "2026-10-30"
+        },
+        {
+          "name": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9TWF9YOW5laFRQd01INi1TOFVpSG9YMUQwQm5WaHduQmgxWFR5aHM0QWhvd3ZiancwQXZYWmZzUjNOdUdBVEJnR0N3akgyMldqQmVNNFp5OHBnQlHSAWBBVV95cUxOUDBMY3FCSFplbVMxZ1dnNnJGZ09LcTUxc3RDenpnbEpyWDBPYzRFbjRvU0xncVFlZ2xGUTZxaVA0bFF2Z2V3N1lLWS1oN1lSY21IVlE4Q1JUVUdsUnJyb1M?oc=5",
+          "title": "쿠팡CLS, 부산에 신규 스마트 물류센터 구축…420억원 투자",
+          "date": "2026-10-30"
+        },
+        {
+          "name": "브레이크뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE84VUR1bFYtVzRFZ3lzUmUwV05ySTlEOVBpTVRHbnZmTWkwcGxEVktXejVMYWwwQkJNeE8tbDFmazFlZw?oc=5",
+          "title": "쿠팡로지스틱스서비스, 부산에 스마트 물류센터 구축..420억원 투자",
+          "date": "2026-10-30"
+        },
+        {
+          "name": "매일일보",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1tRXptZHJ2cDZKejgyRWVWZEdZcHlveWUxX1lHRzVCWkhta2RITlVKUndXN3AxZnkwdHNTaFpWWnR6eVZWSHF1Q3hCTXBsR3R0dUJCS0dRZldVUXBEX285bGdyX3o?oc=5",
+          "title": "쿠팡CLS, 부산에 420억원 투입…AI 물류거점 확충",
+          "date": "2026-10-30"
+        },
+        {
+          "name": "한국아이닷컴",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5VaEplUWV3eW1FWXU5OVNERTFZdk1qNzgwNzluejd1Q2U1V3pkcWo1bGNTVDNFNkFfVHZaOGxIUGZPbTVCNnFXZG9qaHo5a0wydnRxdGtmbjhqRDJFdHhFS09hWFlLN0V6RVV0a1psd9IBb0FVX3lxTE5VaEplUWV3eW1FWXU5OVNERTFZdk1qNzgwNzluejd1Q2U1V3pkcWo1bGNTVDNFNkFfVHZaOGxIUGZPbTVCNnFXZG9qaHo5a0wydnRxdGtmbjhqRDJFdHhFS09hWFlLN0V6RVV0a1psdw?oc=5",
+          "title": "쿠팡 CLS, 부산에 420억원 투자…물류센터 신설·670명 고용 추진",
+          "date": "2026-10-30"
+        },
+        {
+          "name": "워크투데이",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA4NDU0OUJkd2tPVnBCOXA4YWxXaG5ZMXllM2pXcVpncWQtOUZkRVZ3dkZCYjFGazMxX0t2blFwNmZrWDhoQUo4YzhzUmdYeGhPQ1hZblUzTWVJZnZzaU15eFhzMlhiU0R5dmxtaw?oc=5",
+          "title": "쿠팡로지스틱스서비스, 부산에 420억원 투자…스마트 물류센터 짓고 670명 채용",
+          "date": "2026-10-30"
+        },
+        {
+          "name": "더페어",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1aMldaamRta1V0eFpqMURQdlJzVFBoa0g4SEtJb21lVVVfUjJScVQ3bUxRekdsQlA1cTU2S1FESllxU0I4cExDZm5TeHVTakJhbFJlTWNZNkFfZWJlLTVabXNvX2doMzIxSjdBT3NkWWzSAXRBVV95cUxPWTEwZE50MU1hUjJfSjBDOW5NUGNMR04tc2E1TEtzTUpDdzJodWZhQVpLTENmc0ZCMlI4Vk50OFdqcUdtRE9qUmtJeXU1d0NJWGswaFdqeG84X05kUVlPY0UyeDM4ejJJYnVjdXhmczNQajlyRA?oc=5",
+          "title": "쿠팡로지스틱스서비스, 부산에 420억 투자…670명 신규 고용 추진",
+          "date": "2026-10-30"
+        }
+      ],
+      "date": "2026-10-30",
+      "id": "20261030-03"
+    },
+    {
+      "cat": "trend",
+      "importance": "mid",
+      "company": "업계 전반",
+      "title": "주 36시간·4.5일제 실험 확산 속 유연근무 근태 관리 SaaS 전환 필요성",
+      "body": "주 4.5일제와 36시간 근무제를 도입하는 기업 사례가 늘고 있어요. 이에 따라 다양한 유연근무제와 교대근무를 수용하기 위한 클라우드 기반 근태 SaaS 체크리스트가 주목받고 있어요.",
+      "insight": "커넥트웨이브 그룹사별(개발·물류·운영) 상이한 근무 형태에 대응하고 임금 계산 리스크를 줄이기 위해 유연한 근태 솔루션 구축이 요구돼요.",
+      "action": "계열사별 복합 근무제(시차출퇴근, 재택, 교대근무)를 정확히 반영할 수 있도록 현행 근태 시스템의 정합성을 점검해 보세요.",
+      "teams": [
+        "인사기획",
+        "노무·ER"
+      ],
+      "tags": [
+        "주4.5일제",
+        "근태관리",
+        "SaaS",
+        "유연근무"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "시프티 블로그",
+          "url": "https://shiftee.io/ko/blog/article/attendance-management-saas-stability-checklist",
+          "title": "근태관리 SaaS 도입 시 확인해야 할 안정성 기준과 체크리스트 최근 기업들은 근무일정 관리, 출퇴근기록 관리, 휴가 관리, 전자결재 등 다양한 인사 업무를 SaaS 기반 솔루션으로 운영하고... 2026-07-15",
+          "date": "2026-10-30"
+        },
+        {
+          "name": "시프티 블로그",
+          "url": "https://shiftee.io/ko/blog/article/36-hour-workweek-attendance-management-guide",
+          "title": "주 36시간제 근태관리 방법과 근태관리프로그램 활용 가이드 근로시간 단축과 생산성을 함께 고려하면서 주 36시간제 도입을 준비하는 기업 사례가 등장하고 있습니다. 기존 주 40시간 근무... 2026-10-09",
+          "date": "2026-10-30"
+        },
+        {
+          "name": "시프티 블로그",
+          "url": "https://shiftee.io/ko/blog/article/attendance-management-process-roles-checkpoints",
+          "title": "근태관리란? 단계별 업무와 담당자 역할 분담으로 보는 근태관리 프로세스 근태관리는 근로자의 출퇴근 시간을 기록하는 것부터 시작하지만, 실제 필요한 업무는 근무일정과 근로시간 관리, 연장근무 승인, ... 2026-1",
+          "date": "2026-10-30"
+        },
+        {
+          "name": "시프티 블로그",
+          "url": "https://shiftee.io/ko/blog/article/attendance-management-app-adoption-checklist",
+          "title": "기업용 근태관리 앱, 우리 회사에 맞는 선택 기준과 도입 체크리스트 출퇴근 장소와 근무시간이 일정했던 과거와 달리 최근 기업에서는 사무실 근무뿐 아니라 외근, 재택근무, 교대근무 등 다양한 근무... 2026-09-",
+          "date": "2026-10-30"
+        },
+        {
+          "name": "시프티 블로그",
+          "url": "https://shiftee.io/ko/blog/article/shift-work-attendance-data-payroll-settlement",
+          "title": "교대근무 급여정산 가이드: 근태데이터 연동과 수당 계산 방법 교대근무를 운영하는 기업에서는 근무조와 근무시간이 다양하기 때문에 급여정산 과정에서도 여러 조건을 함께 고려해야 합니다. 특히... 2026-09-18",
+          "date": "2026-10-30"
+        },
+        {
+          "name": "한국부동산뉴스",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5Ob2hzYmVyaGdnaHEtcGl4NklIUlZqZFlKSVQwNW1QaE84R1kwbmVKYWJtVWVpQ2QzdlA2cW9lbUdPZzZlcWZ0WGdXd1ZqR2FtMnBVY2twS2NOSXpvbkRzenNUbGY1ckVRWTBB?oc=5",
+          "title": "주 4.5일제 찬성 69%지만…5인 미만 사업장 57% \"우리 직장선 어려워\"",
+          "date": "2026-10-29"
+        },
+        {
+          "name": "밴쿠버 중앙일보",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5zYnNtbnBpTkVCYk1wYXpQSXlURm9MUkdNcGlPWmVkSW0zVkt2M0JZcnVEbnFpcmFyZFNGN3NNdVd1b2pQWFBwdTZIUGo5WlZrd25Oa2F4MWU2dEo5SkxxcXNqaEwwNDV1OUs3M2dkN0tMdjN3cTBV?oc=5",
+          "title": "\"100년 된 주 5일제 바꾸자\"… 캐나다 주 4일 근무 바람",
+          "date": "2026-10-29"
+        },
+        {
+          "name": "매일신문",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAwZ0sweUxqU1FhWGdFVXhWdmh2eWpKYWFqZmRkZGFnZzVDdUFlNmlUUTZQdk4xUms2U0tlZVI3S3RKbl9RcFotaGRKcVJnOEVfY1o3SXRkUWVZQlkxZjEtYThB?oc=5",
+          "title": "대구·경북 37개 기업 주 4.5일제 동참… 주당 2.56시간 줄였다",
+          "date": "2026-10-29"
+        }
+      ],
+      "date": "2026-10-30",
+      "id": "20261030-07"
+    },
+    {
+      "cat": "ecom",
+      "importance": "mid",
+      "company": "무신사",
+      "title": "무신사, 오프라인 뷰티 단독 매장 확대 및 AI 검색 렌즈 출시",
+      "body": "무신사가 홍대에 이어 성수에 400평 규모 대형 뷰티 매장을 열며 오프라인 접점을 넓히고, 이미지 기반 상품 검색 AI인 '무신사 렌즈'를 공식 출시했어요.",
+      "insight": "카테고리 확장(뷰티)과 온·오프라인 옴니채널 강화, 버티컬 AI 기술 도입을 동시에 가속화하며 테크 및 리테일 MD 인재를 공격적으로 흡수하고 있어요.",
+      "action": "다나와·에누리의 AI 가격비교 및 검색 고도화를 위해 무신사 등 버티컬 커머스의 AI 서비스 기획 인력 동향을 모니터링해 보세요.",
+      "teams": [
+        "채용",
+        "조직문화·HRD"
+      ],
+      "tags": [
+        "무신사",
+        "버티컬커머스",
+        "AI검색",
+        "옴니채널"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "청년일보",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5DNWJhSVM1SEQwOEdNTjBUOWF6MUlVTlFuY3NjeGNiQ2k1SVFTRTFCcGpFQkQ5SDVlTDlKMnlqN0NqRVQ5UGRpQVlYZW5BQ3ZSQ2ExenlGTHBsNEhFLTlpTXB6eEhLOG8?oc=5",
+          "title": "무신사, 홍대 이어 성수에 뷰티 매장 오픈…온·오프라인 고객 접점 확대",
+          "date": "2026-10-30"
+        },
+        {
+          "name": "패션비즈",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1vUHlmMFl6cHMwZHpzZ3FVbzRfWGVLQzZKbTBoVGc2NkxLWUk1QmV5ZDEtVEFjdjVTWUVFc3dyNllzOUhQRGlRNjVVZUQ0bDQw?oc=5",
+          "title": "홍대 이어 성수… 무신사, 두 번째 뷰티 단독 매장 연다",
+          "date": "2026-10-30"
+        },
+        {
+          "name": "뷰티누리",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBfb3RNU3lXbXNsbmpLTWNiMDdZakZCaW9zYlpEOWlNVXh4ZjduT3hhOGtGREJQeUtaWk1tRXBkMEd5Y2ZaNUxybzZNQi1Kb1dWeGJsZEtQTTRMOGlGdThB?oc=5",
+          "title": "화장품신문 (Beautynury.com) :: 무신사, 성수에 400평 규모 뷰티 전문매장 오픈",
+          "date": "2026-10-30"
+        },
+        {
+          "name": "뉴스저널리즘",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1IZkJFYnV3VmdGaXNTWVpzYTdvbzl6SnR0aERqR0NUYndDNzgtdzFLMy1objQ1ckV3ZTJSR3owR2hHUm5vNjJUVzMzbXdjcjRWQ2tURk9sVVVOLVVSOFZfY3FnLTV2Nmk1U1ZJ?oc=5",
+          "title": "사진 한 장으로 상품 찾는다…무신사, AI 검색 '무신사 렌즈' 출시",
+          "date": "2026-10-30"
+        },
+        {
+          "name": "머니투데이",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1LdFRWRzZOVEJWQ3JWbUJILXdQSHlsbFA5T29nZENwNTUtYmpuUEdVR2JMVWRsZzVyejBvNUE2blJYbUZFc3F5dUMwUndQSS0zcTlwamZOYjdXMEVXRU5Sb1hPZ2h3LWdFV1HSAW9BVV95cUxNUUNYbDNEOElKaWg2bElEaEVLQ1B2UENtZ0xQX3NzMm9QU1RaaEtObHNKQy1odFItMU5tMXdsdXVnUzNLSWhRWDJsLWtNaTBEbmNyQklmVjlDMFVNMzRReW84ZlVFN1p2WlMxX1pXS0k?oc=5",
+          "title": "무신사 뷰티, 홍대 이어 성수…약국 상담·인디 브랜드 강화 - 머니투데이",
+          "date": "2026-10-30"
+        },
+        {
+          "name": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB3clQ4czlmWVZJYXRySU5CbjdLc3FIOC1veUNQN2dfSHEwUEJMeFVCWmRzbHZDV1dnTjE2akphVENpd3VRcV9jWkRDbWRzdHJ6bWVndnZPNTRYWnhmcXk0ZNIBYEFVX3lxTFB3clQ4czlmWVZJYXRySU5CbjdLc3FIOC1veUNQN2dfSHEwUEJMeFVCWmRzbHZDV1dnTjE2akphVENpd3VRcV9jWkRDbWRzdHJ6bWVndnZPNTRYWnhmcXk0ZA?oc=5",
+          "title": "무신사, 내달 11일 '무신사 뷰티 성수' 개점…700개 브랜드 입점",
+          "date": "2026-10-30"
+        },
+        {
+          "name": "아시아경제",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5EcHpTVTc0TS1zM3Nmc3IwWjlXajRfT3AzNlFJQzd3NEpHbFFZcFRnYklZMkRkZG5xSDN3ZVFlYWI4UU5PYm1xVnlVajY5c2x2ZG5VdlpFcG5Mek9HTzk4Mg?oc=5",
+          "title": "무신사 뷰티, 홍대 이어 성수 진출…인디 브랜드·약국 결합",
+          "date": "2026-10-30"
+        }
+      ],
+      "date": "2026-10-30",
+      "id": "20261030-05"
+    },
+    {
+      "cat": "ecom",
+      "importance": "mid",
+      "company": "카페24",
+      "title": "카페24, 인스타그램 크리에이터 마켓플레이스 연동…셀러 솔루션 고도화",
+      "body": "카페24가 인스타그램 크리에이터 마켓플레이스 API 연동을 완료하고 브랜드와 인플루언서 매칭 기능을 강화했어요. 쇼핑 플랫폼 내 크리에이터 커머스 생태계를 확장하고 있어요.",
+      "insight": "메이크샵의 주요 경쟁사인 카페24가 인플루언서 커머스 기능과 소셜 연동을 강화함에 따라, 커넥트웨이브도 관련 API 연동 및 셀러 솔루션 기획 인력 확보가 중요해졌어요.",
+      "action": "메이크샵·플레이오토 기획팀과 협력해 소셜 커머스 연동 및 마케팅 툴 개발자 채용 소싱을 강화해 보세요.",
+      "teams": [
+        "인사기획",
+        "채용"
+      ],
+      "tags": [
+        "카페24",
+        "메이크샵",
+        "셀러솔루션",
+        "인스타그램연동"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "지디넷코리아",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9VWDBRQnpBd1p1QjF6eFJLN3NJZE41eS1FNUVIRmxBV19aMHpZQWNBdHdULWpuVGFaeWZFVm0yQ0R4eTZ3VF8yel9tWGxuNjhtWDh3Sm53?oc=5",
+          "title": "크리에이터 탐색·협업 제안…카페24, '인스타 데이터' 연동",
+          "date": "2026-10-29"
+        },
+        {
+          "name": "아시아투데이",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9INDlwN0ptSlZ3ZnVDSEQ4ZDNyVy1IcWFwbHBOdlducU9ObVRoOHAtajNmeEhLcnV5WGFzaW1vUW1qRTdMVGJBbGVGWVVDeURlUldfMDRZUk1NZ3ozazBGUHFGZXhFR3pFbEpydHdn?oc=5",
+          "title": "카페24, ‘인스타그램 크리에이터 마켓플레이스 API’ 연동 완료",
+          "date": "2026-10-29"
+        },
+        {
+          "name": "한스경제",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9pblZUUGdYTFdfN0xQVGxQLW5uWU1aT0ZKcTdlckVOampiOFlOZllqMlhnYmFoem9UREg0RFA0X3ZNaTdxMFBIS1ZsMXpfck1qMjZGRGtSNmVRbk1zX245Y2l6TXhMQ2FNcVlz0gFvQVVfeXFMTXJibTNGMThFTlN3UG5Gc0lTQ1BuY3Z6WWthQnhEbHA3RWlpWF9TbV9wRE9TYnJKWFdQM25aM3EwT3NjTnpocnZ5NFN6djFDcVU0YTRTUzRZSzdqalFLaHJZbk92a1RLTTRXSnBRd1dV?oc=5",
+          "title": "카페24, 인스타그램 크리에이터 데이터 연동",
+          "date": "2026-10-29"
+        },
+        {
+          "name": "대한경제",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBUbExxbVpzZDlFSHpSeGMtWlUxVGVXNnlidzlmcDJnYTc2X05JMUJFR3JIUENHaXZlRnRvcVpOX0t4LXp5b1hqTHFCVUVnRjU4MmtwNmtSNlVxaFFuUnJPVXY4UlhMTHBGdExGS01JcGgxbkVm?oc=5",
+          "title": "[테크 NOW] SK AXㆍ인텔ㆍ카페24",
+          "date": "2026-10-29"
+        }
+      ],
+      "date": "2026-10-29",
+      "id": "20261030-04"
+    },
+    {
+      "cat": "market",
+      "importance": "mid",
+      "company": "업계 전반",
+      "title": "AI 역량 보유 인재 연봉 프리미엄 60% 상회…면접 경험이 채용 성패 좌우",
+      "body": "글로벌·국내 시장 조사에서 AI 역량 보유자에게 평균 62% 높은 연봉이 제시되는 추세가 나타났어요. 한편 구직자의 61%는 면접관의 태도가 불쾌하면 입사를 포기한다고 답했어요.",
+      "insight": "AI 전문 인력에 대한 과도한 보상 격차 발생 시 기존 인력과의 형평성 조율이 필요하며, 우수 인재 확보를 위한 면접관 인터뷰 경험 관리가 핵심 과제로 떠올랐어요.",
+      "action": "면접관 대상 '캔디데이트 익스피리언스(지원자 경험)' 가이드를 배포하고, AI 직무 타깃형 직무급 보상 밴드를 리서치해 보세요.",
+      "teams": [
+        "보상·복리후생",
+        "채용"
+      ],
+      "tags": [
+        "AI연봉",
+        "지원자경험",
+        "면접관교육",
+        "보상전략"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "문화일보",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE55MlVNUDFRQjIwODVKMk0wTDZpczVKS2Y5RjFWREs2LW1INFhkWXMxTHFOQUFQcEVuM0xjcjFqV2hVc1Etd1RDakFTV2lUczFv?oc=5",
+          "title": "“AI인재에 연봉 62% 더”… 활용 능력따라 ‘부익부빈익빈’[창간 35주년 특집]",
+          "date": "2026-10-30"
+        },
+        {
+          "name": "한국면세뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBqcWN2R3FFR1RkMktlT0I1clNNM3lLYUFaSmxtdWcwR0MwUENwak1TOUtKLXJHYkk4c1YzMlhIaG5zcE50MHJwZTNRNHRseE81elM0cEk4VzEtelZLOW9pODdFSWRkelZDMHc?oc=5",
+          "title": "진학사 캐치, 구직자 61% \"연봉 좋아도 면접 불쾌하면 입사 포기\"",
+          "date": "2026-10-30"
+        },
+        {
+          "name": "ABC뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9wRjRza0JRZFJmRDM3VEZyUFprdmd5WDhycHFHcndWUWY4U25ic1QzNWhGQjRYaHpobDVScFFiZEgwaExnaFdKTXBhdXBQaTZ5eW1UM2xLYWVPaG9sdmc4SjlKVURXazjSAWdBVV95cUxPcEY0c2tCUWRSZkQzN1RGclBaa3ZneVg4cnBxR3J3VlFmOFNuYnNUMzVoRkI0WGh6aGw1UnBRYmRIMGhMZ2hXSk1wYXVwUGk2eXltVDNsS2FlT2hvbHZnOEo5SlVEV2s4?oc=5",
+          "title": "면접장에 AI 안경 쓰고 오지 마라…기업 92%·구직자 81% 착용 금지 찬성",
+          "date": "2026-10-29"
+        }
+      ],
+      "date": "2026-10-30",
+      "id": "20261030-06"
+    },
+    {
+      "cat": "labor",
+      "importance": "mid",
+      "company": "업계 전반",
+      "title": "직장 내 괴롭힘 사후 조치 의무 판례 및 법적 사용자 책임 강화",
+      "body": "직장 내 괴롭힘 사실이 확인된 후에도 가해자에 대해 적절한 분리 및 징계 조치를 취하지 않고 방치할 경우 기업에 민사상 손해배상 책임이 부과된다는 법적 쟁점이 부각됐어요.",
+      "insight": "괴롭힘 사건 처리 시 조사 절차뿐만 아니라 가·피해자 분리 및 실효성 있는 사후 조치, 2차 피해 방지 프로세스가 법적 리스크 관리의 핵심이에요.",
+      "action": "사내 직장 내 괴롭힘 발생 시의 분리 조치 매뉴얼과 인사위원회 징계 양형 기준을 재점검해 보세요.",
+      "teams": [
+        "노무·ER",
+        "조직문화·HRD"
+      ],
+      "tags": [
+        "직장내괴롭힘",
+        "사용자책임",
+        "노무관리",
+        "조직문화"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "오프피스트",
+          "url": "https://www.offpiste.ai/articles/직장-내-괴롭힘과-갈등-대응-2652",
+          "title": "직장 내 괴롭힘과 갈등 대응",
+          "date": "2026-10-29"
+        },
+        {
+          "name": "경인방송 뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBKOUdsUk9yLWpPbWJoZU5EeUFxQ1RTZURTOVA0MWtqYVVZTUJnTmkzSHpIZGc4Qzd6cDFQc1BQUlpKTDV1bzB4a1U0Yi0zWHlVTmtvT3VwRnV2U2h3V084LThMVDQ?oc=5",
+          "title": "[경기도 노동이야기⑯] '참으면 병, 적으면 증거' 직장 내 괴롭힘, 법과 권리로 대처하려면",
+          "date": "2026-10-30"
+        },
+        {
+          "name": "로톡뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE56NWFqMnZTclJoaENRa01RWXU0TC11bW4xYm5BOGZfN2QzUFowZDRxZHZWVWpacU1OWFIwZGVlVFlXd2NuNHRrV0MxR3d6ZUt6U3BDVmtOWmhnUQ?oc=5",
+          "title": "직장 내 괴롭힘 인정되고도 가해자 계속 고용한 회사, 책임 물을 수 있을까",
+          "date": "2026-10-29"
+        }
+      ],
+      "date": "2026-10-30",
+      "id": "20261030-08"
+    },
+    {
+      "cat": "ecom",
+      "importance": "low",
+      "company": "11번가",
+      "title": "11번가, AI 쇼호스트 도입…라이브 커머스 인력 운영 효율화",
+      "body": "11번가가 연중 최대 행사인 '그랜드십일절'을 앞두고 자체 제작한 AI 쇼호스트를 처음으로 공개하고 실시간 라이브 방송 진행에 전격 투입했어요.",
+      "insight": "커머스 플랫폼 내 콘텐츠 제작 및 라이브 방송 영역에서 AI가 인력을 대체·보완하는 사례가 늘고 있어 관련 직무 역량의 변화가 예상돼요.",
+      "action": "다나와 라이브커머스 및 콘텐츠 제작 부서와 공유해 생성형 AI 미디어 툴 활용 교육 수요를 파악해 보세요.",
+      "teams": [
+        "조직문화·HRD",
+        "채용"
+      ],
+      "tags": [
+        "11번가",
+        "AI쇼호스트",
+        "라이브커머스",
+        "콘텐츠자동화"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1nOVF2RTJfY3JjdVVlWE0tTVVUOW5LVEstakpyU0g1WWp3Z2lmaG5hQXlnbUZwMEFFWFRaRVJiUFBtbEdpb0RHRG9EcmVfR3doVkw4X3hWRnZVbjjSAWBBVV95cUxQZDRMWTlHZGVJMVA5MzBmR1J0ZC13aVhrcjdIYkgyZWdXc3VuZGZSamJOY1Z0NE5IQVpZcHBkY2tERkQ3U21TUjkyOWJwOGRuelU2WDJUdHBXa0JRdGtRam8?oc=5",
+          "title": "11번가, AI 쇼호스트 첫선…그랜드십일절 라이브 방송 진행",
+          "date": "2026-10-30"
+        },
+        {
+          "name": "데일리안",
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOYkxkNUt4TXhBbnFBUFl5LVZVYTh4ZmxYdkpoUThWZ3R4UVAwUGRYdE1HTlh1eFdsLWtNb1k0ZmhJRnNsODlDOTdaSlV0NklaS2VfZ05mMlNmZGE4aUpRM0gwNzREZ2pPNEpDU1ZIRnVMdzVOY0F0M1RZREpJME9HczBIdWRBSVhYdk5Wc1FHR2dlbWdQVHdRTVQ0MXlfeTE5Y0hWRExXdjc3VTQ0ajQ3RWdZYkNvSmpZZ0hVdjZpZHBKTm9CY1FNeWxpbVFBMVJHVF9MQmljdUZFdjBQS25Td1BQem9XbkxaSHdJMA?oc=5",
+          "title": "11번가, AI 쇼호스트 첫 공개…대표는 고객이 뽑는다",
+          "date": "2026-10-30"
+        },
+        {
+          "name": "뉴시스",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1lbno4NThScGpDOU5tNUY3SV82RUd5emJrTzlTNWtkU3pFU0ZaTUFSVmI3NjItSUEzaHZDZzdHLW9CVDhBM0MtdXQ4MGhjWmh4d00xb01sQ1FOR19KNVp3ZNIBeEFVX3lxTE5wMkRhcFl4MldKZ2tUVTJ6S3l5Q0xtWTBRdFMyWm9mZFIwQ3JDSkkwU0xhbjVGdjJxNDBLc0dXTENJRER6aU42NWxvbDQzdDE2YkF6aVRZUElaNlo3WlJUMzBOOFFJS0xGUzdVQmozOGRub3NsZG9yWQ?oc=5",
+          "title": "11번가, AI 쇼호스트 공개…그랜드십일절 라이브 커머스 차별화",
+          "date": "2026-10-30"
+        },
+        {
+          "name": "이데일리",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMkU3QlRDSi1JRWxWYmR5SG5GNUwwVDNXTVViM3BfdFZ0ZUQwdUdOa1NDczVPUVE5MW5JZXlyUUQtTll4b1c0NHBvaFdDSHVkb1ExbmVsWktXY0lsS1M0eWtDWTcxX05udmNZcU1aRU5ETTFPWWhaLUFrOTZET0dwMA?oc=5",
+          "title": "11번가, ‘그랜드십일절’에 AI 쇼호스트 첫선…라이브 커머스 강화",
+          "date": "2026-10-30"
+        },
+        {
+          "name": "싱글리스트",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5OY3JDV3VkY20zZjRQbjIxY1NNamFwd3Fxc1FubWZOMzJDUzlkNmxrRFZQUGZXUWMwOUhVdTVEcWZIMlU5Q2lhNkVjVnFhNFpDNEdqbXVMSXB1bU5jVlpEbHNQMnRsdw?oc=5",
+          "title": "11번가 ‘그랜드십일절’, AI 쇼호스트와 라방→고객참여 이벤트",
+          "date": "2026-10-30"
+        },
+        {
+          "name": "중앙신문",
+          "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxNUkx1MDRDRE1lSnFDc0lMY2FqeEtPbXVBeUJUeXdnSXMxNklkMkxlU3pQSE1oNXhWTFhmdE1tQzRBSnotOU9FZURZYXRVZ2g5dlpBM3NpRksxVEREc1MySnM1YVJLUkY2YURTNjE2dVFJbEJSNEVVcFN3VW1TdVBmaDh5Q3hqTzh1WDJRM0JqMDRDZzd2WkE0X25TOTh0QjQ5LUJoUTVHcDA5cG9Obm01M1VhNTNfaWQwdmdJeTVJM3JXX05EUGs2UmlIcTktMm5NOGVJT3BWTjUteFBoeFh6WmFod2JNVk4zWFhXbERMRERnZldRZ3g4Qkt3RFFaY3gyYzRxTWRLOHdiMW5hY0lDdzVkbm93RkJHX1FZQWM1YjJxenFwaVQ5VkE5RHFWdUhCNVVuOTAyTlk0TTB1?oc=5",
+          "title": "AI 쇼호스트까지 나왔다…11번가, 그랜드십일절서 첫선",
+          "date": "2026-10-30"
+        },
+        {
+          "name": "뷰어스",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5iZzdfRzZIMmx4OGxiUmFMa1RfMXJFVEUxRHFhSjZlOHg5dVAxRTRlTUlzM3BOQjJzbkEzUGhZREhEdjZtNlZfWEJQQ3JPX2l0N0E5ZGNQR2w?oc=5",
+          "title": "[유통갤러리] 11번가 ‘그랜드십일절’, AI 쇼호스트와 라이브 방송 즐긴다 外",
+          "date": "2026-10-30"
+        }
+      ],
+      "date": "2026-10-30",
+      "id": "20261030-09"
+    }
+  ]
+}
