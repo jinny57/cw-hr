@@ -1,0 +1,564 @@
+{
+  "date": "2026-11-02",
+  "window_days": 1,
+  "article_count": 275,
+  "engine": "gemini-3.8-flash",
+  "headline": "홈플러스 경영난 심화 및 노무·AI 채용 규제 리스크 주목",
+  "points": [
+    "홈플러스의 급여 미지급 및 희망퇴직 취소로 커머스 인력 시장 유입 가능성이 확대되었어요.",
+    "직장 내 괴롭힘 허위 신고 징계 기준 마련 및 사외 발언 판례 등 노무 관리 유의점이 증가했어요.",
+    "퇴직연금 사외적립 2030년 전면 의무화와 글로벌 AI 채용 공시 의무화 흐름을 점검해야 해요."
+  ],
+  "items": [
+    {
+      "cat": "labor",
+      "importance": "high",
+      "company": "업계 전반",
+      "title": "법원, 개인사 간섭 발언에 직장 내 괴롭힘 인정 판결",
+      "body": "부하 직원에게 '아이는 남편에게 보라 해'라는 등 사적 영역을 침해하거나 압박을 가한 언행에 대해 법원이 직장 내 괴롭힘으로 판결했어요.",
+      "insight": "욕설이 없더라도 사생활 언급이나 우월적 지위를 이용한 부적절한 간섭은 법적 리스크가 돼요.",
+      "action": "리더십 및 전사 괴롭힘 예방 교육에 사생활 간섭 발언 금지 사례를 필수 교육 내용으로 포함해 보세요.",
+      "teams": [
+        "노무·ER",
+        "조직문화·HRD"
+      ],
+      "tags": [
+        "직장내괴롭힘",
+        "판례",
+        "리더십",
+        "기업문화",
+        "노무"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "서울경제",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE95VTdUN0lmWmRDenBXYmFwbm1GWWNqWWpjLU13SW9TLUlRc2tjb05vZ2ttTTZuRDNZWXRNakdRR09ERmFLeHVTUldteTh2VWk0U1Ew0gFTQVVfeXFMT3lVN1Q3SWZaZEN6cFdiYXBubUZZY2pZamMtTXdJb1MtSVFza2NvTm9na21NNm5EM1lZdE1qR1FHT0RGYUt4dVNSV215OHZVaTRTUTA?oc=5",
+          "title": "“늦게 왔네?” 출근 시간 물었다가…직장 상사 직장 내 괴롭힘 판단 나왔다",
+          "date": "2026-11-02"
+        },
+        {
+          "name": "YTN",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1tTzNNSkNjd2k2ZXlraXAtVEg1U2lGWldsUXE4NTZnYUVwTmVld3RjMmtkM2pOUVRHclM1SG5ESUgwTDRmS1dDVjhTT0syWm16ZVNLTWFqeDJYQlJlZVE?oc=5",
+          "title": "\"아이는 남편에게 보라고 해\"...법원, '직장 내 괴롭힘' 인정",
+          "date": "2026-11-01"
+        },
+        {
+          "name": "JTBC",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5WUTc0OWVhR1c5YmRIN1paM0Fmd1BPNlFyYUgyRE1jTlNzdEhHTXM5UnUxS1RNNzQ1TVk5SHRhQU1KZ2otYXBjR0YyQlRhX0hmVm56TA?oc=5",
+          "title": "\"나한테 설명하려고 하지 마\"…욕설 없어도 ‘직장 내 괴롭힘’ 구청 과장 감봉 정당",
+          "date": "2026-11-01"
+        },
+        {
+          "name": "조선일보",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVzRwY3lSRktYUlR5eklXVFVQOTdOVzIzbFJBYXlmd1p0WWIxZHhWdTZLdVR2U0pWNFkxZGhyUnNnTElhdkUyaTJLdTBTUEZaNlBiMWoxQWZOWnVhZHM1RFNhWkV1VnhFb2gxWEdmcDdadnhTRm5jclpzX1ZQdjUxb0pxNW1QOUU?oc=5",
+          "title": "\"애는 남편에게 보라 해\"…법원 \"직장 내 괴롭힘\"",
+          "date": "2026-11-01"
+        },
+        {
+          "name": "채널A",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8zWUNxdHdXOXFfVzhOeE5NLTRoWlE5a3prcjAxNmQxUHV4NUpPMTBVVzlGZmNLUlYwZ3N2M2Jvb1NDOGlsY2FqekY5M1ZBaUVmN3N2V1dHa0l4Q1dSOFHSAWNBVV95cUxOYXI2YUxIa0htR3pqclJ2MW9NcmotY0FwTmR4OFFMNVVncDZnc0pvMnE5WTZTSTF4eG5Sb05PZTVQSDF3MHdpY3pyOWprRTY4NjZMSVhXdmNyNmV2ekp6dHBYSlk?oc=5",
+          "title": "“몇 시에 출근했어?”…‘직장 내 갑질’일까?",
+          "date": "2026-11-01"
+        },
+        {
+          "name": "BBS불교방송",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5GcFVJQXB3NHNkbFlSbjM3QUJ2RHJUQW1sdm5qdmdVdWhSQXRHQkliRTRJM2pIT29pYWFwdEVUUVNKZGVrdmE4Z3N2NjFsMWtqTVpJbkpKT3gyQ093aWVzSHU0RFg3N3pXbEVR?oc=5",
+          "title": "부하 직원에 '아이는 남편이 보라고 해'...직장 내 괴롭힘 인정",
+          "date": "2026-11-01"
+        }
+      ],
+      "date": "2026-11-02",
+      "id": "20261102-03"
+    },
+    {
+      "cat": "ecom",
+      "importance": "high",
+      "company": "홈플러스",
+      "title": "홈플러스 급여 미지급 및 희망퇴직 취소 사태 발생",
+      "body": "홈플러스가 급여 미지급에 이어 400여 명이 신청한 희망퇴직마저 전격 취소하며 극심한 경영난을 겪고 있어요. 직원들의 불안감이 극에 달한 상황이에요.",
+      "insight": "오프라인 유통 및 이커머스 MD, SCM 등 핵심 실무 인력의 이탈과 구직 수요가 급증할 전망이에요.",
+      "action": "유통·이커머스 경력직 풀을 선제 확보하고 홈플러스 이탈 핵심 인재 대상 다이렉트 소싱을 검토해 보세요.",
+      "teams": [
+        "채용",
+        "인사기획"
+      ],
+      "tags": [
+        "홈플러스",
+        "경영난",
+        "희망퇴직",
+        "인재유입",
+        "유통"
+      ],
+      "our_group": false,
+      "talent": {
+        "level": "high",
+        "signal": "급여 미지급 및 경영난 심화 — 커머스 MD·SCM 인력 이탈 본격화"
+      },
+      "sources": [
+        {
+          "name": "연합투데이",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ydmNJeHc1V2t3aEhwWDRVQW5iOG9NVGU1ZVlfWWRfTTdRMW5mY19sVlZhRkVlRllDOWdpS21jazIwYW5JdWdyeTg1LTJnNGRGR1VLbTJJeTVVVERfVnpVcmo4eXhQRnhWcTBSVnlja9IBb0FVX3lxTE1ydmNJeHc1V2t3aEhwWDRVQW5iOG9NVGU1ZVlfWWRfTTdRMW5mY19sVlZhRkVlRllDOWdpS21jazIwYW5JdWdyeTg1LTJnNGRGR1VLbTJJeTVVVERfVnpVcmo4eXhQRnhWcTBSVnljaw?oc=5",
+          "title": "홈플러스, 8월 급여도 미지급…400여명 신청한 희망퇴직마저 취소",
+          "date": "2026-11-02"
+        },
+        {
+          "name": "뉴스1",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1TQlNyWklZNE93TmlqcFdSME4wT3lTQjBDVXJwc1hMVlFjenNXUEx1cWd2MWwtNDNLcVZEQjlkUXFSVHB0Uk91MlZFMGlLSldNME9zVV9sVWhQbC04MFpj?oc=5",
+          "title": "\"카드 돌려막기도 한계\"…월급 밀리고 퇴직길도 막힌 홈플러스 직원들",
+          "date": "2026-11-02"
+        }
+      ],
+      "date": "2026-11-02",
+      "id": "20261102-00"
+    },
+    {
+      "cat": "market",
+      "importance": "mid",
+      "company": "SK하이닉스",
+      "title": "SK하이닉스 채용연계 AI 해커톤 서버 장애로 전면 파행",
+      "body": "SK하이닉스가 채용 혜택을 걸고 진행한 AI 해커톤 예선이 시스템 장애로 중단되며 참가자 전원 재시험을 치르는 사태가 발생했어요.",
+      "insight": "채용 연계 대규모 기술 과제 및 테스트 진행 시 시스템 인프라 안정성이 기업 신뢰도에 직결돼요.",
+      "action": "개발·테크 직군 코딩테스트 및 전형 플랫폼의 동시 접속 수용력과 장애 대응 매뉴얼을 점검해 보세요.",
+      "teams": [
+        "채용"
+      ],
+      "tags": [
+        "SK하이닉스",
+        "채용테크",
+        "해커톤",
+        "시스템장애",
+        "채용운영"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "Chosunbiz",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQa3JBTVRHMlJSTF9lVE8tZkJUVjctOEVmMmIyMHJjR1JyNjZpcGFOTElydVFtX1MtTjA2QmdoMTJiNTN2R0FLTm53YmpLUDNlWS03UVllSDlWcklmSTVPOExRTlMtOUtCUTB1OTJqN1dCbktUYzNPYUxTNC1IQmNXMzhB0gGWAUFVX3lxTFB0dGpGVVprbllOVzM3MnZPSF9fSzk0QUx3Qjk4cUdXQnR2QnVOWV9aclR0M0RCNk1samhTeENjNUNySjR6MXp4SDJKeW4wcHAzaVF3bkstV0Z0NTVSeXo3VFVCNHFRMVlaMUpJMGpmVlRwNFdSWm42djZ5Sk5zd2o1enBOTXJXc2R4VkNQa2hGNU0xTUhoZw?oc=5",
+          "title": "SK하이닉스 채용연계 AI 해커톤, 접속 오류로 예선 차질…재응시 기회 검토",
+          "date": "2026-11-01"
+        },
+        {
+          "name": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1OWWVHY2lFVVl1RUtrT2FiT2owS1JocmxHRVpmYjJfN1M2T3RjTFp5a3lBOTc3TWlKV2s1WWo4UnN5WDZsQVZfRUVfQlJDRDhLWWF3ekRIT1JITE3SAWBBVV95cUxNNjNrVXh6YXRzZWNMZE9hdkZaeXR6TEs4MHM5REx1TDBMVm9KVWt0QmgxbllxdG5IN0NOdlZXVnJtOW1NQ044Y1MxdmRkdjFVRFUzQU5FU2ZDdXg2anVPUl8?oc=5",
+          "title": "채용혜택 내건 SK하이닉스 AI해커톤, 시스템장애로 예선 중단",
+          "date": "2026-11-01"
+        },
+        {
+          "name": "KBC광주방송",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE13cmZNSnl5OF8tRElCTVVLMnNTUEhyRVV6QjlsYnlfVU1rdmZBbEc0TC1UalFTRHM3QUhhWU9lZXJKTVlWQlRacHYwYWc2QXhlMGRCcFFlMzc5Q1Qyc0trU21B?oc=5",
+          "title": "\"채용 혜택 내걸었는데...\" SK하이닉스 AI해커톤, 시스템장애로 예선 중단",
+          "date": "2026-11-01"
+        },
+        {
+          "name": "자본시장뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE01NDJFbmtadDVSZGVJVEdqanZidVo1TUZVZENXOU5yODlFSDAwWFJCTUFnRmhuVmFkMHpLdmlZUHJ6bHdoVVgxcFo2TVZ4Zy1BUHYxOUpsYjVINmJnM2VBQlVyUzBwdk0?oc=5",
+          "title": "SK하이닉스 1억 해커톤 서버 멈춰…전원 재시험",
+          "date": "2026-11-01"
+        },
+        {
+          "name": "이코노미스트",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9SZnJLLWQ3TFF1Mlg1WkVPX3luemZyWkpNcElKMXloRWZBazhhU05FczBXM3I5cUw5dTFaRzlYUV8xZG15d3FDTW42cWx1NE96NTNKMDRKeHRxYk1KTlVWem13?oc=5",
+          "title": "SK하이닉스 AI 해커톤, 시스템 장애로 예선 중단…참가자 전원 재시험 기회 부여",
+          "date": "2026-11-01"
+        },
+        {
+          "name": "한국경제",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FNDFpN2pkTmQ0Z3NQUEpkVU4yZzMtN1Z4WkxhRGRoQll5VVpkelkyV0hOQW9SYjdXRWd2UHBJNlZQRGZKeHlKdlZCZExWTEQ1bTM1R0EzZWMwQQ?oc=5",
+          "title": "\"SK하닉 취업 기회였는데…\" 시스템 장애로 'AI 해커톤' 파행",
+          "date": "2026-11-01"
+        },
+        {
+          "name": "산경투데이",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4tSXphR3BMRzBsRmdZd3hPSUhUZW9uVDd6U1ZtdnlhZVc1amxuT0dTMUFldjRjZjNsZnlIbktTYmtXM2prSW5TUXdZSFJqMVRTbnVTdG9YVk1uR3FYNi14SVlvT1dQQlJwQmJYRG1CaDHSAXRBVV95cUxPNGJuTEk5MzN5Y1VhWnJORGUwSHFYUHRBa3NhUEFMM19iR094U0k4WXpDRFRSY3B5UmNPSUhuM0RFS2ZacjViVTgxWFlycHJ1VUhxeEtfbUFtUmZpZGJ0S1FEVzhrUnhaLUJDNWJuU054dm5KUg?oc=5",
+          "title": "SK하이닉스 AI 해커톤 시스템 장애 논란…예선 전면 재시험",
+          "date": "2026-11-01"
+        },
+        {
+          "name": "포쓰저널",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAyOGwwNG5fbEVMTlV0QWpzdTR3dXhUUTBGRXlNZUc0dFlfb1VPQ2pUV0JMTUxTODdaRld6Sk5XN3cxcG1NcnRrRWdLWlhBdExpNUZTMVVFOXRfQ3JxWGlxV0lwWQ?oc=5",
+          "title": "SK하이닉스 입사 달렸는데..크래프톤 운영 해커톤 잇단 파행",
+          "date": "2026-11-01"
+        },
+        {
+          "name": "한국경제TV",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9wVjlEbnI0MTFTQUdNdG5yZ0t4OU1GUDI0NWJnbzVZb1dqYWZfaW04YTBLdzl6T25zbW1YVVlfMW9Wa0NNakc0MlNLU3FKc1NHWFBNRWlUWkQ3b1ZteGRsck5WcGhhLXNYUUtOSEZUalFlaXoxNWpJ?oc=5",
+          "title": "＂NO 스펙＂ 하닉 채용 내건 AI 해커톤 예선 중단, 무슨 일?",
+          "date": "2026-11-01"
+        }
+      ],
+      "date": "2026-11-01",
+      "id": "20261102-07"
+    },
+    {
+      "cat": "ecom",
+      "importance": "high",
+      "company": "다나와",
+      "title": "다나와, 가을 쇼핑 시즌 맞아 '다쇼페' 행사 전개",
+      "body": "커넥트웨이브 가격비교 플랫폼 다나와가 주요 제조사들이 참여하는 대형 프로모션인 다쇼페 행사를 활발히 진행 중이에요.",
+      "insight": "그룹 핵심 사업부의 연말 대규모 프로모션 트래픽 및 인프라 대응을 위한 HR 차원의 지원이 필요해요.",
+      "action": "다나와 IT 인프라 및 운영 인력의 업무 몰입도와 연말 시즌 인력 리소스를 점검해 보세요.",
+      "teams": [
+        "채용",
+        "인사기획"
+      ],
+      "tags": [
+        "다나와",
+        "다쇼페",
+        "커넥트웨이브",
+        "이커머스",
+        "프로모션"
+      ],
+      "our_group": true,
+      "sources": [
+        {
+          "name": "디지털포스트",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5NamtQX2h5aG43MG9BaGlkWWQ2cnhJRFpjc2hkeTkxVGdEdGJEeWFnUWoxOERsUWdNQUstVlVKUi1kMl84TThfejZHSnRDMjhObmhjSXlZSS1Ub2JQdXNpeHBOdWtFNlRMMGc?oc=5",
+          "title": "신제품 골드 파워부터 게이밍 데스크톱까지… 마이크로닉스, 다나와 ‘다쇼페’ 참가",
+          "date": "2026-11-02"
+        }
+      ],
+      "date": "2026-11-02",
+      "id": "20261102-01"
+    },
+    {
+      "cat": "labor",
+      "importance": "high",
+      "company": "고용노동부",
+      "title": "노동부, 괴롭힘 매뉴얼 개정… 악의적 허위 신고 징계 가능",
+      "body": "고용노동부가 직장 내 괴롭힘 대응 매뉴얼을 개정해 악의적인 허위 신고에 대해 징계 조치가 가능하도록 명확한 기준을 마련했어요.",
+      "insight": "괴롭힘 제도의 악용을 방지하고 조사의 객관성을 확보할 수 있는 법적 근거가 마련되었어요.",
+      "action": "사내 취업규칙 및 직장 내 괴롭힘 예방·대응 규정에 허위 신고 제재 조항을 반영해 보세요.",
+      "teams": [
+        "노무·ER",
+        "조직문화·HRD"
+      ],
+      "tags": [
+        "직장내괴롭힘",
+        "고용노동부",
+        "취업규칙",
+        "허위신고",
+        "노무관리"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "월간노동법률",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWU1MX0pLd1c0aUpBYWd1RUJnaUE2M3BSRHFtQ0dmNnNCWlVQa1JlMUY2R0paV0dJa09iNmxHbHhOTEtCQkh0azdnbkUtNGgxb3JMTzZtWjNTVEpxbVpQNWRQR2ZNQm11VW9KYzJIeFNzSVdEa3oxeGRqWkVMV0lNVDhoMEhwY0dieDlVOUJpMU16LVdZTkhUVE5kcnlxUVlfRVo3Z2s3YzZ2bGMwSmFETHMxNzRFcF93aldpX056YkRQcnNrZnlpWUEtOG5oalJiUjlMdQ?oc=5",
+          "title": "노동부, 괴롭힘 대응 매뉴얼 개정…허위 신고하면 징계 가능해진다",
+          "date": "2026-11-01"
+        }
+      ],
+      "date": "2026-11-01",
+      "id": "20261102-02"
+    },
+    {
+      "cat": "labor",
+      "importance": "high",
+      "company": "고용노동부",
+      "title": "퇴직급여 사외적립 의무화, 2030년 모든 사업장 확대",
+      "body": "정부가 근로자 수급권 보장을 위해 퇴직급여 사외적립을 단계적으로 의무화하며 2030년까지 전 사업장으로 전면 확대하기로 했어요.",
+      "insight": "퇴직연금 사외적립률 제고에 따른 중장기적 현금흐름 관리 및 제도 개편 준비가 필요해요.",
+      "action": "그룹 계열사별 사외적립 현황을 전수 파악하고 중장기 재무 및 충당금 적립 계획을 세워보세요.",
+      "teams": [
+        "보상·복리후생",
+        "인사기획"
+      ],
+      "tags": [
+        "퇴직연금",
+        "사외적립",
+        "고용노동부",
+        "퇴직급여",
+        "보상기획"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "한국보험신문",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0zN0xyZEtzWXlMTVNSNWRYSDNDQU84N3M0VWpLV2RyNVdOWkczMU1LVWVaZUFnQUxwVEwwZE5yZWUtaFh5UmVIX1IzOHlUVFlOOU5Fc2ZuVlBCWUtoOC01NU1ic2NuOEg1UF9KU1FORdIBb0FVX3lxTE0zN0xyZEtzWXlMTVNSNWRYSDNDQU84N3M0VWpLV2RyNVdOWkczMU1LVWVaZUFnQUxwVEwwZE5yZWUtaFh5UmVIX1IzOHlUVFlOOU5Fc2ZuVlBCWUtoOC01NU1ic2NuOEg1UF9KU1FORQ?oc=5",
+          "title": "퇴직급여 사외적립 의무화… 2030년 모든 사업장 적용",
+          "date": "2026-11-02"
+        }
+      ],
+      "date": "2026-11-02",
+      "id": "20261102-04"
+    },
+    {
+      "cat": "ecom",
+      "importance": "mid",
+      "company": "무신사",
+      "title": "무신사 스탠다드, 김지용 크리에이티브 디렉터 영입",
+      "body": "무신사가 글로벌 브랜드 도약을 위해 신진 디자이너 '지용킴' 김지용을 무신사 스탠다드의 크리에이티브 디렉터(CD)로 영입했어요.",
+      "insight": "버티컬 커머스가 PB 상품의 글로벌 경쟁력 강화를 위해 톱티어 크리에이티브 리더를 적극 수혈하고 있어요.",
+      "action": "셀러 및 커머스 플랫폼 강화를 위한 브랜딩·디자인 분야 시니어급 인재 영입 전략을 점검해 보세요.",
+      "teams": [
+        "채용"
+      ],
+      "tags": [
+        "무신사",
+        "인재영입",
+        "크리에이티브디렉터",
+        "PB브랜드",
+        "패션커머스"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "패션비즈",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9OWHpFcGs3dm5ib2Y2RDVjd3FORzVtVjhocFAyYkhDemVqMlNpd0daR2w1QjFFd1dIZzFTOTlCbFhfOTFudjVZOGs5Uk5RWXdI?oc=5",
+          "title": "[인사] 무신사스탠다드, '지용킴' 김지용 CD 영입… 글로벌 도약 속도",
+          "date": "2026-11-02"
+        },
+        {
+          "name": "한국경제",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9kdWJfa1lKQ2t4UktFYngyLWl0WEFSd1pLcHgtQmtzZDhkMmFEMGxiWkozTklDZ1BiWTlkRGpUQ2VjT0ZYNDhfYktsOWx0cmw5eHZmRTBHOHZkZw?oc=5",
+          "title": "무신사 스탠다드, '지용킴' 김지용 디자이너 CD로 영입",
+          "date": "2026-11-02"
+        },
+        {
+          "name": "TENANT news",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5OY2F4aFR2enJidkNLUXpfM0NfTTNNaGJFRDRnQjQ5V0NNTGRLd2VVZGF0Y29lUm9yUmNxN1UzTDBsZExvSllYUWxLcWM?oc=5",
+          "title": "‘지용킴’ 품은 무신사 스탠다드…글로벌 캐주얼로 체질 개선",
+          "date": "2026-11-02"
+        },
+        {
+          "name": "금융신문",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBKTXhKMkliam1IMDFuNHZnaVdRZzdrM1lhZlJHQTZMSW1YcXBFSFlGMzR2UWo5NU1lWVBrUnV3UEJ4NEpwbTE0UGMxbS01VWlsbGZFZjQ3R05rQkVyUzA4ZGswTnhZMUFIbklKaHpIclA2S21aX1hGNDU3R3M?oc=5",
+          "title": "무신사 스탠다드, ‘지용킴’ 김지용 크리에이티브 디렉터 영입",
+          "date": "2026-11-02"
+        },
+        {
+          "name": "뷰어스",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1sWElFbnREV0hGMjhhaFFoMnZBSkhzRU1wQkJyal9aWWtiWE83ektNa25sUXBKWWJwZkJ0V2I4U3NENEFJWEhjV1o1S3RHWlNSRzFhcHFhUFU?oc=5",
+          "title": "무신사 스탠다드, '지용킴' 김지용 디자이너 영입…글로벌 공략 속도",
+          "date": "2026-11-02"
+        },
+        {
+          "name": "한국아이닷컴",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE84cFZtSnFKb2pMNkZFNWpTcjJhUDFnLWZ5anJlMkZmelBTd01TcDBWTkJmczcwMTZnSlphWFpzMjA3VGUwR3ptN3dUN3kya0hqcmZqTkYwX0JXaFBMS2ZCV01OSXJJWHdpeXpB0gFvQVVfeXFMTVlWMldYMmpxOWg0ekRQZ3pzbE12VnFoZTFWQkFJcVNXUXhoTmJNVEdXZ0FJTFVnRUdUb3p0Z0V3bllmbmEwcUlWb09nS3hKb3MyX1Bxajdxc2JHS0ZscGwyamt2Z0xDa185alBnWnJN?oc=5",
+          "title": "무신사 스탠다드, 김지용 디자이너 크리에이티브 디렉터 선임",
+          "date": "2026-11-02"
+        },
+        {
+          "name": "로이슈",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5YM3YxUWUyeFFTQ3lRZldKOFJ1Y1hmd3c2elBHRk9xRVRLMTlDQ08wU3Jxc2xKSFRSOVpURk5uekpncWZlbTdWWGt0dkhFMjJtUVpjUUlpRlNWaklVT2FFWmVwalM4Mm1FVExFaVIzSmp5cmFWSm9NNTdn?oc=5",
+          "title": "무신사 스탠다드, 김지용 디렉터 선임…남성복 디자인·브랜드 전략 총괄",
+          "date": "2026-11-02"
+        },
+        {
+          "name": "남다른디테일",
+          "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE8zVWZRRlpqSWp4NjZWQzA3RlhnV2dzYW9GYUZpdGU0SU1wS2dLRXI2UTZSVHpXcll1YkpPRGxDM0lUUQ?oc=5",
+          "title": "무신사 스탠다드, ‘지용킴’ 김지용 크리에이티브 디렉터로 영입",
+          "date": "2026-11-02"
+        }
+      ],
+      "date": "2026-11-02",
+      "id": "20261102-08"
+    },
+    {
+      "cat": "trend",
+      "importance": "mid",
+      "company": "업계 전반",
+      "title": "글로벌 AI 채용 공시 의무화 추세 확산",
+      "body": "캐나다 온타리오주와 유럽 등에서 채용 공고에 AI 활용 여부를 의무 표기하고 알고리즘 편향성을 검증하도록 하는 법안이 도입되고 있어요.",
+      "insight": "AI 기반 서류 평가 및 AI 면접 도입 시 투명성 보장과 차별 방지가 HR의 중요한 준법 이슈가 돼요.",
+      "action": "현재 활용 중이거나 도입 검토 중인 AI 채용 솔루션의 공정성과 고지 프로세스를 점검해 보세요.",
+      "teams": [
+        "채용",
+        "인사기획"
+      ],
+      "tags": [
+        "AI채용",
+        "HR테크",
+        "채용규제",
+        "컴플라이언스",
+        "해외트렌드"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "뉴스N연합",
+          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9rYUdQV2dBSGp5Z3lpOWRhVGRfOElnSndNSHJKYXpkZnNxMFlRQUw2MkRBQk1lWk96TExNVmhod1E0VXcwUFdCcS1R?oc=5",
+          "title": "온타리오주 AI 채용 공시 의무화가 HR테크 시장에 던지는 질문",
+          "date": "2026-11-02"
+        },
+        {
+          "name": "더인디고",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1FbXdTXzJ1Q3ZBelpTSmxKZ3VOQ0VGbm9SNWF5RWVieDMyVGZuRVp5d2t4N3EyRGNMZGJJRmNIRmxmS2hTNUtrM05pbHl0ZUU?oc=5",
+          "title": "FAIR ➃ 독일 연방 차별금지청, AI 채용 속 차별 위험과 제도적 대응 과제 확인",
+          "date": "2026-11-02"
+        },
+        {
+          "name": "뉴스N연합",
+          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9jS0FZNUxfVTFGZzdBdzIzbnhDQ2VzZ2NqMFNIMkpfRTF4WFJRYlpGenh6VThEVEkyWVhuQXd1UlZ0Wm9EbkZTbDNn?oc=5",
+          "title": "채용 공고에 AI 사용 여부를 의무적으로 표기하라 — 온타리오주 노동법 개정이 던지는 질문",
+          "date": "2026-11-02"
+        }
+      ],
+      "date": "2026-11-02",
+      "id": "20261102-05"
+    },
+    {
+      "cat": "market",
+      "importance": "mid",
+      "company": "업계 전반",
+      "title": "구직자 60% '불쾌한 면접 경험 시 입사 포기' 응답",
+      "body": "설문조사 결과 구직자 10명 중 6명이 연봉과 복지가 우수하더라도 면접관의 태도나 면접 경험이 불쾌하면 최종 입사를 포기한다고 답했어요.",
+      "insight": "채용 브랜딩의 핵심 접점인 면접관의 역량과 태도가 우수 인재 영입 실패의 직접적 원인이 돼요.",
+      "action": "사내 면접관 가이드라인을 최신화하고 면접관 대상 사전 인터뷰 코칭 및 피드백을 강화해 보세요.",
+      "teams": [
+        "채용",
+        "조직문화·HRD"
+      ],
+      "tags": [
+        "면접경험",
+        "채용브랜딩",
+        "구직자경험",
+        "면접관교육"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "동아일보",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9OcHI3MlJ3OWZrTHlyT3ZCUUhmc0JVeVNZNXp2c3BOLWdrdldwbm1NaDYxbTk2cHljOVBmcURUbUZBY2VjanpfQkU2U3lLZkVGRFdiVTBoNDN5RUU5eHd4VlFORjR5YXpKX0I2LUdzSGtmdDdoOVHSAWZBVV95cUxPckdMZDJ3Tmg2SmQ1THNBZEZUdzh6al9SbXZCNGZpV0xCSk1tMmJ4OWVIREhvYW1nWTgzekJveFlYMi1COHQtaFNuakdfdnRDak5JRE1uVGQzWGs0Wm5zOTJ4NGVhNWc?oc=5",
+          "title": "구직자 10명 중 6명 “연봉·복지 좋아도 면접 불쾌하면 입사 포기” [고용 인사이드]",
+          "date": "2026-11-02"
+        }
+      ],
+      "date": "2026-11-02",
+      "id": "20261102-06"
+    },
+    {
+      "cat": "trend",
+      "importance": "mid",
+      "company": "업계 전반",
+      "title": "사내 EAP, 단순 복지 벗어나 심리적 안전망으로 진화",
+      "body": "근로자 지원 프로그램(EAP)이 단순 상담 복지 차원을 넘어 조직 내 심리적 안전감과 업무 몰입을 지키는 핵심 경영 장치로 주목받고 있어요.",
+      "insight": "직무 스트레스와 구성원 번아웃 관리가 조직 안정성과 리텐션에 직접적인 영향을 미쳐요.",
+      "action": "사내 심리상담 및 멘탈케어 EAP 제도의 구성원 이용률과 실효성을 검토해 보세요.",
+      "teams": [
+        "보상·복리후생",
+        "조직문화·HRD"
+      ],
+      "tags": [
+        "EAP",
+        "심리적안전감",
+        "멘탈케어",
+        "복리후생",
+        "조직문화"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "오프피스트",
+          "url": "https://www.offpiste.ai/articles/eap는-복지가-아니다-심리적-안전감을-증명하는-6개의-세이프티-라인-2661",
+          "title": "eap는 복지가 아니다 심리적 안전감을 증명하는 6개의 세이프티 라인",
+          "date": "2026-10-30"
+        }
+      ],
+      "date": "2026-10-30",
+      "id": "20261102-09"
+    },
+    {
+      "cat": "market",
+      "importance": "low",
+      "company": "카카오",
+      "title": "김세웅 전 카카오 부사장, 정부 국민AI추진단장 선임",
+      "body": "카카오에서 AI 사업을 총괄했던 김세웅 전 부사장이 과학기술정보통신부 대국민 AI 서비스 혁신추진단장으로 선임되었어요.",
+      "insight": "빅테크 출신 핵심 테크 리더들이 공공 AI 및 연구 분야로 이동하며 테크 인력 이동이 발생하고 있어요.",
+      "action": "플랫폼 대기업 C레벨·본부장급 출신 핵심 AI 인재 네트워크를 지속적으로 트래킹해 보세요.",
+      "teams": [
+        "채용"
+      ],
+      "tags": [
+        "카카오",
+        "인사이동",
+        "리더영입",
+        "AI인재",
+        "공공AI"
+      ],
+      "our_group": false,
+      "talent": {
+        "level": "mid",
+        "signal": "빅테크 핵심 AI 리더 이탈 — 유관 AI 개발 인력 연쇄 이동 가능성"
+      },
+      "sources": [
+        {
+          "name": "아주경제",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5YWUlBUXJqVE81S1dleTJYbExjMXBaeUlBby1WMGtqalVVNGFxeTVYM2FDbTYxTzNjUXBjMGJjTmx0ZXpqdWJZWmo2dmZSVTN6UXdkeGZ5dzTSAVhBVV95cUxOWFlJQVFyalRPNUtXZXkyWGxMYzFwWnlJQW8tVjBrampVVTRhcXk1WDNhQ202MU8zY1FwYzBiY05sdGV6anViWVpqNnZmUlUzelF3ZHhmeXc0?oc=5",
+          "title": "김세웅 전 카카오 AI 리더, 국민 AI서비스 혁신추진단장 취임",
+          "date": "2026-11-01"
+        },
+        {
+          "name": "뉴시스",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8tVktaTkR6R2NJQS1OYWVIVXctMkZIYzlGMUFEaVFUM1B6MHJSb1ZTMVdNRkY5eXlzTXA0TDZpY0NRcndwQWFaMVdqS0M3OFhLN3R0MmJtX3dQZjBiUkRSNzhfeF9pR2E5b2FLa0pBQlZkcGtielMxMNIBeEFVX3lxTE8tVktaTkR6R2NJQS1OYWVIVXctMkZIYzlGMUFEaVFUM1B6MHJSb1ZTMVdNRkY5eXlzTXA0TDZpY0NRcndwQWFaMVdqS0M3OFhLN3R0MmJtX3dQZjBiUkRSNzhfeF9pR2E5b2FLa0pBQlZkcGtielMxMA?oc=5",
+          "title": "국민AI서비스혁신추진단장에 김세웅 전 카카오 부사장",
+          "date": "2026-11-01"
+        },
+        {
+          "name": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBYUTlLZEQtaFVYenowckhFb1R0a0N1QmRVdGNXekdMQXNKNDU2dlgySWI5T0Y5U1dDUFZlZjRsRENhbWpOdDAxSURWbW5Vdl9lS3pYbDJPaGdYN0nSAWBBVV95cUxPRGRqNS1ZRXRjdkhvMmxZejhkaThHbmo5QUU0bGp1OTNOd2VWTUNfYUVMd1djejcxbjM3VkJ3ZHBrcVdMbnpqYnlUQ2JvU0FaMVo1Zy1TWi1RVFBtSU1nV0I?oc=5",
+          "title": "대국민 AI 서비스 추진단장에 김세웅 전 카카오 부사장",
+          "date": "2026-11-01"
+        },
+        {
+          "name": "전자신문",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1kZHpkbllMYmdYZ0ZObmx2dHhKZnd2dEdTMGdjUnRfODlfM2M4Vmo1dGJPQllYcWJOaEFqa3FYRGtRcTdkT2FOUmwwTUNYdw?oc=5",
+          "title": "과기정통부, 김세웅 카카오 부사장 '국민AI서비스혁신추진단장' 선임",
+          "date": "2026-11-01"
+        },
+        {
+          "name": "서울경제",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE16LUVnbVdUUGRuQ3YwMndnNGRaRkdRc1JvU0tkOFN5SWhUSW4xcXpiNlNkX2JnX3hfN2FYbWhVclluQzFpWlNubHlFc2hRYUZxZi1z0gFTQVVfeXFMTXotRWdtV1RQZG5DdjAyd2c0ZFpGR1FzUm9TS2Q4U3lJaFRJbjFxemI2U2RfYmdfeF83YVhtaFVyWW5DMWlaU25seUVzaFFhRnFmLXM?oc=5",
+          "title": "정부 AI 만들 개발자 조직, 김세웅 前 카카오 부사장이 이끈다",
+          "date": "2026-11-01"
+        },
+        {
+          "name": "이뉴스투데이",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5HcDlsYXdFX0NQOFhTNUptSU9mdm1YOFFpYl9VWEVTRkMzWW9xNm1qajdSWnVLVlMzQU56Z0p6WlhPUzV6VlNQaXVESElSUVhKcGZqQ0g3TWNaR2FUS1RBeVMwN0oxcnc1M2E4cXFhVllBajlx0gF0QVVfeXFMTkdwOWxhd0VfQ1A4WFM1Sm1JT2Z2bVg4UWliX1VYRVNGQzNZb3E2bWpqN1JadUtWUzNBTnpnSnpaWE9TNXpWU1BpdURISVJRWEpwZmpDSDdNY1pHYVRLVEF5UzA3SjFydzUzYThxcWFWWUFqOXE?oc=5",
+          "title": "“AI 공공 서비스 직접 개발할 것”···추진단장에 카카오 출신 김세웅 리더",
+          "date": "2026-11-01"
+        }
+      ],
+      "date": "2026-11-01",
+      "id": "20261102-10"
+    },
+    {
+      "cat": "labor",
+      "importance": "low",
+      "company": "업계 전반",
+      "title": "통상임금 판례 동향 및 포괄임금제 관련 이슈 지속",
+      "body": "통상임금 산정 범위 관련 최신 판례와 함께 직장인의 포괄임금제 개선 요구 등 노동시간 및 수당 관련 논의가 지속되고 있어요.",
+      "insight": "법정수당 산정 기준의 적법성을 상시 점검하고 포괄임금 규정의 리스크를 관리해야 해요.",
+      "action": "포괄임금 및 연장근로수당 산정 방식이 최근 판례 기준에 부합하는지 자체 모니터링을 진행해 보세요.",
+      "teams": [
+        "노무·ER",
+        "보상·복리후생"
+      ],
+      "tags": [
+        "통상임금",
+        "포괄임금제",
+        "임금체계",
+        "노무리스크",
+        "근로기준법"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "시프티 블로그",
+          "url": "https://shiftee.io/ko/blog/article/ordinary-wage-standard-and-allowance-calculation",
+          "title": "통상임금 산정 기준과 수당 계산 방법 : 최신 판례로 알아보기 통상임금은 연장·야간·휴일근로수당, 연차수당, 해고예고수당 등 대부분의 법정수당을 계산하는 기준이 되는 핵심 개념입니다. 어떤... 2026-09-28",
+          "date": "2026-11-02"
+        },
+        {
+          "name": "인천투데이",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1tMmlHOEVmWGs3TlBZbzdYc3BIVksxZjJkUkJpY0k4NlF1YWl6SnQ5ZGQwZHdSQWdhQXo0XzhNQnM3WmlLdWhpU3EtM0xLMmtwMHp6aTZ2NzNKbGI2VllEZFdZNUMwbnV2c1c3T2ZLSXM?oc=5",
+          "title": "직장인 10명 중 3명 초과수당 못 받아··· \"포괄임금제 금지해야”",
+          "date": "2026-11-01"
+        }
+      ],
+      "date": "2026-11-02",
+      "id": "20261102-11"
+    }
+  ]
+}
