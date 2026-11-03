@@ -1,0 +1,719 @@
+{
+  "date": "2026-11-03",
+  "window_days": 1,
+  "article_count": 301,
+  "engine": "gemini-3.8-flash",
+  "headline": "노동부 '공짜 야근' 기획감독 착수 및 IT·커머스 인력 재편 가속",
+  "points": [
+    "고용노동부가 청년 밀집 사업장 100곳 대상 장시간·공짜 노동 기획감독에 돌입했어요.",
+    "토스증권 전직 개발자의 기술 유출 송치 사건으로 이직자 보안 및 경업 이슈가 부각됐어요.",
+    "롯데칠성음료의 2년 연속 희망퇴직과 SSG닷컴 분할 등 주요 유통·커머스 조직 개편이 지속되고 있어요."
+  ],
+  "items": [
+    {
+      "cat": "labor",
+      "importance": "high",
+      "company": "고용노동부",
+      "title": "노동부, 청년 밀집 IT·스타트업 사업장 100곳 장시간 노동 기획감독 착수",
+      "body": "고용노동부가 성수동 등 청년층 밀집 지역 사업장 100곳을 대상으로 포괄임금 오남용과 장시간·공짜 노동 근절을 위한 기획 감독을 실시해요.",
+      "insight": "IT·플랫폼 기업 대상 근태 기록 관리와 포괄임금제 운영 적법성에 대한 감독 수위가 대폭 강화되는 흐름이에요.",
+      "action": "전사 연장근로 시간 산정 방식과 PC-OFF제 등 근태 시스템 운영 실태를 사전 점검해 보세요.",
+      "teams": [
+        "노무·ER",
+        "인사기획"
+      ],
+      "tags": [
+        "근로감독",
+        "장시간노동",
+        "포괄임금",
+        "근태관리"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "고용노동부 보도자료",
+          "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=20184",
+          "title": "청년 노동자의 장시간·공짜 노동 근절을 위한 장시간 노동 기획감독 실시",
+          "date": "2026-11-03"
+        },
+        {
+          "name": "MBC 뉴스",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE50cEpmeEVFemwtMG8wRWNJd283TzJNMmxyaTE4eGdnMjBEZnlXalBvbi1ocDBXQ2VFdEJVb0dOZFlRS3VTOVA0YkJxSFJTRXpSWjFwR3ZoWVFFUGQ1cHlXNEl5OEZ6bTRvU0JHNHQxQXZkY0RZOEJV0gF3QVVfeXFMUG5nelFkM3hiNVJJclNJOEM0N3lPaTN0SFl5RDNwT0RRZEY1b1VqcFlLNmZRV2ozMEVONWdna2R3cVFNOFB3YzYyYkF1cktmdXctVlNvWHFoNVZFLXIwV21kRDd5S0lESTR5SUhSMWozektOaWs0YWM?oc=5",
+          "title": "고용노동부, 성수동 등 청년 밀집 사업장 100곳 장시간 노동 감독",
+          "date": "2026-11-03"
+        },
+        {
+          "name": "전기신문",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5MUU5xTDBLX3IwNUUyUDZUNzN6My14dTg5RGlBNDlya2o5Y3JTTEh0ZDRoSHZ0RlBDN3FRSUJHNzVuNVQ4MDR6cmtSdEx5eXZHT3BjNF9GeWxWVHZQZlN0VW56VEZfeHZxN05pU9IBcEFVX3lxTE1UM2dfcjg1RHpzWjFFVy1TTFpaX2U1d0ZvcnFxR3o2dmZONWRPZ2JzcFJ2b000aTZENUxJNzlUZVk3ZF9ZTzA1akg3TWdwZXFWNC14dm9IdUpsdlo3WVRYc0ZUdG5RQXdzVlduVWZIWGU?oc=5",
+          "title": "청년 노동자 ‘공짜 야근’ 잡는다…노동부, 전국 100곳 기획감독",
+          "date": "2026-11-03"
+        },
+        {
+          "name": "뉴시스",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBEY1JzRjFCTUxYWVVsNTNyQ0dmOEVMS0FWeWJkTnhuQ1F6QW9lRUpUVHctei1kYXhCcV9ZTWNHMTN4aGl0YWdzMnNqYzhSeHFlSFI3RXZseS1ZWlA5NUFPaFFYTjB5ckZQZ0dMTFFIUjh4d2d5V0hfRdIBeEFVX3lxTFBEY1JzRjFCTUxYWVVsNTNyQ0dmOEVMS0FWeWJkTnhuQ1F6QW9lRUpUVHctei1kYXhCcV9ZTWNHMTN4aGl0YWdzMnNqYzhSeHFlSFI3RXZseS1ZWlA5NUFPaFFYTjB5ckZQZ0dMTFFIUjh4d2d5V0hfRQ?oc=5",
+          "title": "\"공짜 야근 없애자\"…노동부, 사업장 100개소 기획감독",
+          "date": "2026-11-03"
+        },
+        {
+          "name": "BBS불교방송",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9nTmtuZnN3Q01POUs3bjhTa2V0cUZqWDI4bnM1MWxqX2NtU2xmeGF5Nzg5SGNyTGR5QS1sbERMLWQ5NkNKZE5PcXROSjZQX293Mmw0QjFzeG1mV09pU0tucWt6YnBOaTY1X3E4?oc=5",
+          "title": "청년 노동자 공짜 노동 근절... 노동부, 장시간 노동 기획감독 실시",
+          "date": "2026-11-03"
+        },
+        {
+          "name": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9CQUs1Xy1WQzhQcFhiUDk0eEZEWkpGWUNoc09hTHhwZU5LQXNLTFJja0xWWEhpcUtzNXhiMUNoaUtJcXo0bktVX3NSWm9QbWFzVGFDWS15aTBxQWvSAWBBVV95cUxQaWxOY054c3N0dnVzdXNZc3Y4cFFnckhTTFdiSVl0NmZ4bG5qdkxPb0xia3llM2U4X0RmTmRiczNIQmZsMFB0amhTcVdwVzAzOWoyM1pIdDFPY0xGVTJVVTA?oc=5",
+          "title": "노동부, 성수동 '공짜 야근' 정조준…전국 100곳 기획감독",
+          "date": "2026-11-03"
+        },
+        {
+          "name": "뉴스1",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1UajRWXzA4alJ1ak1LdUNWeVh4Q3FtMGRIWEwwclowbXc1YURBSnZBVG8yeWU5OTJCSFlEOHBoWTF3MDdFaWFMN21Na3BLMzVTZXZ6NWtDTjV1VndocUV5Wlpmcw?oc=5",
+          "title": "공짜 야근 국감 지적 받은 '성수동'…노동부, 집중감독 타깃 오른다",
+          "date": "2026-11-03"
+        },
+        {
+          "name": "SBS 뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1RX0pDQmRQQm5MOXhmLVQxWWVUZXdYbWZjaWNqczhwVmpzTTFHQS1tb3NMdm4xdGdVUl9fZjlaR1FneDZPMWtIM2NxNVhYQ3dCUzdhTGg3SEtYSWR5S21wdENmV2sxNGYzMHfSAWZBVV95cUxQSG9rMHhnR0tPMjIxa29uMW51d1ViQlVhLVdBZXliUk1sbkRNOGFNZUJOOGstYUx6U3BwNDdVZU5OYTR1cUxRdUpIbVJsMXg5WE45ekR0a09TUGtESGk4aUV2UWV5X2c?oc=5",
+          "title": "[자막뉴스] 힙함에 가려진 성수동 '공짜 야근'…노동부, 전국 100곳 기획감독",
+          "date": "2026-11-03"
+        },
+        {
+          "name": "더팩트",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB1RDhZTXlFUUI4b1NyU005VG1IWmd6clZHcjRINFI1MVdHVGJCMV9BV2tXM2laaVdNcjZmOGxWRUlBU29JVHBJYnVfdzZvZWxC0gFQQVVfeXFMUHVEOFlNeUVRQjhvU3JTTTlUbUhaZ3pyVkdyNEg0UjUxV0dUYkIxX0FXa1czaVppV01yNmY4bFZFSUFTb0lUcElidV93Nm9lbEI?oc=5",
+          "title": "청년 노동자 '공짜 야근' 잡는다…노동부, 100개 사업장 기획감독",
+          "date": "2026-11-03"
+        }
+      ],
+      "date": "2026-11-03",
+      "id": "20261103-00"
+    },
+    {
+      "cat": "market",
+      "importance": "mid",
+      "company": "롯데칠성음료",
+      "title": "롯데칠성음료, 2년 연속 희망퇴직 단행… 최대 24개월 급여 지급",
+      "body": "롯데칠성음료가 45세 이상·근속 10년 이상 직원을 대상으로 최대 24개월치 급여와 지원금을 지급하는 희망퇴직을 2년 연속 실시해요.",
+      "insight": "대기업 소비재·유통 계열사의 인력 효율화 기조로 시니어급 영업·기획·물류 인력이 대거 시장에 유입되고 있어요.",
+      "action": "물류 및 유통 백오피스 운영 역량을 갖춘 퇴직자 프로필을 선별하여 소싱 풀에 등록해 보세요.",
+      "teams": [
+        "채용"
+      ],
+      "tags": [
+        "희망퇴직",
+        "구조조정",
+        "유통업계",
+        "인력시장"
+      ],
+      "our_group": false,
+      "talent": {
+        "level": "high",
+        "signal": "2년 연속 희망퇴직 진행 — 영업·물류·경영지원 시니어 인력 유입"
+      },
+      "sources": [
+        {
+          "name": "CatchNews",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE13V3FtWnBZT2FpUUtvalZUZnhkT1JBUnZVTEVGdHZHX0Y2azBzOGxobjhEV2FFWGVwMzA3NTQ3eUlfbGxYZTk5Vk5KMkV3bFdGV2o2Rm5KTU5ZaWVzR3otSHIxQkowcnFwQmNF0gFvQVVfeXFMTXlKUkZDUGZ1dGswSUxSM1FQbnVabDBDTnBuUm1mR3NtTWlmYkd5eHczNDhFWVdvX0dyR0VheDFtMC1kUlFJUGhzTnZKVkVrVVVsWUhHSExCNi1UN3hIdFVBa2ZQLTVHTGlLc2xWUS04?oc=5",
+          "title": "“1981년생까지 희망퇴직” 롯데칠성, 비용절감 액셀레이터",
+          "date": "2026-11-03"
+        },
+        {
+          "name": "뉴스핌",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE13SFRzV2ZtZmt2ZXF2T1lsTk5hZmNLVEFKTWtsSHVwWWlZT2NkUHN6dWN4MXBVTDFfNGJ1UlE1UFcwamtFeER1MlFPaFJhYnpleEYzLTZKTHlySUcx?oc=5",
+          "title": "롯데칠성음료, 1년 만에 또 희망퇴직…최대 24개월치 급여 지급",
+          "date": "2026-11-02"
+        },
+        {
+          "name": "연합인포맥스",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5IWllRX2laRC00TDBReUVlUnhWT0dGN0lNcW5iQVFwdkJfYTZ2bVVQUmM4alBKdUxpVDM4cVpLZ245TGwxbXpMblFfWkpWa1pock01cWFqazJzYjAxOV9NcmE1OThSQTZjRjd4X0tfWGw?oc=5",
+          "title": "롯데칠성, 희망퇴직 접수…지난해 이어 두 번째",
+          "date": "2026-11-02"
+        },
+        {
+          "name": "연합뉴스TV",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBvbHRBUTh0eUVQT05CWUIzMF9VSjhxYXBNcjdOaWFWcGJkeGRnRmdIN1lIRTMwNFh0WEpqaFYtRzRLVHlBMkw4RmZlQ0Rra1Znb0JmT0UxTlg0WjAtSjMzZVB6SjZ2Rzg?oc=5",
+          "title": "롯데칠성음료, 지난해 이어 2년 연속 희망퇴직 실시",
+          "date": "2026-11-02"
+        },
+        {
+          "name": "시사저널",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE55dkxiYWt4d3I1bUV4X0daYXJIbzA4NGRiWGFYMnd0VUt2TFo3OENfT0UwUTFHeFgwQThsWVBpam5nOVVsN1ZSZkE5X0szZFBkRW9QT0tDUzVMa2FId05vYXZSdkhxMWtOU1V6OHJ5T2JNeGPSAXNBVV95cUxOeXZMYmFreHdyNW1FeF9HWmFySG8wODRkYlhhWDJ3dFVLdkxaNzhDX09FMFExR3hYMEE4bFlQaWpuZzlVbDdWUmZBOV9LM2RQZEVvUE9LQ1M1TGthSHdOb2F2UnZIcTFrTlNVejhyeU9iTXhj?oc=5",
+          "title": "롯데칠성, 1년 만에 또 희망퇴직…45세·근속 10년 이상 대상",
+          "date": "2026-11-02"
+        },
+        {
+          "name": "조선일보",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQndkMkdFSTllcEZsYjQwdjAzWlJnd1l0LUZhNUZCWGs2MmQzZ3J4ZjYtOVc4YjQyMXVOVkduRHJVSE1XeFJvOVZ0WlBCZzJvRzk3Qm5XRFBKMDliYXFkVWl4TlJfRVdVN3ZlM3YwNGhMdXJkVmFMN1RodXk3MmZ0S1RRbk1uVTdrR1E?oc=5",
+          "title": "지난해에 이어 올해도… 롯데칠성음료 희망퇴직 실시",
+          "date": "2026-11-02"
+        },
+        {
+          "name": "IT조선",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0tZGItTDIzcmdYaDlfSFFENlJ0QkJEaHl4NHNwVTQxNjV6YTlaM3ZCOW1ZMlcwYlRoWTcxTmdGTG9KRGExUWJVcFV1cGhVb3JadEduUzRWZ2NLdzdJaUdXY3R3Ykltb08ybU9CUjhLWVPSAXRBVV95cUxPRHIweVF4LW9tU1FUYWhBb3lzTURWcVRBLXlyWHhHd2FPUVV5OHA3MWJDR3IyRnlITHU5bWpDQnJNQzZSRkcwSGhaaG1oc0VJWUJqM1prQWRnM2wxclBQd3ZxdDA0YldKc1djYUxfcmVmMk1RaQ?oc=5",
+          "title": "롯데칠성음료, 2년 연속 희망퇴직…\"사업 효율화 조치\"",
+          "date": "2026-11-02"
+        },
+        {
+          "name": "전자신문",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5BOU5BMU83ak9MVDBQQ1hNVlZhZXlOSkRSdkJRYWlGYUJMUGV0SFFwMHRzOHowcDlDWVU1S2hQeU91T1NYZzVGcUJUbHZkQQ?oc=5",
+          "title": "롯데칠성, 희망퇴직 실시…급여 최대 24개월·재취업 지원금 지급",
+          "date": "2026-11-02"
+        },
+        {
+          "name": "청년일보",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA5M0M3TTVNOGtTb2tqcF94dlIwWEJYWGpzMk1fZ2lFNFBMb2NZYkNHd2ZCTWgtNXFyOHA3RHVWNnRiZG1CV3djeGRDOVFqcVN4Y2hyRFA4bEsxYktHM3NFaUVJemtaTm8?oc=5",
+          "title": "롯데칠성음료, 2년 연속 희망퇴직…\"사업 효율화 추진\"",
+          "date": "2026-11-02"
+        },
+        {
+          "name": "매일일보",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9fbHpjdjVuakY3bkI4MDNBRUc2c0xVbEU2N1ZrMGl1THZsLTI3UG1jNzFyYW1VQWJqcm1GZlpaSWs1TEtqbnozUk9yeEV0NXdFbjVsRXJnQkFCOFhnSk51QS0wNlY?oc=5",
+          "title": "롯데칠성음료, 2년 연속 희망퇴직 실시…근속 10년 이상 대상",
+          "date": "2026-11-02"
+        },
+        {
+          "name": "뉴스포스트",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1PbW5IbUdyTU9NeWgzVGVzQW55ekhGVzl0dHhJeExWUXRETncwUTNMUGZscWcxWUJCeThtTXY0SUtnUHY4SEIycWN3YlYzV1lZMV9NZTdieWI0SXZtR2RhUHc2WkRzaTBfTnc?oc=5",
+          "title": "롯데칠성음료, 2년 연속 희망퇴직…급여 최대 24개월치 지급",
+          "date": "2026-11-02"
+        },
+        {
+          "name": "포쓰저널",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1JeGlQdnBMNnpoNmpoYmk5ODgxdl9xbjBiVnQ4WVVvRXdFczZoS05WM2x0N3Fuc3NrLXBFSjc0TlNjY1VpMThvc1FZSktBbDRHSzFXSy1HdG9ndzY4OU1reHBoQ1g?oc=5",
+          "title": "롯데칠성음료, 1년 만에 또 희망퇴직…롯데 계열사 인력 재편 지속",
+          "date": "2026-11-02"
+        },
+        {
+          "name": "파이낸셜포스트",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE51bmtRcDduWXc2Ym5JaVBSX1k0Um5NalEtZUJwU09ISEkwc3hqQnZaY0FWZmh5YS0yV1VrZXJqMW4tQTBvWDVrMFR0ZXRPT0xjZTFuX2FSWklkMjdWMDB5NHZ4dVhUNGY5NkdHV1NWeUZuUTdr?oc=5",
+          "title": "\"1년 만에 또\"...롯데칠성음료, 지난해 이어 올해도 희망 퇴직",
+          "date": "2026-11-02"
+        },
+        {
+          "name": "데일리한국",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1la1oyTGFKRzJnaFVCbGdHNzRsUDlPZTI1U3h0el9uOGhiQVpUSDhpWEVhZGFpVEFUVktfSGlhQjA5TmpMdEJUbXdVelBSR1dLazF2bU1pOVI4X09pVkFuZGJTN0ttdUFuNW5ENzN5Z9IBc0FVX3lxTE80TXdZN0NqaF8wODB6cUtmVzNLM1N2Nk1TSDlRcEpDVzM4Ym5lbm1uVnZTa2NzSEdGVzNhRm03OGNYQXpxRjRuNkpVdjR4N1VqdzJMMGZLOGNxaTNUamFQODRwdWx0MllOLTZRUEZNalR4M3M?oc=5",
+          "title": "롯데칠성음료, 2년 연속 희망퇴직 실시…최대 24개월치 급여 지급",
+          "date": "2026-11-02"
+        },
+        {
+          "name": "생생비즈플러스",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5zekxieGhyV01KaXF3VWh5WHZzendxdjI0N0E0bC1OenV3MHp6a2hVLUtKdUlMVVhBRDdJX194U1ZqT3p1SlV3YlNmTmNXb0R5UkxsRW1ZUTZFQzA5Ry14V1F6V0FBMjFxNWFjdA?oc=5",
+          "title": "롯데칠성, 2년 연속 희망퇴직...근속 10년 이상 대상·최대 2년치 급여 지급",
+          "date": "2026-11-02"
+        }
+      ],
+      "date": "2026-11-03",
+      "id": "20261103-07"
+    },
+    {
+      "cat": "market",
+      "importance": "high",
+      "company": "토스증권",
+      "title": "토스증권 전직 개발자 기술 유출 혐의 송치… 이직 보안 리스크 경종",
+      "body": "경찰이 토스증권 영업기밀을 유출한 전직 개발자를 부정경쟁방지법 위반 혐의로 검찰에 송치했어요. 이직 대상 회사인 넥스트증권은 불송치됐어요.",
+      "insight": "핵심 IT·개발 인력의 이직 시 기술 유출 및 영업비밀 침해 분쟁 리스크 관리가 시급해요.",
+      "action": "입·퇴사자 대상 보안서약서 및 전직금지 약정 양식을 재점검하고 퇴사 절차를 강화해 보세요.",
+      "teams": [
+        "채용",
+        "노무·ER"
+      ],
+      "tags": [
+        "영업비밀",
+        "개발자이직",
+        "기술유출",
+        "퇴사보안"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBId0JhNDJpdGZYVE10M3FITWtZLWxtZnp6ZER6QVpjWVVWcnlvdHhlNUhsbWpTUDJ3OXk1a1hFbWdPV3pvaHMteVllNWNQMTFhUTh1XzRpMlQ1TGVtaDZ4YdIBYEFVX3lxTFBId0JhNDJpdGZYVE10M3FITWtZLWxtZnp6ZER6QVpjWVVWcnlvdHhlNUhsbWpTUDJ3OXk1a1hFbWdPV3pvaHMteVllNWNQMTFhUTh1XzRpMlQ1TGVtaDZ4YQ?oc=5",
+          "title": "경찰, 토스증권 '기밀 유출' 의혹 넥스트증권 불송치 처분",
+          "date": "2026-11-03"
+        },
+        {
+          "name": "연합인포맥스",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE90Wm9HODNOU3luUE5wdGJIR1U4dERyVW9TdDBDNUozSG9MM19XM2RZOG0zWDU5WERRR25WU0VKcVRySmdYMzN4Y2czRGYzaTZleUgwcGYxNmh0MWJJVTlHY3R3N2hyV1hHOW5IZFBQazJyUVhj?oc=5",
+          "title": "토스증권 '기밀 활용' 의혹 일단락…경찰, 넥스트증권 '혐의없음' 결론 |",
+          "date": "2026-11-03"
+        },
+        {
+          "name": "스페셜타임스",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBhSU1wbGhFTUdSNG1TSFB1WFYtb1RTVjJtdWRQVXR0RkFraGhLcmlJNmJZUGFOUlZzaFRqSjNfQ1hyandEX0R5bjc4LXpyMmRWRDZ3OWx2XzFpWkxuTThFN1RIRHlCRkhteEFmV29FRkZYUQ?oc=5",
+          "title": "토스증권 전직 개발자 부정경쟁법 위반 혐의로 송치",
+          "date": "2026-11-03"
+        },
+        {
+          "name": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBkN01Rek5TcHFqWnh6LTlZZzdUY2ZvZS1JdzZma3h0eVhLTVZaRm9JX09TcmhVMEJJU00wLWVGSWpWcDRWcnkyU2VTWlNQOHlmU2ZZa3duVUNhcFnSAWBBVV95cUxQWl9GUXdNeDlwQU11V3B3a2o0NnB0bVRiYTJ0ek52YklHLUlyU3pYaE8tMHB4N1FvNUZadUxGekRsN2szQndVdFFNZ2wxUjN3TEFCTjV0bUpjNHZ1QW83bkM?oc=5",
+          "title": "토스-넥스트증권 '기밀 유출' 공방…경찰 수사로 1명 송치(종합)",
+          "date": "2026-11-03"
+        }
+      ],
+      "date": "2026-11-03",
+      "id": "20261103-02"
+    },
+    {
+      "cat": "trend",
+      "importance": "high",
+      "company": "시프티",
+      "title": "포괄임금제 오남용 점검 대비 기업 근태관리 체크리스트 부각",
+      "body": "고용노동부의 포괄임금 오남용 근절 기조에 따라 근로시간 객관적 기록과 휴게·연장근로 관리가 SaaS 근태 시스템의 핵심 과제로 부각되고 있어요.",
+      "insight": "객관적 근태 기록 부재 시 향후 임금체불 등 법적 분쟁 리스크로 직결될 수 있어요.",
+      "action": "그룹사 내 출퇴근 기록 누락 방지 정책과 소정외 근로 승인 절차 체크리스트를 확인해 보세요.",
+      "teams": [
+        "인사기획",
+        "노무·ER"
+      ],
+      "tags": [
+        "포괄임금",
+        "근태SaaS",
+        "근로시간",
+        "인사제도"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "시프티 블로그",
+          "url": "https://shiftee.io/ko/blog/article/attendance-management-saas-stability-checklist",
+          "title": "근태관리 SaaS 도입 시 확인해야 할 안정성 기준과 체크리스트 최근 기업들은 근무일정 관리, 출퇴근기록 관리, 휴가 관리, 전자결재 등 다양한 인사 업무를 SaaS 기반 솔루션으로 운영하고... 2026-07-15",
+          "date": "2026-11-03"
+        },
+        {
+          "name": "시프티 블로그",
+          "url": "https://shiftee.io/ko/blog/article/wage-system-reform-attendance-checklist-7",
+          "title": "포괄임금제 폐지 논의에 대비한 기업 근태관리 점검 체크리스트 7가지 2026년 들어 포괄임금제와 관련해 기업의 근로시간 기록과 근태관리 중요성이 더욱 커지고 있습니다. 고용노동부는 「포괄임금 오... 2026-09-",
+          "date": "2026-11-03"
+        }
+      ],
+      "date": "2026-11-03",
+      "id": "20261103-01"
+    },
+    {
+      "cat": "ecom",
+      "importance": "high",
+      "company": "SSG닷컴",
+      "title": "SSG닷컴, 12월 인적분할 앞두고 식품·장보기 중심 사업 재편",
+      "body": "SSG닷컴이 12월 인적분할을 앞두고 김홍극 대표 체제하에 장보기 사업 집중에 나서는 등 사업 구조와 조직 재정비를 본격화하고 있어요.",
+      "insight": "이커머스 분할 및 통합 과정에서 플랫폼·MD·물류 핵심 인력의 유출입 변동성이 확대될 수 있어요.",
+      "action": "SSG닷컴 인적분할 전후 이탈하는 이커머스 MD 및 물류 운영 핵심 인력을 지속 모니터링해 보세요.",
+      "teams": [
+        "인사기획",
+        "채용"
+      ],
+      "tags": [
+        "SSG닷컴",
+        "인적분할",
+        "조직개편",
+        "이커머스"
+      ],
+      "our_group": false,
+      "talent": {
+        "level": "mid",
+        "signal": "인적분할 추진 — 이커머스 MD 및 물류 기획 인력 시장 유입 가능성"
+      },
+      "sources": [
+        {
+          "name": "데이터뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5IWnR4TWZoUXp4aVM0YVZxYV91cUZsTU9QcTFDX2xEbEdLbWNDZFRmdjktRjZyMEFFWnhQMVlHZUg1UmJKWER1RDdnSW9pbDhVWW5mbVhNMHhtS25BeC0w?oc=5",
+          "title": "흑자 전환 명장 김홍극, SSG닷컴 적자 탈출 이끌까",
+          "date": "2026-11-03"
+        },
+        {
+          "name": "뉴스피릿",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBUZ3hyb2M5OGxEb2YzY0s3Y3Z4M25HUnVfSlVvMXhuOGRSR2tfekVsOVh0NERObHNMT3VRMHcxMDJzcDc2SDJiblBsNUxpZ2hUUUNNZ3hIVno2ZG1kVUFoLTZpR3ZIZXl5cERj?oc=5",
+          "title": "SSG닷컴, 12월 인적분할 앞두고 '장보기' 집중…김홍극 체제 시험대",
+          "date": "2026-11-03"
+        }
+      ],
+      "date": "2026-11-03",
+      "id": "20261103-03"
+    },
+    {
+      "cat": "ecom",
+      "importance": "mid",
+      "company": "무신사",
+      "title": "무신사, AI 큐레이션 확대 및 크리에이티브 디렉터 외부 영입",
+      "body": "무신사는 AI 트렌드 큐레이션을 12개 카테고리로 확대하고, 자체 브랜드 강화를 위해 '지용킴' 김지용 크리에이티브 디렉터를 영입했어요.",
+      "insight": "커머스 플랫폼 전반에서 AI 기반 초개인화 기술과 독자적 브랜드 IP 디렉팅 인재 영입이 핵심 경쟁력이 되고 있어요.",
+      "action": "다나와·에누리 서비스 내 AI 검색·추천을 고도화할 수 있는 AI 엔지니어 및 UX 전문가 파이프라인을 확보해 보세요.",
+      "teams": [
+        "채용",
+        "조직문화·HRD"
+      ],
+      "tags": [
+        "무신사",
+        "AI큐레이션",
+        "인재영입",
+        "이커머스"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "패션비즈",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9xdW9jRGhPS3dudVNNbHlPR08wMzFoUThvM1drbHYtdHJ2ZHE5X1duellqWG41SWVZVjQzUk5uYWkwUnI0djZsT2V6X0tsUUwx?oc=5",
+          "title": "무신사, 'AI 트렌드 큐레이션' 12개 카테고리로 확대",
+          "date": "2026-11-03"
+        },
+        {
+          "name": "무신사",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA4VW5BaFRlRzlnaDVtUzZ3eURuRDhLQ2hBR0pJbVVmcGZ3UjJ3RC16TXJydGFjZ3VHQXZza19LaXo4bm1tb1JSSG9iZzVYcmw1OEw1UUdGcEl3WTRaUnRhVw?oc=5",
+          "title": "무신사 스탠다드, ‘지용킴’ 김지용 크리에이티브 디렉터 영입… “글로벌 패션 브랜드 도약 위한 경쟁력 강화”",
+          "date": "2026-11-03"
+        },
+        {
+          "name": "서울경제TV",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE02SF9mN2NYdHZxMFVYQXpiQzZ3WUhYVFpVVGFGQW9WN1hrSzFiZ2tvQTF3aDB2OW9lUmcyWVBTNUNnb282UXZ4UF9IVGktamNUa3BhQjNEUXhmSWY4a1I3bU1DUkU?oc=5",
+          "title": "무신사, ‘AI 트렌드 큐레이션’ 12개 카테고리 확대",
+          "date": "2026-11-03"
+        },
+        {
+          "name": "어패럴뉴스",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1sY0hBX3lrQ3QyMzdfNkV2WFZLWkdiMVJCM2RPWnlFZWZXX25WRTRmczhfMkJOaWJ4eXFXcXQxWFJoMUtMZFUyb2pXNEVIcTd4emNBdXVHRl8zYUFzY0Q1aGZlOVpaRVpLLTR2aDBvZ3lENnM?oc=5",
+          "title": "무신사, 'AI 트렌드 큐레이션' 12개 카테고리로 확대…이용률 21% 증가",
+          "date": "2026-11-03"
+        },
+        {
+          "name": "TENANT news",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1FNW12eG14RjhiNDhQcXMwX3RSNlc5QzRJTkpLaG02bzJMX05DTGlOOUliX3hZNHJ6eWJ3dlJqUUI4UUw1UmtqVkRKR2Q?oc=5",
+          "title": "무신사, ‘AI 트렌드 큐레이션’ 12개로 확대… 필터 이용률 21% 급증",
+          "date": "2026-11-03"
+        },
+        {
+          "name": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5tdTM1ZnN3dWxlSWs0YjBsNTVzMGpSVEdqczVpbDNxNUJNYnVuWWQyYW5wTVZERnlJb0owQTU0Mm9TeXJ6YXRLbXVfOXRFaGtFNmRhVmx0bzd1WGxNaWI0SdIBYEFVX3lxTE5tdTM1ZnN3dWxlSWs0YjBsNTVzMGpSVEdqczVpbDNxNUJNYnVuWWQyYW5wTVZERnlJb0owQTU0Mm9TeXJ6YXRLbXVfOXRFaGtFNmRhVmx0bzd1WGxNaWI0SQ?oc=5",
+          "title": "무신사, 패션·뷰티 12개 부문에 'AI트렌드 큐레이션' 확대 적용",
+          "date": "2026-11-03"
+        },
+        {
+          "name": "이코노미스트",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE12bXFWX2dJWW12bURMdTJBc0xJaEc0LWs1aG9FYTJzSkJqU2paRjJacXhkb3Y4MnlCRXR1SFBWdHJRZVJBSWJRb29NNldpZFZHdFVSaXAxYVQ3TjdfcU85TFJR?oc=5",
+          "title": "‘얼굴 소멸 모자’도 AI가 찾아준다…무신사 검색 기능 확대",
+          "date": "2026-11-03"
+        }
+      ],
+      "date": "2026-11-03",
+      "id": "20261103-06"
+    },
+    {
+      "cat": "labor",
+      "importance": "mid",
+      "company": "고용노동부",
+      "title": "맥락 중심 직장 내 괴롭힘 판결 증가 및 신고 남용 주의보",
+      "body": "욕설이 없더라도 업무 배제, 지속적 압박 등 맥락상 괴롭힘을 인정한 법원 판결이 잇따르는 한편, 괴롭힘 신고 남용에 대한 대응책 마련 필요성이 제기됐어요.",
+      "insight": "단순 언어 폭력뿐 아니라 업무 지시의 맥락과 감정적 압박도 괴롭힘으로 엄격히 판단되는 추세예요.",
+      "action": "관리자 대상 괴롭힘 예방 교육 시 최신 판례 사례를 보강하고 객관적 고충 처리 프로세스를 정비해 보세요.",
+      "teams": [
+        "노무·ER",
+        "조직문화·HRD"
+      ],
+      "tags": [
+        "직장내괴롭힘",
+        "노동판례",
+        "고충처리",
+        "노무관리"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "정보통신신문",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1OOFY4bThOY3VaOUlUSlVxa0UzVWRHRlJVQUhqRUQ2M05oeng3YkV5eDJwTnpld2xZdFpDS3VYcVJHenpMNlhfM1haUTViSzd2MDZIeF8xeXIxbVhNYzRnT0E5Q2lvcjFQNjJYUNIBbEFVX3lxTE1OOFY4bThOY3VaOUlUSlVxa0UzVWRHRlJVQUhqRUQ2M05oeng3YkV5eDJwTnpld2xZdFpDS3VYcVJHenpMNlhfM1haUTViSzd2MDZIeF8xeXIxbVhNYzRnT0E5Q2lvcjFQNjJYUA?oc=5",
+          "title": "[박효주 노무사]과도한 직장 내 괴롭힘 신고 남용에 관하여",
+          "date": "2026-11-03"
+        },
+        {
+          "name": "매일노동뉴스",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5UUV9uLXlsR3d5NWQtVjBxXzViay1pTnh0cTRLajdYdnNqSEQzUllvcks5SnMzYzlWMG94NnEzZ2g1VWpPRk0tSGQ4NHlOVUJOdDdQMm1od09OZFNJbE9PM3VwaDVBa2JXTjQ4RU1xUWk?oc=5",
+          "title": "신고인이 피신고인 조사? 황당한 ‘직장내 괴롭힘’ 사건",
+          "date": "2026-11-03"
+        },
+        {
+          "name": "JTBC",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ScVlPdXBCV3lXQVRCa3VPSnVfam5oUXFoaEEtM1pkTkJKVVlEWS1MUDhsSlZ5TTA2czNnRkRnaktUSlQyTjVlR2pmLVpQbE95Z2c?oc=5",
+          "title": "\"나한테 설명하려고 하지 마\"…욕설 없어도 ‘직장 내 괴롭힘’ 구청 과장 감봉 정당",
+          "date": "2026-11-03"
+        },
+        {
+          "name": "KBS 뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE00WXJrMjBaRkNjbURaOHdoczBvV3dnNEFDbUY0YS1ZaUlSWUFVRUExVjZiTzlqc0hNR2l0OUd4UXFrTDhpNTdRb0N4LWduS3hZc0xOWjFtbGR5Tms?oc=5",
+          "title": "[사사건건] 직장 내 괴롭힘, 표현보다 ‘맥락’이 중요!",
+          "date": "2026-11-02"
+        },
+        {
+          "name": "농민신문",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1yWUIyLUxGd20zVFNIb2t0bkNVbzItOHhhNG1BUDViNkJMeFpRTUR5TVluYUdzYzFmNlBMOWsyUTRUSXk3V2tpbWpnbnEzX0w3WmVJM0JxbUkwZw?oc=5",
+          "title": "“애는 남편이 돌보라” “늦게 왔네?”…법원 “직장내 괴롭힘 맞다”",
+          "date": "2026-11-02"
+        },
+        {
+          "name": "아시아경제",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBSM0JELUhnd3BFTlNXUTNBWktfUVRiZXdyeW5fT05LX2JJZjRvTk1famFuRUYzUXc4bFV6RjZqeDloTENLY3NEeU5SSTRuOG1jcExwVTU0dks1SXRHNmtvYg?oc=5",
+          "title": "\"늦게 왔네, 몇 시에 왔어?\" 상사 닦달도 '직장 내 괴롭힘'",
+          "date": "2026-11-02"
+        }
+      ],
+      "date": "2026-11-03",
+      "id": "20261103-09"
+    },
+    {
+      "cat": "trend",
+      "importance": "mid",
+      "company": "업계 전반",
+      "title": "면접 우수자와 좋은 리더의 괴리 및 팀장 기피 현상 분석",
+      "body": "오프피스트 등 HR 전문 매체에서 면접 퍼포먼스와 실제 리더십 역량의 차이점, MZ세대의 팀장 기피 원인과 중간관리자 지원 방안을 제시했어요.",
+      "insight": "말을 잘하는 면접형 인재와 실행 중심 리더를 가려내고 중간관리자 번아웃을 방지하는 시스템 구축이 필수적이에요.",
+      "action": "사내 신임 팀장 온보딩 프로그램과 리더 평가 지표의 실효성을 재검토해 보세요.",
+      "teams": [
+        "조직문화·HRD",
+        "인사기획"
+      ],
+      "tags": [
+        "리더십",
+        "팀장기피",
+        "면접평가",
+        "조직문화"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "기고만장",
+          "url": "https://ggmj.kr/hredge/?idx=175387220&bmode=view",
+          "title": "[EP.489]면접을 잘 보는 사람과 좋은 리더는 다를 수 있습니다(EDGE 6기 박민정) --> --> --> [EP.489]면접을 잘 보는 사람과 좋은 리더는 다를 수 있습니다(EDGE 6기 박민정) N",
+          "date": "2026-11-03"
+        },
+        {
+          "name": "오프피스트",
+          "url": "https://www.offpiste.ai/articles/리더의-업무-지시에는-적절한-해상도가-필요하다-2688",
+          "title": "리더의 업무 지시에는 적절한 해상도가 필요하다",
+          "date": "2026-11-03"
+        },
+        {
+          "name": "오프피스트",
+          "url": "https://www.offpiste.ai/articles/면접을-잘-보는-사람과-좋은-리더는-다를-수-있습니다-2685",
+          "title": "면접을 잘 보는 사람과 좋은 리더는 다를 수 있습니다",
+          "date": "2026-11-03"
+        },
+        {
+          "name": "오프피스트",
+          "url": "https://www.offpiste.ai/articles/요즘-직원들은-왜-팀장이-되기-싫어할까-2682",
+          "title": "요즘 직원들은 왜 팀장이 되기 싫어할까",
+          "date": "2026-11-03"
+        },
+        {
+          "name": "오프피스트",
+          "url": "https://www.offpiste.ai/articles/팀장과-팀원-사이-오해를-줄이는-가장-쉬운-방법-2560",
+          "title": "팀장과 팀원 사이 오해를 줄이는 가장 쉬운 방법",
+          "date": "2026-11-03"
+        }
+      ],
+      "date": "2026-11-03",
+      "id": "20261103-08"
+    },
+    {
+      "cat": "market",
+      "importance": "mid",
+      "company": "원익",
+      "title": "원익그룹 신입 공채에 1만 2천 명 몰려… 면접서 AI 활용 능력 평가",
+      "body": "원익그룹 2027 신입 공채에 역대 최대인 1만 2348명이 지원했으며, 면접 전형에서 지원자의 AI 도구 활용 능력을 중점 평가하고 있어요.",
+      "insight": "채용 시장 한파로 대규모 지원자가 몰리는 가운데 직무 실무에서 AI 활용 역량이 필수 평가 기준으로 자리 잡고 있어요.",
+      "action": "우리 그룹 신입·경력 채용 전형에도 생성형 AI 도구 활용 능력을 검증하는 실무 면접 문항을 도입해 보세요.",
+      "teams": [
+        "채용"
+      ],
+      "tags": [
+        "신입공채",
+        "채용트렌드",
+        "AI활용능력",
+        "면접평가"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA2V2RxSTBfUUNUSWJTbS1oUEVsNmswMUtYNlp5S2E5RTBwaThmcnl5RU9jZzE0U3B1QjJjcGlfYkZOX2l5MThOaU1Rb2FsMTJIaTVBM3VhWV92eDBseFY2NNIBYEFVX3lxTFA2V2RxSTBfUUNUSWJTbS1oUEVsNmswMUtYNlp5S2E5RTBwaThmcnl5RU9jZzE0U3B1QjJjcGlfYkZOX2l5MThOaU1Rb2FsMTJIaTVBM3VhWV92eDBseFY2NA?oc=5",
+          "title": "원익 2027년 신입공채에 역대 최대 1만2천여명 지원",
+          "date": "2026-11-03"
+        },
+        {
+          "name": "블로터",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5vcklVd2R1SzJmcUtZYjlXcDU4ZFBvVlhObDVRLVJmN1oxSmJncjFUS2pNdGxPQVVUTm1aRjQzd25OMlhXTFlmRjlBbjV5Ny15T1FNc2plN2RvN1Q0eWplN2JhdGtHeVVQekRnddIBbEFVX3lxTE5vcklVd2R1SzJmcUtZYjlXcDU4ZFBvVlhObDVRLVJmN1oxSmJncjFUS2pNdGxPQVVUTm1aRjQzd25OMlhXTFlmRjlBbjV5Ny15T1FNc2plN2RvN1Q0eWplN2JhdGtHeVVQekRndQ?oc=5",
+          "title": "원익그룹, 2027년 신입 공채 지원자 1만2000명…'역대급 흥행'",
+          "date": "2026-11-03"
+        },
+        {
+          "name": "지디넷코리아",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE56aXZ6a0FVdl9MaHBUZ0NFTUF5MmJmOFI3RzliX3N0aGw4c2RFTFJyb3R6aERLWHBfQ0xKdjltN092bDY1Rm9HWXVkWHN3YTN2S004TjlB?oc=5",
+          "title": "원익, 2027년 신입 공채에 1만2000명 몰려 '역대 최대'",
+          "date": "2026-11-03"
+        },
+        {
+          "name": "이투데이",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5oa0F4M0FzckFWOWJDOEhNQnJ1eS14OFNaN3hnUHRZMUVwR3VMTzREeUFzc1o4UGRhOURmVVZwZVJQS1BJR2UyNTNTOV9QbjVoelE3cUN2UGMzQmJCWUljeTcxQTZXVmtadUpaTDFXTFJjRGp4?oc=5",
+          "title": "원익 신입 공채에 역대 최대 1만2348명…면접서 AI 활용 능력 본다",
+          "date": "2026-11-03"
+        }
+      ],
+      "date": "2026-11-03",
+      "id": "20261103-04"
+    },
+    {
+      "cat": "trend",
+      "importance": "mid",
+      "company": "브이드림",
+      "title": "장애인 의무 고용 비율 상향 대비 및 하반기 고용부담금 절감 전략",
+      "body": "장애인 의무 고용 비율 상향과 고용부담금 인상에 대비해 하반기 채용을 통한 부담금 감면 및 맞춤형 직무 개발 방안이 논의되고 있어요.",
+      "insight": "연말 결산 전 장애인 고용률 미달 시 부담금 지출이 급증하므로 전략적 채용 및 간접고용 수단 검토가 필요해요.",
+      "action": "커넥트웨이브 그룹사별 현재 장애인 고용률을 산정하고 부담금 예상액 대비 하반기 채용 실행안을 수립해 보세요.",
+      "teams": [
+        "보상·복리후생",
+        "인사기획"
+      ],
+      "tags": [
+        "장애인의무고용",
+        "고용부담금",
+        "ESG",
+        "보상복지"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "기고만장",
+          "url": "https://ggmj.kr/vdream/?idx=175394037&bmode=view",
+          "title": "[브이드림] 브이드림 10월 뉴스레터 ㅣ 장애인 의무 고용 비율 상향, 어떻게 대비해야 하나요? --> --> --> [브이드림] 브이드림 10월 뉴스레터 ㅣ 장애인 의무 고용 비율 상향, 어떻게 대비해야 하나요? ",
+          "date": "2026-11-03"
+        },
+        {
+          "name": "기고만장",
+          "url": "https://ggmj.kr/vdream/?idx=175394006&bmode=view",
+          "title": "[브이드림] 장애인 고용부담금, 하반기 채용으로 얼마나 절감할 수 있나요? --> --> --> [브이드림] 장애인 고용부담금, 하반기 채용으로 얼마나 절감할 수 있나요? N",
+          "date": "2026-11-03"
+        }
+      ],
+      "date": "2026-11-03",
+      "id": "20261103-05"
+    },
+    {
+      "cat": "trend",
+      "importance": "low",
+      "company": "빙그레",
+      "title": "빙그레, '스마일 패밀리 데이' 개최로 가족친화 조직문화 강화",
+      "body": "빙그레가 임직원 가족을 초청해 역사 체험과 힐링 프로그램을 제공하는 패밀리 데이를 열고 일·가정 양립 조직문화를 강조했어요.",
+      "insight": "임직원 자녀와 가족을 케어하는 오프라인 프로그램은 구성원의 조직 로열티와 심리적 안정감을 높이는 효과가 커요.",
+      "action": "연말 그룹사 임직원 대상 가족 참여형 문화 행사나 복지 프로그램 도입을 검토해 보세요.",
+      "teams": [
+        "조직문화·HRD",
+        "보상·복리후생"
+      ],
+      "tags": [
+        "가족친화",
+        "기업문화",
+        "임직원만족",
+        "조직문화"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "한국식품의약신문",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5seEVPRjViQTVDUENfaFdwN0VYbGNhM0UxTW1EWEFMdjBBLTdUNldFNEg4cFJCanc3Y3dLVTVZbE5FN085bXAwRnR5Z2tTRjEzMThMT0NTbnMwWkpEOGFiUjJZOFZSN2M?oc=5",
+          "title": "빙그레, 임직원 가족 초청 행사 ‘Smile Family Day’ 진행",
+          "date": "2026-11-03"
+        },
+        {
+          "name": "코리아리포트",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5nNzBfQXRhaldjQllKc3lac2Z4Z3gzY2NFZWJ5V21WMzBhQm5xSHlzNXhiYVhfZEpfVGlNa0xrVHlTV3BRWHZjakh2M2hweVpaOGgyOVg0cWdaN19QQzByYnhSZXlIWGxBZUZnbmJzQmo?oc=5",
+          "title": "빙그레, 백범김구기념관서 임직원 가족 행사 진행",
+          "date": "2026-11-03"
+        },
+        {
+          "name": "스마트경제",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ra3VOTVlUQmxEeUJXUmtsRTVUWmN4V1lkZS1lUkZzVHdYR3A1bzVLbFd4dDJMejBXaHI0OHBOWkRWUWJOaXk5UkQ4NS1iM2pCQld3U3lnRWRWMzdSWTZYbGFudkRpOFhtMHFuaDExZ0U?oc=5",
+          "title": "빙그레, 임직원 가족 초청 행사 개최…가족친화 조직문화 강화",
+          "date": "2026-11-03"
+        },
+        {
+          "name": "뉴스웍스",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1LazQ4NHRHQ1FRN3BFbWF0Mm0xeVl5c2lVQjlGSzgxSDlsVGZMQmVRb2VPV1lfWmQwa2s2emlMRjRVelh4R29DN2laYnZNVEJQR3RBQ2J4dDJoU0JHRmNvOG5hNllaVWVwemlUSlN0RdIBc0FVX3lxTE9UY1VYeHY4T3lrNTRMMVBVUEVRZHhaRk8zVDRhUkFJaUhMTUlYd3BJSmtLU1huWEVsdTlkODB6bUxnT3lRcmltZWExUm9DT3dxVWU2S25vdmhuRDVtam03QlQ5cDVmYWJ6U1I5TmpIYzhOeXc?oc=5",
+          "title": "빙그레, 임직원 가족 초청 '스마일 패밀리 데이' 진행",
+          "date": "2026-11-03"
+        },
+        {
+          "name": "브릿지경제",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4zRzhZMU8ta01xLTNfclhxY3ZwWHZHaEdaNmNJVmc5RjFaN3VzczViSDVLM2tPTERWN3BjYlExU0JZUXJoZWV6cDBGT2c4bloxcDQyc3hub3otUQ?oc=5",
+          "title": "빙그레, 임직원 가족 초청 행사 ‘스마일 패밀리 데이’ 진행",
+          "date": "2026-11-03"
+        },
+        {
+          "name": "뉴스워커",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBDQ0VINUNYMzVmanM4Smw3TExLTlpMcDgwVVNkY3R0Z0JfZUZBNGJMNXhfQmZhdXpQclctb2ZKV0tMcWprREZhUnFzemt3WC1SNHdHU0xqOVFfanFUWlZkSlZJcTF1OEZWZkJJX0k4eGttR3FU0gF0QVVfeXFMUENDRUg1Q1gzNWZqczhKbDdMTEtOWkxwODBVU2RjdHRnQl9lRkE0Ykw1eF9CZmF1elByVy1vZkpXS0xxamtERmFScXN6a3dYLVI0d0dTTGo5UV9qcVRaVmRKVklxMXU4RlZmQklfSTh4a21HcVQ?oc=5",
+          "title": "[뉴스워커_빙그레] 임직원 자녀와 함께하는 가족 행사…역사 체험 프로그램 운영",
+          "date": "2026-11-03"
+        },
+        {
+          "name": "뉴스드림",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE10bU9RMGtSUHo5OFE1R3ZRYnNBYXM3NHdVMGFiSDQ3ajdtMjE0LXd6bFZmcHhGZUtjT1p5SGxWQlVfdnZVSmJfanBBLThuaEdkX3QtNjJac2wwSjVWTUhxRnRnOTZ6TEZDaHBV0gFuQVVfeXFMT3RRZWNuTlR1YUlTNUNMV3lBSTM0RnJza1Y1YXZVSTdDcHBUdkhMcHc1OUdJN2RNamk2cE9tVVVBa1RKT0pNbUd5R0FlMmNYYXRUamhjUzhEbExRbmozZVFhWU12aGpwdktwZEdZZkE?oc=5",
+          "title": "빙그레, 일·가정 양립 돕는 '스마일 패밀리 데이' 개최… 백범 탄생 150주년 의미 더해",
+          "date": "2026-11-03"
+        },
+        {
+          "name": "파이낸셜뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA2ZEJleGNxc0Z6MFk2UEZfb0JtNkxoQjFNb0JsMDZwMUtYWG9VZEJDRzVhZXViT1RKMUNMUFhSb3Y4VS1CbVc3Wl9QX1ZQeDNoREhGRlRRblo5QQ?oc=5",
+          "title": "\"가족 친화 조직문화 확산\".. 빙그레, '2026 스마일 패밀리 데이' 개최",
+          "date": "2026-11-03"
+        }
+      ],
+      "date": "2026-11-03",
+      "id": "20261103-11"
+    },
+    {
+      "cat": "market",
+      "importance": "low",
+      "company": "미래에셋",
+      "title": "미래에셋 피인수 디지털엑스 대표 사의 표명… 경영진 교체 착수",
+      "body": "미래에셋그룹에 인수된 디지털엑스의 오세진 대표가 사의를 표명하면서 인수 후 경영진 재편 및 조직 통합 작업이 본격화되고 있어요.",
+      "insight": "핀테크·가상자산 플랫폼 M&A 후 리더십 교체에 따라 핵심 개발·사업 인력의 연쇄 이동이 예상돼요.",
+      "action": "디지털엑스 출신 가상자산·핀테크 플랫폼 핵심 개발 인력의 이직 동향을 확인해 보세요.",
+      "teams": [
+        "채용"
+      ],
+      "tags": [
+        "디지털엑스",
+        "경영진교체",
+        "핀테크",
+        "M&A"
+      ],
+      "our_group": false,
+      "talent": {
+        "level": "mid",
+        "signal": "대표 사임 및 경영진 재편 — 핀테크·플랫폼 개발 인력 이탈 가능성"
+      },
+      "sources": [
+        {
+          "name": "FETV",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1tcE5Kdm52cTJJQlBrM3pFZW5zSWtqSmVLMjM1a3J3NzhacmN5QV9Zak1GQ2FpeTVhWGFJVG1Ja21pakVBU1dCMW9vcWdSNnNVSlFORUc4Q28yYjNCX3l0enpWQ3F6YjBO?oc=5",
+          "title": "[미래에셋그룹 인사] 디지털엑스 대표 사임에 주목받는 '운용 투톱'",
+          "date": "2026-11-03"
+        },
+        {
+          "name": "금융신문",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9hMkUzaUctOUcyckp6Z00wRzBiMU5DRDlNbmxkV0VsY2gwb216aENuSnhqcGxDcW5IaWxrSTNERHJkdHdPQUZLZldxY1dVd2ZmWWZ2ZmZaaHEtMEJqSTJDSUxxcjA1NENIUWM3SGw3LXNVejc4Um9HRnlMcW8?oc=5",
+          "title": "오세진 디지털엑스 대표 사의…미래에셋, 인수 후 경영진 재편 속도",
+          "date": "2026-11-02"
+        },
+        {
+          "name": "뉴스핌",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE54dGlqY1RjQ2Z4dzlZWHhKUjlnLXhZcHo1OHNuVVdDVE9Iek5ZdC00SlFmaHlZNnQ4aXViTnNVQWI0dnRDcTYxcGF0OGlPV0FNSFZnNDdqMnNhNWJu?oc=5",
+          "title": "디지털엑스 오세진 대표 사의…미래에셋 인수 후 경영진 교체",
+          "date": "2026-11-02"
+        },
+        {
+          "name": "바이라인네트워크",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5BTExJMEY1V2hHTkI4bDdOVy00NmlLRVZIdHFLN1RaRThzU3F5VnRhOG9pMXlQbU5mUVl5S3dPY0Y5eGpHV0VsV0ljSGVDNGc?oc=5",
+          "title": "미래에셋, 디지털엑스 대표 교체 추진…인수 후 경영진 재편",
+          "date": "2026-11-02"
+        }
+      ],
+      "date": "2026-11-03",
+      "id": "20261103-10"
+    }
+  ]
+}
