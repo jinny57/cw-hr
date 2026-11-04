@@ -1,0 +1,532 @@
+{
+  "date": "2026-11-04",
+  "window_days": 1,
+  "article_count": 323,
+  "engine": "gemini-3-flash-preview",
+  "headline": "AI 인재 확보 경쟁 심화 및 노동부 기획감독 강화",
+  "points": [
+    "게임·IT 업계 중심으로 AI 인재 영입을 위한 대규모 구조조정 및 채용 병행",
+    "고용노동부의 '공짜 야근' 및 장시간 근로에 대한 전국 단위 기획감독 실시",
+    "잡플래닛-링크드인 등 글로벌 HR 플랫폼의 AI 기반 채용 혁신 협력 가속화"
+  ],
+  "items": [
+    {
+      "cat": "market",
+      "importance": "high",
+      "company": "게임 업계 전반",
+      "title": "게임사 '생존형 구조조정' 속 AI 인재 영입전",
+      "body": "글로벌 게임사들이 비용 절감을 위해 올해만 1만 명 이상의 인력을 감축하는 구조조정을 단행하면서도, AI 전문 인재 확보에는 파격적인 대우를 제시하며 집중하고 있어요.",
+      "insight": "이커머스 솔루션 고도화에 필요한 AI 개발자 및 PM 인력이 시장에 유입될 가능성이 커졌으므로, 타겟 채용 기회로 활용할 수 있어요.",
+      "action": "구조조정 중인 주요 게임사(디즈니, 넷플릭스, 엑스박스 등) 출신 핵심 인재 리스트를 확보해 보세요.",
+      "teams": [
+        "채용",
+        "인사기획"
+      ],
+      "tags": [
+        "구조조정",
+        "AI인재",
+        "경력직채용"
+      ],
+      "our_group": false,
+      "talent": {
+        "level": "high",
+        "signal": "글로벌 게임·OTT사 대규모 감원 — AI·플랫폼 개발 인력 유입 예상"
+      },
+      "sources": [
+        {
+          "name": "뉴시스",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBnZUkycC1jem1tTk8zZTVZc2prUGVTTXpJeW9fYlVWWktqUy1ub2RhdXdIQ3VFNU9tX0VoRlhEMXpOQzdhSWNkXy03Rm9BYUtWaExIQ3c2WUtkTnJFRGtad9IBeEFVX3lxTE8xalRfcFVzdFB3anMyZjJlaEJtWUQ1V2xETmlKdjhhLVdkSUM4ZGJoSkstM3VEeFFXelcxRkpWazc3WlJqR2F6OGdEclJiVV9vQWxBUzRBX21EZjBlUmp1bFlHaFJGbTZjMlB5aGxMcXhFU3RZLV9HeQ?oc=5",
+          "title": "\"올해만 1만명 짐 쌌다\"…칼바람 속 'AI 인재'만 낚는 게임사들",
+          "date": "2026-11-04"
+        },
+        {
+          "name": "서울STV뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1fRVdzQ2NybzJab29vNHQyRUU0MEllSTF1WnRJSXE5RkEteDg1c3QyVE1KQ1hEaHoxTG04b2dxWjFfWW5BaS15cTZCemJ6N1pLeDFyMmRjWTdyUnFCb1ZJbGUyb0JsZHc?oc=5",
+          "title": "디즈니·넷플릭스도 구조조정…OTT 성장 시대 저무나",
+          "date": "2026-11-04"
+        },
+        {
+          "name": "서울경제",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5NWG9DVk5NYnhRYmFrSFdZY0lMY2JyN0VFVDNtOU1RS1NkYld0bnhFOHZiYURod1lkaTRLbXlnZ0Vjc09RYVRwc2FpWmNKZ1pTbUFv0gFTQVVfeXFMTk1Yb0NWTk1ieFFiYWtIV1ljSUxjYnI3RUVUM205TVFLU2RiV3RueEU4dmJhRGh3WWRpNEtteWdnRWNzT1FhVHBzYWlaY0pnWlNtQW8?oc=5",
+          "title": "“여보, 3년치 월급 줄테니까 나가래”…1만명 자르고 AI 인재는 모신다는 게임업계",
+          "date": "2026-11-04"
+        },
+        {
+          "name": "Investing.com 한국어",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5jXzZmdmJOa0VpYXE2V2pzYjVac0RuOHNoVUxFQ0xvZE1ESFJCeUlZNDFNaS1BWTM0QU9PYkk0ZG52QmNpMmhMV1FqSS1IWWlTd2RKMDFjRFBmRTdQUDYzNnl2dmNHMU45TnYwUlJINk4?oc=5",
+          "title": "개발비는 치솟고 성장은 멈췄다…글로벌 게임업계 생존형 ’구조조정’ By EBN",
+          "date": "2026-11-03"
+        },
+        {
+          "name": "IT조선",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9lTFVUVzZzTkpVU2dyTE9YOGE5aW1YMS1DbXBUQlZaUGdsRVlIOW5CQTNzaXNCVVhQZFRYUnNsNUNuUEZNN1BXUy12Zi04dWV6ZVBGakhqMUppMkF2NEtnbmlnY1lrTWc0Q1Nrd1RKTXrSAXRBVV95cUxPSzFVN2pfLU8xdjBWT1NCNzgxZ1RlbGhoRjhacm9KVXZUUmlZQlhXNUx0TE5ONmM5SHZwVEVuS0dHS1ZMSnV6aFdUbk9WME5qbnhXbjE4c05pal92YUNOX28tT19WRmdZaXE2dktZUGZJX2lmWg?oc=5",
+          "title": "구조조정 칼바람 속 엑스박스, 21년 베테랑 COO 돌연 해고",
+          "date": "2026-11-03"
+        },
+        {
+          "name": "머니투데이",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9RZXhKSTR5WXFkMWl4MkRTVXU0MUMyeW9NSzRsYjRrdVN2blY3TXBVdTdkREt3OWtZdFUtc3Q3aDhzUDlNMzJ4NVNvRnFud2dIZlVZeFFuMGZaUjg0Z09NV3o5eDc0NFRYVlQwRThB0gFuQVVfeXFMT1FleEpJNHlZcWQxaXgyRFNVdTQxQzJ5b01LNGxiNGt1U3ZuVjdNcFV1N2RES3c5a1l0VS1zdDdoOHNQOU0zMng1U29GcW53Z0hmVVl4UW4wZlpSODRnT01Xejl4NzQ0VFhWVDBFOEE?oc=5",
+          "title": "디즈니, 연간 비용 20% 줄인다…수천명 감원 계획 - 머니투데이",
+          "date": "2026-11-03"
+        }
+      ],
+      "date": "2026-11-04",
+      "id": "20261104-01"
+    },
+    {
+      "cat": "labor",
+      "importance": "high",
+      "company": "고용노동부",
+      "title": "전국 100개 사업장 '공짜 야근' 기획감독 실시",
+      "body": "고용노동부가 청년층이 많이 근무하는 성수동 등 전국 100개 사업장을 대상으로 장시간 근로 및 포괄임금제를 악용한 임금 체불(공짜 야근) 기획감독에 착수했어요.",
+      "insight": "포괄임금제를 운영 중인 그룹사 내 조직의 근태 기록과 실제 근무 시간 간의 괴리를 점검하고 리스크를 선제적으로 관리해야 해요.",
+      "action": "그룹사별 연장근로 승인 절차와 근태 데이터 정합성을 다시 한번 확인해 보세요.",
+      "teams": [
+        "노무·ER",
+        "인사기획"
+      ],
+      "tags": [
+        "근로감독",
+        "포괄임금제",
+        "임금체불"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "아웃소싱타임스",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBWSGUtQ2FRdGJXazFDVU90SDdxM1p0dUx5bllQRkVvMXBRdTVOUWN3NHJuQVNZbi01QU1adWQ3SERkcDd4R2dCb0VpdFRvM1VtM0pTS3VENHQ3OS1WVUJhQVVXX1R4ZTVfSGduOWhremFjUQ?oc=5",
+          "title": "[노동뉴스] 노동부, 청년 ‘공짜 야근’ 겨냥…전국 100곳 기획감독",
+          "date": "2026-11-04"
+        },
+        {
+          "name": "서울경제",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5GRjU0WENjaTlyMmd0SHVqbHA0c1FUWU11NjBOUURMLWdjM21aVTdzZ29xMkFfaHVsV3FtVWpYbTVub25sT3JjMTVTV0loWFVwcXfSAVNBVV95cUxNQWRrMk5hZkFxTGdpUVJRckZUMWhWcXBqLVNOZXltQi1fOUNZMzBPU0F4bno3RlhHaG5hZmplS1N3MFYxWGlNQzhHZWRCVzBWUzNLZw?oc=5",
+          "title": "‘공짜 야근’ 수당 안 줬다…성수동 정조준 노동부 기획감독",
+          "date": "2026-11-04"
+        },
+        {
+          "name": "환경일보",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5wdGRMQ2kyWUFiOXVVR3pkakNBdHFsNTNIcVlPVTllbVJIUTBzTkhtVFdFM3BGUFphQ3F2Y2lXMXNwV2lhTURESWZ3M1NLN2EyZkdlelZhRlREQy1IWWEwMldzeHVUdUZK?oc=5",
+          "title": "장시간·공짜 노동 근절··· 시간 노동 기획감독",
+          "date": "2026-11-03"
+        },
+        {
+          "name": "부산경제",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ZUmM4SGxWbGwtdEczQXFpcnJ0SzlyMUU4QTV2c0FRdkV6MlNNckViRlQwSHNFT2pvdUZlcUpTVnowZVY2X1I4MVZLcHBHVm9uZVpaTnlSVlpacUdncmo5Q2hfY3prdw?oc=5",
+          "title": "고용노동부, 청년 다수 고용사업장 등 장시간·공짜 노동 기획감독",
+          "date": "2026-11-03"
+        },
+        {
+          "name": "중앙일보",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1MbTBVdHZNT1ptWEhMWTdjM1pxWWhGLXRMSlRpSzJUYndBZ0JwTVRJeTUzWndvUTVibzQxLTEweFdtZU9vSmhpczJkQ2kzR1owX1JEZGdR?oc=5",
+          "title": "‘공짜 야근’ 뿌리 뽑는다…노동부, 성수동 포함 전국 100곳 기획감독",
+          "date": "2026-11-03"
+        }
+      ],
+      "date": "2026-11-04",
+      "id": "20261104-00"
+    },
+    {
+      "cat": "trend",
+      "importance": "mid",
+      "company": "잡플래닛",
+      "title": "잡플래닛-링크드인, AI 기반 채용 혁신 논의",
+      "body": "잡플래닛과 링크드인 경영진이 만나 한국형 수시채용 시장의 특성과 AI 매칭 기술을 활용한 채용 혁신 방향에 대해 논의하며 협력 방안을 모색했어요.",
+      "insight": "AI 매칭 기술이 정교화됨에 따라 채용 브랜딩과 직무 기술서(JD)의 데이터 최적화가 채용 경쟁력의 핵심이 될 것으로 보여요.",
+      "action": "현재 활용 중인 채용 플랫폼의 AI 추천 기능을 점검하고 JD를 키워드 중심으로 최적화해 보세요.",
+      "teams": [
+        "채용",
+        "조직문화·HRD"
+      ],
+      "tags": [
+        "AI채용",
+        "수시채용",
+        "HR테크"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "더페어",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBuYk43bGVhWGhQbmFocldTUlVJRWlXRFVrbmZkb3lrZDJSMWVZZjRkd3l6VmNENmlBVmNFWW9VcUNEUGd3Z1JOQjc1dXNKaE0ybmt3YlhITHBPeHJjMHFqdDUwMGQ4Y05qcE5IVFVkbkc?oc=5",
+          "title": "\"한국형 수시채용과 AI 매칭의 미래를 논하다\"…잡플래닛, 링크드인 CPO 등 글로벌 경영진 초청 회동",
+          "date": "2026-11-04"
+        },
+        {
+          "name": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9QWVJSNTZUNnk1eUxVczFGNFh4T3pBOEYtME5sRElpanZhV0FVWVJjVWJvMXVzT21tVThWTjlKUExfczVsbmVUZEE1TXRRWm53enhsUG90TTRIVXc1MkFScdIBYEFVX3lxTE9QWVJSNTZUNnk1eUxVczFGNFh4T3pBOEYtME5sRElpanZhV0FVWVJjVWJvMXVzT21tVThWTjlKUExfczVsbmVUZEE1TXRRWm53enhsUG90TTRIVXc1MkFScQ?oc=5",
+          "title": "잡플래닛, 링크드인 글로벌 경영진 회동…AI 채용 혁신 논의",
+          "date": "2026-11-04"
+        },
+        {
+          "name": "한국경제",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5rekNINU1oVkZGZFEtZXJnRjMtLVFjQ0dhNzMxcnp6YVFOYlZUQXRJSDQ5WEJGTTdXTGVLNzZTd3h1bUdjeUdFTHFiMkU2eVBDWWNVbzlNV2stdw?oc=5",
+          "title": "강남 찾은 링크드인 임원들…'한국판 블라인드' 향했다",
+          "date": "2026-11-04"
+        },
+        {
+          "name": "우먼타임스",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0zSjJCVGtCZS12Z2ZLank5R2p1SEstQmMyOUx3U05DVThwTE5KcnNMRkZOOFU5a05GX0drNkNNS0V4MDZrMUl2Mm1QWW5keWNNbGloOEt5UjMyNWZWcXJLaFJHazhrSUg4Q2dWXzRaMHrSAXRBVV95cUxObENLTXdFOXgxSlNNSGhQeEF5NkM5Sm9Hc09mRE53WU9pakJwZFZfd0o2X21MdzhJb1FDYTB4MHBVeV9tdGRDSWduZ3BOMDctQy1Fa3FTNFdSZ2s4ZlM1R09TQnZwRVJGUXo1ejd1N0dxUTR4TA?oc=5",
+          "title": "잡플래닛, 링크드인 경영진과 AI 채용 혁신 논의",
+          "date": "2026-11-04"
+        },
+        {
+          "name": "워크투데이",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9KMVhNV2hZTFJ0U2Myc3Jsd2EtQlBXclk0UlBhTkdxdG45alFKcWNCMUxYSGJmZmQ0T25XUkVRcC1VaklqOU5kdWZxbzRVSTlVbWNFOVk1U3hNWDBIalAxUTBRNWRnM3RpSkNKUw?oc=5",
+          "title": "잡플래닛·링크드인 경영진 회동 … AI 기반 채용 혁신 협력 모색",
+          "date": "2026-11-04"
+        },
+        {
+          "name": "잡포스트",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1GdG85aThPMGFFN0VZV1hPSkJkYzVVSDJTSkI1TF9qSVFDMEhQaktuU0lzdHpMTjhlRnNnT1NYZ0NrT0VnNExQNW1GVEtoSUdpS3dhSVBDTVZpVE9zY3EwSnVwdTFlZkk4d2ZqT1RR0gFyQVVfeXFMTTFRR0c4eFV2NExsaVBrdXBFcnFDUVJKa184UldYX1BSaXpIOEF2MXJQMnpCM1RDLUk0MDN6RWtKRTdDMTdFTGxkSThIUHdYRHQyQkdRUVVPNWFxcU5wVEVYUEpXaTdnVTRLemY2Z0xYWTZR?oc=5",
+          "title": "잡플래닛·링크드인 경영진 회동…AI 기반 채용 혁신 방향 논의",
+          "date": "2026-11-04"
+        },
+        {
+          "name": "신아일보",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1wTDlXdHk3Sms5SURYQ3lFalB5U3JaQ1pvZG5Hcm1FXzBqUzJPV2FHS2dhZEs3S3hlWjY5RlFpb21aeWp1N2lRSDg3V0dDbFRjNW0xR1E5S1VpZmQtWTVOdDRnNmtubkkwQzBCVGc3ZW4?oc=5",
+          "title": "잡플래닛, 링크드인 경영진과 회동…AI 채용 혁신 논의",
+          "date": "2026-11-04"
+        },
+        {
+          "name": "소셜밸류",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1CanBONGVtTWdFRUJpbHBTTFdsc293OS1tdzZWX1RPQlRHU0xDQlpxNzJiYURpQmozTGYwc2k4Wm5BTWdkM3NiU2pJRi1CLVgteHJoUTg0TUd4ZGRaOVpEb0lyMWJTUWV2SzlobtIBbEFVX3lxTE1CanBONGVtTWdFRUJpbHBTTFdsc293OS1tdzZWX1RPQlRHU0xDQlpxNzJiYURpQmozTGYwc2k4Wm5BTWdkM3NiU2pJRi1CLVgteHJoUTg0TUd4ZGRaOVpEb0lyMWJTUWV2Szlobg?oc=5",
+          "title": "잡플래닛 찾은 링크드인 경영진…AI 채용 혁신 방안 논의",
+          "date": "2026-11-04"
+        },
+        {
+          "name": "디지털투데이",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5uS3JkSXVhQVA4dHk4Z211NjAwNWE2cXltQnRNNEM4M3cyUVMyTmpSaXBZWWRNVF96X3phSWgtdTEweVJlcXFDb1M5WkpMR052ZXhGNjFsejMwLXJpb2V4Ym40Mm9SY1lsQ2tIX1U2X0puQTg?oc=5",
+          "title": "웍스피어 잡플래닛, ·링크드인 경영진과 AI 채용 혁신·미래 방향 논의",
+          "date": "2026-11-04"
+        },
+        {
+          "name": "한국면세뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBsSVRxbUVCOFRQOW9xczQyeGRGRV83UlA5NTJ4QTdWa1BiYUZ4REdSYnREZDlyczIteGRMMXNRRENmeFgyaGIxb201WU5MTjFlaXg4elc4RUtCY0oxNy1rX3RYMlNzZ3FYbnc?oc=5",
+          "title": "잡플래닛, 링크드인 경영진과 AI 채용 논의…한국 시장 특성 공유",
+          "date": "2026-11-04"
+        }
+      ],
+      "date": "2026-11-04",
+      "id": "20261104-02"
+    },
+    {
+      "cat": "labor",
+      "importance": "mid",
+      "company": "고용노동부",
+      "title": "상습 임금체불 사업주 777명 신용제재 시행",
+      "body": "임금을 상습적으로 체불한 사업주 777명에 대해 1년간 대출 제한 등 금융거래 제재가 처음으로 시행되었어요. 명단 공개와 함께 정부 지원 사업 참여도 제한돼요.",
+      "insight": "기업의 평판 리스크 관리가 채용 브랜딩에 직결되는 시점이에요. 우리 그룹사의 임금 지급 프로세스에 오류가 없는지 상시 모니터링이 필요해요.",
+      "action": "급여 정산 자동화 시스템 점검 및 미지급 사례 발생 여부를 전수 조사해 보세요.",
+      "teams": [
+        "노무·ER",
+        "보상·복리후생"
+      ],
+      "tags": [
+        "임금체불",
+        "신용제재",
+        "평판관리"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "고용노동부 보도자료",
+          "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=20192",
+          "title": "상습체불사업주 777명, 1년간 신용제재 받는다",
+          "date": "2026-11-04"
+        },
+        {
+          "name": "https://www.entv.kr/",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE16ZTM1SkJGZjRRRUdVeGNyUnFGc3RtaW9GQkxpcGIyUkZhRmt4bEZQei11QXBTVUstUW5yZTBRazgtMmswb0FWeHNCT2JFYW1KV3J5cTBzZUZjb3R4UUd6WXAta3o?oc=5",
+          "title": "임금 상습체불 사업주 777명 첫 신용제재…1년간 대출·정부 지원 제한",
+          "date": "2026-11-04"
+        },
+        {
+          "name": "아웃소싱타임스",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1EWkpCU0QzQzBNX25yQ1ZPOXVqaW1pYzFVVmJnZlBqQjBDUkhzUTB6QTNtc0YwbDVaemNqX1hmaE15Y0c0UHEwSWRvaUp1dTVFLXd4M3ZhYV84VmNwd2stX0NyZHVkWk0wanEwOUZ6ankyZw?oc=5",
+          "title": "[노동뉴스] 상습체불사업주 777명 첫 제재, 1년간 대출·정부지원 제한",
+          "date": "2026-11-04"
+        },
+        {
+          "name": "스페셜경제",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1CSlo5b3VuQV82dU90NVl1dFhNaExqSDRNczhtQnBIZTVZejd3S3NOcDUwRUJVdmtuRlFfQlcxeFd5VnI4NkZ3dk5iQ0t1c1pMQXRuczlxQkR5eWJlejdvRS1lQ1ZNbGVXSDRVQQ?oc=5",
+          "title": "임금 상습체불 사업주 777명 금융거래 제재",
+          "date": "2026-11-04"
+        }
+      ],
+      "date": "2026-11-04",
+      "id": "20261104-03"
+    },
+    {
+      "cat": "labor",
+      "importance": "mid",
+      "company": "고용노동부",
+      "title": "성희롱 과태료 대상 '사업주 친족'까지 확대",
+      "body": "11월 27일부터 직장 내 성희롱 발생 시 과태료 부과 대상이 사업주뿐만 아니라 사업주의 친족인 근로자까지 확대 시행돼요.",
+      "insight": "법 개정에 맞춰 사내 성희롱 예방 교육 내용을 업데이트하고, 징계 규정의 실효성을 재점검해야 하는 시점이에요.",
+      "action": "사내 취업규칙 내 성희롱 관련 징계 범위를 법 개정안에 맞춰 검토해 보세요.",
+      "teams": [
+        "노무·ER",
+        "인사기획"
+      ],
+      "tags": [
+        "남녀고용평등법",
+        "성희롱예방",
+        "법령개정"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "고용노동부 보도자료",
+          "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=20188",
+          "title": "「고용상 연령차별금지 및 고령자고용촉진에 관한 법률 시행령」 및 「남녀고용평등과 일·가정 양립 지원에 관한 법률 시행령」 개정안 국무회의 심의·의결",
+          "date": "2026-11-04"
+        },
+        {
+          "name": "www.sideview.co.kr",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5fcTJJOU82b1kwWTBzelgtY256bndVU1R3WHhFamw5ZE9xanU4UjFtQUhwVFlQdGptSEhuYzBCOERuZTkyQzFJYlVDcWZIYXhEblBid2p0SjhDVFd0WUk0WHpPZ0FkdUJYVUhCZQ?oc=5",
+          "title": "성희롱 과태료 '사업주 친족'까지···11월 27일 확대 시행",
+          "date": "2026-11-04"
+        }
+      ],
+      "date": "2026-11-04",
+      "id": "20261104-05"
+    },
+    {
+      "cat": "trend",
+      "importance": "mid",
+      "company": "P&G",
+      "title": "AI 활용 역량 평가 시 '선택 근거' 확인 중요성",
+      "body": "AI를 업무에 활용하는 역량을 평가할 때 단순히 결과물만 보는 것이 아니라, 왜 해당 AI 도구를 선택했는지에 대한 논리적 근거를 확인하는 평가 사례가 공유되었어요.",
+      "insight": "AI 툴 활용이 보편화되는 환경에서 결과물의 진위보다 'AI를 다루는 사고 과정'을 평가하는 면접 질문 설계가 필요해요.",
+      "action": "신규 채용 면접 질문지에 'AI 도구 활용 경험 및 판단 근거' 항목을 추가해 보세요.",
+      "teams": [
+        "조직문화·HRD",
+        "채용"
+      ],
+      "tags": [
+        "AI역량",
+        "면접질문",
+        "역량평가"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "기고만장",
+          "url": "https://ggmj.kr/flexwork/?idx=175413037&bmode=view",
+          "title": "AI 활용 역량을 평가할 때, 선택 근거도 확인하나요? | P&G 사례 --> --> --> AI 활용 역량을 평가할 때, 선택 근거도 확인하나요? | P&G 사례 N",
+          "date": "2026-11-04"
+        }
+      ],
+      "date": "2026-11-04",
+      "id": "20261104-04"
+    },
+    {
+      "cat": "ecom",
+      "importance": "low",
+      "company": "진에어",
+      "title": "통합 LCC 출범 앞두고 박병률 대표 사임",
+      "body": "에어부산·에어서울과의 통합을 4개월 앞둔 시점에 진에어 박병률 대표가 일신상의 사유로 돌연 사임하며 리더십 공백이 발생했어요.",
+      "insight": "대규모 조직 통합 과정에서의 리더십 이탈은 실무진의 불안감을 조성할 수 있으며, 이는 핵심 인력의 시장 유출 신호로 작용할 수 있어요.",
+      "action": "항공·물류 IT 관련 경력직 후보자군에 대한 모니터링을 강화해 보세요.",
+      "teams": [
+        "채용",
+        "인사기획"
+      ],
+      "tags": [
+        "리더이탈",
+        "조직개편",
+        "물류IT"
+      ],
+      "our_group": false,
+      "talent": {
+        "level": "mid",
+        "signal": "C레벨 이탈 및 조직 통합 추진 — 전략·기획 인력 유입 가능성"
+      },
+      "sources": [
+        {
+          "name": "한스경제",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5jTEZnaXc0WjU0d2dNOE1jSkVoZGJRUk9laVZMcG8yc0lWUmdXREFaWTloUWhSWjFrdjVKRkcybzg0YUNHVjd5ZEVZcllCRjg4RDFqblBGWmsxcDkxTk5uQVNDMVB5M0lTa2FV0gFvQVVfeXFMTS04NU02VGNsV3A1TXVsOU9pSWxkVGNxWGk0UW1ob2xCUlUwTXlIV2F5SFV0ZXRKSE8wQXgybzRmZ3JVZkhzRV9rUTlSMHViMmd4ZnJUVHNtRDc4YmNNVjdLa3Y1Q1VMbG1GRGZTWWdj?oc=5",
+          "title": "통합 LCC 출범 4개월 앞두고…진에어 박병률 대표 돌연 사임",
+          "date": "2026-11-04"
+        },
+        {
+          "name": "한국아이닷컴",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1CRGpSd25BN09tT1dKTE9nV0JqMjF2TkhUMjZXTDRieEVfVDhSc0x0Ml8wbmdiRDhNSDBxY3ZtclB6SlU4SlZmcTRxM0l3VXlWVUcxU1VKc3dQZkRZYWhXZl9XMXRsU1BSbHRV0gFvQVVfeXFMTnF5ZEEwOG5JeFVyR1o2YkVIZWpZRFhFOVUwYkJQT2VQMEY3M0Vpa2UwdU9iNVg0dnVHSHhVZGRocEJsVUFSQmxwVm95OWJQZTBwMjJkd18wcm5mR2szYmIzTUI0TnhHSjZQM0g2aWVR?oc=5",
+          "title": "통합 진에어 출범 4개월 앞두고…박병률 대표 돌연 사임",
+          "date": "2026-11-04"
+        },
+        {
+          "name": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE11OEpNXzhXWjdaUldCNnV5eV9qaGFCWXVidTZVRGNMVHFoOHltT2ZsdXpReEdjTWp6ZU5ra1dzYzI4WnV1TFFrRDg3ZXRYb0pQTElySHdCSzN1Uk3SAWBBVV95cUxOMFd2d1VtT1lFWjZuSXBmeXhYUzU5bUhJRUVCUWpKTV9hUlh1RnBBZWlpS2g1eE5tTzhqM3RzZV93dWhnTGFjTE1fZ0NqS0xOYkdxdnlFRVN0Y0ZkMTY5STg?oc=5",
+          "title": "박병률 진에어 대표, 통합 LCC 출범 4개월 앞두고 돌연 사임",
+          "date": "2026-11-03"
+        },
+        {
+          "name": "디지털데일리",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8wR3l1WnVtM21nblAwcndSelpZUldpa2tIY21hR3ZFODJsaEZIc2lQcGJia0NETmY4WVBDaS0tR3lYLWdSemF1Zm1pS2tYdE1GNUc3elByVzZscl9NYTBRVWJOc2Y?oc=5",
+          "title": "통합LCC 출범 앞두고…박병률 진에어 대표 돌연 사임",
+          "date": "2026-11-03"
+        },
+        {
+          "name": "매일일보",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE94LXoyMlRGbFBoT3d3UjdQZlpVeXhZaFdodjFoVzNjRGQ3MDVsa2tzRHAxN3pzRk9wX0pXR2VkSU14Y2ZRbWhZa3RtLTMwamtsTGloNHJwVUluNTVFRUFTN014c2o?oc=5",
+          "title": "진에어 박병률 대표, 일신상 사유로 사임...대표직 공석",
+          "date": "2026-11-03"
+        },
+        {
+          "name": "머니투데이",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1CMlpralJmTm5Uelg2VlpPaVpVNW5qYnVlQzY2SjMyeVhlQnl0bEVkVFY4aXptUUtEVl9hdVVqbjRFZkUtX1ZQS0hlZGdUSGlmU3lxUi11ZUZ5WWRIQnFMMDNERE9leXVldW1QUNIBckFVX3lxTFByaTBhVlhUTzNubGM5ZnBsanlCRzBJbEl0c20zaGgxdzhhMXQ0U3M1c3k5bURZTXJMZ1dQUk9sX0JNU256TUpFTVFDWFBNaTh2SGtYSmRwNWpZT2NfMlh4VWJFRDRwUWlLN0NxdXVVWllMZw?oc=5",
+          "title": "통합 LCC 출범 앞두고…박병률 진에어 대표 돌연 사임 - 머니투데이",
+          "date": "2026-11-03"
+        },
+        {
+          "name": "FETV",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4tbHpJRE5uSU85WG5rMXJFRThSeGhyVkhKYjQ4MWJQdExLRkRRYTY3RHdfV1ZmOFR3WkxVd1NGNmc5bEp2dF85QnI4MTI1dXJ6X0Vka256YWt4enR6ejc4dS1HZ3lGRDcw?oc=5",
+          "title": "통합 앞둔 진에어, ‘깜짝’ 대표 사임 배경은",
+          "date": "2026-11-03"
+        }
+      ],
+      "date": "2026-11-04",
+      "id": "20261104-06"
+    },
+    {
+      "cat": "trend",
+      "importance": "low",
+      "company": "빙그레",
+      "title": "가족친화 조직문화 위한 '패밀리 데이' 개최",
+      "body": "빙그레가 임직원 가족을 초청해 체험 행사를 진행하며 일·가정 양립을 지원하는 조직문화 조성에 힘쓰고 있어요. 세 차례 가족친화 인증을 획득한 바 있어요.",
+      "insight": "임직원 소속감 고취를 위해 가족 참여형 프로그램은 비용 대비 효과적인 조직문화 장치로 활용될 수 있어요.",
+      "action": "우리 그룹사 차원의 소규모 가족 초청 이벤트나 복지 혜택을 기획해 보세요.",
+      "teams": [
+        "조직문화·HRD"
+      ],
+      "tags": [
+        "조직문화",
+        "가족친화",
+        "임직원경험"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "소셜밸류",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE50LWdGZldsdzYyM3pVZzFIYWIxeE9sWFRYc0g1OEF0cUZ6M1ZRWnIxWmdZeWI4QklVby1faVMzUnZKdXhSSXFzNXlYTGwySHdITWZsT0stUjh1U0RjM2o4Ql9hMNIBbEFVX3lxTFBoNUY3VnRONHE2Yl9TZ3dmMGNsSUhXMUJEZEtSbG5UczJoVDJ0X0t5R1lnNURzSUgyb2podXU2cjBhZy00S0RlemQzNEFSQVhJd2toZWVKUXVRdmdoeFZYVlpMR2ZhSDhOSWxDbw?oc=5",
+          "title": "빙그레, 임직원 가족 초청 ‘2026 스마일 패밀리 데이’ 개최…가족친화적 조직문화 조성 힘써",
+          "date": "2026-11-03"
+        },
+        {
+          "name": "더팩트",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9acU1wcXVaNzVLVUpXc2psVV9ESXdmYzBaRFpuTjIydW5yeTBHNXEydlcwaHc3RU9sZFotYTlhZ2Y0TkJtd29BMVkzcjBCeVM1MEJEcNIBVEFVX3lxTE9acU1wcXVaNzVLVUpXc2psVV9ESXdmYzBaRFpuTjIydW5yeTBHNXEydlcwaHc3RU9sZFotYTlhZ2Y0TkJtd29BMVkzcjBCeVM1MEJEcA?oc=5",
+          "title": "빙그레, 임직원 가족 초청 '2026 스마일 패밀리 데이' 진행",
+          "date": "2026-11-03"
+        },
+        {
+          "name": "더퍼블릭",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1VdEJhMFl4bTFEMDdrTXNiODkzY1pMRHhsVlNhRDJSU2dIdjc1dXh1Q29qTktTV1J2VGlKUWc5OENhUzFrVHgxTjNFdER0S09qVHoxSDJJR0hoZWQzcnRwQ3ZMUkY1dG1qSmtlYXdEc9IBb0FVX3lxTE1VdEJhMFl4bTFEMDdrTXNiODkzY1pMRHhsVlNhRDJSU2dIdjc1dXh1Q29qTktTV1J2VGlKUWc5OENhUzFrVHgxTjNFdER0S09qVHoxSDJJR0hoZWQzcnRwQ3ZMUkY1dG1qSmtlYXdEcw?oc=5",
+          "title": "빙그레, 일·가정 양립 지원…임직원 가족 초청 행사로 소통 강화",
+          "date": "2026-11-03"
+        },
+        {
+          "name": "이코노미사이언스",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4xODN6YUNvQmJxSkxrRTRjY29GRVQxVW9jY2ZFQjRiRGZhMnlLdXo3QXNxRndBOFIwcVhBTUYyT2VudWVCZ2pXWmZ3ZGdMaG15am45Qk5wMXc0SkZRQlUzTl9pVjYxZHZxRlE2UUxfWQ?oc=5",
+          "title": "빙그레, 가족친화 인증 세 차례 획득...행사 넘어 근무제도까지 지원",
+          "date": "2026-11-03"
+        },
+        {
+          "name": "백세시대",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1RLVJNUF9GMjItNkJUejBKc1pfci1MRW05QWJDdnd0RFVhbndkLUpLNHBKWm9FWVV1VU50aUZiWmlnU1UzX0NRc3dJTjQwYmNOMXdCcjk1aHhnS0J4ZzA2eDFIeFhJWGRUM0c0?oc=5",
+          "title": "빙그레, '가족 친화 조직문화' 확산…백범김구기념관서 체험 행사",
+          "date": "2026-11-03"
+        },
+        {
+          "name": "비즈월드",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Xc1I1N2Z0LTNOdUk1X0psbzNUSjd6SFlGYTNLcy1HTm9sZ01sd2FiTHY1Z3ZOaXF5NGFrMXVjRjA4ZFdhTDBCZURiOGJvVDlDQzF1N203OHJMczdjRXFFZFFqOGtsQkxGSnc?oc=5",
+          "title": "빙그레, 임직원 가족 초청 행사 ‘Smile Family Day’ 성황리 개최",
+          "date": "2026-11-03"
+        },
+        {
+          "name": "업코리아",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1nemN4cGNCMVpCS0xrX3JlVi1MV05QVlQ2VlVXTUl4MkZkWkh2RzJINkFNMHFoTnpsT2phSmlpTE5kMkJTRWFUa2l2RW1DVTZvSy1FeWxDTVpHell1QTNzOGYtYUM5R1VLckY4Tmx3?oc=5",
+          "title": "빙그레, 임직원 가족 초청 행사 ‘Smile Family Day’ 진행",
+          "date": "2026-11-03"
+        }
+      ],
+      "date": "2026-11-03",
+      "id": "20261104-08"
+    },
+    {
+      "cat": "trend",
+      "importance": "low",
+      "company": "미스미그룹",
+      "title": "일본 대기업, 고졸·대졸 초봉 격차 폐지",
+      "body": "일본 미스미그룹이 AI 시대에는 학력보다 변화 대응력이 중요하다는 판단하에 고졸과 대졸 신입사원에게 동일한 초봉을 지급하기로 결정했어요.",
+      "insight": "전통적인 학력 중심 보상 체계에서 직무 역량 및 잠재력 중심 보상 체계로의 글로벌 트렌드 변화를 보여주는 사례예요.",
+      "action": "우리 그룹의 직군별 초봉 체계가 학력이 아닌 역량 중심으로 설계되어 있는지 장기적으로 검토해 보세요.",
+      "teams": [
+        "보상·복리후생",
+        "인사기획"
+      ],
+      "tags": [
+        "보상체계",
+        "학력철폐",
+        "글로벌트렌드"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "서울경제",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ZS1pUaXJ0NVJGVF9mVWxfYVNlWnFJZFB1RFJkUXduUUtEc1otYUFWQzJoRlRSLUVxYWZoRzAyTjZLbnFOb1p6enFDMDViMTVUUXfSAVNBVV95cUxQU25lVjcza0RaT196R1hjeEpfVzNYWGI2WU4tclRyd3UtdkFhZTJzblRYY3NnZm9qY2Z2TERFN0FwdjFyekRwN2Y0NWdBT0xsekNxaw?oc=5",
+          "title": "이제 학력은 의미 없다…“고졸도 대졸도 256만원” 똑같은 월급 준다는 日기업, 왜?",
+          "date": "2026-11-04"
+        },
+        {
+          "name": "한국일보",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE40bDVMTV9tN1RpYlY2emR1cmYwZ2hlT3d2QzI2N3pWM3Q4Y1hzV2ZNNll6YnpVNzJFX1ZUZ2luMlQwR1RORXpRY0g0TFh0NFF4Mi0xbFNDQ2NzcjRMRmxlc2I2NHVrd2VieklfMV83R3pWTHPSAXNBVV95cUxONGw1TE1fbTdUaWJWNnpkdXJmMGdoZU93dkMyNjd6VjN0OGNYc1dmTTZZemJ6VTcyRV9WVGdpbjJUMEdUTkV6UWNINExYdDRReDItMWxTQ0Njc3I0TEZsZXNiNjR1a3dlYnpJXzFfN0d6Vkxz?oc=5",
+          "title": "고졸·대졸 초봉 똑같이… 日대기업, \"AI시대 학력보다 변화 대응력 중요\"",
+          "date": "2026-11-03"
+        },
+        {
+          "name": "재경일보",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE05UEk1eEgxMDhEaE5xZnJqeGZJbGpUZmZNRnVhT0d0ZDFWa09kSkVxZlQwdE5jRGdicFNBNWIyZjFpSV9OY3BvRk1nZw?oc=5",
+          "title": "일본 미스미그룹, 고졸·대졸 같은 채용 틀 적용…초봉 격차 없앤다 : 국제",
+          "date": "2026-11-03"
+        }
+      ],
+      "date": "2026-11-04",
+      "id": "20261104-07"
+    },
+    {
+      "cat": "labor",
+      "importance": "low",
+      "company": "업계 전반",
+      "title": "사업장 위험성평가 의무 위반 과태료 부과",
+      "body": "내년부터 50인 이상 사업장을 대상으로 위험성평가 의무 위반 시 과태료가 부과될 예정이에요. 안전 보건 관리 체계 구축이 필수적이에요.",
+      "insight": "물류 센터(몰테일) 및 사무실 환경에서의 안전 점검이 단순 권고를 넘어 법적 강제성을 띠게 됨을 의미해요.",
+      "action": "그룹사별 위험성평가 실시 여부와 기록 보존 상태를 점검해 보세요.",
+      "teams": [
+        "노무·ER"
+      ],
+      "tags": [
+        "산업안전",
+        "위험성평가",
+        "중대재해처벌법"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "서울Pn",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9URWZsc1dkYWtiejIwT1ByV19TQm5iaEx5RVZjM254UmZxRDVkWW1aU0pfWlhxOWxFRm9ZSVJMT0Y1VlNzRmN1S255d2prcExUa3Bscmw0aUZid01kYzFETWpn?oc=5",
+          "title": "안전 필수템 '위험성평가'를 통해 모든 일터를 안전하게!",
+          "date": "2026-11-04"
+        },
+        {
+          "name": "데일리안",
+          "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQemVJZDJyNjJ4SUJteUZUYkEtUnZCYXFjM3NlUXYxOVNqX3VXQkVBaUdfNWFtQUdlMmpUZ1JyT1pfNE5aUjVKWUNxc0dSUk93T0NxM3dIM0duYmE5RlVSV19VQ1dpQkR2a3RUYnJxd292LWxVUEo1VjI3cTdITjR6d3JXVFNsdVZ6cUloSEVoT3M3NzhMMXktOXFUMzdiaTBXSjdWcURNZUQ4VFV2eHVtb202WDFzdVM1OTd1cEp0ZVJ1XzNWU1BIUkRXQ0xPRVd0eTBEU0YwbXd6cGZ5ODRuQlV1aGtWcHZ2T3lnMk45bFhtTzNyS1NvTlZyRG1fMGlDLS1ob1ZlTzNaZk1PcTdfT2ZvdlJaNTRx?oc=5",
+          "title": "사업장 위험성평가 의무 위반 시 과태료…내년부터 50인 이상 적용",
+          "date": "2026-11-04"
+        }
+      ],
+      "date": "2026-11-04",
+      "id": "20261104-09"
+    }
+  ]
+}
