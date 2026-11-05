@@ -56,9 +56,597 @@
     ]
    }
   ],
-  "updated": "2026-11-04T12:26+09:00"
+  "updated": "2026-11-05T12:52+09:00"
  },
  "reports": [
+  {
+   "date": "2026-11-05",
+   "window_days": 1,
+   "article_count": 329,
+   "engine": "gemini-3-flash-preview",
+   "headline": "경력직 채용 시장의 고연차 선호 뚜렷 및 구글·캔바 등 글로벌 IT 감원 신호",
+   "points": [
+    "경력직 채용 시 5년 이상 고연차 요구 공고가 58.5%로 3년 연속 상승하며 문턱이 높아졌어요.",
+    "구글, 캔바 등 글로벌 IT 기업의 대규모 희망퇴직 및 감원 소식으로 핵심 인재 유입이 예상돼요.",
+    "내년부터 위험성평가 미실시 사업장에 최대 1천만 원의 과태료가 부과되니 철저한 대비가 필요해요."
+   ],
+   "items": [
+    {
+     "cat": "labor",
+     "importance": "high",
+     "company": "고용노동부",
+     "title": "위험성평가 미실시 시 최대 1천만 원 과태료 부과",
+     "body": "내년부터 50인 이상 사업장에서 위험성평가를 실시하지 않거나 작업 전 완료하지 않을 경우 최대 1,000만 원의 과태료가 부과됩니다. 법적 제재를 통한 안전관리 체질 개선이 목적입니다.",
+     "insight": "단순 권고를 넘어 법적 강제성이 강화되었어요. 물류센터(몰테일) 및 사무실 전반의 안전 보건 관리 체계를 즉시 점검해야 하는 시점이에요.",
+     "action": "각 사업장별 위험성평가 실시 현황을 전수 조사하고, 내년도 평가 일정을 확정하여 공지하세요.",
+     "teams": [
+      "노무·ER",
+      "인사기획"
+     ],
+     "tags": [
+      "위험성평가",
+      "노동법",
+      "과태료"
+     ],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "고용노동부 보도자료",
+       "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=20194",
+       "title": "안전 필수템 ‘위험성평가’를 통해 모든 일터를 안전하게!",
+       "date": "2026-11-05"
+      },
+      {
+       "name": "메디컬투데이",
+       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9FSTdjazJDVDE4X1NjSVJxaENSeF9FNThZQ1N6dHExQ2pyaUZWc1lrLVFwRkZUaTBXeWVSX3RtbnVqREYtMWZERHZnNUY2QkZ6S3lOMXVwbUItM25JTlFEYTJGLU5GNWY2SnhsUA?oc=5",
+       "title": "내년부터 50인 이상 사업장 위험성평가 미실시 시 최대 1천만원 과태료",
+       "date": "2026-11-05"
+      },
+      {
+       "name": "경기일보",
+       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9QVVpPTWs2RnFGM05vT19TZTREdnlGSGxQLVc4T0ZxUmpxU1RmUkFlOHZoVGYtTDl5Wm5sRDlIWHNfdmZSbV83MmZCMk5GbG5oSTdiczRvN3l6bXM?oc=5",
+       "title": "위험성평가 의무 위반 사업장 과태료 부과… 최대 1천만원",
+       "date": "2026-11-04"
+      },
+      {
+       "name": "미디어펜",
+       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9FZncxdTh5alBmU1Y0RWt3TDFWWkRVcU00UFZ6ZWpwM2dxWi1lWXVpV1JFbS0tbTZ0aHlnR3JzaDVteUJ2cUFocE9DandtRGNhV2lJN09PUFTSAVhBVV95cUxPRWZ3MXU4eWpQZlNWNEVrd0wxVlpEVXFNNFBWemVqcDNncVotZVl1aVdSRW0tLW02dGh5Z0dyc2g1bXlCdnFBaHBPQ2p3bURjYVdpSTdPT1BU?oc=5",
+       "title": "위험성평가 '작업 전 완료' 의무화…법적 제재로 체질 개선",
+       "date": "2026-11-04"
+      },
+      {
+       "name": "남도일보",
+       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9CYzNnVDU5NnlzbVVIWFN3UEQ0WVdaWkNlMWRLNzNKMEZxd2djaklBLWVRc08xaGtxSmVtQXVFekxpVGttLW4zVHJfUF92N0xyeW1HVnliUGMyTmFwZl9DNmU0dnhjbncwNEhROXR2b1XSAXBBVV95cUxPQmMzZ1Q1OTZ5c21VSFhTd1BENFlXWlpDZTFkSzczSjBGcXdnY2pJQS1lUXNPMWhrcUplbUF1RXpMaVRrbS1uM1RyX1BfdjdMcnltR1Z5YlBjMk5hcGZfQzZlNHZ4Y253MDRIUTl0dm9V?oc=5",
+       "title": "내년부터 위험성평가 안 하면 과태료 최대 1천만원",
+       "date": "2026-11-04"
+      },
+      {
+       "name": "브릿지경제",
+       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE51MTB6Q2M2a3JBLTVKWEh5dnBzcnN2eU9zcHdPREhjSmRQcHUxc0VrWVRLRmtlVVMyS1NGY3pWeGFSUjY0aXNNWUliaGFGSWJ6cWNnY01jSHFXdw?oc=5",
+       "title": "노동부, 내년부터 위험성평가 안 하면 최대 1000만원 과태료",
+       "date": "2026-11-04"
+      },
+      {
+       "name": "스마트비즈",
+       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBRQTFqVnFCeFU2RkEtaDBDYjZyMnBBRkJnSjVLMTVoQ29RMV90LWY5blZQeFd5UUwzMVZydFB3MXI1cEdzZzFmZ0xfbXZNR0JOSG1BWnhzSUdLOFhCRl9WZUJKdGJIeXVoRUNkTQ?oc=5",
+       "title": "내년부터 사업장 위험성평가 안하면 과태료 최대 1천만원",
+       "date": "2026-11-04"
+      },
+      {
+       "name": "금강일보",
+       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9idlctMkpYMjNDZ0t0ZnRfY3VDV1NoSVhncS1JV2V5U2o2d1pSdXQxRmVZRXlZWHUteDh4dFNJOVJod005Nk5FRGdOT1FXRG9fOFZKZEliUld1a0JqSUFUclBzU3d6ZElMd1E?oc=5",
+       "title": "위험성평가 미실시 과태료 최대 1000만 원",
+       "date": "2026-11-04"
+      }
+     ],
+     "date": "2026-11-05",
+     "id": "20261105-01"
+    },
+    {
+     "cat": "market",
+     "importance": "high",
+     "company": "업계 전반",
+     "title": "경력직 채용 시장 '고연차' 선호 현상 심화",
+     "body": "경력직 채용 시 기업들이 요구하는 최소 경력 기간이 3년 연속 상승했습니다. 전체 경력직 공고 중 5년 차 이상을 뽑는 비중이 58.5%에 달하며 저연차 경력직의 설 자리가 좁아지고 있습니다.",
+     "insight": "이커머스 시장 경쟁이 치열해지면서 즉시 전력감이 되는 고연차 선호가 뚜렷해요. 우리 그룹도 연차별 인력 구조를 점검하고 핵심 고연차 인재 확보 전략을 강화해야 해요.",
+     "action": "현재 진행 중인 채용 공고의 요구 경력이 직무별 적정 수준인지 재검토하고, 고연차 인재를 위한 EVP를 강화해 보세요.",
+     "teams": [
+      "채용"
+     ],
+     "tags": [
+      "경력직",
+      "채용동향",
+      "고연차"
+     ],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "매일일보",
+       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBEaU5zMUxKWGhfQ252MklSOFkzVnVjVUNZQmFwYk9mZjdtemUwdURkbUdjbV9rTllWbTFLa2FSUTNOX3ppQTc0cXBhVUdlV3FGemdWb2tUVy00Q0xBWVhjOV9wVW0?oc=5",
+       "title": "경력직 채용도 '고연차' 선호…기업 요구 경력 3년 연속 상승",
+       "date": "2026-11-05"
+      },
+      {
+       "name": "아웃소싱타임스",
+       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE92WTJpLVJUc2doS21oaTI1SEtHc1NRMXJnc3ItVUdib21VeWFlTFQ5bGRPU08wQXFSV2NtV1BTekI1b3JGOXpsMkxnVWVtUFRkMk5wbDBvUThqZnphMXdxbmp6bXFhckRHQThoRkpIcThOQQ?oc=5",
+       "title": "[취업뉴스] '고연차 선호' 뚜렷...경력직 '최소 요구 경력' 3년 연속 상승",
+       "date": "2026-11-05"
+      },
+      {
+       "name": "뉴스투데이",
+       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9XOGp6dE9YcXBDamF0bmhseWh5ZGE5bFVIbVNnTGFfTmJadWg3cE8yY0RSYnI0bmhXT1paM1lYMHJCYk80U3RaSnpJMDJ4S3ZFRXJLOUpxQWJmY2JucXc?oc=5",
+       "title": "경력직 공고 58.5%가 ‘5년차 이상' 뽑아…6개 분기 연속 늘었다",
+       "date": "2026-11-05"
+      },
+      {
+       "name": "피앤피뉴스",
+       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBOTk1HdkM5N3lUTWhSbzlDZkpzd1ZiYV9WRjEzNlN3WlRLX2dBYUh3YjNvakF5VWJ0dFQ2N0h2QjRmVWQyWk1yTzlnTzFNcFh0SnFfOWVR?oc=5",
+       "title": "경력직 채용 문턱 높아졌다…기업 10곳 중 6곳, 경력 5년 이상 요구",
+       "date": "2026-11-05"
+      },
+      {
+       "name": "한경매거진",
+       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1NOXE2Wldnak5ER1ZCOFViekRHNGM3UmU5czMtREJ6a2FGOGp4MnNLeDB4al9fSmNqSFFJZ1o5cVhxQ1d6ZVBmS0VLUDJxLUl6eE9NS1FjWkpOY3lvSVlJbURITldPX05Xa1dSNQ?oc=5",
+       "title": "\"경력 2~3년차는 글쎄…\" 기업, 고연차 경력직 원한다",
+       "date": "2026-11-05"
+      },
+      {
+       "name": "로이슈",
+       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0ydzdHdlo5dFdTNC1lLXZsNHVfZkZ4Qm0yeFlDVElIUEhoVHlGZ3ZCbGFLYllxZ0NGRUVZQVkwYWd3OFlvRTdqaFpBV184Vm80aHliUHRVeUdTSjZYa2pYZWlIdDg2d3pJVHVLVDdka3RMcG1sWEpZSy1R?oc=5",
+       "title": "인크루트, 경력직 채용 기준 3년 새 상향…5년 이상 요구 공고 58.5%",
+       "date": "2026-11-05"
+      },
+      {
+       "name": "www.thefairnews.co.kr",
+       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA0VHVxQ1J4NW1BOU1EY25JcEF0LUxUUFBjS0pSeEt1NDAtOFJraF9SYWJvNUs1NXB2eFkxSHVIemptZFJlc3BOTGtVVDNULU9hTDRlVC00SVhSNGlPRUlvRGlHa3FIc214RU5vbkR4SElXYUQt?oc=5",
+       "title": "\"저연차 경력직 설 자리 없다\"…경력 채용 시장, '고연차 선호' 뚜렷 |",
+       "date": "2026-11-05"
+      }
+     ],
+     "date": "2026-11-05",
+     "id": "20261105-00"
+    },
+    {
+     "cat": "ecom",
+     "importance": "high",
+     "company": "캔바(Canva)",
+     "title": "캔바, 10년 만의 성장 둔화로 인력 22% 감원",
+     "body": "글로벌 디자인 플랫폼 캔바가 성장 둔화에 따라 전체 인력의 22%인 1,271명을 감원하고 조직 개편을 단행했습니다. 사무실 복귀 정책도 병행하고 있습니다.",
+     "insight": "성장 가도를 달리던 글로벌 SaaS 기업의 대규모 감원은 업계에 큰 신호를 줘요. 플랫폼 기획 및 디자인 전문가들이 대거 시장에 나올 것으로 보입니다.",
+     "action": "캔바 등 글로벌 플랫폼 출신 인재들의 이직 의사를 모니터링하고 우리 그룹의 기술력을 홍보해 보세요.",
+     "teams": [
+      "채용",
+      "인사기획"
+     ],
+     "tags": [
+      "캔바",
+      "구조조정",
+      "감원"
+     ],
+     "our_group": false,
+     "talent": {
+      "level": "high",
+      "signal": "전체 인력 22% 감원 — 플랫폼 기획·디자인 인력 대거 유입"
+     },
+     "sources": [
+      {
+       "name": "메디컬투데이",
+       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9TOFY4dVY2T2tfRXRVb2lyb3EtMm9mLVNrQTV2WnhyeEtiU1VXNkxvTlkxaEJoUm9LdWJmY21hcThuVGFVSk1hbU1yLUVJQ0h6RWVhUjNCejlia3Rwc3RkOFdtczF3RGk2bXRpNQ?oc=5",
+       "title": "캔바, 10년 만의 성장 둔화...직원 1,271명 감원",
+       "date": "2026-11-05"
+      },
+      {
+       "name": "IndexBox",
+       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZ1ZWWGNMcXEtSzFuR011MHVnZ21aVEVVaGQ0bDRPekhfWnoxdlVfT1V6MkRsR3VsVDZON29oYzliMFFaVEpOVTNRS0h4cDlhN2djVlNFWExmYzA4NUxkRHFTT1BZWkJpRWc2VXgyY0hPMWlvYjBNcmZkSGRidF9id3JfbjZnQjRFbGJTWExJMDhsWUtVcU16dnotMWJJOGhYNGhMbG5HeVo3NTUzODFCRUV5RWVIMnN0YUJQdGVhZ1VvYnc?oc=5",
+       "title": "캔바 2026년 감원: 인력 22% 구조조정·감원·사무실 복귀 - 뉴스 및 통계",
+       "date": "2026-11-05"
+      },
+      {
+       "name": "Chosunbiz",
+       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPLXhyNFVNeHo4c3JQUlhPVEtWeDBReHhXWklNaE02V1p1TXdkV2V5TlJYbTlkS3lFM3p2eTBzeUNCTWR6UnduXzJQMUs5dE5KbVFWTm1BYjFEaTVLMUc5djExOUxKMENJMDB0RXhrOVg5djVCVDc0TlRXeUZSSTRIT1NB0gGWAUFVX3lxTFBOaFRabFB5LUtMclM3VjhueVlEV3VOREMybnVQelltZ1oxclVEU2tkelE1eFZQRkhYVUt5NjNNNE9sS2VxYnFVWV9xMDBodVp5ZWZUQkxSeTdETTBMODdJUTFMR1J1NERzS0ItRF9RMXE1NEF5Zmk0R0VvbGlaMjV6RGhaRDRzVnpRVHNQbFJsV1ZmRVZhQQ?oc=5",
+       "title": "‘디자인 강자’ 캔바도 10년 만에 성장 둔화… 직원 22% 해고·재배치 등 조직 개편",
+       "date": "2026-11-04"
+      }
+     ],
+     "date": "2026-11-05",
+     "id": "20261105-03"
+    },
+    {
+     "cat": "trend",
+     "importance": "mid",
+     "company": "잡플래닛",
+     "title": "링크드인-잡플래닛 회동, AI 채용 미래 논의",
+     "body": "링크드인 글로벌 경영진이 잡플래닛을 방문해 한국형 AI 채용 혁신 사례를 공유하고 미래 방향성을 논의했습니다. AI를 활용한 신원 검증 및 매칭 기술이 화두였습니다.",
+     "insight": "AI 채용 기술이 딥페이크 방지, 신원 검증 등 정교한 영역으로 진화하고 있어요. 우리 그룹 채용 프로세스에도 AI 도입을 검토할 시기예요.",
+     "action": "AI 면접이나 서류 스크리닝 솔루션의 최신 트렌드를 조사하여 채용팀 내부에 공유해 보세요.",
+     "teams": [
+      "채용"
+     ],
+     "tags": [
+      "AI채용",
+      "HR테크",
+      "링크드인"
+     ],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "지디넷코리아",
+       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA5YkFORE40VC0zNE5Bb04xNHgtSmdzcklCMnFUMktUNDdmYi01M0lXeFlEMExlT1JwUnF6WEpFZE9CQUsxaVhWUkt3TTJQTzZRaHdXejRB?oc=5",
+       "title": "딜, AI 딥페이크·대리 면접 잡아낸다…채용 신원 검증 솔루션 출시",
+       "date": "2026-11-05"
+      },
+      {
+       "name": "이데일리",
+       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdzA3Vlo0cFkwclIyMDVpY24xeVFieDVJZ2lxZ2xEVTlGQWlrSm43ZHI1WEVNQjJCLWFJZ3RlZ25uSE5Bd3IzLWU1SkhETHVqVUhxcGZEV0poSUtveXF3VE5VeXRzS2lUNGRLN2VkbnVvYmhDYlY4LWEwM2hLQm5rZw?oc=5",
+       "title": "딜, 바이낸스 8조원대 해킹 계기로 ‘채용 보안’ 강화…딥페이크 잡는다",
+       "date": "2026-11-05"
+      },
+      {
+       "name": "동아일보",
+       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBtYUtMS0lOSjBZa3RrQmhtNlhnb1E5b3RxMkVNdk1DV25GYmJKeEJXaFdmUktvZklLTV9DcnptX0FDNlY0RFF0cGN2SkMwSWY3QXMwc0QtM2xHNndRNXJ1b05ITU03Z9IBZkFVX3lxTFBtYUtMS0lOSjBZa3RrQmhtNlhnb1E5b3RxMkVNdk1DV25GYmJKeEJXaFdmUktvZklLTV9DcnptX0FDNlY0RFF0cGN2SkMwSWY3QXMwc0QtM2xHNndRNXJ1b05ITU03Zw?oc=5",
+       "title": "링크드인 글로벌 임원 20여 명, 잡플래닛 방문…AI 채용 미래 논의",
+       "date": "2026-11-04"
+      },
+      {
+       "name": "오늘경제",
+       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5DLTZsNkhTNHl2WHhGSF9jRm42Ym5fa01FT0JDeEdmdFFtNnZLRkFjSFN1OTV2ZDJBd1RQQmFlQVlCLS1qNTVmV3NvdV9SeE9SU0ROcXlYZzBCbFBuSTctZVluMUJwRWt4SjRIY0tJbmY0Vmc?oc=5",
+       "title": "[이슈] 웍스피어 잡플래닛, 링크드인 경영진에 '한국형 AI 채용' 소개",
+       "date": "2026-11-04"
+      },
+      {
+       "name": "지디넷코리아",
+       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA3RkxOWTZ6R3dKdUx0cDRLdEt6X1RudDgyVEtPcDJwU0N5QUJSdmMxOVZGRXFUODEyX0Fxak9IVmgyMkZxbGRxV21IdDR4VGU3dlAtTHR3?oc=5",
+       "title": "링크드인 경영진과 회동한 잡플래닛…韓 채용 시장 미래 논의",
+       "date": "2026-11-04"
+      },
+      {
+       "name": "이코노미스트",
+       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1UYkc0OGY0NWpoeU9LVEZUU1c5Z0dYX2xuZGgyNXRFVEsxMzc4WG15QVRRZE1Ycy1rd24xYlJmOUZ1SEJUWVowQVh3bGI5SzdXMm5lcXVBY21zcWtVOENWUXJB?oc=5",
+       "title": "잡플래닛·링크드인 경영진 회동…AI 채용 혁신·미래 방향성 논의",
+       "date": "2026-11-04"
+      },
+      {
+       "name": "글로벌이코노믹",
+       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1lSlFjWHYxcGlMMW9vbVFEZWUyeHA0V3hvcDlKVklqNHd4U0xvNVRjVVpkS3BCNl9GUTdiYXJnc014RHJReXFMZi1GYk1LeDBvWUNPRWg4V1FKMXNCNXJLYXlSSU5jOWx6T2lKYVhVbHRaYTR0dUVJdEdBV29nYmc?oc=5",
+       "title": "잡플래닛·링크드인 글로벌 경영진 회동…AI채용 방안 논의",
+       "date": "2026-11-04"
+      },
+      {
+       "name": "전자신문",
+       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9iYW1tQ1NMaldmc3AtenAzZXRKYWpsODBtVTJ5eHF0N3Y0TWYyRHV5Y2o5VUxRNnpPbzhuWDVhS25vLS1sVTI3UFdqSVF6dw?oc=5",
+       "title": "링크드인 경영진, 잡플래닛 방문…AI 채용 혁신 논의",
+       "date": "2026-11-04"
+      },
+      {
+       "name": "더팩트",
+       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE44UTNuM21pdkd3UmpUZ0xTXy1LRklVMnM1NlFIaURtYUFZR0dRODJrT0cteFhDZm1LaGNjMk9ybEhRU2RxT0d1X2dqQ3lUNUx5cEdPdNIBVEFVX3lxTE44UTNuM21pdkd3UmpUZ0xTXy1LRklVMnM1NlFIaURtYUFZR0dRODJrT0cteFhDZm1LaGNjMk9ybEhRU2RxT0d1X2dqQ3lUNUx5cEdPdA?oc=5",
+       "title": "잡플래닛, 링크드인 경영진과 회동…AI 채용 혁신 논의",
+       "date": "2026-11-04"
+      }
+     ],
+     "date": "2026-11-05",
+     "id": "20261105-04"
+    },
+    {
+     "cat": "ecom",
+     "importance": "high",
+     "company": "구글",
+     "title": "구글, AI 비용 부담으로 해외 5개국 희망퇴직 확대",
+     "body": "구글이 AI 투자 비용 증가에 따른 수익성 개선을 위해 해외 5개국에서 희망퇴직을 확대하고 있습니다. 이는 전사적인 비용 절감 및 조직 효율화의 일환입니다.",
+     "insight": "글로벌 빅테크의 감원은 국내 IT 인재 시장에도 영향을 미쳐요. 구글 출신의 개발 및 PM 등 핵심 인재가 시장에 나올 가능성이 높습니다.",
+     "action": "링크드인 등을 통해 구글 출신 핵심 인재 리스트를 확보하고 선제적인 커피챗을 제안해 보세요.",
+     "teams": [
+      "채용",
+      "인사기획"
+     ],
+     "tags": [
+      "구글",
+      "희망퇴직",
+      "IT인재"
+     ],
+     "our_group": false,
+     "talent": {
+      "level": "high",
+      "signal": "희망퇴직 확대 — 글로벌 핵심 개발·PM 인력 시장 유입 예상"
+     },
+     "sources": [
+      {
+       "name": "디지털투데이",
+       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE52bWNCamhhdDVBMVJLbnNSR0tqcDRCdGpRUUw1N0tJUTd0ek1FenZuSEZGaV9vckZqMnNGbWowRl9qbE1wSlMxREFiSXQyTW1kZkhtZzVwaEZoMHdYa0FsdWl1aW9qczhlM2FYaDFfQ0ItbU0?oc=5",
+       "title": "AI 비용 눈덩이처럼 불어나자…구글, 해외 5개국서 희망퇴직 확대",
+       "date": "2026-11-05"
+      }
+     ],
+     "date": "2026-11-05",
+     "id": "20261105-02"
+    },
+    {
+     "cat": "trend",
+     "importance": "mid",
+     "company": "업계 전반",
+     "title": "근태관리 자동화 및 급여 연동 트렌드 확산",
+     "body": "혼합 근무제 확산으로 근태 데이터의 실시간 관리와 급여 정산 자동화의 중요성이 커지고 있습니다. 통상임금 및 평균임금 산정 오류를 줄이기 위한 HR테크 도입이 활발합니다.",
+     "insight": "수동 관리는 법적 리스크와 운영 효율 저하를 초래해요. 우리 그룹도 다나와, 에누리 등 계열사별로 상이한 근태 시스템의 통합 및 자동화 수준을 높여야 합니다.",
+     "action": "현재 사용 중인 근태 시스템의 급여 연동 자동화율을 파악하고 개선점을 도출해 보세요.",
+     "teams": [
+      "인사기획",
+      "보상·복리후생"
+     ],
+     "tags": [
+      "근태관리",
+      "HR자동화",
+      "급여정산"
+     ],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "시프티 블로그",
+       "url": "https://shiftee.io/ko/blog/article/efficient-time-and-attendance-management-automation-2026",
+       "title": "2026년, 근태관리를 효율적으로 하는 방법과 자동화 도입 절차 2026년 기업의 HR 환경은 빠르게 변화하고 있습니다. 혼합 근무제가 일상화되면서 사무직, 외근직, 교대근무 인력이 한 조직... 2026-04-27",
+       "date": "2026-11-05"
+      },
+      {
+       "name": "시프티 블로그",
+       "url": "https://shiftee.io/ko/blog/article/payroll-automation-and-attendance-data-management",
+       "title": "급여정산 오류를 줄이는 근태 데이터 관리와 임금명세서 발송 자동화 전략 매월 급여정산 시즌이 다가오면 인사·급여 담당자는 반복되는 확인 작업과 데이터 검증에 많은 시간을 할애하게 됩니다. 근로시간 ... 2026-0",
+       "date": "2026-11-05"
+      },
+      {
+       "name": "시프티 블로그",
+       "url": "https://shiftee.io/ko/blog/article/attendance-management-program-hours-leave-payroll",
+       "title": "근태관리 프로그램을 활용한 근로시간·연차·급여 관리 방법 근태관리는 출퇴근시간 기록을 확인하는 업무를 넘어 근로시간 산정, 연차휴가 운영, 급여 관리와 연결되는 인사관리의 주요 업무입... 2026-10-26",
+       "date": "2026-11-05"
+      },
+      {
+       "name": "시프티 블로그",
+       "url": "https://shiftee.io/ko/blog/article/attendance-management-process-roles-checkpoints",
+       "title": "근태관리란? 단계별 업무와 담당자 역할 분담으로 보는 근태관리 프로세스 근태관리는 근로자의 출퇴근 시간을 기록하는 것부터 시작하지만, 실제 필요한 업무는 근무일정과 근로시간 관리, 연장근무 승인, ... 2026-1",
+       "date": "2026-11-05"
+      },
+      {
+       "name": "시프티 블로그",
+       "url": "https://shiftee.io/ko/blog/article/workforce-management-solution-integrated-attendance-hr",
+       "title": "인력관리 솔루션이란? 근태관리와 HR업무 통합 관리 방법 기업의 근무형태와 조직 운영 방식이 다양해지면서 HR 담당자가 관리해야 하는 데이터도 늘어나고 있습니다. 근무일정과 출퇴근기록... 2026-09-29",
+       "date": "2026-11-05"
+      },
+      {
+       "name": "시프티 블로그",
+       "url": "https://shiftee.io/ko/blog/article/ordinary-wage-standard-and-allowance-calculation",
+       "title": "통상임금 산정 기준과 수당 계산 방법 : 최신 판례로 알아보기 통상임금은 연장·야간·휴일근로수당, 연차수당, 해고예고수당 등 대부분의 법정수당을 계산하는 기준이 되는 핵심 개념입니다. 어떤... 2026-09-28",
+       "date": "2026-11-05"
+      },
+      {
+       "name": "시프티 블로그",
+       "url": "https://shiftee.io/ko/blog/article/average-wage-vs-ordinary-wage-comparison",
+       "title": "평균임금 계산 방법과 임금 범위, 평균임금과 통상임금 차이점 평균임금을 정확하게 계산하려면 산정기간과 임금의 범위를 함께 확인해야 합니다. 산정 사유가 발생한 시점과 근로자의 휴직 여부 ... 2026-09-24",
+       "date": "2026-11-05"
+      }
+     ],
+     "date": "2026-11-05",
+     "id": "20261105-06"
+    },
+    {
+     "cat": "ecom",
+     "importance": "mid",
+     "company": "카카오",
+     "title": "카카오, 커머스 성장 속 AI 서비스 '카나나' 본격화",
+     "body": "카카오가 3분기 영업이익 2,403억 원을 기록하며 커머스 부문에서 견조한 성장을 보였습니다. 향후 신규 AI 서비스 '카나나'를 통해 AI 사업을 본격화할 예정입니다.",
+     "insight": "카카오가 AI 중심으로 조직 역량을 집중하고 있어요. 관련하여 AI 전문 인력 채용 경쟁이 심화될 것으로 보입니다.",
+     "action": "카카오의 AI 인력 채용 규모와 처우 수준을 모니터링하여 우리 그룹의 IT 인재 확보 전략에 참고하세요.",
+     "teams": [
+      "채용",
+      "인사기획"
+     ],
+     "tags": [
+      "카카오",
+      "이커머스",
+      "AI"
+     ],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "플래텀(Platum)",
+       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBvNmZXdkZsM0lJNlFic09YaWNpZUgta2c4MzM4NEtHNzhZYlRyWUNZTWF4bkpHaTJUcWtqdjNra25NUmI1Y1FhLQ?oc=5",
+       "title": "카카오 3분기, 플랫폼 성장에 콘텐츠 부진 상쇄…다음 달 ‘카나나 스페이스’ 시험 운영",
+       "date": "2026-11-05"
+      },
+      {
+       "name": "경향신문",
+       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBSWGpoWmFWb0dyTW5Mb0c1aTJPR3hnMG44LXcyQ2JGSzZZNkZtUUhJanR2bWtlb0RvcnZwSUhoYXlMRDdWa25aWXBDVGNvOWZzQ2FrSlJoNjZDQmdldnJJ0gFfQVVfeXFMUFJYamhaYVZvR3JNbkxvRzVpMk9HeGcwbjgtdzJDYkZLNlk2Rm1RSElqdHZta2VvRG9ydnBJSGhheUxEN1ZrblpZcENUY285ZnNDYWtKUmg2NkNCZ2V2ckk?oc=5",
+       "title": "쇼핑 강화한 카카오, 3분기 영업익 2403억…자사주 1500억 소각",
+       "date": "2026-11-05"
+      },
+      {
+       "name": "한국경제",
+       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE41T041a3R4di02M21xeHlZX0pVZkExZkNsbWg0WXhiTmNXWFNvbzludWZYM3RhMVR1WG9RaGVGS3BWM1ZCNFR5UDZZdFhPN3dNWFcyOVZqelBNQQ?oc=5",
+       "title": "'카톡 광고·커머스 견인' 카카오 영업익 7.4% 증가…\"AI 서비스 본격화\" [종합]",
+       "date": "2026-11-05"
+      },
+      {
+       "name": "아이티데일리",
+       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA1MVlzLU9wTmptZUpiU21Ua29ZcEJQZm8tNEtYaXoybU14aUdUd0ZUczZ6Y05MZHdyT0p5QUhCNnNmNC1oanZiWUdYQjUyWElPM1pnVnZpMHdQNGh0NG1ZTWRoNnF6WDBm?oc=5",
+       "title": "카카오, 3분기 영업이익 2403억원…전년 대비 7% 증가",
+       "date": "2026-11-05"
+      },
+      {
+       "name": "신아일보",
+       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBxeGEtaUxjc1cwZGFBd1JKR2tzckFZckt6blBwSUMtV1NNUXBLa1Raa3pPMkJvT0NubXp5TmJwZWRuMDltVlZmRm1NWEpodjBsTEs3bENTRG9kMGN4eG5nc3ZxREcyVmF6cWQwbHpXbmE?oc=5",
+       "title": "카카오, 커머스 효과 3Q 실적 UP…정신아 \"AI MAU, 연내 1000만 달성\"",
+       "date": "2026-11-05"
+      },
+      {
+       "name": "매일경제",
+       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5WamY4ZnZHdEZKaENlMTNZRTJvTDJlVlBndEQ4bEpwSGFsY1kwVEhQNW1jMnA1aVZLLVdSU1M5VEVvSGQxSFJ0Z2JkZzVldw?oc=5",
+       "title": "“카카오톡 한물갔다더니 끄떡없잖아”…광고·선물 다음은 ‘카나나’",
+       "date": "2026-11-05"
+      }
+     ],
+     "date": "2026-11-05",
+     "id": "20261105-07"
+    },
+    {
+     "cat": "labor",
+     "importance": "mid",
+     "company": "고용노동부",
+     "title": "상습 임금체불 사업주 신용제재 및 감독 강화",
+     "body": "고용노동부가 상습 체불 사업주 777명에 대해 신용제재를 가하고, 청년층이 많은 사업장을 대상으로 장시간 노동 및 수당 미지급 집중 감독에 나섭니다.",
+     "insight": "포괄임금제 오남용이나 연장근무 수당 미지급에 대한 정부의 감시가 매우 엄격해지고 있어요. 우리 그룹의 근태 기록과 수당 지급 일치 여부를 점검해야 해요.",
+     "action": "각 계열사별 연장근무 승인 프로세스와 실제 수당 지급 내역에 오류가 없는지 샘플 점검을 실시해 보세요.",
+     "teams": [
+      "보상·복리후생",
+      "노무·ER"
+     ],
+     "tags": [
+      "임금체불",
+      "근로감독",
+      "포괄임금제"
+     ],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "한국글로벌뉴스",
+       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE85a3ZkSnpWUUJNd1cxS2RkWkJIQkhMa1VRV3NIRVMwVVUxM05xMmZUN2FITjdIQTdNVGNzS3E1UTltcTFGS3BhZC1MWFV5Qk5KRTJVUTU2RndRUEV3N0hmWA?oc=5",
+       "title": "고용노동부, 장시간 노동, 공짜야근 근절합니다",
+       "date": "2026-11-05"
+      },
+      {
+       "name": "https://www.seoulilbo.co.kr/",
+       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Nc2h4bHk3aEl3WWhnYnVTRmxYNlBuZmkxeFdMcmFYSzhzNkMwRW9WWk92Vm5kWldIUEdaV1FRLTE5c2xBM0JQV1B5Z2VmYmZBOVFCQnBXMFpBVE9FSndxR3piaThkNHlVa0VJRkh3?oc=5",
+       "title": "청년 장시간 노동·수당 미지급 겨냥…전국 100개 사업장 감독",
+       "date": "2026-11-04"
+      },
+      {
+       "name": "커넥트이천",
+       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE03ajlMM3hEWDFfemhZLUNKSk56Q3ZUM0VETHZ2d1pJMjVJUF9wQkxsTUJvVmNrekVVZ2g1VE1INHFjWWtGM1hzT0ZDOURZVEhjclhjRmlhUldDY3dvd0E?oc=5",
+       "title": "[고용노동부] 상습체불사업주 777명, 1년간 신용제재",
+       "date": "2026-11-04"
+      },
+      {
+       "name": "데일리매거진",
+       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1ZdWJOUXd5T2JmbWtqdy1WUUR1S2FSRXJQYWoxMEFuRkE3RmxqMjVJN00wRkZNN2o2eklmb3FPdjZYNmlrU3ByTUxMeWk0UEYwWHlMbVRYVU9UWkpXTnBWM3N1UjFTUVE0VXpvT1VudnpfdWZ0dEtTQWFCMA?oc=5",
+       "title": "[데일리-경제만평] 상습 체불 사업주 777명…유죄 확정 전이라도 대출·정부지원 ′전면 배제′",
+       "date": "2026-11-04"
+      }
+     ],
+     "date": "2026-11-05",
+     "id": "20261105-05"
+    },
+    {
+     "cat": "ecom",
+     "importance": "mid",
+     "company": "LG전자",
+     "title": "LG전자 MS사업본부 대규모 감축설 및 조직개편",
+     "body": "LG전자 MS사업본부가 흑자 전환에도 불구하고 11월 조직개편을 앞두고 대규모 인력 감축설이 확산되고 있습니다. 내부 불안감이 고조되는 상황입니다.",
+     "insight": "전략적 조직 개편 과정에서 이탈하는 우수 인력을 확보할 기회예요. 특히 B2B 솔루션이나 플랫폼 관련 인력을 주목해야 합니다.",
+     "action": "LG전자 MS사업본부 소속 인력들의 이직 시장 유입 여부를 헤드헌팅 채널을 통해 확인해 보세요.",
+     "teams": [
+      "채용"
+     ],
+     "tags": [
+      "LG전자",
+      "조직개편",
+      "인력감축"
+     ],
+     "our_group": false,
+     "talent": {
+      "level": "mid",
+      "signal": "조직개편 앞두고 감축설 확산 — 솔루션·플랫폼 인력 유입 가능성"
+     },
+     "sources": [
+      {
+       "name": "핀포인트뉴스",
+       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBhNmZsbGFES1h2TUV1MklnYnRWSlRwSHV3OWw4ZFZBNHdnczUzSkxmcnRhV0lRRUwxdWRSaEl1NUM0QmtrOGdIUi1mUnY5dnB0YkJoN3hLMzJ3VjFoSDhyRmpDSHp6dG1kZ1lXdEVnbFBmUjFwalhJ0gF3QVVfeXFMUGE2ZmxsYURLWHZNRXUySWdidFZKVHBIdXc5bDhkVkE0d2dzNTNKTGZydGFXSVFFTDF1ZFJoSXU1QzRCa2s4Z0hSLWZSdjl2cHRiQmg3eEszMndWMWhIOHJGakNIenp0bWRnWVd0RWdsUGZSMXBqWEk?oc=5",
+       "title": "LG전자 MS사업본부, 흑자전환에도 대규모 감축설 확산…11월 조직개편 앞두고 왜?",
+       "date": "2026-11-05"
+      }
+     ],
+     "date": "2026-11-05",
+     "id": "20261105-08"
+    },
+    {
+     "cat": "trend",
+     "importance": "low",
+     "company": "휴넷",
+     "title": "휴넷, 사내 특강 '혁신아카데미' 20주년 달성",
+     "body": "휴넷이 주 4일제 도입 중에도 사내 학습 문화 정착을 위해 20년간 646회의 강연을 이어온 '혁신아카데미' 사례가 주목받고 있습니다.",
+     "insight": "일하는 방식의 변화(주 4일제 등) 속에서도 지속적인 학습 문화를 유지하는 것이 조직 경쟁력의 핵심임을 보여줍니다.",
+     "action": "우리 그룹의 직무 교육이나 사내 세미나 활성화를 위한 장기적인 로드맵을 구상해 보세요.",
+     "teams": [
+      "인사기획",
+      "조직문화·HRD"
+     ],
+     "tags": [
+      "사내교육",
+      "조직문화",
+      "학습문화"
+     ],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "벤처스퀘어",
+       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBrQ2ZOU2EtLVo5TGVyemFMNVRxbUVuZlQ3YTNWTmI5ZjlCemR1NWNEbDJhaDhuaV9UOWpaVXprX1BhTFlPaUwyUkstTVdldXM?oc=5",
+       "title": "휴넷, 사내 특강 ‘혁신아카데미’ 20주년…주 4일제에도 지켜온 646번의 배움",
+       "date": "2026-11-04"
+      },
+      {
+       "name": "한스경제",
+       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE43b19HdDhmQ3ZXOWZ3ai1Td21YU1R2SzNSRlczZjlCdHZWUFl4V0NscndETjE0d0hLeTBieWc1Yml3VDlaVGc4MmRDdWpwQ3psWUJkQ25iYm5BM1lQTkhvRkZ3dlZCTTZ6YmxB?oc=5",
+       "title": "휴넷, 사내 혁신아카데미 20주년 맞아",
+       "date": "2026-11-04"
+      },
+      {
+       "name": "머니투데이",
+       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBYZmVIMmNGLWx4U0ZCa3dSQVJTczZaa1U3QXVUdGZITV9XelJyZF9raVlrajJrclVOQnI1OTFLWnp2SHJHTkhralR2NmxEM05pWjVFR0Ztd09lVmhZNy1IVUlLcjRKY081UU5fbFVXRjJuUdIBckFVX3lxTFBYZmVIMmNGLWx4U0ZCa3dSQVJTczZaa1U3QXVUdGZITV9XelJyZF9raVlrajJrclVOQnI1OTFLWnp2SHJHTkhralR2NmxEM05pWjVFR0Ztd09lVmhZNy1IVUlLcjRKY081UU5fbFVXRjJuUQ?oc=5",
+       "title": "휴넷, '혁신아카데미' 20주년…646회 강연으로 사내 학습문화 정착 - 머니투데이",
+       "date": "2026-11-04"
+      }
+     ],
+     "date": "2026-11-04",
+     "id": "20261105-09"
+    },
+    {
+     "cat": "market",
+     "importance": "low",
+     "company": "잡코리아",
+     "title": "대-중소기업 연봉 격차, 10년 차 이상서 심화",
+     "body": "경력이 쌓일수록 기업 규모별 연봉 격차가 벌어져 10년 차 이상에서는 평균 2,726만 원의 차이가 발생하는 것으로 나타났습니다.",
+     "insight": "고연차 인재 유지를 위해서는 단순 연봉 외에도 우리 그룹만의 차별화된 보상 체계나 복리후생 제안이 필수적이에요.",
+     "action": "경쟁사 및 대기업 대비 우리 그룹의 연차별 연봉 밴드를 점검하고 비금전적 보상 요소를 강화해 보세요.",
+     "teams": [
+      "채용",
+      "보상·복리후생"
+     ],
+     "tags": [
+      "연봉격차",
+      "보상전략",
+      "고연차이직"
+     ],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "한국면세뉴스",
+       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAzMFlZM3ZIZnQyTDNhOFNVaDdkQnhhU0FOZF9GbDZVUUFZOHRMVzhtNTNmNU5XZHlKRDJRX2dybnRHS2d6TFhjLWtRT0M2SE8yc0U4Z2gyNkxYLXF1cmcwZW4waUc1Mk9X?oc=5",
+       "title": "잡코리아, 대∙중소기업 연봉 격차 10년차 이상서 2726만원",
+       "date": "2026-11-05"
+      },
+      {
+       "name": "소셜밸류",
+       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBRelBuQWNDUktuNDJ0dUp6LWhPOXpubXdPNzZLODl1VXZ3LUZzMkEwV0d3V0JDLTRlZXQ4M3B2RDlVRkV5ZjVabFF5bHhndGF6OURiZHdfYWthRkozM1hLX2ZqNNIBbEFVX3lxTE1XQVFIal81VFpnX3lCZXZvVGtEMWh0S21LMldraEJacHdSbVNhWVFYREZUV0JHemk5RmtzbFRYb2Z4VDVRdnhLVnFSSUlWN0I0VWJTX1BDX3luR083UmFJeHhfbzZvcDRBLTF1Nw?oc=5",
+       "title": "잡코리아 “연차 쌓일수록 연봉 격차…10년 뒤 5배까지 벌어져”",
+       "date": "2026-11-05"
+      },
+      {
+       "name": "SR타임스",
+       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE05ZVptTC0wMmZUM0k0eG1jUUJPVFRNck9haUZCRjRNVWZNdkJPdEhlRm16WDJfTjJRdEdxMEtrRTdocXAzemtsaXluZkFJX2s5UldxbElPR0RNSWJFSlFwZWhzNm41M3Na?oc=5",
+       "title": "경력 쌓일수록 벌어지는 연봉 양극화…대기업·중소기업 격차 5배",
+       "date": "2026-11-05"
+      }
+     ],
+     "date": "2026-11-05",
+     "id": "20261105-10"
+    }
+   ]
+  },
   {
    "date": "2026-11-04",
    "window_days": 1,
