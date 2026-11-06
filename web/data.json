@@ -56,9 +56,623 @@
     ]
    }
   ],
-  "updated": "2026-11-05T12:52+09:00"
+  "updated": "2026-11-06T12:45+09:00"
  },
  "reports": [
+  {
+   "date": "2026-11-06",
+   "window_days": 1,
+   "article_count": 321,
+   "engine": "없음(제목 기준)",
+   "headline": "오늘은 AI 분석이 실패해 제목 기준으로만 골랐어요",
+   "points": [
+    "수집 기사 321건 중 HR 관련 단어가 있는 25건만 올렸어요",
+    "시사점·팀 태그 없이 기사 제목만 보여드려요"
+   ],
+   "analysis_error": "HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=240)",
+   "items": [
+    {
+     "id": "20261106-f00",
+     "cat": "market",
+     "importance": "low",
+     "teams": [
+      "채용"
+     ],
+     "company": "금융신문",
+     "title": "금융권 해킹에 금감원 IT 채용문 넓어지나…보안 인재 확보 속도",
+     "body": "금융권 해킹에 금감원 IT 채용문 넓어지나…보안 인재 확보 속도 금융신문",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "금융신문",
+       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE00ZE9BWWMtM3VKVk9XbkVzOW12dVI3M2pKcXQzSDNiOGc4LVJVSnh1MlRaalludzRSTFp1SDA3OXFsSXd4bVV1cHhlVl9ULW5Bek9oRHlwMmxiTjBDa2VrUEpaTFE0SWtUTDBsUjAtRGkxd1JXeDJtN1R2b2g?oc=5",
+       "title": "금융권 해킹에 금감원 IT 채용문 넓어지나…보안 인재 확보 속도",
+       "date": "2026-11-06"
+      }
+     ],
+     "date": "2026-11-06"
+    },
+    {
+     "id": "20261106-f01",
+     "cat": "market",
+     "importance": "low",
+     "teams": [
+      "채용"
+     ],
+     "company": "워크투데이",
+     "title": "경력직 채용 문턱 높아졌다 … 기업 요구 경력 2년 새 1.25년 상승",
+     "body": "경력직 채용 문턱 높아졌다 … 기업 요구 경력 2년 새 1.25년 상승 워크투데이",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "워크투데이",
+       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5RalBEOXdVdFhyNGNWUjRHWkNCS3pvWFo0MGM0WnBLamF3QlBvTFMzaWJ1ZFQwbUhVeG04WGVhdXRHU1ZuWldUUDVjdHh0cWloSUdOb2x6bVBkNHRKV2VtMUJtTVF0SjNPWlBiVA?oc=5",
+       "title": "경력직 채용 문턱 높아졌다 … 기업 요구 경력 2년 새 1.25년 상승",
+       "date": "2026-11-06"
+      }
+     ],
+     "date": "2026-11-06"
+    },
+    {
+     "id": "20261106-f02",
+     "cat": "market",
+     "importance": "low",
+     "teams": [
+      "채용"
+     ],
+     "company": "파이낸셜투데이",
+     "title": "롯데하이마트, 세 번째 희망퇴직 실시…2022년 이후 4년만",
+     "body": "롯데하이마트, 세 번째 희망퇴직 실시…2022년 이후 4년만 파이낸셜투데이",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "파이낸셜투데이",
+       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBxdXRTZzJ3NWhqNjFUZzlHMXVoQ1BfMkxGVFlDTlVEVFQwd2NZTktVQWlMU0RUQ1pFSlNvOGg5TXY5MmdpeXNYNzJiZS04YlVkVjR6Q3FJX3NmQXc2R2pzSHBWMENMbURmQXhr0gFuQVVfeXFMTmpjUFVwenF4a3FhZlYxZUpVOF9tY0R5al9sQU5NQ2dXazAwWGVSanhPS0VGSlFYY3k4UWJFQ3RrMV84dzVtZEo4ZzQ4eVJyUDA0OVd3aFNGTi0zYklab3QwVEpYM2N2VnpvRTVMV0E?oc=5",
+       "title": "롯데하이마트, 세 번째 희망퇴직 실시…2022년 이후 4년만",
+       "date": "2026-11-06"
+      }
+     ],
+     "date": "2026-11-06"
+    },
+    {
+     "id": "20261106-f03",
+     "cat": "market",
+     "importance": "low",
+     "teams": [
+      "채용"
+     ],
+     "company": "뉴스로드",
+     "title": "롯데하이마트, 4년 만에 희망퇴직…최대 30개월치에 자녀 학자금 1천만원까지",
+     "body": "롯데하이마트, 4년 만에 희망퇴직…최대 30개월치에 자녀 학자금 1천만원까지 뉴스로드",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "뉴스로드",
+       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1sX0hjcFZTOUplRGU2N2F4ZnZqOXZUMXEtbGc4bXpZSzZuY1o0b1A4T01mN1BwWXByREo4WXhrSEdNa29SZElLd29odWstWG5uVUdQU05tVlctU2I2UEphcEZTdk9scXRDS09UeTB6Y9IBb0FVX3lxTE1sX0hjcFZTOUplRGU2N2F4ZnZqOXZUMXEtbGc4bXpZSzZuY1o0b1A4T01mN1BwWXByREo4WXhrSEdNa29SZElLd29odWstWG5uVUdQU05tVlctU2I2UEphcEZTdk9scXRDS09UeTB6Yw?oc=5",
+       "title": "롯데하이마트, 4년 만에 희망퇴직…최대 30개월치에 자녀 학자금 1천만원까지",
+       "date": "2026-11-06"
+      }
+     ],
+     "date": "2026-11-06"
+    },
+    {
+     "id": "20261106-f04",
+     "cat": "market",
+     "importance": "low",
+     "teams": [
+      "채용"
+     ],
+     "company": "한국아이닷컴",
+     "title": "롯데하이마트, 4년 만에 희망퇴직…50세 이상 최대 30개월분 지급",
+     "body": "롯데하이마트, 4년 만에 희망퇴직…50세 이상 최대 30개월분 지급 한국아이닷컴",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "한국아이닷컴",
+       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE85bWh2NjI3QlZVSGFaaHBTczBJSG1UeGRGQnFxUWp6bjRWRGo3RWt3N1RReVNrbktJWXVwZ2RUSEhWYlAyS1Q5ZWF3OGxWSmdHcHlJMDJGUVNCT1UwSkFYYTU2eDZ4bVZYN3h30gFvQVVfeXFMTjNFc3UteXBXWDBDU0p2YjlFWGRObFFLTy0ySDRfaGFaQ0RRVGZuUmczQlZNTFIwdGRIVHpWamJVTDhPQ3Nzc1pjOEZMMzk3OWVXZHo1d25mdGtPN01IR0tESDFpVy1HWjU0b2VHTUEw?oc=5",
+       "title": "롯데하이마트, 4년 만에 희망퇴직…50세 이상 최대 30개월분 지급",
+       "date": "2026-11-06"
+      }
+     ],
+     "date": "2026-11-06"
+    },
+    {
+     "id": "20261106-f05",
+     "cat": "market",
+     "importance": "low",
+     "teams": [
+      "채용"
+     ],
+     "company": "뉴스투데이",
+     "title": "[11월 6일 고용24 채용정보] 가이아앤시스·휴먼케어·지니테크·신광·이노에스티",
+     "body": "[11월 6일 고용24 채용정보] 가이아앤시스·휴먼케어·지니테크·신광·이노에스티 뉴스투데이",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "뉴스투데이",
+       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5HMGlYSnZLanhld0kxRGhiTURMVGd1ZnRONGl4Ul9mUlNpRjBGcDJvVE9MbFUyOFZzeWNpdWE2TmF4UEFPYVRCdlhRRk5QM2RnYXFYQi1POEUyQ0VoY2c?oc=5",
+       "title": "[11월 6일 고용24 채용정보] 가이아앤시스·휴먼케어·지니테크·신광·이노에스티",
+       "date": "2026-11-06"
+      }
+     ],
+     "date": "2026-11-06"
+    },
+    {
+     "id": "20261106-f06",
+     "cat": "market",
+     "importance": "low",
+     "teams": [
+      "채용"
+     ],
+     "company": "비욘드포스트",
+     "title": "구직자 60% \"중소기업 취업 의향 있다\"…가장 부족한 정보는 '연봉·복지'",
+     "body": "구직자 60% \"중소기업 취업 의향 있다\"…가장 부족한 정보는 '연봉·복지' 비욘드포스트",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "비욘드포스트",
+       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5ZaDJYOEZ0RmNuRjF2Ui1nVzc4TlRQVjhLdVR2OG0wZzF2MTg3Y0VLa096NGxVYl81aTR6YmhxRjBmcDl0TXlXbnRndjFJZ3BJUGh1UVJJdksyQUhueVZ0WGZmVlE2OTQzUXRGZ1FSQnVNUjg4N1FqbXN5akk?oc=5",
+       "title": "구직자 60% \"중소기업 취업 의향 있다\"…가장 부족한 정보는 '연봉·복지'",
+       "date": "2026-11-06"
+      }
+     ],
+     "date": "2026-11-06"
+    },
+    {
+     "id": "20261106-f07",
+     "cat": "market",
+     "importance": "low",
+     "teams": [
+      "채용"
+     ],
+     "company": "피앤피뉴스",
+     "title": "구직자 60% \"중소기업 취업 의향 있다\"…64%는 연봉·복지 정보 부족",
+     "body": "구직자 60% \"중소기업 취업 의향 있다\"…64%는 연봉·복지 정보 부족 피앤피뉴스",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "피앤피뉴스",
+       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBhUW56UkNEaUNwY0RtQUZDN0YyZTRhTk9saF9DaUVjeFpfRVV1cFhvR1ZoZmZ5Y0NzOTlvUmtkQnl4aWZsSWczMnUtenF6RGx6UTkyWnV1TFNpOXNheFE?oc=5",
+       "title": "구직자 60% \"중소기업 취업 의향 있다\"…64%는 연봉·복지 정보 부족",
+       "date": "2026-11-06"
+      }
+     ],
+     "date": "2026-11-06"
+    },
+    {
+     "id": "20261106-f08",
+     "cat": "market",
+     "importance": "low",
+     "teams": [
+      "채용"
+     ],
+     "company": "한국면세뉴스",
+     "title": "진학사 캐치, 구직자 60% 중소기업 취업 의향…보상정보 부족 64%",
+     "body": "진학사 캐치, 구직자 60% 중소기업 취업 의향…보상정보 부족 64% 한국면세뉴스",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "한국면세뉴스",
+       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1yY0NOTk5jc3pYdzRCa3VZbkNuN2d6bkNCSFlpMmtrd3g1bWVuS2hlUWowTl92Y1pnaWN1Z2F2Ml80ZzJkZVVtSktQTy1LQmpFeG56Yl9PQzNYQzBoVUpmNFlCc3ktWVhmekE?oc=5",
+       "title": "진학사 캐치, 구직자 60% 중소기업 취업 의향…보상정보 부족 64%",
+       "date": "2026-11-06"
+      }
+     ],
+     "date": "2026-11-06"
+    },
+    {
+     "id": "20261106-f09",
+     "cat": "market",
+     "importance": "low",
+     "teams": [
+      "채용"
+     ],
+     "company": "울산일보",
+     "title": "울산 기업 평균연봉 3897만원…서울 제치고 전국 1위",
+     "body": "울산 기업 평균연봉 3897만원…서울 제치고 전국 1위 울산일보",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "울산일보",
+       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBMQjFlQzRjd2FMV0dKV01SaHpwQzFVMTQzQjZTeGFDV2kzREl5dXBfQWVkSkx4Wk51T2wwaTJlWERvemIybndxYm5fYzk2Z1gya0JGeUtsUWpmVHVycHUwdXRZNk9NSE1UbkVlS1VB?oc=5",
+       "title": "울산 기업 평균연봉 3897만원…서울 제치고 전국 1위",
+       "date": "2026-11-06"
+      }
+     ],
+     "date": "2026-11-06"
+    },
+    {
+     "id": "20261106-f10",
+     "cat": "market",
+     "importance": "low",
+     "teams": [
+      "채용"
+     ],
+     "company": "문화일보",
+     "title": "기획부터 검증까지 ‘AI활용’ 능력 평가… “인공지능 잘 쓰는 사람이 일도 잘한다”[창간 35주년 특집]",
+     "body": "기획부터 검증까지 ‘AI활용’ 능력 평가… “인공지능 잘 쓰는 사람이 일도 잘한다”[창간 35주년 특집] 문화일보",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "문화일보",
+       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9uMml4czUtLVBYeDlMVEtSY0xGTDI0aklLNDFDSzV1RjJtdjNlOUlHQnZITTFMWkdoOGtNWS11eWZBdk9QY3JKNE15Y2JOSE5E?oc=5",
+       "title": "기획부터 검증까지 ‘AI활용’ 능력 평가… “인공지능 잘 쓰는 사람이 일도 잘한다”[창간 35주년 특집]",
+       "date": "2026-11-06"
+      }
+     ],
+     "date": "2026-11-06"
+    },
+    {
+     "id": "20261106-f11",
+     "cat": "market",
+     "importance": "low",
+     "teams": [
+      "채용"
+     ],
+     "company": "매일일보",
+     "title": "광양시, 문화시설 건립 주민 의견 재검토…백운산 산림복지 활성화 추진",
+     "body": "광양시, 문화시설 건립 주민 의견 재검토…백운산 산림복지 활성화 추진 매일일보",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "매일일보",
+       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1JT0V6eEtBaWNZdV9RUUQ5THJKNVdRQU9UUS1GbUtJcVhBbVZ6V2I4dHBKblppRW9lSUdoRW92b3pMQ2ZfMnNwVWFPY3FQLXlSZDhjZzRMUC1NQlllQ3RRWHUwMDE?oc=5",
+       "title": "광양시, 문화시설 건립 주민 의견 재검토…백운산 산림복지 활성화 추진",
+       "date": "2026-11-06"
+      }
+     ],
+     "date": "2026-11-06"
+    },
+    {
+     "id": "20261106-f12",
+     "cat": "market",
+     "importance": "low",
+     "teams": [
+      "채용"
+     ],
+     "company": "중앙일보",
+     "title": "💡SK하이닉스 채용 총괄이 밝힌 ‘인재의 비밀’",
+     "body": "💡SK하이닉스 채용 총괄이 밝힌 ‘인재의 비밀’ 중앙일보",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "중앙일보",
+       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1DMDVKSzQ2eDZkcVE1NERENU5vcTA0STBoYzcwWjNBSktrY3A1d3BuZHpYdW9HNzlZc1hjZ2pOUzdTVDI5Rmk3TjJjWEV0eVJVVDNYSHJLYUFIQ1dudTM4X3EtQnN1eEU?oc=5",
+       "title": "💡SK하이닉스 채용 총괄이 밝힌 ‘인재의 비밀’",
+       "date": "2026-11-06"
+      }
+     ],
+     "date": "2026-11-06"
+    },
+    {
+     "id": "20261106-f13",
+     "cat": "market",
+     "importance": "low",
+     "teams": [
+      "채용"
+     ],
+     "company": "주간한국",
+     "title": "LG전자, 美 대학에 ‘라이프스굿 라운지’ 조성…홍보·인재채용 거점",
+     "body": "LG전자, 美 대학에 ‘라이프스굿 라운지’ 조성…홍보·인재채용 거점 주간한국",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "주간한국",
+       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9peHlPZWFwQjJJa3dmdktYc3A4QUpMZFJkRUFQaDhrczJpVEczMlVaTHV3SjQwemd0U1hpSGpRMFBJRW1Wb1VWSVFvSktOQ0lxcThGZnZGVXZETk1Oc2FUalJNOFFVRUtOT3BSUHA5V1DSAXRBVV95cUxPODFaT2dYWTRrM1Fna2dmSU5tOS11RjgweS02ZFB6RGRrc1BYSzRhUE1MMWdDckZXSndXZ1licy1Ud2JLSEpTYW45X3ZZVkRJTXliSkhjdFlkTDZLbzVHN1I3Ry01cFpjcEdITGIwYS1ZUWpTUA?oc=5",
+       "title": "LG전자, 美 대학에 ‘라이프스굿 라운지’ 조성…홍보·인재채용 거점",
+       "date": "2026-11-06"
+      }
+     ],
+     "date": "2026-11-06"
+    },
+    {
+     "id": "20261106-f14",
+     "cat": "market",
+     "importance": "low",
+     "teams": [
+      "채용"
+     ],
+     "company": "뉴스퀘스트",
+     "title": "LG전자, 美 캠퍼스에 ‘인재 낚시터’ 열었다…제품 체험이 채용으로",
+     "body": "LG전자, 美 캠퍼스에 ‘인재 낚시터’ 열었다…제품 체험이 채용으로 뉴스퀘스트",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "뉴스퀘스트",
+       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9WMFFhZU1GeDhYN2VQN1FlM3Z6Q2dRa2Z1TkEwM1BidEQ4WVJpcTFPamFBd3pqd1BtdXk0SUFlVzFaa3VKLVFnbTUzanJjUG5IN2t6WXpSLTVnTDlyZjE0YWlHYjBnZ3R5THlXT2xKdw?oc=5",
+       "title": "LG전자, 美 캠퍼스에 ‘인재 낚시터’ 열었다…제품 체험이 채용으로",
+       "date": "2026-11-06"
+      }
+     ],
+     "date": "2026-11-06"
+    },
+    {
+     "id": "20261106-f15",
+     "cat": "market",
+     "importance": "low",
+     "teams": [
+      "채용"
+     ],
+     "company": "서울이코노미뉴스",
+     "title": "LG전자, 美 밴더빌트대에 첫 브랜드 거점…미래 고객·기술 인재 함께 잡는다",
+     "body": "LG전자, 美 밴더빌트대에 첫 브랜드 거점…미래 고객·기술 인재 함께 잡는다 서울이코노미뉴스",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "서울이코노미뉴스",
+       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA0RUxLTk53VDRkMVpxNTZFZ0xoV1pCd3dUYzREQVQwd0pDSzFGcmtwYVdGZDBhZWFFbXN4ejV3bExhY1BJY01IaWd0N19FQ0VMUXBnam10NVRLU2dpT3BXV1czS2k1UDNObzlQeFpB?oc=5",
+       "title": "LG전자, 美 밴더빌트대에 첫 브랜드 거점…미래 고객·기술 인재 함께 잡는다",
+       "date": "2026-11-06"
+      }
+     ],
+     "date": "2026-11-06"
+    },
+    {
+     "id": "20261106-f16",
+     "cat": "market",
+     "importance": "low",
+     "teams": [
+      "채용"
+     ],
+     "company": "이뉴스투데이",
+     "title": "LG전자, 미국 대학에 첫 브랜드 공간···“제품 체험 넘어 인재 확보까지”",
+     "body": "LG전자, 미국 대학에 첫 브랜드 공간···“제품 체험 넘어 인재 확보까지” 이뉴스투데이",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "이뉴스투데이",
+       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBrMklEeVV5S1VsUk1sTXdETXBpeXA3N2dCazBnVXBzZUZNdmhaZlB2Y3VWSUpEdFRvd01MNS1zSXNQN295ZmhBUXA2SnAtRWFIY0FyeXdVcUJjZlpGakdrcXFYY2wybGRURHZSa0ZBaUvSAXRBVV95cUxPc0xqTnp0MF8zSzZhT0FFckllNUVnOFFZeFBjVFVUQUVmYkt1WVlBbV9SdTNzN3dfVVJGdFZPcmp0dTRoZlNTZU83YVB6alF6VVVyUTVlWnVMRGxPRjg3X21yaFk3YnpUM2Y2aHQ3S0g4ZXloMg?oc=5",
+       "title": "LG전자, 미국 대학에 첫 브랜드 공간···“제품 체험 넘어 인재 확보까지”",
+       "date": "2026-11-06"
+      }
+     ],
+     "date": "2026-11-06"
+    },
+    {
+     "id": "20261106-f17",
+     "cat": "market",
+     "importance": "low",
+     "teams": [
+      "채용"
+     ],
+     "company": "투데이안",
+     "title": "한국법무보호복지공단 전북지부, 고용협력기업 인증제도 홍보",
+     "body": "한국법무보호복지공단 전북지부, 고용협력기업 인증제도 홍보 투데이안",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "투데이안",
+       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBteVV2eEhzc0RNcEFfeTFTMGtmMXI5VllFQkZQY2dGMkZDVEVOS3pNMVlLNnlNZEp3OVR3dHc3WUpudDk3SlQ5a2RHV1FmZURaWUNybll5MnRJTmtVVjZncEFUWVlMbjN4?oc=5",
+       "title": "한국법무보호복지공단 전북지부, 고용협력기업 인증제도 홍보",
+       "date": "2026-11-06"
+      }
+     ],
+     "date": "2026-11-06"
+    },
+    {
+     "id": "20261106-f18",
+     "cat": "market",
+     "importance": "low",
+     "teams": [
+      "채용"
+     ],
+     "company": "Naver Blog",
+     "title": "김포시, 채용·체험·진로탐색 다 담은 일자리박람회 열어 : 네이버 블로그",
+     "body": "김포시, 채용·체험·진로탐색 다 담은 일자리박람회 열어 : 네이버 블로그 Naver Blog",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "Naver Blog",
+       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdWsybmhzMEhSYkR0Wkp4SktRaGx4cl9MT2ZlZUxCNUV2dktTRFNNV0tzVTNReXA5Zk5obV9QcHQ2bkoxa1Zuci1fZ0NhZ25yOWhESkU4cGpaZHliX051R29XWFEzM2tsQ19tcmp2RWRXMkd6NUt0Nm02d1dFQ1ItZ1lZYTNwS3AxXzRPMTgzeV9QUQ?oc=5",
+       "title": "김포시, 채용·체험·진로탐색 다 담은 일자리박람회 열어 : 네이버 블로그",
+       "date": "2026-11-06"
+      }
+     ],
+     "date": "2026-11-06"
+    },
+    {
+     "id": "20261106-f19",
+     "cat": "market",
+     "importance": "low",
+     "teams": [
+      "채용"
+     ],
+     "company": "Naver Blog",
+     "title": "(사)경기도장애인복지회 김포시지부, 장애인 합동결혼식 개최 : 네이버 블로그",
+     "body": "(사)경기도장애인복지회 김포시지부, 장애인 합동결혼식 개최 : 네이버 블로그 Naver Blog",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "Naver Blog",
+       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQU9CQWd1MzlFUmhpVm1HWmRJSjN6SUNsYURrYkY3TldjQ3RnVHhnRVdhdnBvZG5feW9QRUVMU09oanY4cXFVa1hBeVRnS1NxUjI3RWlGMkhfXzBaWGJMUTRvY3Zqb2F0bmJrSW1neWp3RUI5MWNmdDdvWlN4QjJiQjMzTVVSN2xMRmVtNC1WaEg1dw?oc=5",
+       "title": "(사)경기도장애인복지회 김포시지부, 장애인 합동결혼식 개최 : 네이버 블로그",
+       "date": "2026-11-06"
+      }
+     ],
+     "date": "2026-11-06"
+    },
+    {
+     "id": "20261106-f20",
+     "cat": "market",
+     "importance": "low",
+     "teams": [
+      "채용"
+     ],
+     "company": "마이데일리",
+     "title": "듀오, 맞춤형 컨설팅 전담 커플매니저 채용",
+     "body": "듀오, 맞춤형 컨설팅 전담 커플매니저 채용 마이데일리",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "마이데일리",
+       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5YNlpMQXNWYk5kbFQwYnY2bm9FUHhBQ0lXaXVqZHQtQUFEb0pGWW9PRVpGVng4T1pUWHpRQ1pqZDhDYVEtYU1kdmNlaWVNT1ZiR1laNEFRMm1QcmJkODFmRA?oc=5",
+       "title": "듀오, 맞춤형 컨설팅 전담 커플매니저 채용",
+       "date": "2026-11-06"
+      }
+     ],
+     "date": "2026-11-06"
+    },
+    {
+     "id": "20261106-f21",
+     "cat": "market",
+     "importance": "low",
+     "teams": [
+      "채용"
+     ],
+     "company": "씬짜오베트남",
+     "title": "마이크로소프트 베트남 구조조정…IT 종사자가 준비해야 할 것",
+     "body": "마이크로소프트 베트남 구조조정…IT 종사자가 준비해야 할 것 씬짜오베트남",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "씬짜오베트남",
+       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9SOXRucHFjQkQzUmFrVGxxZW96ZFdUb2M2SGdnNHdrTWYza1hORzZYSDdfUVFpWUpoYlN5c013eTkzTWlxYndHWQ?oc=5",
+       "title": "마이크로소프트 베트남 구조조정…IT 종사자가 준비해야 할 것",
+       "date": "2026-11-06"
+      }
+     ],
+     "date": "2026-11-06"
+    },
+    {
+     "id": "20261106-f22",
+     "cat": "market",
+     "importance": "low",
+     "teams": [
+      "채용"
+     ],
+     "company": "뉴스와이어",
+     "title": "스코플, KAIST 글로벌 론치패드 통해 미국 시장 공략… AI 장애인 채용·근속 관리 기술 선보여",
+     "body": "스코플, KAIST 글로벌 론치패드 통해 미국 시장 공략… AI 장애인 채용·근속 관리 기술 선보여 뉴스와이어",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "뉴스와이어",
+       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9odGdEaGNXcVF2RVhPOWY2T0NDV3I4U0d6VlNzd0o2V09fT1lrdVhab3QwRnRFYkRnVjM4djcxckdUNjFWaXNCZUZxYU9TY3lydkZkMjc0eGlzUk1pa0Nj?oc=5",
+       "title": "스코플, KAIST 글로벌 론치패드 통해 미국 시장 공략… AI 장애인 채용·근속 관리 기술 선보여",
+       "date": "2026-11-06"
+      }
+     ],
+     "date": "2026-11-06"
+    },
+    {
+     "id": "20261106-f23",
+     "cat": "market",
+     "importance": "low",
+     "teams": [
+      "채용"
+     ],
+     "company": "브랜드브리프",
+     "title": "덴츠 계열사 태그(Tag), 이소영 신임 한국 대표이사 선임",
+     "body": "덴츠 계열사 태그(Tag), 이소영 신임 한국 대표이사 선임 브랜드브리프",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "브랜드브리프",
+       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9fdGNuV19RTW81MjRVZXMwMVkzS0lWRTZmZ3JpWmVKWFpKTmFiaFk5THR2dmF5c3RRWFA3NEJyNDNwVWw4SHc5TXQ0MVBBTUJOR2tKU1hScDEzcDZSTVpwZEYzZTFWYWtHZVlnV0xhZUZpMUF6UzVXeEZaWVNmdw?oc=5",
+       "title": "덴츠 계열사 태그(Tag), 이소영 신임 한국 대표이사 선임",
+       "date": "2026-11-06"
+      }
+     ],
+     "date": "2026-11-06"
+    },
+    {
+     "id": "20261106-f24",
+     "cat": "market",
+     "importance": "low",
+     "teams": [
+      "채용"
+     ],
+     "company": "스타트업엔(StartupN)",
+     "title": "구직자 10명 중 6명 “중소기업 취업 의향”…연봉·복리후생 정보가 관건",
+     "body": "구직자 10명 중 6명 “중소기업 취업 의향”…연봉·복리후생 정보가 관건 스타트업엔(StartupN)",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "스타트업엔(StartupN)",
+       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9aOUNtZWRHYm5aRVpLUmZkYWtPTXVpMzM3RU5fTXE2ZXlhV3B4bjNac3AtdWdWX2hBY3lUUFlHc2lpSXBwaXFDNlB5WnpTTzVRVmNwRmc4c3o3RjNWNjRiRzhuNGhxR3dJ0gFsQVVfeXFMT0JTeU9iYkt6WlFnbUhoT0p0UlJaNTNOZ1F4d0p0NGlXU1lOS0s3YXlBSjRpSXFDcGNycHZTQkhiOVoydkRRV0s0bTM2Tm1vNm5FdURqVlV1R292VzhOcGhrbFZxbVJqVmpzb28z?oc=5",
+       "title": "구직자 10명 중 6명 “중소기업 취업 의향”…연봉·복리후생 정보가 관건",
+       "date": "2026-11-06"
+      }
+     ],
+     "date": "2026-11-06"
+    }
+   ]
+  },
   {
    "date": "2026-11-05",
    "window_days": 1,
