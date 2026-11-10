@@ -1,0 +1,382 @@
+{
+  "date": "2026-11-10",
+  "window_days": 1,
+  "article_count": 314,
+  "engine": "gemini-flash-lite-latest",
+  "headline": "MS 6만명 희망퇴직·게임업계 고용불안 심화 속 AI·IT 중심 채용 재편",
+  "points": [
+    "마이크로소프트 6만명 규모 희망퇴직 제안 및 넥슨 3사 대기발령 등 IT·게임업계 고용 불안 가중",
+    "고용노동부 포괄임금·고정OT 오남용 기획감독 실시 및 여가친화기업 인증 등 복지 제도 점검",
+    "이커머스·플랫폼 업계 AI 앱 도입 및 채용 연계형 프로그램 확대 등 AX 전환 가속화"
+  ],
+  "items": [
+    {
+      "cat": "ecom",
+      "importance": "high",
+      "company": "넥슨",
+      "title": "넥슨 3사 대기발령 300명 넘어… 게임업계 '선택과 집중' 속 고용 불안 확산",
+      "body": "넥슨 주요 3사의 대기발령 인원이 300명을 넘어섰습니다. 게임업계 전반이 프로젝트 축소와 '선택과 집중' 기조를 보이면서 기존 인력을 줄이고 AI 및 핵심 인재 중심으로 채용 지형도가 재편되고 있습니다.",
+      "insight": "게임 및 IT 업계의 구조적 슬림화로 인해 개발 및 기획 직군의 숙련된 인재가 대거 시장에 유입될 수 있습니다. 이 시기를 활용한 시니어 인재 확보 전략을 세울 필요가 있습니다.",
+      "action": "경쟁사 및 업계 구조조정에 따른 우수 인재 영입 풀을 점검하고 채용 채널을 정비해 보세요.",
+      "teams": [
+        "채용",
+        "조직문화·HRD"
+      ],
+      "tags": [
+        "게임업계",
+        "대기발령",
+        "고용불안",
+        "구조조정"
+      ],
+      "our_group": false,
+      "talent": {
+        "level": "high",
+        "signal": "넥슨 등 게임사 대기발령 및 감원 — IT·개발 인력 대거 시장 유입"
+      },
+      "sources": [
+        {
+          "name": "팝콘뉴스",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBiQ2Z0QXB0UWlMQ0hsNlVUQXBOdXZ5LXBxeXdCNldjS0cwNXJ1NFh4c2VTZDRjd1dLNHhIeW9PRElSTUc5ZzRsVnlKeVF3dUZ5MXlFd0FSTFMwdUU1SVBVTUpQZGxiWWdESHByOHQ4T2MwUdIBckFVX3lxTFBiQ2Z0QXB0UWlMQ0hsNlVUQXBOdXZ5LXBxeXdCNldjS0cwNXJ1NFh4c2VTZDRjd1dLNHhIeW9PRElSTUc5ZzRsVnlKeVF3dUZ5MXlFd0FSTFMwdUU1SVBVTUpQZGxiWWdESHByOHQ4T2MwUQ?oc=5",
+          "title": "넥슨 3사 대기발령 300명 넘어…'선택과 집중' 뒤 게임업계 고용불안",
+          "date": "2026-11-10"
+        },
+        {
+          "name": "시사위크",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1wU0lQY1pWNXRBMi1mVHRHQ2FzcjBRbHZaaDNGV19NUnRuLUR0d09JeVhUN3I1Y2U5dVVjZXdLdjU4UE9Yd3F2TjNWaUtGUkxfb1hsUEFvdTk1T3pVUWE3eFR5UHdaeURlTmxDYzhtQdIBb0FVX3lxTE1wU0lQY1pWNXRBMi1mVHRHQ2FzcjBRbHZaaDNGV19NUnRuLUR0d09JeVhUN3I1Y2U5dVVjZXdLdjU4UE9Yd3F2TjNWaUtGUkxfb1hsUEFvdTk1T3pVUWE3eFR5UHdaeURlTmxDYzhtQQ?oc=5",
+          "title": "게임 개발 멈추자 일자리도 흔들… 업계 고용 불안",
+          "date": "2026-11-10"
+        },
+        {
+          "name": "뉴스핌",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5QajJXQzAyR1dPVFc1SktMYlBsdnhJRHJMZDE4LXBfTk1hano3ZjBwSnA4WGtZZXd2WEVXcWNUSkpwcGN4U3JVY0dDc01fS3k1OVMza0d2QnZibmV0?oc=5",
+          "title": "기존 인력 줄이고 AI 인재 뽑고…게임업계, 채용 지형도 바뀐다",
+          "date": "2026-11-09"
+        }
+      ],
+      "date": "2026-11-10",
+      "id": "20261110-01"
+    },
+    {
+      "cat": "market",
+      "importance": "high",
+      "company": "마이크로소프트",
+      "title": "마이크로소프트, 전체 인력 4분의 1 수준인 6만명 대상 희망퇴직 제안",
+      "body": "마이크로소프트가 전 세계 직원 6만여 명을 대상으로 대규모 희망퇴직 제안에 나섰습니다. 이는 전체 인력의 4분의 1에 달하는 규모로, 글로벌 빅테크 기업들의 인력 구조조정 기조가 이어지고 있습니다.",
+      "insight": "글로벌 빅테크의 대규모 구조조정은 국내 IT·이커머스 시장 전반의 심리적 위축과 우수 인재 유입 가능성 모두를 시사합니다. 당사 채용 전략에 미치는 영향을 점검해야 합니다.",
+      "action": "글로벌 기술 인력의 국내 유입 동향을 모니터링하고 핵심 인재 영입 기회로 활용할지 검토해 보세요.",
+      "teams": [
+        "채용",
+        "인사기획"
+      ],
+      "tags": [
+        "희망퇴직",
+        "빅테크",
+        "구조조정"
+      ],
+      "our_group": false,
+      "talent": {
+        "level": "high",
+        "signal": "마이크로소프트 대규모 희망퇴직 진행 — 글로벌 IT 인력 시장 유입 가능성"
+      },
+      "sources": [
+        {
+          "name": "SeattleN",
+          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1xZzJhZnJ0S3ZsREhkU1d3MTBtN196OXVUby1LS2xQd0xDWHRmRl9XaDExX1JrUDdmemNCWVBNcmtSN0swZ21WdWdn?oc=5",
+          "title": "[긴급]마이크로소프트, 직원 6만명에 희망퇴직 제안…전체 인력 4분의 1 대상 > 시애틀 뉴스/핫이슈",
+          "date": "2026-11-10"
+        }
+      ],
+      "date": "2026-11-10",
+      "id": "20261110-00"
+    },
+    {
+      "cat": "labor",
+      "importance": "high",
+      "company": "고용노동부",
+      "title": "고용노동부, 포괄임금 및 고정OT 오남용 기획감독 실시",
+      "body": "고용노동부는 ‘공짜 노동’ 근절을 위해 포괄임금 및 고정OT 제도를 운영하는 기업들을 대상으로 집중적인 기획 감독을 실시하고 있습니다. 근로시간 및 수당 지급 적정성에 대한 점검이 강화되고 있습니다.",
+      "insight": "당사 및 그룹사의 근로시간 관리 체계와 고정OT 운영 방식이 노동부 점검 기준에 부합하는지 선제적으로 검토해야 합니다. 근로기준법 준수 리스크를 철저히 관리해야 합니다.",
+      "action": "사내 근로시간 산정 방식과 포괄임금성 수당 운영 현황을 점검하고 보완해 보세요.",
+      "teams": [
+        "노무·ER",
+        "인사기획"
+      ],
+      "tags": [
+        "포괄임금제",
+        "고정OT",
+        "근로감독",
+        "노무"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "시프티 블로그",
+          "url": "https://shiftee.io/ko/blog/article/2026-inclusive-wage-fixed-ot-audit",
+          "title": "2026 포괄임금제 근태관리: 고정OT 수당 계산·대조와 기획감독 점검 항목 고용노동부는 ‘공짜 노동’ 근절을 위해 2026년 9월 15일부터 약 두 달간 「포괄임금·고정OT 오남용 기획 감독」을 실시하... 202",
+          "date": "2026-11-10"
+        }
+      ],
+      "date": "2026-11-10",
+      "id": "20261110-02"
+    },
+    {
+      "cat": "market",
+      "importance": "mid",
+      "company": "무신사",
+      "title": "무신사, 존재하지 않는 '인사총무팀' 사칭한 런던 인턴 파견 피싱 사기 주의 당부",
+      "body": "무신사가 자사 채용 담당자와 존재하지 않는 '인사총무팀'을 사칭하여 해외 런던 파견 인턴 합격을 허위 안내하는 피싱 사기 시도가 발생함에 따라 구직자들에게 각별한 주의를 당부하고 법적 대응을 검토 중입니다.",
+      "insight": "유명 플랫폼 기업을 사칭한 채용 피싱은 구직자 피해뿐만 아니라 기업의 채용 브랜드에도 악영향을 미칠 수 있습니다. 당사 공식 채용 채널의 보안과 안내를 강화해야 합니다.",
+      "action": "당사 채용 공고 및 안내 채널에 공식 연락처와 피싱 주의 문구가 명확히 고지되어 있는지 확인해 보세요.",
+      "teams": [
+        "채용"
+      ],
+      "tags": [
+        "채용사칭",
+        "피싱주의",
+        "채용브랜딩"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "연합뉴스TV",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9EQV9EWnFLc0txRHB3Ty1mb09nVUcwU213dWJTSGZma3l2MzdNMmgzZ3dmNnh5SnlMdFQ3d1hmdW1IRkZZVTJ2WmhKZzQwdEtxU0RWam9pVTV6SVNES1lYSHNfNU92Y3c?oc=5",
+          "title": "\"무신사 인턴 합격 축하합니다\"…피싱 사기 주의",
+          "date": "2026-11-10"
+        },
+        {
+          "name": "메디컬투데이",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5hMVNhWV9nRHhrRnQ1U0JTMmhuZWdXb1g0aEUtZVotejNTak1IU2ZlQy0yMmdPeVV1N0ZscWZBdXlKVHdUNzQtR2NjNDV0WU9iMm9pZEREb2VCNm43OEVGN19Wa2tib1JjcEc2Sg?oc=5",
+          "title": "무신사, 없는 조직 '인사총무팀' 내세운 해외 인턴 합격 사칭 피싱 경고",
+          "date": "2026-11-10"
+        },
+        {
+          "name": "스마트비즈",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5OUVRydXo1STg4RXZBeEt3cU9yYkc1bXJSSEFPZEFyUklQM09rMXYwOUt3dUJfRVNiRmV5YXc2M1V2WEQyc0ZNNFhXNGVrZE5mbHFCZkNwUVN4VFVScFdQZms1UWFtQTRHeGk1Qg?oc=5",
+          "title": "무신사 ,채용 사칭 피싱 확인 …'런던 파견 인턴' 허위 안내",
+          "date": "2026-11-10"
+        },
+        {
+          "name": "한국정경신문",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1RcndxaHFNVl93YjVMQXJ1WmZZMVd0OVdOdHJRMWtFc0hZVjUwaXlBWjVBRDlyZEdIQ2RrQ0lNM3pscXk2c1k3eHBPYWM4ZHRjY3c?oc=5",
+          "title": "무신사, 채용 담당자 사칭 피싱 주의 당부..법적 대응 검토",
+          "date": "2026-11-10"
+        },
+        {
+          "name": "중앙신문",
+          "url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxQQlNCQi13NlJVM0VOV2VqYWZIcWUxWm4yRXlNUll2dC1NVWwyVVd2LWMtTWFHQmw3LVlmZ0dLVUpoUGJtck9VLWxmTWM5Zk9RQktSazZyRHBMOFVidzliVVgySFl5c2s3aXp6VW1JR0NZNTBDQlZkNktvei1wbGR2TEZZWHZWTWlPWVNMNm13Y09EVUlVQ283c0VhX1d3ZHBhbFBnNlE3OE5mS1FZc2RGNmNZYm1TZlRuemJveHhxQ1g3emwtU0FBS2sxN0w0dFRnaDktcnNhdGs5ajM2ZEZ0OU9PSWhIODVFQ2d3eUZMSWFwN1N4eGdCS2xpNHJYeDVGT3V4YjNtNXA0OWVLd0lyeHlrNmtxTHo3MDBQU1JUVG9nVXVucXdxUjQtUGd1MDNKR2ctVGJpN3htQjZqUm1Od0ZrTlFTaTJVdXdxSGRCdVdjWEd2LUxpYjE4SW45Q1d0RllEMVRJNWw0VGtl?oc=5",
+          "title": "무신사, 채용 담당자 사칭 피싱 사기 시도 확인 \"주의 당부\"",
+          "date": "2026-11-10"
+        },
+        {
+          "name": "중앙일보",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9JdGV6T2YxRmZndjlRSkh5aGlzZUg2UksteVR6Y0t2bHQ4dWpXUjh5VTZJYkNwcHlDaVVTRy02REZRQ0pycFFHUGx1R1hzWjhGZ3RWR0V3?oc=5",
+          "title": "“무신사 인턴 합격, 런던 파견됩니다”…채용 피싱 사기 주의보",
+          "date": "2026-11-10"
+        },
+        {
+          "name": "JTBC",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1VMWZxQTdDckRPNks4UVJsckk0VW5VcFNGUjVvalRTQURVVW9ScGV2bFgwRjktMUdHM0x3Sk8xWW83Wlk5S3daUEw5VUd3VF9UY0E?oc=5",
+          "title": "\"무신사 인턴 합격 축하합니다\" 런던 파견 안내까지 받았지만…피싱이었다",
+          "date": "2026-11-10"
+        }
+      ],
+      "date": "2026-11-10",
+      "id": "20261110-06"
+    },
+    {
+      "cat": "trend",
+      "importance": "mid",
+      "company": "업계 전반",
+      "title": "소상공인시장진흥공단 및 주요 기업, 10분 단위 휴가제 등 여가친화경영 확산",
+      "body": "문화체육관광부가 인증하는 여가친화경영 우수 기업들에서 10분 단위 휴가제, 유연근무 등 일과 삶의 균형을 높이는 제도가 확산되고 있습니다.",
+      "insight": "임직원의 워라밸을 지원하는 세밀한 복리후생 제도는 조직 만족도와 몰입도를 높이는 핵심 요소입니다.",
+      "action": "당사 휴가 사용 방식이나 유연근무 제도를 임직원 편의 중심으로 더 세분화할 수 있는지 검토해 보세요.",
+      "teams": [
+        "보상·복리후생",
+        "조직문화·HRD"
+      ],
+      "tags": [
+        "여가친화",
+        "복리후생",
+        "유연근무",
+        "조직문화"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "뉴스티앤티",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1PaDRRRmdFWU1STVIzMTNSUjczYVR4X3V0eEt3R2J5TTJGOG9EcGZtY2RoTUpsa19xZTQ5NUV1NS1SaXpLMnhrbi1XV1VaWDZmb0xpTEVBZEs3bWhPQ2V0c3JFbXo3cHdLdEE?oc=5",
+          "title": "소상공인시장진흥공단, '2026년 여가친화경영 기관' 재인증 획득",
+          "date": "2026-11-10"
+        },
+        {
+          "name": "아주경제",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA0VmcyWWNHZERfdjdyMUxVc0dCZktpRzIwVW05NndPclQ0bE1NWS1LMHc4NHpMdFBIaDQ3dmRvY3RQb2NLUGduMjhxbEktNGotRG05VzY3eFbSAVhBVV95cUxQNFZnMlljR2REX3Y3cjFMVXNHQmZLaUcyMFVtOTZ3T3JUNGxNTVktSzB3ODR6THRQSGg0N3Zkb2N0UG9jS1BnbjI4cWxJLTRqLURtOVc2N3hW?oc=5",
+          "title": "소진공, 여가친화경영 재인증... 10분 단위 휴가제 운영",
+          "date": "2026-11-10"
+        },
+        {
+          "name": "스마트경제",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA5blNtZ0gtS3h3emNIc1dlcndnZ0lVSXh0OTFNeGtQTDdqS09icnIyNlZnTFhfNkRWZUYyT0dQRE1xS19vcExvMTJvbFhyVGJHR0prT0pxbkZVeXJjWERrQTRpYlZUVEZPck9QOEVhOHo?oc=5",
+          "title": "KT&G, 여가친화기업 인증 10년 만에 첫 장관상…일·여가 균형 인정",
+          "date": "2026-11-10"
+        }
+      ],
+      "date": "2026-11-10",
+      "id": "20261110-07"
+    },
+    {
+      "cat": "trend",
+      "importance": "mid",
+      "company": "이수그룹",
+      "title": "이수시스템, 이수그룹 인사관리 체계에 생성형 AI 도입",
+      "body": "이수그룹이 이수시스템을 통해 그룹사 e-HR 시스템에 생성형 AI를 도입하여 인사 운영의 효율성과 데이터 관리 체계를 혁신하고 있습니다.",
+      "insight": "HR 영역에서의 AI 도입은 단순 행정 업무 자동화를 넘어 데이터 기반 인사이트 제공으로 이어지고 있습니다. 당사 e-HR 시스템 고도화에도 시사하는 바가 큽니다.",
+      "action": "사내 HR 운영 시스템에 AI를 접목할 수 있는 영역이 있는지 IT 부서와 협의해 보세요.",
+      "teams": [
+        "인사기획",
+        "조직문화·HRD"
+      ],
+      "tags": [
+        "e-HR",
+        "HR테크",
+        "생성형AI",
+        "인사관리"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "이뉴스투데이",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE93cWRPbzNaRUx2cXZmOVNPeXVoSTAyQXdrQk9kWHZ6cUNsQkNDb05hcHB3b2R3SXRSZmJHZ1g4c19wcVIxb3JmRzJLZWhwR0s5T3hNc3BEWUdzd1NZMHJ5UVN2QVFIcDVsTEREWXpaT2vSAXRBVV95cUxPMzVEX0VVZ0hjeG5qUVg3RjZtaksySXBGd25uS2JfNzIxOFY1YjhONDZIT2tPZE9FRHdMTkJnTENteEwzSjU4VC1jUGx1V19jcmtSVEw2VGF3ZlliVWJKRzJ6Z0pyUXRpaFFCZE12ZEo3ZzVoQw?oc=5",
+          "title": "이수시스템, 이수그룹 인사관리 체계에 AI 도입",
+          "date": "2026-11-10"
+        },
+        {
+          "name": "eMD Medical News",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAtcVBzeTdCVzVNX3VRNnRVNEplNDJRY1NfNGR4ZDE1SDdNS1RvT2g2anh5ODliRkZzZTR4Q1ZVejIzcXdoeVFJbkVyTEx4UEIxRUNIZHpEaUlYM1lxckE?oc=5",
+          "title": "[이엠디] 이수시스템, AI 기반 이수그룹 e-HR 시스템 구축",
+          "date": "2026-11-10"
+        }
+      ],
+      "date": "2026-11-10",
+      "id": "20261110-05"
+    },
+    {
+      "cat": "market",
+      "importance": "mid",
+      "company": "업계 전반",
+      "title": "신입 채용서 AI 역량 필수로 꼽히지만 공식 평가 기업은 20% 그쳐",
+      "body": "채용 시장에서 AI 활용 능력의 중요성이 강조되고 있으나, 실제 신입 채용 과정에서 AI 역량을 공식적으로 평가하는 기업은 20실 수준에 불과한 것으로 나타났습니다. 구직자와 기업 간 괴리가 존재합니다.",
+      "insight": "당사 채용 프로세스에서도 AI 시대에 맞는 실무 역량을 검증할 수 있는 평가 툴 도입과 기준 정립이 필요합니다.",
+      "action": "현재 채용 전형에 AI 직무 역량 평가가 실효성 있게 반영되어 있는지 확인해 보세요.",
+      "teams": [
+        "채용"
+      ],
+      "tags": [
+        "AI역량",
+        "신입채용",
+        "채용트렌드"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "청년일보",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Za2oxRlFkTDhjR1phdWxvWXYzWEd5c25LWGJzSUhhSV92cnctWE5aZVlPYWNwMVZJOEFXclFYMVFIUzlxLXQya2hlR2hoczFzcnZWOHhmMFEzQlFyYTNGVFhOVGpXeFk?oc=5",
+          "title": "\"취업엔 AI 역량 필수\"라지만…신입 채용서 공식 평가 기업은 20%뿐",
+          "date": "2026-11-10"
+        }
+      ],
+      "date": "2026-11-10",
+      "id": "20261110-03"
+    },
+    {
+      "cat": "trend",
+      "importance": "mid",
+      "company": "토스",
+      "title": "토스, '인재가 전부' 철학 기반 입사부터 육아휴직 복귀까지 지원 체계 강조",
+      "body": "토스가 인재 중심의 조직 문화와 입사부터 육아휴직 복귀에 이르기까지 일관성 있는 복리후생 및 지원 제도를 운영하며 채용 브랜딩을 강화하고 있습니다.",
+      "insight": "우수 인재 확보를 위해서는 단순 보상을 넘어 입사 초기 적응부터 생애주기별 복지까지 통합적인 지원 경험을 제공하는 EVP(Employee Value Proposition)가 중요합니다.",
+      "action": "우리 그룹사의 입사자 온보딩 및 복리후생 제도의 만족도를 점검하고 개선점을 도출해 보세요.",
+      "teams": [
+        "조직문화·HRD",
+        "채용"
+      ],
+      "tags": [
+        "EVP",
+        "조직문화",
+        "복리후생",
+        "채용브랜딩"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "이코노미사이언스",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1pd3ZWcnIwT09ELUhvQkZGd3BqZ2c4N2RWaHV1NzNreXgweFl4d3NGb3B1eDFoZDdVRmItWS02M1hmdDZhNkxOWGhoaFpOdUU2eEhXOTFnNFFmd0RjX3RJOWQ1Z3pCb1BBQmdTTmdINA?oc=5",
+          "title": "토스, '인재가 전부'라는 철학…입사부터 육아휴직 복귀까지 책임진다",
+          "date": "2026-11-10"
+        }
+      ],
+      "date": "2026-11-10",
+      "id": "20261110-04"
+    },
+    {
+      "cat": "labor",
+      "importance": "low",
+      "company": "고용노동부",
+      "title": "고용노동부, 2년 이상 근무한 외국인 근로자 무기계약직 전환 행정해석 검토",
+      "body": "고용노동부가 2년 넘게 근무한 50만 명에 달하는 외국인 근로자의 무기계약직 전환 여부에 대해 행정해석 변경을 검토하고 있습니다.",
+      "insight": "외국인 인력 활용이 많은 물류 및 제조 협력사 등에서 고용 형태 변화에 따른 노무 리스크가 발생할 수 있습니다.",
+      "action": "그룹 내 외국인 인력 활용 현황과 향후 법적 기준 변화에 따른 영향 예측을 준비해 보세요.",
+      "teams": [
+        "노무·ER"
+      ],
+      "tags": [
+        "외국인근로자",
+        "무기계약직",
+        "행정해석",
+        "노동부"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "월간노동법률",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE53bTBiMS1nLTRiS3BmRDNNSUZIbzBLODFRVTloOXdVYUNpNTZBNGhpYUZvX3ZHNTkwUVU3TUd6LXQzd2Y3WUR0c2NGRGQ1R2tKUnM0TzNzVFNlUTI3Z3RJSWNpSDBqU1ZuV3A5Vmh3WEprckFDMFZ4aEFnMWVMVnM?oc=5",
+          "title": "[단독] 2년 넘게 일한 ‘50만’ 외국인, 무기계약직 전환되나…노동부 “행정해석 변경 검토”",
+          "date": "2026-11-10"
+        }
+      ],
+      "date": "2026-11-10",
+      "id": "20261110-08"
+    },
+    {
+      "cat": "ecom",
+      "importance": "low",
+      "company": "커넥트웨이브",
+      "title": "커넥트웨이브, MBK 인수 이후 성장 둔화 타개 및 새 엔진 장착 가속화",
+      "body": "커넥트웨이브가 MBK 파트너스 인수 이후 사업 포트폴리오 재편과 이커머스 솔루션 및 가격비교 경쟁력 강화를 위한 새로운 성장 전략을 추진하고 있습니다.",
+      "insight": "그룹사의 사업 재편과 신사업 추진 과정에 맞춰 조직 역량을 결집하고 필요한 핵심 인재를 적시에 확보하는 HR의 역할이 중요합니다.",
+      "action": "그룹 내 핵심 사업부의 조직 개편 및 인력 운영 계획을 경영진과 긴밀히 조율해 보세요.",
+      "teams": [
+        "채용",
+        "인사기획"
+      ],
+      "tags": [
+        "커넥트웨이브",
+        "MBK",
+        "이커머스",
+        "조직개편"
+      ],
+      "our_group": true,
+      "sources": [
+        {
+          "name": "Naver Blog",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWU9KYVc1eU9XZ01rYzZJNUVtRUJSQ3pKeWZ0cjB1R1cxdEt3ZEI5ZE04T2RLNGxPYVdxNzN2QUFXX2FCZzQxMWtZTnRpRHE0SjdmRFA0bEhGeTV0aFprSHY5OE9pUmJnX1hQZlE1QjNrTzhrcVVXeG1aWHRZMVRidXowdi1PWFR6R0VHWGNvSQ?oc=5",
+          "title": "[아정당 점프업] '성장 둔화' 커넥트웨이브에 새 엔진…MBK의 노림수 : 네이버 블로그",
+          "date": "2026-11-10"
+        }
+      ],
+      "date": "2026-11-10",
+      "id": "20261110-09"
+    }
+  ]
+}
