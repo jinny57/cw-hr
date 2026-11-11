@@ -2,8 +2,7 @@ name: HR 레이더 데일리 수집
 
 on:
   schedule:
-    - cron: '40 23 * * 0-4'   # 평일(월~금) 오전 08:40 KST — HR 뉴스 + 채용 추이
-    - cron: '40 23 * * 5,6'   # 토·일 오전 08:40 KST — 채용 추이만
+    - cron: '40 23 * * *'     # 매일(주말 포함) 오전 08:40 KST — HR 뉴스 + 채용 추이
   workflow_dispatch:           # Actions 탭에서 'Run workflow'로 바로 실행
     inputs:
       weekly:
@@ -35,7 +34,6 @@ jobs:
           python-version: '3.12'
       - run: pip install requests --quiet
       - name: 뉴스 수집 · AI 분석
-        if: github.event.schedule != '40 23 * * 5,6'
         env:
           TZ: Asia/Seoul
           GEMINI_API_KEY:   ${{ secrets.GEMINI_API_KEY }}
