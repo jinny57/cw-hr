@@ -1,0 +1,57 @@
+name: 빅테크 직무 추이 즉시 수집
+
+# 수집 대상(jobs_sources.json)이나 수집기(run_jobs.py)를 고치면 바로 한 번 돌려서 결과를 사이트에 올려요.
+# Actions 탭에서 직접 실행할 수도 있어요.
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['run_jobs.py', 'jobs_sources.json']
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: hr-radar
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install requests --quiet
+      - name: 채용 공고 수집
+        env:
+          TZ: Asia/Seoul
+        run: python run_jobs.py
+      - name: 결과 저장
+        run: |
+          git config user.name  "HR Radar Bot"
+          git config user.email "hr-radar-bot@users.noreply.github.com"
+          git add web/jobs.json reports/jobs/
+          git diff --cached --quiet || git commit -m "🧭 직무 추이 $(TZ=Asia/Seoul date +%F)"
+          git pull --rebase --quiet && git push
+
+  deploy:
+    needs: collect
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.pages.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: web
+      - id: pages
+        uses: actions/deploy-pages@v4

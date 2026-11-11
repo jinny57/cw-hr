@@ -1,0 +1,49 @@
+{
+  "_설명": "빅테크 직무 추이에서 추적하는 회사예요. sources는 위에서부터 차례로 시도해서 공고가 잡히는 첫 방법을 써요. type: greenhouse / ashby / lever / workday / smartrecruiters / eightfold / amazon / uber / apple",
+  "groups": {
+    "bigtech": "빅테크",
+    "chip": "반도체·하드웨어",
+    "ailab": "AI 기업",
+    "saas": "엔터프라이즈 SaaS",
+    "platform": "이커머스·플랫폼"
+  },
+  "companies": [
+    {"id": "amazon", "name": "Amazon", "group": "bigtech", "sources": [{"type": "amazon"}]},
+    {"id": "microsoft", "name": "Microsoft", "group": "bigtech", "sources": [
+      {"type": "eightfold", "host": "apply.careers.microsoft.com", "domain": "microsoft.com"},
+      {"type": "eightfold", "host": "jobs.careers.microsoft.com", "domain": "microsoft.com"}]},
+    {"id": "google", "name": "Google", "group": "bigtech", "sources": [{"type": "google"}]},
+    {"id": "apple", "name": "Apple", "group": "bigtech", "sources": [{"type": "apple"}]},
+    {"id": "meta", "name": "Meta", "group": "bigtech", "sources": [{"type": "meta"}]},
+    {"id": "netflix", "name": "Netflix", "group": "bigtech", "sources": [
+      {"type": "eightfold", "host": "explore.jobs.netflix.net", "domain": "netflix.com"}]},
+    {"id": "tesla", "name": "Tesla", "group": "bigtech", "sources": [{"type": "tesla"}]},
+    {"id": "spacex", "name": "SpaceX", "group": "bigtech", "sources": [{"type": "greenhouse", "slug": "spacex"}]},
+    {"id": "nvidia", "name": "NVIDIA", "group": "chip", "sources": [
+      {"type": "workday", "host": "nvidia.wd5.myworkdayjobs.com", "tenant": "nvidia", "site": "NVIDIAExternalCareerSite"}]},
+    {"id": "amd", "name": "AMD", "group": "chip", "sources": [
+      {"type": "workday", "host": "amd.wd1.myworkdayjobs.com", "tenant": "amd", "site": "External"},
+      {"type": "greenhouse", "slug": "amd"}]},
+    {"id": "openai", "name": "OpenAI", "group": "ailab", "sources": [{"type": "ashby", "slug": "openai"}]},
+    {"id": "anthropic", "name": "Anthropic", "group": "ailab", "sources": [{"type": "greenhouse", "slug": "anthropic"}]},
+    {"id": "xai", "name": "xAI", "group": "ailab", "sources": [{"type": "greenhouse", "slug": "xai"}, {"type": "ashby", "slug": "xai"}]},
+    {"id": "scaleai", "name": "Scale AI", "group": "ailab", "sources": [{"type": "greenhouse", "slug": "scaleai"}]},
+    {"id": "databricks", "name": "Databricks", "group": "ailab", "sources": [{"type": "greenhouse", "slug": "databricks"}]},
+    {"id": "salesforce", "name": "Salesforce", "group": "saas", "sources": [
+      {"type": "workday", "host": "salesforce.wd12.myworkdayjobs.com", "tenant": "salesforce", "site": "External_Career_Site"}]},
+    {"id": "servicenow", "name": "ServiceNow", "group": "saas", "sources": [{"type": "smartrecruiters", "company": "ServiceNow"}]},
+    {"id": "palantir", "name": "Palantir", "group": "saas", "sources": [{"type": "lever", "slug": "palantir"}]},
+    {"id": "shopify", "name": "Shopify", "group": "platform", "sources": [{"type": "ashby", "slug": "shopify"}, {"type": "greenhouse", "slug": "shopify"}]},
+    {"id": "ebay", "name": "eBay", "group": "platform", "sources": [
+      {"type": "workday", "host": "ebay.wd5.myworkdayjobs.com", "tenant": "ebay", "site": "apply"}]},
+    {"id": "instacart", "name": "Instacart", "group": "platform", "sources": [{"type": "greenhouse", "slug": "instacart"}]},
+    {"id": "uber", "name": "Uber", "group": "platform", "sources": [{"type": "uber"}]},
+    {"id": "airbnb", "name": "Airbnb", "group": "platform", "sources": [{"type": "greenhouse", "slug": "airbnb"}]},
+    {"id": "stripe", "name": "Stripe", "group": "platform", "sources": [{"type": "greenhouse", "slug": "stripe"}]},
+    {"id": "grab", "name": "Grab", "group": "platform", "sources": [
+      {"type": "smartrecruiters", "company": "Grab"},
+      {"type": "workday", "host": "grab.wd3.myworkdayjobs.com", "tenant": "grab", "site": "Careers"},
+      {"type": "greenhouse", "slug": "grab"},
+      {"type": "lever", "slug": "grab"}]}
+  ]
+}
