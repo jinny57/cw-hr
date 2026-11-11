@@ -1,11 +1,11 @@
 """
 커넥트웨이브 HR 레이더 — 채용 위클리 카드뉴스 ('채용 위클리 카드뉴스' 메뉴)
 
-그 주 월~금의 데일리 채용 추이(web/trends.json)를 묶어 7장짜리 카드뉴스 데이터를 만들어요.
-GitHub Actions에서 매주 금요일 수집 직후 자동으로 돌아요.
+한 주(월~일)의 데일리 채용 추이(web/trends.json)를 묶어 7장짜리 카드뉴스 데이터를 만들어요.
+주가 끝난 뒤 월요일 아침 수집 직후 GitHub Actions가 '지난주' 카드뉴스를 자동으로 만들어요.
 
-  python run_weekly.py                    # 이번 주
-  python run_weekly.py --date 2026-11-13  # 그 날짜가 속한 주
+  python run_weekly.py                    # 지난주 (월~일)
+  python run_weekly.py --date 2026-11-12  # 그 날짜가 속한 주 (주가 안 끝났으면 미리보기)
 """
 import os, json, argparse, datetime
 
@@ -19,16 +19,17 @@ OUT = os.path.join(ROOT, "web", "weekly.json")
 
 def week_of(date):
     mon = date - datetime.timedelta(days=date.weekday())
-    fri = mon + datetime.timedelta(days=4)
+    sun = mon + datetime.timedelta(days=6)
     thu = mon + datetime.timedelta(days=3)  # 목요일이 속한 달의 몇째 주인지로 이름을 붙여요
     nth = (thu.day - 1) // 7 + 1
     iso = mon.isocalendar()
     return {"id": f"{iso[0]}-W{iso[1]:02d}", "label": f"{thu.month}월 {nth}주차",
-            "start": mon.isoformat(), "end": fri.isoformat()}
+            "start": mon.isoformat(), "end": sun.isoformat()}
 
 
-def compact(reports):
-    """AI에게 넘길 그 주 요약과, 번호로 고를 수 있는 출처 목록을 만들어요."""
+def compact(reports, end=None):
+    """AI에게 넘길 그 주 요약과, 번호로 고를 수 있는 출처 목록을 만들어요.
+    end 다음 날(월요일) 수집분은 일요일까지 나온 기사만 써요."""
     sources, lines = [], []
 
     def sid(srcs):
@@ -40,6 +41,10 @@ def compact(reports):
         return out
 
     for r in sorted(reports, key=lambda r: r["date"]):
+        if end and r["date"] > end:
+            old = lambda rows: [x for x in rows or [] if any((s.get("date") or "9") <= end for s in x.get("sources", []))]
+            r = {"date": f"{end} (주말)", "numbers": old(r.get("numbers")), "layoffs": old(r.get("layoffs")),
+                 "hiring": old(r.get("hiring")), "korea": old(r.get("korea")), "items": old(r.get("items"))}
         lines.append(f"\n## {r['date']} — {r.get('headline', '')}")
         lines += [f"- 요약: {s}" for s in r.get("summary", [])]
         lines += [f"- 숫자: {n['value']} {n['label']} ({n['dir']}) {sid(n['sources'])}" for n in r.get("numbers", [])]
@@ -94,29 +99,32 @@ def main():
     ap.add_argument("--date", help="YYYY-MM-DD (기본: 오늘)")
     args = ap.parse_args()
     cfg = rr.load_config()
-    date = datetime.date.fromisoformat(args.date) if args.date else datetime.datetime.now(KST).date()
+    today = datetime.datetime.now(KST).date()
+    date = datetime.date.fromisoformat(args.date) if args.date else today - datetime.timedelta(days=7)
     wk = week_of(date)
+    # 일요일 기사는 다음 날(월요일) 아침 수집에 들어오니, 그 수집분까지 함께 봐요
+    after = (datetime.date.fromisoformat(wk["end"]) + datetime.timedelta(days=1)).isoformat()
     print(f"🗞️  채용 위클리 카드뉴스 — {wk['label']} ({wk['start']} ~ {wk['end']})")
 
     try:
         with open(TRENDS, encoding="utf-8") as f:
             reports = [r for r in json.load(f).get("reports", [])
-                       if wk["start"] <= r["date"] <= wk["end"] and not r.get("analysis_error")]
+                       if wk["start"] <= r["date"] <= after and not r.get("analysis_error")]
     except FileNotFoundError:
         reports = []
     if not reports:
         print("  이번 주 채용 추이 기록이 없어서 건너뛰어요")
         return
 
-    text, sources = compact(reports)
+    text, sources = compact(reports, wk["end"])
     d = rr.gemini(build_prompt(cfg, wk, text))
     headline = str(d.get("headline") or reports[0].get("headline", ""))
     emph = str(d.get("emph") or "")
     card = {
-        **wk, "days": sorted(r["date"] for r in reports),
-        "coverage": [min(r["date"] for r in reports), max(r["date"] for r in reports)],
-        # 금요일(또는 그 이후) 실행이면 확정, 주 중 수동 실행이면 미리보기
-        "final": date.isoformat() >= wk["end"],
+        **wk, "days": sorted(r["date"] for r in reports if r["date"] <= wk["end"]),
+        "coverage": [wk["start"], min(wk["end"], max(r["date"] for r in reports))],
+        # 주(일요일)가 끝난 뒤 만들면 확정, 주 중에 만들면 미리보기
+        "final": today.isoformat() > wk["end"],
         "headline": headline, "emph": emph if emph and emph in headline else "",
         "lede": str(d.get("lede") or ""), "tags": [str(t) for t in (d.get("tags") or [])][:4],
         "numbers": [{k: str(n.get(k) or "") for k in ("value", "label", "note", "dir")}

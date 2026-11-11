@@ -365,8 +365,8 @@ body:not([data-section="news"]) .news-only{display:none!important}
   <div class="side-h">메뉴</div>
   <a class="nav-i" href="#news" data-sec="news" aria-current="page"><span class="ic"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.6"><rect x="2" y="2.5" width="12" height="11" rx="2"/><path d="M5 6h6M5 8.5h6M5 11h3.5"/></svg></span><b>데일리 HR 뉴스</b><small>HR실 전체 이슈 브리핑</small></a>
   <a class="nav-i" href="#trends" data-sec="trends"><span class="ic"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M2 12.5 6 8l3 2.5L14 4"/><path d="M10.5 4H14v3.5"/></svg></span><b>데일리 채용 추이</b><small id="navTrendsSub">빅테크·국내 채용 시장</small></a>
-  <a class="nav-i" href="#weekly" data-sec="weekly"><span class="ic"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.6"><rect x="4.5" y="2" width="9" height="11" rx="1.5"/><path d="M2.5 4.5v8A1.5 1.5 0 0 0 4 14h7"/></svg></span><b>채용 위클리 카드뉴스</b><small id="navWeeklySub">매주 금요일 발행</small></a>
-  <p class="side-foot">채용 추이는 평일 아침, 카드뉴스는 금요일 아침에 자동으로 새로 올라와요.</p>
+  <a class="nav-i" href="#weekly" data-sec="weekly"><span class="ic"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.6"><rect x="4.5" y="2" width="9" height="11" rx="1.5"/><path d="M2.5 4.5v8A1.5 1.5 0 0 0 4 14h7"/></svg></span><b>채용 위클리 카드뉴스</b><small id="navWeeklySub">매주 월요일 발행</small></a>
+  <p class="side-foot">채용 추이는 매일 아침(주말 포함), 카드뉴스는 월요일 아침에 지난주(월~일) 분량으로 올라와요.</p>
 </nav>
 <div class="views">
 <main class="wrap" id="view-news">
@@ -895,7 +895,7 @@ body:not([data-section="news"]) .news-only{display:none!important}
     loaded.weekly = true;
     fetch('weekly.json', { cache: 'no-store' }).then(r => { if (!r.ok) throw new Error(r.status); return r.json(); }).then(d => {
       WEEKS = d.weeks || [];
-      if (!WEEKS.length){ $('#wTrack').innerHTML = '<div class="empty" style="flex:1">첫 카드뉴스는 이번 주 금요일에 나와요.</div>'; return; }
+      if (!WEEKS.length){ $('#wTrack').innerHTML = '<div class="empty" style="flex:1">첫 카드뉴스는 다음 주 월요일 아침에 나와요.</div>'; return; }
       $('#navWeeklySub').textContent = `최신 ${WEEKS[0].label}`;
       renderWeekly();
     }).catch(e => { $('#wTrack').innerHTML = `<div class="empty" style="flex:1">weekly.json을 읽지 못했어요 (${esc(e.message)}).</div>`; });
@@ -926,14 +926,14 @@ body:not([data-section="news"]) .news-only{display:none!important}
         <div class="wc-f">팀 회의에서 1개만 골라 실행해 봐요</div></article>`,
       `<article class="wc">${head('출처', 7)}<h2>원문 보기</h2><ul class="wsrc">
         ${(w.sources||[]).map(s => `<li><a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.name)} · ${esc(s.title)}</a></li>`).join('')}</ul>
-        <div class="wc-f">${w.manual ? '첫 호는 11/11까지 소식으로 직접 정리했어요. 11/13 금요일에 자동 확정본으로 바뀌어요' : '데일리 채용 추이를 묶어 자동으로 만들었어요'}</div></article>`
+        <div class="wc-f">${w.manual ? '미리보기는 11/11까지 소식으로 직접 정리했어요. 11/16 월요일에 11.9~11.15 확정본으로 바뀌어요' : '데일리 채용 추이를 묶어 자동으로 만들었어요'}</div></article>`
     ].join('');
   }
   function renderWeekly(){
     const w = WEEKS[wSel];
     $('#wWeeks').innerHTML = WEEKS.slice(0, 8).map((x, i) => `<button class="chip" type="button" data-w="${i}" aria-pressed="${i === wSel}">${esc(x.label)}</button>`).join('');
     const cov = w.coverage || [w.start, w.end];
-    $('#wRange').textContent = `${cov[0]} ~ ${cov[1]} 소식 기준${w.final === false ? ' · 금요일에 확정돼요' : ''}`;
+    $('#wRange').textContent = `${cov[0]} ~ ${cov[1]} 소식 기준${w.final === false ? ' · 주가 끝난 뒤 월요일에 확정돼요' : ''}`;
     $('#wTrack').innerHTML = weeklyCards(w);
     $('#wTrack').scrollLeft = 0;
     $('#wDots').innerHTML = '<i></i>'.repeat(7);
