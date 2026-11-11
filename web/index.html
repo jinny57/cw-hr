@@ -356,8 +356,9 @@ body:not([data-section="news"]) .news-only{display:none!important}
 .heat td:first-child{text-align:left;padding-left:0;font-weight:600;font-size:12.5px}
 .heat td.c{position:relative}
 .heat td.c span{position:relative;z-index:1}
+.heat td.c.hi span{color:var(--accent-ink);font-weight:600}
 .heat td.c::before{content:"";position:absolute;inset:2px;border-radius:4px;background:var(--accent);opacity:var(--o,0)}
-.heat th.v{writing-mode:vertical-rl;transform:rotate(180deg);text-align:left;height:118px;padding:0 4px 6px;font-weight:600}
+.heat th.v{white-space:normal;text-align:center;vertical-align:bottom;min-width:46px;max-width:58px;padding:0 3px 6px;line-height:1.3;font-weight:600;word-break:keep-all}
 .heat .g td{font-size:11px;color:var(--sub);font-weight:700;padding-top:12px;border-bottom:0}
 .part{display:flex;align-items:center;gap:10px;margin-top:18px;font-size:12px;font-weight:700;color:var(--sub);letter-spacing:.06em}
 .part i{flex:1;height:1px;background:var(--line2)}
@@ -1015,6 +1016,9 @@ body:not([data-section="news"]) .news-only{display:none!important}
   }
   const pct = (a, b) => b ? a / b * 100 : 0;
   const famName = id => (J.meta.families.find(f => f.id === id) || {}).name || id;
+  const SHORT = { fde: 'FDE', people: 'HR', product: 'PM', design: '디자인', gtm: '영업 마케팅', ops_corp: '재무 법무', field: '현장',
+    ai_safety: 'AI 안전', ai_research: 'AI 연구', applied_ai: 'Applied AI', ml_eng: 'ML', hardware: '하드웨어', security: '보안',
+    data: '데이터', infra: '인프라', mobile_fe: 'FE 모바일', swe: '백엔드' };
   const famTag = id => `<span class="fam${AI_FAMS.has(id) ? ' ai' : ''}">${esc(famName(id))}</span>`;
   function spark(vals, color){
     if (vals.length < 2) return '<svg viewBox="0 0 92 26"></svg>';
@@ -1114,14 +1118,14 @@ body:not([data-section="news"]) .news-only{display:none!important}
     // 회사별 비교 (직무 비중 히트맵)
     const showF = fams.filter(f => f !== 'other');
     const groupsOrder = Object.keys(J.meta.groups || {});
-    let heat = `<thead><tr><th>회사</th><th>공고</th><th>AI 제목</th><th>신입</th>${showF.map(f => `<th class="v">${esc(famName(f))}</th>`).join('')}</tr></thead><tbody>`;
+    let heat = `<thead><tr><th>회사</th><th>공고</th><th>AI 제목</th><th>신입</th>${showF.map(f => `<th class="v" title="${esc(famName(f))}">${esc(SHORT[f] || famName(f))}</th>`).join('')}</tr></thead><tbody>`;
     groupsOrder.filter(g => jGroup === 'all' || g === jGroup).forEach(g => {
       const cs = (J.meta.companies || []).filter(c => c.group === g && c.ok && (today.counts || {})[c.id]);
       if (!cs.length) return;
       heat += `<tr class="g"><td colspan="${showF.length + 4}">${esc(J.meta.groups[g])}</td></tr>`;
       cs.forEach(c => { const cnt = today.counts[c.id], t = sum(cnt) || 1;
         heat += `<tr><td>${esc(c.name)}</td><td>${t.toLocaleString('ko-KR')}</td><td>${pct(today.ai_title[c.id] || 0, t).toFixed(0)}%</td><td>${pct(today.early[c.id] || 0, t).toFixed(0)}%</td>` +
-          showF.map(f => { const v = pct(cnt[f] || 0, t); return `<td class="c" style="--o:${Math.min(0.85, v / 40).toFixed(2)}" title="${esc(c.name)} · ${esc(famName(f))} ${cnt[f] || 0}건"><span>${v >= 0.5 ? v.toFixed(0) : ''}</span></td>`; }).join('') + '</tr>'; });
+          showF.map(f => { const v = pct(cnt[f] || 0, t); const o = Math.min(0.85, v / 40); return `<td class="c${o > 0.5 ? ' hi' : ''}" style="--o:${o.toFixed(2)}" title="${esc(c.name)} · ${esc(famName(f))} ${cnt[f] || 0}건"><span>${v >= 0.5 ? v.toFixed(0) : ''}</span></td>`; }).join('') + '</tr>'; });
     });
     $('#jHeat').innerHTML = heat + '</tbody>';
     const fail = (J.meta.companies || []).filter(c => !c.ok);
