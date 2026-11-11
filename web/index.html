@@ -6,7 +6,7 @@
 <title>커넥트웨이브 HR 레이더</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans+KR:wght@400;500;600;700&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Gothic+A1:wght@700;900&family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans+KR:wght@400;500;600;700&display=swap">
 <style>
 :root{
   color-scheme:light;
@@ -16,6 +16,8 @@
   --high:#c2410c; --high-bg:#fdebe2; --mid:#a86a00; --mid-bg:#fbf0d9; --low:#6b7780; --low-bg:#edf0f1;
   --c-market:#2560b8; --c-trend:#7646c2; --c-labor:#56761a; --c-ecom:#0d7a70; --c-brand:#b8325e;
   --own:#0d7a70; --own-bg:#dff3ef;
+  --up:#1f7a4f; --up-bg:#e0f1e8; --cover:#12324a; --cover-ink:#f2f6f8; --cover-sub:#a9bccb; --cover-em:#8fd3c8;
+  --display:'Gothic A1','Apple SD Gothic Neo','Malgun Gothic',sans-serif;
   --shadow:0 1px 2px rgba(19,33,43,.06),0 4px 14px rgba(19,33,43,.04);
   --sans:'IBM Plex Sans KR',system-ui,-apple-system,'Apple SD Gothic Neo','Malgun Gothic',sans-serif;
   --mono:'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,monospace;
@@ -29,6 +31,7 @@
     --high:#ff8a57; --high-bg:#3a2016; --mid:#e2ad4a; --mid-bg:#342a14; --low:#98a4ac; --low-bg:#222d34;
     --c-market:#7aa8ef; --c-trend:#b393ee; --c-labor:#a5c56a; --c-ecom:#5cc8b9; --c-brand:#ee84a6;
     --own:#5cc8b9; --own-bg:#15332f;
+    --up:#6fd3a1; --up-bg:#16302a; --cover:#1d3142; --cover-ink:#eef3f6; --cover-sub:#9fb3c2; --cover-em:#7fd8cb;
     --shadow:none;
   }
 }
@@ -40,6 +43,7 @@
   --high:#ff8a57; --high-bg:#3a2016; --mid:#e2ad4a; --mid-bg:#342a14; --low:#98a4ac; --low-bg:#222d34;
   --c-market:#7aa8ef; --c-trend:#b393ee; --c-labor:#a5c56a; --c-ecom:#5cc8b9; --c-brand:#ee84a6;
   --own:#5cc8b9; --own-bg:#15332f;
+  --up:#6fd3a1; --up-bg:#16302a; --cover:#1d3142; --cover-ink:#eef3f6; --cover-sub:#9fb3c2; --cover-em:#7fd8cb;
   --shadow:none;
 }
 *{box-sizing:border-box}
@@ -53,7 +57,7 @@ a{color:inherit}
 
 /* top bar */
 .top{position:sticky;top:env(safe-area-inset-top,0px);z-index:20;background:color-mix(in srgb,var(--surf) 94%,transparent);backdrop-filter:blur(10px);border-bottom:1px solid var(--line)}
-.top-in{max-width:1240px;margin:0 auto;padding:10px 16px;display:flex;flex-wrap:wrap;align-items:center;gap:10px 14px}
+.top-in{max-width:1480px;margin:0 auto;padding:10px 16px;display:flex;flex-wrap:wrap;align-items:center;gap:10px 14px}
 .brand{display:flex;align-items:center;gap:10px;margin-right:auto;min-width:0}
 .mark{width:34px;height:34px;flex:none;border-radius:9px;background:var(--accent);color:var(--accent-ink);display:grid;place-items:center}
 .mark svg{width:22px;height:22px}
@@ -71,7 +75,7 @@ a{color:inherit}
 .btn:hover{border-color:var(--line2)}
 .tools{display:flex;gap:6px;align-items:center}
 
-.wrap{max-width:1240px;margin:0 auto;padding:18px 16px 60px;display:flex;flex-direction:column;gap:16px}
+.wrap{min-width:0;padding:18px 0 60px;display:flex;flex-direction:column;gap:16px}
 .notice{border:1px dashed var(--mid);background:var(--mid-bg);color:var(--ink);border-radius:10px;padding:9px 14px;font-size:12.5px}
 .notice b{color:var(--mid)}
 
@@ -192,6 +196,131 @@ a.pt-title:hover{color:var(--accent);text-decoration:underline;text-underline-of
 .spark{width:100%;height:64px;display:block}
 .foot{font-size:11.5px;color:var(--sub);line-height:1.7}
 
+
+/* ── 왼쪽 메뉴 + 화면 전환 ── */
+.shell{max-width:1480px;margin:0 auto;display:grid;grid-template-columns:212px minmax(0,1fr);gap:22px;
+  padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+.views{min-width:0}
+.side{position:sticky;top:calc(env(safe-area-inset-top,0px) + 66px);align-self:start;padding-top:18px;display:flex;flex-direction:column;gap:4px}
+.side-h{font-size:11px;font-weight:700;letter-spacing:.08em;color:var(--sub);padding:0 10px 6px}
+.nav-i{all:unset;box-sizing:border-box;cursor:pointer;display:grid;grid-template-columns:30px minmax(0,1fr);gap:2px 10px;align-items:center;padding:9px 10px;border-radius:10px;color:var(--muted)}
+.nav-i:hover{background:var(--surf)}
+.nav-i:focus-visible{outline:2px solid var(--accent);outline-offset:1px}
+.nav-i .ic{grid-row:1/3;width:30px;height:30px;border-radius:8px;display:grid;place-items:center;background:var(--surf2);color:var(--muted)}
+.nav-i b{font-size:13.5px;font-weight:700;color:var(--ink)}
+.nav-i small{font-size:11px;color:var(--sub);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.nav-i[aria-current="page"]{background:var(--surf);box-shadow:var(--shadow);border:1px solid var(--line)}
+.nav-i[aria-current="page"] .ic{background:var(--accent);color:var(--accent-ink)}
+.side-foot{margin-top:14px;padding:0 10px;font-size:11px;color:var(--sub);line-height:1.6}
+body:not([data-section="news"]) .news-only{display:none!important}
+
+/* ── 데일리 채용 추이 ── */
+.t-head{display:flex;flex-wrap:wrap;align-items:center;gap:10px 14px}
+.t-head .eyebrow{margin-right:auto}
+.t-lead{padding:20px 22px;display:flex;flex-direction:column;gap:10px}
+.t-lead h2{margin:0;font-size:21px;line-height:1.4;font-weight:700;letter-spacing:-.02em;text-wrap:balance}
+.t-sum{margin:0;padding-left:18px;display:flex;flex-direction:column;gap:4px;color:var(--muted);font-size:13.5px}
+.nums{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:12px}
+.num{padding:14px 16px;display:flex;flex-direction:column;gap:4px}
+.num .v{font-family:var(--display);font-weight:900;font-size:30px;letter-spacing:-.02em;line-height:1.1;font-variant-numeric:tabular-nums}
+.num.down .v{color:var(--high)} .num.up .v{color:var(--up)} .num.flat .v{color:var(--ink)}
+.num .l{font-size:13px;font-weight:600}
+.num a{font-size:11.5px;color:var(--sub);text-decoration:none}
+.num a:hover{text-decoration:underline}
+.sec{padding:16px 18px;display:flex;flex-direction:column;gap:12px}
+.sec h3{margin:0;font-size:14px;font-weight:700;display:flex;align-items:center;gap:8px}
+.sec h3 .n{font-family:var(--mono);font-size:11px;color:var(--sub);font-weight:400}
+.ltable{width:100%;border-collapse:collapse;font-size:13px}
+.ltable th{text-align:left;font-size:11px;color:var(--sub);font-weight:600;padding:0 8px 6px 0;border-bottom:1px solid var(--line)}
+.ltable td{padding:8px 8px 8px 0;border-bottom:1px solid var(--line);vertical-align:top}
+.ltable tr:last-child td{border-bottom:0}
+.ltable .co{font-weight:700;white-space:nowrap}
+.ltable .sz{font-family:var(--mono);font-size:12px;white-space:nowrap;font-variant-numeric:tabular-nums}
+.ltable a{color:var(--sub);font-size:11.5px;text-decoration:none;white-space:nowrap}
+.ltable a:hover{text-decoration:underline}
+.kind{font-size:11px;font-weight:700;padding:1px 7px;border-radius:5px;white-space:nowrap;background:var(--high-bg);color:var(--high)}
+.kind.soft{background:var(--mid-bg);color:var(--mid)}
+.tscroll{overflow-x:auto}
+.temp{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+.temp .col{border-radius:10px;padding:12px 14px;display:flex;flex-direction:column;gap:6px}
+.temp .col.up{background:var(--up-bg)} .temp .col.dn{background:var(--high-bg)}
+.temp h4{margin:0;font-size:12.5px;font-weight:700}
+.temp .up h4{color:var(--up)} .temp .dn h4{color:var(--high)}
+.temp ul{margin:0;padding:0;list-style:none;display:flex;flex-direction:column;gap:6px}
+.temp li{font-size:13px;font-weight:600;color:var(--ink)}
+.temp li span{display:block;font-size:11.5px;font-weight:400;color:var(--muted)}
+.krl{margin:0;padding:0;list-style:none;display:flex;flex-direction:column;gap:8px}
+.krl li{display:grid;grid-template-columns:96px minmax(0,1fr);gap:10px;font-size:13px}
+.krl b{font-weight:700}
+.krl a{color:var(--sub);font-size:11.5px;text-decoration:none;margin-left:4px}
+.reg{font-size:11px;font-weight:700;padding:1px 7px;border-radius:5px;background:var(--accent-soft);color:var(--accent)}
+.reg.kr{background:var(--own-bg);color:var(--own)}
+
+/* ── 채용 위클리 카드뉴스 ── */
+.w-bar{display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+.w-bar .eyebrow{margin-right:auto}
+.w-weeks{display:flex;gap:6px;flex-wrap:wrap}
+.w-track{display:flex;gap:16px;overflow-x:auto;scroll-snap-type:x mandatory;padding:2px 2px 10px;scrollbar-width:thin;align-items:stretch;overscroll-behavior-x:contain}
+.wc{flex:0 0 min(400px,calc(100vw - 48px));aspect-ratio:4/5;scroll-snap-align:start;background:var(--surf);border:1px solid var(--line);border-radius:16px;padding:26px 24px 20px;display:flex;flex-direction:column;gap:14px;min-width:0}
+.wc-h{display:flex;justify-content:space-between;font-family:var(--mono);font-size:11.5px;color:var(--sub);letter-spacing:.03em}
+.wc h2{font-family:var(--display);font-weight:900;font-size:24px;line-height:1.25;margin:0;letter-spacing:-.01em;text-wrap:balance}
+.wc p{margin:0}
+.wc .lede{font-size:13.5px;color:var(--muted)}
+.wc-f{margin-top:auto;font-size:11.5px;color:var(--muted);border-top:1px solid var(--line);padding-top:10px}
+.wc.cover{background:var(--cover);color:var(--cover-ink);border-color:transparent}
+.wc.cover .wc-h,.wc.cover .lede,.wc.cover .wk{color:var(--cover-sub)}
+.wc.cover .wk{font-family:var(--display);font-weight:700;font-size:15px}
+.wc.cover h2{font-size:36px;line-height:1.18;margin-top:auto}
+.wc.cover h2 em{font-style:normal;color:var(--cover-em)}
+.wc.cover .wc-f{border-color:color-mix(in srgb,var(--cover-ink) 18%,transparent);color:var(--cover-sub)}
+.wtags{display:flex;gap:6px;flex-wrap:wrap}
+.wtags span{font-size:12px;padding:3px 9px;border-radius:999px;border:1px solid color-mix(in srgb,var(--cover-ink) 28%,transparent)}
+.wstat{display:grid;grid-template-columns:auto minmax(0,1fr);gap:2px 14px;align-items:baseline;padding:11px 0;border-bottom:1px solid var(--line)}
+.wstat:last-of-type{border-bottom:0}
+.wstat .n{font-family:var(--display);font-weight:900;font-size:32px;letter-spacing:-.02em;font-variant-numeric:tabular-nums;color:var(--accent)}
+.wstat .n.down{color:var(--high)} .wstat .n.up{color:var(--up)}
+.wstat .w{font-size:13.5px;font-weight:600}
+.wstat .s{grid-column:2;font-size:11.5px;color:var(--sub)}
+.wrows{display:flex;flex-direction:column;gap:9px}
+.wrow{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:1px 10px;align-items:baseline}
+.wrow b{font-size:14.5px}
+.wrow .bd{font-family:var(--mono);font-size:12.5px;color:var(--high);background:var(--high-bg);padding:1px 7px;border-radius:5px}
+.wrow .bd.neu{color:var(--muted);background:transparent;border:1px solid var(--line)}
+.wrow span.d{grid-column:1/-1;font-size:12.5px;color:var(--muted)}
+.wsplit{display:flex;flex-direction:column;gap:10px}
+.wsplit .col{border-radius:10px;padding:11px 14px;display:flex;flex-direction:column;gap:6px}
+.wsplit .col.up{background:var(--up-bg)} .wsplit .col.dn{background:var(--high-bg)}
+.wsplit h3{margin:0;font-family:var(--display);font-size:14px;font-weight:700}
+.wsplit .up h3{color:var(--up)} .wsplit .dn h3{color:var(--high)}
+.wsplit ul{margin:0;padding-left:16px;font-size:13px;display:flex;flex-direction:column;gap:3px}
+.wkr{display:flex;flex-direction:column;gap:10px}
+.wkr div{display:grid;grid-template-columns:76px minmax(0,1fr);gap:10px;font-size:13px}
+.wkr b{font-family:var(--display);font-weight:700;font-size:13.5px}
+.wacts{display:flex;flex-direction:column;gap:12px}
+.wact{display:grid;grid-template-columns:28px minmax(0,1fr);gap:10px}
+.wact i{font-style:normal;width:28px;height:28px;border-radius:50%;background:var(--accent-soft);color:var(--accent);font:600 13px var(--mono);display:grid;place-items:center}
+.wact b{display:block;font-size:14px;margin-bottom:2px}
+.wact span{font-size:12.5px;color:var(--muted)}
+.wsrc{margin:0;padding-left:16px;font-size:12px;display:flex;flex-direction:column;gap:5px;color:var(--muted)}
+.wsrc a{color:var(--accent);text-decoration:none}
+.wsrc a:hover{text-decoration:underline}
+.w-nav{display:flex;align-items:center;justify-content:center;gap:14px}
+.w-dots{display:flex;gap:6px}
+.w-dots i{width:7px;height:7px;border-radius:50%;background:var(--line2);transition:width .2s}
+.w-dots i.on{background:var(--ink);width:20px;border-radius:4px}
+.w-note{font-size:12px;color:var(--sub);text-align:center;margin:0}
+.toast{position:fixed;left:50%;bottom:calc(20px + env(safe-area-inset-bottom,0px));transform:translateX(-50%);background:var(--ink);color:var(--surf);padding:8px 14px;border-radius:8px;font-size:12.5px;z-index:50}
+
+@media (max-width:900px){
+  .shell{grid-template-columns:1fr;gap:0}
+  .side{position:static;flex-direction:row;overflow-x:auto;padding-top:12px;gap:6px;scrollbar-width:none}
+  .side::-webkit-scrollbar{display:none}
+  .side-h,.side-foot,.nav-i small{display:none}
+  .nav-i{grid-template-columns:auto auto;flex:none;padding:6px 12px 6px 6px;border:1px solid var(--line);background:var(--surf)}
+  .nav-i .ic{grid-row:auto;width:26px;height:26px}
+  .temp{grid-template-columns:1fr}
+}
+
 @media (max-width:980px){
   .grid{grid-template-columns:1fr}
   .rail{position:static;display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr))}
@@ -206,7 +335,7 @@ a.pt-title:hover{color:var(--accent);text-decoration:underline;text-underline-of
 @media (prefers-reduced-motion:reduce){*{transition:none!important}}
 </style>
 </head>
-<body>
+<body data-section="news">
 <header class="top">
   <div class="top-in">
     <div class="brand">
@@ -215,23 +344,32 @@ a.pt-title:hover{color:var(--accent);text-decoration:underline;text-underline-of
       </div>
       <div><h1 id="siteTitle">커넥트웨이브 HR 레이더</h1><p id="siteSub">HR실 데일리 인텔리전스 브리핑</p></div>
     </div>
-    <div class="seg" role="group" aria-label="보기 단위">
+    <div class="seg news-only" role="group" aria-label="보기 단위">
       <button type="button" id="v-day" data-view="day" aria-pressed="true">일간</button>
       <button type="button" id="v-week" data-view="week" aria-pressed="false">주간</button>
       <button type="button" id="v-month" data-view="month" aria-pressed="false">월간</button>
     </div>
-    <div class="stepper">
+    <div class="stepper news-only">
       <button class="iconbtn" id="prev" type="button" aria-label="이전"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2"><path d="M10 3 5 8l5 5"/></svg></button>
       <span class="range mono" id="rangeLabel">—</span>
       <button class="iconbtn" id="next" type="button" aria-label="다음"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2"><path d="m6 3 5 5-5 5"/></svg></button>
     </div>
-    <div class="tools">
+    <div class="tools news-only">
       <button class="btn" id="csv" type="button" title="지금 보이는 카드를 CSV로 받기">CSV</button>
     </div>
   </div>
 </header>
 
-<main class="wrap">
+<div class="shell">
+<nav class="side" aria-label="메뉴">
+  <div class="side-h">메뉴</div>
+  <a class="nav-i" href="#news" data-sec="news" aria-current="page"><span class="ic"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.6"><rect x="2" y="2.5" width="12" height="11" rx="2"/><path d="M5 6h6M5 8.5h6M5 11h3.5"/></svg></span><b>데일리 HR 뉴스</b><small>HR실 전체 이슈 브리핑</small></a>
+  <a class="nav-i" href="#trends" data-sec="trends"><span class="ic"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M2 12.5 6 8l3 2.5L14 4"/><path d="M10.5 4H14v3.5"/></svg></span><b>데일리 채용 추이</b><small id="navTrendsSub">빅테크·국내 채용 시장</small></a>
+  <a class="nav-i" href="#weekly" data-sec="weekly"><span class="ic"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.6"><rect x="4.5" y="2" width="9" height="11" rx="1.5"/><path d="M2.5 4.5v8A1.5 1.5 0 0 0 4 14h7"/></svg></span><b>채용 위클리 카드뉴스</b><small id="navWeeklySub">매주 금요일 발행</small></a>
+  <p class="side-foot">채용 추이는 평일 아침, 카드뉴스는 금요일 아침에 자동으로 새로 올라와요.</p>
+</nav>
+<div class="views">
+<main class="wrap" id="view-news">
   <div class="notice" id="sampleNote" hidden><b>샘플 데이터예요.</b> 회사명·기사는 화면 확인용 예시이고, 첫 자동 수집이 끝나면 실제 뉴스로 바뀌어요.</div>
 
   <section class="brief">
@@ -297,6 +435,60 @@ a.pt-title:hover{color:var(--accent);text-decoration:underline;text-underline-of
     </aside>
   </div>
 </main>
+
+<main class="wrap" id="view-trends" hidden>
+  <div class="t-head">
+    <div class="eyebrow"><span>데일리 채용 추이</span><span class="mono" id="tDate"></span></div>
+    <div class="stepper">
+      <button class="iconbtn" id="tPrev" type="button" aria-label="이전 날"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2"><path d="M10 3 5 8l5 5"/></svg></button>
+      <span class="range mono" id="tRange">—</span>
+      <button class="iconbtn" id="tNext" type="button" aria-label="다음 날"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2"><path d="m6 3 5 5-5 5"/></svg></button>
+    </div>
+  </div>
+  <section class="panel t-lead">
+    <h2 id="tHeadline">불러오는 중…</h2>
+    <ul class="t-sum" id="tSummary"></ul>
+  </section>
+  <div class="nums" id="tNums"></div>
+  <div class="grid">
+    <div class="filters">
+      <section class="panel sec"><h3>감원·구조조정 <span class="n" id="tLayN"></span></h3><div class="tscroll" id="tLay"></div></section>
+      <section class="panel sec"><h3>직무 온도</h3><div class="temp" id="tRoles"></div></section>
+      <section class="panel sec"><h3>국내 영향</h3><ul class="krl" id="tKorea"></ul></section>
+      <div class="row" style="margin-top:4px">
+        <label class="lbl">기사</label>
+        <button class="chip" type="button" data-reg="all" aria-pressed="true">전체</button>
+        <button class="chip" type="button" data-reg="global" aria-pressed="false">해외</button>
+        <button class="chip" type="button" data-reg="korea" aria-pressed="false">국내</button>
+      </div>
+      <div class="list" id="tList"></div>
+    </div>
+    <aside class="rail">
+      <div class="panel"><h5>최근 30일 감원 많이 나온 기업</h5><ul class="rank" id="tLayRank"></ul></div>
+      <div class="panel"><h5>일별 감원 소식 수 <span class="mono" style="font-weight:400" id="tSparkNote"></span></h5><svg class="spark" id="tSpark" viewBox="0 0 268 64" preserveAspectRatio="none" aria-hidden="true"></svg></div>
+      <div class="panel"><h5>최근 뜨는 직무</h5><ul class="rank" id="tRoleRank"></ul></div>
+      <p class="foot" id="tFoot"></p>
+    </aside>
+  </div>
+</main>
+
+<main class="wrap" id="view-weekly" hidden>
+  <div class="w-bar">
+    <div class="eyebrow"><span>채용 위클리 카드뉴스</span><span class="mono" id="wRange"></span></div>
+    <div class="w-weeks" id="wWeeks"></div>
+    <button class="btn" type="button" id="wSave">이 카드 이미지로 저장</button>
+    <button class="btn" type="button" id="wLink">링크 복사</button>
+  </div>
+  <div class="w-track" id="wTrack" tabindex="0" aria-label="카드뉴스, 좌우로 넘겨보세요"></div>
+  <div class="w-nav">
+    <button class="iconbtn" type="button" id="wPrev" aria-label="이전 카드"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2"><path d="M10 3 5 8l5 5"/></svg></button>
+    <div class="w-dots" id="wDots" aria-hidden="true"></div>
+    <button class="iconbtn" type="button" id="wNext" aria-label="다음 카드"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2"><path d="m6 3 5 5-5 5"/></svg></button>
+  </div>
+  <p class="w-note" id="wNote">좌우로 스와이프하거나 ← → 키로 넘겨보세요</p>
+</main>
+</div>
+</div>
 
 <script>
 (() => {
@@ -602,6 +794,196 @@ a.pt-title:hover{color:var(--accent);text-decoration:underline;text-underline-of
     $('#headline').textContent = '데이터를 불러오지 못했어요';
     $('#list').innerHTML = `<div class="empty">data.json을 읽지 못했어요 (${esc(err.message)}). 사이트 주소로 접속했는지, web 폴더에 data.json이 있는지 확인해 주세요.</div>`;
   });
+})();
+</script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
+<script>
+// ── 왼쪽 메뉴 · 데일리 채용 추이 · 채용 위클리 카드뉴스 ──
+(() => {
+  const $ = s => document.querySelector(s);
+  const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+  const DOW = ['일','월','화','수','목','금','토'];
+  const s2d = s => { const [y,m,d] = s.split('-').map(Number); return new Date(y, m-1, d); };
+  const fmt = s => { const d = s2d(s); return `${d.getMonth()+1}.${d.getDate()} (${DOW[d.getDay()]})`; };
+  const short = s => { const d = s2d(s); return `${d.getMonth()+1}.${d.getDate()}`; };
+  const SECTIONS = ['news', 'trends', 'weekly'];
+  const loaded = {};
+  const toast = msg => { const t = document.createElement('div'); t.className = 'toast'; t.textContent = msg; document.body.appendChild(t); setTimeout(() => t.remove(), 1800); };
+  const srcLink = arr => { const s = (arr || []).find(x => x.url); return s ? `<a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.name || '출처')} ↗</a>` : ''; };
+
+  // ── 메뉴 전환 (#news / #trends / #weekly) ──
+  function show(sec){
+    if (!SECTIONS.includes(sec)) sec = 'news';
+    document.body.dataset.section = sec;
+    SECTIONS.forEach(x => { $('#view-' + x).hidden = x !== sec; });
+    document.querySelectorAll('.nav-i').forEach(a => { if (a.dataset.sec === sec) a.setAttribute('aria-current', 'page'); else a.removeAttribute('aria-current'); });
+    try { localStorage.setItem('hrr.section', sec); } catch {}
+    if (sec === 'trends' && !loaded.trends) loadTrends();
+    if (sec === 'weekly' && !loaded.weekly) loadWeekly();
+    if (sec === 'weekly') setTimeout(wUpdate, 0);
+  }
+  window.addEventListener('hashchange', () => show(location.hash.slice(1)));
+  let first = location.hash.slice(1);
+  if (!SECTIONS.includes(first)) { try { first = localStorage.getItem('hrr.section') || 'news'; } catch { first = 'news'; } }
+  show(first);
+
+  // ── 데일리 채용 추이 ──
+  let T = [], tIdx = 0, tReg = 'all';
+  function loadTrends(){
+    loaded.trends = true;
+    fetch('trends.json', { cache: 'no-store' }).then(r => { if (!r.ok) throw new Error(r.status); return r.json(); }).then(d => {
+      T = (d.reports || []).slice().sort((a, b) => b.date.localeCompare(a.date));
+      if (!T.length){ $('#tHeadline').textContent = '아직 수집된 채용 추이가 없어요'; return; }
+      $('#tFoot').innerHTML = `마지막 수집 ${esc((d.meta?.updated || '').replace('T', ' '))}<br>미국·한국 Google 뉴스 기사를 AI가 채용 관점으로 정리했어요. 숫자는 출처 기사를 꼭 확인해 주세요.`;
+      renderTrends();
+    }).catch(e => { $('#tHeadline').textContent = '채용 추이를 불러오지 못했어요'; $('#tList').innerHTML = `<div class="empty">trends.json을 읽지 못했어요 (${esc(e.message)}).</div>`; });
+  }
+  function renderTrends(){
+    const r = T[tIdx];
+    $('#tRange').textContent = fmt(r.date);
+    $('#tDate').textContent = r.manual ? '첫 호 · 직접 정리' : `기사 ${r.article_count || 0}건 검토`;
+    $('#tPrev').disabled = tIdx >= T.length - 1; $('#tNext').disabled = tIdx <= 0;
+    $('#tHeadline').textContent = r.headline || '';
+    $('#tSummary').innerHTML = (r.summary || []).map(x => `<li>${esc(x)}</li>`).join('');
+    $('#tNums').innerHTML = (r.numbers || []).map(n => `<div class="panel num ${esc(n.dir)}"><span class="v">${esc(n.value)}</span><span class="l">${esc(n.label)}</span>${srcLink(n.sources)}</div>`).join('');
+    const lay = r.layoffs || [];
+    $('#tLayN').textContent = lay.length ? `${lay.length}건` : '';
+    $('#tLay').innerHTML = lay.length ? `<table class="ltable"><thead><tr><th>기업</th><th>구분</th><th>규모</th><th>내용</th><th></th></tr></thead><tbody>${lay.map(l =>
+      `<tr><td class="co">${esc(l.company)}</td><td><span class="kind${l.kind === '감원' ? '' : ' soft'}">${esc(l.kind)}</span></td>
+       <td class="sz">${esc([l.size, l.pct && (l.pct.startsWith('-') ? l.pct : '-' + l.pct)].filter(Boolean).join(' · ') || '—')}</td>
+       <td>${esc(l.note)}</td><td>${srcLink(l.sources)}</td></tr>`).join('')}</tbody></table>` : '<p class="foot">오늘은 감원 소식이 없어요</p>';
+    const ro = r.roles || {};
+    const li = arr => (arr || []).map(x => `<li>${esc(x.name)}<span>${esc(x.why)}</span></li>`).join('') || '<li><span>오늘은 없어요</span></li>';
+    $('#tRoles').innerHTML = `<div class="col up"><h4>↑ 뜨는 직무</h4><ul>${li(ro.up)}</ul></div><div class="col dn"><h4>↓ 식는 직무</h4><ul>${li(ro.down)}</ul></div>`;
+    $('#tKorea').innerHTML = (r.korea || []).map(k => `<li><b>${esc(k.company)}</b><span>${esc(k.note)}${srcLink(k.sources)}</span></li>`).join('') || '<li><span class="foot">오늘은 국내 소식이 없어요</span></li>';
+    document.querySelectorAll('[data-reg]').forEach(b => b.setAttribute('aria-pressed', String(b.dataset.reg === tReg)));
+    const items = (r.items || []).filter(i => tReg === 'all' || i.region === tReg);
+    $('#tList').innerHTML = items.length ? items.map(it => `<details class="card${it.importance === 'high' ? ' is-high' : ''}">
+      <summary><div class="meta"><span class="reg${it.region === 'korea' ? ' kr' : ''}">${it.region === 'korea' ? '국내' : '해외'}</span>
+        ${it.importance === 'high' ? '<span class="pill high">꼭 볼 이슈</span>' : it.importance === 'mid' ? '<span class="pill mid">챙겨볼 이슈</span>' : ''}
+        <span class="co">${esc(it.company)}</span><span class="dt">${esc(it.date)}</span></div>
+        <h3>${esc(it.title)}</h3><p class="body">${esc(it.body)}</p>
+        <span class="more"><span class="t1">채용 시사점 · 출처 ${(it.sources||[]).length}건</span><span class="t2">접기</span><svg width="12" height="12" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2"><path d="m3 6 5 5 5-5"/></svg></span></summary>
+      <div class="detail">${it.insight ? `<div class="box"><h4>채용 시사점</h4><p>${esc(it.insight)}</p></div>` : ''}
+        ${(it.tags||[]).length ? `<div class="who">${it.tags.map(t => `<span class="tag">#${esc(t)}</span>`).join('')}</div>` : ''}
+        <ul class="srcs">${(it.sources||[]).map(s => `<li><a href="${esc(s.url)}" target="_blank" rel="noopener"><span class="sn">${esc(s.name)}</span><span class="st">${esc(s.title)}</span></a></li>`).join('')}</ul></div>
+    </details>`).join('') : '<div class="empty">이 조건의 기사가 없어요</div>';
+
+    // 오른쪽: 최근 30일 집계
+    const win = T.slice(tIdx, tIdx + 30);
+    const rank = (pairs, el, empty) => {
+      const m = {}; pairs.forEach(k => { if (k) m[k] = (m[k] || 0) + 1; });
+      const top = Object.entries(m).sort((a, b) => b[1] - a[1]).slice(0, 8), mx = top[0]?.[1] || 1;
+      $(el).innerHTML = top.length ? top.map(([k, n]) => `<li><span style="overflow:hidden;text-overflow:ellipsis;white-space:nowrap">${esc(k)}</span><span class="bar"><i style="width:${Math.max(6, n / mx * 60)}px"></i>${n}</span></li>`).join('') : `<li style="color:var(--sub)">${empty}</li>`;
+    };
+    rank(win.flatMap(x => (x.layoffs || []).map(l => l.company)), '#tLayRank', '아직 없어요');
+    rank(win.flatMap(x => (x.roles?.up || []).map(l => l.name)), '#tRoleRank', '아직 없어요');
+    const days = win.slice(0, 20).reverse(), vals = days.map(x => (x.layoffs || []).length);
+    const W = 268, H = 64, mx = Math.max(...vals, 1), bw = W / Math.max(days.length, 12);
+    let svg = [0.5, 1].map(f => `<line x1="0" x2="${W}" y1="${H - (H-6)*f}" y2="${H - (H-6)*f}" stroke="var(--line)" stroke-width="1"/>`).join('');
+    days.forEach((x, i) => { const v = vals[i] * (H-6) / mx; svg += `<rect x="${i*bw + bw*0.18}" y="${H - v}" width="${bw*0.64}" height="${v}" rx="1.5" fill="${x.date === r.date ? 'var(--high)' : 'var(--line2)'}"><title>${x.date} · ${vals[i]}건</title></rect>`; });
+    $('#tSpark').innerHTML = svg;
+    $('#tSparkNote').textContent = `최근 ${days.length}일`;
+  }
+  $('#tPrev').addEventListener('click', () => { if (tIdx < T.length - 1){ tIdx++; renderTrends(); } });
+  $('#tNext').addEventListener('click', () => { if (tIdx > 0){ tIdx--; renderTrends(); } });
+  document.querySelectorAll('[data-reg]').forEach(b => b.addEventListener('click', () => { tReg = b.dataset.reg; if (T.length) renderTrends(); }));
+
+  // ── 채용 위클리 카드뉴스 ──
+  let WEEKS = [], wSel = 0;
+  function loadWeekly(){
+    loaded.weekly = true;
+    fetch('weekly.json', { cache: 'no-store' }).then(r => { if (!r.ok) throw new Error(r.status); return r.json(); }).then(d => {
+      WEEKS = d.weeks || [];
+      if (!WEEKS.length){ $('#wTrack').innerHTML = '<div class="empty" style="flex:1">첫 카드뉴스는 이번 주 금요일에 나와요.</div>'; return; }
+      $('#navWeeklySub').textContent = `최신 ${WEEKS[0].label}`;
+      renderWeekly();
+    }).catch(e => { $('#wTrack').innerHTML = `<div class="empty" style="flex:1">weekly.json을 읽지 못했어요 (${esc(e.message)}).</div>`; });
+  }
+  function weeklyCards(w){
+    const N = 7, head = (t, i) => `<div class="wc-h"><span>${t}</span><span>${i} / ${N}</span></div>`;
+    const hl = esc(w.headline).replace(w.emph ? esc(w.emph) : '\u0000', m => `<em>${m}</em>`);
+    const foot = t => t ? `<div class="wc-f">${esc(t)}</div>` : '<div class="wc-f">커넥트웨이브 HR지원실 채용팀</div>';
+    return [
+      `<article class="wc cover">${head('HR RADAR WEEKLY', 1)}<span class="wk">${s2d(w.start).getFullYear()} · ${esc(w.label)} (${short(w.start)} – ${short(w.end)})</span>
+        <h2>${hl}</h2><p class="lede">${esc(w.lede)}</p><div class="wtags">${(w.tags||[]).map(t => `<span>${esc(t)}</span>`).join('')}</div>
+        <div class="wc-f">커넥트웨이브 HR지원실 채용팀</div></article>`,
+      `<article class="wc">${head('이번 주 숫자 3개', 2)}<h2>숫자로 보는 한 주</h2>
+        ${(w.numbers||[]).map(n => `<div class="wstat"><span class="n ${esc(n.dir)}">${esc(n.value)}</span><span class="w">${esc(n.label)}</span><span class="s">${esc(n.note)}</span></div>`).join('')}${foot(w.numbers_note)}</article>`,
+      `<article class="wc">${head('감원 · 구조조정', 3)}<h2>이번 주 감원한 곳</h2><div class="wrows">
+        ${(w.layoffs||[]).map(l => `<div class="wrow"><b>${esc(l.company)}</b><span class="bd${/^-?\d/.test(l.badge) ? '' : ' neu'}">${esc(l.badge)}</span><span class="d">${esc(l.note)}</span></div>`).join('')}</div>${foot(w.layoffs_note)}</article>`,
+      `<article class="wc">${head('직무 온도', 4)}<h2>뜨는 직무, 식는 직무</h2><div class="wsplit">
+        <div class="col up"><h3>↑ 뜨는 쪽</h3><ul>${(w.roles?.up||[]).map(x => `<li>${esc(x)}</li>`).join('')}</ul></div>
+        <div class="col dn"><h3>↓ 식는 쪽</h3><ul>${(w.roles?.down||[]).map(x => `<li>${esc(x)}</li>`).join('')}</ul></div></div>
+        <p class="lede">${esc(w.roles_note)}</p>${foot('')}</article>`,
+      `<article class="wc">${head('국내 영향', 5)}<h2>국내는 어떻게 움직였나</h2><div class="wkr">
+        ${(w.korea||[]).map(k => `<div><b>${esc(k.company)}</b><span>${esc(k.note)}</span></div>`).join('')}</div>${foot(w.korea_note)}</article>`,
+      `<article class="wc">${head('채용팀 액션', 6)}<h2>그래서 우리는 다음 주</h2><div class="wacts">
+        ${(w.actions||[]).map((a, i) => `<div class="wact"><i>${i+1}</i><div><b>${esc(a.title)}</b><span>${esc(a.detail)}</span></div></div>`).join('')}</div>
+        <div class="wc-f">팀 회의에서 1개만 골라 실행해 봐요</div></article>`,
+      `<article class="wc">${head('출처', 7)}<h2>원문 보기</h2><ul class="wsrc">
+        ${(w.sources||[]).map(s => `<li><a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.name)} · ${esc(s.title)}</a></li>`).join('')}</ul>
+        <div class="wc-f">${w.manual ? '첫 호는 직접 정리했고, 다음 호부터 자동 발행돼요' : '데일리 채용 추이를 묶어 자동으로 만들었어요'}</div></article>`
+    ].join('');
+  }
+  function renderWeekly(){
+    const w = WEEKS[wSel];
+    $('#wWeeks').innerHTML = WEEKS.slice(0, 8).map((x, i) => `<button class="chip" type="button" data-w="${i}" aria-pressed="${i === wSel}">${esc(x.label)}</button>`).join('');
+    $('#wRange').textContent = `${w.start} ~ ${w.end}`;
+    $('#wTrack').innerHTML = weeklyCards(w);
+    $('#wTrack').scrollLeft = 0;
+    $('#wDots').innerHTML = '<i></i>'.repeat(7);
+    wUpdate();
+  }
+  const wCards = () => [...document.querySelectorAll('#wTrack .wc')];
+  function wIdx(){
+    const tr = $('#wTrack'), x = tr.scrollLeft; let best = 0, bd = Infinity;
+    wCards().forEach((c, i) => { const d = Math.abs(c.offsetLeft - tr.offsetLeft - x); if (d < bd){ bd = d; best = i; } });
+    return best;
+  }
+  function wUpdate(){
+    const tr = $('#wTrack'); if (!tr || !wCards().length) return;
+    const i = wIdx(); [...$('#wDots').children].forEach((d, k) => d.className = k === i ? 'on' : '');
+    $('#wPrev').disabled = tr.scrollLeft <= 2; $('#wNext').disabled = tr.scrollLeft >= tr.scrollWidth - tr.clientWidth - 2;
+  }
+  const reduce = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+  function wGo(d){
+    const cs = wCards(); if (!cs.length) return;
+    const i = Math.max(0, Math.min(cs.length - 1, wIdx() + d)), tr = $('#wTrack');
+    tr.scrollTo({ left: cs[i].offsetLeft - tr.offsetLeft, behavior: reduce ? 'auto' : 'smooth' });
+  }
+  $('#wPrev').addEventListener('click', () => wGo(-1));
+  $('#wNext').addEventListener('click', () => wGo(1));
+  $('#wTrack').addEventListener('scroll', () => requestAnimationFrame(wUpdate), { passive: true });
+  window.addEventListener('resize', wUpdate);
+  document.addEventListener('keydown', e => {
+    if (document.body.dataset.section !== 'weekly' || /INPUT|TEXTAREA/.test(document.activeElement?.tagName)) return;
+    if (e.key === 'ArrowRight') wGo(1); else if (e.key === 'ArrowLeft') wGo(-1);
+  });
+  $('#wWeeks').addEventListener('click', e => { const b = e.target.closest('[data-w]'); if (b){ wSel = +b.dataset.w; renderWeekly(); } });
+  $('#wSave').addEventListener('click', async () => {
+    const c = wCards()[wIdx()]; if (!c) return;
+    if (!window.html2canvas){ toast('이미지 저장 도구를 불러오지 못했어요'); return; }
+    try {
+      if (document.fonts?.ready) await document.fonts.ready;
+      const bg = getComputedStyle(c).backgroundColor;
+      const canvas = await html2canvas(c, { scale: 2, backgroundColor: bg, useCORS: true });
+      const a = document.createElement('a');
+      a.href = canvas.toDataURL('image/png');
+      a.download = `채용위클리_${WEEKS[wSel].id}_${wIdx() + 1}.png`;
+      document.body.appendChild(a); a.click(); a.remove();
+      toast('이미지를 저장했어요');
+    } catch (err) { toast('이미지 저장에 실패했어요'); }
+  });
+  $('#wLink').addEventListener('click', () => {
+    const url = location.href.split('#')[0] + '#weekly';
+    (navigator.clipboard ? navigator.clipboard.writeText(url) : Promise.reject()).then(() => toast('카드뉴스 링크를 복사했어요'), () => toast(url));
+  });
+
+  // 메뉴에 최신 날짜 표시 (데이터는 가볍게 미리 읽어요)
+  fetch('trends.json', { cache: 'no-store' }).then(r => r.ok ? r.json() : null).then(d => {
+    const top = (d?.reports || []).map(x => x.date).sort().pop(); if (top) $('#navTrendsSub').textContent = `최신 ${fmt(top)}`;
+  }).catch(() => {});
 })();
 </script>
 </body>

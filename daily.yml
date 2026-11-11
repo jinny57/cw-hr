@@ -2,8 +2,13 @@ name: HR 레이더 데일리 수집
 
 on:
   schedule:
-    - cron: '40 23 * * *'     # 매일(주말·공휴일 포함) 오전 08:40 KST
+    - cron: '40 23 * * 0-4'   # 평일(월~금) 오전 08:40 KST
   workflow_dispatch:           # Actions 탭에서 'Run workflow'로 바로 실행
+    inputs:
+      weekly:
+        description: '채용 위클리 카드뉴스도 지금 만들기 (평소엔 금요일에만 자동)'
+        type: boolean
+        default: false
   push:
     branches: [main]
     paths: ['web/**']          # 화면 파일을 고치면 사이트만 다시 배포
@@ -33,20 +38,46 @@ jobs:
           TZ: Asia/Seoul
           GEMINI_API_KEY:   ${{ secrets.GEMINI_API_KEY }}
           GEMINI_MODEL:     ${{ vars.GEMINI_MODEL }}
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-          CLAUDE_MODEL:     ${{ vars.CLAUDE_MODEL }}
-          DART_API_KEY:     ${{ secrets.DART_API_KEY }}
           MS_TENANT_ID:     ${{ secrets.MS_TENANT_ID }}
           MS_CLIENT_ID:     ${{ secrets.MS_CLIENT_ID }}
           MS_CLIENT_SECRET: ${{ secrets.MS_CLIENT_SECRET }}
           ALERT_EMAIL_TO:   ${{ secrets.ALERT_EMAIL_TO }}
           ALERT_EMAIL_FROM: ${{ secrets.ALERT_EMAIL_FROM }}
         run: python run_report.py
+      - name: 데일리 채용 추이 수집
+        continue-on-error: true    # 실패해도 HR 뉴스 저장은 계속해요
+        env:
+          TZ: Asia/Seoul
+          GEMINI_API_KEY:   ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_MODEL:     ${{ vars.GEMINI_MODEL }}
+          MS_TENANT_ID:     ${{ secrets.MS_TENANT_ID }}
+          MS_CLIENT_ID:     ${{ secrets.MS_CLIENT_ID }}
+          MS_CLIENT_SECRET: ${{ secrets.MS_CLIENT_SECRET }}
+          ALERT_EMAIL_TO:   ${{ secrets.ALERT_EMAIL_TO }}
+          ALERT_EMAIL_FROM: ${{ secrets.ALERT_EMAIL_FROM }}
+        run: python run_trends.py
+      - name: 채용 위클리 카드뉴스 (금요일)
+        continue-on-error: true
+        env:
+          TZ: Asia/Seoul
+          GEMINI_API_KEY:   ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_MODEL:     ${{ vars.GEMINI_MODEL }}
+          MS_TENANT_ID:     ${{ secrets.MS_TENANT_ID }}
+          MS_CLIENT_ID:     ${{ secrets.MS_CLIENT_ID }}
+          MS_CLIENT_SECRET: ${{ secrets.MS_CLIENT_SECRET }}
+          ALERT_EMAIL_TO:   ${{ secrets.ALERT_EMAIL_TO }}
+          ALERT_EMAIL_FROM: ${{ secrets.ALERT_EMAIL_FROM }}
+        run: |
+          if [ "$(TZ=Asia/Seoul date +%u)" = "5" ] || [ "${{ inputs.weekly }}" = "true" ]; then
+            python run_weekly.py
+          else
+            echo "금요일이 아니라 카드뉴스는 건너뛰어요"
+          fi
       - name: 결과 저장
         run: |
           git config user.name  "HR Radar Bot"
           git config user.email "hr-radar-bot@users.noreply.github.com"
-          git add web/data.json reports/
+          git add web/data.json web/trends.json web/weekly.json reports/
           git diff --cached --quiet || git commit -m "📡 HR 레이더 $(TZ=Asia/Seoul date +%F)"
           git push
 

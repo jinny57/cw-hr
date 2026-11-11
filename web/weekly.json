@@ -1,0 +1,192 @@
+{
+ "weeks": [
+  {
+   "id": "2026-W46",
+   "label": "11월 2주차",
+   "start": "2026-11-09",
+   "end": "2026-11-13",
+   "days": [
+    "2026-11-11"
+   ],
+   "manual": true,
+   "headline": "감원은 넓게, AI 채용은 좁고 깊게",
+   "emph": "AI 채용",
+   "lede": "캔바·스퀘어스페이스가 20% 안팎을 줄인 주. 반대편에선 FDE·Applied AI 포지션이 늘고, 국내 기업은 코딩테스트 대신 AI 활용 역량을 보기 시작했어요.",
+   "tags": [
+    "감원",
+    "AI 엔지니어",
+    "신입 채용",
+    "국내 동향"
+   ],
+   "numbers": [
+    {
+     "value": "20.5만",
+     "label": "올해 테크 감원 영향 인원",
+     "note": "TrueUp 누적, 11월 초 기준",
+     "dir": "down"
+    },
+    {
+     "value": "-4.2%",
+     "label": "미국 정보 업종 고용, 1년 전 대비",
+     "note": "미 노동통계국 10월 고용보고서",
+     "dir": "down"
+    },
+    {
+     "value": "13.8배",
+     "label": "국내 FDE 채용 공고 낸 기업 수",
+     "note": "원티드랩, 1~9월 전년 대비",
+     "dir": "up"
+    }
+   ],
+   "numbers_note": "감원 누적치는 집계 기관마다 12만~24만 명으로 차이가 커요",
+   "layoffs": [
+    {
+     "company": "Canva",
+     "badge": "-22%",
+     "note": "1,271명, 제품·그로스·플랫폼 조직 통합"
+    },
+    {
+     "company": "Squarespace",
+     "badge": "-19%",
+     "note": "약 300명, 운영 방식 재정비"
+    },
+    {
+     "company": "Heidi Health",
+     "badge": "-18%",
+     "note": "108명, AI 의료 기록 스타트업"
+    },
+    {
+     "company": "Block",
+     "badge": "2차",
+     "note": "올해 4천 명 감원에 이어 추가 감원"
+    },
+    {
+     "company": "Google",
+     "badge": "자발적 퇴직",
+     "note": "MS·오라클에 이어 퇴직 패키지 제시"
+    },
+    {
+     "company": "ServiceNow",
+     "badge": "추가",
+     "note": "주가 급락 이후 추가 감원"
+    }
+   ],
+   "layoffs_note": "웹빌더·SaaS(캔바, 스퀘어스페이스) 감원이 연달아 나왔어요",
+   "roles": {
+    "up": [
+     "Applied AI · AI 평가(Evals) 엔지니어",
+     "FDE(현장 배치형 AI 엔지니어)",
+     "시니어·스태프급 IC 개발자",
+     "AI 프로덕트 오너 / AI PM"
+    ],
+    "down": [
+     "신입 개발자",
+     "정보·금융 업종 일반 직무",
+     "스타트업 비개발 지원 직무(HR·마케팅·운영)"
+    ]
+   },
+   "roles_note": "AI 채용 상위 기업이 Databricks, Anthropic 같은 제품 회사로 옮겨갔고, 중국 AI 기업은 실리콘밸리 연구자에게 높은 처우를 제시하고 있어요.",
+   "korea": [
+    {
+     "company": "크래프톤",
+     "note": "AI 활용 역량 인재 100명+ 채용연계형 인턴, 자체 AI 역량평가"
+    },
+    {
+     "company": "넥슨",
+     "note": "채용형 인턴 코딩테스트 폐지, AI 활용 역량평가로 대체"
+    },
+    {
+     "company": "무신사",
+     "note": "신입 과제에서 코드와 설계 문서, AI 지시 내용까지 평가"
+    },
+    {
+     "company": "SK하이닉스",
+     "note": "AI 해커톤 본선(11/11), 우수자 서류·필기 면제"
+    },
+    {
+     "company": "원티드",
+     "note": "FDE 채용 급증에 맞춰 직무 전환 아카데미 준비"
+    }
+   ],
+   "korea_note": "신입에게도 'AI 결과물을 검증하는 능력'을 요구해요",
+   "actions": [
+    {
+     "title": "개발 JD에 AI 활용·검증 역량 넣기",
+     "detail": "요건·우대사항에 명시하고, 과제 전형에서 AI 사용 과정을 함께 보는 방식 검토"
+    },
+    {
+     "title": "웹빌더·SaaS 감원 인력 소싱",
+     "detail": "캔바·스퀘어스페이스·윅스 출신 국내 지사·한국계 인재를 커머스 플랫폼 포지션 후보 풀로"
+    },
+    {
+     "title": "AI 시니어 리드타임 재점검",
+     "detail": "글로벌 처우 경쟁이 커지는 구간이라 처우 밴드와 오픈 기간을 여유 있게"
+    }
+   ],
+   "sources": [
+    {
+     "name": "TrueUp",
+     "url": "https://www.trueup.io/layoffs",
+     "title": "Tech Layoffs Tracker 2026",
+     "date": "2026-11-10"
+    },
+    {
+     "name": "InformationWeek",
+     "url": "https://www.informationweek.com/it-staffing-careers/2026-tech-company-layoffs",
+     "title": "2026 tech company layoffs",
+     "date": "2026-11-04"
+    },
+    {
+     "name": "Quartz",
+     "url": "https://qz.com/tech-layoffs-2026-share-of-workforce-yahoo-tech",
+     "title": "25% to 10%: how 18 tech companies cut their 2026 workforces",
+     "date": "2026-11-05"
+    },
+    {
+     "name": "24/7 Wall St.",
+     "url": "https://247wallst.com/investing/2026/11/05/google-joins-the-surge-of-tech-layoffs/",
+     "title": "Google Joins The Surge Of Tech Layoffs",
+     "date": "2026-11-05"
+    },
+    {
+     "name": "FourWeekMBA",
+     "url": "https://fourweekmba.com/ai-payrolls-rose-165000-information-jobs-fell-4-2-in-a-year/",
+     "title": "Payrolls Rose 165,000; Information Jobs Fell 4.2% in a Year",
+     "date": "2026-11-06"
+    },
+    {
+     "name": "DEV Community",
+     "url": "https://dev.to/siftwright_data/whos-hiring-this-week-only-1-in-4-new-tech-jobs-is-remote-and-ai-hiring-shifts-back-to-product-2656",
+     "title": "Who's hiring this week (Nov 2-8, 2026)",
+     "date": "2026-11-09"
+    },
+    {
+     "name": "Rest of World",
+     "url": "https://restofworld.org/2026/chinese-ai-labs-hire-silicon-valley-engineers-openai-anthropic/",
+     "title": "Chinese AI firms want Silicon Valley's top minds",
+     "date": "2026-11-09"
+    },
+    {
+     "name": "한국경제",
+     "url": "https://www.hankyung.com/article/202610264345i",
+     "title": "AI 때문에 일자리 뺏긴다더니…기업들 14배 더 찾은 인재",
+     "date": "2026-10-26"
+    },
+    {
+     "name": "파이낸셜뉴스",
+     "url": "https://www.fnnews.com/news/202611040603585095",
+     "title": "칼바람 속 'AI 인재'만 낚는 게임사들",
+     "date": "2026-11-04"
+    },
+    {
+     "name": "네이트뉴스",
+     "url": "https://m.news.nate.com/view/20261110n00342",
+     "title": "신입 개발자에게도 경력자 수준 AI 능력 요구",
+     "date": "2026-11-10"
+    }
+   ],
+   "engine": "수동 작성(첫 호)",
+   "created": "2026-11-11T11:40"
+  }
+ ]
+}

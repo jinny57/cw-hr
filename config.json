@@ -203,5 +203,46 @@
   ],
   "category_alias": {
     "brand": "market"
+  },
+  "_설명_trends": "'데일리 채용 추이' 메뉴용 검색어예요. global은 미국 Google 뉴스(영어), korea는 한국 Google 뉴스에서 찾아요. {company}는 watch_companies마다 한 번씩 검색해요.",
+  "trends": {
+    "keep_days": 120,
+    "news_per_query": 8,
+    "global": [
+      "tech layoffs",
+      "layoffs AI restructuring employees",
+      "(buyout OR \"voluntary exit\") tech employees",
+      "big tech hiring",
+      "AI engineer hiring demand",
+      "software engineer job postings",
+      "entry-level tech hiring",
+      "(\"hiring freeze\" OR \"slows hiring\") tech",
+      "tech job market report",
+      "\"{company}\" (layoffs OR hiring OR headcount OR jobs)"
+    ],
+    "korea": [
+      "(빅테크 OR 실리콘밸리 OR 미국 IT) (감원 OR 해고 OR 채용)",
+      "AI 인재 (채용 OR 영입) 개발자",
+      "개발자 채용 (신입 OR 경력) AI 역량",
+      "(코딩테스트 OR AI 역량평가 OR AI 면접) 개발자 채용",
+      "(외국계 OR 글로벌) IT 한국지사 (감원 OR 채용 OR 철수)",
+      "(FDE OR AI 엔지니어 OR AI 개발자) 채용 공고"
+    ],
+    "watch_companies": [
+      "Google",
+      "Microsoft",
+      "Amazon",
+      "Meta",
+      "Apple",
+      "Oracle",
+      "Salesforce",
+      "Nvidia",
+      "OpenAI",
+      "Anthropic"
+    ]
+  },
+  "_설명_weekly": "'채용 위클리 카드뉴스'는 매주 금요일 수집 때 그 주 월~금 채용 추이를 묶어 자동으로 만들어요.",
+  "weekly": {
+    "keep_weeks": 52
   }
 }

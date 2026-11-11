@@ -1,0 +1,530 @@
+{
+ "meta": {
+  "updated": "2026-11-11T11:40"
+ },
+ "reports": [
+  {
+   "date": "2026-11-11",
+   "article_count": 0,
+   "engine": "수동 작성(첫 호)",
+   "manual": true,
+   "headline": "웹빌더·SaaS 감원 이어지고, AI 채용은 제품 회사로",
+   "summary": [
+    "캔바(-22%)·스퀘어스페이스(-19%) 등 웹빌더·SaaS 기업 감원이 연달아 나왔어요",
+    "미국 10월 고용은 예상보다 좋았지만 정보 업종 고용은 1년 새 4.2% 줄었어요",
+    "국내는 넥슨·무신사·크래프톤이 AI 활용 역량 중심으로 개발자 평가 방식을 바꾸고 있어요"
+   ],
+   "numbers": [
+    {
+     "value": "20.5만 명",
+     "label": "올해 테크 감원 영향 인원(누적)",
+     "dir": "down",
+     "sources": [
+      {
+       "name": "TrueUp",
+       "url": "https://www.trueup.io/layoffs",
+       "title": "Tech Layoffs Tracker 2026",
+       "date": "2026-11-10"
+      }
+     ]
+    },
+    {
+     "value": "-4.2%",
+     "label": "미국 정보 업종 고용, 1년 전 대비",
+     "dir": "down",
+     "sources": [
+      {
+       "name": "FourWeekMBA",
+       "url": "https://fourweekmba.com/ai-payrolls-rose-165000-information-jobs-fell-4-2-in-a-year/",
+       "title": "Payrolls Rose 165,000; Information Jobs Fell 4.2% in a Year",
+       "date": "2026-11-06"
+      }
+     ]
+    },
+    {
+     "value": "+16.5만",
+     "label": "미국 10월 전체 고용 증가(예상 상회)",
+     "dir": "up",
+     "sources": [
+      {
+       "name": "FourWeekMBA",
+       "url": "https://fourweekmba.com/ai-payrolls-rose-165000-information-jobs-fell-4-2-in-a-year/",
+       "title": "Payrolls Rose 165,000; Information Jobs Fell 4.2% in a Year",
+       "date": "2026-11-06"
+      },
+      {
+       "name": "Reuters (GV Wire)",
+       "url": "https://gvwire.com/2026/11/06/four-things-to-note-from-fridays-us-jobs-report/",
+       "title": "Four Things to Note From Friday's US Jobs Report",
+       "date": "2026-11-06"
+      }
+     ]
+    },
+    {
+     "value": "13.8배",
+     "label": "국내 FDE 채용 공고 낸 기업 수 증가",
+     "dir": "up",
+     "sources": [
+      {
+       "name": "한국경제",
+       "url": "https://www.hankyung.com/article/202610264345i",
+       "title": "AI 때문에 일자리 뺏긴다더니…기업들 14배 더 찾은 인재",
+       "date": "2026-10-26"
+      }
+     ]
+    }
+   ],
+   "layoffs": [
+    {
+     "company": "Canva",
+     "kind": "감원",
+     "size": "1,271명",
+     "pct": "22%",
+     "note": "제품·그로스·플랫폼 조직 통합",
+     "sources": [
+      {
+       "name": "InformationWeek",
+       "url": "https://www.informationweek.com/it-staffing-careers/2026-tech-company-layoffs",
+       "title": "2026 tech company layoffs",
+       "date": "2026-11-04"
+      },
+      {
+       "name": "TrueUp",
+       "url": "https://www.trueup.io/layoffs",
+       "title": "Tech Layoffs Tracker 2026",
+       "date": "2026-11-10"
+      }
+     ]
+    },
+    {
+     "company": "Squarespace",
+     "kind": "감원",
+     "size": "약 300명",
+     "pct": "19%",
+     "note": "운영 방식 재정비",
+     "sources": [
+      {
+       "name": "Quartz",
+       "url": "https://qz.com/tech-layoffs-2026-share-of-workforce-yahoo-tech",
+       "title": "25% to 10%: how 18 tech companies cut their 2026 workforces",
+       "date": "2026-11-05"
+      },
+      {
+       "name": "Yahoo Tech",
+       "url": "https://tech.yahoo.com/general/breaking-news/article/tech-layoffs-tracker-2026-all-the-job-losses-across-canva-squarespace-amazon-microsoft-apple-meta-and-others-141507340.html",
+       "title": "Tech layoffs tracker 2026",
+       "date": "2026-11-10"
+      }
+     ]
+    },
+    {
+     "company": "Heidi Health",
+     "kind": "감원",
+     "size": "108명",
+     "pct": "18%",
+     "note": "AI 의료 기록 스타트업",
+     "sources": [
+      {
+       "name": "TrueUp",
+       "url": "https://www.trueup.io/layoffs",
+       "title": "Tech Layoffs Tracker 2026",
+       "date": "2026-11-10"
+      }
+     ]
+    },
+    {
+     "company": "Block",
+     "kind": "감원",
+     "size": "",
+     "pct": "",
+     "note": "올해 4천 명 감원 이후 2차 감원",
+     "sources": [
+      {
+       "name": "Yahoo Tech",
+       "url": "https://tech.yahoo.com/general/breaking-news/article/tech-layoffs-tracker-2026-all-the-job-losses-across-canva-squarespace-amazon-microsoft-apple-meta-and-others-141507340.html",
+       "title": "Tech layoffs tracker 2026",
+       "date": "2026-11-10"
+      }
+     ]
+    },
+    {
+     "company": "Google",
+     "kind": "자발적 퇴직",
+     "size": "",
+     "pct": "",
+     "note": "MS·오라클에 이어 퇴직 패키지 제시",
+     "sources": [
+      {
+       "name": "24/7 Wall St.",
+       "url": "https://247wallst.com/investing/2026/11/05/google-joins-the-surge-of-tech-layoffs/",
+       "title": "Google Joins The Surge Of Tech Layoffs",
+       "date": "2026-11-05"
+      }
+     ]
+    },
+    {
+     "company": "ServiceNow",
+     "kind": "감원",
+     "size": "",
+     "pct": "",
+     "note": "주가 급락 이후 추가 감원",
+     "sources": [
+      {
+       "name": "TrueUp",
+       "url": "https://www.trueup.io/layoffs",
+       "title": "Tech Layoffs Tracker 2026",
+       "date": "2026-11-10"
+      }
+     ]
+    }
+   ],
+   "hiring": [
+    {
+     "company": "Databricks·Anthropic·ServiceNow",
+     "role": "AI 엔지니어",
+     "note": "이번 주 AI 공고 상위가 제품 회사 중심",
+     "sources": [
+      {
+       "name": "DEV Community",
+       "url": "https://dev.to/siftwright_data/whos-hiring-this-week-only-1-in-4-new-tech-jobs-is-remote-and-ai-hiring-shifts-back-to-product-2656",
+       "title": "Who's hiring this week (Nov 2-8, 2026)",
+       "date": "2026-11-09"
+      }
+     ]
+    },
+    {
+     "company": "MiniMax·Moonshot·ByteDance",
+     "role": "AI 연구자",
+     "note": "실리콘밸리 인재에 높은 처우 제시",
+     "sources": [
+      {
+       "name": "Rest of World",
+       "url": "https://restofworld.org/2026/chinese-ai-labs-hire-silicon-valley-engineers-openai-anthropic/",
+       "title": "Chinese AI firms want Silicon Valley's top minds",
+       "date": "2026-11-09"
+      }
+     ]
+    }
+   ],
+   "roles": {
+    "up": [
+     {
+      "name": "Applied AI·AI 평가 엔지니어",
+      "why": "AI 제품 회사 공고 증가"
+     },
+     {
+      "name": "FDE",
+      "why": "국내 공고 기업 수 13.8배"
+     },
+     {
+      "name": "AI/ML 엔지니어",
+      "why": "스타트업 최고 처우 직군"
+     }
+    ],
+    "down": [
+     {
+      "name": "신입 개발자",
+      "why": "신규 테크 공고 중 비중 매우 낮음"
+     },
+     {
+      "name": "스타트업 비개발 지원 직무",
+      "why": "HR·마케팅·운영 채용 위축"
+     }
+    ]
+   },
+   "korea": [
+    {
+     "company": "크래프톤",
+     "note": "AI 활용 역량 인재 100명+ 채용연계형 인턴, 자체 AI 역량평가",
+     "sources": [
+      {
+       "name": "파이낸셜뉴스",
+       "url": "https://www.fnnews.com/news/202611040603585095",
+       "title": "칼바람 속 'AI 인재'만 낚는 게임사들",
+       "date": "2026-11-04"
+      }
+     ]
+    },
+    {
+     "company": "넥슨",
+     "note": "채용형 인턴 코딩테스트 폐지, AI 활용 역량평가 도입",
+     "sources": [
+      {
+       "name": "파이낸셜뉴스",
+       "url": "https://www.fnnews.com/news/202611040603585095",
+       "title": "칼바람 속 'AI 인재'만 낚는 게임사들",
+       "date": "2026-11-04"
+      },
+      {
+       "name": "네이트뉴스",
+       "url": "https://m.news.nate.com/view/20261110n00342",
+       "title": "신입 개발자에게도 경력자 수준 AI 능력 요구",
+       "date": "2026-11-10"
+      }
+     ]
+    },
+    {
+     "company": "무신사",
+     "note": "신입 개발 과제에서 설계 문서·AI 지시 내용까지 평가",
+     "sources": [
+      {
+       "name": "네이트뉴스",
+       "url": "https://m.news.nate.com/view/20261110n00342",
+       "title": "신입 개발자에게도 경력자 수준 AI 능력 요구",
+       "date": "2026-11-10"
+      }
+     ]
+    },
+    {
+     "company": "SK하이닉스",
+     "note": "AI 해커톤 본선(11/11), 우수자 서류·필기 면제",
+     "sources": [
+      {
+       "name": "SK하이닉스",
+       "url": "https://skhynix-hackathon.com/ai-2026",
+       "title": "SK하이닉스 AI 해커톤 2026",
+       "date": "2026-11-11"
+      }
+     ]
+    },
+    {
+     "company": "제너시스BBQ",
+     "note": "하반기 공채에서 AI·IT 개발 인재 확보, AI 역량검사",
+     "sources": [
+      {
+       "name": "파이낸셜뉴스",
+       "url": "https://www.fnnews.com/news/202611090855366928",
+       "title": "제너시스BBQ 그룹, 하반기 신입·경력 공채 실시",
+       "date": "2026-11-09"
+      }
+     ]
+    }
+   ],
+   "items": [
+    {
+     "id": "t20261111-00",
+     "region": "global",
+     "importance": "high",
+     "company": "Canva",
+     "title": "캔바, 전체 인력 22% 구조조정",
+     "body": "캔바가 1,271명에게 영향을 주는 구조조정을 발표했어요. 제품·그로스·플랫폼 조직을 하나의 제품 조직으로 합치고 일부는 거점 오피스로 재배치해요.",
+     "insight": "디자인·웹빌더 SaaS 출신 제품·그로스 인력이 시장에 나와요. 메이크샵 같은 셀러 솔루션 포지션 소싱 풀로 볼 만해요.",
+     "tags": [
+      "감원",
+      "SaaS",
+      "조직통합"
+     ],
+     "sources": [
+      {
+       "name": "InformationWeek",
+       "url": "https://www.informationweek.com/it-staffing-careers/2026-tech-company-layoffs",
+       "title": "2026 tech company layoffs",
+       "date": "2026-11-04"
+      },
+      {
+       "name": "TrueUp",
+       "url": "https://www.trueup.io/layoffs",
+       "title": "Tech Layoffs Tracker 2026",
+       "date": "2026-11-10"
+      }
+     ],
+     "date": "2026-11-03"
+    },
+    {
+     "id": "t20261111-01",
+     "region": "global",
+     "importance": "high",
+     "company": "Squarespace",
+     "title": "스퀘어스페이스 19% 감원, 웹빌더 업계 연쇄 감원",
+     "body": "스퀘어스페이스가 약 300명(19%)을 줄여요. 앞서 윅스도 약 20% 감원을 발표해 웹사이트 빌더 업계 감원이 이어지고 있어요.",
+     "insight": "쇼핑몰 빌더와 사업 모델이 비슷한 회사들이라, 커머스 플랫폼 경험자를 찾기 좋은 시점이에요.",
+     "tags": [
+      "감원",
+      "웹빌더"
+     ],
+     "sources": [
+      {
+       "name": "Quartz",
+       "url": "https://qz.com/tech-layoffs-2026-share-of-workforce-yahoo-tech",
+       "title": "25% to 10%: how 18 tech companies cut their 2026 workforces",
+       "date": "2026-11-05"
+      },
+      {
+       "name": "Yahoo Tech",
+       "url": "https://tech.yahoo.com/general/breaking-news/article/tech-layoffs-tracker-2026-all-the-job-losses-across-canva-squarespace-amazon-microsoft-apple-meta-and-others-141507340.html",
+       "title": "Tech layoffs tracker 2026",
+       "date": "2026-11-10"
+      }
+     ],
+     "date": "2026-11-05"
+    },
+    {
+     "id": "t20261111-02",
+     "region": "global",
+     "importance": "mid",
+     "company": "Google",
+     "title": "구글도 자발적 퇴직 패키지, 빅테크 퇴직 흐름 확산",
+     "body": "MS·오라클에 이어 구글도 자발적 퇴직 패키지를 제시했다는 보도가 나왔어요. 빅테크의 감원·퇴직이 올해 10만 명을 넘었다는 분석이에요.",
+     "insight": "빅테크 출신 시니어가 국내 지사·외국계로 이동할 가능성이 커져요. 시니어 포지션 다이렉트 소싱 리스트를 업데이트해 보세요.",
+     "tags": [
+      "빅테크",
+      "자발적 퇴직"
+     ],
+     "sources": [
+      {
+       "name": "24/7 Wall St.",
+       "url": "https://247wallst.com/investing/2026/11/05/google-joins-the-surge-of-tech-layoffs/",
+       "title": "Google Joins The Surge Of Tech Layoffs",
+       "date": "2026-11-05"
+      }
+     ],
+     "date": "2026-11-05"
+    },
+    {
+     "id": "t20261111-03",
+     "region": "global",
+     "importance": "mid",
+     "company": "업계 전반",
+     "title": "미국 10월 고용 16.5만 증가, 정보 업종은 감소",
+     "body": "미국 10월 고용이 예상을 크게 웃돌았지만 정보 업종 고용은 1년 전보다 4.2% 줄었어요. AI 노출이 큰 정보·금융 업종이 계속 부진하다는 평가예요.",
+     "insight": "전체 고용 시장은 버티는데 IT 직군만 위축되는 구조예요. 개발 경력직 지원자가 늘 수 있는 구간이에요.",
+     "tags": [
+      "고용지표",
+      "정보업종"
+     ],
+     "sources": [
+      {
+       "name": "FourWeekMBA",
+       "url": "https://fourweekmba.com/ai-payrolls-rose-165000-information-jobs-fell-4-2-in-a-year/",
+       "title": "Payrolls Rose 165,000; Information Jobs Fell 4.2% in a Year",
+       "date": "2026-11-06"
+      },
+      {
+       "name": "Reuters (GV Wire)",
+       "url": "https://gvwire.com/2026/11/06/four-things-to-note-from-fridays-us-jobs-report/",
+       "title": "Four Things to Note From Friday's US Jobs Report",
+       "date": "2026-11-06"
+      }
+     ],
+     "date": "2026-11-06"
+    },
+    {
+     "id": "t20261111-04",
+     "region": "global",
+     "importance": "mid",
+     "company": "업계 전반",
+     "title": "AI 채용, 다시 제품 회사 중심으로",
+     "body": "지난주 AI 공고 상위 기업이 Databricks, Anthropic, ServiceNow 등 제품을 만드는 회사로 옮겨갔어요. 신규 테크 공고 중 원격 근무는 4건 중 1건 수준이에요.",
+     "insight": "AI 엔지니어 경쟁 상대가 국내외 제품 회사로 넓어져요. AI 포지션은 처우 밴드와 리드타임을 여유 있게 잡아 보세요.",
+     "tags": [
+      "AI 엔지니어",
+      "채용 수요"
+     ],
+     "sources": [
+      {
+       "name": "DEV Community",
+       "url": "https://dev.to/siftwright_data/whos-hiring-this-week-only-1-in-4-new-tech-jobs-is-remote-and-ai-hiring-shifts-back-to-product-2656",
+       "title": "Who's hiring this week (Nov 2-8, 2026)",
+       "date": "2026-11-09"
+      }
+     ],
+     "date": "2026-11-09"
+    },
+    {
+     "id": "t20261111-05",
+     "region": "global",
+     "importance": "low",
+     "company": "MiniMax 외",
+     "title": "중국 AI 기업, 실리콘밸리 연구자 영입 경쟁",
+     "body": "MiniMax·Moonshot 등이 미국 사무소를 열고 AI 연구자를 채용하고 있어요. 바이트댄스는 경쟁 오퍼의 1.5배를 제시하기도 한대요.",
+     "insight": "AI 인재 처우 경쟁이 글로벌로 번지고 있어요. 국내 AI 시니어 채용에도 처우 압박이 커질 수 있어요.",
+     "tags": [
+      "AI 인재",
+      "처우"
+     ],
+     "sources": [
+      {
+       "name": "Rest of World",
+       "url": "https://restofworld.org/2026/chinese-ai-labs-hire-silicon-valley-engineers-openai-anthropic/",
+       "title": "Chinese AI firms want Silicon Valley's top minds",
+       "date": "2026-11-09"
+      }
+     ],
+     "date": "2026-11-09"
+    },
+    {
+     "id": "t20261111-06",
+     "region": "korea",
+     "importance": "high",
+     "company": "넥슨·무신사",
+     "title": "신입 개발자 평가, 코딩테스트에서 AI 활용 역량으로",
+     "body": "넥슨은 채용형 인턴에서 코딩테스트를 없애고 AI 활용 역량평가를 도입했어요. 무신사는 신입 과제에서 코드와 함께 설계 문서와 AI 지시 내용까지 평가했어요.",
+     "insight": "우리 개발 전형도 과제에서 AI 사용 과정을 함께 보는 방식을 검토해 볼 만해요.",
+     "tags": [
+      "평가 방식",
+      "신입 개발자"
+     ],
+     "sources": [
+      {
+       "name": "네이트뉴스",
+       "url": "https://m.news.nate.com/view/20261110n00342",
+       "title": "신입 개발자에게도 경력자 수준 AI 능력 요구",
+       "date": "2026-11-10"
+      },
+      {
+       "name": "파이낸셜뉴스",
+       "url": "https://www.fnnews.com/news/202611040603585095",
+       "title": "칼바람 속 'AI 인재'만 낚는 게임사들",
+       "date": "2026-11-04"
+      }
+     ],
+     "date": "2026-11-10"
+    },
+    {
+     "id": "t20261111-07",
+     "region": "korea",
+     "importance": "mid",
+     "company": "크래프톤",
+     "title": "크래프톤, 창사 최대 규모 AI 인재 인턴십",
+     "body": "AI 활용 역량을 갖춘 인재 100명 이상을 채용연계형 인턴으로 뽑아요. 자체 AI 역량평가 도구를 쓰고, 기존 개발·기획 직군에서도 AI 활용 능력을 봐요.",
+     "insight": "주니어 채용을 'AI 시대형 직무'로 다시 설계하는 사례예요. 신입 채용 기획 때 참고해 보세요.",
+     "tags": [
+      "인턴십",
+      "AI 역량"
+     ],
+     "sources": [
+      {
+       "name": "파이낸셜뉴스",
+       "url": "https://www.fnnews.com/news/202611040603585095",
+       "title": "칼바람 속 'AI 인재'만 낚는 게임사들",
+       "date": "2026-11-04"
+      }
+     ],
+     "date": "2026-11-04"
+    },
+    {
+     "id": "t20261111-08",
+     "region": "korea",
+     "importance": "mid",
+     "company": "원티드랩",
+     "title": "FDE 채용 공고 기업 13.8배 증가",
+     "body": "올해 1~9월 FDE(현장 배치형 엔지니어) 채용 공고를 낸 기업이 전년 대비 13.8배, 포지션 수는 14.5배 늘었어요.",
+     "insight": "AI를 실제 업무에 붙이는 엔지니어 수요가 커지고 있어요. 직무 정의가 회사마다 달라 JD를 구체적으로 써야 해요.",
+     "tags": [
+      "FDE",
+      "AI 엔지니어"
+     ],
+     "sources": [
+      {
+       "name": "한국경제",
+       "url": "https://www.hankyung.com/article/202610264345i",
+       "title": "AI 때문에 일자리 뺏긴다더니…기업들 14배 더 찾은 인재",
+       "date": "2026-10-26"
+      }
+     ],
+     "date": "2026-10-26"
+    }
+   ]
+  }
+ ]
+}
