@@ -903,9 +903,12 @@ body:not([data-section="news"]) .news-only{display:none!important}
   function weeklyCards(w){
     const N = 7, head = (t, i) => `<div class="wc-h"><span>${t}</span><span>${i} / ${N}</span></div>`;
     const hl = esc(w.headline).replace(w.emph ? esc(w.emph) : '\u0000', m => `<em>${m}</em>`);
+    const cov = w.coverage || [w.start, w.end];
+    const covTxt = `${short(cov[0])} – ${short(cov[1])} 소식 기준`;
+    const state = w.final === false ? ' · 미리보기' : '';
     const foot = t => t ? `<div class="wc-f">${esc(t)}</div>` : '<div class="wc-f">커넥트웨이브 HR지원실 채용팀</div>';
     return [
-      `<article class="wc cover">${head('HR RADAR WEEKLY', 1)}<span class="wk">${s2d(w.start).getFullYear()} · ${esc(w.label)} (${short(w.start)} – ${short(w.end)})</span>
+      `<article class="wc cover">${head('HR RADAR WEEKLY', 1)}<span class="wk">${s2d(w.start).getFullYear()} · ${esc(w.label)}${state}</span><span class="lede" style="margin-top:-8px">${covTxt}</span>
         <h2>${hl}</h2><p class="lede">${esc(w.lede)}</p><div class="wtags">${(w.tags||[]).map(t => `<span>${esc(t)}</span>`).join('')}</div>
         <div class="wc-f">커넥트웨이브 HR지원실 채용팀</div></article>`,
       `<article class="wc">${head('이번 주 숫자 3개', 2)}<h2>숫자로 보는 한 주</h2>
@@ -923,13 +926,14 @@ body:not([data-section="news"]) .news-only{display:none!important}
         <div class="wc-f">팀 회의에서 1개만 골라 실행해 봐요</div></article>`,
       `<article class="wc">${head('출처', 7)}<h2>원문 보기</h2><ul class="wsrc">
         ${(w.sources||[]).map(s => `<li><a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.name)} · ${esc(s.title)}</a></li>`).join('')}</ul>
-        <div class="wc-f">${w.manual ? '첫 호는 직접 정리했고, 다음 호부터 자동 발행돼요' : '데일리 채용 추이를 묶어 자동으로 만들었어요'}</div></article>`
+        <div class="wc-f">${w.manual ? '첫 호는 11/11까지 소식으로 직접 정리했어요. 11/13 금요일에 자동 확정본으로 바뀌어요' : '데일리 채용 추이를 묶어 자동으로 만들었어요'}</div></article>`
     ].join('');
   }
   function renderWeekly(){
     const w = WEEKS[wSel];
     $('#wWeeks').innerHTML = WEEKS.slice(0, 8).map((x, i) => `<button class="chip" type="button" data-w="${i}" aria-pressed="${i === wSel}">${esc(x.label)}</button>`).join('');
-    $('#wRange').textContent = `${w.start} ~ ${w.end}`;
+    const cov = w.coverage || [w.start, w.end];
+    $('#wRange').textContent = `${cov[0]} ~ ${cov[1]} 소식 기준${w.final === false ? ' · 금요일에 확정돼요' : ''}`;
     $('#wTrack').innerHTML = weeklyCards(w);
     $('#wTrack').scrollLeft = 0;
     $('#wDots').innerHTML = '<i></i>'.repeat(7);

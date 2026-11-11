@@ -114,6 +114,9 @@ def main():
     emph = str(d.get("emph") or "")
     card = {
         **wk, "days": sorted(r["date"] for r in reports),
+        "coverage": [min(r["date"] for r in reports), max(r["date"] for r in reports)],
+        # 금요일(또는 그 이후) 실행이면 확정, 주 중 수동 실행이면 미리보기
+        "final": date.isoformat() >= wk["end"],
         "headline": headline, "emph": emph if emph and emph in headline else "",
         "lede": str(d.get("lede") or ""), "tags": [str(t) for t in (d.get("tags") or [])][:4],
         "numbers": [{k: str(n.get(k) or "") for k in ("value", "label", "note", "dir")}
