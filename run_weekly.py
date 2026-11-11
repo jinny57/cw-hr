@@ -56,22 +56,20 @@ def job_week(wk):
     cur, prev = tot(last, both), tot(first, both)
     ct, pt = sum(cur.values()) or 1, sum(prev.values()) or 1
     compared = first["date"] != last["date"]
-    if not compared:  # 기준 데이터가 하나뿐이면 '최근 7일 새 공고' 분포로 봐요
-        rec = {}
-        for c in last.get("recent7", {}).values():
-            for f, n in c.items():
-                rec[f] = rec.get(f, 0) + n
+    if not compared:  # 비교할 과거 데이터가 없으면 증감은 비워 두고(-%p) 현재 비중 순으로만 보여줘요
+        sa = eq(last, list(last["counts"]))
         allc = tot(last, list(last["counts"]))
-        withrec = list(last.get("recent7", {}))
-        sr, sa = eq(last, withrec, "recent7"), eq(last, withrec)
-        moves = [{"id": f, "name": names.get(f, f), "n": rec.get(f, 0), "pp": round(sr.get(f, 0) - sa.get(f, 0), 1)}
+        moves = [{"id": f, "name": names.get(f, f), "n": allc.get(f, 0), "share": round(sa.get(f, 0), 1), "pp": None}
                  for f in names if f != "other"]
     else:
         sc, sp = eq(last, both), eq(first, both)
         moves = [{"id": f, "name": names.get(f, f), "n": cur.get(f, 0), "d": cur.get(f, 0) - prev.get(f, 0),
                   "pp": round(sc.get(f, 0) - sp.get(f, 0), 1)} for f in names if f != "other"]
-    up = sorted([m for m in moves if m["pp"] > 0], key=lambda m: -m["pp"])[:4]
-    down = sorted([m for m in moves if m["pp"] < 0], key=lambda m: m["pp"])[:4]
+    if compared:
+        up = sorted([m for m in moves if m["pp"] > 0], key=lambda m: -m["pp"])[:4]
+        down = sorted([m for m in moves if m["pp"] < 0], key=lambda m: m["pp"])[:4]
+    else:
+        up, down = sorted(moves, key=lambda m: -m["share"])[:4], []
     new = [x for x in J.get("new_titles", []) if wk["start"] <= x["first"] <= wk["end"]]
     new.sort(key=lambda x: (-len(x["companies"]), -x["n"]))
     ai = []

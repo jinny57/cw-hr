@@ -1048,29 +1048,38 @@ body:not([data-section="news"]) .news-only{display:none!important}
       $('#jMoverNote').textContent = `${fmt(base.date)} 대비 · 공고 비중 변화 기준`;
       $('#jBaseline').hidden = true;
     } else {
-      mode = 'recent';
-      const withRec = ids.filter(id => (today.recent7 || {})[id]);
-      const sr = eqShare(today, withRec, 'recent7'), sa = eqShare(today, withRec);
-      rows = fams.filter(f => f !== 'other').map(f => ({ f, n: rec[f] || 0, d: rec[f] || 0, pp: (sr[f] || 0) - (sa[f] || 0), rel: null }));
-      $('#jMoverNote').textContent = `최근 7일 새로 올라온 공고 ${recTot.toLocaleString('ko-KR')}건 기준`;
+      // 비교할 과거 데이터가 없으면 증감은 -%p로 두고, 현재 비중 순으로만 보여줘요
+      mode = 'none';
+      rows = fams.filter(f => f !== 'other').map(f => ({ f, n: cur[f] || 0, pp: null }));
       const since = J.meta.baseline || today.date;
+      const ready = new Date(s2d(since)); ready.setDate(ready.getDate() + jCmp);
+      $('#jMoverNote').textContent = `증감은 ${ready.getMonth()+1}/${ready.getDate()}부터 표시돼요`;
       $('#jBaseline').hidden = false;
-      $('#jBaseline').innerHTML = `<b>데이터를 쌓는 중이에요.</b> 공고 수집은 ${esc(since)}에 시작했어요. ${jCmp === 7 ? '일주일' : '한 달'}이 쌓이면 '${jCmp === 7 ? '지난주' : '지난달'} 대비' 증감으로 바뀌어요. 그 전까지는 <b>최근 7일 새로 올라온 공고</b>가 전체 공고보다 어떤 직무에 더 몰렸는지로 뜨는 직무를 보여드려요.`;
+      $('#jBaseline').innerHTML = `<b>데이터를 쌓는 중이에요.</b> 공고 수집은 ${esc(since)}에 시작했어요. ${jCmp === 7 ? '일주일' : '한 달'}이 쌓이면 '${jCmp === 7 ? '지난주' : '지난달'} 대비' 증감이 표시되고, 그 전까지는 <b>-%p</b>로 보여드려요.`;
     }
     // 직무별 비중 추이(최근 30일)
     const hist = J.days.slice(0, 30).reverse();
     const shareSeries = f => hist.map(d => eqShare(d, ids)[f] || 0);
     const curShare = eqShare(today, ids);
-    const up = rows.filter(r => r.pp > 0.05).sort((a, b) => b.pp - a.pp).slice(0, 6);
-    const dn = rows.filter(r => r.pp < -0.05).sort((a, b) => a.pp - b.pp).slice(0, 6);
+    if (mode === 'none'){
+      const byShare = rows.slice().sort((a, b) => (curShare[b.f] || 0) - (curShare[a.f] || 0));
+      const half = Math.ceil(byShare.length / 2);
+      const row = r => `<div class="mv"><div><b>${esc(famName(r.f))}</b><small>공고 ${r.n.toLocaleString('ko-KR')}건 · 비중 ${(curShare[r.f] || 0).toFixed(1)}%</small></div>
+        <span></span><span class="dl" style="color:var(--sub)">-%p</span></div>`;
+      $('#jMovers').innerHTML = `<div class="mv-col"><h4>공고 비중 상위 직무</h4>${byShare.slice(0, half).map(row).join('')}</div>
+        <div class="mv-col"><h4>&nbsp;</h4>${byShare.slice(half).map(row).join('')}</div>`;
+      $('#jHeadline').textContent = `지금 빅테크 공고에서 가장 많은 직무는 ${famName(byShare[0].f)}예요`;
+    }
+    const up = mode === 'none' ? [] : rows.filter(r => r.pp > 0.05).sort((a, b) => b.pp - a.pp).slice(0, 6);
+    const dn = mode === 'none' ? [] : rows.filter(r => r.pp < -0.05).sort((a, b) => a.pp - b.pp).slice(0, 6);
     const mvRow = (r, color) => `<div class="mv"><div><b>${esc(famName(r.f))}</b><small>${mode === 'cmp'
         ? `${r.n.toLocaleString('ko-KR')}건 (${r.d >= 0 ? '+' : ''}${r.d.toLocaleString('ko-KR')}${r.rel != null ? `, ${r.rel >= 0 ? '+' : ''}${r.rel.toFixed(0)}%` : ''})`
         : `새 공고 ${r.n.toLocaleString('ko-KR')}건 · 평소 비중 ${(curShare[r.f] || 0).toFixed(1)}%`}</small></div>
       ${spark(shareSeries(r.f), color)}<span class="dl">${r.pp >= 0 ? '+' : ''}${r.pp.toFixed(1)}%p</span></div>`;
-    $('#jMovers').innerHTML = `<div class="mv-col up"><h4>↑ 뜨는 직무</h4>${up.map(r => mvRow(r, 'var(--up)')).join('') || '<p class="foot">뚜렷하게 늘어난 직무가 없어요</p>'}</div>
+    if (mode !== 'none') $('#jMovers').innerHTML = `<div class="mv-col up"><h4>↑ 뜨는 직무</h4>${up.map(r => mvRow(r, 'var(--up)')).join('') || '<p class="foot">뚜렷하게 늘어난 직무가 없어요</p>'}</div>
       <div class="mv-col dn"><h4>↓ 식는 직무</h4>${dn.map(r => mvRow(r, 'var(--high)')).join('') || '<p class="foot">뚜렷하게 줄어든 직무가 없어요</p>'}</div>`;
     const top = up[0], bot = dn[0];
-    $('#jHeadline').textContent = top && bot ? `${famName(top.f)} 비중이 늘고, ${famName(bot.f)} 비중이 줄었어요`
+    if (mode !== 'none') $('#jHeadline').textContent = top && bot ? `${famName(top.f)} 비중이 늘고, ${famName(bot.f)} 비중이 줄었어요`
       : top ? `${famName(top.f)} 공고 비중이 가장 많이 늘었어요` : '직무 비중에 큰 변화가 없어요';
 
     // 새로 등장한 직무명 · 사라진 직무명
@@ -1141,14 +1150,18 @@ body:not([data-section="news"]) .news-only{display:none!important}
     const state = w.final === false ? ' · 미리보기' : '';
     const foot = t => `<div class="wc-f">${esc(t || '커넥트웨이브 HR지원실 채용팀')}</div>`;
     const jw = w.jobs;
-    const pp = v => `${v >= 0 ? '+' : ''}${Number(v).toFixed(1)}%p`;
+    const pp = v => v == null ? '-%p' : `${v >= 0 ? '+' : ''}${Number(v).toFixed(1)}%p`;
     const cards = [];
     const add = (tag, body, cls = '') => cards.push({ tag, body, cls });
     add('HR RADAR WEEKLY', `<span class="wk">${s2d(w.start).getFullYear()} · ${esc(w.label)}${state}</span><span class="lede" style="margin-top:-8px">${covTxt}</span>
       <h2>${hl}</h2><p class="lede">${esc(w.lede)}</p><div class="wtags">${(w.tags||[]).map(t => `<span>${esc(t)}</span>`).join('')}</div>${foot()}`, 'cover');
     add('이번 주 숫자 3개', `<h2>숫자로 보는 한 주</h2>
       ${(w.numbers||[]).map(n => `<div class="wstat"><span class="n ${esc(n.dir)}">${esc(n.value)}</span><span class="w">${esc(n.label)}</span><span class="s">${esc(n.note)}</span></div>`).join('')}${foot(w.numbers_note)}`);
-    if (jw && (jw.up.length || jw.down.length)){
+    if (jw && !jw.compared && jw.up.length){
+      add('빅테크 직무 온도', `<h2>지금 공고가 많은 직무</h2><div class="wsplit">
+        <div class="col"><h3>공고 비중 상위 직무</h3><ul>${jw.up.map(m => `<li><b>${esc(m.name)}</b> <span style="color:var(--muted)">${m.share}%</span> <span class="mono" style="color:var(--sub)">-%p</span></li>`).join('')}</ul></div></div>
+        <p class="lede">비교할 지난주 데이터가 쌓이면 뜨는 직무·식는 직무가 증감(%p)으로 표시돼요.</p>${foot(`${jw.companies}개사 공고 ${Number(jw.total).toLocaleString('ko-KR')}건 기준`)}`);
+    } else if (jw && (jw.up.length || jw.down.length)){
       const li = (m, up) => `<li><b>${esc(m.name)}</b> <span class="mono" style="color:var(${up ? '--up' : '--high'})">${pp(m.pp)}</span>${m.d != null ? ` <span style="color:var(--muted)">(${m.d >= 0 ? '+' : ''}${m.d}건)</span>` : ''}</li>`;
       add('빅테크 직무 온도', `<h2>뜨는 직무, 식는 직무</h2><div class="wsplit">
         <div class="col up"><h3>↑ 공고 비중이 늘어난 직무</h3><ul>${jw.up.map(m => li(m, true)).join('')}</ul></div>
