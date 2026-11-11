@@ -235,6 +235,23 @@ def f_google(src):
     return out
 
 
+def f_msgcs(src):
+    out, pg = [], 1
+    while pg <= 400:
+        d = get("https://gcsservices.careers.microsoft.com/search/api/v1/search",
+                params={"pg": pg, "pgSz": 20, "o": "Recent", "flt": "true"}).json()
+        res = (d.get("operationResult") or {}).get("result") or {}
+        rows = res.get("jobs", [])
+        for j in rows:
+            out.append(job(j["jobId"], j.get("title"), f"https://jobs.careers.microsoft.com/global/en/job/{j['jobId']}",
+                           j.get("postingDate", ""), None, (j.get("properties") or {}).get("profession", "")))
+        pg += 1
+        if not rows or len(out) >= res.get("totalJobs", 0):
+            break
+        time.sleep(0.3)
+    return out
+
+
 def f_tesla(src):
     d = get("https://www.tesla.com/cua-api/apps/careers/state").json()
     return [job(j["id"], j.get("t"), f"https://www.tesla.com/careers/search/job/{j['id']}") for j in d.get("listings", [])]
@@ -246,7 +263,7 @@ def f_meta(src):
 
 FETCH = {"greenhouse": f_greenhouse, "ashby": f_ashby, "lever": f_lever, "workday": f_workday,
          "smartrecruiters": f_smartrecruiters, "eightfold": f_eightfold, "amazon": f_amazon,
-         "uber": f_uber, "apple": f_apple, "google": f_google, "tesla": f_tesla, "meta": f_meta}
+         "uber": f_uber, "msgcs": f_msgcs, "apple": f_apple, "google": f_google, "tesla": f_tesla, "meta": f_meta}
 
 
 # ── 직무 분류 (공고 제목 기준, 위에서부터 먼저 걸리는 직무군) ─────────────────────
@@ -257,6 +274,7 @@ FAMILIES = [
     ("design", "디자인·UX", r"designer|\bux\b|user research|ux research|design (lead|manager|director|systems)|creative director|content design"),
     ("gtm", "영업·마케팅·고객", r"account executive|\bsales\b|business development|partnerships?\b|partner manager|marketing|customer success|"
                          r"solutions? (architect|engineer|consultant)|pre-?sales|account manager|go[- ]to[- ]market|\bgtm\b|"
+                         r"vendor manager|seller|merchandis|category manager|\bbuyer\b|retail|customer solutions|"
                          r"communications|\bbrand\b|community|customer (support|experience)|support (specialist|engineer)|developer relations|devrel|advocate"),
     ("ai_safety", "AI 안전·평가", r"(ai|model|frontier|agi|research) safety|safety research|alignment|interpretab|red[- ]team|\bevals?\b|"
                                r"model evaluation|model behavior|responsible ai|ai policy|safeguards|frontier red"),
@@ -264,7 +282,9 @@ FAMILIES = [
                              r"strategy|chief of staff|\bpolicy\b|government|public affairs|business operations|compliance|investor relations|executive assistant"),
     ("field", "제조·물류·현장", r"technician|warehouse|fulfillment|delivery|driver|production (associate|supervisor|operator)|assembl|operator|machinist|"
                             r"welder|logistics|supply chain|facilities|construction|mechanic|service advisor|area manager|shift|inventory|"
-                            r"material handler|quality inspector|manufacturing (associate|operator)|security officer|custodian"),
+                            r"material handler|quality inspector|manufacturing (associate|operator)|security officer|custodian|"
+                            r"\behs\b|operations (manager|specialist|assistant|supervisor|associate|lead|coordinator)|process assistant|"
+                            r"transportation|mechatronics|robotics tech|flight test|pharm(acy)? tech|loss prevention|site (lead|manager)"),
     ("ai_research", "AI 연구", r"research (scientist|engineer)|(?<!data )(?<!social )scientist|researcher|member of technical staff|\bmts\b"),
     ("applied_ai", "Applied AI·AI 제품 개발", r"applied ai|\bai engineer|\bai (software|product|application|solutions?) engineer|genai|generative ai|\bllm|"
                                     r"agentic|ai agents?|agents? (platform|engineer)|prompt engineer|ai builder|conversational ai"),
@@ -396,8 +416,11 @@ def main():
                 rec[f] = rec.get(f, 0) + 1
             n = norm_title(j["title"])
             if n:
-                s = seen_today.setdefault(n, {"companies": set(), "n": 0, "example": j["title"], "family": f, "url": j["url"]})
+                s = seen_today.setdefault(n, {"companies": set(), "n": 0, "example": j["title"], "family": f, "url": j["url"],
+                                              "fresh_only": True})
                 s["companies"].add(c["name"]); s["n"] += 1
+                if old:
+                    s["fresh_only"] = False
         day["counts"][c["id"]] = counts
         day["ai_title"][c["id"]] = ai_t
         day["early"][c["id"]] = early
@@ -419,13 +442,14 @@ def main():
     for n, s in seen_today.items():
         t = titles.get(n)
         if not t:
-            titles[n] = {"first": "baseline" if baseline else today, "last": today, "days": 1,
+            titles[n] = {"first": "baseline" if baseline or s["fresh_only"] else today, "last": today, "days": 1,
                          "example": s["example"], "family": s["family"]}
         else:
             if t["last"] != today:
                 t["days"] = t.get("days", 1) + 1
             t["last"] = today
             t["example"] = s["example"]
+            t["family"] = s["family"]
     new_titles = [{"norm": n, "example": s["example"], "family": s["family"], "companies": sorted(s["companies"]),
                    "n": s["n"], "first": today, "url": s["url"]}
                   for n, s in seen_today.items() if titles[n]["first"] == today]

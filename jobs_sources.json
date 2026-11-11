@@ -11,7 +11,8 @@
     {"id": "amazon", "name": "Amazon", "group": "bigtech", "sources": [{"type": "amazon"}]},
     {"id": "microsoft", "name": "Microsoft", "group": "bigtech", "sources": [
       {"type": "eightfold", "host": "apply.careers.microsoft.com", "domain": "microsoft.com"},
-      {"type": "eightfold", "host": "jobs.careers.microsoft.com", "domain": "microsoft.com"}]},
+      {"type": "eightfold", "host": "jobs.careers.microsoft.com", "domain": "microsoft.com"},
+      {"type": "msgcs"}]},
     {"id": "google", "name": "Google", "group": "bigtech", "sources": [{"type": "google"}]},
     {"id": "apple", "name": "Apple", "group": "bigtech", "sources": [{"type": "apple"}]},
     {"id": "meta", "name": "Meta", "group": "bigtech", "sources": [{"type": "meta"}]},
@@ -23,6 +24,8 @@
       {"type": "workday", "host": "nvidia.wd5.myworkdayjobs.com", "tenant": "nvidia", "site": "NVIDIAExternalCareerSite"}]},
     {"id": "amd", "name": "AMD", "group": "chip", "sources": [
       {"type": "workday", "host": "amd.wd1.myworkdayjobs.com", "tenant": "amd", "site": "External"},
+      {"type": "workday", "host": "amd.wd1.myworkdayjobs.com", "tenant": "amd", "site": "AMD"},
+      {"type": "workday", "host": "amd.wd1.myworkdayjobs.com", "tenant": "amd", "site": "Careers"},
       {"type": "greenhouse", "slug": "amd"}]},
     {"id": "openai", "name": "OpenAI", "group": "ailab", "sources": [{"type": "ashby", "slug": "openai"}]},
     {"id": "anthropic", "name": "Anthropic", "group": "ailab", "sources": [{"type": "greenhouse", "slug": "anthropic"}]},

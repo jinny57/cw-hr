@@ -202,7 +202,7 @@ a.pt-title:hover{color:var(--accent);text-decoration:underline;text-underline-of
   padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
 .views{min-width:0}
 .side{position:sticky;top:calc(env(safe-area-inset-top,0px) + 66px);align-self:start;padding-top:18px;display:flex;flex-direction:column;gap:4px}
-.side-h{font-size:11px;font-weight:700;letter-spacing:.08em;color:var(--sub);padding:0 10px 6px}
+.side-sep{height:1px;background:var(--line2);margin:8px 10px}
 .nav-i{all:unset;box-sizing:border-box;cursor:pointer;display:grid;grid-template-columns:30px minmax(0,1fr);gap:2px 10px;align-items:center;padding:9px 10px;border-radius:10px;color:var(--muted)}
 .nav-i:hover{background:var(--surf)}
 .nav-i:focus-visible{outline:2px solid var(--accent);outline-offset:1px}
@@ -311,11 +311,64 @@ body:not([data-section="news"]) .news-only{display:none!important}
 .w-note{font-size:12px;color:var(--sub);text-align:center;margin:0}
 .toast{position:fixed;left:50%;bottom:calc(20px + env(safe-area-inset-bottom,0px));transform:translateX(-50%);background:var(--ink);color:var(--surf);padding:8px 14px;border-radius:8px;font-size:12.5px;z-index:50}
 
+
+/* ── 빅테크 직무 추이 ── */
+.j-head{display:flex;flex-wrap:wrap;align-items:flex-end;gap:10px 16px}
+.j-title{margin-right:auto;min-width:0}
+.j-title h2{margin:4px 0 0;font-size:21px;font-weight:700;letter-spacing:-.02em;line-height:1.4;text-wrap:balance}
+.hint{margin:-6px 0 0;font-size:12px;color:var(--sub)}
+.movers{display:grid;grid-template-columns:1fr 1fr;gap:14px}
+.mv-col{display:flex;flex-direction:column;gap:2px;min-width:0}
+.mv-col h4{margin:0 0 6px;font-size:12.5px;font-weight:700}
+.mv-col.up h4{color:var(--up)} .mv-col.dn h4{color:var(--high)}
+.mv{display:grid;grid-template-columns:minmax(0,1fr) 92px 64px;gap:10px;align-items:center;padding:7px 0;border-top:1px solid var(--line)}
+.mv b{font-size:13.5px;display:block;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.mv small{font-size:11.5px;color:var(--muted);font-variant-numeric:tabular-nums}
+.mv svg{width:92px;height:26px;display:block}
+.mv .dl{font-family:var(--mono);font-size:12.5px;text-align:right;font-variant-numeric:tabular-nums}
+.mv-col.up .dl{color:var(--up)} .mv-col.dn .dl{color:var(--high)}
+.jtwo{display:grid;grid-template-columns:1fr 1fr;gap:16px}
+.jtwo>*{min-width:0}
+.tlist{margin:0;padding:0;list-style:none;display:flex;flex-direction:column;max-height:380px;overflow:auto}
+.tlist li{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:2px 10px;padding:8px 0;border-top:1px solid var(--line)}
+.tlist a,.tlist b{font-size:13.5px;font-weight:600;color:var(--ink);text-decoration:none}
+.tlist a:hover{text-decoration:underline}
+.tlist .dt{font-family:var(--mono);font-size:11px;color:var(--sub)}
+.tlist small{grid-column:1/-1;font-size:11.5px;color:var(--muted)}
+.fam{display:inline-block;font-size:11px;font-weight:600;padding:0 6px;border-radius:4px;background:var(--surf2);color:var(--muted);margin-right:4px}
+.fam.ai{background:var(--accent-soft);color:var(--accent)}
+.jtable,.heat{width:100%;border-collapse:collapse;font-size:13px;font-variant-numeric:tabular-nums}
+.jtable th,.heat th{text-align:right;font-size:11px;color:var(--sub);font-weight:600;padding:0 8px 6px;border-bottom:1px solid var(--line);white-space:nowrap}
+.jtable th:first-child,.heat th:first-child{text-align:left;padding-left:0}
+.jtable td{padding:7px 8px;border-bottom:1px solid var(--line);text-align:right;white-space:nowrap}
+.jtable td:first-child{text-align:left;padding-left:0;font-weight:600}
+.jtable tr.fr{cursor:pointer}
+.jtable tr.fr:hover td{background:var(--surf2)}
+.jtable tr.fr:focus-visible{outline:2px solid var(--accent);outline-offset:-2px}
+.jtable .pos{color:var(--up)} .jtable .neg{color:var(--high)} .jtable .zero{color:var(--sub)}
+.jtable .bar{display:inline-block;height:6px;border-radius:3px;background:var(--accent);vertical-align:middle;margin-right:6px;opacity:.75}
+.jtable tr.drawer td{text-align:left;background:var(--surf2);white-space:normal;padding:10px 12px}
+.drawer ul{margin:0;padding:0;list-style:none;display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:4px 16px}
+.drawer li{font-size:12.5px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.drawer li a{color:var(--ink);text-decoration:none} .drawer li a:hover{text-decoration:underline}
+.drawer li span{color:var(--sub);margin-left:6px}
+.heat td{padding:5px 6px;text-align:right;border-bottom:1px solid var(--line);font-size:12px;white-space:nowrap}
+.heat td:first-child{text-align:left;padding-left:0;font-weight:600;font-size:12.5px}
+.heat td.c{position:relative}
+.heat td.c span{position:relative;z-index:1}
+.heat td.c::before{content:"";position:absolute;inset:2px;border-radius:4px;background:var(--accent);opacity:var(--o,0)}
+.heat th.v{writing-mode:vertical-rl;transform:rotate(180deg);text-align:left;height:118px;padding:0 4px 6px;font-weight:600}
+.heat .g td{font-size:11px;color:var(--sub);font-weight:700;padding-top:12px;border-bottom:0}
+.part{display:flex;align-items:center;gap:10px;margin-top:18px;font-size:12px;font-weight:700;color:var(--sub);letter-spacing:.06em}
+.part i{flex:1;height:1px;background:var(--line2)}
+@media (max-width:900px){.movers,.jtwo{grid-template-columns:1fr}}
+
 @media (max-width:900px){
   .shell{grid-template-columns:1fr;gap:0}
   .side{position:static;flex-direction:row;overflow-x:auto;padding-top:12px;gap:6px;scrollbar-width:none}
   .side::-webkit-scrollbar{display:none}
-  .side-h,.side-foot,.nav-i small{display:none}
+  .side-foot,.nav-i small{display:none}
+  .side-sep{width:1px;height:auto;margin:4px 2px;flex:none}
   .nav-i{grid-template-columns:auto auto;flex:none;padding:6px 12px 6px 6px;border:1px solid var(--line);background:var(--surf)}
   .nav-i .ic{grid-row:auto;width:26px;height:26px}
   .temp{grid-template-columns:1fr}
@@ -361,10 +414,10 @@ body:not([data-section="news"]) .news-only{display:none!important}
 </header>
 
 <div class="shell">
-<nav class="side" aria-label="메뉴">
-  <div class="side-h">메뉴</div>
+<nav class="side" aria-label="화면 이동">
   <a class="nav-i" href="#news" data-sec="news" aria-current="page"><span class="ic"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.6"><rect x="2" y="2.5" width="12" height="11" rx="2"/><path d="M5 6h6M5 8.5h6M5 11h3.5"/></svg></span><b>데일리 HR 뉴스</b><small>HR실 전체 이슈 브리핑</small></a>
-  <a class="nav-i" href="#trends" data-sec="trends"><span class="ic"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M2 12.5 6 8l3 2.5L14 4"/><path d="M10.5 4H14v3.5"/></svg></span><b>데일리 채용 추이</b><small id="navTrendsSub">빅테크·국내 채용 시장</small></a>
+  <div class="side-sep" role="separator"></div>
+  <a class="nav-i" href="#trends" data-sec="trends"><span class="ic"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M2 12.5 6 8l3 2.5L14 4"/><path d="M10.5 4H14v3.5"/></svg></span><b>데일리 채용 추이</b><small id="navTrendsSub">빅테크 직무 공고 추이</small></a>
   <a class="nav-i" href="#weekly" data-sec="weekly"><span class="ic"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.6"><rect x="4.5" y="2" width="9" height="11" rx="1.5"/><path d="M2.5 4.5v8A1.5 1.5 0 0 0 4 14h7"/></svg></span><b>채용 위클리 카드뉴스</b><small id="navWeeklySub">매주 월요일 발행</small></a>
   <p class="side-foot">HR 뉴스와 채용 추이는 매일 아침(주말 포함), 카드뉴스는 월요일 아침에 지난주(월~일) 분량으로 올라와요.</p>
 </nav>
@@ -437,8 +490,44 @@ body:not([data-section="news"]) .news-only{display:none!important}
 </main>
 
 <main class="wrap" id="view-trends" hidden>
+  <div class="j-head">
+    <div class="j-title">
+      <div class="eyebrow"><span>빅테크 직무 추이</span><span class="mono" id="jMeta"></span></div>
+      <h2 id="jHeadline">불러오는 중…</h2>
+    </div>
+    <div class="seg" role="group" aria-label="비교 기간">
+      <button type="button" data-cmp="7" aria-pressed="true">지난주 대비</button>
+      <button type="button" data-cmp="30" aria-pressed="false">지난달 대비</button>
+    </div>
+  </div>
+  <div class="row" id="jGroups" aria-label="회사 묶음"></div>
+  <div class="notice" id="jBaseline" hidden></div>
+
+  <section class="panel sec">
+    <h3>뜨는 직무 · 식는 직무 <span class="n" id="jMoverNote"></span></h3>
+    <div class="movers" id="jMovers"></div>
+  </section>
+
+  <div class="jtwo">
+    <section class="panel sec"><h3>새로 등장한 직무명 <span class="n" id="jNewN"></span></h3><p class="hint">최근 30일 사이 처음 보인 공고 제목이에요. 연차·팀 이름은 떼고 비교해요.</p><ul class="tlist" id="jNew"></ul></section>
+    <section class="panel sec"><h3>사라진 직무명 <span class="n" id="jGoneN"></span></h3><p class="hint">5일 이상 꾸준히 보이다가 최근 1~2주 사이 공고가 내려간 직무명이에요.</p><ul class="tlist" id="jGone"></ul></section>
+  </div>
+
+  <section class="panel sec">
+    <h3>직무별 현황 <span class="n" id="jTableNote"></span></h3>
+    <p class="hint">행을 누르면 그 직무의 최근 공고를 볼 수 있어요. '비중'은 회사별 비중의 평균이라 공고가 많은 회사가 좌우하지 않아요. 'AI 요구'는 공고 설명에 AI·LLM·AI 도구 활용을 언급한 비율이에요(설명을 제공하는 회사 기준).</p>
+    <div class="tscroll"><table class="jtable" id="jTable"></table></div>
+  </section>
+
+  <section class="panel sec">
+    <h3>회사별 비교 <span class="n">공고 중 직무 비중</span></h3>
+    <div class="tscroll"><table class="heat" id="jHeat"></table></div>
+    <p class="foot" id="jFail"></p>
+  </section>
+
+  <div class="part"><span>관련 뉴스</span><i></i></div>
   <div class="t-head">
-    <div class="eyebrow"><span>데일리 채용 추이</span><span class="mono" id="tDate"></span></div>
+    <div class="eyebrow"><span>감원·채용 뉴스 요약</span><span class="mono" id="tDate"></span></div>
     <div class="stepper">
       <button class="iconbtn" id="tPrev" type="button" aria-label="이전 날"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2"><path d="M10 3 5 8l5 5"/></svg></button>
       <span class="range mono" id="tRange">—</span>
@@ -819,6 +908,7 @@ body:not([data-section="news"]) .news-only{display:none!important}
     document.querySelectorAll('.nav-i').forEach(a => { if (a.dataset.sec === sec) a.setAttribute('aria-current', 'page'); else a.removeAttribute('aria-current'); });
     try { localStorage.setItem('hrr.section', sec); } catch {}
     if (sec === 'trends' && !loaded.trends) loadTrends();
+    if (sec === 'trends' && !loaded.jobs) loadJobs();
     if (sec === 'weekly' && !loaded.weekly) loadWeekly();
     if (sec === 'weekly') setTimeout(wUpdate, 0);
   }
@@ -889,6 +979,150 @@ body:not([data-section="news"]) .news-only{display:none!important}
   $('#tNext').addEventListener('click', () => { if (tIdx > 0){ tIdx--; renderTrends(); } });
   document.querySelectorAll('[data-reg]').forEach(b => b.addEventListener('click', () => { tReg = b.dataset.reg; if (T.length) renderTrends(); }));
 
+  // ── 빅테크 직무 추이 (채용 공고 기반) ──
+  const AI_FAMS = new Set(['fde', 'ai_safety', 'ai_research', 'applied_ai', 'ml_eng']);
+  let J = null, jCmp = 7, jGroup = 'all', jOpen = null;
+  function loadJobs(){
+    loaded.jobs = true;
+    fetch('jobs.json', { cache: 'no-store' }).then(r => { if (!r.ok) throw new Error(r.status); return r.json(); }).then(d => {
+      J = d; J.days = (d.days || []).slice().sort((a, b) => b.date.localeCompare(a.date));
+      if (!J.days.length) throw new Error('데이터 없음');
+      renderJobs();
+    }).catch(() => {
+      $('#jHeadline').textContent = '첫 공고 수집을 기다리는 중이에요';
+      $('#jMovers').innerHTML = '<div class="empty" style="grid-column:1/-1">아침 수집이 한 번 돌면 회사별 공고 데이터가 채워져요.</div>';
+    });
+  }
+  const jCompanies = () => (J.meta.companies || []).filter(c => jGroup === 'all' || c.group === jGroup).map(c => c.id);
+  function famTotals(day, ids, key = 'counts'){
+    const out = {};
+    ids.forEach(id => { const c = (day[key] || {})[id]; if (c) Object.entries(c).forEach(([f, n]) => out[f] = (out[f] || 0) + n); });
+    return out;
+  }
+  const sum = o => Object.values(o).reduce((a, b) => a + b, 0);
+  // 회사마다 직무 비중을 구한 뒤 평균내요 → 공고가 많은 회사(아마존 등)가 결과를 좌우하지 않아요
+  function eqShare(day, ids, key = 'counts'){
+    const out = {}; let n = 0;
+    ids.forEach(id => { const c = (day[key] || {})[id]; const t = c ? sum(c) : 0; if (!t) return; n++;
+      Object.entries(c).forEach(([f, v]) => out[f] = (out[f] || 0) + v / t * 100); });
+    Object.keys(out).forEach(f => out[f] /= n || 1);
+    return out;
+  }
+  function dayBack(n){
+    const cut = new Date(s2d(J.days[0].date)); cut.setDate(cut.getDate() - n);
+    const iso = `${cut.getFullYear()}-${String(cut.getMonth()+1).padStart(2,'0')}-${String(cut.getDate()).padStart(2,'0')}`;
+    return J.days.find(d => d.date <= iso) || null;
+  }
+  const pct = (a, b) => b ? a / b * 100 : 0;
+  const famName = id => (J.meta.families.find(f => f.id === id) || {}).name || id;
+  const famTag = id => `<span class="fam${AI_FAMS.has(id) ? ' ai' : ''}">${esc(famName(id))}</span>`;
+  function spark(vals, color){
+    if (vals.length < 2) return '<svg viewBox="0 0 92 26"></svg>';
+    const mx = Math.max(...vals), mn = Math.min(...vals), r = mx - mn || 1;
+    const pts = vals.map((v, i) => `${(i / (vals.length - 1) * 88 + 2).toFixed(1)},${(23 - (v - mn) / r * 20).toFixed(1)}`);
+    return `<svg viewBox="0 0 92 26" aria-hidden="true"><polyline points="${pts.join(' ')}" fill="none" stroke="${color}" stroke-width="1.6" stroke-linejoin="round"/><circle cx="${pts.at(-1).split(',')[0]}" cy="${pts.at(-1).split(',')[1]}" r="2.2" fill="${color}"/></svg>`;
+  }
+
+  function renderJobs(){
+    const ids = jCompanies(), today = J.days[0], ok = (J.meta.companies || []).filter(c => c.ok);
+    const fams = J.meta.families.map(f => f.id);
+    const cur = famTotals(today, ids), tot = sum(cur);
+    $('#jMeta').textContent = `${fmt(today.date)} · ${ok.length}개사 공고 ${today.total.toLocaleString('ko-KR')}건`;
+    const groups = [['all', '전체'], ...Object.entries(J.meta.groups || {})];
+    $('#jGroups').innerHTML = '<label class="lbl">회사</label>' + groups.map(([g, n]) =>
+      `<button class="chip" type="button" data-jg="${g}" aria-pressed="${g === jGroup}">${esc(n)}</button>`).join('');
+    document.querySelectorAll('[data-cmp]').forEach(b => b.setAttribute('aria-pressed', String(+b.dataset.cmp === jCmp)));
+
+    // 비교 기준: 7일·30일 전 데이터. 아직 없으면 '최근 7일 새 공고' 분포로 대신 봐요
+    const base = dayBack(jCmp);
+    const prev = base ? famTotals(base, ids.filter(id => (base.counts || {})[id] && (today.counts || {})[id])) : null;
+    const curSame = base ? famTotals(today, ids.filter(id => (base.counts || {})[id] && (today.counts || {})[id])) : null;
+    const rec = famTotals(today, ids, 'recent7'), recTot = sum(rec);
+    let rows, mode;
+    if (prev && sum(prev)){
+      mode = 'cmp';
+      const both = ids.filter(id => (base.counts || {})[id] && (today.counts || {})[id]);
+      const sc = eqShare(today, both), sp = eqShare(base, both);
+      rows = fams.filter(f => f !== 'other').map(f => ({ f, n: curSame[f] || 0, d: (curSame[f] || 0) - (prev[f] || 0),
+        pp: (sc[f] || 0) - (sp[f] || 0), rel: prev[f] ? ((curSame[f] || 0) / prev[f] - 1) * 100 : null }));
+      $('#jMoverNote').textContent = `${fmt(base.date)} 대비 · 공고 비중 변화 기준`;
+      $('#jBaseline').hidden = true;
+    } else {
+      mode = 'recent';
+      const withRec = ids.filter(id => (today.recent7 || {})[id]);
+      const sr = eqShare(today, withRec, 'recent7'), sa = eqShare(today, withRec);
+      rows = fams.filter(f => f !== 'other').map(f => ({ f, n: rec[f] || 0, d: rec[f] || 0, pp: (sr[f] || 0) - (sa[f] || 0), rel: null }));
+      $('#jMoverNote').textContent = `최근 7일 새로 올라온 공고 ${recTot.toLocaleString('ko-KR')}건 기준`;
+      const since = J.meta.baseline || today.date;
+      $('#jBaseline').hidden = false;
+      $('#jBaseline').innerHTML = `<b>데이터를 쌓는 중이에요.</b> 공고 수집은 ${esc(since)}에 시작했어요. ${jCmp === 7 ? '일주일' : '한 달'}이 쌓이면 '${jCmp === 7 ? '지난주' : '지난달'} 대비' 증감으로 바뀌어요. 그 전까지는 <b>최근 7일 새로 올라온 공고</b>가 전체 공고보다 어떤 직무에 더 몰렸는지로 뜨는 직무를 보여드려요.`;
+    }
+    // 직무별 비중 추이(최근 30일)
+    const hist = J.days.slice(0, 30).reverse();
+    const shareSeries = f => hist.map(d => eqShare(d, ids)[f] || 0);
+    const curShare = eqShare(today, ids);
+    const up = rows.filter(r => r.pp > 0.05).sort((a, b) => b.pp - a.pp).slice(0, 6);
+    const dn = rows.filter(r => r.pp < -0.05).sort((a, b) => a.pp - b.pp).slice(0, 6);
+    const mvRow = (r, color) => `<div class="mv"><div><b>${esc(famName(r.f))}</b><small>${mode === 'cmp'
+        ? `${r.n.toLocaleString('ko-KR')}건 (${r.d >= 0 ? '+' : ''}${r.d.toLocaleString('ko-KR')}${r.rel != null ? `, ${r.rel >= 0 ? '+' : ''}${r.rel.toFixed(0)}%` : ''})`
+        : `새 공고 ${r.n.toLocaleString('ko-KR')}건 · 평소 비중 ${(curShare[r.f] || 0).toFixed(1)}%`}</small></div>
+      ${spark(shareSeries(r.f), color)}<span class="dl">${r.pp >= 0 ? '+' : ''}${r.pp.toFixed(1)}%p</span></div>`;
+    $('#jMovers').innerHTML = `<div class="mv-col up"><h4>↑ 뜨는 직무</h4>${up.map(r => mvRow(r, 'var(--up)')).join('') || '<p class="foot">뚜렷하게 늘어난 직무가 없어요</p>'}</div>
+      <div class="mv-col dn"><h4>↓ 식는 직무</h4>${dn.map(r => mvRow(r, 'var(--high)')).join('') || '<p class="foot">뚜렷하게 줄어든 직무가 없어요</p>'}</div>`;
+    const top = up[0], bot = dn[0];
+    $('#jHeadline').textContent = top && bot ? `${famName(top.f)} 비중이 늘고, ${famName(bot.f)} 비중이 줄었어요`
+      : top ? `${famName(top.f)} 공고 비중이 가장 많이 늘었어요` : '직무 비중에 큰 변화가 없어요';
+
+    // 새로 등장한 직무명 · 사라진 직무명
+    const names = new Set(ids.map(id => (J.meta.companies.find(c => c.id === id) || {}).name));
+    const nt = (J.new_titles || []).filter(x => x.companies.some(c => names.has(c)));
+    $('#jNewN').textContent = nt.length ? `${nt.length}개` : '';
+    $('#jNew').innerHTML = nt.slice(0, 80).map(x => `<li>${x.url ? `<a href="${esc(x.url)}" target="_blank" rel="noopener">${esc(x.example)}</a>` : `<b>${esc(x.example)}</b>`}
+      <span class="dt">${short(x.first)}</span><small>${famTag(x.family)}${esc(x.companies.join(', '))} · 공고 ${x.n}건</small></li>`).join('')
+      || `<li><small>${J.meta.baseline === today.date ? '오늘 처음 수집해서 지금 있는 직무명을 기준선으로 기록했어요. 내일부터 새 직무명이 잡혀요.' : '최근 30일 사이 새로 생긴 직무명이 없어요.'}</small></li>`;
+    const gone = J.gone_titles || [];
+    $('#jGoneN').textContent = gone.length ? `${gone.length}개` : '';
+    $('#jGone').innerHTML = gone.slice(0, 60).map(x => `<li><b>${esc(x.example)}</b><span class="dt">~${short(x.last)}</span><small>${famTag(x.family)}${x.days}일 동안 보였어요</small></li>`).join('')
+      || '<li><small>아직 없어요. 2주 정도 데이터가 쌓이면 보이기 시작해요.</small></li>';
+
+    // 직무별 현황 표
+    const b7 = dayBack(7), b30 = dayBack(30);
+    const delta = (b, f) => { if (!b) return '<td class="zero">—</td>'; const p = famTotals(b, ids)[f] || 0, c = cur[f] || 0, d = c - p;
+      return `<td class="${d > 0 ? 'pos' : d < 0 ? 'neg' : 'zero'}">${d > 0 ? '+' : ''}${d.toLocaleString('ko-KR')}</td>`; };
+    const mx = Math.max(...fams.map(f => cur[f] || 0), 1);
+    const order = fams.slice().sort((a, b) => (cur[b] || 0) - (cur[a] || 0));
+    $('#jTableNote').textContent = `${tot.toLocaleString('ko-KR')}건`;
+    $('#jTable').innerHTML = `<thead><tr><th>직무</th><th>공고 수</th><th>비중(회사 평균)</th><th>지난주 대비</th><th>지난달 대비</th><th>AI 요구</th><th>신규 7일</th></tr></thead><tbody>` +
+      order.map(f => { const ad = (today.ai_desc || {})[f] || [0, 0];
+        return `<tr class="fr" tabindex="0" data-fam="${f}"><td>${esc(famName(f))}${AI_FAMS.has(f) ? ' <span class="fam ai">AI</span>' : ''}</td>
+          <td><span class="bar" style="width:${Math.max(2, (cur[f] || 0) / mx * 70)}px"></span>${(cur[f] || 0).toLocaleString('ko-KR')}</td>
+          <td>${(curShare[f] || 0).toFixed(1)}%</td>${delta(b7, f)}${delta(b30, f)}
+          <td>${ad[1] >= 10 ? Math.round(ad[0] / ad[1] * 100) + '%' : '<span class="zero">—</span>'}</td><td>${(rec[f] || 0).toLocaleString('ko-KR')}</td></tr>` +
+          (jOpen === f ? `<tr class="drawer"><td colspan="7"><ul>${((J.samples || {})[f] || []).filter(x => names.has(x.c)).slice(0, 24).map(x =>
+            `<li><a href="${esc(x.u)}" target="_blank" rel="noopener">${esc(x.t)}</a><span>${esc(x.c)}${x.d ? ' · ' + short(x.d) : ''}</span></li>`).join('') || '<li>예시 공고가 없어요</li>'}</ul></td></tr>` : '');
+      }).join('') + '</tbody>';
+
+    // 회사별 비교 (직무 비중 히트맵)
+    const showF = fams.filter(f => f !== 'other');
+    const groupsOrder = Object.keys(J.meta.groups || {});
+    let heat = `<thead><tr><th>회사</th><th>공고</th><th>AI 제목</th><th>신입</th>${showF.map(f => `<th class="v">${esc(famName(f))}</th>`).join('')}</tr></thead><tbody>`;
+    groupsOrder.filter(g => jGroup === 'all' || g === jGroup).forEach(g => {
+      const cs = (J.meta.companies || []).filter(c => c.group === g && c.ok && (today.counts || {})[c.id]);
+      if (!cs.length) return;
+      heat += `<tr class="g"><td colspan="${showF.length + 4}">${esc(J.meta.groups[g])}</td></tr>`;
+      cs.forEach(c => { const cnt = today.counts[c.id], t = sum(cnt) || 1;
+        heat += `<tr><td>${esc(c.name)}</td><td>${t.toLocaleString('ko-KR')}</td><td>${pct(today.ai_title[c.id] || 0, t).toFixed(0)}%</td><td>${pct(today.early[c.id] || 0, t).toFixed(0)}%</td>` +
+          showF.map(f => { const v = pct(cnt[f] || 0, t); return `<td class="c" style="--o:${Math.min(0.85, v / 40).toFixed(2)}" title="${esc(c.name)} · ${esc(famName(f))} ${cnt[f] || 0}건"><span>${v >= 0.5 ? v.toFixed(0) : ''}</span></td>`; }).join('') + '</tr>'; });
+    });
+    $('#jHeat').innerHTML = heat + '</tbody>';
+    const fail = (J.meta.companies || []).filter(c => !c.ok);
+    $('#jFail').innerHTML = fail.length ? `공고를 가져오지 못한 회사: ${fail.map(c => esc(c.name)).join(', ')} — 공개 채용 API가 없거나 접근을 막아 둔 곳이에요.` : '';
+  }
+  document.querySelectorAll('[data-cmp]').forEach(b => b.addEventListener('click', () => { jCmp = +b.dataset.cmp; if (J) renderJobs(); }));
+  $('#jGroups').addEventListener('click', e => { const b = e.target.closest('[data-jg]'); if (b && J){ jGroup = b.dataset.jg; renderJobs(); } });
+  $('#jTable').addEventListener('click', e => { const r = e.target.closest('[data-fam]'); if (r && !e.target.closest('a')){ jOpen = jOpen === r.dataset.fam ? null : r.dataset.fam; renderJobs(); } });
+  $('#jTable').addEventListener('keydown', e => { const r = e.target.closest('[data-fam]'); if (r && (e.key === 'Enter' || e.key === ' ')){ e.preventDefault(); r.click(); } });
+
   // ── 채용 위클리 카드뉴스 ──
   let WEEKS = [], wSel = 0;
   function loadWeekly(){
@@ -901,33 +1135,52 @@ body:not([data-section="news"]) .news-only{display:none!important}
     }).catch(e => { $('#wTrack').innerHTML = `<div class="empty" style="flex:1">weekly.json을 읽지 못했어요 (${esc(e.message)}).</div>`; });
   }
   function weeklyCards(w){
-    const N = 7, head = (t, i) => `<div class="wc-h"><span>${t}</span><span>${i} / ${N}</span></div>`;
     const hl = esc(w.headline).replace(w.emph ? esc(w.emph) : '\u0000', m => `<em>${m}</em>`);
     const cov = w.coverage || [w.start, w.end];
     const covTxt = `${short(cov[0])} – ${short(cov[1])} 소식 기준`;
     const state = w.final === false ? ' · 미리보기' : '';
-    const foot = t => t ? `<div class="wc-f">${esc(t)}</div>` : '<div class="wc-f">커넥트웨이브 HR지원실 채용팀</div>';
-    return [
-      `<article class="wc cover">${head('HR RADAR WEEKLY', 1)}<span class="wk">${s2d(w.start).getFullYear()} · ${esc(w.label)}${state}</span><span class="lede" style="margin-top:-8px">${covTxt}</span>
-        <h2>${hl}</h2><p class="lede">${esc(w.lede)}</p><div class="wtags">${(w.tags||[]).map(t => `<span>${esc(t)}</span>`).join('')}</div>
-        <div class="wc-f">커넥트웨이브 HR지원실 채용팀</div></article>`,
-      `<article class="wc">${head('이번 주 숫자 3개', 2)}<h2>숫자로 보는 한 주</h2>
-        ${(w.numbers||[]).map(n => `<div class="wstat"><span class="n ${esc(n.dir)}">${esc(n.value)}</span><span class="w">${esc(n.label)}</span><span class="s">${esc(n.note)}</span></div>`).join('')}${foot(w.numbers_note)}</article>`,
-      `<article class="wc">${head('감원 · 구조조정', 3)}<h2>이번 주 감원한 곳</h2><div class="wrows">
-        ${(w.layoffs||[]).map(l => `<div class="wrow"><b>${esc(l.company)}</b><span class="bd${/^-?\d/.test(l.badge) ? '' : ' neu'}">${esc(l.badge)}</span><span class="d">${esc(l.note)}</span></div>`).join('')}</div>${foot(w.layoffs_note)}</article>`,
-      `<article class="wc">${head('직무 온도', 4)}<h2>뜨는 직무, 식는 직무</h2><div class="wsplit">
+    const foot = t => `<div class="wc-f">${esc(t || '커넥트웨이브 HR지원실 채용팀')}</div>`;
+    const jw = w.jobs;
+    const pp = v => `${v >= 0 ? '+' : ''}${Number(v).toFixed(1)}%p`;
+    const cards = [];
+    const add = (tag, body, cls = '') => cards.push({ tag, body, cls });
+    add('HR RADAR WEEKLY', `<span class="wk">${s2d(w.start).getFullYear()} · ${esc(w.label)}${state}</span><span class="lede" style="margin-top:-8px">${covTxt}</span>
+      <h2>${hl}</h2><p class="lede">${esc(w.lede)}</p><div class="wtags">${(w.tags||[]).map(t => `<span>${esc(t)}</span>`).join('')}</div>${foot()}`, 'cover');
+    add('이번 주 숫자 3개', `<h2>숫자로 보는 한 주</h2>
+      ${(w.numbers||[]).map(n => `<div class="wstat"><span class="n ${esc(n.dir)}">${esc(n.value)}</span><span class="w">${esc(n.label)}</span><span class="s">${esc(n.note)}</span></div>`).join('')}${foot(w.numbers_note)}`);
+    if (jw && (jw.up.length || jw.down.length)){
+      const li = (m, up) => `<li><b>${esc(m.name)}</b> <span class="mono" style="color:var(${up ? '--up' : '--high'})">${pp(m.pp)}</span>${m.d != null ? ` <span style="color:var(--muted)">(${m.d >= 0 ? '+' : ''}${m.d}건)</span>` : ''}</li>`;
+      add('빅테크 직무 온도', `<h2>뜨는 직무, 식는 직무</h2><div class="wsplit">
+        <div class="col up"><h3>↑ 공고 비중이 늘어난 직무</h3><ul>${jw.up.map(m => li(m, true)).join('')}</ul></div>
+        <div class="col dn"><h3>↓ 공고 비중이 줄어든 직무</h3><ul>${jw.down.map(m => li(m, false)).join('')}</ul></div></div>
+        <p class="lede">${esc(w.roles_note)}</p>${foot(`${jw.companies}개사 공고 ${Number(jw.total).toLocaleString('ko-KR')}건 · ${jw.compared ? `${short(jw.from)} → ${short(jw.to)} 비교` : '최근 7일 새 공고 기준'}`)}`);
+    } else {
+      add('직무 온도', `<h2>뜨는 직무, 식는 직무</h2><div class="wsplit">
         <div class="col up"><h3>↑ 뜨는 쪽</h3><ul>${(w.roles?.up||[]).map(x => `<li>${esc(x)}</li>`).join('')}</ul></div>
         <div class="col dn"><h3>↓ 식는 쪽</h3><ul>${(w.roles?.down||[]).map(x => `<li>${esc(x)}</li>`).join('')}</ul></div></div>
-        <p class="lede">${esc(w.roles_note)}</p>${foot('')}</article>`,
-      `<article class="wc">${head('국내 영향', 5)}<h2>국내는 어떻게 움직였나</h2><div class="wkr">
-        ${(w.korea||[]).map(k => `<div><b>${esc(k.company)}</b><span>${esc(k.note)}</span></div>`).join('')}</div>${foot(w.korea_note)}</article>`,
-      `<article class="wc">${head('채용팀 액션', 6)}<h2>그래서 우리는 다음 주</h2><div class="wacts">
-        ${(w.actions||[]).map((a, i) => `<div class="wact"><i>${i+1}</i><div><b>${esc(a.title)}</b><span>${esc(a.detail)}</span></div></div>`).join('')}</div>
-        <div class="wc-f">팀 회의에서 1개만 골라 실행해 봐요</div></article>`,
-      `<article class="wc">${head('출처', 7)}<h2>원문 보기</h2><ul class="wsrc">
-        ${(w.sources||[]).map(s => `<li><a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.name)} · ${esc(s.title)}</a></li>`).join('')}</ul>
-        <div class="wc-f">${w.manual ? '미리보기는 11/11까지 소식으로 직접 정리했어요. 11/16 월요일에 11.9~11.15 확정본으로 바뀌어요' : '데일리 채용 추이를 묶어 자동으로 만들었어요'}</div></article>`
-    ].join('');
+        <p class="lede">${esc(w.roles_note)}</p>${foot()}`);
+    }
+    if (jw && jw.new_titles?.length){
+      add('새로 등장한 직무명', `<h2>이번 주 처음 보인 직무명</h2><div class="wrows">
+        ${jw.new_titles.map(x => `<div class="wrow"><b>${esc(x.title)}</b><span class="bd neu">${esc(x.family)}</span><span class="d">${esc(x.companies.join(', '))}</span></div>`).join('')}</div>
+        ${foot(w.new_titles_note || `이번 주 새 직무명 ${jw.new_count}개`)}`);
+    }
+    if (jw && jw.ai_creep?.length){
+      add('AI가 스며든 기존 직무', `<h2>기존 직무도 AI를 요구해요</h2>
+        <div class="wstat"><span class="n up">${Number(jw.ai_share).toFixed(1)}%</span><span class="w">AI 전문 직무 공고 비중</span><span class="s">${jw.ai_share_delta != null ? `지난주보다 ${pp(jw.ai_share_delta)}` : 'AI 연구·ML·Applied AI·FDE·AI 안전 합계'}</span></div>
+        <div class="wrows">${jw.ai_creep.map(x => `<div class="wrow"><b>${esc(x.name)}</b><span class="bd neu">${x.rate}%${x.delta != null ? ` (${x.delta >= 0 ? '+' : ''}${x.delta})` : ''}</span><span class="d">공고 설명에 AI·LLM·AI 도구 활용을 언급한 비율</span></div>`).join('')}</div>
+        ${foot(w.ai_note)}`);
+    }
+    if ((w.layoffs||[]).length) add('감원 · 구조조정', `<h2>이번 주 감원한 곳</h2><div class="wrows">
+      ${w.layoffs.map(l => `<div class="wrow"><b>${esc(l.company)}</b><span class="bd${/^-?\d/.test(l.badge) ? '' : ' neu'}">${esc(l.badge)}</span><span class="d">${esc(l.note)}</span></div>`).join('')}</div>${foot(w.layoffs_note)}`);
+    if ((w.korea||[]).length) add('국내 영향', `<h2>국내는 어떻게 움직였나</h2><div class="wkr">
+      ${w.korea.map(k => `<div><b>${esc(k.company)}</b><span>${esc(k.note)}</span></div>`).join('')}</div>${foot(w.korea_note)}`);
+    add('채용팀 액션', `<h2>그래서 우리는 다음 주</h2><div class="wacts">
+      ${(w.actions||[]).map((a, i) => `<div class="wact"><i>${i+1}</i><div><b>${esc(a.title)}</b><span>${esc(a.detail)}</span></div></div>`).join('')}</div>${foot('팀 회의에서 1개만 골라 실행해 봐요')}`);
+    add('출처', `<h2>원문 보기</h2><ul class="wsrc">
+      ${(w.sources||[]).map(s => `<li><a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.name)} · ${esc(s.title)}</a></li>`).join('')}</ul>
+      ${foot(w.manual ? '미리보기는 11/11까지 소식으로 직접 정리했어요. 11/16 월요일에 11.9~11.15 확정본으로 바뀌어요' : '빅테크 공고 데이터와 채용 뉴스를 묶어 자동으로 만들었어요')}`);
+    return cards.map((c, i) => `<article class="wc ${c.cls}"><div class="wc-h"><span>${c.tag}</span><span>${i + 1} / ${cards.length}</span></div>${c.body}</article>`).join('');
   }
   function renderWeekly(){
     const w = WEEKS[wSel];
@@ -936,7 +1189,7 @@ body:not([data-section="news"]) .news-only{display:none!important}
     $('#wRange').textContent = `${cov[0]} ~ ${cov[1]} 소식 기준${w.final === false ? ' · 주가 끝난 뒤 월요일에 확정돼요' : ''}`;
     $('#wTrack').innerHTML = weeklyCards(w);
     $('#wTrack').scrollLeft = 0;
-    $('#wDots').innerHTML = '<i></i>'.repeat(7);
+    $('#wDots').innerHTML = '<i></i>'.repeat(wCards().length);
     wUpdate();
   }
   const wCards = () => [...document.querySelectorAll('#wTrack .wc')];
@@ -984,10 +1237,6 @@ body:not([data-section="news"]) .news-only{display:none!important}
     (navigator.clipboard ? navigator.clipboard.writeText(url) : Promise.reject()).then(() => toast('카드뉴스 링크를 복사했어요'), () => toast(url));
   });
 
-  // 메뉴에 최신 날짜 표시 (데이터는 가볍게 미리 읽어요)
-  fetch('trends.json', { cache: 'no-store' }).then(r => r.ok ? r.json() : null).then(d => {
-    const top = (d?.reports || []).map(x => x.date).sort().pop(); if (top) $('#navTrendsSub').textContent = `최신 ${fmt(top)}`;
-  }).catch(() => {});
 })();
 </script>
 </body>
