@@ -1,0 +1,398 @@
+{
+  "date": "2026-11-13",
+  "article_count": 148,
+  "engine": "없음",
+  "headline": "오늘은 AI 분석이 실패해 기사 제목만 모았어요",
+  "summary": [],
+  "numbers": [],
+  "layoffs": [],
+  "hiring": [],
+  "roles": {
+    "up": [],
+    "down": []
+  },
+  "korea": [],
+  "analysis_error": "HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=240)",
+  "items": [
+    {
+      "id": "t20261113-f00",
+      "region": "global",
+      "importance": "low",
+      "company": "Layoffs.fyi",
+      "title": "AI Layoffs Tracker",
+      "body": "AI Layoffs Tracker Layoffs.fyi",
+      "insight": "",
+      "tags": [],
+      "date": "2026-11-12",
+      "sources": [
+        {
+          "name": "Layoffs.fyi",
+          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5SZnVlV3ZWcFBrLWJzQ3RjRDcwT3JBTlJLWlRLQ29rWmhtSjdnaHpWb1UzemJ2Z2NWbF8teUc5M1cyZmdtZ0E?oc=5",
+          "title": "AI Layoffs Tracker",
+          "date": "2026-11-12"
+        }
+      ]
+    },
+    {
+      "id": "t20261113-f01",
+      "region": "global",
+      "importance": "low",
+      "company": "Los Angeles Times",
+      "title": "Commentary: The meltdown in high-tech and science jobs has happened before, and is sure to happen again",
+      "body": "Commentary: The meltdown in high-tech and science jobs has happened before, and is sure to happen again Los Angeles Times",
+      "insight": "",
+      "tags": [],
+      "date": "2026-11-12",
+      "sources": [
+        {
+          "name": "Los Angeles Times",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSjRIWXRfazJjX3RVM0lIYmU1N2RfTnZyMkpOR3R1N1RyamZ1amVDdzczSEo0QnRxSDdMbkc3N3BPcURlSERLemh0RVFzMlFIRmF4Zi1Vd1g0QzgtQ2R3SHlFYm51QVY5SFp6SHVrc1ROV1JWZUhucThqS1RtZ2x0YmZlS3ppMjQ2WV90eHBTck5GOEVfUkpuREZwVHg1cmJ4TGlmeDlmTEVpalNqNGF3OURfaURyUV9oNjhTWE9TYjNKazA?oc=5",
+          "title": "Commentary: The meltdown in high-tech and science jobs has happened before, and is sure to happen again",
+          "date": "2026-11-12"
+        }
+      ]
+    },
+    {
+      "id": "t20261113-f02",
+      "region": "global",
+      "importance": "low",
+      "company": "CTech",
+      "title": "Marvell lays off dozens in Israel as chipmaker adjusts engineering workforce",
+      "body": "Marvell lays off dozens in Israel as chipmaker adjusts engineering workforce CTech",
+      "insight": "",
+      "tags": [],
+      "date": "2026-11-12",
+      "sources": [
+        {
+          "name": "CTech",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4yNVZnblpwZXloYThDeTlMcF8zZzFmN3dON1F5TkwyUV9BQzk3a2pmam1TcHJEbVdxMnVEUnpQY2lnNVZqRVpJQ3Z2VUdSYkx5OEk0c2ZBa1pIM1VIbFNEdXZEYi1XYlU?oc=5",
+          "title": "Marvell lays off dozens in Israel as chipmaker adjusts engineering workforce",
+          "date": "2026-11-12"
+        }
+      ]
+    },
+    {
+      "id": "t20261113-f03",
+      "region": "global",
+      "importance": "low",
+      "company": "36Kr",
+      "title": "Are the massive layoffs at large corporations really caused by AI taking jobs away from humans?",
+      "body": "Are the massive layoffs at large corporations really caused by AI taking jobs away from humans? 36Kr",
+      "insight": "",
+      "tags": [],
+      "date": "2026-11-12",
+      "sources": [
+        {
+          "name": "36Kr",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ydF9fZG8waUdYSjd1dTZjVktscGJ3MFZwUEI3MmUtSmkzNDBoVnFva0ZLV1V5dW1RVXpjczI3dlEzaEE5RHNtaDNCMVFjQ2NIMlo4?oc=5",
+          "title": "Are the massive layoffs at large corporations really caused by AI taking jobs away from humans?",
+          "date": "2026-11-12"
+        }
+      ]
+    },
+    {
+      "id": "t20261113-f04",
+      "region": "global",
+      "importance": "low",
+      "company": "Los Angeles Times",
+      "title": "Cancer institute backed by Larry Ellison plans major layoffs in Los Angeles",
+      "body": "Cancer institute backed by Larry Ellison plans major layoffs in Los Angeles Los Angeles Times",
+      "insight": "",
+      "tags": [],
+      "date": "2026-11-12",
+      "sources": [
+        {
+          "name": "Los Angeles Times",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZDl3UnFIRm5jYU02ZGs0d3VUMXJZemt2bU9mRFNjLWdLS0xFNVcyOEotRmxqNzlOdkM2SnBMNHd0MUJJcDJ6UmRUbkkxX21WUEc2aW9QNVJNS1ptVmFqMTREN1pFUEtOb0ZUZGU1WTdiRk1ZYjhNWW1hQTZyVU54RzNMclZUaUFNb3J6M0g3MnN0SGJsb1dlajdjWkFyUmVQYXR6a0k2eEN2TU0xZzlLRVh6S1dySTgxNlF6a3k3dTJiYXc?oc=5",
+          "title": "Cancer institute backed by Larry Ellison plans major layoffs in Los Angeles",
+          "date": "2026-11-12"
+        }
+      ]
+    },
+    {
+      "id": "t20261113-f05",
+      "region": "global",
+      "importance": "low",
+      "company": "The Times of India",
+      "title": "‘LinkedIn Premium subscriptions, MacBooks and more’: Canva CEO offers ‘different’ support package after a",
+      "body": "‘LinkedIn Premium subscriptions, MacBooks and more’: Canva CEO offers ‘different’ support package after a The Times of India",
+      "insight": "",
+      "tags": [],
+      "date": "2026-11-12",
+      "sources": [
+        {
+          "name": "The Times of India",
+          "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNUTZuYU9pb3NVak5CZDZYdDRZNV9WUHM3TkxRc0diVlNqZDFIZGlleUxCVmFPS0tYMFpxWk85SS0zSzNlMWlBVWpzLUJHYnMzbTNLX0ljWXRPOC1ib0E1SlJOeXZYWS1wSHpzZTVjdTVjeTZfRHkyY21pZ1RGWXprMjVsTFVuaG5JaVB0TWRwazZwVEp2TUtwZl9raEduMU5tM09SVWplVUFqYmk2R09tOEMxT0dRTDZodVlwTzRTNUR5SmVNMGdUVmtJcnZkZjE4Qks4YnVlbFF1eXplcm04MHV6dTRpRFRwU2dVaWVTQWVzNjZyOVF5dWdtZktjcjU3TVVKRk54YnNnMnFWM1NvOE5mdHl5RWJwQkpoV3FtZXhGU1Zlb2tUYnZTVnVRTWfSAbQCQVVfeXFMTUI4RjRRZjJPSzNGaWxtVU9GYXRoMkpydWpmTy11VHlJNWNiSWJlVXdtUDUxVmlzWDZSLU5WZk5yYzUwc1RJeHFBazZzQTRfdjdwVkhBcWVtNEZBdnpJM2N1VF95U01aN1J5OUlPM1hZQVIwM2FzWGNtZ0dqamdtMktIdzllcXVscjFCWXItNTZCNGJmXzQ3RXhOcGgwYTlCYmxoLURvSzJKeTVLbmtsWmNOZU5BM0RCbkVSZDFwelRVYWJoV0R0RElJYkVQcS13RTZnT0phWk1BcVdRZWM5UWVTbGpocktTbHlSYWEtaDZNbjJsMGxPZ0hIWlp1Sm1vblVJWjVwYV8zdjhjR2thZ05xc2JPMkZUT3VIbmVHcnVJTDd0U1pRaWhVUThYZFF4Snd6LVo?oc=5",
+          "title": "‘LinkedIn Premium subscriptions, MacBooks and more’: Canva CEO offers ‘different’ support package after a",
+          "date": "2026-11-12"
+        }
+      ]
+    },
+    {
+      "id": "t20261113-f06",
+      "region": "global",
+      "importance": "low",
+      "company": "https://internationalfinance.com/",
+      "title": "Qualcomm Layoffs: Chipmaker plans thousands of job cuts, up to 1,000 roles at risk in India",
+      "body": "Qualcomm Layoffs: Chipmaker plans thousands of job cuts, up to 1,000 roles at risk in India https://internationalfinance.com/",
+      "insight": "",
+      "tags": [],
+      "date": "2026-11-12",
+      "sources": [
+        {
+          "name": "https://internationalfinance.com/",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQOXM3X19mWmVicU5FUGZtMHpvVlFPVk92UmstUG5wQnlDcEJId1dWRG1LMXdmSWFReTV1bmcwUWhmMDZkTVZRMUdRUGlxckNlNVIwS2RBcXZIamlJaS1ORm9uVlpCd1hSRFdEUmd2MVZJYkpWcVRFeDRYNjVQY3JTZ2ozU1NJM3VGMEs2LWNWZUVYUWdlM0pIN3lGWlVEUG90TTBEMzZrUXNjY2hrYVNZYy1LbVV4UjNORHZOTHM3YjZLVF9Lb0s1Y1pMMmNWQQ?oc=5",
+          "title": "Qualcomm Layoffs: Chipmaker plans thousands of job cuts, up to 1,000 roles at risk in India",
+          "date": "2026-11-12"
+        }
+      ]
+    },
+    {
+      "id": "t20261113-f07",
+      "region": "global",
+      "importance": "low",
+      "company": "富途牛牛",
+      "title": "Tencent's \"50% layoffs\" is a rumor, but the employment paradigm in the AI era is indeed shifting.",
+      "body": "Tencent's \"50% layoffs\" is a rumor, but the employment paradigm in the AI era is indeed shifting. 富途牛牛",
+      "insight": "",
+      "tags": [],
+      "date": "2026-11-12",
+      "sources": [
+        {
+          "name": "富途牛牛",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYnd0amtBTEpaOUFaQ2lqeXQ3Q1JZbENMLS1BdDF0MlRTdTFaX2dhaUJnaS12MFppRXZEanVNMjg3cXRqSnlpV3VsSy1pbW1lRTVKSkl1Zlh5dEFBTERFRnNaMUROWW04RTJqR1NZbnlvN3JTR0Y1dHBJWjhNN2xVVXNYeEtfOUF6NVhqMjhjT2wwdEs1TXFTcA?oc=5",
+          "title": "Tencent's \"50% layoffs\" is a rumor, but the employment paradigm in the AI era is indeed shifting.",
+          "date": "2026-11-12"
+        }
+      ]
+    },
+    {
+      "id": "t20261113-f08",
+      "region": "global",
+      "importance": "low",
+      "company": "Anadolu Ajansı",
+      "title": "Asia's labor market faces job cuts as AI, economic pressures reshape work",
+      "body": "Asia's labor market faces job cuts as AI, economic pressures reshape work Anadolu Ajansı",
+      "insight": "",
+      "tags": [],
+      "date": "2026-11-12",
+      "sources": [
+        {
+          "name": "Anadolu Ajansı",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZU9rTzN6ZGJIVVB6dm5fY3VFVnlndWcyQUdnbE9XQWZlZUpPbTRDWmI1M3kxdURMVzNqclNwRDVlUkR1dTdQd081S2g2SkpmYWR5OGtxS2UySGFMWTl1ejFGNVdOWi0xTWNXRXVEaDI1M2lKUVcySnY4T0tKMlBXb01PX0J6bkJpNUxCZ0gtbGNlcktOeWpjLTJYR2NnMUZna3lhcTVac004VzV5aFdZNEl3?oc=5",
+          "title": "Asia's labor market faces job cuts as AI, economic pressures reshape work",
+          "date": "2026-11-12"
+        }
+      ]
+    },
+    {
+      "id": "t20261113-f09",
+      "region": "global",
+      "importance": "low",
+      "company": "The Times of India",
+      "title": "Qualcomm layoffs 1,500 employees in India amid restructuring",
+      "body": "Qualcomm layoffs 1,500 employees in India amid restructuring The Times of India",
+      "insight": "",
+      "tags": [],
+      "date": "2026-11-12",
+      "sources": [
+        {
+          "name": "The Times of India",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPZmtjVTFRV3l5OGxLcFJkNnE2Qmk0dl9LYzlxXzd3TER5eGhaWU1KT2VsNWJFQV9qQU1xaWFnaXFTUnVWUGZORlVTTkRVNHRTbGlLWGlsNGg1ZTN1cXAxM1NLbDNCeHFmVXZBQWlPYlNPWTRPbGFpRkJjTXI2cldvWHRqUm5FNWxBOTRVak55UWpOelc2aHh0N0FZVkJrdjFuX1lUMG1MZjZQdHI0cklhOGYzbXVQSzdlOGZuOEt4Wm5HZjBwU2p1eDczdlJqZ1BBLU5GN3JOUk5FQzk5blHSAeMBQVVfeXFMUFdiRVhEdV9TVFJ2TDRBN1JuOXpSU2I4WTFkY0QtYy1wVzhVdGFPaU1UTmM1bzQ3YXRXaWlrV1lSRUl2U2hfb2QwX1VFM0FETmlQQTZ5LUhFUW9qeUNJcWtWRnQ5NDNIQ2VMTnFldmRjZWtmWW5ZLXBsdDIwWW1HdVY0QkQxT2VvMWZHeDVORklxMFYyWWNORGhpc19yRXZobVVfZXJlOE5yYXNuZFZKcFRERzNCOURvMmtxUmRlUXloR09KYjF0QkpFb3BVQzBJTE83ZDFkc1djMHVsbUk4d2FTVmc?oc=5",
+          "title": "Qualcomm layoffs 1,500 employees in India amid restructuring",
+          "date": "2026-11-12"
+        }
+      ]
+    },
+    {
+      "id": "t20261113-f10",
+      "region": "global",
+      "importance": "low",
+      "company": "BBN Times",
+      "title": "AI Job Cuts in 2026: Which Companies Are Replacing Workers With AI?",
+      "body": "AI Job Cuts in 2026: Which Companies Are Replacing Workers With AI? BBN Times",
+      "insight": "",
+      "tags": [],
+      "date": "2026-11-12",
+      "sources": [
+        {
+          "name": "BBN Times",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9fT0JYWXo0UzBnRHVfVEtSS3ZmaGNCWmJYWEZfT3EzQ2U5NzlTejNVOXVWUndqM2U3SjZhbFVtQWRoZWxUQUdWUjA1V3JPcGhjYXo2Zk80VmxDbm9SdUxMd3pn?oc=5",
+          "title": "AI Job Cuts in 2026: Which Companies Are Replacing Workers With AI?",
+          "date": "2026-11-12"
+        }
+      ]
+    },
+    {
+      "id": "t20261113-f11",
+      "region": "global",
+      "importance": "low",
+      "company": "Chosunbiz",
+      "title": "Australian firms face backlash over layoffs amid alleged AI washing",
+      "body": "Australian firms face backlash over layoffs amid alleged AI washing Chosunbiz",
+      "insight": "",
+      "tags": [],
+      "date": "2026-11-12",
+      "sources": [
+        {
+          "name": "Chosunbiz",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZ3RCeFMxOXZlU1pBYjlrb0lmeENtYXNxVThaMnYtNGE5Vk1VVVNkT245SzNQTXZjdkpmM2gzUmJmNnpXRW13bGhFdTQwM3hrRXIzbE0zYkpPNllEckRTdnQwM21RUlBsTkJKVDY5ZDZSd1JGQkxWdmRGckFkNXV3QnBxVTREeFg20gGcAUFVX3lxTE83OWo3Z2lvdk5peGNUaXF6VXMwM2FkNHJfa1o2MHJvaUJoZWhCRWxQcGg5Y3cweGtIUm9FWUVMa0JpVGMyUHpFaDFPa1FhZllsVDh4anRGRTE2T21vTElDNzFOZHJObUd5MUtGcDlNa1B4c1VBcHJrc0RQcXZFTnRqZ2J3Mk1wR3Q0NTB3Vkl2QlZrUnpzRzVnRzlDTw?oc=5",
+          "title": "Australian firms face backlash over layoffs amid alleged AI washing",
+          "date": "2026-11-12"
+        }
+      ]
+    },
+    {
+      "id": "t20261113-f12",
+      "region": "global",
+      "importance": "low",
+      "company": "TechGig",
+      "title": "Qualcomm begins India layoffs, 1,000 jobs at risk",
+      "body": "Qualcomm begins India layoffs, 1,000 jobs at risk TechGig",
+      "insight": "",
+      "tags": [],
+      "date": "2026-11-12",
+      "sources": [
+        {
+          "name": "TechGig",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYnVQbkVzeFpnNl9sQVpiMGp1U3duTk5Hc1lwTkhiVUxzb09iT2xvQTVoTlFnNWFnS1JuMWZxX25tNmRiNS1lanJJYXRSd3VERHFydjBLb0VESHFCRnpwRnR2eUxjUjZTZ0JPWDNRN2hjWnNOeFdpakpzeGxmTC04QW1LXzA5c1BNOFU0a0UyWHRyLTR1TWo0NVMtQQ?oc=5",
+          "title": "Qualcomm begins India layoffs, 1,000 jobs at risk",
+          "date": "2026-11-12"
+        }
+      ]
+    },
+    {
+      "id": "t20261113-f13",
+      "region": "global",
+      "importance": "low",
+      "company": "WTVB",
+      "title": "Australian companies face ‘AI washing’ claims after wave of job cuts, offshoring",
+      "body": "Australian companies face ‘AI washing’ claims after wave of job cuts, offshoring WTVB",
+      "insight": "",
+      "tags": [],
+      "date": "2026-11-12",
+      "sources": [
+        {
+          "name": "WTVB",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVFBVcUVRN3owUzZnSTVmOW5DNjVYMjl5REpsSEIzRktmODg3UEVYY2paUm5NVndFTk91UWdVa25qd1BvaFRiM09Na0lLNVlDZE1pM1hsT1BGd2tlLVN5amV0dVh1ZmRETksxc2VCejU3eHNUVEdNekhYeWZFenBfVjZwbnFjdVpOLU9sUExMcGJmaW9PYlZxUU4xYkRIXzhEa1BmQ3ptbW1yMlA3?oc=5",
+          "title": "Australian companies face ‘AI washing’ claims after wave of job cuts, offshoring",
+          "date": "2026-11-12"
+        }
+      ]
+    },
+    {
+      "id": "t20261113-f14",
+      "region": "global",
+      "importance": "low",
+      "company": "Anadolu Ajansı",
+      "title": "New wave of layoffs hits Europe as trade pressures, automation reshape industries",
+      "body": "New wave of layoffs hits Europe as trade pressures, automation reshape industries Anadolu Ajansı",
+      "insight": "",
+      "tags": [],
+      "date": "2026-11-12",
+      "sources": [
+        {
+          "name": "Anadolu Ajansı",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPa0E0V25lRTFPRkZseEhIdlNIb1VHNnE5LXNpOGtkMFllNjVoVG1mZDFrdVI3ZVcxcXdGWmJMMkxpOExTYzdHYm5VV0l0V20tMm5VTUhTejZ5SFFLVWVRcDUyNXlLM0Q0M1lWeFB3QTBVT2pxMngyYWhCTUk1b0UtNGs4ZS1wYVlsRW9zVzQ2bTN6S2RQRWo2b3JGV1dPREhoWlZUV1lFdmtvWWlmR0pCT19jRnJsWnMtRUZILTRB?oc=5",
+          "title": "New wave of layoffs hits Europe as trade pressures, automation reshape industries",
+          "date": "2026-11-12"
+        }
+      ]
+    },
+    {
+      "id": "t20261113-f15",
+      "region": "global",
+      "importance": "low",
+      "company": "Moneycontrol.com",
+      "title": "Bengaluru Microsoft techie rejects buyout offer: ‘Have Rs 1 crore saved, will risk a layoff’",
+      "body": "Bengaluru Microsoft techie rejects buyout offer: ‘Have Rs 1 crore saved, will risk a layoff’ Moneycontrol.com",
+      "insight": "",
+      "tags": [],
+      "date": "2026-11-12",
+      "sources": [
+        {
+          "name": "Moneycontrol.com",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQc1NQRmlnR3NtQnNaak14VmJidnZHVHRXdjZnd20xUTdBX0hBY3BzN0kyWHJPd1FtWkczbUpuMFZqRFdqa3V4VldkWG16eVkzZ1FjMWh3UGx3NU1FMWx5N2ZuMFpYSE10R0o5VW5Rblpwd2pscXp5dkVyNThGeFl4SWlTYzdQUy16V0NmaDFTV0ZXWjl1QWdYYlFqQk5SVzhieWgxYkhpYy0xdFp5UVFOUlZmWExsTWJ1RktsMWVEcUh0UkE4M3poVndWemRoZ3FZWjk2MGljaW5qVTjSAeABQVVfeXFMTURTNnFkdk5VeWlRdkcyQ3pCeUIzOEJnZ0xJUTBaaGNhS3dCTkxnc0o1dmhPcjQwZXZHYWUyT1FhZ1ktQkxVdDZ0OGxRVS1DNG1RYi13eW5KUkdZZHMwc0hncEpZcFZtUmliOTFVd1ZyUkwtRTZFN2lMMnZpMTVlRjIwN1hiQUtzNUtLbVVmU1EzczlSTnZORTBlWE5Zd2YtWUY5VkJyYjlDOTA4SDNmaC12UlZTMWxRUFJNdzFrR0dXNWt1REpqN1pUQmxCQk5IUnIwdlphdVhIM0JVRDd6OGM?oc=5",
+          "title": "Bengaluru Microsoft techie rejects buyout offer: ‘Have Rs 1 crore saved, will risk a layoff’",
+          "date": "2026-11-12"
+        }
+      ]
+    },
+    {
+      "id": "t20261113-f16",
+      "region": "global",
+      "importance": "low",
+      "company": "iPhone in Canada",
+      "title": "Google is Now Offering Voluntary Buyouts to Employees in Canada",
+      "body": "Google is Now Offering Voluntary Buyouts to Employees in Canada iPhone in Canada",
+      "insight": "",
+      "tags": [],
+      "date": "2026-11-12",
+      "sources": [
+        {
+          "name": "iPhone in Canada",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbUVBR1d5WmxvcEhoX090SFA3VjZoWFFqaTQ4Y0FuZlZ6aG15TjZrYzVBRndYdmlyWDBSTm5Lb0Q3TDBRRFlEM0dwY29lQkoxcUU3SGtqQXVDNlVITDdkNmlqbTBPY0QyMTJjRDBFcGlFZmUxZjhIMDlCQTdTRWdpY0lWU0dGSGRMbDlycFdFekFzWF9ITUhrQWNzSEhJYTBQZ0RiRzZZcGw?oc=5",
+          "title": "Google is Now Offering Voluntary Buyouts to Employees in Canada",
+          "date": "2026-11-12"
+        }
+      ]
+    },
+    {
+      "id": "t20261113-f17",
+      "region": "global",
+      "importance": "low",
+      "company": "Aerospace Global News",
+      "title": "£5.7B easyJet buyout gets shareholder greenlight as CEO hails win for passengers and staff",
+      "body": "£5.7B easyJet buyout gets shareholder greenlight as CEO hails win for passengers and staff Aerospace Global News",
+      "insight": "",
+      "tags": [],
+      "date": "2026-11-12",
+      "sources": [
+        {
+          "name": "Aerospace Global News",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeXFWTG4ycnIxa2EwQll2NTk1bWZNNGp0UzQ2QzhkNXhPU2xWUUpINDR2YlBBYWVpclk5d1FHNFp3c0pmZV8yWEJwNHVLdWoyV1p5OVlObjhDVm5SYXprdGUzazU0enJ0TnFnZ2ZPeHdlZnpuLU5qYkpnQWZHNHpqNg?oc=5",
+          "title": "£5.7B easyJet buyout gets shareholder greenlight as CEO hails win for passengers and staff",
+          "date": "2026-11-12"
+        }
+      ]
+    },
+    {
+      "id": "t20261113-f18",
+      "region": "global",
+      "importance": "low",
+      "company": "Tech Times",
+      "title": "Roku Is Killing Its Smart Home Line Days After the Fox Buyout — Your Cameras and Doorbell Have No Migration Path",
+      "body": "Roku Is Killing Its Smart Home Line Days After the Fox Buyout — Your Cameras and Doorbell Have No Migration Path Tech Times",
+      "insight": "",
+      "tags": [],
+      "date": "2026-11-12",
+      "sources": [
+        {
+          "name": "Tech Times",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPaFc1VjBWcVRBekVhZTVaN1JwZERBcEV6NS03S3ZUVEptMFhZUDJITk5pYUl0U25qc1dQVU9SU3lNcWwtTGhSeURVeldGSjJaZzZIY2JFNkNYVG14MWhVNWZjOHZZYUgxTTZ2UEhKU2JJRDlaQXU0NjdpODhOWS1tcFZpMlZPZU1HQVRxM05lLWNGUUxuSG1hMnE0dElvTWJVdHJRQ1VyMU1TS3hCU3pnUTV4S1RkZHl6bkdvM3hEa1NoUy1acnVjclhrQlR0ZXhFVFNzVmx3?oc=5",
+          "title": "Roku Is Killing Its Smart Home Line Days After the Fox Buyout — Your Cameras and Doorbell Have No Migration Path",
+          "date": "2026-11-12"
+        }
+      ]
+    },
+    {
+      "id": "t20261113-f19",
+      "region": "global",
+      "importance": "low",
+      "company": "The Economic Times",
+      "title": "Amid layoff season, this Bengaluru company is paying employees to quit and start their own business and re",
+      "body": "Amid layoff season, this Bengaluru company is paying employees to quit and start their own business and re The Economic Times",
+      "insight": "",
+      "tags": [],
+      "date": "2026-11-12",
+      "sources": [
+        {
+          "name": "The Economic Times",
+          "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxQT2NhS3dYYW9ibi1zT0xnRktqampFaGhIZi1YVUxyR2FaY3JvRUxpTUJKNGk2MmJQQ0pCQ3F0cDFmMzBsVWdJQjVkd1ZiY1U3NWNMSUxnRlB5aHI1ZmZpU3lybGZjSHc2OERzSkc2SnVXaVRKZUxVWWdaeUU5LTJsWDVDYlZhOU5rbTdRTlFnRWVoRzlVNTMzaHRia25kSWhqWXY2Y2dDcnlNTDBkanh0T0FSRzZoS2JMdk16VHRocmdFSHhhZk5JUTZDVi01WC1hVGV5QXRQb19SWTFBV3FWY1FDTjhRT2t1V2NwLVVQSFJKNjlBUVBQdkNzc1B4UUxYbFlDODFRc3FpeFQ0bVVpN25FUjhYNmU0bUFKQWpuVFJhbUhaeVhsTDVhLWp4YTJ1SnJB0gG4AkFVX3lxTE1odVFGQnlvVVczWXU0aXFmWS1kc0FNSTExS2FoWElwd09KeW5KNjRTdFJDakpXTktrM09uYzc3QktEWXBQQzhCckt5SGQybndsZi0tYU5weUZIQ253V3hxYW5VdzFaX3NTQVptM2ZPcm10cmlKcDFpSG5BYkJWVkU0Z01Wd19fcER2VmhlX0ZMQ1FNclJlU1hQQ3NqZGVDUm5UYkt6Z2ZyZDZtaHJTeHNEdkhiU25ZRXUtcHZpbUJKaVhwUzlEMEU1UVpmVFFlNnJ5SVE0Zk82WjU1cXdmMDlkclBuWHk5Z1oybTFpN25saTF0dkN1Y1c0b3RHY3dtcXBMZDZpcVc1cWN2aHZUcEx0d25iYl93NDl6dExHSlk2WDY1bEY0cVEtNnJEX2NiU1FxaGw2anZleg?oc=5",
+          "title": "Amid layoff season, this Bengaluru company is paying employees to quit and start their own business and re",
+          "date": "2026-11-12"
+        }
+      ]
+    }
+  ]
+}

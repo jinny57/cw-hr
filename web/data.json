@@ -56,9 +56,642 @@
     ]
    }
   ],
-  "updated": "2026-11-12T10:30+09:00"
+  "updated": "2026-11-13T00:30+09:00"
  },
  "reports": [
+  {
+   "date": "2026-11-13",
+   "window_days": 1,
+   "article_count": 297,
+   "engine": "없음(제목 기준)",
+   "headline": "오늘은 AI 분석이 실패해 제목 기준으로만 골랐어요",
+   "points": [
+    "수집 기사 297건 중 HR 관련 단어가 있는 25건만 올렸어요",
+    "시사점·팀 태그 없이 기사 제목만 보여드려요"
+   ],
+   "analysis_error": "HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=240)",
+   "items": [
+    {
+     "id": "20261113-f00",
+     "cat": "market",
+     "importance": "low",
+     "teams": [
+      "채용"
+     ],
+     "company": "경상일보",
+     "title": "현대차공조회, 복지센터에 400만원 상당 백미 전달",
+     "body": "현대차공조회, 복지센터에 400만원 상당 백미 전달 경상일보",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "경상일보",
+       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9SVTNKLVZENkROaVNZellici1MWlJubXpqekFJWVdQTzd3bFlmV1pLeHRFLXNKVU9WUnhBODhNWktWTHFQSjFQZ2w5Z241czZaV0ZlVGFzdC1Md0dIT0o3RTFjM0JpeFE0LTlJVQ?oc=5",
+       "title": "현대차공조회, 복지센터에 400만원 상당 백미 전달",
+       "date": "2026-11-13"
+      }
+     ],
+     "date": "2026-11-13"
+    },
+    {
+     "id": "20261113-f01",
+     "cat": "market",
+     "importance": "low",
+     "teams": [
+      "채용"
+     ],
+     "company": "월요신문",
+     "title": "젠슨 황, 엔비디아 대표 사임…후임은 콜레트 크레스 CFO",
+     "body": "젠슨 황, 엔비디아 대표 사임…후임은 콜레트 크레스 CFO 월요신문",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "월요신문",
+       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBCSzQ5SVZZakFvaXY0YjJJSEZLYWNTSmM4dEd3YVd1QURCLWN3d0JJREJwZkhkS2pRQ29VX0JjbXFpN2xkYWhmZS1GLU1MVTlMZHlUek5LZVp1RkQyc1FDcl94X2c1TFhkbGc?oc=5",
+       "title": "젠슨 황, 엔비디아 대표 사임…후임은 콜레트 크레스 CFO",
+       "date": "2026-11-13"
+      }
+     ],
+     "date": "2026-11-13"
+    },
+    {
+     "id": "20261113-f02",
+     "cat": "trend",
+     "importance": "low",
+     "teams": [
+      "인사기획",
+      "조직문화·HRD"
+     ],
+     "company": "기고만장",
+     "title": "[브이드림] 장애인 근로자를 채용부터 관리까지 운영하는 방법은? --> --> --> [브이드림] 장애인 근로자를 채용부터 관리까지 운영하는 방법은? N",
+     "body": "",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "기고만장",
+       "url": "https://ggmj.kr/vdream/?idx=175596279&bmode=view",
+       "title": "[브이드림] 장애인 근로자를 채용부터 관리까지 운영하는 방법은? --> --> --> [브이드림] 장애인 근로자를 채용부터 관리까지 운영하는 방법은? N",
+       "date": "2026-11-13"
+      }
+     ],
+     "date": "2026-11-13"
+    },
+    {
+     "id": "20261113-f03",
+     "cat": "trend",
+     "importance": "low",
+     "teams": [
+      "인사기획",
+      "조직문화·HRD"
+     ],
+     "company": "기고만장",
+     "title": "[EPI.493] 소비재.화장품 기업 인재 확보 전략 [Edge 7기 김성중대표] --> --> --> [EPI.493] 소비재.화장품 기업 인재 확보 전략 [Edge 7기 김성중대표] N",
+     "body": "",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "기고만장",
+       "url": "https://ggmj.kr/hredge/?idx=175600917&bmode=view",
+       "title": "[EPI.493] 소비재.화장품 기업 인재 확보 전략 [Edge 7기 김성중대표] --> --> --> [EPI.493] 소비재.화장품 기업 인재 확보 전략 [Edge 7기 김성중대표] N",
+       "date": "2026-11-13"
+      }
+     ],
+     "date": "2026-11-13"
+    },
+    {
+     "id": "20261113-f04",
+     "cat": "trend",
+     "importance": "low",
+     "teams": [
+      "인사기획",
+      "조직문화·HRD"
+     ],
+     "company": "잡코리아 HR 뉴스",
+     "title": "AI 시대의 채용은 인원 충원보다 사업 성과에 필요한 역량을 정의하는 데서 출발한다. 역량 격차를 진단하고 Build·Buy·Borrow·Bot을 조합하는 HR의 역할을 살펴본다.",
+     "body": "",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "잡코리아 HR 뉴스",
+       "url": "https://www.jobkorea.co.kr/Corp/Lounge/News_View?GI_Trend_News_No=1077&Page=1&psTab=10&selText=",
+       "title": "AI 시대의 채용은 인원 충원보다 사업 성과에 필요한 역량을 정의하는 데서 출발한다. 역량 격차를 진단하고 Build·Buy·Borrow·Bot을 조합하는 HR의 역할을 살펴본다.",
+       "date": "2026-11-13"
+      }
+     ],
+     "date": "2026-11-13"
+    },
+    {
+     "id": "20261113-f05",
+     "cat": "trend",
+     "importance": "low",
+     "teams": [
+      "인사기획",
+      "조직문화·HRD"
+     ],
+     "company": "잡코리아 HR 뉴스",
+     "title": "AI가 만든 결과물의 완성도만으로 신입사원의 역량을 평가하기 어려워졌다. 문제 정의부터 근거 검증, 대안 비교, 선택과 회고까지 판단 경험을 설계하는 방법과 90일 온보딩, 3-2",
+     "body": "",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "잡코리아 HR 뉴스",
+       "url": "https://www.jobkorea.co.kr/Corp/Lounge/News_View?GI_Trend_News_No=1076&Page=1&psTab=10&selText=",
+       "title": "AI가 만든 결과물의 완성도만으로 신입사원의 역량을 평가하기 어려워졌다. 문제 정의부터 근거 검증, 대안 비교, 선택과 회고까지 판단 경험을 설계하는 방법과 90일 온보딩, 3-2",
+       "date": "2026-11-13"
+      }
+     ],
+     "date": "2026-11-13"
+    },
+    {
+     "id": "20261113-f06",
+     "cat": "trend",
+     "importance": "low",
+     "teams": [
+      "인사기획",
+      "조직문화·HRD"
+     ],
+     "company": "잡코리아 HR 뉴스",
+     "title": "방학과 갑작스러운 입원 등 자녀 돌봄이 필요한 때 사용하는 1주·2주 단위 육아휴직. 신청 사유와 기한, 허용·통지 절차, 증빙서류와 급여 기준부터 기업의 업무 대행 체계까지 실무",
+     "body": "",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "잡코리아 HR 뉴스",
+       "url": "https://www.jobkorea.co.kr/Corp/Lounge/News_View?GI_Trend_News_No=1075&Page=1&psTab=10&selText=",
+       "title": "방학과 갑작스러운 입원 등 자녀 돌봄이 필요한 때 사용하는 1주·2주 단위 육아휴직. 신청 사유와 기한, 허용·통지 절차, 증빙서류와 급여 기준부터 기업의 업무 대행 체계까지 실무",
+       "date": "2026-11-13"
+      }
+     ],
+     "date": "2026-11-13"
+    },
+    {
+     "id": "20261113-f07",
+     "cat": "labor",
+     "importance": "low",
+     "teams": [
+      "노무·ER",
+      "보상·복리후생"
+     ],
+     "company": "시프티 블로그",
+     "title": "2026년, 근태관리를 효율적으로 하는 방법과 자동화 도입 절차 2026년 기업의 HR 환경은 빠르게 변화하고 있습니다. 혼합 근무제가 일상화되면서 사무직, 외근직, 교대근무 인력이 한 조직... 2026-04-27",
+     "body": "",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "시프티 블로그",
+       "url": "https://shiftee.io/ko/blog/article/efficient-time-and-attendance-management-automation-2026",
+       "title": "2026년, 근태관리를 효율적으로 하는 방법과 자동화 도입 절차 2026년 기업의 HR 환경은 빠르게 변화하고 있습니다. 혼합 근무제가 일상화되면서 사무직, 외근직, 교대근무 인력이 한 조직... 2026-04-27",
+       "date": "2026-11-13"
+      }
+     ],
+     "date": "2026-11-13"
+    },
+    {
+     "id": "20261113-f08",
+     "cat": "labor",
+     "importance": "low",
+     "teams": [
+      "노무·ER",
+      "보상·복리후생"
+     ],
+     "company": "시프티 블로그",
+     "title": "PC-OFF 프로그램과 근태관리·급여 시스템 연동 방법 및 구축 가이드 사무직 근태관리에서 PC-OFF 프로그램은 계획된 근무일정을 기준으로 PC 사용을 관리하고, 출퇴근기록, 휴가, 연장·단축근무... 2026-0",
+     "body": "",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "시프티 블로그",
+       "url": "https://shiftee.io/ko/blog/article/pc-off-attendance-payroll-integration",
+       "title": "PC-OFF 프로그램과 근태관리·급여 시스템 연동 방법 및 구축 가이드 사무직 근태관리에서 PC-OFF 프로그램은 계획된 근무일정을 기준으로 PC 사용을 관리하고, 출퇴근기록, 휴가, 연장·단축근무... 2026-0",
+       "date": "2026-11-13"
+      }
+     ],
+     "date": "2026-11-13"
+    },
+    {
+     "id": "20261113-f09",
+     "cat": "labor",
+     "importance": "low",
+     "teams": [
+      "노무·ER",
+      "보상·복리후생"
+     ],
+     "company": "시프티 블로그",
+     "title": "프리랜서 야간근로수당 지급 조건과 근로자성 판단 기준 알아보기 프리랜서 계약으로 일하더라도 근로기준법상 근로자에 해당하면 연장·야간·휴일근로수당이 적용됩니다. 근로자 해당 여부는 계약서의 ... 2026-11-09",
+     "body": "",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "시프티 블로그",
+       "url": "https://shiftee.io/ko/blog/article/freelancer-night-work-pay-and-employee-status",
+       "title": "프리랜서 야간근로수당 지급 조건과 근로자성 판단 기준 알아보기 프리랜서 계약으로 일하더라도 근로기준법상 근로자에 해당하면 연장·야간·휴일근로수당이 적용됩니다. 근로자 해당 여부는 계약서의 ... 2026-11-09",
+       "date": "2026-11-13"
+      }
+     ],
+     "date": "2026-11-13"
+    },
+    {
+     "id": "20261113-f10",
+     "cat": "labor",
+     "importance": "low",
+     "teams": [
+      "노무·ER",
+      "보상·복리후생"
+     ],
+     "company": "시프티 블로그",
+     "title": "미사용 연차수당 지급 기준과 계산 방법, 퇴사 시 연차수당 정산 방법까지 알아보기 연차휴가를 모두 사용하지 못한 근로자가 있다면, HR 담당자는 남은 연차휴가에 대한 수당 지급 여부를 판단해야 합니다. 이때 ... ",
+     "body": "",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "시프티 블로그",
+       "url": "https://shiftee.io/ko/blog/article/unused-annual-leave-pay-calculation",
+       "title": "미사용 연차수당 지급 기준과 계산 방법, 퇴사 시 연차수당 정산 방법까지 알아보기 연차휴가를 모두 사용하지 못한 근로자가 있다면, HR 담당자는 남은 연차휴가에 대한 수당 지급 여부를 판단해야 합니다. 이때 ... ",
+       "date": "2026-11-13"
+      }
+     ],
+     "date": "2026-11-13"
+    },
+    {
+     "id": "20261113-f11",
+     "cat": "labor",
+     "importance": "low",
+     "teams": [
+      "노무·ER",
+      "보상·복리후생"
+     ],
+     "company": "시프티 블로그",
+     "title": "연차 당겨쓰기, 며칠까지 가능할까? 마이너스 연차 차감·정산 정리 연차유급휴가를 모두 사용했거나 아직 충분한 연차가 발생하지 않은 직원이 휴가를 신청하는 경우, 기업에서는 향후 발생할 연차를 ... 2026-11-0",
+     "body": "",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "시프티 블로그",
+       "url": "https://shiftee.io/ko/blog/article/annual-leave-in-advance-deduction-settlement",
+       "title": "연차 당겨쓰기, 며칠까지 가능할까? 마이너스 연차 차감·정산 정리 연차유급휴가를 모두 사용했거나 아직 충분한 연차가 발생하지 않은 직원이 휴가를 신청하는 경우, 기업에서는 향후 발생할 연차를 ... 2026-11-0",
+       "date": "2026-11-13"
+      }
+     ],
+     "date": "2026-11-13"
+    },
+    {
+     "id": "20261113-f12",
+     "cat": "labor",
+     "importance": "low",
+     "teams": [
+      "노무·ER",
+      "보상·복리후생"
+     ],
+     "company": "시프티 블로그",
+     "title": "2026년 10월 4주차 HR 소식 | 주 4.5일제·퇴직연금·산업안전보건법·청년 취업 시프티 주간 HR 소식 - 10월 4주차 2026년 10월 4주차에는 대구·경북 지역 주 4.5일제 지원사업에 참여한 기업들의.",
+     "body": "",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "시프티 블로그",
+       "url": "https://shiftee.io/ko/blog/article/weekly-hr-news-2026-october-week-4",
+       "title": "2026년 10월 4주차 HR 소식 | 주 4.5일제·퇴직연금·산업안전보건법·청년 취업 시프티 주간 HR 소식 - 10월 4주차 2026년 10월 4주차에는 대구·경북 지역 주 4.5일제 지원사업에 참여한 기업들의.",
+       "date": "2026-11-13"
+      }
+     ],
+     "date": "2026-11-13"
+    },
+    {
+     "id": "20261113-f13",
+     "cat": "labor",
+     "importance": "low",
+     "teams": [
+      "노무·ER",
+      "보상·복리후생"
+     ],
+     "company": "시프티 블로그",
+     "title": "공공기관 인력관리: 분산된 인사업무와 근태관리 통합 운영 공공기관의 인력관리는 근무일정과 출퇴근기록뿐 아니라 직원정보, 조직·직무, 휴가, 전자결재, 계약 등 다양한 인사업무로 구성됩... 2026-11-02",
+     "body": "",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "시프티 블로그",
+       "url": "https://shiftee.io/ko/blog/article/public-sector-workforce-management-guide",
+       "title": "공공기관 인력관리: 분산된 인사업무와 근태관리 통합 운영 공공기관의 인력관리는 근무일정과 출퇴근기록뿐 아니라 직원정보, 조직·직무, 휴가, 전자결재, 계약 등 다양한 인사업무로 구성됩... 2026-11-02",
+       "date": "2026-11-13"
+      }
+     ],
+     "date": "2026-11-13"
+    },
+    {
+     "id": "20261113-f14",
+     "cat": "labor",
+     "importance": "low",
+     "teams": [
+      "노무·ER",
+      "보상·복리후생"
+     ],
+     "company": "시프티 블로그",
+     "title": "주 4.5일제란? 유형별 근태관리 방법 및 운영 방식 알아보기 2026년 7월 14일 고용노동부는 ｢워라밸+4.5 프로젝트｣에 참여한 기업이 2026년 6월 말 기준 총 224개로, 연간 ... 2026-10-30",
+     "body": "",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "시프티 블로그",
+       "url": "https://shiftee.io/ko/blog/article/four-and-half-day-workweek-attendance-management",
+       "title": "주 4.5일제란? 유형별 근태관리 방법 및 운영 방식 알아보기 2026년 7월 14일 고용노동부는 ｢워라밸+4.5 프로젝트｣에 참여한 기업이 2026년 6월 말 기준 총 224개로, 연간 ... 2026-10-30",
+       "date": "2026-11-13"
+      }
+     ],
+     "date": "2026-11-13"
+    },
+    {
+     "id": "20261113-f15",
+     "cat": "labor",
+     "importance": "low",
+     "teams": [
+      "노무·ER",
+      "보상·복리후생"
+     ],
+     "company": "시프티 블로그",
+     "title": "퇴직금 계산 방법과 평균임금 산정 기준·근속기간별 예시 퇴직금은 계속근로기간과 퇴직 전 평균임금을 기준으로 산정합니다. 법정 퇴직금은 1일 평균임금 × 30일 × (총 재직일수 ÷ ... 2026-10-29",
+     "body": "",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "시프티 블로그",
+       "url": "https://shiftee.io/ko/blog/article/severance-pay-calculation-average-wage-guide",
+       "title": "퇴직금 계산 방법과 평균임금 산정 기준·근속기간별 예시 퇴직금은 계속근로기간과 퇴직 전 평균임금을 기준으로 산정합니다. 법정 퇴직금은 1일 평균임금 × 30일 × (총 재직일수 ÷ ... 2026-10-29",
+       "date": "2026-11-13"
+      }
+     ],
+     "date": "2026-11-13"
+    },
+    {
+     "id": "20261113-f16",
+     "cat": "labor",
+     "importance": "low",
+     "teams": [
+      "노무·ER",
+      "보상·복리후생"
+     ],
+     "company": "시프티 블로그",
+     "title": "전자결재 시스템의 주요 기능과 근태관리 연동·활용 방법 기업의 전자결재 시스템은 휴가 신청이나 연장근무 승인과 같은 근태관리 업무뿐 아니라 비용 청구, 서류 발급 등 다양한 사내 업... 2026-10-28",
+     "body": "",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "시프티 블로그",
+       "url": "https://shiftee.io/ko/blog/article/electronic-approval-workflow-attendance-integration",
+       "title": "전자결재 시스템의 주요 기능과 근태관리 연동·활용 방법 기업의 전자결재 시스템은 휴가 신청이나 연장근무 승인과 같은 근태관리 업무뿐 아니라 비용 청구, 서류 발급 등 다양한 사내 업... 2026-10-28",
+       "date": "2026-11-13"
+      }
+     ],
+     "date": "2026-11-13"
+    },
+    {
+     "id": "20261113-f17",
+     "cat": "labor",
+     "importance": "low",
+     "teams": [
+      "노무·ER",
+      "보상·복리후생"
+     ],
+     "company": "고용노동부 보도자료",
+     "title": "근로복지공단, 제47회 노동자문화예술제 시상식 개최",
+     "body": "",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "고용노동부 보도자료",
+       "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=20247",
+       "title": "근로복지공단, 제47회 노동자문화예술제 시상식 개최",
+       "date": "2026-11-13"
+      }
+     ],
+     "date": "2026-11-13"
+    },
+    {
+     "id": "20261113-f18",
+     "cat": "labor",
+     "importance": "low",
+     "teams": [
+      "노무·ER",
+      "보상·복리후생"
+     ],
+     "company": "고용노동부 보도자료",
+     "title": "국민과의 ”소통“은 더욱 강화하고,악의적 특이민원은 엄정 대응하겠습니다",
+     "body": "",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "고용노동부 보도자료",
+       "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=20246",
+       "title": "국민과의 ”소통“은 더욱 강화하고,악의적 특이민원은 엄정 대응하겠습니다",
+       "date": "2026-11-13"
+      }
+     ],
+     "date": "2026-11-13"
+    },
+    {
+     "id": "20261113-f19",
+     "cat": "labor",
+     "importance": "low",
+     "teams": [
+      "노무·ER",
+      "보상·복리후생"
+     ],
+     "company": "고용노동부 보도자료",
+     "title": "‘고용행정 데이터로 청년 일자리부터 산업전환까지… 노동시장 현안 해법 찾는다’",
+     "body": "",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "고용노동부 보도자료",
+       "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=20245",
+       "title": "‘고용행정 데이터로 청년 일자리부터 산업전환까지… 노동시장 현안 해법 찾는다’",
+       "date": "2026-11-13"
+      }
+     ],
+     "date": "2026-11-13"
+    },
+    {
+     "id": "20261113-f20",
+     "cat": "labor",
+     "importance": "low",
+     "teams": [
+      "노무·ER",
+      "보상·복리후생"
+     ],
+     "company": "고용노동부 보도자료",
+     "title": "(참고) 노동부 장관-전국 지방노동관서장, 중대재해 취약현장 일제 불시점검",
+     "body": "",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "고용노동부 보도자료",
+       "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=20244",
+       "title": "(참고) 노동부 장관-전국 지방노동관서장, 중대재해 취약현장 일제 불시점검",
+       "date": "2026-11-13"
+      }
+     ],
+     "date": "2026-11-13"
+    },
+    {
+     "id": "20261113-f21",
+     "cat": "market",
+     "importance": "low",
+     "teams": [
+      "채용"
+     ],
+     "company": "매일일보",
+     "title": "[기획] 경력직 우선 채용 문화 확산… 설 자리 잃은 신입들",
+     "body": "[기획] 경력직 우선 채용 문화 확산… 설 자리 잃은 신입들 매일일보",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "매일일보",
+       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBzT0sxQy01RUh4SXFKSVFjTFA0S0w2R014UmxxV1ZRd0V1OWFRMm9BQjF4bjdBNU5qc1dUWmxtSTVMSDlBSXBjcU8zVzhGakF2Zlp0YkZVWU8tRnJPcjhOQUNidko?oc=5",
+       "title": "[기획] 경력직 우선 채용 문화 확산… 설 자리 잃은 신입들",
+       "date": "2026-11-12"
+      }
+     ],
+     "date": "2026-11-12"
+    },
+    {
+     "id": "20261113-f22",
+     "cat": "market",
+     "importance": "low",
+     "teams": [
+      "채용"
+     ],
+     "company": "인사이트N파워",
+     "title": "전력거래소, AIㆍ전력시장 전문인력 15명 신규 채용",
+     "body": "전력거래소, AIㆍ전력시장 전문인력 15명 신규 채용 인사이트N파워",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "인사이트N파워",
+       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9COC1Sb0lLSGpmMnBpNXlKbFNiRWU1MGt2X21LbGMwVUMwTWpBQl9oeHZvYXlPQVcyM1p6VmR1RG9EZmlGSnhDX1dVN0F5VktRa2VnY1ZVX1EwYWRtZ0VqcWx5SWpPZw?oc=5",
+       "title": "전력거래소, AIㆍ전력시장 전문인력 15명 신규 채용",
+       "date": "2026-11-12"
+      }
+     ],
+     "date": "2026-11-12"
+    },
+    {
+     "id": "20261113-f23",
+     "cat": "market",
+     "importance": "low",
+     "teams": [
+      "채용"
+     ],
+     "company": "시사캐스트",
+     "title": "[채용소식] 고용 한파에도 하반기 신입공채는 계속된다",
+     "body": "[채용소식] 고용 한파에도 하반기 신입공채는 계속된다 시사캐스트",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "시사캐스트",
+       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBuMWpkZHlwcVVYcFhVR1hTMjlweVc5WXJvRTc0eFRfZEthdjBVY3ZNbW4zSDYtNzNQRzNlRU03WFlBdHJWQ2ItTkd5NXVrTzV3bWloNTZUN2xhMmt2Y1QtNTJrLUktc01L?oc=5",
+       "title": "[채용소식] 고용 한파에도 하반기 신입공채는 계속된다",
+       "date": "2026-11-12"
+      }
+     ],
+     "date": "2026-11-12"
+    },
+    {
+     "id": "20261113-f24",
+     "cat": "market",
+     "importance": "low",
+     "teams": [
+      "채용"
+     ],
+     "company": "한국일보",
+     "title": "한국교통안전공단, 자립준비청년 제한경쟁채용 확대… 내년 취업준비반 운영",
+     "body": "한국교통안전공단, 자립준비청년 제한경쟁채용 확대… 내년 취업준비반 운영 한국일보",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "한국일보",
+       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1OcXNQY1N1RGFtQXhkeVlMamgtR0k1N3hhSUNvNU83ck15VlhqS0plRFRBOVNSQWtMMU5saUJwTGNISDhISmdUSUV0RktNQ1NvNWRVaENGTldXUndUSjBRb1AyTDlKcXdheUlndkludUZmdlHSAXNBVV95cUxNTnFzUGNTdURhbUF4ZHlZTGpoLUdJNTd4YUlDbzVPN3JNeVZYaktKZURUQTlTUkFrTDFObGlCcExjSEg4SEpnVElFdEZLTUNTbzVkVWhDRk5XV1J3VEowUW9QMkw5SnF3YXlJZ3ZJbnVGZnZR?oc=5",
+       "title": "한국교통안전공단, 자립준비청년 제한경쟁채용 확대… 내년 취업준비반 운영",
+       "date": "2026-11-12"
+      }
+     ],
+     "date": "2026-11-12"
+    }
+   ]
+  },
   {
    "date": "2026-11-12",
    "window_days": 2,
