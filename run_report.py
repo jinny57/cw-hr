@@ -632,6 +632,17 @@ def send_email(cfg, report):
     print(f"  📧 메일 발송 → {env['ALERT_EMAIL_TO']}")
 
 
+def gap_days(path, date, cap=4):
+    """마지막으로 저장된 날 다음 날부터 오늘까지를 덮도록 며칠치를 볼지 정해요 (최대 cap일)."""
+    try:
+        with open(path, encoding="utf-8") as f:
+            dates = [r["date"] for r in json.load(f).get("reports", []) if r.get("date", "") < str(date)]
+        last = datetime.date.fromisoformat(max(dates))
+        return max(1, min(cap, (date - last).days))
+    except Exception:
+        return 1
+
+
 # ── 메인 ─────────────────────────────────────────────────────────────────────
 def main():
     ap = argparse.ArgumentParser()
@@ -641,7 +652,7 @@ def main():
 
     cfg = load_config()
     date = datetime.date.fromisoformat(args.date) if args.date else datetime.datetime.now(KST).date()
-    days = 1  # 매일 수집하므로 최근 1일치만 봐요
+    days = gap_days(os.path.join(ROOT, "web", "data.json"), date)  # 보통 1일, 수집을 놓친 날이 있으면 그만큼 더 봐요
     print(f"🚀 {cfg['site_title']} — {date} 수집 시작")
 
     articles = collect_articles(cfg, date, days)

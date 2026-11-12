@@ -215,7 +215,7 @@ def save(cfg, report):
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--date", help="YYYY-MM-DD (기본: 오늘)")
-    ap.add_argument("--days", type=int, default=1, help="최근 며칠 기사를 볼지 (기본 1)")
+    ap.add_argument("--days", type=int, help="최근 며칠 기사를 볼지 (기본: 지난 수집 이후 기간, 보통 1일)")
     ap.add_argument("--collect-only", action="store_true")
     args = ap.parse_args()
 
@@ -225,7 +225,9 @@ def main():
         print("config.json에 trends 설정이 없어서 건너뛰어요")
         return
     date = datetime.date.fromisoformat(args.date) if args.date else datetime.datetime.now(KST).date()
-    print(f"📈 데일리 채용 추이 — {date}")
+    if not args.days:
+        args.days = rr.gap_days(OUT, date)
+    print(f"📈 데일리 채용 추이 — {date} (최근 {args.days}일)")
     arts = collect(tc, args.days)
     if args.collect_only:
         for a in arts[:15]:

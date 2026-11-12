@@ -2,7 +2,13 @@ name: HR 레이더 데일리 수집
 
 on:
   schedule:
-    - cron: '40 23 * * *'     # 매일(주말 포함) 오전 08:40 KST — HR 뉴스 + 채용 추이
+    # GitHub 예약 실행은 몇 시간씩 밀리거나 빠지는 날이 있어서 여러 번 걸어 둬요.
+    # 오늘 수집이 이미 끝났으면 뒤의 예약은 바로 건너뛰어요.
+    - cron: '7 22 * * *'      # 07:07 KST
+    - cron: '47 23 * * *'     # 08:47 KST
+    - cron: '17 1 * * *'      # 10:17 KST
+    - cron: '17 3 * * *'      # 12:17 KST
+    - cron: '17 6 * * *'      # 15:17 KST
   workflow_dispatch:           # Actions 탭에서 'Run workflow'로 바로 실행
     inputs:
       weekly:
@@ -23,8 +29,26 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  collect:
+  check:
     if: github.event_name != 'push'
+    runs-on: ubuntu-latest
+    outputs:
+      done: ${{ steps.c.outputs.done }}
+    steps:
+      - uses: actions/checkout@v4
+      - id: c
+        name: 오늘 수집이 끝났는지 확인
+        run: |
+          today=$(TZ=Asia/Seoul date +%F)
+          if grep -q "\"date\": *\"$today\"" web/data.json && grep -q "\"date\": *\"$today\"" web/jobs.json; then
+            echo "오늘($today) 수집은 이미 끝났어요"; echo "done=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "done=false" >> "$GITHUB_OUTPUT"
+          fi
+
+  collect:
+    needs: check
+    if: github.event_name != 'schedule' || needs.check.outputs.done != 'true'
     runs-on: ubuntu-latest
     timeout-minutes: 30
     steps:
@@ -84,11 +108,11 @@ jobs:
           git config user.email "hr-radar-bot@users.noreply.github.com"
           git add web/data.json web/trends.json web/weekly.json web/jobs.json reports/
           git diff --cached --quiet || git commit -m "📡 HR 레이더 $(TZ=Asia/Seoul date +%F)"
-          git push
+          git pull --rebase --quiet && git push
 
   deploy:
     needs: collect
-    if: always() && (needs.collect.result == 'success' || needs.collect.result == 'skipped')
+    if: always() && (needs.collect.result == 'success' || (needs.collect.result == 'skipped' && github.event_name == 'push'))
     runs-on: ubuntu-latest
     environment:
       name: github-pages
