@@ -7,7 +7,7 @@
   python run_weekly.py                    # 지난주 (월~일)
   python run_weekly.py --date 2026-11-12  # 그 날짜가 속한 주 (주가 안 끝났으면 미리보기)
 """
-import os, json, argparse, datetime
+import os, re, json, argparse, datetime
 
 import run_report as rr
 
@@ -70,8 +70,10 @@ def job_week(wk):
         down = sorted([m for m in moves if m["pp"] < 0], key=lambda m: m["pp"])[:4]
     else:
         up, down = sorted(moves, key=lambda m: -m["share"])[:4], []
-    new = [x for x in J.get("new_titles", []) if wk["start"] <= x["first"] <= wk["end"]]
-    new.sort(key=lambda x: (-len(x["companies"]), -x["n"]))
+    airx = re.compile(r"\b(ai|ml|llm|genai|agent(ic|s)?|machine learning|model|inference|prompt|eval|safety|alignment|deployed|copilot|automation)\b", re.I)
+    new = [x for x in J.get("new_titles", []) if wk["start"] <= x["first"] <= wk["end"]
+           and (airx.search(x["example"]) or len(x["companies"]) >= 2 or x["n"] >= 3)]
+    new.sort(key=lambda x: (not airx.search(x["example"]), -len(x["companies"]), -x["n"]))
     ai = []
     for f, (hit, n) in (last.get("ai_desc") or {}).items():
         if f in AI_FAMS or f == "other" or n < 20:

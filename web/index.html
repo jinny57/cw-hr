@@ -510,7 +510,7 @@ body:not([data-section="news"]) .news-only{display:none!important}
   </section>
 
   <div class="jtwo">
-    <section class="panel sec"><h3>새로 등장한 직무명 <span class="n" id="jNewN"></span></h3><p class="hint">최근 30일 사이 처음 보인 공고 제목이에요. 연차·팀 이름은 떼고 비교해요.</p><ul class="tlist" id="jNew"></ul></section>
+    <section class="panel sec"><h3>새로 등장한 직무명 <span class="n" id="jNewN"></span></h3><p class="hint">최근 30일 사이 처음 보인 공고 제목 중 AI 관련이거나 여러 회사·공고에 나온 것만 골랐어요.</p><ul class="tlist" id="jNew"></ul></section>
     <section class="panel sec"><h3>사라진 직무명 <span class="n" id="jGoneN"></span></h3><p class="hint">5일 이상 꾸준히 보이다가 최근 1~2주 사이 공고가 내려간 직무명이에요.</p><ul class="tlist" id="jGone"></ul></section>
   </div>
 
@@ -1088,8 +1088,12 @@ body:not([data-section="news"]) .news-only{display:none!important}
 
     // 새로 등장한 직무명 · 사라진 직무명
     const names = new Set(ids.map(id => (J.meta.companies.find(c => c.id === id) || {}).name));
-    const nt = (J.new_titles || []).filter(x => x.companies.some(c => names.has(c)));
-    $('#jNewN').textContent = nt.length ? `${nt.length}개` : '';
+    // 새 직무명은 AI 관련이거나, 여러 회사·여러 공고에 동시에 나온 것만 보여줘요 (한 건짜리 세부 팀 이름은 잡음이라)
+    const AIRX = /\b(ai|ml|llm|genai|agent(ic|s)?|machine learning|model|inference|prompt|eval|safety|alignment|deployed|copilot|automation)\b/i;
+    const allNt = (J.new_titles || []).filter(x => x.companies.some(c => names.has(c)));
+    const nt = allNt.filter(x => AIRX.test(x.example) || x.companies.length >= 2 || x.n >= 3)
+      .sort((a, b) => b.first.localeCompare(a.first) || (AIRX.test(b.example) - AIRX.test(a.example)) || b.companies.length - a.companies.length || b.n - a.n);
+    $('#jNewN').textContent = nt.length ? `${nt.length}개 · 전체 ${allNt.length}개 중` : '';
     $('#jNew').innerHTML = nt.slice(0, 80).map(x => `<li>${x.url ? `<a href="${esc(x.url)}" target="_blank" rel="noopener">${esc(x.example)}</a>` : `<b>${esc(x.example)}</b>`}
       <span class="dt">${short(x.first)}</span><small>${famTag(x.family)}${esc(x.companies.join(', '))} · 공고 ${x.n}건</small></li>`).join('')
       || `<li><small>${J.meta.baseline === today.date ? '오늘 처음 수집해서 지금 있는 직무명을 기준선으로 기록했어요. 내일부터 새 직무명이 잡혀요.' : '최근 30일 사이 새로 생긴 직무명이 없어요.'}</small></li>`;
