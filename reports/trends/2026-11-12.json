@@ -1,0 +1,567 @@
+{
+  "date": "2026-11-12",
+  "article_count": 145,
+  "engine": "gemini-3.7-flash",
+  "headline": "빅테크 AI 인재 쟁탈전과 조직 감원 재편 본격화",
+  "summary": [
+    "빅테크는 초고액 보상으로 핵심 AI 인재를 유치하며 채용을 집중하고 있어요.",
+    "반면 일반 테크 직군과 비핵심 조직 대상의 인력 감축과 외주화는 가속화돼요.",
+    "국내외 채용 시장 모두 주니어 축소와 AI 역량 중심 경력직 선호가 뚜렷해요."
+  ],
+  "numbers": [
+    {
+      "value": "1,500명",
+      "label": "Qualcomm 인도 구조조정 감원 규모",
+      "dir": "down",
+      "sources": [
+        {
+          "name": "The Times of India",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPZmtjVTFRV3l5OGxLcFJkNnE2Qmk0dl9LYzlxXzd3TER5eGhaWU1KT2VsNWJFQV9qQU1xaWFnaXFTUnVWUGZORlVTTkRVNHRTbGlLWGlsNGg1ZTN1cXAxM1NLbDNCeHFmVXZBQWlPYlNPWTRPbGFpRkJjTXI2cldvWHRqUm5FNWxBOTRVak55UWpOelc2aHh0N0FZVkJrdjFuX1lUMG1MZjZQdHI0cklhOGYzbXVQSzdlOGZuOEt4Wm5HZjBwU2p1eDczdlJqZ1BBLU5GN3JOUk5FQzk5blHSAeMBQVVfeXFMUFdiRVhEdV9TVFJ2TDRBN1JuOXpSU2I4WTFkY0QtYy1wVzhVdGFPaU1UTmM1bzQ3YXRXaWlrV1lSRUl2U2hfb2QwX1VFM0FETmlQQTZ5LUhFUW9qeUNJcWtWRnQ5NDNIQ2VMTnFldmRjZWtmWW5ZLXBsdDIwWW1HdVY0QkQxT2VvMWZHeDVORklxMFYyWWNORGhpc19yRXZobVVfZXJlOE5yYXNuZFZKcFRERzNCOURvMmtxUmRlUXloR09KYjF0QkpFb3BVQzBJTE83ZDFkc1djMHVsbUk4d2FTVmc?oc=5",
+          "title": "Qualcomm layoffs 1,500 employees in India amid restructuring",
+          "date": "2026-11-12"
+        }
+      ]
+    },
+    {
+      "value": "850명",
+      "label": "Qantas 항공 AI 개편 감원 규모",
+      "dir": "down",
+      "sources": [
+        {
+          "name": "BW People",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNeGVpV0xGejhSckhiUThralpaLU9FdE9jYTJaLWJncXJoM3FaZTJDY1ZsUGV6emRtVWEwMldBdjJoZG1zMnBVUEtGVUlkeGJ2WUh3bng3cGE2OExVUTYwZC1rb3NKS21scTh0QkZ0dlZOMTFjcjNuOHNzNGVYLXhJRW9CTnNucEE?oc=5",
+          "title": "Qantas To Cut 850 Jobs In AI-Led Overhaul",
+          "date": "2026-11-11"
+        }
+      ]
+    },
+    {
+      "value": "63명",
+      "label": "Oracle 플레전튼 사업장 해고 규모",
+      "dir": "down",
+      "sources": [
+        {
+          "name": "Patch",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQU2lPQWtTTWxEaTRWTE9EcjUxbkUyWDJDV1VGTnc5eUdOMUpKeW9UVEFVWWRtQmUxSnZweWowVFFXSEFMTERubFNUNGt4dndRRm9aeGVfYjRSUzc3NW16NldZXzBMTTZOWWRZMGdhZGhQd0tEbXR2alBHZkxOdHJWUVNuOVM3blUtTXIzQkJPS0FYUVc1Zm5BaHN6cl92em9hVEHSAbwBQVVfeXFMT29vMDFyaHlvbl9lNHBRb3hIbXBMcGVuS0syZF9QMVktTzJUOG5MUmRoYWFnR2gzOTVfb05oczdoaWVMNXRMazl2VTRDc1pUWWVkdDZ5M3RxQ3I3aWNCM1E1Q2JyWXM0d2ZtRTZRWERrQjJmdUZCYWI1bG9fcG9OMlg0cmt5RnhIZ2xTbUN5RUdRdG1rdEprRC16elRQOHpMX2ZwWm5BU1JNVXFxWERxcmRxVU1LWEhpdG9ycHM?oc=5",
+          "title": "Oracle To Lay Off 63 Pleasanton Workers Friday; More Local Cuts Loom",
+          "date": "2026-11-12"
+        }
+      ]
+    },
+    {
+      "value": "96명",
+      "label": "멤피스 데이터센터 테크 기업 신규 채용",
+      "dir": "up",
+      "sources": [
+        {
+          "name": "WREG.com",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbHdmVFlqbndmbUZIOE9GYWw0b1RFa0FMTTNEVWNJaHFpcEJWYTduMHB0T1BjQ0RvbEhfbGUtNWR2TTFCajdYTGg0MTdJYVZjZFVac2FoODNLZUZLLUxDRDd6cThscEI5REd5djJqei1FUndCZDlmVW5YOEdxeW5DZ0lHMHBrQdIBhgFBVV95cUxPbHdmVFlqbndmbUZIOE9GYWw0b1RFa0FMTTNEVWNJaHFpcEJWYTduMHB0T1BjQ0RvbEhfbGUtNWR2TTFCajdYTGg0MTdJYVZjZFVac2FoODNLZUZLLUxDRDd6cThscEI5REd5djJqei1FUndCZDlmVW5YOEdxeW5DZ0lHMHBrQQ?oc=5",
+          "title": "Data center tech company adding 96 jobs in Memphis",
+          "date": "2026-11-12"
+        }
+      ]
+    }
+  ],
+  "layoffs": [
+    {
+      "company": "Qualcomm",
+      "kind": "감원",
+      "size": "1,500명",
+      "pct": "",
+      "note": "글로벌 조직개편 일환으로 인도 지사 인력 대규모 해고를 시작했어요.",
+      "sources": [
+        {
+          "name": "The Times of India",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPZmtjVTFRV3l5OGxLcFJkNnE2Qmk0dl9LYzlxXzd3TER5eGhaWU1KT2VsNWJFQV9qQU1xaWFnaXFTUnVWUGZORlVTTkRVNHRTbGlLWGlsNGg1ZTN1cXAxM1NLbDNCeHFmVXZBQWlPYlNPWTRPbGFpRkJjTXI2cldvWHRqUm5FNWxBOTRVak55UWpOelc2aHh0N0FZVkJrdjFuX1lUMG1MZjZQdHI0cklhOGYzbXVQSzdlOGZuOEt4Wm5HZjBwU2p1eDczdlJqZ1BBLU5GN3JOUk5FQzk5blHSAeMBQVVfeXFMUFdiRVhEdV9TVFJ2TDRBN1JuOXpSU2I4WTFkY0QtYy1wVzhVdGFPaU1UTmM1bzQ3YXRXaWlrV1lSRUl2U2hfb2QwX1VFM0FETmlQQTZ5LUhFUW9qeUNJcWtWRnQ5NDNIQ2VMTnFldmRjZWtmWW5ZLXBsdDIwWW1HdVY0QkQxT2VvMWZHeDVORklxMFYyWWNORGhpc19yRXZobVVfZXJlOE5yYXNuZFZKcFRERzNCOURvMmtxUmRlUXloR09KYjF0QkpFb3BVQzBJTE83ZDFkc1djMHVsbUk4d2FTVmc?oc=5",
+          "title": "Qualcomm layoffs 1,500 employees in India amid restructuring",
+          "date": "2026-11-12"
+        },
+        {
+          "name": "HR Katha",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYWs4OVRhemRUMlNwczJuNkRVLURiR2FVajFqbEZjNGRteXljT0tsYk5RdlV6Y3FSelpqNjZjQTI2YU5pcFY0WkpuQWJlOUZnWU1hcGp0OXUzMW1iWkN3bTQ3YTNnSGczN3N2VUo5bjlGSzhzSklRQ3lpZ2FjMk1FOG0yaVl2UVl4Nm5MYkE0OWhUZDhpVEtPU01WTDdHSU9TdFBJY3hNbENoUWZybGtsbFdxendacXItcUI5bGxGTVZuUQ?oc=5",
+          "title": "Qualcomm layoffs raise questions over severance support for affected employees in India",
+          "date": "2026-11-11"
+        },
+        {
+          "name": "APAC Media",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPb01seGQwNDVVV0hoN1c0V01JZWxYb0ZLWElEOGlQTnZud3hZQW5pcUd2cHpYdHVpRWk1RmdkQTktbUZnNGdSQU92dXFwWWhSVUJVMnZza0dhaW1uWmJScm8zTmZuUmdUUnlfcWt1WTlPeVlIRmxPTVh0cUJxbHpyVVZTbDJodVd1Slp2V1oyc1hfaXJBaFU1aU9uZ2hTdw?oc=5",
+          "title": "Qualcomm Begins India Layoffs As Global Tech Pressure Mounts",
+          "date": "2026-11-11"
+        },
+        {
+          "name": "The Economic Times",
+          "url": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxQbFhpSFFfMjhNYUk3eGJwaGdJVVFUTU4tTmN0bmNGRzQxczB6UG9qMU8yWE9mY0ZfdWhmRzZETERoYy1vbk1SM3dTRUROYWFfWi1NU0c4blljVmJ0QXhWOF9sdEZNLTdQTmZ2QVB5bjh5RExUbnVtNDZONlp0NlhLUDh1MUJTY0NzdnNyM201T2xTeGpRdmRYSUotSUtUak1xMWprWXJsUG9LUHRWZ1BoTk4xdnVKZlY3b2Q1eW4zN0ZRRXVoZWRCdjRBMlhCU1dhM3ZmU1VVTlRFNFJ1amUtYTFsVjRwSDBuc1lKNWFZd0d5by1rbk4wYmgxZE82Y0NFLWcweTY4VlVTTnlsTVFjZ20zbGl6aXV5MmdMVzZSUHBkS09wZ0Y2aFQ1SS1lc295TVh6ZFFsTF91OXB3c0dlQktDOGRMc3dOYkhXRnRtcmNPaGVFV0lZVFFJRVE0c1FRY3hHMl85QndpZkxDYmJOUNIB8AJBVV95cUxQbFhpSFFfMjhNYUk3eGJwaGdJVVFUTU4tTmN0bmNGRzQxczB6UG9qMU8yWE9mY0ZfdWhmRzZETERoYy1vbk1SM3dTRUROYWFfWi1NU0c4blljVmJ0QXhWOF9sdEZNLTdQTmZ2QVB5bjh5RExUbnVtNDZONlp0NlhLUDh1MUJTY0NzdnNyM201T2xTeGpRdmRYSUotSUtUak1xMWprWXJsUG9LUHRWZ1BoTk4xdnVKZlY3b2Q1eW4zN0ZRRXVoZWRCdjRBMlhCU1dhM3ZmU1VVTlRFNFJ1amUtYTFsVjRwSDBuc1lKNWFZd0d5by1rbk4wYmgxZE82Y0NFLWcweTY4VlVTTnlsTVFjZ20zbGl6aXV5MmdMVzZSUHBkS09wZ0Y2aFQ1SS1lc295TVh6ZFFsTF91OXB3c0dlQktDOGRMc3dOYkhXRnRtcmNPaGVFV0lZVFFJRVE0c1FRY3hHMl85QndpZkxDYmJOUA?oc=5",
+          "title": "Qualcomm layoffs severance package: 3 months' salary, extra payout based on years of service & one more mo",
+          "date": "2026-11-11"
+        },
+        {
+          "name": "India Today",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPLWZTMHlWdVBjNHBKUl8tRU5HRFk4Tlg3UFhaem15VlA2YVNpR0pvWWxVT0Q2c0VpZ09NNnBISnUtMmlaLWxEeUUtdkREM3NQSHBHZi1ONF83eTM0X1hraFpkVlB2NC0yN1dBZmF6SFZncnFMdF8wR3N3T0FsUFlsdW5xYmRBNThzMVgyYUhhck5qb0FscmZqaThaYS1LekR0dzBuOUFiOGJHRFFZazNvcEVFWG05S3FtNThrWVVveXdKOEM5ZUtFdHg1VklxQVF4UmJRWFRENzh3bVHSAeABQVVfeXFMTl9hc0M3MHcybC1iVTNjazBTQWN1T0RNR0hRb3FBRjBHSkt1a2pMcDFBeVNBaHZXYjBkdmdiekRsamhTajJyTXdVQ3l2WGFGcW5oaWNLZUp1ODYyN2gya1R2VkZWeWZiUVMweXZKSHRENTNxaFQ1MnpyQzdIa3pzbWpVa2UzZm1neWVaSUhiSUJQN0lTZzh1VlYtWUl3VTNlNXNVSlJTUHlXaVlHOVdZXzBGbzR5eHJ0eWZ6VlBPZ0ZLWkdVWEdjdXRGaVlHMnFTVG1CZWFjVmRYVzBIaDN6X0o?oc=5",
+          "title": "Qualcomm layoffs begin in India, here is what Indian employees may get as severance",
+          "date": "2026-11-11"
+        },
+        {
+          "name": "ETHRWorld.com",
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOSDFsamV6VEZYUTUyZFdiTGNQWFhpNTNOU2hFdUdWV1ZJdFFxV0J3bTJrbk1WMVVhV0M2WnFiV3JIc2NYcFo2VnpnTXhTYmI2RnQ2QmtnUkNKel9ZTXBRV0FsUDA3SjMzRDBwLXFqX0lQUFZCVWo4Rnl1Z0pUbFZad05yc1lqVmFvR25iOTdzQ2Npb2hOcFV6eWpVeGtXcjh3VkZLcE8zSlVwUlozZUFZZGpFNHAwYzNQalB1dmJhMXdhMzRQb3VfT2UzLXJvX2NNUjVOSHNXVzVkVUFYcXllbVh3cU83emJfZW45adIB7AFBVV95cUxOSDFsamV6VEZYUTUyZFdiTGNQWFhpNTNOU2hFdUdWV1ZJdFFxV0J3bTJrbk1WMVVhV0M2WnFiV3JIc2NYcFo2VnpnTXhTYmI2RnQ2QmtnUkNKel9ZTXBRV0FsUDA3SjMzRDBwLXFqX0lQUFZCVWo4Rnl1Z0pUbFZad05yc1lqVmFvR25iOTdzQ2Npb2hOcFV6eWpVeGtXcjh3VkZLcE8zSlVwUlozZUFZZGpFNHAwYzNQalB1dmJhMXdhMzRQb3VfT2UzLXJvX2NNUjVOSHNXVzVkVUFYcXllbVh3cU83emJfZW45aQ?oc=5",
+          "title": "Qualcomm begins India layoffs amid global workforce restructuring",
+          "date": "2026-11-11"
+        }
+      ]
+    },
+    {
+      "company": "Qantas",
+      "kind": "감원",
+      "size": "850명",
+      "pct": "",
+      "note": "AI 기반 전사 개편을 추진하며 대규모 일자리를 감축해요.",
+      "sources": [
+        {
+          "name": "BW People",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNeGVpV0xGejhSckhiUThralpaLU9FdE9jYTJaLWJncXJoM3FaZTJDY1ZsUGV6emRtVWEwMldBdjJoZG1zMnBVUEtGVUlkeGJ2WUh3bng3cGE2OExVUTYwZC1rb3NKS21scTh0QkZ0dlZOMTFjcjNuOHNzNGVYLXhJRW9CTnNucEE?oc=5",
+          "title": "Qantas To Cut 850 Jobs In AI-Led Overhaul",
+          "date": "2026-11-11"
+        }
+      ]
+    },
+    {
+      "company": "Oracle",
+      "kind": "감원",
+      "size": "63명",
+      "pct": "",
+      "note": "캘리포니아 레드우드시티 및 플레전튼 지사 직원을 해고해요.",
+      "sources": [
+        {
+          "name": "Patch",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPYXhZQVV6V0kwOEhweTdnbjhrblJEQmhvNnEyakQyWmVSYzBDN3hfYmpseU9QankxSk5HQ3pRdWx3N1VaZVhXcEtMUFVNUlNjWnpOb0VaTm5laTc2ajBMdUFlWk1NcFp1SmtHLWlEWjFRbGFrOGZWRWFJMml2T1BaLTh5UzRzOW83ZEZ1cnVyRXhCMmx5UUc3RUZSaEs1Uk1Jb2l4N0tfZnBVbkNXeWNGQXdxV01rTnV4elHSAdgBQVVfeXFMT3BtZGp5ZXVFcWhBYUJTRUZUeVpmaG0yNGpiSUZLT2dPaW1UR1h6SUJqcUo2Nzd0MXRuSUNSa29NOF9OZ05YbEdjZVRIYWFFV2p4WTBpNVA1RkVTNmVWRjBwcGcwdXRibmxxc19Vdi1pSzJzUEYtMS1sN1dKd2VYQldqUnBLME84V3NaSDViN3M0VGpQYTJvVURROTVEUy1pTkEwdU5RMFdyQk9TbnBOc0JJU0lOaUFGaEVJUkYzYkg1d3MwN0dvd3ZUSG5MNjl5dFdKUnFOZDc1?oc=5",
+          "title": "Oracle To Lay Off Hundreds Of Redwood City Workers Friday; More Local Cuts Loom",
+          "date": "2026-11-12"
+        },
+        {
+          "name": "Patch",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQU2lPQWtTTWxEaTRWTE9EcjUxbkUyWDJDV1VGTnc5eUdOMUpKeW9UVEFVWWRtQmUxSnZweWowVFFXSEFMTERubFNUNGt4dndRRm9aeGVfYjRSUzc3NW16NldZXzBMTTZOWWRZMGdhZGhQd0tEbXR2alBHZkxOdHJWUVNuOVM3blUtTXIzQkJPS0FYUVc1Zm5BaHN6cl92em9hVEHSAbwBQVVfeXFMT29vMDFyaHlvbl9lNHBRb3hIbXBMcGVuS0syZF9QMVktTzJUOG5MUmRoYWFnR2gzOTVfb05oczdoaWVMNXRMazl2VTRDc1pUWWVkdDZ5M3RxQ3I3aWNCM1E1Q2JyWXM0d2ZtRTZRWERrQjJmdUZCYWI1bG9fcG9OMlg0cmt5RnhIZ2xTbUN5RUdRdG1rdEprRC16elRQOHpMX2ZwWm5BU1JNVXFxWERxcmRxVU1LWEhpdG9ycHM?oc=5",
+          "title": "Oracle To Lay Off 63 Pleasanton Workers Friday; More Local Cuts Loom",
+          "date": "2026-11-12"
+        }
+      ]
+    },
+    {
+      "company": "Amazon",
+      "kind": "감원",
+      "size": "",
+      "pct": "",
+      "note": "포트세인트루시 물류센터 리노베이션 중 인력 감원을 확인했어요.",
+      "sources": [
+        {
+          "name": "WPEC",
+          "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxPa2hEdmhULWNvUmZvdk9lLWFRMllPV3hXUlIwY01ub3VwS2JPTDJpSnI2TXFkQ2xrVnZvaXBIWWwzZjJPbVFkcXV5cGFQbGRURF8yUXEzTFE3blpuUmlvUUdXRTg4eXFuRjM3Zk5EdVdlRm9kQzhsNktTUFBtNjBnQm1XMEhVdmRmYzR3bEU3LUlLOVZuWDhxaGRuaUVxbUpVaFBlTkNqeHZzUGlFY2Q3YTFieTVGVm04T01ta0dKZjNHWWplNElsWXVRSW9RYUpuNGM0Q0lmdzlHenFpcVJqa01IX0MzX3JxRVBuYnM0V1d4OFlwalRkTTBfTjlWVFdSS1phRk9tS1BOMlczSlcyZW4zZm5WZGpxaUxWN0o1ZWg3YnZ5bFdKNzZ0YS1KWVMwZ0hXdnU4bFRRd2ViQUFkSWxPWi1RR3VjcGxOV3RjY2pGaVE0S19YejNTb1Z5OEZsUlY3bGhyM0M2TWxxSDUyRUphbm1QSDVZTDJaUFlBRDBHc1dXM0szT1hoSUpLMTlMZzZhdmV1S0FTUQ?oc=5",
+          "title": "Amazon confirms layoffs at Port St. Lucie warehouse this week amid facility renovation",
+          "date": "2026-11-11"
+        }
+      ]
+    }
+  ],
+  "hiring": [
+    {
+      "company": "빅테크 및 주요 글로벌 기업",
+      "role": "AI 전문 엔지니어 및 연구원",
+      "note": "거액 연봉 패키지와 럭셔리 여행 등 파격 보상으로 인재를 채용해요.",
+      "sources": [
+        {
+          "name": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdmVOejVwV01jYzlMM0gtUTZGWmpNXzNKVFl5MmRTVm9kM0JicmUwWnhSUVVZNmNMQTlPaUZvRUdpTXlUTWUxVTZGZW1CRV9OanpSQVhYdnRHMVB0blBuMElaU2MwTVhZWURrMFdRSkFjZ3ZlalY3Z2JqbFVQTUF4R3N3ejRpNk9ISXpTTjFOZ2dhWVJXXzNucWd1cmR3VGdIbW5ZWkR4eERKLU54UWlj?oc=5",
+          "title": "Companies Dole Out Mega Paydays and Luxury Trips to Compete for AI Talent",
+          "date": "2026-11-12"
+        }
+      ]
+    },
+    {
+      "company": "Figure",
+      "role": "휴머노이드 야간 교대 리드",
+      "note": "휴머노이드 현장 감독을 위해 시급 최대 45달러에 채용을 진행해요.",
+      "sources": [
+        {
+          "name": "FourWeekMBA",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMUJzdUszRy1SQU4tUWt5ekVyZGJ0NWlXcFVaZ2kxazJmbU0zUm5lZU1pSEg3eE1nN0ZtZXZlMllkdTloM2NZUk9hTXVtLUs5eUlEVndXSnczVC1LV2U0NnU5LVBqdGJPZ2NuUU1TaVpfQVlkVmZFMTBmUy1OOG53OEVNYjNLdU1RQ2xXTGhRVQ?oc=5",
+          "title": "Figure Pays Up to $45 an Hour to Lead Humanoid Night Shifts",
+          "date": "2026-11-11"
+        }
+      ]
+    },
+    {
+      "company": "데이터센터 테크 기업",
+      "role": "데이터센터 기술 엔지니어",
+      "note": "미국 멤피스 지역에서 인프라 확충을 위해 96명을 신규 채용해요.",
+      "sources": [
+        {
+          "name": "WREG.com",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbHdmVFlqbndmbUZIOE9GYWw0b1RFa0FMTTNEVWNJaHFpcEJWYTduMHB0T1BjQ0RvbEhfbGUtNWR2TTFCajdYTGg0MTdJYVZjZFVac2FoODNLZUZLLUxDRDd6cThscEI5REd5djJqei1FUndCZDlmVW5YOEdxeW5DZ0lHMHBrQdIBhgFBVV95cUxPbHdmVFlqbndmbUZIOE9GYWw0b1RFa0FMTTNEVWNJaHFpcEJWYTduMHB0T1BjQ0RvbEhfbGUtNWR2TTFCajdYTGg0MTdJYVZjZFVac2FoODNLZUZLLUxDRDd6cThscEI5REd5djJqei1FUndCZDlmVW5YOEdxeW5DZ0lHMHBrQQ?oc=5",
+          "title": "Data center tech company adding 96 jobs in Memphis",
+          "date": "2026-11-12"
+        }
+      ]
+    }
+  ],
+  "roles": {
+    "up": [
+      {
+        "name": "AI 엔지니어 및 연구원",
+        "why": "파격적 메가 보상과 패키지 제시로 수요가 집중돼요."
+      },
+      {
+        "name": "프로덕트 매니저(PM)",
+        "why": "SW 개발 채용이 둔화되며 비즈니스 입지가 확대돼요."
+      },
+      {
+        "name": "FDE(Forward-Deployed Engineer)",
+        "why": "기업 데이터 및 AI 현장 적용을 위한 전문 인력이에요."
+      }
+    ],
+    "down": [
+      {
+        "name": "주니어 및 신입 사무직",
+        "why": "AI 도입으로 30세 이하 일자리가 정체 및 축소돼요."
+      },
+      {
+        "name": "일반 소프트웨어 개발자",
+        "why": "AI 도구 확산과 조직 슬림화로 채용이 둔화돼요."
+      }
+    ]
+  },
+  "korea": [
+    {
+      "company": "국내 테크/이커머스 업계",
+      "note": "청년 구직자 취업난이 4년 연속 지속되며 경력 중심 채용이 강화돼요.",
+      "sources": [
+        {
+          "name": "KED Global",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBfYS1HOF9qbEtCZ1AySlFkaHhjZ0g3dzhXRXI1TUhjWjNiMXpzSE51aGNabGxmc0Eta053R182ekwyeWhGangzdWR4Vy0wSDhUcG5fU1lPeG9zZEtSdUxaNlNZVE5GSURJMXc?oc=5",
+          "title": "AI squeezes young Korean job seekers as hiring slumps for 4th straight year",
+          "date": "2026-11-11"
+        }
+      ]
+    },
+    {
+      "company": "잡코리아",
+      "note": "노션과 함께 HR 채용 업무 자동화를 위한 실습 워크숍을 열었어요.",
+      "sources": [
+        {
+          "name": "한국면세뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE92TG8tNkhadDRfazhrZDlrREJKaGFlMHhFeHZRZC1uc0E4U2NLcjN3MVBINkhtTnFUbk0wa29pbkVHLV9nYUljWEhWNTg5aHRNU2hOLVZwMDdLTXJTUHNDc0NFNnVlWVlU?oc=5",
+          "title": "잡코리아, 노션과 채용 AI 워크숍…업무 자동화 실습 진행",
+          "date": "2026-11-12"
+        }
+      ]
+    },
+    {
+      "company": "국내 엔터프라이즈",
+      "note": "FDE(Forward-Deployed Engineer) 역할과 조직 적용이 확대돼요.",
+      "sources": [
+        {
+          "name": "요즘IT",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FVWl5R3UwX3pPdEJCbmNYUnZMQ1NQY0dYRXNqM3ltQVg4b0FQTFlwREluSzhBZERaM0IxSTBuSUdLT1RPRGhhTDZyX1NMU3FjOW5VNUc1ZHlYQQ?oc=5",
+          "title": "국내 FDE 지도 2026: FDE는 무슨 일을 할까",
+          "date": "2026-11-12"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "t20261112-01",
+      "region": "global",
+      "importance": "high",
+      "company": "Qualcomm",
+      "title": "글로벌 조직개편 속 인도 엔지니어링 1,500명 감원",
+      "body": "퀄컴이 비용 절감과 글로벌 조직개편 추진 과정에서 인도 지사 인력 약 1,500명을 해고하기 시작했어요. 대상자에게는 3개월 급여 및 근속 연수 기준의 퇴직 패키지가 지급될 예정이에요.",
+      "insight": "빅테크의 글로벌 R&D 구조조정으로 해외 유수 테크 출신 개발자가 시장에 유입되고 있어, 플랫폼 백엔드 경력직 다이렉트 소싱 기회로 삼을 만해요.",
+      "tags": [
+        "Qualcomm",
+        "구조조정",
+        "해외소싱"
+      ],
+      "sources": [
+        {
+          "name": "The Times of India",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPZmtjVTFRV3l5OGxLcFJkNnE2Qmk0dl9LYzlxXzd3TER5eGhaWU1KT2VsNWJFQV9qQU1xaWFnaXFTUnVWUGZORlVTTkRVNHRTbGlLWGlsNGg1ZTN1cXAxM1NLbDNCeHFmVXZBQWlPYlNPWTRPbGFpRkJjTXI2cldvWHRqUm5FNWxBOTRVak55UWpOelc2aHh0N0FZVkJrdjFuX1lUMG1MZjZQdHI0cklhOGYzbXVQSzdlOGZuOEt4Wm5HZjBwU2p1eDczdlJqZ1BBLU5GN3JOUk5FQzk5blHSAeMBQVVfeXFMUFdiRVhEdV9TVFJ2TDRBN1JuOXpSU2I4WTFkY0QtYy1wVzhVdGFPaU1UTmM1bzQ3YXRXaWlrV1lSRUl2U2hfb2QwX1VFM0FETmlQQTZ5LUhFUW9qeUNJcWtWRnQ5NDNIQ2VMTnFldmRjZWtmWW5ZLXBsdDIwWW1HdVY0QkQxT2VvMWZHeDVORklxMFYyWWNORGhpc19yRXZobVVfZXJlOE5yYXNuZFZKcFRERzNCOURvMmtxUmRlUXloR09KYjF0QkpFb3BVQzBJTE83ZDFkc1djMHVsbUk4d2FTVmc?oc=5",
+          "title": "Qualcomm layoffs 1,500 employees in India amid restructuring",
+          "date": "2026-11-12"
+        },
+        {
+          "name": "HR Katha",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYWs4OVRhemRUMlNwczJuNkRVLURiR2FVajFqbEZjNGRteXljT0tsYk5RdlV6Y3FSelpqNjZjQTI2YU5pcFY0WkpuQWJlOUZnWU1hcGp0OXUzMW1iWkN3bTQ3YTNnSGczN3N2VUo5bjlGSzhzSklRQ3lpZ2FjMk1FOG0yaVl2UVl4Nm5MYkE0OWhUZDhpVEtPU01WTDdHSU9TdFBJY3hNbENoUWZybGtsbFdxendacXItcUI5bGxGTVZuUQ?oc=5",
+          "title": "Qualcomm layoffs raise questions over severance support for affected employees in India",
+          "date": "2026-11-11"
+        },
+        {
+          "name": "APAC Media",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPb01seGQwNDVVV0hoN1c0V01JZWxYb0ZLWElEOGlQTnZud3hZQW5pcUd2cHpYdHVpRWk1RmdkQTktbUZnNGdSQU92dXFwWWhSVUJVMnZza0dhaW1uWmJScm8zTmZuUmdUUnlfcWt1WTlPeVlIRmxPTVh0cUJxbHpyVVZTbDJodVd1Slp2V1oyc1hfaXJBaFU1aU9uZ2hTdw?oc=5",
+          "title": "Qualcomm Begins India Layoffs As Global Tech Pressure Mounts",
+          "date": "2026-11-11"
+        },
+        {
+          "name": "The Economic Times",
+          "url": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxQbFhpSFFfMjhNYUk3eGJwaGdJVVFUTU4tTmN0bmNGRzQxczB6UG9qMU8yWE9mY0ZfdWhmRzZETERoYy1vbk1SM3dTRUROYWFfWi1NU0c4blljVmJ0QXhWOF9sdEZNLTdQTmZ2QVB5bjh5RExUbnVtNDZONlp0NlhLUDh1MUJTY0NzdnNyM201T2xTeGpRdmRYSUotSUtUak1xMWprWXJsUG9LUHRWZ1BoTk4xdnVKZlY3b2Q1eW4zN0ZRRXVoZWRCdjRBMlhCU1dhM3ZmU1VVTlRFNFJ1amUtYTFsVjRwSDBuc1lKNWFZd0d5by1rbk4wYmgxZE82Y0NFLWcweTY4VlVTTnlsTVFjZ20zbGl6aXV5MmdMVzZSUHBkS09wZ0Y2aFQ1SS1lc295TVh6ZFFsTF91OXB3c0dlQktDOGRMc3dOYkhXRnRtcmNPaGVFV0lZVFFJRVE0c1FRY3hHMl85QndpZkxDYmJOUNIB8AJBVV95cUxQbFhpSFFfMjhNYUk3eGJwaGdJVVFUTU4tTmN0bmNGRzQxczB6UG9qMU8yWE9mY0ZfdWhmRzZETERoYy1vbk1SM3dTRUROYWFfWi1NU0c4blljVmJ0QXhWOF9sdEZNLTdQTmZ2QVB5bjh5RExUbnVtNDZONlp0NlhLUDh1MUJTY0NzdnNyM201T2xTeGpRdmRYSUotSUtUak1xMWprWXJsUG9LUHRWZ1BoTk4xdnVKZlY3b2Q1eW4zN0ZRRXVoZWRCdjRBMlhCU1dhM3ZmU1VVTlRFNFJ1amUtYTFsVjRwSDBuc1lKNWFZd0d5by1rbk4wYmgxZE82Y0NFLWcweTY4VlVTTnlsTVFjZ20zbGl6aXV5MmdMVzZSUHBkS09wZ0Y2aFQ1SS1lc295TVh6ZFFsTF91OXB3c0dlQktDOGRMc3dOYkhXRnRtcmNPaGVFV0lZVFFJRVE0c1FRY3hHMl85QndpZkxDYmJOUA?oc=5",
+          "title": "Qualcomm layoffs severance package: 3 months' salary, extra payout based on years of service & one more mo",
+          "date": "2026-11-11"
+        },
+        {
+          "name": "India Today",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPLWZTMHlWdVBjNHBKUl8tRU5HRFk4Tlg3UFhaem15VlA2YVNpR0pvWWxVT0Q2c0VpZ09NNnBISnUtMmlaLWxEeUUtdkREM3NQSHBHZi1ONF83eTM0X1hraFpkVlB2NC0yN1dBZmF6SFZncnFMdF8wR3N3T0FsUFlsdW5xYmRBNThzMVgyYUhhck5qb0FscmZqaThaYS1LekR0dzBuOUFiOGJHRFFZazNvcEVFWG05S3FtNThrWVVveXdKOEM5ZUtFdHg1VklxQVF4UmJRWFRENzh3bVHSAeABQVVfeXFMTl9hc0M3MHcybC1iVTNjazBTQWN1T0RNR0hRb3FBRjBHSkt1a2pMcDFBeVNBaHZXYjBkdmdiekRsamhTajJyTXdVQ3l2WGFGcW5oaWNLZUp1ODYyN2gya1R2VkZWeWZiUVMweXZKSHRENTNxaFQ1MnpyQzdIa3pzbWpVa2UzZm1neWVaSUhiSUJQN0lTZzh1VlYtWUl3VTNlNXNVSlJTUHlXaVlHOVdZXzBGbzR5eHJ0eWZ6VlBPZ0ZLWkdVWEdjdXRGaVlHMnFTVG1CZWFjVmRYVzBIaDN6X0o?oc=5",
+          "title": "Qualcomm layoffs begin in India, here is what Indian employees may get as severance",
+          "date": "2026-11-11"
+        },
+        {
+          "name": "ETHRWorld.com",
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOSDFsamV6VEZYUTUyZFdiTGNQWFhpNTNOU2hFdUdWV1ZJdFFxV0J3bTJrbk1WMVVhV0M2WnFiV3JIc2NYcFo2VnpnTXhTYmI2RnQ2QmtnUkNKel9ZTXBRV0FsUDA3SjMzRDBwLXFqX0lQUFZCVWo4Rnl1Z0pUbFZad05yc1lqVmFvR25iOTdzQ2Npb2hOcFV6eWpVeGtXcjh3VkZLcE8zSlVwUlozZUFZZGpFNHAwYzNQalB1dmJhMXdhMzRQb3VfT2UzLXJvX2NNUjVOSHNXVzVkVUFYcXllbVh3cU83emJfZW45adIB7AFBVV95cUxOSDFsamV6VEZYUTUyZFdiTGNQWFhpNTNOU2hFdUdWV1ZJdFFxV0J3bTJrbk1WMVVhV0M2WnFiV3JIc2NYcFo2VnpnTXhTYmI2RnQ2QmtnUkNKel9ZTXBRV0FsUDA3SjMzRDBwLXFqX0lQUFZCVWo4Rnl1Z0pUbFZad05yc1lqVmFvR25iOTdzQ2Npb2hOcFV6eWpVeGtXcjh3VkZLcE8zSlVwUlozZUFZZGpFNHAwYzNQalB1dmJhMXdhMzRQb3VfT2UzLXJvX2NNUjVOSHNXVzVkVUFYcXllbVh3cU83emJfZW45aQ?oc=5",
+          "title": "Qualcomm begins India layoffs amid global workforce restructuring",
+          "date": "2026-11-11"
+        }
+      ],
+      "date": "2026-11-12"
+    },
+    {
+      "id": "t20261112-06",
+      "region": "korea",
+      "importance": "high",
+      "company": "국내 채용 플랫폼 및 IT업계",
+      "title": "개발자 채용 시 AI 실무 활용 역량 검증 본격화",
+      "body": "국내 IT업계에서 개발자 채용 시 AI 도구를 실무에 얼마나 능숙하게 활용하고 안전하게 통제할 수 있는지가 지원자 평가의 핵심 기준으로 부상하고 있어요.",
+      "insight": "다나와·에누리 개발 직군 코딩 테스트에 AI 코파일럿 환경을 허용하되 코드 리뷰 및 예외 처리 역량을 검증하는 새 면접 방식을 도입할 만해요.",
+      "tags": [
+        "개발자평가",
+        "AI역량",
+        "채용방식"
+      ],
+      "sources": [
+        {
+          "name": "코리아비즈니스리뷰",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNLUpPUlFvbUs1UVJkUHNmQlJJRWo2MDVNdWxhSm12cloxaW5aSDRvc016RUhwLXdtZjNjd0N1TTNuRjk4TGZBTnVUME82SHliMEZHelMwZ3JkcC1UdjVkeWl4TThiT21nNnlHRWI1SzdqNG9mVWIyNmdVSFI3cmxQVHhvZTlnZHRQZ3pkRkh3OUI?oc=5",
+          "title": "개발자 채용과 AI 역량, 세 유형을 가르는 기준",
+          "date": "2026-11-12"
+        },
+        {
+          "name": "한국면세뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE92TG8tNkhadDRfazhrZDlrREJKaGFlMHhFeHZRZC1uc0E4U2NLcjN3MVBINkhtTnFUbk0wa29pbkVHLV9nYUljWEhWNTg5aHRNU2hOLVZwMDdLTXJTUHNDc0NFNnVlWVlU?oc=5",
+          "title": "잡코리아, 노션과 채용 AI 워크숍…업무 자동화 실습 진행",
+          "date": "2026-11-12"
+        },
+        {
+          "name": "강원일보",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE04OUVmU29hTmRuSFBlNGxwOG9QbmprYVh6UENucnFwMjdlV1RPYktMV2d0U3R1aWk4UmREc1dyaFpjT1owcnhYaVhBMGg0V05WQkgwRHdTZkplbjg?oc=5",
+          "title": "[이코노미플러스]취준생 77% “AI 역량 중요”···채용시 공식 평가 기업은 20%",
+          "date": "2026-11-11"
+        }
+      ],
+      "date": "2026-11-12"
+    },
+    {
+      "id": "t20261112-02",
+      "region": "global",
+      "importance": "high",
+      "company": "Oracle",
+      "title": "오라클 캘리포니아 거점 인력 감축 단행",
+      "body": "오라클이 AI 클라우드 설비 투자를 늘리는 한편, 캘리포니아 레드우드시티와 플레전튼(63명) 사업장에서 수백 명 규모의 추가 감원을 단행했어요. 지역 중심 사업장의 슬림화가 이어지고 있어요.",
+      "insight": "인프라·클라우드 엔터프라이즈 출신 엔지니어들의 이직 수요가 늘고 있으므로 플레이오토·메이크샵 클라우드 아키텍트 포지션 타깃 소싱이 유효해요.",
+      "tags": [
+        "Oracle",
+        "감원",
+        "클라우드"
+      ],
+      "sources": [
+        {
+          "name": "Patch",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPYXhZQVV6V0kwOEhweTdnbjhrblJEQmhvNnEyakQyWmVSYzBDN3hfYmpseU9QankxSk5HQ3pRdWx3N1VaZVhXcEtMUFVNUlNjWnpOb0VaTm5laTc2ajBMdUFlWk1NcFp1SmtHLWlEWjFRbGFrOGZWRWFJMml2T1BaLTh5UzRzOW83ZEZ1cnVyRXhCMmx5UUc3RUZSaEs1Uk1Jb2l4N0tfZnBVbkNXeWNGQXdxV01rTnV4elHSAdgBQVVfeXFMT3BtZGp5ZXVFcWhBYUJTRUZUeVpmaG0yNGpiSUZLT2dPaW1UR1h6SUJqcUo2Nzd0MXRuSUNSa29NOF9OZ05YbEdjZVRIYWFFV2p4WTBpNVA1RkVTNmVWRjBwcGcwdXRibmxxc19Vdi1pSzJzUEYtMS1sN1dKd2VYQldqUnBLME84V3NaSDViN3M0VGpQYTJvVURROTVEUy1pTkEwdU5RMFdyQk9TbnBOc0JJU0lOaUFGaEVJUkYzYkg1d3MwN0dvd3ZUSG5MNjl5dFdKUnFOZDc1?oc=5",
+          "title": "Oracle To Lay Off Hundreds Of Redwood City Workers Friday; More Local Cuts Loom",
+          "date": "2026-11-12"
+        },
+        {
+          "name": "Patch",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQU2lPQWtTTWxEaTRWTE9EcjUxbkUyWDJDV1VGTnc5eUdOMUpKeW9UVEFVWWRtQmUxSnZweWowVFFXSEFMTERubFNUNGt4dndRRm9aeGVfYjRSUzc3NW16NldZXzBMTTZOWWRZMGdhZGhQd0tEbXR2alBHZkxOdHJWUVNuOVM3blUtTXIzQkJPS0FYUVc1Zm5BaHN6cl92em9hVEHSAbwBQVVfeXFMT29vMDFyaHlvbl9lNHBRb3hIbXBMcGVuS0syZF9QMVktTzJUOG5MUmRoYWFnR2gzOTVfb05oczdoaWVMNXRMazl2VTRDc1pUWWVkdDZ5M3RxQ3I3aWNCM1E1Q2JyWXM0d2ZtRTZRWERrQjJmdUZCYWI1bG9fcG9OMlg0cmt5RnhIZ2xTbUN5RUdRdG1rdEprRC16elRQOHpMX2ZwWm5BU1JNVXFxWERxcmRxVU1LWEhpdG9ycHM?oc=5",
+          "title": "Oracle To Lay Off 63 Pleasanton Workers Friday; More Local Cuts Loom",
+          "date": "2026-11-12"
+        }
+      ],
+      "date": "2026-11-12"
+    },
+    {
+      "id": "t20261112-00",
+      "region": "global",
+      "importance": "high",
+      "company": "글로벌 테크 전반",
+      "title": "빅테크, 최고급 대우로 핵심 AI 엔지니어 집중 유치",
+      "body": "주요 글로벌 테크 기업들이 핵심 AI 인재 확보를 위해 수백만 달러 규모의 파격적인 연봉과 고급 여행 패키지까지 내걸며 채용 경쟁을 벌이고 있어요. 단순 코딩 직무 대신 AI 아키텍처 및 연구 인재에 자원이 쏠리고 있어요.",
+      "insight": "다나와·에누리 검색 및 추천 고도화를 이끌 핵심 AI 연구원 유치 시 유연한 사이닝 보너스와 프로젝트 주도권 등 맞춤형 보상 정책이 필요해요.",
+      "tags": [
+        "AI채용",
+        "처우경쟁",
+        "핵심인재"
+      ],
+      "sources": [
+        {
+          "name": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdmVOejVwV01jYzlMM0gtUTZGWmpNXzNKVFl5MmRTVm9kM0JicmUwWnhSUVVZNmNMQTlPaUZvRUdpTXlUTWUxVTZGZW1CRV9OanpSQVhYdnRHMVB0blBuMElaU2MwTVhZWURrMFdRSkFjZ3ZlalY3Z2JqbFVQTUF4R3N3ejRpNk9ISXpTTjFOZ2dhWVJXXzNucWd1cmR3VGdIbW5ZWkR4eERKLU54UWlj?oc=5",
+          "title": "Companies Dole Out Mega Paydays and Luxury Trips to Compete for AI Talent",
+          "date": "2026-11-12"
+        }
+      ],
+      "date": "2026-11-12"
+    },
+    {
+      "id": "t20261112-03",
+      "region": "global",
+      "importance": "mid",
+      "company": "Meta",
+      "title": "메타 인프라 수장 교체 및 대규모 설비 투자 체제 전환",
+      "body": "메타를 장기간 이끈 산토시 자나르단 인프라 총괄이 2027년 초 퇴임하고, AWS 출신 데이브 브라운이 최대 1,450억 달러 규모의 AI 인프라 구축을 총괄 승계해요.",
+      "insight": "하이퍼스케일러 간 인프라 핵심 리더십 이동이 가속화됨에 따라 클라우드 대규모 트래픽 운영 역량을 보유한 시니어 엔지니어링 리더 확보 경쟁이 심화돼요.",
+      "tags": [
+        "Meta",
+        "리더십이동",
+        "인프라"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeWwzbDNmUTRSa0E2OEpkNlV4b214YXNJUm5YRGhQY0VCVWE1bVlUX1J0eTVhZzBMVzFmRmJEWmt4clJCdU42NU1TRUo3dzAyXzBMMkxaaFF3VUpEYTk1dlNBMkhyQXlXU0lXamRUT0hoMmNYZmZ2czV2aF90LXItanVUNFhTWWRCNEVqUVd2N1VlTHVRUkpubzlwNk5tZmpTWURN?oc=5",
+          "title": "Meta is losing its longtime head of infrastructure",
+          "date": "2026-11-12"
+        },
+        {
+          "name": "Startup Fortune",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPc1lGU1J0OVNWVVJ0cnNTUWlDcXR0a0dYdVJQSEVjTlYyS2xuV0hxUHQ1czBwb1BjYTc2SjZWSWU3OWViVkpJTHd6emx5a1k3Nng1RnZ1WVBfNzZzQ1pPTnYwUERrQlJCRlhzbXpTX05UNVFOY1JxYUtkRHNRTVg5azBvNjBhUUhwNi1INkYzUEtOS0lEZVZ2M1UwemY2WUZXelpXSGJVMzRJN2I0VEttZUZsMXB6eUpNTU5LOC1R?oc=5",
+          "title": "Meta infrastructure chief Santosh Janardhan will leave in early 2027 as Dave Brown takes over",
+          "date": "2026-11-12"
+        },
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcjRXMkZ5SDBORmhlNnZoTlVDc0prTU05eGdPV19KY1BFRDZRNjY0UFhVRGkweXREQWFrUjN2SmY4ampaV1E4OUZmUFg5SGo0TkpmRTM0TGNzZWl4ZFVsTmNaZFBvbFBWY3hvbnZYNnYyb0hoZURwdzNremF1ckdRdFpWa0hEd2tYa1BHTXJvdXdQR3pUYVZoWW1PbENIR1BaMk5hd3FIVXpYRFU?oc=5",
+          "title": "Meta infrastructure chief Santosh Janardhan to step down in early 2027 - Bloomberg",
+          "date": "2026-11-12"
+        },
+        {
+          "name": "News India Times",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRGlFOU8xbnRkeGctWGh0ZmdFWW1Mc1A5SkFUQ3JRMGFYQmVFSFdscUEwOGU4QlYtTTlRZEw0YVpySU9ZelhGLWk2dnc2bXZ3aGFUTlpqWDJsdGNKUnE2bzh6MUV2UVgwWThkVHNBQzZRTlRKSTFiSlZTaFNsS2VuYTJ4ZlFKcnpqem5nTm9XdDlrTzFKMm16N3VKc1pQUmhfM1FOTXJPTmRFSjJOUnk1LVd2LXE?oc=5",
+          "title": "Meta’s Long-Time Head Of Infrastructure, Engineering Santosh Janardhan To Depart In 2027",
+          "date": "2026-11-12"
+        },
+        {
+          "name": "FourWeekMBA",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQU3kwR1FJMkRHNVZsbEJucHBoZjIwR3RkeFRCQy1XcktwN0lieFJCd2NoSUZVeWttWjVsbVBpdXZXVnI2cFhOQ2xSOWd3OThya2tRRTViVjVTcFU2dnVmTlVCX283RnZMVXRxUEluTU1NbUpRRzBTZERSSk5vcE1CWE1WUmdKenFnZjA0?oc=5",
+          "title": "Ex-AWS Exec Dave Brown to Run Meta’s $135B-$145B Build-Out",
+          "date": "2026-11-12"
+        }
+      ],
+      "date": "2026-11-12"
+    },
+    {
+      "id": "t20261112-04",
+      "region": "global",
+      "importance": "mid",
+      "company": "업계 전반",
+      "title": "AI 확산에 따른 주니어 일자리 축소와 경력직 선호",
+      "body": "미국 사무직 고용에서 30세 이하 일자리는 감소한 반면 35세 이상은 7% 넘게 늘어났어요. 기업들이 AI로 엔트리 업무를 자동화하면서 경험이 풍부한 시니어 인력을 선호해요.",
+      "insight": "커넥트웨이브 전사 신입 공채 시 단순 과제 수행력보다는 AI 도구 활용 능력과 문제 정의 역량을 중점 평가하도록 전형 기준을 개편해야 해요.",
+      "tags": [
+        "주니어채용",
+        "경력직선호",
+        "고용양극화"
+      ],
+      "sources": [
+        {
+          "name": "The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNY2Z4TUZGNm56WTRDc1hGLWdqbHc0ZDlYN1U5Z2VXdkM2R1Yyb0pvTzdUUklQNzJMOTZSVnViSTlzdE56WjAzRm84eEZvclAzZ2RnSjBmRWRnYUZuVzRNejViWTZZV1Q4eTdZZjV3eGc3U3ZoSGI1Y1FrWW5RX3pwdzN1dzBHWEJRd3FkSXNUREtaNklVQXFYY3VrSmNEX0hzcTlaenpDU3pwdE03Zk94SUExQ2lkTk13Rlgw?oc=5",
+          "title": "The job market is tough for young people. Older workers are thriving.",
+          "date": "2026-11-12"
+        },
+        {
+          "name": "이데일리",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWF9NN0ludkUtRUhkZUpUSkxrR3BJVWFLUGlkN1FBNVZPbEs4bzhzY3UyTmc2ckpWSFczSDgyTHlXM1diNS1mV1JhelQ0SEpLS2JzdDhtTWVIOEFUVm8xaGd0dERpMDBsS3RLc2RNYlZBX19pNmRsOW0xV0x5ajVJMA?oc=5",
+          "title": "美 사무직 고용, 30세 이하는 줄고 35세 이상은 7% 넘게 늘어",
+          "date": "2026-11-12"
+        },
+        {
+          "name": "Business Insider",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWlZJb1BIQk85bktCSFlGbGZJdk1ZMXE1WHg1NDA2dUdtaXF6bExnYlZETURMMUdITHhjckhDUTNkWGw1eVVlRmZRWlNhY1Y0Z053bXc4MEFjbFV5RnVaSzBLTnh6RjBLcEg0cHBaYUNxMmc3VmpqWWtMMldPVVlXcmRpQ0JYU2hZckNLRkRnVy1CbVhJQ2R5S3NDNEN6ZGd2UEM2SlVHdm16bHc1dXc?oc=5",
+          "title": "College students are swarming career fairs at 4:30 a.m., waiting in long lines for job interviews",
+          "date": "2026-11-11"
+        }
+      ],
+      "date": "2026-11-12"
+    },
+    {
+      "id": "t20261112-07",
+      "region": "korea",
+      "importance": "mid",
+      "company": "국내 IT 엔터프라이즈",
+      "title": "고객 접점 결합 엔지니어(FDE) 직무 주목",
+      "body": "국내외에서 단순 SI나 개발을 넘어 AI·데이터 솔루션을 비즈니스 현장에 즉시 안착시키는 Forward-Deployed Engineer(FDE) 직무에 대한 관심과 조직 배치가 늘고 있어요.",
+      "insight": "플레이오토 및 메이크샵 제휴사 대상 솔루션 연동을 가속화하기 위해 개발과 기술 컨설팅을 겸비한 FDE형 인재 포지션 신설을 검토할 만해요.",
+      "tags": [
+        "FDE",
+        "직무트렌드",
+        "솔루션엔지니어"
+      ],
+      "sources": [
+        {
+          "name": "요즘IT",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FVWl5R3UwX3pPdEJCbmNYUnZMQ1NQY0dYRXNqM3ltQVg4b0FQTFlwREluSzhBZERaM0IxSTBuSUdLT1RPRGhhTDZyX1NMU3FjOW5VNUc1ZHlYQQ?oc=5",
+          "title": "국내 FDE 지도 2026: FDE는 무슨 일을 할까",
+          "date": "2026-11-12"
+        },
+        {
+          "name": "HRTech Series",
+          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNYWJXVXlWaGxaUXhJeFVobi1hM1ZKTktPdXFtaXptb1FndjBTbTJoLWdoZWtsQmlIY2s4UTBOLU1tM0RLWmJYMTdCSVF5MmZ6Uzl2cGxqUW45ZFducmRVMkh1bGZ1X3AxMHlLVEREU3MyYURSZjdUMWZzVnVjU2JjOWZWZE13UUtjN2N1bi1ibWVpZ1RBRHM3UGlwcTRpenZDbkhUNVY3QjZlNlFfUnpSRllSaTFScnlsNk1WLXZFU2l1Q3RXRDN1blVFcHY3MzdFdUhvd1c2N0VyelFyTzJsZVc0LUdsNy1kT2twSS14SW9Vdw?oc=5",
+          "title": "Burtch Works Partners With Databricks to Drive Data and AI Outcomes Through Specialized Forward-Deployed Talent",
+          "date": "2026-11-11"
+        }
+      ],
+      "date": "2026-11-12"
+    },
+    {
+      "id": "t20261112-05",
+      "region": "global",
+      "importance": "mid",
+      "company": "테크 업계 전반",
+      "title": "SW 개발자 채용 둔화 속 프로덕트 매니저 수요 반등",
+      "body": "소프트웨어 엔지니어링 채용이 둔화되는 추세 속에서 비즈니스 조율과 AI 도구 기반 사업화를 리드할 프로덕트 매니저(PM)의 입지와 수요가 상대적으로 확대되고 있어요.",
+      "insight": "메이크샵·다나와 서비스 기획 시 AI 기반 기능 로드맵을 주도하고 데이터로 비즈니스 임팩트를 증명할 수 있는 프로덕트 오너(PO/PM) 포지션 수혈이 시급해요.",
+      "tags": [
+        "PM채용",
+        "직무수요",
+        "개발채용둔화"
+      ],
+      "sources": [
+        {
+          "name": "news.lavx.hu",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMlYyUTR0V25HbENIR0xWeDJsVFF4U0g1WlNuSUhhYjd0S0ZmUnZoTVAzMmlLZVVRY01RZG9rcXc4MnJBV1ZDdzRCLUFmVTJWYjVVd29uZ0ZQU05OdGFMdldvN2N0YVlZekNfT1Z1bTZtSi1IRUJXZjJtNjZyUTEtYWI4cE1LeXd2WjljV1R2SVpOWjR5QWgyR2RBYmVJZ19zbk5zemtYcFE2QQ?oc=5",
+          "title": "Lenny Rachitsky reports product managers gain ground as software hiring slows",
+          "date": "2026-11-11"
+        }
+      ],
+      "date": "2026-11-11"
+    },
+    {
+      "id": "t20261112-08",
+      "region": "global",
+      "importance": "low",
+      "company": "HR 테크 전반",
+      "title": "원격 HR팀, 생성형 AI 활용해 채용 관리 시스템 자체 구축",
+      "body": "한 원격 기업 HR팀이 클로드(Claude) AI를 활용해 독자적인 ATS(지원자 추적 시스템)를 직접 구축하고 24,000건의 입사 지원서를 자동화 처리했어요.",
+      "insight": "외부 ATS 솔루션 의존도를 낮추고 커넥트웨이브 그룹사 통합 지원자 풀 관리 및 1차 스크리닝 자동화를 위해 자체 AI 워크플로우를 테스트할 수 있어요.",
+      "tags": [
+        "HRTech",
+        "ATS자동화",
+        "채용효율화"
+      ],
+      "sources": [
+        {
+          "name": "People Matters - HR News",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOZjdTOGQzbXQ2TWhza09MLUc1emRoX1RmNFVCek1PTFByZ1BRQWVaeGNuMmNoV2JnYVQtOTlKeFQ0RDRaX1dReXBsMXBKTWNzZXNvOEN2NVBWb0ZIXy1BQzRCcFQwaTRiYy1KdEVEXzlMZ2tZRUFoQWlYdGx3M1lMVFk1TDJRUmJYRlgwSGpseEY4RnpZTTFaYV92U1F4cWVYdWNEZ1FxYlhld2pmV0JsQ3BTc2t5MDY5M0JCUmYxOV9sdlFwOTBJaVNEcUdoRkRUUUM1LXBVazI?oc=5",
+          "title": "Remote HR team uses Claude AI to build its own ATS, processes 24,000 job applications",
+          "date": "2026-11-11"
+        }
+      ],
+      "date": "2026-11-11"
+    }
+  ]
+}

@@ -56,9 +56,418 @@
     ]
    }
   ],
-  "updated": "2026-11-10T13:56+09:00"
+  "updated": "2026-11-12T10:30+09:00"
  },
  "reports": [
+  {
+   "date": "2026-11-12",
+   "window_days": 2,
+   "article_count": 399,
+   "engine": "gemini-3.8-flash",
+   "headline": "네이버 물류 자회사 설립 및 유통·보안업계 인력 감원 지속",
+   "points": [
+    "네이버가 물류 자회사를 신설해 이커머스 풀필먼트 경쟁을 본격화해요.",
+    "SK쉴더스·11번가 등 플랫폼·IT 유통업계의 희망퇴직이 이어지고 있어요.",
+    "사람인·잡코리아가 서류 검증부터 처우 협의까지 돕는 AI 채용 솔루션을 출시했어요."
+   ],
+   "items": [
+    {
+     "cat": "ecom",
+     "importance": "high",
+     "company": "네이버",
+     "title": "네이버, 물류 자회사 신설로 쿠팡 대항 풀필먼트 본격화",
+     "body": "네이버가 물류 전문 자회사를 신설하며 이커머스 배송·물류 사업에 전격 진출해요. 쿠팡 로켓배송에 대응해 풀필먼트 경쟁력을 강화할 방침이에요.",
+     "insight": "커넥트웨이브의 몰테일 및 스윗트래커 물류 인프라와의 경쟁 심화가 예상되며, e-풀필먼트 전문 인력 수요가 급증할 수 있어요.",
+     "action": "네이버 물류 자회사 설립에 따른 이커머스 물류 기획·운영 경력자 이직 동향을 모니터링해 보세요.",
+     "teams": [
+      "인사기획",
+      "채용"
+     ],
+     "tags": [
+      "물류",
+      "풀필먼트",
+      "이커머스",
+      "경쟁사"
+     ],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "한국경제",
+       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBibzB6cE1vYkNYVEpoLWpWV1kxWW5xclN2elJlbExrN2VNc0JweVhrUVQxRUpHS0t0YnhrOUdjdWdyNGx0cWM0TWYyQl9NSTBkM3R1alh2LVM1UQ?oc=5",
+       "title": "[속보] 네이버, 물류 자회사 만든다…물류사업 전격 진출",
+       "date": "2026-11-12"
+      },
+      {
+       "name": "한국경제",
+       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ncV9nVnJTM2F0ak94Wm5OaWFTMXBuV2o3Smx3MElUbHVfNjNWb05tbWdidFd4NGs2c0pfVmE0MnFSUzl6amd3TkpNemZIWWpsZTRNQkRzYnRwdw?oc=5",
+       "title": "네이버, 물류 자회사 만든다…쿠팡 로켓배송에 도전장 [정지은의 테크킥]",
+       "date": "2026-11-12"
+      }
+     ],
+     "date": "2026-11-12",
+     "id": "20261112-00"
+    },
+    {
+     "cat": "market",
+     "importance": "high",
+     "company": "11번가",
+     "title": "11번가, 4년 연속 희망퇴직 등 강도 높은 인력 효율화 지속",
+     "body": "11번가가 4년 연속 희망퇴직을 진행하며 수익성 중심 체질 개선과 인력 슬림화를 지속하고 있어요.",
+     "insight": "이커머스 플랫폼 MD, 서비스 기획, 개발자 풀이 지속적으로 시장에 공급되고 있어 우수 인재 영입 기회예요.",
+     "action": "다나와·에누리 및 메이크샵 플랫폼에 필요한 커머스 기획·MD 인력을 적극 스카우트해 보세요.",
+     "teams": [
+      "채용",
+      "인사기획"
+     ],
+     "tags": [
+      "희망퇴직",
+      "이커머스",
+      "인재영입",
+      "플랫폼"
+     ],
+     "our_group": false,
+     "talent": {
+      "level": "high",
+      "signal": "연속 희망퇴직 진행 — 커머스 MD·기획 인력 시장 유입"
+     },
+     "sources": [
+      {
+       "name": "내외경제TV",
+       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1fbHlYczY0Wk50aXlGcnJkMWZocHo0cDRrbElONlFZODEyQy1pdnNwX1M4Qy1md2VIbGlaOUx1LXFLNGR3NFMxOHNZZW1uVVhySzBtVWNZQ2p5d09wQWZYWDdsTlo4Z1VpdVlV?oc=5",
+       "title": "유통업계 '희망퇴직 도미노'… 생존 몸부림부터 흑자 속 체질 개선까지",
+       "date": "2026-11-12"
+      },
+      {
+       "name": "CEO저널",
+       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1oMElrR2wtci1raTNNbUdzNHo0M2FkUVJKdXdoWTQzQ0pnRjQ1dkpjYlRkMk1PYTl4azNfMWFHemJiVThsMzFIVGtNVlEyc1Bsak5KS3NzVGdfMnE3QkJrOXZNR2h5TFXSAWtBVV95cUxPRnowdUlJUzFhSnRnQTVzRVF0Y2dKX3p0ZEVfVmV4Zm1IVllmT0UtQmhlYmpjeWhHNTdhbHgwcVBFaDBZUmlSTkljNFpjUEdFOE9iZUF3eWoxVDVEY0JoUE9JWGpoLXRRalpJQQ?oc=5",
+       "title": "박현수 11번가 대표, 4년 연속 희망퇴직 뒤 남은 질문",
+       "date": "2026-11-11"
+      }
+     ],
+     "date": "2026-11-12",
+     "id": "20261112-02"
+    },
+    {
+     "cat": "market",
+     "importance": "high",
+     "company": "SK쉴더스",
+     "title": "SK쉴더스, 전사 조직 재정비 및 희망퇴직 단행",
+     "body": "SK쉴더스가 조직 및 인력 재정비에 착수하며 희망퇴직을 실시해요. 경영 효율화와 체질 개선을 위한 조치로 파악돼요.",
+     "insight": "보안 솔루션, 클라우드 보안, IT 인프라 엔지니어 등 고숙련 인력이 외부 노동 시장으로 유출될 가능성이 커요.",
+     "action": "인프라 보안 및 개발 직군 파이프라인 강화를 위해 퇴직 인력을 타깃 소싱해 보세요.",
+     "teams": [
+      "채용"
+     ],
+     "tags": [
+      "희망퇴직",
+      "인력감원",
+      "보안",
+      "채용소싱"
+     ],
+     "our_group": false,
+     "talent": {
+      "level": "high",
+      "signal": "조직 재정비 희망퇴직 단행 — 보안·개발 인력 시장 유입 예상"
+     },
+     "sources": [
+      {
+       "name": "블로터",
+       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1EbzM2NEpSczNZRkJaY3FwREJZbTlBYnMwTTFsRjZkaUtVZV91dWdSLVZUQTRQelNBcFQxNmdOSzFMUzZUMGpOWUZZc093ZXhsc1RjN0haYlJwWTdZV195a2I3MXJYSi00VHBjbdIBbEFVX3lxTE1EbzM2NEpSczNZRkJaY3FwREJZbTlBYnMwTTFsRjZkaUtVZV91dWdSLVZUQTRQelNBcFQxNmdOSzFMUzZUMGpOWUZZc093ZXhsc1RjN0haYlJwWTdZV195a2I3MXJYSi00VHBjbQ?oc=5",
+       "title": "SK쉴더스, 조직·인력 재정비 착수…희망퇴직 실시",
+       "date": "2026-11-11"
+      }
+     ],
+     "date": "2026-11-11",
+     "id": "20261112-01"
+    },
+    {
+     "cat": "labor",
+     "importance": "high",
+     "company": "고용노동부",
+     "title": "고용노동부, 포괄임금·고정OT 오남용 기획감독 진행",
+     "body": "고용노동부가 공짜 노동 근절을 위해 포괄임금제 및 고정OT 수당의 실제 근로시간 대조와 오남용 실태를 점검하는 기획감독을 추진하고 있어요.",
+     "insight": "IT·이커머스 업계 특성상 연장근무 기록 누락이나 수당 계산 오류 발생 시 법적 리스크가 매우 커질 수 있어요.",
+     "action": "그룹사 전반의 PC-OFF 및 실제 근태 기록과 고정OT 산정 기준이 적법하게 일치하는지 전수 점검해 보세요.",
+     "teams": [
+      "노무·ER",
+      "보상·복리후생"
+     ],
+     "tags": [
+      "포괄임금",
+      "고정OT",
+      "근로감독",
+      "노무이슈"
+     ],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "시프티 블로그",
+       "url": "https://shiftee.io/ko/blog/article/2026-inclusive-wage-fixed-ot-audit",
+       "title": "2026 포괄임금제 근태관리: 고정OT 수당 계산·대조와 기획감독 점검 항목 고용노동부는 ‘공짜 노동’ 근절을 위해 2026년 9월 15일부터 약 두 달간 「포괄임금·고정OT 오남용 기획 감독」을 실시하... 202",
+       "date": "2026-11-12"
+      }
+     ],
+     "date": "2026-11-12",
+     "id": "20261112-04"
+    },
+    {
+     "cat": "labor",
+     "importance": "high",
+     "company": "고용노동부",
+     "title": "노동부, 2년 초과 근무 외국인 근로자 무기계약직 전환 행정해석 검토",
+     "body": "고용노동부가 2년 이상 근무한 외국인 근로자의 무기계약직(기간의 정함이 없는 근로계약) 전환 관련 행정해석 변경을 검토 중인 것으로 알려졌어요.",
+     "insight": "풀필먼트 물류 현장 등에서 외국인 계약직을 장기 활용하는 경우 법적 지위 변화에 따른 고용 비용 및 인력 운용 리스크가 발생해요.",
+     "action": "스윗트래커·몰테일 등 그룹 물류 현장의 외국인 근로자 계약 기간 및 고용 구조 현황을 파악해 보세요.",
+     "teams": [
+      "인사기획",
+      "노무·ER"
+     ],
+     "tags": [
+      "외국인근로자",
+      "무기계약직",
+      "노동법",
+      "행정해석"
+     ],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "월간노동법률",
+       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE53bTBiMS1nLTRiS3BmRDNNSUZIbzBLODFRVTloOXdVYUNpNTZBNGhpYUZvX3ZHNTkwUVU3TUd6LXQzd2Y3WUR0c2NGRGQ1R2tKUnM0TzNzVFNlUTI3Z3RJSWNpSDBqU1ZuV3A5Vmh3WEprckFDMFZ4aEFnMWVMVnM?oc=5",
+       "title": "[단독] 2년 넘게 일한 ‘50만’ 외국인, 무기계약직 전환되나…노동부 “행정해석 변경 검토”",
+       "date": "2026-11-11"
+      }
+     ],
+     "date": "2026-11-11",
+     "id": "20261112-06"
+    },
+    {
+     "cat": "market",
+     "importance": "mid",
+     "company": "에이피알",
+     "title": "에이피알, 글로벌 마케팅 직군 대규모 특별채용 진행",
+     "body": "글로벌 뷰티테크 기업 에이피알이 미국·유럽·일본 등 글로벌 시장 확장에 대응해 마케팅 인력을 대규모로 특별 채용해요.",
+     "insight": "크로스보더 커머스 및 글로벌 퍼포먼스 마케터 직군의 채용 경쟁이 과열될 가능성이 높아요.",
+     "action": "몰테일의 해외 사업 및 크로스보더 마케팅 담당자 처우 수준을 점검하고 선제적 인재 확보에 대비해 보세요.",
+     "teams": [
+      "채용"
+     ],
+     "tags": [
+      "마케팅채용",
+      "글로벌인재",
+      "크로스보더",
+      "경쟁동향"
+     ],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "ABC뉴스",
+       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1iY1B0VTctRU9TUTU0cndXQWxMRkJVbEhIZFczaDRjSEhIUWY5N2tKNXVWYlFESTJNODBrckNPN2lyQ3R2WkJXdURkZVJpUVRnbUttQUVhU3d6QnF3ckZXUzFTbWFSUVnSAWdBVV95cUxNYmNQdFU3LUVPU1E1NHJ3V0FsTEZCVWxISGRXM2g0Y0hISFFmOTdrSjV1VmJRREkyTTgwa3JDTzdpckN0dlpCV3VEZGVSaVFUZ21LbUFFYVN3ekJxd3JGV1MxU21hUlFZ?oc=5",
+       "title": "에이피알, 글로벌 마케팅 직군 대규모 특별채용",
+       "date": "2026-11-11"
+      },
+      {
+       "name": "피앤피뉴스",
+       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1VbV9wMEdaNGgwckRkUjhERGdEUG1nTTUtWnhvMFQ4MjlYZmh6NnV3bmNHc2VjWGF6MFpoR0tWRlF6WmctS2JUOEt0VFBGTjVhRjRzOHpn?oc=5",
+       "title": "에이피알, 국내외 마케팅 인재 특별채용…미국·유럽·일본 등 글로벌 인력 확충",
+       "date": "2026-11-11"
+      },
+      {
+       "name": "핸드메이커",
+       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE12LTI2LXo2TUxhT0NoWUhsS1BKS0RWYmllb2Y2VGJOajROdVFDOThxellzTUJ6TmZSWGw1bXZRQ19vYkdhaEkzZ0RPaVFGd0Z2NUtyWTdSMFlfdmxSV0dBV0NRZ2hGQVpsQmNN0gFrQVVfeXFMTXYtMjYtejZNTGFPQ2hZSGxLUEpLRFZiaWVvZjZUYk5qNE51UUM5OHF6WXNNQnpOZlJYbDVtdlFDX29iR2FoSTNnRE9pUUZ3RnY1S3JZN1IwWV92bFJXR0FXQ1FnaEZBWmxCY00?oc=5",
+       "title": "에이피알, 미국·유럽·일본 등 국내외 마케팅 인재 특별채용",
+       "date": "2026-11-11"
+      },
+      {
+       "name": "livesnews.com",
+       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1pSzVrMUstUzJtZGpINDVZZzdhS2Vhdzl2cmNCTlY4RTdkcWlnR3FpdnNqdmlXM3Bub0tMYnNHZGFnbEhiN21nWFN0ZlpUMFFjTEFqTjRnQzZwb190M3VmSlhR?oc=5",
+       "title": "에이피알, 국내외 마케팅 인재 특별 채용 진행",
+       "date": "2026-11-11"
+      },
+      {
+       "name": "빅데이터뉴스",
+       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBpOGM5SmRXSnc1dGp6YV9pTmhTTGsxaXEzazNHUUJtZ1lwQ282UXgySDNNanF2c0tGQ29mVjFrNDlUQ09fOFVJMDlfRlpHM1llMXl0OGtQaWxrbUlCS3hXSkNxYzFvUzZPVnNHSUJ2WjdDT1o5QmdYVzBiMzY?oc=5",
+       "title": "에이피알, 메디큐브 글로벌 성장 대응 마케팅 특별채용...신입·경력 동시 모집",
+       "date": "2026-11-11"
+      },
+      {
+       "name": "직썰",
+       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE91OW1ObDVlUWd0M0lhU0V6OEQzdWZiTUI0UGluY3BXdWdTcGg1RkNHeW9ibjhON1RTSGlRZWxLR1dPU3dFcmtjckJZdzZiRUhycUFwNFhKNWRBOGVLOVFaZnhCQ1haOHoxUVdHadIBbEFVX3lxTE91OW1ObDVlUWd0M0lhU0V6OEQzdWZiTUI0UGluY3BXdWdTcGg1RkNHeW9ibjhON1RTSGlRZWxLR1dPU3dFcmtjckJZdzZiRUhycUFwNFhKNWRBOGVLOVFaZnhCQ1haOHoxUVdHaQ?oc=5",
+       "title": "에이피알, 글로벌 사업 확대에 마케팅 인력 확충 나선다…국내외 특별채용 실시",
+       "date": "2026-11-11"
+      }
+     ],
+     "date": "2026-11-11",
+     "id": "20261112-05"
+    },
+    {
+     "cat": "trend",
+     "importance": "mid",
+     "company": "사람인",
+     "title": "사람인, 서류 검증부터 처우 협의까지 'AI 채용 에이전트' 출시",
+     "body": "사람인이 지원서 검토부터 후보자 역량 검증, 연봉 협상 등 처우 협의 단계까지 인사담당자의 의사결정을 지원하는 'AI 채용 에이전트'를 출시했어요.",
+     "insight": "채용 프로세스 전반에서 AI 에이전트 활용이 고도화되어 리크루팅 리드타임을 획기적으로 줄일 수 있어요.",
+     "action": "채용 전형별 AI 솔루션 도입 타당성을 검토하고 서류 스크리닝 자동화 방안을 테스트해 보세요.",
+     "teams": [
+      "채용",
+      "인사기획"
+     ],
+     "tags": [
+      "AI채용",
+      "HRTech",
+      "채용자동화",
+      "처우협의"
+     ],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "한스경제",
+       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBfWTR2eDdLT0lQMk5WbjBHUXRZOGNIZFhMS3VyV0dvZXpoc29IUGdNcGw3QzZ0dkxWYml2U1lkMVVtVVJjRUlwUXdnWnEzME5xZlZNWUNLSjNLNHpJR1RTQkIweUlFZHVvQkJnT9IBb0FVX3lxTE5CR09yQ2RuaEdES05NV0R6TTFXbEt3T3BMeWUtejh5bllmckh2RTFGY0VOR2p2MGhZVmcwSzUwOHNiaGRNSHk5RjlfTWZxMnZxVU05aFE5Yl9zT2s5Y2FscTEyZlBaSUZUSmdNRkNnaw?oc=5",
+       "title": "사람인, 서류부터 연봉 협상까지…’AI 채용 에이전트’ 출시",
+       "date": "2026-11-12"
+      },
+      {
+       "name": "지디넷코리아",
+       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBHR1g3WEZHc1FWTUxBTDM3RmZ6TElSeGZKMUdEOHZQbjYwRnlFeXZCSXU2U3RSR2ZwLXI0R2pXZGhTam5yRjBkMFJXTXhhSFhCWG1pZVpn?oc=5",
+       "title": "\"서류검증부터 연봉협상까지 돕는다”…사람인, ‘AI 채용 에이전트’ 출시",
+       "date": "2026-11-12"
+      },
+      {
+       "name": "뉴스1",
+       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBVWHo2SDB3Rm55bGVjdHlyU1VTMFowUXB2bnB0Y0FWQnpGUGp2RFhrQ1JaQWRHWkNDSTRJbFo4WTZjOWZkbVFXdkpDQ29DdWJWbEl3YTRfNGVqRkJ0V0ZxdEJKcmg?oc=5",
+       "title": "사람인, 'AI 채용 에이전트' 선봬…인사담당자 의사결정 지원",
+       "date": "2026-11-12"
+      },
+      {
+       "name": "싱글리스트",
+       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE10WFM0aUh1UEdTQ01sdGFGOWlKdkt4Wkpnb2xLTWtsUUhEeko3Nk9mVV9NQUhWMzFRSHZreVZBdzVMR3BfZEhuRzROaGZic3FsRHhKbkFibWYzclVDeUR0eEdDYnVIdw?oc=5",
+       "title": "사람인, 'AI 채용 에이전트' 출시…서류 검토부터 처우 협의까지",
+       "date": "2026-11-12"
+      }
+     ],
+     "date": "2026-11-12",
+     "id": "20261112-03"
+    },
+    {
+     "cat": "labor",
+     "importance": "mid",
+     "company": "한국장애인고용공단",
+     "title": "2027년 장애인 의무고용률 인상 확정에 따른 사전 점검 권고",
+     "body": "2027년 장애인 의무고용률 인상이 확정됨에 따라 기업들의 장애인 고용 계획 및 맞춤형 직무 개발 필요성이 대두되고 있어요.",
+     "insight": "의무고용률을 채우지 못할 경우 고용부담금 지출이 급증하므로, 단순 노무직 외에 새로운 직무 발굴이 필수적이에요.",
+     "action": "재택 데이터 라벨링, 모니터링 등 그룹사 서비스에 적합한 장애인 맞춤형 신규 직무를 기획해 보세요.",
+     "teams": [
+      "보상·복리후생",
+      "인사기획"
+     ],
+     "tags": [
+      "장애인의무고용",
+      "고용부담금",
+      "직무개발",
+      "복리후생"
+     ],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "기고만장",
+       "url": "https://ggmj.kr/vdream/?idx=175548346&bmode=view",
+       "title": "[브이드림] 2027년 장애인 고용, 지금 점검해야 할 포인트는? (장애인 의무고용률 인상 확정) --> --> --> [브이드림] 2027년 장애인 고용, 지금 점검해야 할 포인트는? (장애인 의무고용률 인상 확정",
+       "date": "2026-11-12"
+      },
+      {
+       "name": "고용노동부 보도자료",
+       "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=20238",
+       "title": "장애인 고용의 가능성, 새로운 직무에서 찾는다",
+       "date": "2026-11-12"
+      }
+     ],
+     "date": "2026-11-12",
+     "id": "20261112-08"
+    },
+    {
+     "cat": "labor",
+     "importance": "mid",
+     "company": "고용노동부",
+     "title": "지방정부 근로감독 권한 분산 법안 시행 대비 안내",
+     "body": "2026년 12월 8일부터 노동감독관 직무집행법 시행에 따라 고용노동부장관의 근로감독 권한 일부가 지자체 시·도지사로 분산돼요.",
+     "insight": "소규모 사업장이나 지역 단위 물류 거점에 대한 감독 빈도와 강도가 이전보다 대폭 강화될 수 있어요.",
+     "action": "지방 소재 물류센터 및 지사의 근태·휴게시간·안전보건 점검 체크리스트를 정비해 보세요.",
+     "teams": [
+      "인사기획",
+      "노무·ER"
+     ],
+     "tags": [
+      "근로감독",
+      "지방정부",
+      "노무리스크",
+      "컴플라이언스"
+     ],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "시프티 블로그",
+       "url": "https://shiftee.io/ko/blog/article/regional-labor-inspection-delegation-under-30-employees",
+       "title": "2026년 12월 지방정부 노동감독 시행: 30인 미만 사업장 주요 확인 사항 2026년 12월 8일부터 노동감독관 직무집행법이 시행되면서, 고용노동부장관의 사업장 근로감독 권한의 일부를 지방정부 시·도지... 20",
+       "date": "2026-11-12"
+      }
+     ],
+     "date": "2026-11-12",
+     "id": "20261112-07"
+    },
+    {
+     "cat": "trend",
+     "importance": "low",
+     "company": "문화체육관광부",
+     "title": "여가친화기업 인증 확산과 워라밸 중심 조직문화 부각",
+     "body": "조폐공사, 파주도시공사, 섹타나인, 케이에스넷 등이 유연근무제 운영 및 일·생활 균형 제도를 인정받아 2026년 여가친화기업 인증을 획득했어요.",
+     "insight": "유연근무와 일·삶의 조화는 우수 IT 개발 인재 유치와 직원 리텐션(재직 유지)을 위한 핵심 요소예요.",
+     "action": "우리 그룹의 시차출퇴근 및 유연근무 운영 만족도를 설문하고 개선 아이디어를 도출해 보세요.",
+     "teams": [
+      "조직문화·HRD"
+     ],
+     "tags": [
+      "여가친화기업",
+      "워라밸",
+      "유연근무",
+      "조직문화"
+     ],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "글로컬타임스",
+       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1vLS1SSEFiMWluN3AxWW8zSGJtNnRKYkQwdXNFX0dBc1lQM0ZzM0VfWVF5X3JFSFJQQ1QybkZyMk5yNm9ib1k2dW5Cd1VfalNrcVFDV1dhd0NldFlZeDR1WmU3OUw3dFNWbFhKS9IBbEFVX3lxTE1vLS1SSEFiMWluN3AxWW8zSGJtNnRKYkQwdXNFX0dBc1lQM0ZzM0VfWVF5X3JFSFJQQ1QybkZyMk5yNm9ib1k2dW5Cd1VfalNrcVFDV1dhd0NldFlZeDR1WmU3OUw3dFNWbFhKSw?oc=5",
+       "title": "조폐공사, 일과 삶이 조화로운 일터... ‘2026년 여가친화기업’ 재인증 획득",
+       "date": "2026-11-11"
+      },
+      {
+       "name": "미래경제",
+       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBqVVdQbUdFcWNGcmZ4SzBEYXdTS2xGNDdXc1FqM1BYR3Jrd2RWdjZmbFVlMjctam9sRDhDcnpWZ1FNcXJtZmZhWTM0OThxdmRxak1nakhXNXRXVlhhR01hQWI0MERoenRDMXVNeA?oc=5",
+       "title": "섹타나인, 여가친화기업 재인증…유연근무에 임직원 주도 독서문화까지",
+       "date": "2026-11-11"
+      },
+      {
+       "name": "뉴스투데이",
+       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE05di0xdmtpb05od1pmSUxXMUxsWFMzVmpndkRCNWVqSk96clo2V0ptMHZscEhVaEZxRzhjTEpmeWNqOUdyNnVtZ2FjNDNpOHhTTGNTblQyMlRWSU5MRVE?oc=5",
+       "title": "한국조폐공사, '2026 여가친화기업' 재인증 획득...일·삶 균형 조직문화 정착",
+       "date": "2026-11-11"
+      },
+      {
+       "name": "서프라이즈뉴스",
+       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB4T3N6STlLZEJ0b3JmbDJnMUtXdVFhUGtuXzJCYkpJWFdmZUFCZDNKVGZHY25JSjRBeVNTend2YmhWbEdRTGV6amtyLUhLTmFmejlIY3JBZGllOTBpc2JxS2NZakFSa19pQmpQZDZuVQ?oc=5",
+       "title": "파주도시공사, ‘2026 여가친화경영’ 재인증…일과 삶이 조화로운 조직문화 인정",
+       "date": "2026-11-11"
+      },
+      {
+       "name": "CEO경제신문",
+       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBhTHpoYnBRVG1NeE1fSnhNSnQwalpmTmlkUHZwazVveGhmTWpvVUpEc0h2SjJxbTBrQzVqNVEtZ2NiLXVXVUVCWk1semttREJTU2hzQ1c2UG1ocnYzQl9qZUdKSU5WRVpBT0pEYw?oc=5",
+       "title": "케이에스넷, 여가친화인증 획득… 직원 만족도 대기업 평균 상회",
+       "date": "2026-11-11"
+      }
+     ],
+     "date": "2026-11-11",
+     "id": "20261112-09"
+    }
+   ]
+  },
   {
    "date": "2026-11-10",
    "window_days": 1,
