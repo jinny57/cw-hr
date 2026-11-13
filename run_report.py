@@ -323,7 +323,10 @@ def gemini(prompt):
                 out = gemini_one(prompt, m, waits=[15, 30, 60, 60, 90] if i == 0 else [20, 40])
                 USED_ENGINE = m
                 return out
-            except (ModelNotFound, ServerBusy, RuntimeError) as e:
+            except (ModelNotFound, ServerBusy, RuntimeError, requests.RequestException) as e:
+                # 응답 시간 초과·연결 끊김도 혼잡으로 보고 다음 모델로 넘어가요
+                if isinstance(e, requests.RequestException):
+                    e = RuntimeError(f"{m} 응답 없음({type(e).__name__})")
                 errors.append(str(e)[:120])
                 nxt = models[i + 1] if i + 1 < len(models) else ("Claude(예비 AI)" if ANTHROPIC_KEY else "")
                 print(f"  ⚠️  {str(e)[:200]}" + (f" → {nxt}로 다시 시도해요" if nxt else ""))
