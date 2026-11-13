@@ -1,6 +1,6 @@
 {
   "date": "2026-11-13",
-  "article_count": 139,
+  "article_count": 135,
   "engine": "없음",
   "headline": "오늘은 AI 분석이 실패해 기사 제목만 모았어요",
   "summary": [],
@@ -285,22 +285,41 @@
       "region": "global",
       "importance": "low",
       "company": "IBTimes India",
-      "title": "Apple fires hardware programme managers; Canva, Microsoft, Zomato lay off workers as AI takes over",
-      "body": "Apple fires hardware programme managers; Canva, Microsoft, Zomato lay off workers as AI takes over IBTimes India",
+      "title": "Microsoft outage hits India; employees celebrate unexpected break as Outlook, Teams go down; Workers switch to Slack amid layoffs",
+      "body": "Microsoft outage hits India; employees celebrate unexpected break as Outlook, Teams go down; Workers switch to Slack amid layoffs IBTimes India",
       "insight": "",
       "tags": [],
-      "date": "2026-11-12",
+      "date": "2026-11-13",
       "sources": [
         {
           "name": "IBTimes India",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOeXJUOVhqS3YyV0RYV1Bta3ljblBxWHZUQWdpa1hPc1l5aXR2MGJfazlDaDNqMGdXUlJKbjJBejlKWkhqN1NlbFdQQlBUSV9jckVWS29md3pNcjRPWDdjUEVIWm1ZSFR3V1VJTlpDdWVwRnAtelBzS3hRLU8wOUxfRkN3bFQ2dnZZUXJGQTB1VGNVVlFUZTNEQVB3MjZGZUtRN0x2NFFlZF9CX1hHRk5vSEwwbWlTdWE2VW9IYlZESUJZRzg?oc=5",
-          "title": "Apple fires hardware programme managers; Canva, Microsoft, Zomato lay off workers as AI takes over",
-          "date": "2026-11-12"
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNd2dkSUh0aU9fZzd0T2RSLUp1RDNYUkNQbEdXVVpBR05OTWlrSnREQzFnMldMOXozbmtFd3pDdkhPRXYwOGJFaEdvZTREYzhRYjBtWFphMDZOSVJ2UWk2QWxDMDh6cGRHR2dNUEQtVnJaQzJPWENTVDR6T0VmN2dKeGtHX3hnZ052bEZMblVHRGZYeHBLZEFyUE0tOTBlQ0MycW1ZcU9heEM5d3FtbDBLbHlPdnFDSlVIUVNGalNTZmhHcGlPdnc?oc=5",
+          "title": "Microsoft outage hits India; employees celebrate unexpected break as Outlook, Teams go down; Workers switch to Slack amid layoffs",
+          "date": "2026-11-13"
         }
       ]
     },
     {
       "id": "t20261113-f15",
+      "region": "global",
+      "importance": "low",
+      "company": "Moomoo",
+      "title": "Structural Divergence in U.S. Employment Amid AI-Driven Restructuring",
+      "body": "Structural Divergence in U.S. Employment Amid AI-Driven Restructuring Moomoo",
+      "insight": "",
+      "tags": [],
+      "date": "2026-11-13",
+      "sources": [
+        {
+          "name": "Moomoo",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPOThlbXJfNTRTbkRDV3VOUmU1VjZXVjlkck53Z2V4aEJ2dEZBTnRScXhWZ2lYOHZLdmZ4bkgtSHFSOG1UZDNVNHpxa2ZTaEFrcE1zck1mWmZ0bXJUUTBJSnJtVC1nUXFGend3Zmo0TE84UlR3bHJhZV8ySWpRX2MzTlpHQUhfZ3FUcl9tVWh4VDBVVWh1ekpISmlPUGwzNFRVLXE2U1ZhRWpSaXZvT29IU0hmWWFBMGwwamJzQUUzY2RBZkNtT3N2SDVR?oc=5",
+          "title": "Structural Divergence in U.S. Employment Amid AI-Driven Restructuring",
+          "date": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "id": "t20261113-f16",
       "region": "global",
       "importance": "low",
       "company": "Nacionale",
@@ -319,7 +338,7 @@
       ]
     },
     {
-      "id": "t20261113-f16",
+      "id": "t20261113-f17",
       "region": "global",
       "importance": "low",
       "company": "Moneycontrol.com",
@@ -338,7 +357,7 @@
       ]
     },
     {
-      "id": "t20261113-f17",
+      "id": "t20261113-f18",
       "region": "global",
       "importance": "low",
       "company": "iPhone in Canada",
@@ -357,7 +376,7 @@
       ]
     },
     {
-      "id": "t20261113-f18",
+      "id": "t20261113-f19",
       "region": "global",
       "importance": "low",
       "company": "Tempo.co English",
@@ -372,25 +391,6 @@
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdGg3TkFuUm4tNk1aRTR3UmQxRkJsRGd6TXlBckVDWUxrSmpTbERjcXRKVmFiS2EzUUs4MTN4cWZmblBFZVViY3RXWEgtMUQxZVVya25MSFJiMHBLQ3B0NzBHcURPQ2pMYml0d2pydlpxMmVxUXRWYy1uRlNpUlNnLW1qWTJycFVfLVBxSHZPZmtWSkdsU0ZTb3N0bw?oc=5",
           "title": "Widespread Microsoft 365 Outage Hits Outlook, Teams and Copilot",
           "date": "2026-11-13"
-        }
-      ]
-    },
-    {
-      "id": "t20261113-f19",
-      "region": "global",
-      "importance": "low",
-      "company": "Aerospace Global News",
-      "title": "£5.7B easyJet buyout gets shareholder greenlight as CEO hails win for passengers and staff",
-      "body": "£5.7B easyJet buyout gets shareholder greenlight as CEO hails win for passengers and staff Aerospace Global News",
-      "insight": "",
-      "tags": [],
-      "date": "2026-11-12",
-      "sources": [
-        {
-          "name": "Aerospace Global News",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeXFWTG4ycnIxa2EwQll2NTk1bWZNNGp0UzQ2QzhkNXhPU2xWUUpINDR2YlBBYWVpclk5d1FHNFp3c0pmZV8yWEJwNHVLdWoyV1p5OVlObjhDVm5SYXprdGUzazU0enJ0TnFnZ2ZPeHdlZnpuLU5qYkpnQWZHNHpqNg?oc=5",
-          "title": "£5.7B easyJet buyout gets shareholder greenlight as CEO hails win for passengers and staff",
-          "date": "2026-11-12"
         }
       ]
     }
