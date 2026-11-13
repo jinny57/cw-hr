@@ -96,7 +96,7 @@ def collect(tc, days):
 def build_prompt(cfg, arts, date):
     group = ", ".join(cfg.get("our_group", []))
     listing = "\n".join(
-        f"[{i}] ({'해외' if a['region'] == 'global' else '국내'}·{a['date']}) {a['title']} | {a['source']} | {a['snippet'][:120]}"
+        f"[{i}] ({'해외' if a['region'] == 'global' else '국내'}·{a['date']}) {a['title']} | {a['source']}"
         for i, a in enumerate(arts))
     return f"""당신은 커넥트웨이브 HR실 채용팀의 시장 분석가예요.
 커넥트웨이브는 가격비교(다나와·에누리), 셀러 솔루션(메이크샵·플레이오토), 물류·배송(스윗트래커·몰테일)을 운영하는 이커머스 그룹이에요({group}).
@@ -146,7 +146,10 @@ def to_sources(ids, arts):
 
 
 def analyze(cfg, arts, date):
-    arts = sorted(arts, key=lambda a: a["date"], reverse=True)[:240]
+    # 기사가 너무 많으면 AI 응답이 시간 초과돼요 → 최신 140건만, 해외·국내 고르게
+    arts = sorted(arts, key=lambda a: a["date"], reverse=True)
+    kr = [a for a in arts if a["region"] == "korea"][:50]
+    arts = [a for a in arts if a["region"] == "global"][:140 - len(kr)] + kr
     print(f"  🧠 채용 추이 분석 중… 기사 {len(arts)}건")
     d = rr.gemini(build_prompt(cfg, arts, date))
 
