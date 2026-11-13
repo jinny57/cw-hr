@@ -1,86 +1,61 @@
 {
   "date": "2026-11-13",
-  "article_count": 135,
-  "engine": "없음",
-  "headline": "오늘은 AI 분석이 실패해 기사 제목만 모았어요",
-  "summary": [],
-  "numbers": [],
-  "layoffs": [],
-  "hiring": [],
-  "roles": {
-    "up": [],
-    "down": []
-  },
-  "korea": [],
-  "analysis_error": "HTTPSConnectionPool(host='generativelanguage.googleapis.com', port=443): Read timed out. (read timeout=240)",
-  "items": [
+  "article_count": 136,
+  "engine": "gemini-3-flash-preview",
+  "headline": "AI 중심의 조직 재편과 빅테크의 '저채용·저해고' 기조 지속",
+  "summary": [
+    "AI 기술 도입에 따른 글로벌 테크 기업들의 대규모 조직 개편 및 감원 지속",
+    "특수 직군(AI 보안, 핵심 엔지니어)에 대한 처우 급등 및 채용 경쟁 심화",
+    "국내 금융권 및 IT 업계의 채용 방식 변화(코딩 테스트 폐지 및 학벌 중시 경향)"
+  ],
+  "numbers": [
     {
-      "id": "t20261113-f00",
-      "region": "global",
-      "importance": "low",
-      "company": "CNET",
-      "title": "AI Layoffs Risk Triggering 1.6 Million More US Job Losses",
-      "body": "AI Layoffs Risk Triggering 1.6 Million More US Job Losses CNET",
-      "insight": "",
-      "tags": [],
-      "date": "2026-11-13",
+      "value": "121,401명",
+      "label": "2026년 현재까지 미국 내 AI 관련 감원 수",
+      "dir": "down",
       "sources": [
         {
-          "name": "CNET",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOalVNeHlYTmhBOGxzTWdFQzY5QnZxS1ZRc2JHclRnSnlOdnk2R0VUNk1MOHRFOWRHZUJtYTduZm5qX2FDSnU5c05KTENud19aNmlYXzk1ekR2SmRvVEZHcEJ4NUFKTFBIQXZTekFmRlFEaEhXVURuRmtTdV9SYnVIVDQ2OG4wLURmUldlUnFRUzU?oc=5",
-          "title": "AI Layoffs Risk Triggering 1.6 Million More US Job Losses",
+          "name": "Invezz",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZG8xTWY5cHNNQ25qLUJsMWZ4OWhUeWJhWGhMMVpubDVDMy1BMU4xdURONkUyMkl2MnVwWllucGtHc0E4eHdselh4NUlPZlpia0JIR0JDeHlXOGZ4ckF1TnBrMVc4M2lTTThmbGdiejMxa0lZTVE1cmpxSlBDdU5rUmZmbWZackh4WC1IWVVQMHhhQVZ5YnA2WUltUUw3RVl1T2RvQl9SdHhUV2RsMGo1aTgtVEFMdTVhUWc?oc=5",
+          "title": "AI layoffs in 2026 so far: 121,401 US job cuts, and the firms, jobs and regions hit",
           "date": "2026-11-13"
         }
       ]
     },
     {
-      "id": "t20261113-f01",
-      "region": "global",
-      "importance": "low",
-      "company": "WSJ",
-      "title": "Qantas to Cut 850 Jobs After Tech Deal With Accenture",
-      "body": "Qantas to Cut 850 Jobs After Tech Deal With Accenture WSJ",
-      "insight": "",
-      "tags": [],
-      "date": "2026-11-13",
+      "value": "61%",
+      "label": "전 세계 AI 관련 직무 수요 증가율",
+      "dir": "up",
       "sources": [
         {
-          "name": "WSJ",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPek9lT1NZMzF1WUJHRjVGUU1aUTlSTGM2VjlVdS1yNGR6Y1d0RklRbU1aU1Y0MFBNckh2SlF4ajhCRlI4ZWl1NE1RWUdwV2ZmdnlEQnhJdUJZaDMwVm1sbGxoQ0RyaFk1ZUlkeE5UcENiTVNaNGd1ekxBZHBPVVZ6dEM1WVI5ME1jTHhNVFJfeVRqbm1ablFmd184TnNXdXdIUFE?oc=5",
-          "title": "Qantas to Cut 850 Jobs After Tech Deal With Accenture",
-          "date": "2026-11-13"
+          "name": "Onrec",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPR0FyVkZCeERpQWpSaUt1bEUybzgwVVFrdlVRWWo4SE4xNGxvbkJjY01XWnl3SEdadzJ4OHJoVFhSZUIwRjV6bUpzUEZmRkprUjlBYUM5OUlaSVg5SVB6RkhoeklKeTRIektxYV9nQTFzcUlrelM1eFRyODg3UlF6Y1RrVjQxbFlUQlJETzVkVFowU3hjMUFkblNheC11UUNpZjNNZU4zLWRFRGJ4bzVYSWtNalF4bllPdE91Vw?oc=5",
+          "title": "Global job postings fall across seven in 10 major markets as AI demand rises 61%",
+          "date": "2026-11-12"
         }
       ]
     },
     {
-      "id": "t20261113-f02",
-      "region": "global",
-      "importance": "low",
-      "company": "Yahoo Tech",
-      "title": "Tech layoffs tracker 2026: All the job losses across Disney, Amazon, Microsoft, Apple, Meta and more",
-      "body": "Tech layoffs tracker 2026: All the job losses across Disney, Amazon, Microsoft, Apple, Meta and more Yahoo Tech",
-      "insight": "",
-      "tags": [],
-      "date": "2026-11-13",
+      "value": "2,000여 명",
+      "label": "북한 연계 의심 구직자 포착 수",
+      "dir": "flat",
       "sources": [
         {
-          "name": "Yahoo Tech",
-          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPZktvdXZ1WTZ4NWR3NnJxeUxwbzdyXzZYMTd4NlFrOGlGdTNqcnJhbnAyN18tYUFJSGlTOWxSSHRRWkVmYzFrVFExcVozWktlQWkzaFkzMTlSTjhfVmlJLWhKcDdocVhjUzRCUk9hVm9BZnJzVjhEZWx6X0hBX01UNnktblNuQktQSEhHNDhKM3dESVlDd1NPaHNad3V6RDF4OGlESjVWeW1sZ1JQNmR4YnpYbDZycEpVVWJDRW51MmJ4cXdZbXRqR21Tckh0NGZGZXZ3SzUyYW5lOUo0RC1IbWdINkJubEtkVXoteDdMZUJmdURscUE?oc=5",
-          "title": "Tech layoffs tracker 2026: All the job losses across Disney, Amazon, Microsoft, Apple, Meta and more",
+          "name": "VOA 한국어 홈페이지",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRWtVbFJ2d1ZPRS1Cd2JEQXRZTGJ3SUN1V2JzM0ZDME9NSnRkTXBnTHR0NUFVTE5KWW9NOHE5S21SdWh1cDJ4ZXlYMG82Mm9OazB1ZVQ3MnVVRVJOSEE1YUE4dFFtRy1sbng3djlVcHRmVEZwN191S2hrdXFmWGp6LdIBgwFBVV95cUxPLXJVS2RXRWp3dlU4Nk84OEFGa18tTE1xZC0yQ1FxMExXT0FMMTZHVjd3ZHRobVdFaDltd21rY09KYXNqWkZnc0xxcnlIRmFhQXlNWnk0ZElvQ1A1LVlwcXQyRndxREhLVEFXeHhoX2xzdE9JTFVJSGRCNUlOYXFubm9oSQ?oc=5",
+          "title": "미 보안업체 “북한 연계 의심 구직자 1년간 2천여 명 포착…27명은 입사 절차까지”",
           "date": "2026-11-13"
         }
       ]
-    },
+    }
+  ],
+  "layoffs": [
     {
-      "id": "t20261113-f03",
-      "region": "global",
-      "importance": "low",
-      "company": "Tech Times",
-      "title": "Suunto Layoffs Could Cut 118 of 160 Finnish Jobs; Owner Liesheng Is Bound by China Intelligence Law",
-      "body": "Suunto Layoffs Could Cut 118 of 160 Finnish Jobs; Owner Liesheng Is Bound by China Intelligence Law Tech Times",
-      "insight": "",
-      "tags": [],
-      "date": "2026-11-13",
+      "company": "Suunto",
+      "kind": "감원",
+      "size": "118명",
+      "pct": "74%",
+      "note": "핀란드 본사 인력 160명 중 118명 감원 계획",
       "sources": [
         {
           "name": "Tech Times",
@@ -91,53 +66,11 @@
       ]
     },
     {
-      "id": "t20261113-f04",
-      "region": "global",
-      "importance": "low",
-      "company": "Los Angeles Times",
-      "title": "Commentary: The meltdown in high-tech and science jobs has happened before, and is sure to happen again",
-      "body": "Commentary: The meltdown in high-tech and science jobs has happened before, and is sure to happen again Los Angeles Times",
-      "insight": "",
-      "tags": [],
-      "date": "2026-11-12",
-      "sources": [
-        {
-          "name": "Los Angeles Times",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSjRIWXRfazJjX3RVM0lIYmU1N2RfTnZyMkpOR3R1N1RyamZ1amVDdzczSEo0QnRxSDdMbkc3N3BPcURlSERLemh0RVFzMlFIRmF4Zi1Vd1g0QzgtQ2R3SHlFYm51QVY5SFp6SHVrc1ROV1JWZUhucThqS1RtZ2x0YmZlS3ppMjQ2WV90eHBTck5GOEVfUkpuREZwVHg1cmJ4TGlmeDlmTEVpalNqNGF3OURfaURyUV9oNjhTWE9TYjNKazA?oc=5",
-          "title": "Commentary: The meltdown in high-tech and science jobs has happened before, and is sure to happen again",
-          "date": "2026-11-12"
-        }
-      ]
-    },
-    {
-      "id": "t20261113-f05",
-      "region": "global",
-      "importance": "low",
-      "company": "Seattle Red",
-      "title": "Big Tech AI Layoffs Why Amazon, Google & Meta Are Restructuring",
-      "body": "Big Tech AI Layoffs Why Amazon, Google & Meta Are Restructuring Seattle Red",
-      "insight": "",
-      "tags": [],
-      "date": "2026-11-13",
-      "sources": [
-        {
-          "name": "Seattle Red",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOM3lJM2pVTVkzVFZtVE5nX2RsQUVhckdRQmJKWmEwcll3WEtFSjFGa2tNaXJvYXczd2g1QmRUQ3ZDUmJIT09aU0gxc2o2MTdUc3N0Rk9FSklPbWZCaE1Kb2R1QXNXRkV2elJBQ0dSZVRXaW9OLVhXMU1xYnB5eXl4UE5BZlNzY0pfbVVmUFRzOUN5TTBjMER6Wnhhd2FjNnkwV2QtVGNaTlRvWW5hU2lmdmFQWDVoaVpuOTBXVmF1TlVka2R0dGJndHBlSUNyT2kyS1VJ?oc=5",
-          "title": "Big Tech AI Layoffs Why Amazon, Google & Meta Are Restructuring",
-          "date": "2026-11-13"
-        }
-      ]
-    },
-    {
-      "id": "t20261113-f06",
-      "region": "global",
-      "importance": "low",
-      "company": "CTech",
-      "title": "Marvell lays off dozens in Israel as chipmaker adjusts engineering workforce",
-      "body": "Marvell lays off dozens in Israel as chipmaker adjusts engineering workforce CTech",
-      "insight": "",
-      "tags": [],
-      "date": "2026-11-12",
+      "company": "Marvell",
+      "kind": "조직개편",
+      "size": "수십 명",
+      "pct": "미표기",
+      "note": "이스라엘 내 엔지니어링 인력 조정 및 감원",
       "sources": [
         {
           "name": "CTech",
@@ -148,16 +81,18 @@
       ]
     },
     {
-      "id": "t20261113-f07",
-      "region": "global",
-      "importance": "low",
-      "company": "Los Angeles Times",
-      "title": "Cancer institute backed by Larry Ellison plans major layoffs in Los Angeles",
-      "body": "Cancer institute backed by Larry Ellison plans major layoffs in Los Angeles Los Angeles Times",
-      "insight": "",
-      "tags": [],
-      "date": "2026-11-12",
+      "company": "Larry Ellison Cancer Institute",
+      "kind": "감원",
+      "size": "88명",
+      "pct": "미표기",
+      "note": "LA 소재 연구소 인력 대규모 감원 계획",
       "sources": [
+        {
+          "name": "Billionaires.Africa",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcVFIeWRCcERhY1ZWaHhJQkExenFIajBpU2dxeVRiQnJJbDRIbkhHTTlMQzYzNVNPNFd1TDhSWHZoNkRvd09tRzFmcXBUWVU0S082WjFqaGpIeFZhOHZHOWhOUlZhcURUTnRhUFNoWktDYUFjSHU1UnZ5anJETVFybGFWeWRyU2RveFdGLTJFWWdsRlB0b0xXb0kzZWJsdzVGZjJFQm1FaV9ZVnV0ZmRxSWRmcnNVWDRMZDRjcDBXaDJFT2tD?oc=5",
+          "title": "American billionaire Larry Ellison's cancer institute to cut 88 jobs in Los Angeles",
+          "date": "2026-11-13"
+        },
         {
           "name": "Los Angeles Times",
           "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZDl3UnFIRm5jYU02ZGs0d3VUMXJZemt2bU9mRFNjLWdLS0xFNVcyOEotRmxqNzlOdkM2SnBMNHd0MUJJcDJ6UmRUbkkxX21WUEc2aW9QNVJNS1ptVmFqMTREN1pFUEtOb0ZUZGU1WTdiRk1ZYjhNWW1hQTZyVU54RzNMclZUaUFNb3J6M0g3MnN0SGJsb1dlajdjWkFyUmVQYXR6a0k2eEN2TU0xZzlLRVh6S1dySTgxNlF6a3k3dTJiYXc?oc=5",
@@ -165,234 +100,261 @@
           "date": "2026-11-12"
         }
       ]
-    },
+    }
+  ],
+  "hiring": [
     {
-      "id": "t20261113-f08",
-      "region": "global",
-      "importance": "low",
-      "company": "Anadolu Ajansı",
-      "title": "Asia's labor market faces job cuts as AI, economic pressures reshape work",
-      "body": "Asia's labor market faces job cuts as AI, economic pressures reshape work Anadolu Ajansı",
-      "insight": "",
-      "tags": [],
-      "date": "2026-11-12",
+      "company": "OpenAI",
+      "role": "Security Investigator",
+      "note": "보안 조사관 직무에 최대 50만 달러 연봉 제시",
       "sources": [
         {
-          "name": "Anadolu Ajansı",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZU9rTzN6ZGJIVVB6dm5fY3VFVnlndWcyQUdnbE9XQWZlZUpPbTRDWmI1M3kxdURMVzNqclNwRDVlUkR1dTdQd081S2g2SkpmYWR5OGtxS2UySGFMWTl1ejFGNVdOWi0xTWNXRXVEaDI1M2lKUVcySnY4T0tKMlBXb01PX0J6bkJpNUxCZ0gtbGNlcktOeWpjLTJYR2NnMUZna3lhcTVac004VzV5aFdZNEl3?oc=5",
-          "title": "Asia's labor market faces job cuts as AI, economic pressures reshape work",
+          "name": "FourWeekMBA",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNajlCR3labFlWY0hqM0hvSkRxSTloRXpkYzFMaWsxTHo4UlIycV9xZ0RwUlJENVNfVGtZVXZtQWZJZlhGa0FJTkJTMmZMeGZNMjIyU3kzZV9OUmIwTWx4TDJaN1p6NVA1Y25zc0h6NDROUVhXOXg4d0ZNS2VjWVRFNHpoME4yWHRtVHhpLTlR?oc=5",
+          "title": "OpenAI Offers Up to $500K for a Security Investigator Role",
           "date": "2026-11-12"
         }
       ]
     },
     {
-      "id": "t20261113-f09",
-      "region": "global",
-      "importance": "low",
-      "company": "Samfiru Tumarkin LLP",
-      "title": "Ada Layoffs 2026: Toronto Job Cuts & Severance",
-      "body": "Ada Layoffs 2026: Toronto Job Cuts & Severance Samfiru Tumarkin LLP",
-      "insight": "",
-      "tags": [],
-      "date": "2026-11-13",
+      "company": "Amazon",
+      "role": "Seasonal Workers",
+      "note": "연말 성수기 대비 프레즈노 지역 1,000명 이상 채용",
       "sources": [
         {
-          "name": "Samfiru Tumarkin LLP",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ra2lsXzhlTDdHNEh2VTZjN0tEQ1JQZi1PbVZQNEZVRXZjY21uQmxsNjJaOEtQb1dER0R6SE9OdWdIUGtzZ2hvUE1JX1NhejlBdE9feTNEMy1pRFh3eU5uYUxsYm1IdnNy?oc=5",
-          "title": "Ada Layoffs 2026: Toronto Job Cuts & Severance",
+          "name": "kmph.com",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMUpGQ1djRjhhOGV5SUlFRmR6NklZWGlwemtSdHdFY0tyd3dQeWROLWE1Nlo2MGZFMzl2MGtKaThBdkkwNlBqZFpyUkwyRHBodzZkbFZVbGwzVUtZc0RHYVZjUXNJNi1CWTJvRGFHN3d4bm5mSHZCQnpLR0xpZFNRZ05SYTdtTGJremlPY2ZVcXRUUGJMQnA3VkRVMHhWUmgyU0dKaEdfNW1RTTVVbVJxR1lLZUkydHc?oc=5",
+          "title": "Amazon hiring 1,000-plus seasonal workers in Fresno as holiday rush nears",
           "date": "2026-11-13"
         }
       ]
     },
     {
-      "id": "t20261113-f10",
-      "region": "global",
-      "importance": "low",
-      "company": "Jagran Josh",
-      "title": "5 Biggest Layoffs of 2026: From Volkswagen, Oracle, Amazon, Intel to Qualcomm, How Many Indian Employees Lost Their Jobs?",
-      "body": "5 Biggest Layoffs of 2026: From Volkswagen, Oracle, Amazon, Intel to Qualcomm, How Many Indian Employees Lost Their Jobs? Jagran Josh",
-      "insight": "",
-      "tags": [],
-      "date": "2026-11-12",
+      "company": "Oracle",
+      "role": "전 직군",
+      "note": "내슈빌 신규 본사 설립을 통해 8,500개 일자리 창출 예정",
       "sources": [
         {
-          "name": "Jagran Josh",
-          "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPS0J3Y2JPT1l0U1A1T1djZjJlc0NpaWxiVFBJeEZ0MmkybDk2blY3VWNRUmNfN2FnV3ExdHBSVXpWbXhxLUlodXEzSDYwUThXT1RfNm0yUUVMMng2R0FBakk2bkJVRXFHbUFlRVNfenRJU3VfY0tueERyQnd0NFpuSkZWcEVFMHJYTXZYUWc3NDF1eGtQeGJkRHgtQ3pTa0F3OXozWVRhcmJYcGthY2FCSlVOUTgxRmthRWtweG83RGlTaXVHVlNRbU9OdXY5ZVl1aVdKRmRlUXRBS1FheVdWY1VrdTRPQnB5ZUg0WVljamVtcExUeXJzR2tWVEROWUg2a0F2bEdDeTFmOUt5QmdOdEM3b9IBmgJBVV95cUxPcldXNUtydHZybUwwSUV6SXFsVHBfT20zWVQzWmdVOHZGN053aWp5c0dNenVlNHNqV2U2NHdlSTZOM0N2V2RQSklDaW5xVFFoaHVaZUx4dDEzUnJlQVI2Zmc0ZlVEYzBpeHJVb3FnZjZqTW9vSVVXaXBmTW5zMFU2cDNKbG9EdUtMWnB4MFlLMWxVZERCbGVSR3JGR1RhWm5oUWpXZVFBYklSUFFIaTR3UE9qRlVhamtMb09DMHZoR3NYWWVPLTdORVVFNVdHbnNFeUozc050Z3hrd2VFdU9PU3FPU213VXU1T1QwMkk1Sl9jUnB2OVJCZW5XdjlWalNyTHQyUlUyVHQ3Sy0wc1RqMl8tWnBNcUJXZUE?oc=5",
-          "title": "5 Biggest Layoffs of 2026: From Volkswagen, Oracle, Amazon, Intel to Qualcomm, How Many Indian Employees Lost Their Jobs?",
+          "name": "WBIR",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQbmNkYUt4bWJmWTBpNXpTc0VJTkphcjRtYVgwZDNmSHE2S1VCaDdtMTd1cXhZQnpMZldlNEFfQWRGZEpoQWVHQmtZU3g2SEF2cEcyd3dxa2NkT3V1NXl1dk5YLTFFNHh0N0Uwd3hUSnlDS1g5VkZXMExDUG96SE0xZ1F2SnBCbnVTdTBvbTVZX3gyOWtNRExXNklGbGJ4OWY3RHdiSVJ6Z2x4Qm1RWGtfUGlERU5DN3pHdENYbmY4TzN6d05wVHZEX2p6M3hvLTh2bHJucjJ0VDhHem85LVp6UklkaWk?oc=5",
+          "title": "Oracle plans $4.5B headquarters in Nashville to create 8,500 jobs",
+          "date": "2026-11-12"
+        },
+        {
+          "name": "Small Business Trends",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOb3hWaWJydERCbGhzS004X3cxb3l5TFJfOF9tR0V0QzRFbnp3cmNFcVEtVF9MV0Z1dUh0cXRralVMb2dPX3c1dlYweUpRRUJnaDVHaFFSOVUtOHpHQV8tVzB5cFF1VFc2TE56ang1M1JvZjZrWnp5OTlrWVBKTDZFbGtYTnItSE10Y0ZpdENMM3F3WXBqeTJLQmhOUWk4NlZDbVJvOXVSY0RJc3NlcVIzSElDV08yUm4wOGc?oc=5",
+          "title": "Oracle Breaks Ground on New Global Headquarters in Nashville, Promising Jobs and Investment",
           "date": "2026-11-12"
         }
       ]
-    },
+    }
+  ],
+  "roles": {
+    "up": [
+      {
+        "name": "AI 보안 전문가",
+        "why": "엔비디아 위기 및 해킹 위협으로 보안 수요 급증"
+      },
+      {
+        "name": "AI 에이전트 개발자",
+        "why": "영업 및 고객 관리 자동화 솔루션 도입 확대"
+      }
+    ],
+    "down": [
+      {
+        "name": "단순 코딩 인력",
+        "why": "AI 도구 활용으로 인한 주니어급 수요 감소"
+      },
+      {
+        "name": "일반 사무/행정",
+        "why": "AI 에이전트가 기존 업무를 대체하며 감원 대상 포함"
+      }
+    ]
+  },
+  "korea": [
     {
-      "id": "t20261113-f11",
-      "region": "global",
-      "importance": "low",
-      "company": "HRM Asia",
-      "title": "Employers in Australia face “AI washing” scrutiny as job cuts head offshore",
-      "body": "Employers in Australia face “AI washing” scrutiny as job cuts head offshore HRM Asia",
-      "insight": "",
-      "tags": [],
-      "date": "2026-11-13",
+      "company": "금융권 전반",
+      "note": "해킹 방지 및 실무 역량 집중을 위해 정답 맞히기식 코딩테스트 폐지",
       "sources": [
         {
-          "name": "HRM Asia",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbmxIbjNONWhQVlhOTlB3ZWYwVmxqbGxhdjNmTFN5blFqUzVzZzVMbzdEQzlWWkExSGdNdGNjQzdVeDZSZlVWM0ZCbGRUR2R3LUoyaE5aZjNnQU9Xd0NNcW5nUWVoREd0WG1xVk5TMjZsS0NQbnFaRDhUYk9fQUwyUGNpZUVzNXg3UXE0MlROQVlQRERxMjJXMkx3?oc=5",
-          "title": "Employers in Australia face “AI washing” scrutiny as job cuts head offshore",
+          "name": "데이터뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ZR3ZUS0JqVk1ZbjRZSnZjMEIxU1h0UkFrc2xvYl91NGxoeHgwYVpsdDBhdWRZa2NtdE4xRHFWb0s1Y1pKYmhxeVI4UmpPS25pZXdhbV9VMU4ydWJYa25r?oc=5",
+          "title": "잇딴 해킹에 금융권 IT ‘정답 맞히기’ 코딩테스트 없앤다",
           "date": "2026-11-13"
         }
       ]
     },
     {
-      "id": "t20261113-f12",
-      "region": "global",
-      "importance": "low",
-      "company": "Borneo Bulletin",
-      "title": "Australian companies face ‘AI washing’ claims after wave of job cuts",
-      "body": "Australian companies face ‘AI washing’ claims after wave of job cuts Borneo Bulletin",
-      "insight": "",
-      "tags": [],
-      "date": "2026-11-13",
+      "company": "GM 테크니컬센터 코리아",
+      "note": "동계 인턴 모집을 통한 정규직 전환 기회 제공",
       "sources": [
         {
-          "name": "Borneo Bulletin",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZ0JtVHpaT01mRUNvX3Y5TjNtQjhWemc2RXJ3LW43bzRZZ1VGNnV4RnZJb2RkME42akM0cmYweWJiUFZ0MkRfWTVudmZWYU4tbFRCMDlSMkFhUTBpbWZrQXBkNDhfWnNsX184SVB0VkI5UUhfM2VJQlVKQW85WlNrNmNCZEhiaERsYncyQXZXZm5QRklPOTBtcFE3U014dw?oc=5",
-          "title": "Australian companies face ‘AI washing’ claims after wave of job cuts",
+          "name": "지피코리아",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE80aTBzUjRoaUlyRkxTR2ZUdkRsakxyYk1tZzlyVmdfcDY0d3VjaXRJMFo0MlVTQ01EVjlQcDNYdk5UbDdmdmFPWjdPNlc4R1RLQVo3dVpabm9BeFJNR0VyR0gwR05jbFJZbkHSAW5BVV95cUxOZVlGUHRkUHE4ZFlaWlllQlUtcEhPUURmb1E2M0hhTXk1LWtvSC1BX2xBLTNvOWFleWM3ckZUdWNHeW5NZlBjYzdYc3BuVnhoOUlZNEFLT0tpVEpmY2xqTkhPekxhQ2EyMmxVcVRGdw?oc=5",
+          "title": "GM 테크니컬센터 코리아, 동계 인턴 모집…정규직 전환 기회",
           "date": "2026-11-13"
         }
       ]
     },
     {
-      "id": "t20261113-f13",
-      "region": "global",
-      "importance": "low",
-      "company": "Anadolu Ajansı",
-      "title": "New wave of layoffs hits Europe as trade pressures, automation reshape industries",
-      "body": "New wave of layoffs hits Europe as trade pressures, automation reshape industries Anadolu Ajansı",
-      "insight": "",
-      "tags": [],
-      "date": "2026-11-12",
+      "company": "국내 대기업 전반",
+      "note": "AI 자소서 대필 시대에 대응하여 다시 학벌을 중시하는 경향 포착",
       "sources": [
         {
-          "name": "Anadolu Ajansı",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPa0E0V25lRTFPRkZseEhIdlNIb1VHNnE5LXNpOGtkMFllNjVoVG1mZDFrdVI3ZVcxcXdGWmJMMkxpOExTYzdHYm5VV0l0V20tMm5VTUhTejZ5SFFLVWVRcDUyNXlLM0Q0M1lWeFB3QTBVT2pxMngyYWhCTUk1b0UtNGs4ZS1wYVlsRW9zVzQ2bTN6S2RQRWo2b3JGV1dPREhoWlZUV1lFdmtvWWlmR0pCT19jRnJsWnMtRUZILTRB?oc=5",
-          "title": "New wave of layoffs hits Europe as trade pressures, automation reshape industries",
-          "date": "2026-11-12"
-        }
-      ]
-    },
-    {
-      "id": "t20261113-f14",
-      "region": "global",
-      "importance": "low",
-      "company": "IBTimes India",
-      "title": "Microsoft outage hits India; employees celebrate unexpected break as Outlook, Teams go down; Workers switch to Slack amid layoffs",
-      "body": "Microsoft outage hits India; employees celebrate unexpected break as Outlook, Teams go down; Workers switch to Slack amid layoffs IBTimes India",
-      "insight": "",
-      "tags": [],
-      "date": "2026-11-13",
-      "sources": [
-        {
-          "name": "IBTimes India",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNd2dkSUh0aU9fZzd0T2RSLUp1RDNYUkNQbEdXVVpBR05OTWlrSnREQzFnMldMOXozbmtFd3pDdkhPRXYwOGJFaEdvZTREYzhRYjBtWFphMDZOSVJ2UWk2QWxDMDh6cGRHR2dNUEQtVnJaQzJPWENTVDR6T0VmN2dKeGtHX3hnZ052bEZMblVHRGZYeHBLZEFyUE0tOTBlQ0MycW1ZcU9heEM5d3FtbDBLbHlPdnFDSlVIUVNGalNTZmhHcGlPdnc?oc=5",
-          "title": "Microsoft outage hits India; employees celebrate unexpected break as Outlook, Teams go down; Workers switch to Slack amid layoffs",
+          "name": "교육을 비추다",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBYUDBxQldSRTRwejdUN3M1aXhjS25hV0ozejBJWmFJc25ieEEzdC02T3hKcldVV2JkbmduUVI4MTVpNDBmS1FXS2FrRVM3b1Q2Y3lIdG42ek1mTnpMWmhMSkdOV3pJQQ?oc=5",
+          "title": "[칼럼] 대기업은 다시 '학벌'을 보나…AI가 자소서 써주는 시대",
           "date": "2026-11-13"
         }
       ]
-    },
+    }
+  ],
+  "items": [
     {
-      "id": "t20261113-f15",
-      "region": "global",
-      "importance": "low",
-      "company": "Moomoo",
-      "title": "Structural Divergence in U.S. Employment Amid AI-Driven Restructuring",
-      "body": "Structural Divergence in U.S. Employment Amid AI-Driven Restructuring Moomoo",
-      "insight": "",
-      "tags": [],
-      "date": "2026-11-13",
+      "id": "t20261113-02",
+      "region": "korea",
+      "importance": "high",
+      "company": "국내 IT 업계",
+      "title": "북한 연계 의심 구직자 침투 주의보",
+      "body": "미국 보안업체 조사 결과, 북한 연계 의심 구직자들이 위장 취업을 시도하는 사례가 빈번하며 실제 입사 절차까지 진행된 경우도 다수 포착됨.",
+      "insight": "채용 전형 시 신원 검증 프로세스를 강화하고, 원격 근무 인력에 대한 보안 가이드를 재점검해야 해요.",
+      "tags": [
+        "채용보안",
+        "신원검증"
+      ],
       "sources": [
         {
-          "name": "Moomoo",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPOThlbXJfNTRTbkRDV3VOUmU1VjZXVjlkck53Z2V4aEJ2dEZBTnRScXhWZ2lYOHZLdmZ4bkgtSHFSOG1UZDNVNHpxa2ZTaEFrcE1zck1mWmZ0bXJUUTBJSnJtVC1nUXFGend3Zmo0TE84UlR3bHJhZV8ySWpRX2MzTlpHQUhfZ3FUcl9tVWh4VDBVVWh1ekpISmlPUGwzNFRVLXE2U1ZhRWpSaXZvT29IU0hmWWFBMGwwamJzQUUzY2RBZkNtT3N2SDVR?oc=5",
-          "title": "Structural Divergence in U.S. Employment Amid AI-Driven Restructuring",
+          "name": "VOA 한국어 홈페이지",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRWtVbFJ2d1ZPRS1Cd2JEQXRZTGJ3SUN1V2JzM0ZDME9NSnRkTXBnTHR0NUFVTE5KWW9NOHE5S21SdWh1cDJ4ZXlYMG82Mm9OazB1ZVQ3MnVVRVJOSEE1YUE4dFFtRy1sbng3djlVcHRmVEZwN191S2hrdXFmWGp6LdIBgwFBVV95cUxPLXJVS2RXRWp3dlU4Nk84OEFGa18tTE1xZC0yQ1FxMExXT0FMMTZHVjd3ZHRobVdFaDltd21rY09KYXNqWkZnc0xxcnlIRmFhQXlNWnk0ZElvQ1A1LVlwcXQyRndxREhLVEFXeHhoX2xzdE9JTFVJSGRCNUlOYXFubm9oSQ?oc=5",
+          "title": "미 보안업체 “북한 연계 의심 구직자 1년간 2천여 명 포착…27명은 입사 절차까지”",
+          "date": "2026-11-13"
+        },
+        {
+          "name": "VOA 한국어 홈페이지",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBiRENuNVp0TzcybVBDTWZNU2xycVJTenBGa1lQRXlfVjNzRlg4dnRQVkhlZTNpazFEN2w1UHNneEJBY2JIR3A4MDZMcmF4LVJ6ektn0gFTQVVfeXFMUGJEQ241WnRPNzJtUENNZk1TbHJxUlN6cEZrWVBFeV9WM3NGWDh2dFBWSGVlM2lrMUQ3bDVQc2d4QkFjYkhHcDgwNkxyYXgtUnp6S2c?oc=5",
+          "title": "“북한 IT 인력에 속아 노트북 보냈나”… FBI, 미 기업 대상 피해 조사",
           "date": "2026-11-13"
         }
-      ]
+      ],
+      "date": "2026-11-13"
     },
     {
-      "id": "t20261113-f16",
+      "id": "t20261113-00",
       "region": "global",
-      "importance": "low",
-      "company": "Nacionale",
-      "title": "Did Microsoft layoffs cause the Outlook outage? Microsoft has blamed failing servers, not staffing",
-      "body": "Did Microsoft layoffs cause the Outlook outage? Microsoft has blamed failing servers, not staffing Nacionale",
-      "insight": "",
-      "tags": [],
-      "date": "2026-11-13",
+      "importance": "high",
+      "company": "빅테크 전반",
+      "title": "핵심 인재 확보를 위한 파격적 처우 제안",
+      "body": "감원 바람 속에서도 핵심 인재에게는 입사 전 사이닝 보너스와 1만 달러의 휴가비 등 파격적인 처우를 제공하며 영입 경쟁이 치열함.",
+      "insight": "커넥트웨이브도 핵심 AI/데이터 인력 영입 시 유연한 보상 체계와 파격적인 리텐션 전략이 필요해요.",
+      "tags": [
+        "처우개선",
+        "인재영입"
+      ],
+      "sources": [
+        {
+          "name": "아시아경제",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4tUWloWTJGM0M3c3Z2ZFpndHRpbG05d1RMekNZa0xHeEU0a0E2QW9LZ1NQZmFJY0l1aUhJZ001bjAwZ0R4N0lDcVM5d1o4a09tTjM3bUJJQ2R1eG5WcmxFWXFCT2FFVHh2N2FIMDd4VFZ5WXp1QXZz?oc=5",
+          "title": "\"Signing Bonus Before Day One, Plus $10,000 for Vacation\"... Pay for 'This Type of Talent' Soars Amid Layoffs",
+          "date": "2026-11-13"
+        }
+      ],
+      "date": "2026-11-13"
+    },
+    {
+      "id": "t20261113-01",
+      "region": "global",
+      "importance": "mid",
+      "company": "Microsoft",
+      "title": "감원과 시스템 장애 간의 상관관계 논란",
+      "body": "최근 발생한 아웃룩 및 팀즈 장애가 대규모 감원으로 인한 인력 부족 때문이라는 의혹이 제기되었으나 사측은 서버 설정 문제로 해명함.",
+      "insight": "무리한 인력 감축은 서비스 안정성에 치명적일 수 있으므로, 효율화와 운영 안정성 사이의 균형이 중요해요.",
+      "tags": [
+        "조직안정성",
+        "리스크관리"
+      ],
       "sources": [
         {
           "name": "Nacionale",
           "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSVBBSjBsbTNTRmRON0VUUktna3l6TFJZdjlVSUdLTTQ5ZHNhVFhRLVFzdEJHeFQwRjN0WmhkNm0wTUNXVkotcHdJUl9zYXU5eE9XQlVUalRnVjRzckdDUGdEWGFLS0xZdVBVcmZpMGhOZXN3WEJXS0tjRHdCM0dnUklSV0NqNTJ1aE5DM2lwc08yY2Y3Y3FlMlVUN2x4MjlvbFZr?oc=5",
           "title": "Did Microsoft layoffs cause the Outlook outage? Microsoft has blamed failing servers, not staffing",
           "date": "2026-11-13"
-        }
-      ]
-    },
-    {
-      "id": "t20261113-f17",
-      "region": "global",
-      "importance": "low",
-      "company": "Moneycontrol.com",
-      "title": "Bengaluru Microsoft techie rejects buyout offer: ‘Have Rs 1 crore saved, will risk a layoff’",
-      "body": "Bengaluru Microsoft techie rejects buyout offer: ‘Have Rs 1 crore saved, will risk a layoff’ Moneycontrol.com",
-      "insight": "",
-      "tags": [],
-      "date": "2026-11-12",
-      "sources": [
+        },
         {
-          "name": "Moneycontrol.com",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQc1NQRmlnR3NtQnNaak14VmJidnZHVHRXdjZnd20xUTdBX0hBY3BzN0kyWHJPd1FtWkczbUpuMFZqRFdqa3V4VldkWG16eVkzZ1FjMWh3UGx3NU1FMWx5N2ZuMFpYSE10R0o5VW5Rblpwd2pscXp5dkVyNThGeFl4SWlTYzdQUy16V0NmaDFTV0ZXWjl1QWdYYlFqQk5SVzhieWgxYkhpYy0xdFp5UVFOUlZmWExsTWJ1RktsMWVEcUh0UkE4M3poVndWemRoZ3FZWjk2MGljaW5qVTjSAeABQVVfeXFMTURTNnFkdk5VeWlRdkcyQ3pCeUIzOEJnZ0xJUTBaaGNhS3dCTkxnc0o1dmhPcjQwZXZHYWUyT1FhZ1ktQkxVdDZ0OGxRVS1DNG1RYi13eW5KUkdZZHMwc0hncEpZcFZtUmliOTFVd1ZyUkwtRTZFN2lMMnZpMTVlRjIwN1hiQUtzNUtLbVVmU1EzczlSTnZORTBlWE5Zd2YtWUY5VkJyYjlDOTA4SDNmaC12UlZTMWxRUFJNdzFrR0dXNWt1REpqN1pUQmxCQk5IUnIwdlphdVhIM0JVRDd6OGM?oc=5",
-          "title": "Bengaluru Microsoft techie rejects buyout offer: ‘Have Rs 1 crore saved, will risk a layoff’",
-          "date": "2026-11-12"
-        }
-      ]
-    },
-    {
-      "id": "t20261113-f18",
-      "region": "global",
-      "importance": "low",
-      "company": "iPhone in Canada",
-      "title": "Google is Now Offering Voluntary Buyouts to Employees in Canada",
-      "body": "Google is Now Offering Voluntary Buyouts to Employees in Canada iPhone in Canada",
-      "insight": "",
-      "tags": [],
-      "date": "2026-11-12",
-      "sources": [
+          "name": "WIRED",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWTEycUFvNHRyM0VUODM2ZTlvRlJVZlpETng5b1BUdEhKdExzX09pN1I4eldjSXZvd21GUTJmOXNIb1JHVGJ0SXp2SVFMM0ZZVFhDSnNXbHRkZXFHbVhDRmVrclhkcm5hRENPNGVpS0QzNXNhTjVQZ3ZSRWZablJpM1N6eXNhcGh0NDdGNTlxaXFTTzBuQ3l3?oc=5",
+          "title": "Major Microsoft Outlook Outage Leaves People With Email Jobs Unable to Email",
+          "date": "2026-11-13"
+        },
         {
-          "name": "iPhone in Canada",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbUVBR1d5WmxvcEhoX090SFA3VjZoWFFqaTQ4Y0FuZlZ6aG15TjZrYzVBRndYdmlyWDBSTm5Lb0Q3TDBRRFlEM0dwY29lQkoxcUU3SGtqQXVDNlVITDdkNmlqbTBPY0QyMTJjRDBFcGlFZmUxZjhIMDlCQTdTRWdpY0lWU0dGSGRMbDlycFdFekFzWF9ITUhrQWNzSEhJYTBQZ0RiRzZZcGw?oc=5",
-          "title": "Google is Now Offering Voluntary Buyouts to Employees in Canada",
-          "date": "2026-11-12"
-        }
-      ]
-    },
-    {
-      "id": "t20261113-f19",
-      "region": "global",
-      "importance": "low",
-      "company": "Tempo.co English",
-      "title": "Widespread Microsoft 365 Outage Hits Outlook, Teams and Copilot",
-      "body": "Widespread Microsoft 365 Outage Hits Outlook, Teams and Copilot Tempo.co English",
-      "insight": "",
-      "tags": [],
-      "date": "2026-11-13",
-      "sources": [
-        {
-          "name": "Tempo.co English",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdGg3TkFuUm4tNk1aRTR3UmQxRkJsRGd6TXlBckVDWUxrSmpTbERjcXRKVmFiS2EzUUs4MTN4cWZmblBFZVViY3RXWEgtMUQxZVVya25MSFJiMHBLQ3B0NzBHcURPQ2pMYml0d2pydlpxMmVxUXRWYy1uRlNpUlNnLW1qWTJycFVfLVBxSHZPZmtWSkdsU0ZTb3N0bw?oc=5",
-          "title": "Widespread Microsoft 365 Outage Hits Outlook, Teams and Copilot",
+          "name": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE96LUE5dHZZQnk2dFR3ZjRsLXpJT0NTS0gyaGM3NW9sVVJ3TG1Ld1BnVGNRNlRNa04xTnVIalJSYWFVQ2lkTUlVRlROQmFSRGhhUUdtbTY4U3lPMlE?oc=5",
+          "title": "Global Microsoft outage affecting tens of thousands of users",
           "date": "2026-11-13"
         }
-      ]
+      ],
+      "date": "2026-11-13"
+    },
+    {
+      "id": "t20261113-03",
+      "region": "global",
+      "importance": "mid",
+      "company": "Nvidia",
+      "title": "젠슨 황 퇴진설과 리더십 공백 우려",
+      "body": "엔비디아 이사회가 젠슨 황 CEO의 교체를 검토 중이라는 소식에 실리콘밸리가 술렁이며, 이는 애플의 스티브 잡스 축출과 비견되는 리스크로 평가됨.",
+      "insight": "핵심 리더십의 변화는 인재 이탈의 신호탄이 될 수 있으므로, 경쟁사 핵심 인력에 대한 타겟 소싱 기회로 삼을 수 있어요.",
+      "tags": [
+        "리더십",
+        "인재소싱"
+      ],
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPT1V2YTJabTBmV245c2ktdHdQbXlUM1l2M0t1YThSakFxZE55NnpydlR3aTUyZmN6Mm1LS1ZTR3RuYjR2V1hyT2NhelRvUnQ5S3FRRl9uWEFjdjRGZS16aTJiV2JaTWVVaXZpQ1h0M3F4alRDMUd2dE84c1p1RXFDeEJLMWxDZTBSRTdyLVFCMFE0V3FCNi01MDViRkdMUGVJLVFfZGNB0gGrAUFVX3lxTE9hbVJWMlc0QkpyWHFaSzVGLVVYNkxjemJXb0VFSGVHNVdCVzlXYk9YM2UybGJYQThtTWJocVNLdnlWQWE2b19mLWxSTHY5X2FoVGVxWFEtUEJycjUwTkVObThmeFNuaTAtTjFja1ppOXI0ak91LW5tX1VXbE5XTlV4VXBwMFVaalRIclJSYmJjVWxVRWg2aGxIU3NlOE5sTFg2VGJ3a3FWQVFJdw?oc=5",
+          "title": "Jensen Huang's exit from Nvidia raises critical questions about the future of AI",
+          "date": "2026-11-13"
+        },
+        {
+          "name": "조선일보",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOU2xGN3Q2Q0ppZWtHdWtWYjZVMUZJZEEtbkxNX1hUUXB1UUFyOVBzVGtweHd1WDNIeS13TGN6YVBPamNFbmpZNUloOXN0cU1lMW55ZTBNZWEzWnZMWWZ6ZUYyZEd6SDg0SlZkQ0hOamY0NmpKNVBad0c4eFBhM0JjNGczVWFfeGtp?oc=5",
+          "title": "Silicon Valley Mourns Jensen Huang's AI Leadership Exit",
+          "date": "2026-11-13"
+        },
+        {
+          "name": "Quartz",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5tV1RaUVVwNnFTVXBNWGVCclBZUWRrLTIxV0FCOHdUc0dqMzdRQ2xsQ25KRXVNVG5GdzktSG9SNHVnNHNUZ1B0LUY2RWhoRDdrWTE4eTJLQjEzNjkyMmltVkg2Q0JwS29YX3pQdk5rMTA?oc=5",
+          "title": "Elon Musk said hiring Jensen Huang would be 'an honor' as Nvidia board weighs ouster",
+          "date": "2026-11-12"
+        }
+      ],
+      "date": "2026-11-13"
+    },
+    {
+      "id": "t20261113-04",
+      "region": "global",
+      "importance": "low",
+      "company": "Amazon",
+      "title": "물류 거점 확대를 통한 지역 일자리 창출",
+      "body": "아마존이 데이토나 비치에 당일 배송 시설을 오픈하며 100명 이상의 신규 일자리를 창출하고 계절직 채용도 병행함.",
+      "insight": "이커머스 물류 효율화를 위한 거점 기반 채용 사례로, 몰테일 등 그룹 내 물류 인력 운영에 참고할 만해요.",
+      "tags": [
+        "물류채용",
+        "이커머스"
+      ],
+      "sources": [
+        {
+          "name": "FOX 35 Orlando",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPY1EyX0NFZm4zR1BYOGRwQzFDd0dpZFpRbUFDNmpiWXNFTThvWC1aTE12RnFWZ3lBOHFtY3JoY3pjN3hHbHBfYnNFUml4WTkyM1ZqcEVYdkd4b0gwS2pOblI0dXVkMHlpVFlVM1Bmc3FoanE3b3pxRi10TWNweWhncWZDTTNsUkVDaVJfZU9RZE1GVFhfb1VmQ3BlZTlnSlRnY0tGdDVB?oc=5",
+          "title": "Amazon opens same-day delivery facility in Daytona Beach, brings 100+ jobs",
+          "date": "2026-11-13"
+        },
+        {
+          "name": "WFTV",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNOGh4ckNwS2gyeTFvSjZnbl9XUVBySGpab1NTOXJPTVRKWDJIeUt3Rnk4bmRYS29jREJ1X0Z4UHMtbk5xOW1NNUVuUmNqSVNBTHBrbl9TZHp1MExJNXJoSUx2TXBKeTZNMDVubzRDM0lCWENkX2JycEF6SDdsalBSekJEc2lSWks0QWsxU3ozYXhJdnc4SEpCWnZhM0tiSk1Mb1V3aHNrRE9ncksyNXNERlB2VFVVOThLVjlWY2xQOTh5enJBdlF1eTFEN2EtYW9fSEFPZFdUM2U2TUF2VEHSAfIBQVVfeXFMTm5kRnNoSWdXdm5Ic2QxS3k5SVJKXzFrSjdmUzd1djl3WUZEajhyRVBVUENkQ3ZhU0R3WGc4RWdEalNuYU5YWFMxWmlHc0YxdzJjSmN5aDMzZE5jUEFsSV9NVG9ORHNqQ3l0T2FVWmdaRDREcWRSX3BjMHMxLVpVOEphcDVka0VhUXdLa0k3OEZpTjlUMWwyMmE5Q2Q3cmhzZHYtX0JnRXNPSmlJbzBfYWF0NjhJQjhsTGFzQUpmSGlVd2pxZkJLVjJmQ213d3FVRXRPdkxSVHYyWVROelRJLXpialhQNExtemtodVhYMTBFYVE?oc=5",
+          "title": "Amazon opens Daytona Beach facility with faster delivery, 100-plus jobs",
+          "date": "2026-11-13"
+        }
+      ],
+      "date": "2026-11-13"
     }
   ]
 }

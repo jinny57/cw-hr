@@ -1,6 +1,6 @@
 {
 "meta": {
-"updated": "2026-11-13T15:20+09:00",
+"updated": "2026-11-13T15:42+09:00",
 "baseline": "2026-11-11",
 "families": [
 {
@@ -91,7 +91,7 @@
 "ok": true,
 "source": "amazon",
 "total": 10000,
-"secs": 99.0,
+"secs": 82.4,
 "with_desc": 10000
 },
 {
@@ -108,7 +108,7 @@
 "ok": true,
 "source": "google",
 "total": 3004,
-"secs": 122.6,
+"secs": 133.3,
 "with_desc": 0
 },
 {
@@ -132,7 +132,7 @@
 "ok": true,
 "source": "eightfold",
 "total": 50,
-"secs": 2.6,
+"secs": 2.2,
 "with_desc": 0
 },
 {
@@ -149,7 +149,7 @@
 "ok": true,
 "source": "greenhouse",
 "total": 2849,
-"secs": 2.0,
+"secs": 2.5,
 "with_desc": 2849
 },
 {
@@ -159,7 +159,7 @@
 "ok": true,
 "source": "workday",
 "total": 2000,
-"secs": 124.3,
+"secs": 113.5,
 "with_desc": 0
 },
 {
@@ -176,7 +176,7 @@
 "ok": true,
 "source": "ashby",
 "total": 827,
-"secs": 0.6,
+"secs": 0.4,
 "with_desc": 827
 },
 {
@@ -186,7 +186,7 @@
 "ok": true,
 "source": "greenhouse",
 "total": 673,
-"secs": 0.6,
+"secs": 0.9,
 "with_desc": 673
 },
 {
@@ -216,7 +216,7 @@
 "ok": true,
 "source": "greenhouse",
 "total": 906,
-"secs": 0.6,
+"secs": 0.7,
 "with_desc": 906
 },
 {
@@ -225,8 +225,8 @@
 "group": "saas",
 "ok": true,
 "source": "workday",
-"total": 1600,
-"secs": 74.4,
+"total": 1601,
+"secs": 69.8,
 "with_desc": 0
 },
 {
@@ -235,8 +235,8 @@
 "group": "saas",
 "ok": true,
 "source": "smartrecruiters",
-"total": 801,
-"secs": 4.1,
+"total": 800,
+"secs": 3.7,
 "with_desc": 0
 },
 {
@@ -246,7 +246,7 @@
 "ok": true,
 "source": "lever",
 "total": 302,
-"secs": 0.9,
+"secs": 1.7,
 "with_desc": 302
 },
 {
@@ -263,7 +263,7 @@
 "ok": true,
 "source": "workday",
 "total": 279,
-"secs": 14.0,
+"secs": 18.9,
 "with_desc": 0
 },
 {
@@ -290,7 +290,7 @@
 "ok": true,
 "source": "greenhouse",
 "total": 217,
-"secs": 0.2,
+"secs": 0.3,
 "with_desc": 217
 },
 {
@@ -299,9 +299,9 @@
 "group": "platform",
 "ok": true,
 "source": "greenhouse",
-"total": 786,
-"secs": 0.4,
-"with_desc": 786
+"total": 787,
+"secs": 0.5,
+"with_desc": 787
 },
 {
 "id": "grab",
@@ -309,8 +309,8 @@
 "group": "platform",
 "ok": true,
 "source": "smartrecruiters",
-"total": 433,
-"secs": 2.1,
+"total": 434,
+"secs": 2.3,
 "with_desc": 0
 }
 ]
@@ -318,23 +318,23 @@
 "days": [
 {
 "date": "2026-11-13",
-"total": 25281,
+"total": 25283,
 "counts": {
 "amazon": {
 "swe": 1270,
 "other": 1482,
-"product": 779,
-"gtm": 1192,
-"field": 2550,
-"hardware": 212,
+"product": 778,
+"gtm": 1191,
+"field": 2549,
+"hardware": 214,
 "data": 438,
 "ops_corp": 650,
+"ai_research": 180,
 "applied_ai": 53,
 "infra": 279,
 "design": 88,
 "ml_eng": 150,
 "security": 239,
-"ai_research": 179,
 "fde": 69,
 "people": 346,
 "mobile_fe": 21,
@@ -342,15 +342,15 @@
 },
 "google": {
 "infra": 286,
-"product": 382,
-"other": 200,
+"product": 381,
+"other": 199,
 "fde": 91,
-"ops_corp": 176,
+"ops_corp": 175,
 "design": 49,
 "data": 125,
 "field": 191,
-"ml_eng": 233,
-"gtm": 544,
+"ml_eng": 234,
+"gtm": 545,
 "swe": 232,
 "hardware": 172,
 "security": 89,
@@ -358,11 +358,11 @@
 "mobile_fe": 38,
 "ai_research": 91,
 "people": 20,
-"ai_safety": 20
+"ai_safety": 21
 },
 "netflix": {
 "applied_ai": 1,
-"ops_corp": 3,
+"ops_corp": 2,
 "ai_research": 2,
 "infra": 2,
 "product": 4,
@@ -370,8 +370,8 @@
 "gtm": 4,
 "security": 4,
 "field": 4,
+"swe": 7,
 "ml_eng": 3,
-"swe": 6,
 "data": 1
 },
 "spacex": {
@@ -393,12 +393,12 @@
 "ai_safety": 1
 },
 "nvidia": {
+"infra": 168,
 "other": 103,
 "security": 26,
 "product": 93,
 "swe": 458,
-"infra": 167,
-"hardware": 427,
+"hardware": 426,
 "ai_research": 50,
 "ml_eng": 196,
 "gtm": 285,
@@ -504,10 +504,10 @@
 "ai_research": 1
 },
 "salesforce": {
-"gtm": 859,
 "other": 253,
+"ai_research": 27,
+"gtm": 859,
 "swe": 59,
-"ai_research": 26,
 "people": 45,
 "data": 49,
 "applied_ai": 7,
@@ -523,7 +523,7 @@
 "ai_safety": 2
 },
 "servicenow": {
-"gtm": 286,
+"gtm": 285,
 "ops_corp": 34,
 "product": 45,
 "security": 35,
@@ -608,7 +608,7 @@
 "stripe": {
 "other": 74,
 "gtm": 309,
-"ops_corp": 51,
+"ops_corp": 52,
 "applied_ai": 2,
 "product": 72,
 "data": 31,
@@ -623,8 +623,8 @@
 "infra": 14
 },
 "grab": {
+"swe": 77,
 "ops_corp": 61,
-"swe": 76,
 "other": 107,
 "people": 14,
 "data": 42,
@@ -643,7 +643,7 @@
 },
 "ai_title": {
 "amazon": 408,
-"google": 517,
+"google": 518,
 "netflix": 6,
 "spacex": 84,
 "nvidia": 377,
@@ -683,56 +683,41 @@
 },
 "new": {
 "amazon": {
-"swe": 1,
-"product": 2,
-"other": 1
+"hardware": 2,
+"ai_research": 1
 },
 "google": {
-"product": 12,
-"gtm": 27,
-"swe": 12,
-"infra": 13,
-"applied_ai": 5,
-"fde": 5,
-"field": 7,
-"ai_research": 3,
-"ml_eng": 5,
-"data": 6,
-"ops_corp": 7,
-"other": 7,
-"security": 7,
-"ai_safety": 1,
-"mobile_fe": 3,
-"people": 1,
-"hardware": 6,
-"design": 1
+"infra": 2,
+"hardware": 3,
+"gtm": 1,
+"other": 1,
+"field": 2
 },
 "netflix": {
-"other": 1,
-"gtm": 1
+"swe": 1
 },
 "spacex": {},
-"nvidia": {},
+"nvidia": {
+"infra": 1
+},
 "openai": {},
 "anthropic": {},
 "xai": {},
 "scaleai": {},
 "databricks": {},
 "salesforce": {
-"swe": 1,
-"gtm": 1
+"ai_research": 1
 },
-"servicenow": {
-"gtm": 1,
-"ops_corp": 1
-},
+"servicenow": {},
 "palantir": {},
 "ebay": {},
 "instacart": {},
 "airbnb": {},
-"stripe": {},
-"grab": {
+"stripe": {
 "ops_corp": 1
+},
+"grab": {
+"swe": 1
 }
 },
 "recent7": {
@@ -742,15 +727,15 @@
 "product": 144,
 "gtm": 248,
 "field": 434,
-"hardware": 34,
+"hardware": 36,
 "data": 70,
 "ops_corp": 96,
+"ai_research": 32,
 "applied_ai": 18,
 "infra": 57,
 "design": 17,
 "ml_eng": 32,
 "security": 46,
-"ai_research": 31,
 "fde": 8,
 "people": 48,
 "mobile_fe": 3
@@ -781,11 +766,11 @@
 "people": 4
 },
 "nvidia": {
+"infra": 42,
 "other": 11,
 "security": 7,
 "product": 23,
 "swe": 53,
-"infra": 41,
 "hardware": 44,
 "ai_research": 7,
 "ml_eng": 31,
@@ -862,10 +847,10 @@
 "product": 1
 },
 "salesforce": {
-"gtm": 172,
 "other": 70,
+"ai_research": 8,
+"gtm": 172,
 "swe": 18,
-"ai_research": 7,
 "people": 16,
 "data": 15,
 "applied_ai": 4,
@@ -944,8 +929,8 @@
 "product": 5
 },
 "grab": {
+"swe": 11,
 "ops_corp": 2,
-"swe": 10,
 "other": 19,
 "people": 3,
 "data": 3,
@@ -971,7 +956,7 @@
 ],
 "product": [
 488,
-1034
+1033
 ],
 "design": [
 97,
@@ -979,7 +964,7 @@
 ],
 "gtm": [
 1306,
-2397
+2396
 ],
 "ai_safety": [
 47,
@@ -987,15 +972,15 @@
 ],
 "ops_corp": [
 399,
-1024
+1025
 ],
 "field": [
-447,
-3502
+446,
+3501
 ],
 "ai_research": [
 236,
-258
+259
 ],
 "applied_ai": [
 223,
@@ -1006,8 +991,8 @@
 362
 ],
 "hardware": [
-127,
-641
+128,
+643
 ],
 "security": [
 233,
@@ -2550,7 +2535,7 @@
 ],
 "n": 5,
 "first": "2026-11-13",
-"url": "https://careers.airbnb.com/positions/8383090?gh_jid=8383090"
+"url": "https://careers.airbnb.com/positions/8383026?gh_jid=8383026"
 },
 {
 "norm": "security technical program manager",
@@ -2595,7 +2580,7 @@
 ],
 "n": 2,
 "first": "2026-11-13",
-"url": "https://www.google.com/about/careers/applications/jobs/results/74914971678319302"
+"url": "https://www.google.com/about/careers/applications/jobs/results/137743563612922566"
 },
 {
 "norm": "cable landing site operations",
@@ -2739,6 +2724,17 @@
 "n": 1,
 "first": "2026-11-13",
 "url": "https://www.amazon.jobs/en/jobs/10603083/teamleitung-schichtleitung-instandhaltung"
+},
+{
+"norm": "power electronics drone propulsion engineer",
+"example": "Power Electronics Drone Propulsion Engineer, Prime Air",
+"family": "hardware",
+"companies": [
+"Amazon"
+],
+"n": 1,
+"first": "2026-11-13",
+"url": "https://www.amazon.jobs/en/jobs/10603980/power-electronics-drone-propulsion-engineer-prime-air"
 },
 {
 "norm": "tech prog manager",
@@ -3376,7 +3372,7 @@
 ],
 "n": 1,
 "first": "2026-11-13",
-"url": "https://www.google.com/about/careers/applications/jobs/results/77096024790704838"
+"url": "https://www.google.com/about/careers/applications/jobs/results/117592630669255366"
 },
 {
 "norm": "state and local government manager",
@@ -3475,7 +3471,7 @@
 ],
 "n": 1,
 "first": "2026-11-13",
-"url": "https://www.google.com/about/careers/applications/jobs/results/143875896174879430"
+"url": "https://www.google.com/about/careers/applications/jobs/results/134071891903029958"
 },
 {
 "norm": "research lab manager",
@@ -3509,17 +3505,6 @@
 "n": 1,
 "first": "2026-11-13",
 "url": "https://www.google.com/about/careers/applications/jobs/results/130856589190931142"
-},
-{
-"norm": "global product activation manager",
-"example": "Global Product Activation Manager, Brands as Creators, YouTube",
-"family": "other",
-"companies": [
-"Google"
-],
-"n": 1,
-"first": "2026-11-13",
-"url": "https://www.google.com/about/careers/applications/jobs/results/138978329397994182"
 },
 {
 "norm": "digital marketing analyst",
@@ -4510,6 +4495,17 @@
 "n": 1,
 "first": "2026-11-13",
 "url": "https://careers.airbnb.com/positions/8305593?gh_jid=8305593"
+},
+{
+"norm": "legal operations team",
+"example": "Legal Operations Team Lead",
+"family": "ops_corp",
+"companies": [
+"Stripe"
+],
+"n": 1,
+"first": "2026-11-13",
+"url": "https://stripe.com/jobs/search?gh_jid=8230294"
 },
 {
 "norm": "country procurement manager indonesia",
@@ -8324,6 +8320,12 @@
 "d": "2026-09-22"
 },
 {
+"t": "Software Engineering Manager, Eval Infra, Quality Platform, Gemini Cloud Operator, Agentic AI",
+"c": "Google",
+"u": "https://www.google.com/about/careers/applications/jobs/results/121141249418633926",
+"d": ""
+},
+{
 "t": "Senior Security Engineer, Agentic Red Team, DeepMind",
 "c": "Google",
 "u": "https://www.google.com/about/careers/applications/jobs/results/142069460310598342",
@@ -8392,7 +8394,7 @@
 {
 "t": "GenAI Senior Security Engineer, Red Team",
 "c": "Google",
-"u": "https://www.google.com/about/careers/applications/jobs/results/98648595078488774",
+"u": "https://www.google.com/about/careers/applications/jobs/results/139538559294939846",
 "d": ""
 },
 {
@@ -8658,12 +8660,6 @@
 "c": "Anthropic",
 "u": "https://job-boards.greenhouse.io/anthropic/jobs/5183044008",
 "d": "2026-04-09"
-},
-{
-"t": "Staff+ Software Engineer, Safeguards Infrastructure",
-"c": "Anthropic",
-"u": "https://job-boards.greenhouse.io/anthropic/jobs/5074908008",
-"d": "2026-01-21"
 }
 ],
 "ops_corp": [
@@ -9392,6 +9388,12 @@
 ],
 "ai_research": [
 {
+"t": "Applied Scientist, Superconducting Digital and Cryogenic Control Electronics,Center for Quantum Computing, Physical Design and Simulation, Enabling Technologies",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10603690/applied-scientist-superconducting-digital-and-cryogenic-control-electronics-center-for-quantum-computing-physical-design-and-simulation-enabling-technologies",
+"d": "2026-11-13"
+},
+{
 "t": "Applied Scientist, Sponsored Products and Brands",
 "c": "Amazon",
 "u": "https://www.amazon.jobs/en/jobs/10602771/applied-scientist-sponsored-products-and-brands",
@@ -9744,12 +9746,6 @@
 "c": "Amazon",
 "u": "https://www.amazon.jobs/en/jobs/10592196/senior-applied-scientist-computer-vision-and-robotics-amazon-robotics",
 "d": "2026-10-29"
-},
-{
-"t": "Applied Scientist, Minerva",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10591594/applied-scientist-minerva",
-"d": "2026-10-29"
 }
 ],
 "applied_ai": [
@@ -10074,7 +10070,7 @@
 {
 "t": "Staff Software Engineer, AI/ML GenAI, Google Cloud AI",
 "c": "Google",
-"u": "https://www.google.com/about/careers/applications/jobs/results/88840951358726854",
+"u": "https://www.google.com/about/careers/applications/jobs/results/128279560226513606",
 "d": ""
 },
 {
@@ -10478,6 +10474,18 @@
 ],
 "hardware": [
 {
+"t": "Power Electronics Drone Propulsion Engineer, Prime Air",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10603980/power-electronics-drone-propulsion-engineer-prime-air",
+"d": "2026-11-13"
+},
+{
+"t": "Hardware Development Engineer, Asia Development Center",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10603032/hardware-development-engineer-asia-development-center",
+"d": "2026-11-13"
+},
+{
 "t": "Signal Integrity HDE, PCIe & Signal Integrity Team",
 "c": "Amazon",
 "u": "https://www.amazon.jobs/en/jobs/10600433/signal-integrity-hde-pcie-signal-integrity-team",
@@ -10823,18 +10831,6 @@
 "t": "Sr. Electrical Engineer, Data Center Engineering",
 "c": "Amazon",
 "u": "https://www.amazon.jobs/en/jobs/10594784/sr-electrical-engineer-data-center-engineering",
-"d": "2026-11-02"
-},
-{
-"t": "Electrical Design & Verification Engineer (DVE), Leo Optical ISL Development",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10594954/electrical-design-verification-engineer-dve-leo-optical-isl-development",
-"d": "2026-11-02"
-},
-{
-"t": "Lab Engineer, Avionics Test Team, Avionics - Amazon Leo",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10594162/lab-engineer-avionics-test-team-avionics-amazon-leo",
 "d": "2026-11-02"
 }
 ],
@@ -12138,7 +12134,7 @@
 {
 "t": "Senior Software Engineer, Mobile (iOS)",
 "c": "Google",
-"u": "https://www.google.com/about/careers/applications/jobs/results/111238779263427270",
+"u": "https://www.google.com/about/careers/applications/jobs/results/132935580995461830",
 "d": ""
 },
 {
@@ -12282,7 +12278,7 @@
 {
 "t": "Sr. Software Engineer (Starlink Mobile)",
 "c": "SpaceX",
-"u": "https://boards.greenhouse.io/spacex/jobs/8935801002?gh_jid=8935801002",
+"u": "https://boards.greenhouse.io/spacex/jobs/8935776002?gh_jid=8935776002",
 "d": "2026-11-10"
 }
 ],
