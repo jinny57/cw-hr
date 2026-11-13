@@ -41,11 +41,22 @@ jobs:
         name: 오늘 수집이 끝났는지 확인
         run: |
           today=$(TZ=Asia/Seoul date +%F)
-          if grep -q "\"date\": *\"$today\"" web/data.json && grep -q "\"date\": *\"$today\"" web/jobs.json; then
-            echo "오늘($today) 수집은 이미 끝났어요"; echo "done=true" >> "$GITHUB_OUTPUT"
-          else
-            echo "done=false" >> "$GITHUB_OUTPUT"
-          fi
+          # 오늘 데이터가 있고, AI 분석도 실패 없이 끝났을 때만 '끝남'으로 봐요 (실패했으면 다음 예약이 다시 시도)
+          done=$(python3 - "$today" <<'PY'
+          import json, sys
+          t = sys.argv[1]
+          def ok(path, key="reports"):
+              try:
+                  rows = json.load(open(path, encoding="utf-8")).get(key, [])
+              except Exception:
+                  return False
+              r = next((x for x in rows if x.get("date") == t), None)
+              return bool(r) and not r.get("analysis_error")
+          print("true" if ok("web/data.json") and ok("web/trends.json") and ok("web/jobs.json", "days") else "false")
+          PY
+          )
+          echo "오늘($today) 수집 완료 여부: $done"
+          echo "done=$done" >> "$GITHUB_OUTPUT"
 
   collect:
     needs: check
