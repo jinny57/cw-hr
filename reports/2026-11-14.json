@@ -1,0 +1,480 @@
+{
+  "date": "2026-11-14",
+  "window_days": 1,
+  "article_count": 295,
+  "engine": "gemini-3.8-flash",
+  "headline": "위장프리랜서 기획감독 착수 및 괴롭힘 대응 매뉴얼 개정",
+  "points": [
+    "노동부가 140여 곳을 대상으로 가짜 3.3 계약 및 위장도급 기획감독에 본격 착수했어요.",
+    "직장 내 괴롭힘 허위 신고자 징계가 가능하도록 정부 매뉴얼이 개정되어 사내 규정 정비가 필요해요.",
+    "네이버의 1조 물류 자회사 추진 및 넥슨 프로젝트 중단 등 플랫폼·IT 업계 변화가 이어져요."
+  ],
+  "items": [
+    {
+      "cat": "labor",
+      "importance": "high",
+      "company": "고용노동부",
+      "title": "노동부, '가짜 3.3 사업소득 계약' 및 위장고용 140여 곳 기획감독 착수",
+      "body": "고용노동부가 근로기준법상 의무를 회피하기 위해 근로자를 사업소득자(3.3%)로 위장 계약하거나 사업장을 쪼개기 운영하는 의심 사업장 140여 곳에 대해 대대적인 기획감독에 돌입했어요.",
+      "insight": "이커머스·플랫폼 업계 전반의 외주 프리랜서 및 도급 계약 관행에 대한 법적 리스크가 급격히 확대되고 있어요.",
+      "action": "다나와, 메이크샵 등 그룹 내 프리랜서 계약자 및 외주 도급 인력의 실질 지휘·감독 여부를 사전 점검해 보세요.",
+      "teams": [
+        "노무·ER",
+        "인사기획"
+      ],
+      "tags": [
+        "가짜3.3",
+        "위장도급",
+        "근로감독",
+        "프리랜서",
+        "노무리스크"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "한국방송뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1OSF9QQ1FTQTVzVFpaUk1LNzB6bDcxRzdadktWYzg5cHAwNHdIekxQZkR2RGZkSTlyTUxzZVNlU3d0LURSMnE1aEltSWI1a2RaUjZyRWlMVjZBVWFyMkE?oc=5",
+          "title": "'가짜 3.3 계약'·'사업장 쪼개기' 잡는다…탈법 기획감독 착수",
+          "date": "2026-11-14"
+        },
+        {
+          "name": "누리일보",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE40OG1BSzFQOXltRi1WS1llV3dwUFNHVHZxYm1FZ1lRWlRxLThoYTltcmE1OEVlVE9oR3ZHRTAtNEJMQ3l4cEFTWjNlRS1MRWV4bDJEaC1oNUgwUVVZdEdv?oc=5",
+          "title": "고용노동부, '가짜 3.3' 위장고용, '사업장 쪼개기' 등 노동법 회피 꼼수 기업 기획감독 착수",
+          "date": "2026-11-13"
+        },
+        {
+          "name": "뉴닉",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1oVjU3Y2tVOHBDQkxPNmZMay1TQXRFcjUxaXNPSzJWMTVJNFpKTm5EYWVDSmZsbGV0UnREWFNuY2g0VHJCcGF4V3lEYm14dXVPallN?oc=5",
+          "title": "'가짜 3.3 위장고용'·'사업장 쪼개기' 의심 140여 곳, 고용노동부가 기획감독 나선 이유는? 🔍",
+          "date": "2026-11-13"
+        },
+        {
+          "name": "전기신문",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4zUEkzaXpnR1VQVldRSXQ4NXBWb1VmZmhBVDV6ZlJZRTV2UHVaRXJyb0dmaE83RnRxT01EQ3BDNXRiNEJJUzhVb2R4V0oxR1ZvUWh2RWwzY2M1dF9YOUl4T0JpSWxqTDVONFIzNEpqLUXSAXBBVV95cUxOM1BJM2l6Z0dVUFZXUUl0ODVwVm9VZmZoQVQ1emZSWUU1dlB1WkVycm9HZmhPN0Z0cU9NRENwQzV0YjRCSVM4VW9keFdKMUdWb1FodkVsM2NjNXRfWDlJeE9CaUlsakw1TjRSMzRKai1F?oc=5",
+          "title": "노동법 피하려 '가짜 3.3'·사업장 쪼개기…노동부, 140곳 기획감독",
+          "date": "2026-11-13"
+        },
+        {
+          "name": "MBC 뉴스",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE10bHJkeXZTVGpJbHFCQVF3UDB0MGJmOFRLNFRUbVpOQk5aU2ljMGYxNHZZU01VVHhOdzV1d2Z1a2E2cFRuR2tPVnU0N0xXS1QxcmR2dUhNLWNkTHB4cXBMd3dNcGpwVkRwYjIzRG9ZWEg3a2I3eUE40gF3QVVfeXFMTmstRW5SakswMzRQMjZjNXc3Z0pHMjhyNDhQNE9ETzltQVE3TjZBQXJoSE1LNG9sUHZndl9Nc09XRlVoYmcyM21RS3ZrRklNRDBjR1g5R0paSllqR0U1XzRwRENYTUJaTmRpLW5FdHNrdi1qRzhCMjQ?oc=5",
+          "title": "노동부, '가짜 사업소득 계약'·'사업장 쪼개기' 기획 감독",
+          "date": "2026-11-13"
+        },
+        {
+          "name": "뉴스후플러스",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAxdEwteFJGQ20ydVBsTlRMcHdBNHBMUzBfM0hpX3FHOW9uZHUxMDRYQUdESlRkODcwakhoYXRLZ3BwTkF2QjdlcC0wZzYzT2JkWWVkZ3puZk1ZVHJPbzIzWnl1MV9hVHJEbWV6REhR?oc=5",
+          "title": "노동법 피하려 '가짜 3.3 계약'…노동부, 위장고용 집중 단속",
+          "date": "2026-11-13"
+        },
+        {
+          "name": "아이러브PC방",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5VV09jbHc0VGNod3pxbVM3RzF6Z2pmUWVMajZTR2Z0cEtIV2ttQ3NiM0xFTWFmZ1h6MDc4eHlRcjRWVEd0WTBQM0pzSDVmaFN0NnRqUS1iMDZtMklXRjlTYS03Y0Q3Sm9vdHZQd09oQQ?oc=5",
+          "title": "가짜 3.3·사업장 쪼개기… 노동부 기획감독 착수, 알바 고용 점검 나서야",
+          "date": "2026-11-13"
+        }
+      ],
+      "date": "2026-11-14",
+      "id": "20261114-00"
+    },
+    {
+      "cat": "labor",
+      "importance": "high",
+      "company": "고용노동부",
+      "title": "직장 내 괴롭힘 매뉴얼 개정… 악의적 허위 신고 시 사내 징계 가능",
+      "body": "고용노동부가 직장 내 괴롭힘 예방·대응 매뉴얼을 개정하여 고의나 중과실로 허위 사실을 신고해 타인을 음해하는 행위에 대해 취업규칙 등에 따라 징계할 수 있도록 기준을 명확히 했어요.",
+      "insight": "제도 악용으로 인한 선의의 피해자를 보호하고 조직 내 갈등을 공정하게 중재할 제도적 근거가 마련되었어요.",
+      "action": "사내 직장 내 괴롭힘 처리 규정 및 취업규칙에 허위 신고 처벌 조항을 반영하도록 개정 검토해 보세요.",
+      "teams": [
+        "노무·ER",
+        "조직문화·HRD"
+      ],
+      "tags": [
+        "직장내괴롭힘",
+        "허위신고",
+        "취업규칙",
+        "노동부매뉴얼",
+        "조직갈등"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "월간노동법률",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWU1MX0pLd1c0aUpBYWd1RUJnaUE2M3BSRHFtQ0dmNnNCWlVQa1JlMUY2R0paV0dJa09iNmxHbHhOTEtCQkh0azdnbkUtNGgxb3JMTzZtWjNTVEpxbVpQNWRQR2ZNQm11VW9KYzJIeFNzSVdEa3oxeGRqWkVMV0lNVDhoMEhwY0dieDlVOUJpMU16LVdZTkhUVE5kcnlxUVlfRVo3Z2s3YzZ2bGMwSmFETHMxNzRFcF93aldpX056YkRQcnNrZnlpWUEtOG5oalJiUjlMdQ?oc=5",
+          "title": "노동부, 괴롭힘 대응 매뉴얼 개정…허위 신고하면 징계 가능해진다",
+          "date": "2026-11-13"
+        }
+      ],
+      "date": "2026-11-13",
+      "id": "20261114-01"
+    },
+    {
+      "cat": "ecom",
+      "importance": "high",
+      "company": "네이버",
+      "title": "네이버, '1조 규모' 물류 자회사 설립 추진으로 쿠팡 맞대응",
+      "body": "네이버가 약 1조 원 규모의 대규모 물류 전담 자회사를 추진하며 쿠팡의 로켓배송 생태계에 본격적으로 맞대응하는 물류 체제 개편에 나섰어요.",
+      "insight": "대형 풀필먼트 플랫폼 간 경쟁 격화로 스마트물류 기획, SCM 및 배송 시스템 전문 인력 유치전이 한층 심화될 전망이에요.",
+      "action": "몰테일, 스윗트래커 등 그룹 물류 부문의 핵심 기술·운영 인력 리텐션 및 보상 경쟁력을 확인해 보세요.",
+      "teams": [
+        "인사기획",
+        "채용"
+      ],
+      "tags": [
+        "네이버",
+        "물류자회사",
+        "이커머스",
+        "풀필먼트",
+        "쿠팡"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "스마트비즈",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5QZE81cUk4d1JpZVR6dWhyQ1JsMHJUYXJ4OWVoSGdYQ1ZwZ1NBcjN1YndyRllPZzc4bHJmd1V5UG5iZjBUajN5YVp3N3NyUGw1VjQyenFwZmhtZ0tpX2tvUWFRb1hhRERBU0I1dg?oc=5",
+          "title": "최수연 네이버 대표, '1조' 물류 자회사로 쿠팡에 도전",
+          "date": "2026-11-13"
+        }
+      ],
+      "date": "2026-11-13",
+      "id": "20261114-02"
+    },
+    {
+      "cat": "trend",
+      "importance": "mid",
+      "company": "진학사 캐치",
+      "title": "Z세대 구직자 'AI 면접관' 불신… 면접 연습용으로만 선호",
+      "body": "구직자 설문조사 결과, AI를 면접 연습용으로 활용하겠다는 응답은 70%에 달했으나 실제 당락을 결정짓는 평가 주체로는 13%만이 선호하며 대면 면접을 강하게 희망했어요.",
+      "insight": "일방적인 AI 채용 전형 확대는 지원자 경험(Candidate Experience)을 훼손하고 우수 인재 이탈을 초래할 수 있어요.",
+      "action": "현재 도입 중이거나 검토 중인 채용 스크리닝 도구의 후보자 피드백을 수렴하고 면접관 인터뷰 과정을 강화해 보세요.",
+      "teams": [
+        "채용",
+        "조직문화·HRD"
+      ],
+      "tags": [
+        "AI채용",
+        "채용경험",
+        "면접관",
+        "Z세대",
+        "채용브랜딩"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "뉴시스",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1DUkpNcjQtQ21MekUweGNLYjU2RFVSTXcwd2RjaUFieEtJR2t5LXh3NElpMThwZjY0SUhuN28wcW1LeEVvcFIxY2R2Nm04WHllelFkdmFHT0luclU3UnVnVVVhT2piMU44NGpKdkhDZU0zOFgyelhYSNIBeEFVX3lxTE1DUkpNcjQtQ21MekUweGNLYjU2RFVSTXcwd2RjaUFieEtJR2t5LXh3NElpMThwZjY0SUhuN28wcW1LeEVvcFIxY2R2Nm04WHllelFkdmFHT0luclU3UnVnVVVhT2piMU44NGpKdkhDZU0zOFgyelhYSA?oc=5",
+          "title": "\"AI보다 잘하는 게 뭐냐\"…인사담당자 질문에 온라인 '시끌'",
+          "date": "2026-11-14"
+        },
+        {
+          "name": "JTBC",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE13ZTdsMzkxczYwV0M0c3RsbjlaNUFFYWFRM0ZvV2c1UFpJQWVSMHlncXZuSU51N0Yzc0gzOVNISDIyOWJ6YmE1ZWw2dy11dVpObXpsQQ?oc=5",
+          "title": "‘AI 채용’은 남성을 선호해?…성차별 논란에 ‘자체 폐기’",
+          "date": "2026-11-13"
+        },
+        {
+          "name": "동아일보",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5sTnlHNkFOb2RtY3ZzUTlJQjBOM2VtZmI3aUJzMEZ0YlgwZFRTZjV6cS1kLUcyYzYwZllwNENWQk1qdzVCbFh0eWtjTFpSOU4ya2JzY2NORTl5SHFPbE9EamMxWGhJd9IBZkFVX3lxTE5sTnlHNkFOb2RtY3ZzUTlJQjBOM2VtZmI3aUJzMEZ0YlgwZFRTZjV6cS1kLUcyYzYwZllwNENWQk1qdzVCbFh0eWtjTFpSOU4ya2JzY2NORTl5SHFPbE9EamMxWGhJdw?oc=5",
+          "title": "세컨드팀, 슈퍼코더 AI면접 응시자 후기 분석 “89%가 긍정적”",
+          "date": "2026-11-13"
+        },
+        {
+          "name": "디지털 인사이트 DIGITAL iNSIGHT",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPT3UyWEM2UURfdEFRUldCT3VTYWNCLXFSYU5UbTVwbms4TGpSLVR6c3ROYzdFVWlMSFpLVXhxVTZlZXZPanZtTmdPTDZNNkZwdjA2NzVaaWdtbnptQVhzRGVjOE5XYTFLdllxejlGNkg4bUtuY01zb2ZDQmI0bGsxRENKaXRGeDlxbDZGSEtoaDFISUlkRU9pTG54X1BVeWhpTnZ1OFVFdV9McEdCaUxWb2w3MkFPdWN5WE1vOXgybHBFQnF6U0dXRU9obzF2QmRBRTVfLURic3VGUFpkQlptamlaSVFZWlJhOU5jcWhrQQ?oc=5",
+          "title": "진학사 캐치, \"취준생 중 13%만 AI 면접 선호\"",
+          "date": "2026-11-13"
+        },
+        {
+          "name": "스타트업엔(StartupN)",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE96S2ZyRzdXM0hPWGFJWW81QlFaYnZuSklJLVdlSEo3ckJleGpFWmNibmNoU3lnYjR3TjJCWVN0RGZXamhoN21OU1RVQk5nWnNkazY1bVAxXzI2ZF84T0daNUw0dV9FNDDSAWxBVV95cUxPT09TTk1zZWRFc2hWOGgwRkhxSzZYNEZJLUtqTTZNelR3ZGtCVkxGal9ncXZpazBUY185YkhEajU2NnNFSDNTVE5CYnhEMldXSF9hb1BFWEVhSkVMenNaekNUWnBwMXZ2WG92Tmk?oc=5",
+          "title": "취준생 70% “AI로 면접 연습할 것”… 실전 면접은 사람 선호",
+          "date": "2026-11-13"
+        },
+        {
+          "name": "디지털데일리",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9DZHplS2xJQTJXS2E0V0pJUXRWalQ3bGVOVzMxSlY0OXpUQlFRNU9xclhQT3Byb0MwZE00OFFsdDY0V3owdmZPYzkzd2tGRzJrWnd6dlBXdFp3elI4T0ZpTzJUdWo?oc=5",
+          "title": "\"연습 상대 OK, 실제론 글쎄\"…Z세대 구직자가 본 `AI 면접관`은",
+          "date": "2026-11-13"
+        },
+        {
+          "name": "잡포스트",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBVV2tIRTg1X0F6ZjB3ZUlCWmRKYWtvY2JvVHZ5elVYdkdNaTZ3ZllhVDNnajU1SzBvT2twNEFzakR3LXJZYUVRczFTNGJnYy1oWGZNcnNIcVVZSWdyNlRxTnZOR2JiZWtrYmF1OVdHMVdwZ9IBckFVX3lxTFBVV2tIRTg1X0F6ZjB3ZUlCWmRKYWtvY2JvVHZ5elVYdkdNaTZ3ZllhVDNnajU1SzBvT2twNEFzakR3LXJZYUVRczFTNGJnYy1oWGZNcnNIcVVZSWdyNlRxTnZOR2JiZWtrYmF1OVdHMVdwZw?oc=5",
+          "title": "Z세대 구직자 70% “AI로 면접 연습할 의향”…실제 면접은 사람 선호",
+          "date": "2026-11-13"
+        }
+      ],
+      "date": "2026-11-14",
+      "id": "20261114-04"
+    },
+    {
+      "cat": "trend",
+      "importance": "mid",
+      "company": "고용노동부",
+      "title": "정부 주 4.5일제 프로젝트 224개사 참여… 혼합 근태관리 체계 확산",
+      "body": "고용노동부의 '워라밸+4.5 프로젝트' 참여 기업이 224개로 확대되는 등 근로시간 단축과 유연·혼합 근무제 도입이 민간 및 테크 기업을 중심으로 가속화되고 있어요.",
+      "insight": "근무 형태 다변화에 발맞춰 시스템 기반의 정확한 근태 관리와 급여 연동 프로세스 고도화가 필수 과제로 부상했어요.",
+      "action": "그룹 계열사별 유연근무제 운영 현황과 전자결재 기반 근태 누락 방지 프로세스를 검토해 보세요.",
+      "teams": [
+        "인사기획",
+        "노무·ER"
+      ],
+      "tags": [
+        "주4.5일제",
+        "유연근무",
+        "근태관리",
+        "워라밸",
+        "HR테크"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "시프티 블로그",
+          "url": "https://shiftee.io/ko/blog/article/efficient-time-and-attendance-management-automation-2026",
+          "title": "2026년, 근태관리를 효율적으로 하는 방법과 자동화 도입 절차 2026년 기업의 HR 환경은 빠르게 변화하고 있습니다. 혼합 근무제가 일상화되면서 사무직, 외근직, 교대근무 인력이 한 조직... 2026-04-27",
+          "date": "2026-11-14"
+        },
+        {
+          "name": "시프티 블로그",
+          "url": "https://shiftee.io/ko/blog/article/attendance-management-saas-stability-checklist",
+          "title": "근태관리 SaaS 도입 시 확인해야 할 안정성 기준과 체크리스트 최근 기업들은 근무일정 관리, 출퇴근기록 관리, 휴가 관리, 전자결재 등 다양한 인사 업무를 SaaS 기반 솔루션으로 운영하고... 2026-07-15",
+          "date": "2026-11-14"
+        },
+        {
+          "name": "시프티 블로그",
+          "url": "https://shiftee.io/ko/blog/article/payroll-automation-and-attendance-data-management",
+          "title": "급여정산 오류를 줄이는 근태 데이터 관리와 임금명세서 발송 자동화 전략 매월 급여정산 시즌이 다가오면 인사·급여 담당자는 반복되는 확인 작업과 데이터 검증에 많은 시간을 할애하게 됩니다. 근로시간 ... 2026-0",
+          "date": "2026-11-14"
+        },
+        {
+          "name": "시프티 블로그",
+          "url": "https://shiftee.io/ko/blog/article/four-and-half-day-workweek-attendance-management",
+          "title": "주 4.5일제란? 유형별 근태관리 방법 및 운영 방식 알아보기 2026년 7월 14일 고용노동부는 ｢워라밸+4.5 프로젝트｣에 참여한 기업이 2026년 6월 말 기준 총 224개로, 연간 ... 2026-10-30",
+          "date": "2026-11-14"
+        },
+        {
+          "name": "시프티 블로그",
+          "url": "https://shiftee.io/ko/blog/article/electronic-approval-workflow-attendance-integration",
+          "title": "전자결재 시스템의 주요 기능과 근태관리 연동·활용 방법 기업의 전자결재 시스템은 휴가 신청이나 연장근무 승인과 같은 근태관리 업무뿐 아니라 비용 청구, 서류 발급 등 다양한 사내 업... 2026-10-28",
+          "date": "2026-11-14"
+        }
+      ],
+      "date": "2026-11-14",
+      "id": "20261114-03"
+    },
+    {
+      "cat": "trend",
+      "importance": "mid",
+      "company": "업계 전반",
+      "title": "정년 연장 논의 속 승진 적체 심화와 세대 갈등… 승진 제도 재편 압박",
+      "body": "기업 10곳 중 9곳이 승진 적체를 겪고 있는 가운데, 직급 파괴, 전문가 트랙 분리, 승진 거부자에 대한 역량 재평가 등 승진 제도 전반에 대한 개편 논의가 본격화되고 있어요.",
+      "insight": "연공 중심의 승진 체계는 고성과 주니어의 동기부여를 저하시키고 세대 간 보상 갈등을 촉발할 수 있어요.",
+      "action": "직급별 체류 연한 규정을 점검하고 전문직무 전문가 트랙(IC 트랙) 도입 타당성을 분석해 보세요.",
+      "teams": [
+        "인사기획",
+        "조직문화·HRD"
+      ],
+      "tags": [
+        "승진적체",
+        "직급체계",
+        "세대갈등",
+        "정년연장",
+        "평가보상"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "오프피스트",
+          "url": "https://www.offpiste.ai/articles/승진-탈락자와-승진-거부자에-대한-조치-방안-2729",
+          "title": "승진 탈락자와 승진 거부자에 대한 조치 방안",
+          "date": "2026-11-13"
+        },
+        {
+          "name": "오프피스트",
+          "url": "https://www.offpiste.ai/articles/승진제도의-변천과-최근-트렌드-2728",
+          "title": "승진제도의 변천과 최근 트렌드",
+          "date": "2026-11-13"
+        },
+        {
+          "name": "더퍼블릭",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5sc21xalMxRFAyS0NPLWlsZHlKM0xDZVVsaEsteERrVUpiTjVwb1M4MjhFSTJlQjRqOUVjWl9vQlhKLXFvUXlIUXozbFp2TXQ1aFdEdVpfWEFYaXJSamJhQ0J3WXBldzI5UFQ40gFvQVVfeXFMUFJ5Mm55czRfc0x6dUVWdTh0aXY4THZIT2FqZFZZVndSdHZkcERfVjNwT2dXTlp3dUdPbTZlOFBDSC1uZ0ttaXRQTUZYa1F2U2FmaUFwdWE2TklqLTBZdE1ZZGdfZmFMUU5VUlZ3RkN3?oc=5",
+          "title": "기업 10곳 중 9곳 “승진 적체”…정년 연장에 세대 갈등 뇌관 되나",
+          "date": "2026-11-14"
+        }
+      ],
+      "date": "2026-11-14",
+      "id": "20261114-06"
+    },
+    {
+      "cat": "market",
+      "importance": "mid",
+      "company": "넥슨",
+      "title": "넥슨, 실적 부진 대응 개발 프로젝트 6개 전격 중단",
+      "body": "넥슨이 주요 라이브 타이틀 성과 부진 및 사업성 검토 결과에 따라 내부에서 개발 중이던 신규 프로젝트 6개를 중단하고 프로젝트 재배치에 돌입했어요.",
+      "insight": "게임·엔진 개발, 서버 엔지니어링, 프로덕트 기획 등 유관 IT 핵심 개발 인력의 외부 이직 수요가 발생할 가능성이 높아요.",
+      "action": "중단 프로젝트 소속 시니어 개발자 및 테크 리더 프로필을 파악해 그룹 플랫폼 개발 포지션에 다이렉트 소싱을 시도해 보세요.",
+      "teams": [
+        "채용"
+      ],
+      "tags": [
+        "넥슨",
+        "프로젝트중단",
+        "개발자채용",
+        "인재소싱"
+      ],
+      "our_group": false,
+      "talent": {
+        "level": "mid",
+        "signal": "개발 프로젝트 6개 중단 — 게임·서버 개발 인재 시장 유입 가능성"
+      },
+      "sources": [
+        {
+          "name": "Naver Blog",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQzVOOXVZbmRNWnJ4bERWMHA3UnlsbXhRZkxlLTRBbllyRndqZFlmY0FuU1VYWDBNZmx1aGYyTmRYR3Z4ak5acWJkN1R5YnA4Q0tqWE90RG5vVjg1R3dkNjF0THdPQjZFMjRtUjdzenVFRGVQNUtBcm5uQXB5d3dkU3dBaENBNktWQzZWREpZOA?oc=5",
+          "title": "넥슨, 던파 부진…사업성 낮은 개발 프로젝트 6개 중단 : 네이버 블로그",
+          "date": "2026-11-13"
+        }
+      ],
+      "date": "2026-11-13",
+      "id": "20261114-05"
+    },
+    {
+      "cat": "ecom",
+      "importance": "low",
+      "company": "카페24",
+      "title": "카페24, 12월 글로벌 AI 이커머스 컨퍼런스 개최 발표",
+      "body": "이커머스 솔루션 경쟁사인 카페24가 글로벌 진출과 AI 커머스를 주제로 연례 전략 컨퍼런스 'expand 2027'을 12월 개최한다고 밝혔어요.",
+      "insight": "셀러 지원 솔루션 기업들의 전략 축이 AI 기반 자동화와 해외 크로스보더 판로 개척으로 수렴하고 있어요.",
+      "action": "메이크샵과 플레이오토 담당 실무진이 경쟁사의 AI 셀러 툴 및 기술 역량 발표 아젠다를 모니터링하도록 공유해 보세요.",
+      "teams": [
+        "인사기획",
+        "조직문화·HRD"
+      ],
+      "tags": [
+        "카페24",
+        "메이크샵",
+        "AI커머스",
+        "셀러솔루션",
+        "경쟁자동향"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "한국아이닷컴",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE15bXRHUWlpaU9aOEJxLS0xRXBFbDJ2WUFRaHVqVDdXTzQ4bC0ybTdnVXo1cUx4WDFOY0p1V2ZlVExRZ2w5Y29kdm9tTkRfekpqbzVLM0FMbXpZMmE2QmZzR0ptTWh6REtXRnVxWkJFWdIBb0FVX3lxTE15bXRHUWlpaU9aOEJxLS0xRXBFbDJ2WUFRaHVqVDdXTzQ4bC0ybTdnVXo1cUx4WDFOY0p1V2ZlVExRZ2w5Y29kdm9tTkRfekpqbzVLM0FMbXpZMmE2QmZzR0ptTWh6REtXRnVxWkJFWQ?oc=5",
+          "title": "카페24, 내달 이커머스 컨퍼런스 개최…AI 커머스 및 글로벌 전략 제시",
+          "date": "2026-11-14"
+        },
+        {
+          "name": "서울경제TV",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBCenNHVURxcEt1U21kS3Qyb1VGaXFETmwtOUsyeml4Z2RncmowYV9uQnhzZEFHdTl4aUlLYks5Z3pOdi1KMmZpYzlIQXBGeTBWTVZmMUUtdGluYWZKT1ppOHhDT3Q?oc=5",
+          "title": "“AI 활용하고 해외로 뻗는다”…카페24, 이커머스 성장 해법 제시",
+          "date": "2026-11-13"
+        },
+        {
+          "name": "물류신문",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB2a3l5dGltbjJTU1YwUlpTYnNzOVRod1c4RFBYaU9xRHdGODNoNHFYV05aNW9mQmowTWpGR2NRMW9XXzUzTXBfZjhfOUxOeUxDeDF3OWpfb2pCT0ZOX2xVMGJoa1g5VVR5SS1B?oc=5",
+          "title": "카페24, 12월 10일 이커머스 컨퍼런스 개최…AI·글로벌 전략 공유",
+          "date": "2026-11-13"
+        },
+        {
+          "name": "아시아투데이",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5WYlZNSzIwemdmdDM0anhsREVMcDBsUXVQVTYxdlZ6TnVGeG5jNjd0QUxmeDM1X29xODNzUFBMcnZIUEdaSlJ6YkJ3VnRkcURPUmVnQ2pNLUUxV1lrUXV5NUFvemliTHBKVFJJbW53?oc=5",
+          "title": "카페24, 내달 ‘익스팬드 2027’ 개최…참가자 모집",
+          "date": "2026-11-13"
+        },
+        {
+          "name": "KIPOST",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Wb2xGVGJQVmc3Uk9xZlFKMFRySTBsMS1KeUpxV01ReUNOSTNHenpWTVNEdUpyUDBWZUgtQVVBeTlTMk1xWkEwckJ0ckhDNm1aZGRVcmU3ZUhqOW5SVTBFQ2tBZHZnLWZPdHYzctIBbEFVX3lxTE5Wb2xGVGJQVmc3Uk9xZlFKMFRySTBsMS1KeUpxV01ReUNOSTNHenpWTVNEdUpyUDBWZUgtQVVBeTlTMk1xWkEwckJ0ckhDNm1aZGRVcmU3ZUhqOW5SVTBFQ2tBZHZnLWZPdHYzcg?oc=5",
+          "title": "카페24, 2027년 이커머스 성장 전략 공유…‘expand 2027’ 개최",
+          "date": "2026-11-13"
+        },
+        {
+          "name": "MTN 머니투데이방송",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBmVnA3amNfNVZDRnJZeTBwMkE1MldXbEJwOFZSa0Z6WW9HUmZGcU8yWVNabFh5OGhCNWlTMDNFdTdpRmo5X1ZTdndScktlV0w1T0x6TXJjU2Z6dE1OZFZV?oc=5",
+          "title": "카페24, 이커머스 컨퍼런스 '익스팬드 2027' 개최…AI 커머스 전략 제시",
+          "date": "2026-11-13"
+        }
+      ],
+      "date": "2026-11-14",
+      "id": "20261114-09"
+    },
+    {
+      "cat": "market",
+      "importance": "low",
+      "company": "업계 전반",
+      "title": "빅테크 및 플랫폼 AI 전문인재 확보 경쟁 가열… 사이닝 보너스 급증",
+      "body": "AI 연구원 및 엔지니어 영입을 위해 입사 보너스 지급과 파격 복지 경쟁이 지속되는 반면, 정부도 AI 스타트업 연구인력 연봉의 50%를 보조하는 등 인재 확보전이 치열해요.",
+      "insight": "이커머스 가격비교 알고리즘 및 커머스 AI 고도화를 위해 시장 눈높이에 부합하는 타깃 보상 테이블 설정이 요구돼요.",
+      "action": "그룹 내 AI·데이터 사이언티스트 직무의 시장 보상 벤치마크 데이터를 업데이트해 보세요.",
+      "teams": [
+        "채용",
+        "보상·복리후생"
+      ],
+      "tags": [
+        "AI엔지니어",
+        "사이닝보너스",
+        "핵심인재",
+        "보상경쟁력"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "아시아경제",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5zQndtcVNwekNhM0h2QmlkUDhhNUFkVjhuZzUzQ0xKUm9aXzlQbnRGNk5odzhqLUVSaUV1YmNkY004UGJUWGp3T0x1VnFDcDBtblVoUk53bW1wbkNZUkpNMw?oc=5",
+          "title": "\"출근도 전에 입사 보너스, 여행비 1300만원까지\"…감원 속에서도 몸값 치솟는 '이 인재'",
+          "date": "2026-11-13"
+        },
+        {
+          "name": "Vietnam.vn",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5iZ2xuUDN2aW5UNFVERXZvQ20tNjM5VW8zeFJhdlZFbWxFRHZrX0lRdjNwaFJIc3BtbTlzcjQtdDNDOUF2WWZRbDVsdXlrWG9TQzBpY2NES1A5emJSQ3hkaXkybEZRRlRCbUhGam1WY09QWHY2dldFYVdn?oc=5",
+          "title": "AI 인력 시장: 높은 연봉, 증가하는 수요에도 불구하고 채용은 여전히 ​​어려운 과제입니다.",
+          "date": "2026-11-13"
+        },
+        {
+          "name": "데일리팝",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5qVXVremZaRnp5cGtZa3h3TXBYM0FpZEpTNU9BbXlUMU8xbmFRZ0xFdU45WjkzaU0wMFUyclVpc1pzajI5Z0ZPVk80aFJObkxMUV9yc1BnN2taNlFfRXc4LWQ3Z3BjdGZp?oc=5",
+          "title": "정부, AI 스타트업 연구인력 연봉 50% 지원…유니콘 20개 키운다",
+          "date": "2026-11-13"
+        },
+        {
+          "name": "KBS 뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9OSWh3Y2Y5TlBDdDN1TTg2eW1nM1BqaVAzMHVocHhDc0RZaHphdzZQMnRzdFhhYmtoOVYxZUFhV292MkdKWmJ5VkdGQjlkSUZ4M0hlQUpNSzVGQXc?oc=5",
+          "title": "“문송합니다” 넘어선 신입…AI 시대 달라지는 인재상",
+          "date": "2026-11-13"
+        }
+      ],
+      "date": "2026-11-13",
+      "id": "20261114-07"
+    },
+    {
+      "cat": "labor",
+      "importance": "low",
+      "company": "고용노동부",
+      "title": "2026년 12월 지방정부 근로감독 권한 분산… 지자체 감독 대비 필요",
+      "body": "노동감독관 직무집행법 개정에 따라 2026년 12월 8일부터 사업장 근로감독 권한의 일부가 지자체로 이양되어 소규모 사업장 중심의 현장 감독이 한층 촘촘해질 예정이에요.",
+      "insight": "물류 거점, 소규모 CS 파트 및 자회사 사업장별로 기초 노동관계법령 점검 강도가 높아질 수 있어요.",
+      "action": "그룹 계열사 및 물류 현장 사업장의 임금명세서 교부, 법정 서류 비치 현황을 자가 진단해 보세요.",
+      "teams": [
+        "노무·ER",
+        "인사기획"
+      ],
+      "tags": [
+        "근로감독",
+        "지방정부",
+        "노동법",
+        "노무점검"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "시프티 블로그",
+          "url": "https://shiftee.io/ko/blog/article/regional-labor-inspection-delegation-under-30-employees",
+          "title": "2026년 12월 지방정부 노동감독 시행: 30인 미만 사업장 주요 확인 사항 2026년 12월 8일부터 노동감독관 직무집행법이 시행되면서, 고용노동부장관의 사업장 근로감독 권한의 일부를 지방정부 시·도지... 20",
+          "date": "2026-11-14"
+        }
+      ],
+      "date": "2026-11-14",
+      "id": "20261114-08"
+    }
+  ]
+}

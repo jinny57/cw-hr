@@ -1,0 +1,468 @@
+{
+  "date": "2026-11-14",
+  "article_count": 123,
+  "engine": "gemini-3-flash-preview",
+  "headline": "AI 가속화에 따른 빅테크 구조조정과 핵심 인재 몸값 폭등",
+  "summary": [
+    "글로벌 테크 감원 20만 명 돌파 속 AI 투자 및 관련 채용은 공격적 지속",
+    "마이크로소프트 6만 명 규모 희망퇴직 등 대규모 조직 개편 및 감원 단행",
+    "국내외 유통·식품업계까지 AI 인재 확보를 위한 처우 개선 및 채용 경쟁 가열"
+  ],
+  "numbers": [
+    {
+      "value": "200,000명",
+      "label": "2026년 글로벌 테크 기업 누적 감원 인원",
+      "dir": "down",
+      "sources": [
+        {
+          "name": "Beinsure",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQWxpRW9QZEtEVy1NLW1BV0RKNWU0Y3JfRVFmSG1MbTJuMW04RDRURWhLWENnc2pPZC1iN09Zc2wwRXp0NkZNSG0wQWZlVnh0X05XOWYtOVpLWW1hekp2SHdCRWlDZGJzNFY4bW1ITGJmMzN5YXM0OEkxYWdQSVFiRldsUWg4Z1FBOUkzaUdDVEQ?oc=5",
+          "title": "Tech layoffs 2026: More than 200K jobs cut amid AI investment",
+          "date": "2026-11-14"
+        },
+        {
+          "name": "Coinpaper",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNc2ZxVUZadUhsRzR6VW5FenZ4ajIxQ3owY25jcmFqRldoanJTNnZqUm9abDBDb253WW5fd0NSTHpNaFFuU3Q0a29rSzNUa0ROa1lHT3djZDItbm41d1lOQ2dudXZjc1ZtLWNTa01jbVZqdUZqTGh6STZ0LTdDVDk1TEd2QWVkVFZwMGI4NTdoRk1XeVozb2JsUFQ2dks?oc=5",
+          "title": "Tech Layoffs Surge Past 200,000 in 2026 as AI Investment Accelerates",
+          "date": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "value": "60,000명",
+      "label": "Microsoft 희망퇴직 패키지 대상 규모",
+      "dir": "down",
+      "sources": [
+        {
+          "name": "富途牛牛",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPd0wwWlRjVS1YR2RzQzliSEJONFpGVEttSm1GelNueVF1ZlY0aHV2THlrQnc5SFVwLVFZWEVpS2hqTVpVYUlPNDd3aXRwNXRRRHp4UG5MZzBiblhQZ1RQZElkdm1FQ3IxeGJQTW81Znd6TXJBQWVuQ1BGVFFhWWxsWFpTMlZSVWdBa0lhZ3A3cXZJWG95ZnRmbUtuNmlCMlVIUW9xOVFNS1NnbFpmTkxyQmFKemxpbFIwWFFLZ3l3?oc=5",
+          "title": "Microsoft offers voluntary buyout packages to about 60,000 employees: Structural divergence in U.S. employment amid AI reshaping",
+          "date": "2026-11-13"
+        },
+        {
+          "name": "AL.com",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOajF0Q1J0a2RBYXpOOTNjbGZJTjhKMDlvbFNYSXplVGVwSmVUQUhpVEJpanU4SFJTc2p6cEV4OVFpSEhaNVRtTHJCV0Q0XzlfeUhnVTFmWVViY3k4QXBxbWliUTEzZ0VaeWt0NHBzT1h3d3VoUWw4eXRXUVpHeHZXOG9jSFNWQzM4UHdFeHlTeGNpY21FZ3dBZWZFQW04c2hmOVhFZThiU0J3ZERmM1pz0gHDAUFVX3lxTE1BQnprT0FHcllncXJ4dF9za09PVHhFZFhueGo5d0dQV2FjSVdXS0xQSmRjUkQtRnJMaWlJZ3VqcVBabVZHZkRCaE8xRlN0MGJZNWlmcXJLZFZsa2RpQ0xLc3hValZfdzNaNFRLM2hpaVJydHNGbks0bG0wanhNT3VEeGlfdHprblZtMjVvR2Z6R0t4emVMMVFIWTZhRWp6dUt1QURmREtrbVl1YUJKN2lvaHZzTF9uZUcxWnctZC03eFplRQ?oc=5",
+          "title": "Outlook down: Microsoft says outage cause is not related to 60,000 job cuts",
+          "date": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "value": "1,300만원",
+      "label": "AI 핵심 인재 대상 입사 전 여행비 지원액",
+      "dir": "up",
+      "sources": [
+        {
+          "name": "아시아경제",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1BVjNrYWZrWjV1WkFnelJHVU5GUjluMkFlRy1jSXhRRWJBZHRNZkxFSG9jSXBaaEFZQzV2V1pqSnltLXBNNEJ6MDdQc2tMZGtGeGR1R3Vrb2tPbW8xLTV2WlJwWko?oc=5",
+          "title": "\"Signing Bonus Before Day One, Plus $10,000 for Vacation\"... Pay for 'This Type of Talent' Soars Amid Layoffs",
+          "date": "2026-11-13"
+        },
+        {
+          "name": "아시아경제",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5zQndtcVNwekNhM0h2QmlkUDhhNUFkVjhuZzUzQ0xKUm9aXzlQbnRGNk5odzhqLUVSaUV1YmNkY004UGJUWGp3T0x1VnFDcDBtblVoUk53bW1wbkNZUkpNMw?oc=5",
+          "title": "\"출근도 전에 입사 보너스, 여행비 1300만원까지\"…감원 속에서도 몸값 치솟는 '이 인재'",
+          "date": "2026-11-13"
+        }
+      ]
+    }
+  ],
+  "layoffs": [
+    {
+      "company": "Microsoft",
+      "kind": "조직개편",
+      "size": "60,000명",
+      "pct": "25%",
+      "note": "전체 인력의 4분의 1 대상 희망퇴직 및 구조조정 진행 중",
+      "sources": [
+        {
+          "name": "Newsweek",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9qTUdhb2gyX1ZOZnVTWk5QQWtESTJLR3N6U0I2bG9TVnhmUUp1R09pTHJ2TFdIYm1mOTFIb2stQ0RsZXFrMmdERVlSTkRUb1NiVmpMemNwRUxRcFhWY2Rzc0FUanhJRHJQZ1RNQ0JqamoyRURwMVp6SkpSTjc0dw?oc=5",
+          "title": "Microsoft’s Self-Inflicted Outage Follows Plan to Cut Quarter of Workforce",
+          "date": "2026-11-13"
+        },
+        {
+          "name": "富途牛牛",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPd0wwWlRjVS1YR2RzQzliSEJONFpGVEttSm1GelNueVF1ZlY0aHV2THlrQnc5SFVwLVFZWEVpS2hqTVpVYUlPNDd3aXRwNXRRRHp4UG5MZzBiblhQZ1RQZElkdm1FQ3IxeGJQTW81Znd6TXJBQWVuQ1BGVFFhWWxsWFpTMlZSVWdBa0lhZ3A3cXZJWG95ZnRmbUtuNmlCMlVIUW9xOVFNS1NnbFpmTkxyQmFKemxpbFIwWFFLZ3l3?oc=5",
+          "title": "Microsoft offers voluntary buyout packages to about 60,000 employees: Structural divergence in U.S. employment amid AI reshaping",
+          "date": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "company": "Canva",
+      "kind": "감원",
+      "size": "1,271명",
+      "pct": "22%",
+      "note": "효율성 제고를 위한 대규모 인력 감축 단행",
+      "sources": [
+        {
+          "name": "Yahoo Tech",
+          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPZktvdXZ1WTZ4NWR3NnJxeUxwbzdyXzZYMTd4NlFrOGlGdTNqcnJhbnAyN18tYUFJSGlTOWxSSHRRWkVmYzFrVFExcVozWktlQWkzaFkzMTlSTjhfVmlJLWhKcDdocVhjUzRCUk9hVm9BZnJzVjhEZWx6X0hBX01UNnktblNuQktQSEhHNDhKM3dESVlDd1NPaHNad3V6RDF4OGlESjVWeW1sZ1JQNmR4YnpYbDZycEpVVWJDRW51MmJ4cXdZbXRqR21Tckh0NGZGZXZ3SzUyYW5lOUo0RC1IbWdINkJubEtkVXoteDdMZUJmdURscUE?oc=5",
+          "title": "Tech layoffs tracker 2026: All the job losses across Disney, Amazon, Microsoft, Apple, Meta and more",
+          "date": "2026-11-14"
+        }
+      ]
+    },
+    {
+      "company": "SpaceX",
+      "kind": "감원",
+      "size": "60명",
+      "pct": "미표기",
+      "note": "Grok 이미지 비디오 유닛 인력 감축",
+      "sources": [
+        {
+          "name": "BigGo Finance",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA3RldHV25CWDVPQ2dfVkk4dGE1UXJVbk9SQkxvRkNwaU5Na05STExPUGlwcDBheENIWDFuOC1jSFEybWx0QmJiS3hfUHA5ZnQtTzBobEdNdXJMYXpBRi1wcEFJYzJBckEwbFp2Uy1HVE5sMzhSSlE?oc=5",
+          "title": "Musk's SpaceX Super Intelligence Trims About 60 Jobs in Grok Imagine Video Unit",
+          "date": "2026-11-13"
+        }
+      ]
+    }
+  ],
+  "hiring": [
+    {
+      "company": "Anthropic",
+      "role": "Natural Gas Supply Lead",
+      "note": "데이터 센터 가동을 위한 에너지 전문가 채용, 연봉 최대 $405,000",
+      "sources": [
+        {
+          "name": "FourWeekMBA",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaHhmR191LWU0d013OEtSMWVZYWd6RHJjZjNIOGZIVE1BandqZWpUTnR3ZUtvV3RBUXl2RDZSQVIyckdITk95VEdTWGF1a3lQLU1hdVpVblRNVkxrd04yUW9OekZtcVQ0REZRZ1RQcWlzWlozaG93SUF2TFUzY0lYcFROdDNPMlFFS2xkQmpmbw?oc=5",
+          "title": "Anthropic Seeks First Gas Chief at Up to $405K for AI Sites",
+          "date": "2026-11-14"
+        },
+        {
+          "name": "MLQ.ai",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOa0l2VGhLM21fWHZPb1pFZFJ3UnhXU2pMVHQySFp6TG9EQWx1dEc5TWlqR0E1R29aSVkwdkR4dVdVZ3ZtU3VraVFvam9uMG9LdmNGZUhhTVpDcFV4V3NKQ1FHUEx4cFA0bEtUR3ZCcWVLSjNVRVVDYUJIenp1LVpDN2ZnS1RKMXJHemNBcmpmZW5UcjBfNXU4S3FmTlJ6c0RNbHFyRmxpYzloeW8tOEFFZA?oc=5",
+          "title": "Anthropic is hiring a natural gas supply lead at up to $405,000 to fuel its own data centers",
+          "date": "2026-11-14"
+        },
+        {
+          "name": "Business Insider",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaGJLb1MyTV9HalJLT0xmS2hqQm8wYVRZLXNvRWhIZEswN194WDZIaGdqZ0VnZ1RKejFRMVBMbG9ONXV2UXFkUk5VVW9nOXlUdExGaTgzX2lnSW1NNWN6X0l1TVhGSS11VTU1dTU4MG1CMXE3SlZBdW5PeFI1QkFTOURlckRuMzV5VFFRdVNyTVVtdEpuTkxuWU1Waw?oc=5",
+          "title": "Anthropic's appetite for natural gas is growing, and it's hiring a leader for the push at $405,000",
+          "date": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "company": "Amazon",
+      "role": "물류 현장직",
+      "note": "데이토나 비치 당일 배송 시설 오픈으로 100명 이상 채용",
+      "sources": [
+        {
+          "name": "Hoodline",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZGRnblNoVzhsSEVSR3BQSFpncmF1UGdiRlpCWmFnREdidU4yWGc2UTNoSzI3d2V5eFFfb3g2Q3lPUWRjbXpOODJvWHJsbzRNWENnV0hlc1U2bkhlQ2pIUDFpcE9LajYwNTVTSWY4X08xeGZOSF9ZVFppeTI0UkUyNTFQb2FiU29HWk92bHVuSWp1UmRVTDR5UA?oc=5",
+          "title": "Amazon Opens Daytona Beach Same-Day Facility With 100-Plus Jobs",
+          "date": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "company": "OpenAI",
+      "role": "보안 전문가",
+      "note": "산업 스파이 방지 및 사이버 방어 강화를 위해 전직 정보요원 영입",
+      "sources": [
+        {
+          "name": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5jSmRVNVhpejROUVFObk9xUFIyYnZpY0NfNm5BWXpKN1hlWG1GV3NHR1F1Zm9weks3SjMycEowd3duWDM1Y0IwLUxrUVp0SkptMWh5bnZkSHh5aUZ5X0t5bC14eHlfQm43WWMzNXJkeG1ldlgwZ3lJU0FXMA?oc=5",
+          "title": "OpenAI Bolsters Cyber Defenses",
+          "date": "2026-11-14"
+        },
+        {
+          "name": "Mezha",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9tTHVJd2M2T21uUElTSkRENkZZaHlrZmpVcGtTM1BWWFdiQ0M1aFNRU0tJMmZlMHpMd3pQV2hWNzNKUk9SUkhNdi1SNFZtb1U3eGM5MnVRVlpFRXRFbm9xVE9od211dkg2M2x30gFrQVVfeXFMT21MdUl3YzZPbW5QSVNKREQ2RlloeWtmalVwa1MzUFZYV2JDQzVoU1FTS0kyZmUwekx3elBXaFY3M0pST1JSSE12LVI0Vm1vVTd4YzkydVFWWkVFdEVub3FUT2h3bXV2SDYzbHc?oc=5",
+          "title": "OpenAI and Other AI Companies Begin Hiring Former Intelligence Officers to Protect Against Espionage",
+          "date": "2026-11-13"
+        }
+      ]
+    }
+  ],
+  "roles": {
+    "up": [
+      {
+        "name": "FDE (현장 엔지니어)",
+        "why": "음성 AI 도입 및 고객 맞춤형 솔루션 수요 증가"
+      },
+      {
+        "name": "AI 배포 리더",
+        "why": "AI 실무 적용 가속화로 임원급 처우 제공"
+      },
+      {
+        "name": "보안/정보 전문가",
+        "why": "AI 기술 유출 방지 및 사이버 보안 강화 필요"
+      },
+      {
+        "name": "에너지 공급 전문가",
+        "why": "AI 데이터 센터 운영을 위한 전력 확보 중요성 증대"
+      }
+    ],
+    "down": [
+      {
+        "name": "단순 코더",
+        "why": "AI가 코딩을 대체하며 상업적 리더십 중시로 변화"
+      },
+      {
+        "name": "신입 행정직",
+        "why": "AI 활용 능력 미비 시 진입 장벽 상승"
+      }
+    ]
+  },
+  "korea": [
+    {
+      "company": "BBQ·CJ·신세계",
+      "note": "식품·유통 대기업들이 AI 인재 확보를 위해 파격 처우 제시하며 채용 경쟁",
+      "sources": [
+        {
+          "name": "세계일보",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5fM0tiWF9DWnlUYnYyd2JiR0poWDBVdFF0Z2I3eExJdzJ4VkZlcFIzbTNfTHB4SUdQbXJjSEVsQ1paN3NqSTRwRFItMG9nZHp20gFUQVVfeXFMUGhHbUdsc0hNNWl3SDhseldycWpqa05PdFkyMlJOQ25NaU5Pb1lXWU9vWUlYLVJ1QTZFOTJvbzhlRi1ZdnFNODJsUi1GdU5TREw1cEdZ?oc=5",
+          "title": "치킨회사도 AI 인재 뽑는다…BBQ·CJ·신세계·오리온·동원 채용 경쟁",
+          "date": "2026-11-14"
+        }
+      ]
+    },
+    {
+      "company": "컴투스·펄어비스",
+      "note": "대학생 멘토링 및 채용 연계형 인턴십을 통해 게임 개발 인재 선점 주력",
+      "sources": [
+        {
+          "name": "청년일보",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9td0s1U2RRdWZLbVJESjFkSDRUdmtHaUU0ZDhmVEphNTlEdUlCdjBIUDNWU2xhOGxqOUxtUHB3Q1o1a0x5WWVUQkJMaU50RWVKRGJfUEEtUGVSU1A4M1RUQ0tIT1l0RHM?oc=5",
+          "title": "'대학생 멘토링'부터 '채용 연계 인턴십'까지…컴투스·펄어비스, 게임 인재 확보 \"분주\"",
+          "date": "2026-11-14"
+        }
+      ]
+    },
+    {
+      "company": "GS칼텍스",
+      "note": "Amazon SageMaker Canvas를 활용한 MLOps 도입으로 업무 효율화 추진",
+      "sources": [
+        {
+          "name": "Amazon Web Services (AWS)",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQLVczNDh5TDFQdUdoMW53SllxMGVrazZ1UmRzVXk0Q0xOWHZkU0VHekNsTXdON05aQXRYcXJIQ1pOQ25iNjlodUNGNWw0NXNTbGlHQXcwanV5cEo0MzNfYmJEQWZJRWJKbVdheUh4c0hKcWI1VjFXVjNiTm5WRnlLNVVaUXlXVHM1eWJoeUUzWmk4OTAwMlltMnh0aTBIcUM5clE2RFRwVHNoVURodmNab05B?oc=5",
+          "title": "Production MLOps at GS Caltex with Amazon SageMaker Canvas, part 1",
+          "date": "2026-11-14"
+        }
+      ]
+    },
+    {
+      "company": "케이사인·에이아이딥",
+      "note": "대학 채용 박람회 참여를 통해 보안 및 AI 개발 인력 상담 진행",
+      "sources": [
+        {
+          "name": "데브타임즈",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE13b2tQYkpHX2hFX3BHZmRvTkViMEllSlk4OGFwejlSWFpOVi1OSVdRQkg1VE8xTjJmQS0zeFJIb1A5QzRKdkNPcThNMWFtbG8?oc=5",
+          "title": "케이사인·에이아이딥, 국민대 잡 페어 참여… 보안·AI 개발자 채용 상담 - 청년개발자신문",
+          "date": "2026-11-13"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "t20261114-00",
+      "region": "global",
+      "importance": "high",
+      "company": "Microsoft",
+      "title": "MS 대규모 감원 후 시스템 장애 발생, 인력 부족 논란",
+      "body": "6만 명 규모의 감원 및 희망퇴직 진행 중 Outlook과 Teams 등 주요 서비스에서 대규모 장애가 발생함. 시장에서는 AI 중심의 급격한 조직 개편이 운영 안정성을 해치고 있다는 비판이 제기됨.",
+      "insight": "커넥트웨이브의 솔루션 안정성을 위해 AI 도입 시 기존 운영 인력과의 균형 있는 조직 설계가 필수적임.",
+      "tags": [
+        "조직개편",
+        "운영리스크"
+      ],
+      "sources": [
+        {
+          "name": "Fast Company",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVnVZS3BidTV5eFVIMmpnbUtlLVNKekwyUmowcmstODhFVnNkS213VE8wcl9lY2xDUU9LVmdYR2JhaHF1cFYybThQNjZmdHMzSUpJdEpfWmE5NjRZT251bmRMRi1fUEF6NVpQU2JGenYtTml3ZmJrNVR6eVJaNDNsY1h5MENxRzBiWTh2d29sYnJ2TldEam9GbFZEclF6ZGF3eGtLNExHbw?oc=5",
+          "title": "Microsoft’s massive outage puts its AI-driven layoffs under scrutiny",
+          "date": "2026-11-14"
+        },
+        {
+          "name": "BNN Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNV1FKeDlmNXE3bjFQUjQwUnd1TGhlMmpmVTh4cHdDaTczaXdoZWlZU29FdTJFUE1TZU8tcmgyVFM2RGFIV1d4Zkl4OVFhRzBPOVpDeUppTWJ3Si1vV2dRdXQ0RGVEa2dudFVqR0w0dWJieWJUWkVmQU5jMU52S29oakc1LTJLdGRYTnV3NUEwZ2oxaVJjRTFlejh0Q1RVMkRObDJEN0lmc0tFZ0ozcWNRblduTzluTDlFZW9iazh3Z1BNc3BlNHM0Tll3UVVqU1V5bXp0Vw?oc=5",
+          "title": "Microsoft outage happening after massive layoffs is ‘incredibly concerning’: tech analyst",
+          "date": "2026-11-14"
+        },
+        {
+          "name": "Newsweek",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9qTUdhb2gyX1ZOZnVTWk5QQWtESTJLR3N6U0I2bG9TVnhmUUp1R09pTHJ2TFdIYm1mOTFIb2stQ0RsZXFrMmdERVlSTkRUb1NiVmpMemNwRUxRcFhWY2Rzc0FUanhJRHJQZ1RNQ0JqamoyRURwMVp6SkpSTjc0dw?oc=5",
+          "title": "Microsoft’s Self-Inflicted Outage Follows Plan to Cut Quarter of Workforce",
+          "date": "2026-11-13"
+        },
+        {
+          "name": "Nacionale",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSVBBSjBsbTNTRmRON0VUUktna3l6TFJZdjlVSUdLTTQ5ZHNhVFhRLVFzdEJHeFQwRjN0WmhkNm0wTUNXVkotcHdJUl9zYXU5eE9XQlVUalRnVjRzckdDUGdEWGFLS0xZdVBVcmZpMGhOZXN3WEJXS0tjRHdCM0dnUklSV0NqNTJ1aE5DM2lwc08yY2Y3Y3FlMlVUN2x4MjlvbFZr?oc=5",
+          "title": "Did Microsoft layoffs cause the Outlook outage? Microsoft blames a network upgrade issue, not staffing",
+          "date": "2026-11-13"
+        }
+      ],
+      "date": "2026-11-14"
+    },
+    {
+      "id": "t20261114-01",
+      "region": "global",
+      "importance": "high",
+      "company": "Anthropic",
+      "title": "코딩 테스트 폐지 및 '업무적 감각' 중심 채용 전환",
+      "body": "AI가 코딩을 수행하는 시대에 맞춰 기술적 코딩 인터뷰를 폐지하고, 결과물에 대한 '미적 감각(Taste)'과 판단력을 중점 평가하는 방식으로 채용 프로세스를 혁신함.",
+      "insight": "개발자 채용 시 단순 구현 능력보다 AI 도구를 활용해 최적의 결과물을 도출하는 기획력과 안목 평가가 중요해짐.",
+      "tags": [
+        "채용혁신",
+        "평가방식"
+      ],
+      "sources": [
+        {
+          "name": "BigGo Finance",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5OX2ZMaGxTNHJxUUdlaXVYckh4cVVnNWh2akF3WEtibWptM0pPalpzN3U1ai10eEJsZ3QycUVoMzBhc3VwNGZyQ2NOLVEtb3FGdlFOQ0xjQ2ZSaUk2MkpNZnFPS3Q3a3cxMUZ4M2xVVFZweFppUnc?oc=5",
+          "title": "Anthropic Scraps Coding Interviews as AI Era Shifts Hiring Focus to \"Taste in Work\"",
+          "date": "2026-11-14"
+        },
+        {
+          "name": "Business Insider",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQa283c1h5YlcwMGFkTWxMTzVrUVJOWnVzUlU1WHNSLWxyNy1JdTNqZHJaWVFYcFRXSUNmSDlHQkl4cDRWcjdmVTh2UHJobmdLZE40WW5OekF4bW8zcHdCRGlSNzBiN2o4eHJTNVRSb1MtaWNxaXl2Z284ZHpBdklfQ2JDVUdCZV84dEREZUtfVDE1S0pBQVRxVnp1b25KZC1YcDhz?oc=5",
+          "title": "The 4 types of people Dario Amodei said he won’t hire — and what Anthropic looks for instead",
+          "date": "2026-11-14"
+        },
+        {
+          "name": "Traders Union",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOd3VmeklQa1Vtako4LXU2RV9SRTNHVDNOTXBITGJWRTl4dzdKbzJ1aXlXNHNxbHZERDFXQTFEaXZOY2Q3UGZ3azJRam92R1k1QWhaWFlJdEFIOWtmZ2dVYTZRa1gwNjNMcjlRVWNMQW9KMWl5UGtKTmJSR1c3U1VKMHVqUWFoQ2pXV1c3ak1YcV9XUQ?oc=5",
+          "title": "Anthropic highlights culture-first hiring as workforce expands ahead of IPO",
+          "date": "2026-11-14"
+        }
+      ],
+      "date": "2026-11-14"
+    },
+    {
+      "id": "t20261114-03",
+      "region": "global",
+      "importance": "mid",
+      "company": "업계 전반",
+      "title": "FDE(Forward-Deployed Engineer) 직무 수요 급증",
+      "body": "고객사 현장에서 직접 AI 솔루션을 구축하고 문제를 해결하는 FDE 직무가 핵심으로 부상함. 기술력과 비즈니스 커뮤니케이션 역량을 동시에 요구하며 높은 몸값을 형성 중.",
+      "insight": "메이크샵, 플레이오토 등 셀러 솔루션의 AI 고도화를 위해 고객 접점 엔지니어링 역량 강화가 필요함.",
+      "tags": [
+        "직무수요",
+        "FDE"
+      ],
+      "sources": [
+        {
+          "name": "BusinessLine",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQaXY5SE5QWEZwSUJ1M2RpR2YyeF9rZ2hmdDlCczQ0RUY5eGdmcjdoR1M4b0RBWUtTWnM0LWtzQk9mLVZDMG11VGQxdTBZdlB1WGdzTUw2YXlZa19hQjJ3cXZXTjJ3aGg3Wk1MMEloWklSQnBpMnRFNENwM3lVdFR0YW5wMzlLbTZlZV9NWENMQkhBVHFfcjNlN2x5S2lMSGVCTWNrNzF0SDdmOXZ0ZkZUSUNNaFE2MVUzbURfdURxQmg5cjFX0gHLAUFVX3lxTE03bnduX2RnV0xVRkJpQk9ON203dTNaTTFmZDlyTEx2MEpRcm9aZTlOLVFXbEZvZzRUVE05d2xGUVFnaEhLQ1Vmei02akV3TXh3NVpYQmlqUHd2b1JtbXV5Q2hSNjNWQVVUT2NNd2trSWRxOUM1VlJHTzZxUmJCcXBCMmVpX2ZDbW9DVHRxVW9fOTFhdkNXTTAxNl94SV9XbkF2MHFLMC1LTDBieFVoa3U5SDQzUjl1clBlNUZRUTFybUxyYnpKeTVjRi1Z?oc=5",
+          "title": "Rising voice AI adoption creates new hiring demand for FDEs",
+          "date": "2026-11-13"
+        },
+        {
+          "name": "PPC Land",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBpTmVkaXdjNGQ4YVNodEFZblk5N1gzajg4MDJXOWdzNkZpMHBTNFVoLXR3R2ZWZENsYU8tbXk0YjlvSi1neFI5YldudDhhUTNtdDcyem1n?oc=5",
+          "title": "Forward-deployed engineer",
+          "date": "2026-11-13"
+        },
+        {
+          "name": "요즘IT",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FVWl5R3UwX3pPdEJCbmNYUnZMQ1NQY0dYRXNqM3ltQVg4b0FQTFlwREluSzhBZERaM0IxSTBuSUdLT1RPRGhhTDZyX1NMU3FjOW5VNUc1ZHlYQQ?oc=5",
+          "title": "국내 FDE 지도 2026: FDE는 무슨 일을 할까",
+          "date": "2026-11-13"
+        }
+      ],
+      "date": "2026-11-13"
+    },
+    {
+      "id": "t20261114-05",
+      "region": "global",
+      "importance": "mid",
+      "company": "Amazon",
+      "title": "물류 자동화와 현장 인력 채용의 병행",
+      "body": "캐나다 내 첫 노조 계약 체결 및 뉴욕 배달 노동자 감원 논란 속에서도, 당일 배송 시설 확충을 통해 현장직 채용은 지속하고 있음.",
+      "insight": "몰테일 등 물류 거점 운영 시 자동화 도입과 노사 관계 관리, 현장 인력 수급의 균형 전략이 요구됨.",
+      "tags": [
+        "물류채용",
+        "노사관계"
+      ],
+      "sources": [
+        {
+          "name": "Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWUlsemhEMEVXdkMyaWhIUzlsaUJOc1JUNzhicHFGbktsdnJVb0RxekREbWNpaDlhUGxzTDFfdnBwYkpzR1Y2TC1NdGxYaU5Jdk83N0hQZVhGaDFNdE00VkYyTTVheXJXS2ZQclFZNjRQUEtrdG1KQzV0OHZ5SUppNk1ZZHA1YllBNVdoQlMwdFJ6bUtCb3I1MVJxelNEYUpGSjdNdUx0NzZaQnR5dWZ6ZzNNbw?oc=5",
+          "title": "Amazon’s First North American Union Contract Imposed in Canada",
+          "date": "2026-11-14"
+        },
+        {
+          "name": "Streetsblog New York City",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOc0h6ZEJwY1hMSExrTTM5ZEFwdENYUWF5U3haeVVDc08zMVZDcXlrUks1OHNtM3JBM1QySWQzQ3hfYkpIcWNIZWlmLTJlRnZKZFo5MTBiUlBtSXhReXVKQnpIaWFmUTJQR1dYMTNzTHlkSkoyY0hlWXNOSkZrQ2ZqbVVCMEJnYnZYSjNBX1lnRWtLNDh5Zy02bHRzaw?oc=5",
+          "title": "Council Speaker Slams Amazon For Delivery Worker Layoffs",
+          "date": "2026-11-13"
+        },
+        {
+          "name": "Hoodline",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZGRnblNoVzhsSEVSR3BQSFpncmF1UGdiRlpCWmFnREdidU4yWGc2UTNoSzI3d2V5eFFfb3g2Q3lPUWRjbXpOODJvWHJsbzRNWENnV0hlc1U2bkhlQ2pIUDFpcE9LajYwNTVTSWY4X08xeGZOSF9ZVFppeTI0UkUyNTFQb2FiU29HWk92bHVuSWp1UmRVTDR5UA?oc=5",
+          "title": "Amazon Opens Daytona Beach Same-Day Facility With 100-Plus Jobs",
+          "date": "2026-11-13"
+        }
+      ],
+      "date": "2026-11-14"
+    },
+    {
+      "id": "t20261114-02",
+      "region": "korea",
+      "importance": "mid",
+      "company": "국내 유통·식품업계",
+      "title": "비IT 기업의 AI 인재 영입전 가열",
+      "body": "BBQ, 신세계 등 전통적인 유통·식품 기업들이 물류 최적화 및 마케팅을 위해 AI 인재 채용에 적극적임. 사이닝 보너스와 파격적인 복지를 내세워 테크 기업 인력을 흡수 중.",
+      "insight": "이커머스 그룹인 커넥트웨이브 입장에서 도메인 지식과 AI 역량을 모두 갖춘 인재의 이탈 방지 및 처우 경쟁력 재점검 필요.",
+      "tags": [
+        "인재확보",
+        "처우경쟁"
+      ],
+      "sources": [
+        {
+          "name": "세계일보",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5fM0tiWF9DWnlUYnYyd2JiR0poWDBVdFF0Z2I3eExJdzJ4VkZlcFIzbTNfTHB4SUdQbXJjSEVsQ1paN3NqSTRwRFItMG9nZHp20gFUQVVfeXFMUGhHbUdsc0hNNWl3SDhseldycWpqa05PdFkyMlJOQ25NaU5Pb1lXWU9vWUlYLVJ1QTZFOTJvbzhlRi1ZdnFNODJsUi1GdU5TREw1cEdZ?oc=5",
+          "title": "치킨회사도 AI 인재 뽑는다…BBQ·CJ·신세계·오리온·동원 채용 경쟁",
+          "date": "2026-11-14"
+        },
+        {
+          "name": "아시아경제",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5zQndtcVNwekNhM0h2QmlkUDhhNUFkVjhuZzUzQ0xKUm9aXzlQbnRGNk5odzhqLUVSaUV1YmNkY004UGJUWGp3T0x1VnFDcDBtblVoUk53bW1wbkNZUkpNMw?oc=5",
+          "title": "\"출근도 전에 입사 보너스, 여행비 1300만원까지\"…감원 속에서도 몸값 치솟는 '이 인재'",
+          "date": "2026-11-13"
+        }
+      ],
+      "date": "2026-11-14"
+    },
+    {
+      "id": "t20261114-04",
+      "region": "global",
+      "importance": "low",
+      "company": "Nvidia",
+      "title": "젠슨 황 퇴임설 및 리더십 승계 리스크 부각",
+      "body": "엔비디아의 젠슨 황 퇴임 가능성이 언급되며 일론 머스크 등 빅테크 리더들이 영입 의사를 밝히는 등 테크계 리더십 변화에 주목하고 있음.",
+      "insight": "핵심 경영진 및 기술 리더의 거취가 기업 가치와 인재 유입에 미치는 영향력을 모니터링할 필요가 있음.",
+      "tags": [
+        "리더십",
+        "Nvidia"
+      ],
+      "sources": [
+        {
+          "name": "Benzinga",
+          "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQcEJtbklGSHBrS21RbGRBWlJVUUNYRl82V1NwX1V3MkpKVjh0ZkV4MWQ0eHh6RTFqZ1FYMFZlYm9RZkJLdlhtc05fUUFxMkxqVmVhdExockV0YjVCRGlfTzZaWTd3aGtXNkdHWnE5U3k2eVVOMENuTkFvaTM1eDJGMUtvU1I0THZjUFV3YzZUR3cyMC1kWElUY2xGNlZheVdhdnJXdE1pMEpLVjN1ODVRNTY4R2Vkckxka1hYb0Jsa2JZMGJkVWkyZVFGOXRQcU5tRGlkVW5tZFJZVU9YbHVfZDZHTTdadi1nRVRwR2RueHREY3pYdFZDRUg0akZlUVJmenFpaWtBOFA?oc=5",
+          "title": "Nvidia’s Jensen Huang Exit Sparks Steve Jobs Comparison From Lex Fridman - NVIDIA (NASDAQ:NVDA)",
+          "date": "2026-11-14"
+        },
+        {
+          "name": "Fortune",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9rTVBpYjB5SW45Z01FbGxPWDN3ZUhNMzFfakIxZFpSVjE5UDV1akZxQUFzU3lsMXhFU21QNHRfWDlRMjdLUTNGb0xOR21MMDMyRDFIcHowWHlKdThzQ0JITmItaWYzY2xzZU80UDR5T1IyTzBPbXVIS0lkbks?oc=5",
+          "title": "Jensen Huang is out at Nvidia. Elon Musk says hiring him would be ‘an honor’",
+          "date": "2026-11-13"
+        },
+        {
+          "name": "Northeast Live",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPb2YwaEhKVERoemxsaGZWXzhSVlhjT3NNSklkN01SbWsxRkdlaWh6R1hjZ210MDFrNDEyUHFUbEVTZjd4NDE3MlZpZ2JMeWluZ1FUS1NVYmlGbkJrTWs3anc3WWRqRG1VTHFqZHRMUGd4VTdhbk5BVU1iS1lQUkF5c3cyRVB2TFlDQW12ZjdYQXF1Q3BKOF9NRw?oc=5",
+          "title": "Is Elon Musk Hiring Former Nvidia CEO Jensen Huang?",
+          "date": "2026-11-13"
+        }
+      ],
+      "date": "2026-11-14"
+    }
+  ]
+}
