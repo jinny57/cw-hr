@@ -1,0 +1,403 @@
+{
+  "date": "2026-11-15",
+  "window_days": 1,
+  "article_count": 179,
+  "engine": "gemini-3-flash-preview",
+  "headline": "포괄임금제 기획 감독 및 네이버 물류 자회사 설립 등 HR 리스크·경쟁 환경 변화",
+  "points": [
+    "고용노동부의 포괄임금·고정OT 오남용 기획 감독 실시로 근태관리 및 수당 지급의 적정성 점검 필요",
+    "네이버의 물류 자회사 설립 및 쿠팡의 시장 지배력 강화 등 이커머스 업계 인력 유동성 증대",
+    "경력직 선호 현상 심화로 인한 청년 비정규직 비중 역대 최고치 기록 및 채용 시장 변화"
+  ],
+  "items": [
+    {
+      "cat": "labor",
+      "importance": "high",
+      "company": "고용노동부",
+      "title": "2026 포괄임금·고정OT 오남용 기획 감독 실시",
+      "body": "고용노동부가 '공짜 노동' 근절을 위해 포괄임금제 및 고정OT 수당 계산의 적정성을 점검하는 기획 감독에 착수했어요. 특히 실제 근로시간과 수당의 대조 여부가 주요 점검 항목이에요.",
+      "insight": "커넥트웨이브 그룹 내 포괄임금제를 운영 중인 법인의 경우, 실제 연장근로 시간이 고정OT 범위를 초과하지 않는지, 초과 시 수당이 제대로 지급되는지 선제적 점검이 필요해요.",
+      "action": "그룹사별 근태 기록과 급여 데이터를 대조하여 미지급 수당 리스크를 파악하고 PC-OFF 시스템 연동 상태를 확인해 보세요.",
+      "teams": [
+        "노무·ER",
+        "인사기획",
+        "보상·복리후생"
+      ],
+      "tags": [
+        "포괄임금제",
+        "고정OT",
+        "기획감독",
+        "근로시간"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "시프티 블로그",
+          "url": "https://shiftee.io/ko/blog/article/2026-inclusive-wage-fixed-ot-audit",
+          "title": "2026 포괄임금제 근태관리: 고정OT 수당 계산·대조와 기획감독 점검 항목 고용노동부는 ‘공짜 노동’ 근절을 위해 2026년 9월 15일부터 약 두 달간 「포괄임금·고정OT 오남용 기획 감독」을 실시하... 202",
+          "date": "2026-11-15"
+        }
+      ],
+      "date": "2026-11-15",
+      "id": "20261115-00"
+    },
+    {
+      "cat": "ecom",
+      "importance": "high",
+      "company": "네이버",
+      "title": "네이버 물류 자회사 설립, 쿠팡 로켓배송 정조준",
+      "body": "네이버가 물류 자회사를 설립하며 쿠팡의 로켓배송에 대응하는 물류 경쟁력 강화에 나섰어요. 이는 이커머스 물류 시장의 주도권 싸움이 인프라와 인력 확보 전쟁으로 번질 것임을 시사해요.",
+      "insight": "스윗트래커, 몰테일 등 우리 그룹 물류 계열사의 핵심 인력에 대한 헤드헌팅 시도가 강화될 수 있어요. 반면, 신설 법인 설립 과정에서 발생하는 인력 이동 흐름을 채용 기회로 활용할 수 있어요.",
+      "action": "물류 및 SCM 기획 인력의 시장 가치를 재점검하고, 핵심 인재 리텐션 방안을 논의해 보세요.",
+      "teams": [
+        "채용",
+        "인사기획"
+      ],
+      "tags": [
+        "네이버",
+        "물류자회사",
+        "이커머스경쟁",
+        "인재확보"
+      ],
+      "our_group": false,
+      "talent": {
+        "level": "mid",
+        "signal": "물류 자회사 설립에 따른 대규모 경력직 채용 및 업계 인력 이동 가속화"
+      },
+      "sources": [
+        {
+          "name": "재경일보",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1tcmZjWDhvbUNtWUJoYkdReEE5bWF1QW43Qlo1V21EVzJfUkl6SlRpZFVMSnc3M0RQeWl5Mjg0M2VsUDVpMFNORFdVZw?oc=5",
+          "title": "네이버 물류 자회사 설립…쿠팡 로켓배송 정조준 : 기업·산업",
+          "date": "2026-11-14"
+        }
+      ],
+      "date": "2026-11-14",
+      "id": "20261115-01"
+    },
+    {
+      "cat": "market",
+      "importance": "mid",
+      "company": "업계 전반",
+      "title": "경력직 선호 현상 심화로 청년 비정규직 비중 46% 돌파",
+      "body": "기업들의 수시 채용 및 즉시 투입 가능한 경력직 선호 경향이 뚜렷해지면서 청년층 임금근로자 중 비정규직 비중이 역대 최고치를 기록했어요. 정규직 일자리는 감소 추세예요.",
+      "insight": "신입 채용보다는 경력직 수시 채용이 주를 이루는 우리 그룹의 채용 전략과 일치하나, 장기적으로는 우수 주니어 인재 확보를 위한 EVP(인재 제안) 차별화가 숙제가 될 수 있어요.",
+      "action": "경력직 채용 시 '성장 가능성'을 중시하는 주니어 경력자들을 타겟팅한 채용 브랜딩 메시지를 강화해 보세요.",
+      "teams": [
+        "채용"
+      ],
+      "tags": [
+        "수시채용",
+        "경력직선호",
+        "고용동향",
+        "청년고용"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "천지일보",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9POWVzV0JYU1A3aUJ0N0pqRkVJWnc1eXAzZkdQcHNLbWotdU9mSld0SjlGRE41QV80VUh3WEJpZE9Ca2ZfcGNaZktobU5HRm9LaDJ2dU12eUxDQkZiZGgyNHlLYW1GNUVPZ0E?oc=5",
+          "title": "경력직 선호·수시채용 확산에 청년 비정규직 46% 달해",
+          "date": "2026-11-15"
+        },
+        {
+          "name": "이투데이",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB3WnhRTThzR1dheFpjLTJCTm44UktoeHMyUFZNbnBkTkNyNm1RUzVRY2NFbk9NeUhTelRBRUVIWUZYZ3F5RVJTYjQ3dVhRTDVoWUI2Qw?oc=5",
+          "title": "경력직 선호·수시채용 확산에…‘청년 비정규직’ 46% 사상 최고",
+          "date": "2026-11-15"
+        },
+        {
+          "name": "국제신문",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOOXpBQzVGWFE0QUFndHFQS0V2V3Jpc1NFVW03NHJTdjJzLWZ1dW1nN2ZSTXVXc01KZm5TZ09ySWl1VTBmUE1CbjRVcy1EdUR3SVlFYjIwN2tvYmpENUU3ZXYyUEVZdk1NYTA1azFIbEFkcGRWY29jbW1USGpLTVBiVjVSc0hTdjAwdmFmWUVR?oc=5",
+          "title": "경력자 선호하는 기업들…청년층 비정규직 비중 `역대 최고`",
+          "date": "2026-11-15"
+        },
+        {
+          "name": "뉴시스",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE12MmstTVkyZHFkZ2FlS2xhdUVqQ2xBeV8xRDdyRzF3NlVLMkRDeGRNaU9PVmlDdFJ2a2x0VWFLN3VlTk1pZGNRRkphT2ZTT0lxOG8tU1NQQzV4RWM3UWM5eNIBeEFVX3lxTFB0bDg3b1pRYnFkSURuM1Z6ZXVBQ1pBTGVfZzFJc1NQQVE0RUJoanZKelVwRU5oMnhJZG4xS3h3T1Axa19MYWtFV3I0MTA1Sk91Q0lkRW5Qd05iNEg1T3dtcVNZczZid01walA0WndyaUhBVGJTa1pVQg?oc=5",
+          "title": "청년 임금근로자 46%가 비정규직 '역대 최고'…정규직 23년 새 107만개 사라져",
+          "date": "2026-11-15"
+        },
+        {
+          "name": "경제타임스",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBuWUx6VmFNNncwd3BpQ3Jwdng3eHNDT0dRaDdWX2VPSURMRGdDdmpZQlFqS01wYTVWRlpNUG0yMlVOcHhTaUxNT3pxbENncmtZNmQ0?oc=5",
+          "title": "노인은 뛰고 청년 멈췄다…'50개월 절벽' 갇힌 20대",
+          "date": "2026-11-15"
+        }
+      ],
+      "date": "2026-11-15",
+      "id": "20261115-02"
+    },
+    {
+      "cat": "trend",
+      "importance": "mid",
+      "company": "엔비디아",
+      "title": "엔비디아 젠슨 황 CEO 사임 및 리더십 교체",
+      "body": "글로벌 AI 반도체 시장을 이끌던 젠슨 황이 사임하고 재무 전문가가 후임으로 거론되고 있어요. 리더십 공백에 대한 우려로 주가가 급락하는 등 시장의 충격이 커요.",
+      "insight": "글로벌 빅테크의 리더십 변화는 국내 IT/AI 인재들의 심리적 동요나 이직 의향에 영향을 줄 수 있어요. 특히 AI 관련 개발 인력의 시장 유입 가능성을 모니터링해야 해요.",
+      "action": "AI 및 데이터 사이언티스트 직군 채용 시, 글로벌 기술 트렌드 변화에 민감한 인재들에게 우리 그룹의 기술 비전을 명확히 전달해 보세요.",
+      "teams": [
+        "조직문화·HRD",
+        "인사기획"
+      ],
+      "tags": [
+        "엔비디아",
+        "젠슨황",
+        "리더십리스크",
+        "AI인재"
+      ],
+      "our_group": false,
+      "talent": {
+        "level": "high",
+        "signal": "글로벌 리더십 교체에 따른 핵심 엔지니어 및 전략 인력의 이탈 가능성"
+      },
+      "sources": [
+        {
+          "name": "머니네버슬립",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1TTWpsZVpza04xUjNpWllOX2JrTTRHY3duelRHY3lCSDZTR3hxUFFHSzIyTDNvZkVERzMtenRyMlVFRW1KZ2RRc2ZsQ2NoNzVxTFpza2ZvdWFJVWVpdzNNRmZQa25ITXA0cFRIMmNXeUs2VHfSAXdBVV95cUxQamNHLUlYZ1MyX1pjNzI2Wi1rYXZHRGphV2lrSnZFQmxoanRvZnltY1EyTXpZZ0RCRVoxNDVQTkRrczNnaUNvcklNLXBDSjFGOTRSdnQxRVRhV3c0c0J4XzlCSHo4VEE3TjdiR0xVQWVhY2t1WENtcw?oc=5",
+          "title": "젠슨 황 엔비디아 CEO 사임, 재무전문가가 키 잡는다…시장의 걱정의 원인은?",
+          "date": "2026-11-14"
+        },
+        {
+          "name": "라디오코리아",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9sQlFWeFNKUl9tRmZSUVV6a3c3OHNYZ3JCT3ViQ2ZXR2lxRlpSdTdvNnpwa1JvNTRoVGVQRWNQUFZJaTVrZzRIbE9zUU1TaFNaNV9hQnBVNXRwV3ZwdWV2ZTU0Z0I?oc=5",
+          "title": "엔비디아 주가 장 초반 13% 폭락…젠슨 황 CEO 사임 충격",
+          "date": "2026-11-14"
+        },
+        {
+          "name": "초이스스탁US",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1VUUpyU08yV2NVbUxmY1BZd3JhbmR2dmNoalZ4OGthWHo4RU9MbGx3QnlzZktDMkxpZUFoMlFpVFB3TTFjeDhkQkgxU1VMVDhJV0dGNzFrVkJSSTlsZlZNOTNCeHNITk0?oc=5",
+          "title": "젠슨 황 불륜 파문 사임에 엔비디아 후임 인선 급물살… 하스 접촉설",
+          "date": "2026-11-14"
+        }
+      ],
+      "date": "2026-11-14",
+      "id": "20261115-03"
+    },
+    {
+      "cat": "labor",
+      "importance": "mid",
+      "company": "업계 전반",
+      "title": "산재 은폐 신고 포상금 제도 및 한파 관리 리스크",
+      "body": "내년부터 산재 은폐를 신고하면 최대 500만 원의 포상금이 지급돼요. 또한 겨울철 한파로 인한 현장 근로자의 안전 관리 부실은 사업주의 법적 리스크로 직결돼요.",
+      "insight": "물류 센터(몰테일 등)를 운영하는 그룹사 특성상 동절기 안전 사고 예방과 산재 처리의 투명성이 더욱 중요해졌어요.",
+      "action": "물류 현장의 방한 대책을 점검하고, 사고 발생 시 즉각적인 보고와 산재 처리가 이루어지도록 현장 관리자 교육을 실시해 보세요.",
+      "teams": [
+        "노무·ER",
+        "보상·복리후생"
+      ],
+      "tags": [
+        "산업재해",
+        "안전보건",
+        "물류센터",
+        "노무관리"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "재경일보",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE93b3FzaDNDUlhneklhbV9vaXI1VTloa09Vd1pwNVJMamFXQXpFTUZfOU5qc3BVd21CdEtqdzdJOG83bzZLbVNNVHR6OA?oc=5",
+          "title": "국민 누구나 산재 신고…내년부터 포상금 지급 : 사회",
+          "date": "2026-11-15"
+        },
+        {
+          "name": "한국공공정책신문",
+          "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5FYlBxcjVoQk5QU1ZtX1Rxa0ZCeERfeGxmNXYzU2Q3OUtUR3VhbGpXZkxTU0lLa2ZFRS1QQWhyaFNqM1U?oc=5",
+          "title": "올겨울 한파 관리, 소규모 현장 사업주의 비용·법적 리스크로 직결된다",
+          "date": "2026-11-15"
+        },
+        {
+          "name": "헤럴드경제",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE43TDRBOXFYQXByTmFLYVA0Z05Bb0dQNzFieWhxcUVwZDdzVjFIV1gwVUVWNmRHRHJWbFNXSTZQLVhiSE85c1RlV3E1Xy1MYXF4MjI1MnhR?oc=5",
+          "title": "산재 은폐 신고하면 최대 500만원…연간 포상금 횟수 제한 안 둔다",
+          "date": "2026-11-15"
+        }
+      ],
+      "date": "2026-11-15",
+      "id": "20261115-06"
+    },
+    {
+      "cat": "labor",
+      "importance": "mid",
+      "company": "고용노동부",
+      "title": "가짜 3.3 계약 및 사업장 쪼개기 집중 단속",
+      "body": "정부가 근로자임에도 프리랜서(3.3% 사업소득) 계약을 맺어 근로기준법을 회피하는 '가짜 3.3' 사례에 대해 기획 감독을 실시해요. 근로자성 판단 기준이 엄격해질 전망이에요.",
+      "insight": "우리 그룹 내에서 운영 중인 프리랜서나 업무 위탁 계약 인원 중 실질적으로 지휘·감독을 받는 근로자성이 있는 인원이 없는지 점검이 필요해요.",
+      "action": "현업 부서의 프리랜서 활용 현황을 파악하고, 계약서 내용과 실제 업무 방식이 근로자성 오인 소지가 없는지 검토해 보세요.",
+      "teams": [
+        "노무·ER",
+        "보상·복리후생"
+      ],
+      "tags": [
+        "가짜프리랜서",
+        "근로자성",
+        "기획감독",
+        "노무리스크"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "시프티 블로그",
+          "url": "https://shiftee.io/ko/blog/article/freelancer-night-work-pay-and-employee-status",
+          "title": "프리랜서 야간근로수당 지급 조건과 근로자성 판단 기준 알아보기 프리랜서 계약으로 일하더라도 근로기준법상 근로자에 해당하면 연장·야간·휴일근로수당이 적용됩니다. 근로자 해당 여부는 계약서의 ... 2026-11-09",
+          "date": "2026-11-15"
+        },
+        {
+          "name": "한국방송뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1OSF9QQ1FTQTVzVFpaUk1LNzB6bDcxRzdadktWYzg5cHAwNHdIekxQZkR2RGZkSTlyTUxzZVNlU3d0LURSMnE1aEltSWI1a2RaUjZyRWlMVjZBVWFyMkE?oc=5",
+          "title": "'가짜 3.3 계약'·'사업장 쪼개기' 잡는다…탈법 기획감독 착수",
+          "date": "2026-11-14"
+        }
+      ],
+      "date": "2026-11-15",
+      "id": "20261115-04"
+    },
+    {
+      "cat": "ecom",
+      "importance": "mid",
+      "company": "식품업계",
+      "title": "내수 한파에 식품업계 희망퇴직 및 조직개편 확산",
+      "body": "주요 식품 기업들이 경영난 극복을 위해 희망퇴직을 실시하고 조직을 통폐합하며 허리띠를 졸라매고 있어요. 중장년층뿐 아니라 전사적인 인력 감축 분위기가 형성 중이에요.",
+      "insight": "이커머스 플랫폼 내 식품 카테고리 MD나 영업 인력 중 우수 인재를 확보할 수 있는 기회예요. 전통적인 유통/식품 대기업 출신 인재들의 플랫폼 이직 수요가 높아질 것으로 보여요.",
+      "action": "식품 카테고리 확장 계획이 있다면, 해당 업계 출신 핵심 인재 리스트를 사전에 확보해 보세요.",
+      "teams": [
+        "채용",
+        "인사기획"
+      ],
+      "tags": [
+        "희망퇴직",
+        "구조조정",
+        "인재영입",
+        "식품업계"
+      ],
+      "our_group": false,
+      "talent": {
+        "level": "high",
+        "signal": "식품 대기업들의 희망퇴직 실시로 인한 MD 및 영업 인력 시장 유입"
+      },
+      "sources": [
+        {
+          "name": "머니투데이",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1PbXAwSE1VRHB5aldNNlpmSnJveWk1bEVKekFJbHl2OGhhcFZCWEhiX1MzQkNxTl9yUnZ3WmVCMzRGeVowWXVZRmVjZjNrMnBYLVE4VzI4c3VTcDBKLUlDZzJsa1o3VnZjOEHSAW9BVV95cUxPY19rZ002SDZQQXZSdHd6WE1fUkNySEZwQ3EzRjE2eEpYeUNvM0RLeFV6VGpnRXk3VHVzM2oybldXcTBCY0NxcVNhZU82Rk43dTBCS1hPYWtWMkJnaDN1RldLRmdzZGFNNVpVTkZfX0k?oc=5",
+          "title": "희망퇴직 받고 조직 합치고…식품업계, 내수 한파에 허리띠 조인다 - 머니투데이",
+          "date": "2026-11-15"
+        },
+        {
+          "name": "국민기자뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBiR1RvUjZha3hzYU04R1BiOTZkWUlBLUVnRnVnVHNwYWlsaU9QVzdPWE0zUXZoZ3h2OW9hYzhxSG9GNnNxTF8wdUdlRU1xVlFxLUVNWmVRa29KZEQyRWNBX3RPX0HSAWdBVV95cUxOWld0S1o5VzZCR2xVUl9SeGMtTG9rd1A1a1BZYnpQSDdiYnNVUFlUME5WS25fVlMzUE03ZTg2b3N3N0R5U2VKeHdGMDJmOWM0OHB3Z1A5OHFPNFpZRVNQOXBxNFBVREZR?oc=5",
+          "title": "[중장년의 100대 위기] 44강. 명예 퇴직 압박",
+          "date": "2026-11-15"
+        }
+      ],
+      "date": "2026-11-15",
+      "id": "20261115-08"
+    },
+    {
+      "cat": "trend",
+      "importance": "low",
+      "company": "업계 전반",
+      "title": "AI 활용 HR 업무 효율화 및 조직 내 확산 과제",
+      "body": "AI를 활용해 아낀 시간을 어디에 써야 할지, 왜 특정 개인의 AI 노하우가 팀 전체로 확산되지 않는지에 대한 HR적 고민이 깊어지고 있어요. LG경영연구원은 'HR 빌더' 역할을 강조해요.",
+      "insight": "단순히 AI 툴을 도입하는 것을 넘어, AI가 대체한 직무의 인력을 어떻게 재배치하고 고부가가치 업무로 전환시킬지에 대한 HRD 전략이 필요해요.",
+      "action": "사내 AI 활용 우수 사례를 발굴하고, 이를 전사적으로 공유할 수 있는 워크숍이나 가이드를 제작해 보세요.",
+      "teams": [
+        "인사기획",
+        "조직문화·HRD"
+      ],
+      "tags": [
+        "AI_HR",
+        "업무효율화",
+        "HRD",
+        "디지털전환"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "오프피스트",
+          "url": "https://www.offpiste.ai/articles/5부-ai로-아낀-시간은-어디로-가야-할까-2740",
+          "title": "5부 ai로 아낀 시간은 어디로 가야 할까",
+          "date": "2026-11-13"
+        },
+        {
+          "name": "오프피스트",
+          "url": "https://www.offpiste.ai/articles/ai-잘-쓰는-한-사람의-노하우-우리-팀에서는-왜-통하지-않을까-hr인사이트-2735",
+          "title": "ai 잘 쓰는 한 사람의 노하우 우리 팀에서는 왜 통하지 않을까 hr인사이트",
+          "date": "2026-11-13"
+        },
+        {
+          "name": "오프피스트",
+          "url": "https://www.offpiste.ai/articles/ai가-코드를-짜면-인사팀은-무엇을-해야-할까lg경영연구원이-말하는-hr-빌더-2722",
+          "title": "ai가 코드를 짜면 인사팀은 무엇을 해야 할까lg경영연구원이 말하는 hr 빌더",
+          "date": "2026-11-13"
+        }
+      ],
+      "date": "2026-11-13",
+      "id": "20261115-07"
+    },
+    {
+      "cat": "trend",
+      "importance": "low",
+      "company": "업계 전반",
+      "title": "승진 제도 트렌드 변화: 탈락자 및 거부자 관리 중요성",
+      "body": "최근 승진을 거부하거나 승진 탈락 후 동기부여가 급격히 저하되는 사례가 늘고 있어요. 승진 제도의 변천에 따라 단순 직급 상승 이상의 보상 체계 설계가 요구돼요.",
+      "insight": "커넥트웨이브의 통합 인사 제도 설계 시, 직급 체계 간소화와 함께 승진 외의 성장 경로(Expert Track 등)를 제시하는 것이 조직 안정화에 도움이 돼요.",
+      "action": "내년도 승진 시즌을 앞두고 승진 탈락자에 대한 피드백 가이드라인을 리더들에게 배포하는 방안을 검토해 보세요.",
+      "teams": [
+        "조직문화·HRD"
+      ],
+      "tags": [
+        "승진제도",
+        "인사평가",
+        "동기부여",
+        "조직문화"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "오프피스트",
+          "url": "https://www.offpiste.ai/articles/승진-탈락자와-승진-거부자에-대한-조치-방안-2729",
+          "title": "승진 탈락자와 승진 거부자에 대한 조치 방안",
+          "date": "2026-11-13"
+        },
+        {
+          "name": "오프피스트",
+          "url": "https://www.offpiste.ai/articles/승진제도의-변천과-최근-트렌드-2728",
+          "title": "승진제도의 변천과 최근 트렌드",
+          "date": "2026-11-13"
+        }
+      ],
+      "date": "2026-11-13",
+      "id": "20261115-05"
+    },
+    {
+      "cat": "trend",
+      "importance": "low",
+      "company": "업계 전반",
+      "title": "연차 당겨쓰기(마이너스 연차) 운영 가이드",
+      "body": "신규 입사자나 연차 소진자가 향후 발생할 연차를 미리 사용하는 '연차 당겨쓰기'에 대한 정산 및 관리 방법이 HR 이슈로 다뤄졌어요. 퇴사 시 정산 문제 등 법적 검토가 필요해요.",
+      "insight": "우리 그룹의 유연한 휴가 문화 조성을 위해 도입을 검토할 수 있으나, 중도 퇴사 시 임금 공제 관련 분쟁 소지를 없애기 위한 명확한 규정이 선행되어야 해요.",
+      "action": "현재 그룹사별 연차 운영 규정을 확인하고, 마이너스 연차 허용 여부와 퇴직 시 정산 프로세스를 점검해 보세요.",
+      "teams": [
+        "보상·복리후생",
+        "노무·ER"
+      ],
+      "tags": [
+        "연차관리",
+        "휴가제도",
+        "근로기준법",
+        "복리후생"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "시프티 블로그",
+          "url": "https://shiftee.io/ko/blog/article/annual-leave-in-advance-deduction-settlement",
+          "title": "연차 당겨쓰기, 며칠까지 가능할까? 마이너스 연차 차감·정산 정리 연차유급휴가를 모두 사용했거나 아직 충분한 연차가 발생하지 않은 직원이 휴가를 신청하는 경우, 기업에서는 향후 발생할 연차를 ... 2026-11-0",
+          "date": "2026-11-15"
+        }
+      ],
+      "date": "2026-11-15",
+      "id": "20261115-09"
+    }
+  ]
+}

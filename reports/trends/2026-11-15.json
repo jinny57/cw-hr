@@ -1,0 +1,398 @@
+{
+  "date": "2026-11-15",
+  "article_count": 104,
+  "engine": "gemini-3-flash-preview",
+  "headline": "AI 인프라 투자 700조 원 시대, 기술 인력 재편 가속화",
+  "summary": [
+    "글로벌 테크 기업들, AI 인프라에 약 700조 원 투자하며 인력 구조조정 병행",
+    "Anthropic 등 AI 선도 기업은 연봉 최대 85만 달러 제시하며 핵심 인재 영입",
+    "보안 및 AI 에이전트 등 특정 기술 직무 수요 급증과 기존 직무 감원 대조"
+  ],
+  "numbers": [
+    {
+      "value": "206,817명",
+      "label": "2026년 글로벌 테크 기업 누적 감원 인원",
+      "dir": "down",
+      "sources": [
+        {
+          "name": "shattered.io",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNEU4WTZmdmx0RVE3YzBOTG5DbGgxcnppSzlpVVhMUks4eXdBUFJsdDJiVFFSRXZScWFNN1dROS1xSWsyRHZHekxuMDJKS1hHc1l0LUhGNHVnQzh5dllxbGxSSm9sUmxNUDZkY1dNUURScGZMVUZDc25uRk5STGNMRjhZN2h5Tk1haTA2RVphaw?oc=5",
+          "title": "Tech Layoffs Hit 206,817 as AI Spend Estimate Nears $700B",
+          "date": "2026-11-15"
+        },
+        {
+          "name": "Latin Times",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9GRUpnNDlFSjVpSXdMaEliWmgxNXBPQUVTS0xnSXBHeS13VGZSM29Nd0ZkOVJHQXpiOXdldVNaQU5VblRURlNDdVpoR1h2UzkwZmtLVVFwdDZhcFpIOFlnX0RTOU5ULUxac2pzTWh3SEo?oc=5",
+          "title": "Tech Companies Cut More Than 206,000 Jobs This Year While Pouring An Estimated $700 Billion Into AI Infrastructure",
+          "date": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "value": "$700,000,000,000",
+      "label": "글로벌 빅테크 AI 인프라 투자 추정액",
+      "dir": "up",
+      "sources": [
+        {
+          "name": "Latin Times",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9GRUpnNDlFSjVpSXdMaEliWmgxNXBPQUVTS0xnSXBHeS13VGZSM29Nd0ZkOVJHQXpiOXdldVNaQU5VblRURlNDdVpoR1h2UzkwZmtLVVFwdDZhcFpIOFlnX0RTOU5ULUxac2pzTWh3SEo?oc=5",
+          "title": "Tech Companies Cut More Than 206,000 Jobs This Year While Pouring An Estimated $700 Billion Into AI Infrastructure",
+          "date": "2026-11-15"
+        },
+        {
+          "name": "ETHRWorld.com",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQOUtOZTU3cDJ2TGdQZ0hLM2p0eS1OU21pdTI5WVZpWVU2aFl5QXRQNHRUcU50aFgySmxNQ0MybzY5WUN6VEE0OThEQ25hZEkzQWdhczVYX0RST1V2N1RrTVpsLVhucFhfbXFZSHlkMlhkdEJpOGFTUTFHdWtVRzZlXzRiMzVnRzRPUnFqemtuSWxqbzEzbS03Mi1hUlpXZ2pRbWFjZjJwdjZsbTNFU3drX2dIVXNyeExYZnN4OFF6emNRSmdONlNUeFR2c9IB0AFBVV95cUxNSk8xcTk5UXNHVkdlbjdKanZZVVZLcEdSamZMYzlMVVFCSXNCazZoUTY2aUlDTXVlQkx5RWFBQjlLZWh5YVhaS2pzQkJKaTJIanptTlFOSHpyemR6eUkxOUd5ckVYUlZsTUhXQURtMERxTG05RXZpcVducDh2QVEzLVV2VGRPZUNRWHcwcDJQdTBQdllVdUR0TmZ4UWNFa0QzbDBqakYxV2pTdEw4cm1pdlppdjNZVkRsQ3RYLVNPallfaUVwaF9HYnRJN3h0M1lH?oc=5",
+          "title": "AI debt hits $687 billion as Big Tech's funding appetite soars",
+          "date": "2026-11-14"
+        }
+      ]
+    },
+    {
+      "value": "$850,000",
+      "label": "Anthropic AI 사이언티스트 최고 연봉",
+      "dir": "up",
+      "sources": [
+        {
+          "name": "FourWeekMBA",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPb0lOX2RUM3JlNjlCbW5EYl9SSG1Zb2liVC1DazRoYWQxLXhYb1MwbkVJTFJlQm04a3ctakJGSVRTVVNxcUo1b0pBNFJtc0kzM2JpMk9CVUJDLTczd3haakVvdlUxSlEwVURWWnZPcTNsQzBBQ1JpVFhTemc2SHBDb2ZlZVBCLThPWkd3?oc=5",
+          "title": "Anthropic’s AI Scientist Push: Researcher Pay Tops $850,000",
+          "date": "2026-11-14"
+        }
+      ]
+    }
+  ],
+  "layoffs": [
+    {
+      "company": "MEGA (MegaETH)",
+      "kind": "조직개편",
+      "size": "20%",
+      "pct": "20%",
+      "note": "AI 사업 추진 및 리브랜딩에 따른 인력 감축",
+      "sources": [
+        {
+          "name": "CryptoRank",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5nVGZhbUdBaE5Uaksxbl9hS3pLc1VIeHBsa3o0XzBrNW5qYVZfQURRZHZIa0lOZUdZcFZFc2o0UGc1elBKZEZHOW9kRzhENld5bUdDSzJJdldOQ2tNMTdXa3RTTmlTdEpMWTdDaEdzbzlWQQ?oc=5",
+          "title": "MEGA cuts 20% of staff after rebrand, $30M AI push",
+          "date": "2026-11-15"
+        },
+        {
+          "name": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdUN3b1dmd2ZwRkVGNmtySXRYa181OEY1U01FSmtxbDZyYjliZnotRDZRNThhQ1dsNUZiYWNRdDFxaGxIOXJvQ0pEQVhHcGFqWE5EZjQ5bmVPc09ZVDI5LW5ubDZfVXZ2bWlGbTJLYU0wMU04ZXFVc3NJU2NIZUJFRFh5VTdZVjg4X0htZzBQVWRmZGstamQ4TXg2dWZTNnU5bjd0RUFvMS1SWG1yVTQ0YUJOblI5T01FXzRma1U2UQ?oc=5",
+          "title": "MegaETH parent cuts 20% of staff amid restructuring, AI push",
+          "date": "2026-11-14"
+        },
+        {
+          "name": "CoinDesk",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNWnlBb0xfbkU5SUhTdjNsREthdmIxeHdJRFpuTTdaNENMdlE2c1QycjNEeVJQZ1BHMjdXMmFERFNZdklyanNLXzlEakRVMEIyUFdaTEJHRlR0ZWhDMldwVVVvenlJYXE0SDMtWFd2MmhXNVZOd2RKMHJoZktzS0tKa0dDSGEzNnBER0ZabWpRNlZlTTExNFZ0QklESl9iU01SRGFpaUZUaURFSk9rSWIwQzJuUlBOUmhISWZ2djI2blZ1QUhr?oc=5",
+          "title": "이더리움 확장 프로젝트 메가ETH, AI 사업 추진에 따라 인력 20% 감축",
+          "date": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "company": "EA (BioWare)",
+      "kind": "감원",
+      "size": "미정",
+      "pct": "미정",
+      "note": "EA의 구조조정 여파로 전설적인 게임 스튜디오 폐쇄",
+      "sources": [
+        {
+          "name": "TechPowerUp",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNY1VuMUFJa1N4RkFaN1pzVGJSTVlUX1JicnBtekFiSFdGc1pxb2lDM3pkank4WkJJdy11Q1VnQU9qRUMtaXota1EwN25OeXJISWgzV3pYUjBDQzN6bHA3V1Z4RFAxVFI1d0cwUDRJc25uXzM2ZXdvOWhJMGFIUE40bXRlR0VLa05FQkh6b3VEaVNBT25kWC13NlNIcE1xdFMtUmRF0gGiAUFVX3lxTE5xUjVCOUNoUmFiRVRmR292UGVMcEVTMEFOdFRjZmN3LVF2VGxPUnlDNk1JWHhtbzBiNUtvajRDR1NuUTdNNzRET1pKNFY2WnozSEZ0WWpORlJLeFR5ZjhHUkFrQ0dPci1KcnJ1c3pyNWNrQ2JWVEdiUjBYdU1mYk5UT2tSUWtFRGhIRGJXX0dkWnVGOVZ2d1FrNDFBWDhvSm9Idw?oc=5",
+          "title": "Legendary Game Studio BioWare Shuts Down Following EA Layoffs",
+          "date": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "company": "Microsoft",
+      "kind": "감원",
+      "size": "미정",
+      "pct": "미정",
+      "note": "AI 중심의 인력 재편 과정에서 지속적인 감원 및 스크루티니 직면",
+      "sources": [
+        {
+          "name": "OpenTools",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1QQzlGeVBzeHNfUWxzSW5TenlrSlRrVmdTX204eWpMUUI5V2M5VzhPM3A0T0l3bGdvVWRlVnhTX3dkcW9UM215LUgtX3Q5eFVtNUFLdDE1RHVXX2FGY3RxbHZ0cnFGYkN5UkRpWndrdTNKNWRH?oc=5",
+          "title": "Microsoft 365 Outage Nears 48 Hours as AI-Driven Layoffs Face New Scrutiny",
+          "date": "2026-11-14"
+        }
+      ]
+    }
+  ],
+  "hiring": [
+    {
+      "company": "Anthropic",
+      "role": "AI Scientist & Applied Scientist",
+      "note": "연봉 32만~85만 달러 제시하며 공격적 채용",
+      "sources": [
+        {
+          "name": "FourWeekMBA",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPb0lOX2RUM3JlNjlCbW5EYl9SSG1Zb2liVC1DazRoYWQxLXhYb1MwbkVJTFJlQm04a3ctakJGSVRTVVNxcUo1b0pBNFJtc0kzM2JpMk9CVUJDLTczd3haakVvdlUxSlEwVURWWnZPcTNsQzBBQ1JpVFhTemc2SHBDb2ZlZVBCLThPWkd3?oc=5",
+          "title": "Anthropic’s AI Scientist Push: Researcher Pay Tops $850,000",
+          "date": "2026-11-14"
+        },
+        {
+          "name": "Global South Opportunities",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE02Z0hOdENDQ2dWc3BNdzkwSHJqMzVqS0hiMG0zYmhVWUoxbE90MWVZS1NTOHpEUE8xTFJZRGJtdGZwRnB2Y2pMbmhOOVdfYjVQaTEzUHBmRVZlSUZXUzhqWGVLYnBRSGxITmxOTWhNNmt1U1k?oc=5",
+          "title": "Anthropic Is Hiring an Applied Scientist, Engineering – Earn $320,000 to $405,000 Annually in the United States",
+          "date": "2026-11-14"
+        }
+      ]
+    },
+    {
+      "company": "ServiceNow",
+      "role": "Acquired Talent",
+      "note": "인재 인수를 위해 2억 1,100만 달러 투자",
+      "sources": [
+        {
+          "name": "CTech",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBWd0hKNDBmeWtnQTVtRXd5YWdCcm5jako5dUxZemdjak44cHZldjVYYjFBaFFSclJwdUlhZ1FKODk3LWlCcWN4eERacHpYU0c1Q2JkSl9SZVFPdlRGbXlCRjhjTGdWaFE?oc=5",
+          "title": "ServiceNow spends $211 million on acquired talent while layoffs continue",
+          "date": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "company": "Deloitte",
+      "role": "IT/Consulting",
+      "note": "대규모 오프캠퍼스 채용 및 직접 테스트 전형 진행",
+      "sources": [
+        {
+          "name": "Unisba Media",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB5cU1taUVNckRma3d6YWxmd3lsOUhFLVBrdjVLQ2VtbmVGVlhIdE4wZDFQdWdPRUNOU2JhRTM3S3YzOFpISEgxZDhLV25rTEcwX3JRTW1zeHhKMy1fMXRabVZQSVl4R0l2RUFZ?oc=5",
+          "title": "🤯Finally Deloitte Mass Hiring Started | HclTech - Direct Test Hiring - 28 Sep | Off Campus Who Is Regina Hall (SN0GzW7Qt1)",
+          "date": "2026-11-14"
+        }
+      ]
+    }
+  ],
+  "roles": {
+    "up": [
+      {
+        "name": "방첩(Counterintelligence) 전문가",
+        "why": "AI 기업들의 기밀 보호를 위한 스파이 출신 수요 증가"
+      },
+      {
+        "name": "AI 에이전트 개발자",
+        "why": "자율형 AI 시스템 구축을 위한 핵심 인력 수요"
+      },
+      {
+        "name": "사이버 보안 전문가",
+        "why": "AI 시대 보안 위협 증가로 인한 필수 역량화"
+      }
+    ],
+    "down": [
+      {
+        "name": "단순 QA 테스터",
+        "why": "Managed QA 및 AI 자동화 도구로의 대체 가속화"
+      },
+      {
+        "name": "전통적 소프트웨어 개발",
+        "why": "AI 기반 코드 생성 도구 확산으로 직무 성격 변화"
+      }
+    ]
+  },
+  "korea": [
+    {
+      "company": "메가ETH (MegaETH)",
+      "note": "국내 관련 프로젝트인 메가ETH, AI 전환 과정에서 인력 20% 감축",
+      "sources": [
+        {
+          "name": "CoinDesk",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNWnlBb0xfbkU5SUhTdjNsREthdmIxeHdJRFpuTTdaNENMdlE2c1QycjNEeVJQZ1BHMjdXMmFERFNZdklyanNLXzlEakRVMEIyUFdaTEJHRlR0ZWhDMldwVVVvenlJYXE0SDMtWFd2MmhXNVZOd2RKMHJoZktzS0tKa0dDSGEzNnBER0ZabWpRNlZlTTExNFZ0QklESl9iU01SRGFpaUZUaURFSk9rSWIwQzJuUlBOUmhISWZ2djI2blZ1QUhr?oc=5",
+          "title": "이더리움 확장 프로젝트 메가ETH, AI 사업 추진에 따라 인력 20% 감축",
+          "date": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "company": "국내 IT 업계 전반",
+      "note": "2027년까지 AI·보안·클라우드 중심으로 채용 시장 재편 전망",
+      "sources": [
+        {
+          "name": "AI넷",
+          "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE1yNHBfZFRkSWtCR29xdWdFNVhFMVdZNVJtSWRXLTAza21qQXhfeGF2bWxtOERLd3JPQUlhRG5qUlk?oc=5",
+          "title": "[2027년 취업 시장 흔들 10대 신기술…\"AI·보안·클라우드가 채용 재편\"] 세계경제포럼(WEF)은 2030년까지 근로자 핵심 역량의 39%가 변화할 것으로 추정하며, AI와 빅데이터, 네트워크·사이버보안, 기술 문해력을",
+          "date": "2026-11-15"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "t20261115-00",
+      "region": "global",
+      "importance": "high",
+      "company": "Anthropic",
+      "title": "AI 인재 확보를 위한 파격적 처우와 'No Jerks' 문화",
+      "body": "Anthropic은 AI 사이언티스트에게 최대 85만 달러의 연봉을 제시하는 동시에, 기술력이 뛰어나도 협업 능력이 부족한 'Jerks'는 배제하는 채용 원칙을 고수하고 있습니다.",
+      "insight": "커넥트웨이브도 핵심 AI 인력 영입 시 경쟁력 있는 처우 설계와 더불어, 조직 문화 적합성(Culture Fit)을 검증하는 정교한 인터뷰 프로세스가 필요해요.",
+      "tags": [
+        "AI인재",
+        "고액연봉",
+        "조직문화"
+      ],
+      "sources": [
+        {
+          "name": "FourWeekMBA",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPb0lOX2RUM3JlNjlCbW5EYl9SSG1Zb2liVC1DazRoYWQxLXhYb1MwbkVJTFJlQm04a3ctakJGSVRTVVNxcUo1b0pBNFJtc0kzM2JpMk9CVUJDLTczd3haakVvdlUxSlEwVURWWnZPcTNsQzBBQ1JpVFhTemc2SHBDb2ZlZVBCLThPWkd3?oc=5",
+          "title": "Anthropic’s AI Scientist Push: Researcher Pay Tops $850,000",
+          "date": "2026-11-14"
+        },
+        {
+          "name": "Storyboard18",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNSXZFRlMzS2JpMXZtM2JhVzBlS0xaTXZ4RXQyRlNkcFhzYW9GV2x1M01aQm9tWjlVWnNtM0tCZnU3bGRXRkRUbzE2OEtyNDlZQ1EtNzdibTcySUN3SjlsbjB4WFdtU0s2VHBzaG9ZXzAtbDY5NU1OX0dTYUxaUkNMNzBLX1ZTNEt5YmMtZ1k0d0NzYllqZnlSblZ3QTFVbnRfNXhOTWJ6LW0ySDJrbHR5VUQ4VE1WVHFRb0J6cWhFaDdhMUtWdnBYOFZxMGt6bWp2dFJHcTJuaXBiNHBFUmtsTmlR0gHnAUFVX3lxTE1aMVVLWUd5dEo5VU5SaEJYR3VFV2h4alkzWHRKbEVJeTI0aWUwM1RKTmhRR1l4dXVuX1Jxbk55NTM4eUtYMkdONjlRZGJZN25TSXpGeXVJU0FJWUFTdUMtVU1RTWVIUDJLdGgtSnZzU21PWlRjQ0pGZWNTXzZwM2RncVh4XzdGcjgyY0QxdThYeTdGcWJLWE5vZjlGem00YWFDdnBzNWxLa3FuVzB0TlhiV1FnZE4zWENZQ1BONjZSanlPTEppVkJXN2lPQm4xdk1uMWJKSnFnTV9OM19kdm5Ra2VTalF2TQ?oc=5",
+          "title": "The four types of candidates Anthropic CEO Anthropic rejects, even if they are technically brilliant",
+          "date": "2026-11-14"
+        },
+        {
+          "name": "ET BrandEquity",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOa05Ud3NBbURUdFllSEZqTFNIcW5Ka2xCOXVfOWwzNkVyclBYc1FpMG5ETGJ5Qi1OdFUxWEpNVVlWb0p1LTIyVjRfa1RCUHZmMHdjS1BVQzFxaHdNcGU0eXZiS2tEdE5SNjEyTzVoWHBoZmhmVlAta0NMeXQ3dDVoWWx0SWRGbExjU25XOTFZWU1CSFVxRS1ycEpJaElsNjdZc013bTNIUXpPOEVrSE9MS2NPX3owRlhiTl8tQmp0NDJzOG10Q2dORU5mZkE?oc=5",
+          "title": "Anthropic CEO sells investors on safety, 'no jerks' culture",
+          "date": "2026-11-14"
+        }
+      ],
+      "date": "2026-11-14"
+    },
+    {
+      "id": "t20261115-02",
+      "region": "global",
+      "importance": "high",
+      "company": "Intel, Nvidia 등",
+      "title": "기술 유출 방지를 위한 '방첩 전문가' 채용 붐",
+      "body": "실리콘밸리 기업들이 AI 기밀 보호를 위해 전직 정보기관 요원 등 방첩 전문가를 고용하고 있습니다. AI 모델과 데이터가 핵심 자산이 되면서 보안의 개념이 확장되고 있습니다.",
+      "insight": "커넥트웨이브의 가격 비교 데이터 및 셀러 솔루션 노하우 보호를 위해 보안 인력 채용 시 사이버 보안 외에 자산 보호 역량을 검토해야 해요.",
+      "tags": [
+        "보안",
+        "방첩",
+        "핵심기술보호"
+      ],
+      "sources": [
+        {
+          "name": "Fortune",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZHlXWmNFVXRTcnRvT3hkTkdxdTBKWF9FVGZQaWVxdjNPT1hpa1BvaUVEckRfMEUwY0NZa3JSWlUtelBoWTFidk5hN1RSLWFHdmNQQlBBbjR3ODVFRnZmcFlaMEkxb1ljbHhzaUpVV3lpeW1KR0VTRHlBa1poU2diRTNpTElQdHhpSFlTUFpQeEZWSDJzRzVlRXVBdkwxV1VGODlrX3BxcHZtTjhSWGJOZDlmYjRoSE5BUUMtQWZxR0xvUXJmTXgxeFk1cWE3YnBiOVRCcjdR?oc=5",
+          "title": "The hottest job in AI right now may be counterintelligence as companies hire to protect secrets",
+          "date": "2026-11-15"
+        },
+        {
+          "name": "The Federal",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcDBEamhaVW4telBza0NqMkw0TTNNcThlam1zbEhlMTFUZ0stM0lrMmszU09JZG9wbTFyUWk1OHZ4LXlRWkllbWFTQWZmR3NjNTV4Vy14OThoaTNxNlN6a044ZEQ1WlZDSExoRE5ZdU1ZVjRtcldITjFJcWhGU2FzLVY2MFFlSXp1N08wQXF1Z2lpc3lvWktUSnAxbDFab0ZEdVhIQjJ6cXFGRnM0dU1wYnAxdw?oc=5",
+          "title": "Intel inside: Why Silicon Valley firms are hiring ex-spies to protect their secrets",
+          "date": "2026-11-15"
+        }
+      ],
+      "date": "2026-11-15"
+    },
+    {
+      "id": "t20261115-01",
+      "region": "global",
+      "importance": "mid",
+      "company": "Big Tech 전반",
+      "title": "AI 인프라 투자 확대 속 지속되는 기술직 감원",
+      "body": "올해 테크 기업 감원 인원이 20만 명을 넘어섰습니다. 기업들은 AI 인프라에 700조 원을 쏟아붓기 위해 기존 인력을 줄이는 '선택과 집중' 전략을 취하고 있습니다.",
+      "insight": "이커머스 솔루션 고도화를 위한 AI 인력 확보 시, 글로벌 감원 인력 중 우수 인재를 타겟팅하는 소싱 전략이 유효할 수 있어요.",
+      "tags": [
+        "구조조정",
+        "AI투자",
+        "인재재배치"
+      ],
+      "sources": [
+        {
+          "name": "shattered.io",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNEU4WTZmdmx0RVE3YzBOTG5DbGgxcnppSzlpVVhMUks4eXdBUFJsdDJiVFFSRXZScWFNN1dROS1xSWsyRHZHekxuMDJKS1hHc1l0LUhGNHVnQzh5dllxbGxSSm9sUmxNUDZkY1dNUURScGZMVUZDc25uRk5STGNMRjhZN2h5Tk1haTA2RVphaw?oc=5",
+          "title": "Tech Layoffs Hit 206,817 as AI Spend Estimate Nears $700B",
+          "date": "2026-11-15"
+        },
+        {
+          "name": "Latin Times",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9GRUpnNDlFSjVpSXdMaEliWmgxNXBPQUVTS0xnSXBHeS13VGZSM29Nd0ZkOVJHQXpiOXdldVNaQU5VblRURlNDdVpoR1h2UzkwZmtLVVFwdDZhcFpIOFlnX0RTOU5ULUxac2pzTWh3SEo?oc=5",
+          "title": "Tech Companies Cut More Than 206,000 Jobs This Year While Pouring An Estimated $700 Billion Into AI Infrastructure",
+          "date": "2026-11-15"
+        },
+        {
+          "name": "ETHRWorld.com",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQOUtOZTU3cDJ2TGdQZ0hLM2p0eS1OU21pdTI5WVZpWVU2aFl5QXRQNHRUcU50aFgySmxNQ0MybzY5WUN6VEE0OThEQ25hZEkzQWdhczVYX0RST1V2N1RrTVpsLVhucFhfbXFZSHlkMlhkdEJpOGFTUTFHdWtVRzZlXzRiMzVnRzRPUnFqemtuSWxqbzEzbS03Mi1hUlpXZ2pRbWFjZjJwdjZsbTNFU3drX2dIVXNyeExYZnN4OFF6emNRSmdONlNUeFR2c9IB0AFBVV95cUxNSk8xcTk5UXNHVkdlbjdKanZZVVZLcEdSamZMYzlMVVFCSXNCazZoUTY2aUlDTXVlQkx5RWFBQjlLZWh5YVhaS2pzQkJKaTJIanptTlFOSHpyemR6eUkxOUd5ckVYUlZsTUhXQURtMERxTG05RXZpcVducDh2QVEzLVV2VGRPZUNRWHcwcDJQdTBQdllVdUR0TmZ4UWNFa0QzbDBqakYxV2pTdEw4cm1pdlppdjNZVkRsQ3RYLVNPallfaUVwaF9HYnRJN3h0M1lH?oc=5",
+          "title": "AI debt hits $687 billion as Big Tech's funding appetite soars",
+          "date": "2026-11-14"
+        }
+      ],
+      "date": "2026-11-15"
+    },
+    {
+      "id": "t20261115-05",
+      "region": "global",
+      "importance": "mid",
+      "company": "업계 전반",
+      "title": "AI 시대, 학위보다 실질적 기술 역량 중시",
+      "body": "AI 발전으로 대학 학위의 가치에 대한 의구심이 커지는 가운데, 세계경제포럼은 2030년까지 근로자 핵심 역량의 39%가 변화할 것으로 예측했습니다.",
+      "insight": "JD 작성 시 학위 요건보다는 AI 도구 활용 능력이나 기술 문해력(Tech Literacy) 등 실질적 변화 대응 역량을 강조해야 해요.",
+      "tags": [
+        "역량변화",
+        "기술문해력",
+        "미래직무"
+      ],
+      "sources": [
+        {
+          "name": "Business Insider",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWFZVVjEzZWptZ3k5V0NtUFJBUTFpV05CanBMcDd4cmtXTFhsSS1hNVczRnZrallmenkxY1YxQVpsNXk5cXVrMTV4T3hDb1ZfdU9KMkhBUGdQa1poRUFsa1ZHczJfZl9Ieml5bUNDdFN5SE55Yjd5WjEyQzRCSzdDaQ?oc=5",
+          "title": "The AI boom has some parents rethinking how to save for college, or if degrees will even be worth it",
+          "date": "2026-11-14"
+        },
+        {
+          "name": "AI넷",
+          "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE1yNHBfZFRkSWtCR29xdWdFNVhFMVdZNVJtSWRXLTAza21qQXhfeGF2bWxtOERLd3JPQUlhRG5qUlk?oc=5",
+          "title": "[2027년 취업 시장 흔들 10대 신기술…\"AI·보안·클라우드가 채용 재편\"] 세계경제포럼(WEF)은 2030년까지 근로자 핵심 역량의 39%가 변화할 것으로 추정하며, AI와 빅데이터, 네트워크·사이버보안, 기술 문해력을",
+          "date": "2026-11-15"
+        }
+      ],
+      "date": "2026-11-15"
+    },
+    {
+      "id": "t20261115-03",
+      "region": "korea",
+      "importance": "mid",
+      "company": "LinkedIn, Monster",
+      "title": "가짜 채용 공고(Ghost Jobs) 대량 삭제 주의보",
+      "body": "링크드인 등 주요 구인 플랫폼에서 1,000건 이상의 가짜 채용 공고가 삭제되었습니다. 이는 구직자들의 플랫폼 신뢰도를 떨어뜨리고 채용 시장의 혼란을 야기하고 있습니다.",
+      "insight": "채용 브랜드 신뢰도를 위해 커넥트웨이브의 채용 공고를 주기적으로 관리하고, 실제 채용 진행 여부를 투명하게 공개하는 것이 중요해요.",
+      "tags": [
+        "채용브랜딩",
+        "가짜공고",
+        "플랫폼신뢰"
+      ],
+      "sources": [
+        {
+          "name": "GeekNews",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbmNFYXlaZ08xX3NUb3VOR3p1dnpTclExRHJRMlhCUS1FWFBCNzUza2Q0UDdVcnloNDBST0JaOGhTUDJiU0hoMFhIMGRkaDdiLVpoNjFlQXVkRnRlclRIb0I2SFFSREFjd0FJcUVxN3FwTl9BOHBYWkNZaTNmcGoyeTVFdFlLMXQzNm01TTg5bHJwQQ?oc=5",
+          "title": "LinkedIn과 Monster, CBC 조사 후 가짜 채용 공고 1,000건 이상 삭제",
+          "date": "2026-11-15"
+        }
+      ],
+      "date": "2026-11-15"
+    },
+    {
+      "id": "t20261115-04",
+      "region": "global",
+      "importance": "low",
+      "company": "ServiceNow",
+      "title": "인재 인수를 통한 기술 역량 확보(Acquihire)",
+      "body": "ServiceNow는 감원 중에도 특정 기술 역량을 가진 인재들을 확보하기 위해 2억 1,100만 달러를 투자하여 인재 인수를 진행했습니다.",
+      "insight": "신규 서비스 개발 시 개별 채용 외에도 특정 기술 스택을 보유한 소규모 팀 단위 영입(Acquihire)을 전략적 옵션으로 고려해볼 만해요.",
+      "tags": [
+        "인재인수",
+        "기술확보",
+        "전략채용"
+      ],
+      "sources": [
+        {
+          "name": "CTech",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBWd0hKNDBmeWtnQTVtRXd5YWdCcm5jako5dUxZemdjak44cHZldjVYYjFBaFFSclJwdUlhZ1FKODk3LWlCcWN4eERacHpYU0c1Q2JkSl9SZVFPdlRGbXlCRjhjTGdWaFE?oc=5",
+          "title": "ServiceNow spends $211 million on acquired talent while layoffs continue",
+          "date": "2026-11-15"
+        }
+      ],
+      "date": "2026-11-15"
+    }
+  ]
+}
