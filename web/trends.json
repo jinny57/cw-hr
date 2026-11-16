@@ -1,8 +1,428 @@
 {
  "meta": {
-  "updated": "2026-11-16T11:12+09:00"
+  "updated": "2026-11-17T01:18+09:00"
  },
  "reports": [
+  {
+   "date": "2026-11-17",
+   "article_count": 149,
+   "engine": "gemini-3-flash-preview",
+   "headline": "글로벌 테크 감원 속 AI 인재 확보 전쟁 가속화",
+   "summary": [
+    "미국 빅테크 중심으로 13만 명 이상 감원되었으나 AI 인재는 파격 처우로 영입 중",
+    "국내 게임 및 금융 AI 업계는 채용연계형 인턴과 대규모 채용으로 인재 선점 노력",
+    "AI가 단순 업무를 대체함에 따라 소프트웨어 엔지니어의 역할이 고객 관리로 확장"
+   ],
+   "numbers": [
+    {
+     "value": "135,000명",
+     "label": "2026년 글로벌 테크 업계 누적 감원 수",
+     "dir": "down",
+     "sources": [
+      {
+       "name": "Techloy",
+       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBmVnEzXzJYWUxzZFpiR2NmUnZNMTVnZlhEN2lxb1NUeXhjWHFoa1UyMVA1WUFTa1ZkeE1qZFhubEZXYV9Vd05KVDFRUmFyNFBKYng5MWppcHpicnI2T0ppbmZHNGt3U1pCcVJUb1d0cEhJbkRY?oc=5",
+       "title": "Tech Layoffs 2026: What the 135,000 Tracker Total Counts",
+       "date": "2026-11-17"
+      }
+     ]
+    },
+    {
+     "value": "40,000달러",
+     "label": "미국 AI 인재 대상 입사 보너스 상한",
+     "dir": "up",
+     "sources": [
+      {
+       "name": "시사프리즘",
+       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5WbFNFTzkwaU15a1hEekJRekNDcjNHTXJOUGpkNjYxYzBCbU1obVJIdDA3cW1rNko1WV8wdURnVGl6Um9HRFVqUkRSekZjZTNDa1FVZTg1MDZZY0hoekRYZUR6eXdlY09i?oc=5",
+       "title": "17만 명 감원 발표한 미국 기술업계, AI 인재엔 최대 4만 달러 혜택…고용 양극화의 역설",
+       "date": "2026-11-16"
+      },
+      {
+       "name": "뉴시스",
+       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBXX01GSUJRNmhXLTdqcXJUN0ZGNldvQWlielY1aGsxQUdidjFiZXJzcnBSUHRzNTVyWTdkTS1vbkJRdEdna3pMM3FEcG5BWGdWeHR0elFOYzlvS1pRSVdOR29OVVd2a3VkdmtzM0w2cF9pdzhiZXdLTtIBeEFVX3lxTFBXX01GSUJRNmhXLTdqcXJUN0ZGNldvQWlielY1aGsxQUdidjFiZXJzcnBSUHRzNTVyWTdkTS1vbkJRdEdna3pMM3FEcG5BWGdWeHR0elFOYzlvS1pRSVdOR29OVVd2a3VkdmtzM0w2cF9pdzhiZXdLTg?oc=5",
+       "title": "\"첫 출근 전 4000만원 보너스\"…AI 인재 잡기에 돈 쏟는 美 기업들",
+       "date": "2026-11-16"
+      },
+      {
+       "name": "부산파이낸셜뉴스",
+       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5na1ZMQmk2NlRueDJQcFQ2MkxUYWlOSDRLb0tKLTNuc09KcWZ5cnVwSmx3cG05bURlaU9UZUVDZGM0bktkQWVuVHdMWmJYN1JKYTlfMzBzSnJ3OC0x?oc=5",
+       "title": "\"입사만 해도 4000만원 지급\"…美 AI 기업이 내건 파격 채용 조건",
+       "date": "2026-11-16"
+      }
+     ]
+    },
+    {
+     "value": "232%",
+     "label": "UAE 지역 AI 엔지니어 수요 증가율",
+     "dir": "up",
+     "sources": [
+      {
+       "name": "Khaleej Times",
+       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSmFQTmRPdXZVNFFIZk52bmN4OEp4ZzF0RHV3OU1JMmc0emNzeVA3a3lUUnJzWXVCR2Y3OTdXM0M2QWhJcEdBT0k3alZROGJHQ0dnWUpXSnk0VU1NRlBtRU9OX2ZMNG9ZaFotVmstNVZnN0t6TDhsNVJzb20xZ0dDQ3lValVJZTdDNkhPbXNoWFlPUmpjdTJQWjFDaXlSTVk2eDVDZlZmXzFQeXB5TkHSAbYBQVVfeXFMTzFoS0R0RGxzU0pkNGNYdG13QXFjWTdsWkJnMmw0NHM3RkMyc1BKaGxhUFVidl9NOGpvb00zaXlaelo3SU9telBkVUxIbkhIM0FnYmNQNE80Yjl0THpXU25pM1dET290bm9najFPV3lLZzBYc0QxQmxialJhTXFMaDZLdS1PYnR1S0NuSVBjWWNxNFVabzhta2U4ZVJFQU9ObDdiVmtIRzdyY2JYR0pZY3dQaGJrTlE?oc=5",
+       "title": "UAE jobs: Hiring recovers from 40% slump as demand for AI engineers surges 232%",
+       "date": "2026-11-16"
+      }
+     ]
+    }
+   ],
+   "layoffs": [
+    {
+     "company": "Volkswagen",
+     "kind": "감원",
+     "size": "100,000명",
+     "pct": "N/A",
+     "note": "2030년까지 대규모 인력 감축 계획 발표",
+     "sources": [
+      {
+       "name": "DW.com",
+       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMFhfNlpDanlJVVFiX2FlOWotdUFRNUdVQmk3eWlGbWRzeDNLNlBKSUdtNkphMHEtUk1nTkN2RWxRbVVtWjJaMWJfV0ZFS2dNVVRCVjlTUGkycUNvdWtTUTlYS3BqV3JtQk5DYTE2TU1sdF95WEEzd0FmUVNvT2ZDeFpfcC1Ld9IBhgFBVV95cUxNdjRJZjg0RkpZbzlGTHdPWEF6WHFVOU1pRUk4dE1rcXdIWHlGcGlacnRyWEctc2U4UTNqMUdUQ3ZIbldrYmdyeHFHQzFTMmFsWHluNUFVV1FJRUlsZTBIaU5qTDVoMUFUcEQ0TFppZE5lM25DTzMwc05YU0s0LVh6cmVLYm1GUQ?oc=5",
+       "title": "Volkswagen to cut 100,000 jobs by end of decade",
+       "date": "2026-11-16"
+      }
+     ]
+    },
+    {
+     "company": "Athenahealth",
+     "kind": "감원",
+     "size": "N/A",
+     "pct": "4%",
+     "note": "전체 인력의 4% 규모 감원 단행",
+     "sources": [
+      {
+       "name": "The Boston Globe",
+       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYkZRZ3hSNmVPdzZpOF9GMnJpNzJLT1VRcG56bTFmclhGTUY2SFRKYTFHaHRxeDc2ZHMwSUJlVlR2ZjEtU3dROTF1dnVBbUlMVGVTbVFCLUljNGhaWlVYSjJjTWdEWGtBcy1DQzgxLVljblZFTEo5VldYSHNoQVdPbmVSN0lncUJ5Q0dzSjZtS1JrdmJYWUE?oc=5",
+       "title": "Athenahealth to lay off 4 percent of workers",
+       "date": "2026-11-17"
+      }
+     ]
+    },
+    {
+     "company": "EY Australia",
+     "kind": "감원",
+     "size": "N/A",
+     "pct": "5%",
+     "note": "채용 동결 후 테크 컨설팅 인력 5% 감원",
+     "sources": [
+      {
+       "name": "The Aussie Corporate",
+       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5oLTFTMXU1ck9RRVAwM3FCUTFnd0w4NGoyYkQtM0p3Q1pFcDJnckQ3VnBuQzY0VmhJMVgzV0VBNkFTR0gwUmxXVkFkeUFBN01rYVdhNmhuUWcweV9OcWwta2tZbkVFdmJaUGJOS0V3?oc=5",
+       "title": "EY Australia lets go of 5% of its tech consulting workforce after a hiring freeze",
+       "date": "2026-11-16"
+      }
+     ]
+    },
+    {
+     "company": "Cellebrite",
+     "kind": "감원",
+     "size": "수십 명",
+     "pct": "N/A",
+     "note": "경영진 개편과 함께 인력 감축 진행",
+     "sources": [
+      {
+       "name": "CTech",
+       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5iOWFqQ2p3a3VXY2R5QklTenE1V2FRYW44WmVxRGw0MGFQejZhNTB6TlZnTDR6Z0ZPME80eGlUWlpSYjI4S215Tk1qb2MxMWZ2MFUyODFpdkoxWHhjZDE5YWh2Ym5yWU0?oc=5",
+       "title": "Cellebrite to lay off dozens of employees amid management shake-up",
+       "date": "2026-11-16"
+      }
+     ]
+    }
+   ],
+   "hiring": [
+    {
+     "company": "어니스트AI",
+     "role": "금융·AI·보안",
+     "note": "금융권 AX 수요 대응을 위한 전 분야 대규모 채용",
+     "sources": [
+      {
+       "name": "데일리시큐",
+       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5VMzkwdURWVXZyRWt0anVybExVZllQOENiS1A3TUg5LU05TVBGVk1abXVhVDdsQWFwUTZKaDh5MkRjQjlOeW1CUFMzMVZfVnVYUDJyeGRSWFk3SU55NnVkblBTeHR5bldSUXdnbQ?oc=5",
+       "title": "어니스트AI, 금융 AI 전환 수요 맞춰 전 분야 인재 채용",
+       "date": "2026-11-16"
+      },
+      {
+       "name": "퍼블릭타임스",
+       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1QZjV0OHhGRDdJRHdRUHVkaENJTlZmOE9pcndEaWZGOFpxMGdqdTdBNEY0VVJ2bjlINXRSQUtzbDlRUVZfaFJqRUFnaXNkZjFhR0dIX1J6VkM0Q0Z0SVVRYzJnZE9GdnduTEHSAW5BVV95cUxPeVBzTUpZWmdYVmlmNHBabWVCQjVoZzlKQzNxSVFlZmoxUDdmRGgxWHZHS3ZmY1FiYk0yVEluLU9ocW90OGJ2VTBhZkFLNWhMWkxhUUVxWGJmN2oxU2J0WGMzRWloVGotRVNCd3gxQQ?oc=5",
+       "title": "어니스트AI, 금융권 AX 수요 확대에 대규모 채용…금융·AI·보안 인재 확보 나서",
+       "date": "2026-11-16"
+      },
+      {
+       "name": "머니투데이",
+       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1falQzUEI2cDV4WldZa1FTelNFcHV0a1JCQkF0N2lWSXdDX1p6UG1XT1dMbS0tVXhOUHJtZVA1MGd3V0xGMEZzeWt2UXhjN1V6dGhmOUFuV2xjT1M4a2tGR1l1V2J2WHB2eDA3ZDVVd9IBb0FVX3lxTE1falQzUEI2cDV4WldZa1FTelNFcHV0a1JCQkF0N2lWSXdDX1p6UG1XT1dMbS0tVXhOUHJtZVA1MGd3V0xGMEZzeWt2UXhjN1V6dGhmOUFuV2xjT1M4a2tGR1l1V2J2WHB2eDA3ZDVVdw?oc=5",
+       "title": "\"금융기관 AX 이끌 인재 찾는다\"…어니스트AI, 대규모 채용 진행 - 머니투데이",
+       "date": "2026-11-16"
+      }
+     ]
+    },
+    {
+     "company": "네오플",
+     "role": "게임기획",
+     "note": "2027년 채용연계형 인턴십 두 자릿수 선발",
+     "sources": [
+      {
+       "name": "www.ebn.co.kr",
+       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE01SjRXQ3hKelBwZXR5MUFuS1pBbmw4czFIS2JSZE54UDlUYUhBUDBSVHkxWmhDZ25zcVo4c3dIMFFhQkRwTFVnWDlBZElEaS1wYnMxWDNBMzVvWklkQjM0LVU4ZmV4RHNh?oc=5",
+       "title": "네오플, 2027년 채용연계형 인턴십 모집…게임기획 인재 두 자릿수 선발",
+       "date": "2026-11-16"
+      },
+      {
+       "name": "청년일보",
+       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA0eFpRVlRIdG9WRS1tTF9sMDA0d29ubE9hQjRfRU1CUTltQXNSMU9sMkhPUEdtOWdmNkJaTzF6dE0wUjBDd2JCdVQwYXhHVFNGNkZDVmg4QzU5WHItV2dNTEZZOFI2ZmM?oc=5",
+       "title": "네오플, 게임기획 신입 두 자릿수 채용…2027년 인턴십 모집",
+       "date": "2026-11-16"
+      },
+      {
+       "name": "디지털투데이",
+       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9NVzhhVk5FcTdfY2VoMnRJNUJHU3cyTTlubzNJeG50MlJlYlNQam1CRE1RQ1pUTG8ta2NacF9rTUdlLTJ1amU2S1ViT01QZVZ0b2tCdWtUQXVPaUhWSzRjT2tRMnl2U0Z4UVd0TnpEUmx1dkk?oc=5",
+       "title": "네오플, 2027년 채용연계형 인턴 모집…게임기획 두 자릿수 선발",
+       "date": "2026-11-16"
+      }
+     ]
+    },
+    {
+     "company": "Amazon",
+     "role": "물류·배송",
+     "note": "푸에르토리코 및 플로리다 신규 물류 시설 가동으로 일자리 창출",
+     "sources": [
+      {
+       "name": "About Amazon",
+       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcGRMZUJkNlFKTm9pUzJ3S0FRaFVuS3lnajZoUjV4bWVncmhYTFVJbXZfTGxsdTRIMzRsMUt1d0NsYklYMDVHYnRzeDQ4T3NjbERnVXZTOUJnWlF1d21WS2NyLTg2LW1xWmVKX05oMXhURVNEVTYzamJtS21NVDZ3VTkxU1FCVC1EeG5xcThvdTl5QQ?oc=5",
+       "title": "Amazon opens its first delivery station in Puerto Rico, bringing faster shipping and new jobs",
+       "date": "2026-11-16"
+      },
+      {
+       "name": "Daytona Beach News-Journal",
+       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONWhWaXZ1a2ZUNVZnOTB4cUJnRmMwS2hUelZwWS1YQnBpQXNKQTU0dWFJX3pxQjE3R0xiaTZmRUowMUdCUkxONUFqLVFYRlJRb0tqbVF3WEhZakMzSUlYNGMzZmFzTkVDTmxoZHRIZGw1OGVmZW1SdnhyMlp1UTRZREk2cENWQWdCOGc3dVZBaFk1eWFxV2tSNVp5c3dTaUpiYVdmUmJIcW5SUU42ZXVqa0N6ZFBQVWlqVUNFMzl3?oc=5",
+       "title": "Amazon opens fifth Volusia County facility in Daytona Beach",
+       "date": "2026-11-16"
+      },
+      {
+       "name": "Moomoo",
+       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZmFhYVpWaldNQXRaTWxQdmZSUW5ITXBVSlBWamV0TmVmNjM1MmNKZzJuVk41a1NtS2tLWnIyQkJwN0g1eUNDRldHcTVFSDJIR2ZKRFZXMWNtek5tMWN4WFYySTVqN2pfUk1xZG9GbjFaaDRDcjIxNDR6UEY1RXgzN2tJMFNHa2VWcmN5SFYxaWN4MmdrMjB5cVplMno5VVREOUFFSElQazRQdms?oc=5",
+       "title": "Amazon: Dorado Station Creates Over 100 Jobs",
+       "date": "2026-11-16"
+      }
+     ]
+    }
+   ],
+   "roles": {
+    "up": [
+     {
+      "name": "AI 엔지니어",
+      "why": "글로벌 전역에서 수요가 폭발적으로 증가 중"
+     },
+     {
+      "name": "영업 리더",
+      "why": "B2B 테크 기업들의 수익화 및 고객 확보 중요성 증대"
+     },
+     {
+      "name": "외국변호사",
+      "why": "글로벌 자율주행 등 신산업 규제 대응 필요성"
+     }
+    ],
+    "down": [
+     {
+      "name": "일반 사무직",
+      "why": "AI 에이전트 도입으로 인한 단순 행정 업무 대체"
+     },
+     {
+      "name": "주니어 개발자",
+      "why": "AI가 코드의 90%를 작성하며 신입 채용 문턱 상승"
+     }
+    ]
+   },
+   "korea": [
+    {
+     "company": "삼성·SK",
+     "note": "채용 시험 내 AI 안경 등 부정행위 방지를 위한 검사 강화",
+     "sources": [
+      {
+       "name": "인사이트코리아",
+       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5Mdk03NldrU1U5OE5ycElGa183UDFZLXlSU19YMTVLU01KdGc3QVJmX09LYm5wLUtBcTFnRDNTYWhZM2RzTU9jdFlGeGwwMXZIcTg1QXd2X2ZEZ0h1R2tDOHlDcUZ1UF9ENmdndGdnYkhyOVlaOTNj0gF3QVVfeXFMTkx2TTc2V2tTVTk4TnJwSUZrXzdQMVkteVJTX1gxNUtTTUp0ZzdBUmZfT0tibnAtS0FxMWdEM1NhaFkzZHNNT2N0WUZ4bDAxdkhxODVBd3ZfZkRnSHVHa0M4eUNxRnVQX0Q2Z2d0Z2diSHI5WVo5M2M?oc=5",
+       "title": "'세무사 커닝' 후폭풍… 삼성·SK, 공채 때 '스마트 안경' 검사 강화",
+       "date": "2026-11-16"
+      }
+     ]
+    },
+    {
+     "company": "포티투닷",
+     "note": "글로벌 자율주행 규제 대응을 위한 외국변호사 채용 진행",
+     "sources": [
+      {
+       "name": "뉴시스",
+       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1oMXFSZmdGcnVDR1Z5b3VoTWlQd002dklVcklhVEJ6QktxUTlUNWk2bGtXSXVGcUtMNmM4R1RsRXFENFUzNk1EUUZjYm53TERORHMzb0NyNTN0N1RkSXhDTNIBeEFVX3lxTE52MncxdGpuckROQnFVZ09mLWpLQVowWjFyWnVsdTdESURsYUcxRmZxMExRT2plOHk0d204N1k1OFhMTFQtN2xOXzV2clhxbi1Hbm53VDlsd2NMYm5QbXQxYm1zazZqbnE5bXNGMl9iOTI5NGhUaGNfRg?oc=5",
+       "title": "현대차그룹 포티투닷, 외국변호사 채용 나서…\"글로벌 자율주행 규제 선제 대응\"",
+       "date": "2026-11-16"
+      }
+     ]
+    },
+    {
+     "company": "잡코리아",
+     "note": "경력 15년 이상 채용 공고가 30% 증가하며 시니어 선호 뚜렷",
+     "sources": [
+      {
+       "name": "한국면세뉴스",
+       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAycjN4blNQTnRYT0pJV1lYU1V5d2VNcG8wOVR6UF8zek9zcEJ6VW1SWFdRN2tmQkFGWmtlZGJyMEhEWTJDQXRVdS1JSFlrcDF2MTBZc1Y2eE9MUjFVSVdaYTdWSjE1aEJnZ0E?oc=5",
+       "title": "잡코리아 \"경력 15년 이상 채용공고 30% 증가…AI 역량도 주목\"",
+       "date": "2026-11-16"
+      }
+     ]
+    },
+    {
+     "company": "펄어비스",
+     "note": "붉은사막 개발 및 콘텐츠 확장을 위한 겨울 인턴 채용",
+     "sources": [
+      {
+       "name": "www.ebn.co.kr",
+       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBFN2lzY09fUEFHR2FoQmNBQkotVFhXZEg5aU1aWXNTUnhTS2VUMmtUUUstMEpHTXBuUG5Sai1GLXdkR2pmVjUyQTFSU0NuZk92WEZRc0pNb0FpWGd6bGRJVlhCZG5uaWJM?oc=5",
+       "title": "[Game & Now] 펄어비스, ‘붉은사막’ OST 42곡 공개…겨울 인턴 채용 나서",
+       "date": "2026-11-16"
+      }
+     ]
+    }
+   ],
+   "items": [
+    {
+     "id": "t20261117-00",
+     "region": "global",
+     "importance": "high",
+     "company": "빅테크 전반",
+     "title": "AI 인재 확보를 위한 파격적 사이닝 보너스 경쟁",
+     "body": "미국 기술 업계가 대규모 감원 중임에도 불구하고, AI 인재에게는 입사 전 최대 4만 달러(약 5,500만 원)의 보너스를 지급하는 등 고용 양극화가 심화되고 있습니다.",
+     "insight": "커넥트웨이브의 AI 솔루션 고도화를 위해 핵심 인재 영입 시 경쟁력 있는 처우 패키지 재점검이 필요합니다.",
+     "tags": [
+      "AI채용",
+      "처우경쟁",
+      "고용양극화"
+     ],
+     "sources": [
+      {
+       "name": "시사프리즘",
+       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5WbFNFTzkwaU15a1hEekJRekNDcjNHTXJOUGpkNjYxYzBCbU1obVJIdDA3cW1rNko1WV8wdURnVGl6Um9HRFVqUkRSekZjZTNDa1FVZTg1MDZZY0hoekRYZUR6eXdlY09i?oc=5",
+       "title": "17만 명 감원 발표한 미국 기술업계, AI 인재엔 최대 4만 달러 혜택…고용 양극화의 역설",
+       "date": "2026-11-16"
+      },
+      {
+       "name": "뉴시스",
+       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBXX01GSUJRNmhXLTdqcXJUN0ZGNldvQWlielY1aGsxQUdidjFiZXJzcnBSUHRzNTVyWTdkTS1vbkJRdEdna3pMM3FEcG5BWGdWeHR0elFOYzlvS1pRSVdOR29OVVd2a3VkdmtzM0w2cF9pdzhiZXdLTtIBeEFVX3lxTFBXX01GSUJRNmhXLTdqcXJUN0ZGNldvQWlielY1aGsxQUdidjFiZXJzcnBSUHRzNTVyWTdkTS1vbkJRdEdna3pMM3FEcG5BWGdWeHR0elFOYzlvS1pRSVdOR29OVVd2a3VkdmtzM0w2cF9pdzhiZXdLTg?oc=5",
+       "title": "\"첫 출근 전 4000만원 보너스\"…AI 인재 잡기에 돈 쏟는 美 기업들",
+       "date": "2026-11-16"
+      },
+      {
+       "name": "부산파이낸셜뉴스",
+       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5na1ZMQmk2NlRueDJQcFQ2MkxUYWlOSDRLb0tKLTNuc09KcWZ5cnVwSmx3cG05bURlaU9UZUVDZGM0bktkQWVuVHdMWmJYN1JKYTlfMzBzSnJ3OC0x?oc=5",
+       "title": "\"입사만 해도 4000만원 지급\"…美 AI 기업이 내건 파격 채용 조건",
+       "date": "2026-11-16"
+      }
+     ],
+     "date": "2026-11-16"
+    },
+    {
+     "id": "t20261117-03",
+     "region": "korea",
+     "importance": "high",
+     "company": "삼성, SK, 한국거래소",
+     "title": "채용 전형 내 AI 기기 부정행위 방지 비상",
+     "body": "국가 자격시험 및 기업 공채에서 AI 안경을 이용한 부정행위가 적발됨에 따라 주요 대기업들이 시험장 검색을 대폭 강화하고 있습니다.",
+     "insight": "커넥트웨이브 자체 채용 시험이나 과제 전형 시 AI 도구 활용에 대한 명확한 가이드라인과 검증 절차가 필요합니다.",
+     "tags": [
+      "채용공정성",
+      "AI부정행위",
+      "전형관리"
+     ],
+     "sources": [
+      {
+       "name": "중앙신문",
+       "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxQVkdrRS1EQ1BCUkd0MXdMcnJpRDNIYWJTaFkzLTZTOS1ZRG0yQ3BONU5fR0NIeHlfYW5lUVR5eGVBeGpNZXcxVHRFbmQ3V0I2TXNQc0hjQlAzdVlPQV9SY25MeHl2b05UbWdyZnZVZmVHaENxUDlKdG1EWEtvckdqdkp5TEFMZU5jV2F4bmNRajBZNGJBNUFoRWFiS3U3WmZweTIyREY0RlREcjBfRUV4ZHlMZUhKRWc0WUhLRGhwY2VoSkpKZENGZ1dfTUlvdFV3d1FuWFlNQU5oOE5laEdDVldFOXRmUWFhZl9tY0k4MndVcXlzVjZnX1g5RWQ3Q3paUzBNXzd4VEFRdy0zSVV6UEk3SE1hN1hRNFgtSEcwYXd1YXdSajgtQllQYnJlbHNHOS0wUjZXd2tvNFpyeDc3SFV2UFQzd0VCbWdLVGo2eE83cURZZ205T1dxVEFpN28?oc=5",
+       "title": "거래소, 상반기 신입사원 채용시험서 'AI안경' 착용 적발",
+       "date": "2026-11-16"
+      },
+      {
+       "name": "인사이트코리아",
+       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5Mdk03NldrU1U5OE5ycElGa183UDFZLXlSU19YMTVLU01KdGc3QVJmX09LYm5wLUtBcTFnRDNTYWhZM2RzTU9jdFlGeGwwMXZIcTg1QXd2X2ZEZ0h1R2tDOHlDcUZ1UF9ENmdndGdnYkhyOVlaOTNj0gF3QVVfeXFMTkx2TTc2V2tTVTk4TnJwSUZrXzdQMVkteVJTX1gxNUtTTUp0ZzdBUmZfT0tibnAtS0FxMWdEM1NhaFkzZHNNT2N0WUZ4bDAxdkhxODVBd3ZfZkRnSHVHa0M4eUNxRnVQX0Q2Z2d0Z2diSHI5WVo5M2M?oc=5",
+       "title": "'세무사 커닝' 후폭풍… 삼성·SK, 공채 때 '스마트 안경' 검사 강화",
+       "date": "2026-11-16"
+      }
+     ],
+     "date": "2026-11-16"
+    },
+    {
+     "id": "t20261117-01",
+     "region": "global",
+     "importance": "mid",
+     "company": "Apple, Google",
+     "title": "Web3 및 스테이블코인 관련 시니어 직무 수요",
+     "body": "애플과 구글이 스테이블코인 및 Web3 요구사항을 포함한 시니어 역할을 게시하며 차세대 금융 기술 인력 확보에 나섰습니다.",
+     "insight": "이커머스 결제 시스템 및 몰테일 등 글로벌 물류 결제 효율화를 위한 블록체인 전문가 수요를 예측할 수 있습니다.",
+     "tags": [
+      "Web3",
+      "핀테크",
+      "시니어채용"
+     ],
+     "sources": [
+      {
+       "name": "CoinMarketCap",
+       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMlJZVjN0bTlHUVZiaUROaTV0aFg1cjRsd0g2R18zQUh6dE9VemFMN2JRQ2VHb29iUHBfLXJmTW11NWxXUXp1ZXREYWo0cnVqSUduVGZJcUwzVnF2VWF1UGlLbXZCckVtQTdmZ3lkQVZ0dzhBSzdpa3dNZUtNb3pzb09PYnlRbkFOem1DQ0xUN3lFbW1qcVFsd0c0MVBtQ2JuRnlxSE5kM0V4RkJ6TmxBNFRwa0c?oc=5",
+       "title": "Apple and Google Post Senior Roles With Stablecoin and Web3 Requirements",
+       "date": "2026-11-16"
+      }
+     ],
+     "date": "2026-11-16"
+    },
+    {
+     "id": "t20261117-02",
+     "region": "global",
+     "importance": "mid",
+     "company": "업계 전반",
+     "title": "소프트웨어 엔지니어의 역할 변화: 고객 관리 강화",
+     "body": "AI가 코드 작성을 보조함에 따라 소프트웨어 엔지니어의 역할이 단순 개발에서 고객 지향적 AI 감독 및 관리 업무로 이동하고 있습니다.",
+     "insight": "개발자 채용 시 기술 역량 외에도 비즈니스 이해도와 고객 관점의 문제 해결 능력을 JD에 반영해야 합니다.",
+     "tags": [
+      "직무변화",
+      "개발자역량",
+      "AI협업"
+     ],
+     "sources": [
+      {
+       "name": "Traders Union",
+       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOS2x4N0NXdm5waktvb3g5a2Eza2VZWWRObXNubGkzU0dWeC01dVVVMERoMUhfdFh6cE9Kb21KeEw0ZEhweTBUMnlCZnhHTXp4cFdkVHEyT2d2dHNRajdzeElmaXE2NmNkclRPNkphV2piMF90X0ZzNU9kM0ZmenA3QUZSRmlWX0JrZGFHbV96cVdWLURranQyNkxZSmVELVJobDZjSQ?oc=5",
+       "title": "Software engineering roles shift toward customer-facing AI oversight",
+       "date": "2026-11-16"
+      }
+     ],
+     "date": "2026-11-16"
+    },
+    {
+     "id": "t20261117-04",
+     "region": "global",
+     "importance": "low",
+     "company": "Canva",
+     "title": "성장 둔화에 따른 첫 대규모 감원 징후",
+     "body": "디자인 플랫폼 Canva가 첫 대규모 감원을 단행하며 성장세 둔화에 따른 조직 효율화 단계에 진입했습니다.",
+     "insight": "글로벌 솔루션 기업의 인력 유출은 우수 개발 및 기획 인재를 소싱할 수 있는 기회가 될 수 있습니다.",
+     "tags": [
+      "조직개편",
+      "인재소싱",
+      "글로벌동향"
+     ],
+     "sources": [
+      {
+       "name": "Techloy",
+       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBmVnEzXzJYWUxzZFpiR2NmUnZNMTVnZlhEN2lxb1NUeXhjWHFoa1UyMVA1WUFTa1ZkeE1qZFhubEZXYV9Vd05KVDFRUmFyNFBKYng5MWppcHpicnI2T0ppbmZHNGt3U1pCcVJUb1d0cEhJbkRY?oc=5",
+       "title": "Tech Layoffs 2026: What the 135,000 Tracker Total Counts",
+       "date": "2026-11-17"
+      },
+      {
+       "name": "1 Smart Business Story",
+       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQnFRQS13R1Ytd3dGVURDdnVrRXptYkN5N05TbENvSDFmVnRjWEhwcDh0Tm5XUGZLdGhXZGpuMWFJQmRPRUxLVEZLM3FiS3JJaXRZTzJFUnNYQU5IR2ZHRzBGY3VhcHlOdEZESXpsdlF6ZUF5U3FuSkY0UlVtSWNKeHVSSXdGNjRfd2RmaGtfb1lZV1FvQ3VSQWhLOWN4amNaMjdUNEpwNkxhVGhxM1pORFNn?oc=5",
+       "title": "Canva Showed Signs of Trouble Before Its First-Ever Mass Layoff",
+       "date": "2026-11-16"
+      }
+     ],
+     "date": "2026-11-17"
+    }
+   ]
+  },
   {
    "date": "2026-11-16",
    "article_count": 129,
