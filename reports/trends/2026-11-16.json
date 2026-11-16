@@ -1,0 +1,553 @@
+{
+  "date": "2026-11-16",
+  "article_count": 129,
+  "engine": "gemini-3.7-flash",
+  "headline": "글로벌 테크 감원 속 AI·시니어 인재 영입 경쟁 심화",
+  "summary": [
+    "2026년 글로벌 테크 감원이 20만 명을 돌파하며 구조조정이 지속되고 있어요.",
+    "반면 AI 엔지니어에게는 3만 달러 보너스 등 파격 처우를 내걸며 채용 경쟁이 치열해요.",
+    "국내 채용 시장도 신입 채용은 위축되고 AI 역량을 갖춘 15년 이상 시니어 수요가 30% 증가했어요."
+  ],
+  "numbers": [
+    {
+      "value": "206,000명",
+      "label": "2026년 테크 업계 글로벌 감원 인원",
+      "dir": "down",
+      "sources": [
+        {
+          "name": "OpenTools",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVWk2SXFKeE1pNWxtY2pZQUl3TUotZEROX3F6Sjg2dlB0T2pYRzFPaFhRWnNNa2FlWVZrcHo1czlobk45WWJmUGxDRWRyYjhJNk1JSkdNMG1ZZjQyZFAwVEluZlAyMDNwRnZ6aXdTSzlYNUVPREFnaS10blhock1haV9qWFc0c0Q2cnhWTHIyU0c?oc=5",
+          "title": "206K Tech Workers Laid Off in 2026 as AI Infrastructure Spend Hits $700B",
+          "date": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "value": "$30,000",
+      "label": "미국 AI 스타트업 사이닝 보너스 금액",
+      "dir": "up",
+      "sources": [
+        {
+          "name": "BigGo Finance",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB1TUNkVWQ0bGtZT3p4QnZyS0oybWpGdy0yOWZ2RXNWbVBqQi1hbS1NWTM2Mkk3ZF9pSFA5QUhkR2szWU14Z1p2a0lpbDVDLWF0aUkwbUxJUWFSU0JBc2daZUJ1Rm0xeS1IYk5ndzhSVnYxR3BFYmc?oc=5",
+          "title": "US AI Talent War Brings Unprecedented Perks: $30,000 Signing Bonuses and $10,000 Travel Stipends",
+          "date": "2026-11-15"
+        },
+        {
+          "name": "Seoul Economic Daily",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPM3pqbjh1Z1dRUmZyczRPbU9fOURDZ1hIY3pWbkRlaUZaWUlGa3lBTjVoa2RGWGxRYmMxYnpqVDlCVVRGMV90UVNQNnJlZUxWR0xrTmt5MllIUm1WbmJVWENHS3R0bmtTaGdicWhxYXE2eUdBYXpyUHpGZXZHWk5Pc2llTU9CUGlsbmh3bkJXODdab3pIU3R2dVQ0VDN5UWhV?oc=5",
+          "title": "AI Startup Offers $30,000 Signing Bonuses to Hire AI-Savvy Engineers",
+          "date": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "value": "30%",
+      "label": "국내 경력 15년 이상 채용공고 증가율",
+      "dir": "up",
+      "sources": [
+        {
+          "name": "청년일보",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE52eHUzZUs5QTRXazdiaWFFaXlRRjd5T1JkZkNjUjhxWmUtSjhFQUxGUXJkQzNWTFdwSGdsWXFoVWZhY2M0Sk1KR0pqWURuc2xxdHk0dVdFUUdaUGdzUjFJelRqVzRmemRtUnc?oc=5",
+          "title": "경력 15년 이상 공고 30% 늘어…'AI 역량' 시니어 수요 확대",
+          "date": "2026-11-16"
+        },
+        {
+          "name": "한국면세뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAycjN4blNQTnRYT0pJV1lYU1V5d2VNcG8wOVR6UF8zek9zcEJ6VW1SWFdRN2tmQkFGWmtlZGJyMEhEWTJDQXRVdS1JSFlrcDF2MTBZc1Y2eE9MUjFVSVdaYTdWSjE1aEJnZ0E?oc=5",
+          "title": "잡코리아 \"경력 15년 이상 채용공고 30% 증가…AI 역량도 주목\"",
+          "date": "2026-11-16"
+        }
+      ]
+    },
+    {
+      "value": "46%",
+      "label": "한국 청년층 비정규직 비중",
+      "dir": "up",
+      "sources": [
+        {
+          "name": "Korea JoongAng Daily",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZFBWRDVvMDYyVi1mTi1vbzZxQk55cjFBMWQydzBwVXdrZTR4dVJqeTJXR2g3cnZaaTZIcmRyM0JxY1FTcGJqVFU4OGVzNlhBNTBPZGtLLUpTV0poUGF3WlR1eGF3cm9mbWxEQVo2UDJoNkVoVklRQS1zLWJEOEVUXzdtdnFJNk9oc0xUTmg1LWkyU3JMeEdmMzBuODE0UFlBSThKXzZYNUJldw?oc=5",
+          "title": "Record 46% of young Korean workers hold irregular jobs",
+          "date": "2026-11-15"
+        }
+      ]
+    }
+  ],
+  "layoffs": [
+    {
+      "company": "스페이스X",
+      "kind": "감원",
+      "size": "60명",
+      "pct": "",
+      "note": "AI 조직 내 그록 이매진 영상팀 60명을 해고했어요.",
+      "sources": [
+        {
+          "name": "AI 매터스",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBjWEtxUmhhS1VBXzh3ZkNwcENOMUh1QnVTcDV1SmFneTVFbmF5aUFZMFBlTjNfSjdaT1BFVWRGWmtQQVRTNG5FZ3U5MzBWR0pTZ2RLQg?oc=5",
+          "title": "스페이스X AI 조직, 그록 이매진 영상팀 60명 해고",
+          "date": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "company": "OpenAI",
+      "kind": "조직개편",
+      "size": "",
+      "pct": "",
+      "note": "독립 로보틱스 팀을 해체하고 연구 인력을 핵심 조직으로 재배치했어요.",
+      "sources": [
+        {
+          "name": "Startup Fortune",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVXg3SVJ4Y3JqV0gwc2FLQ21obmhCR0I0X3BjUkZTZ2tDd0owWFJpWnlLUUdscFNzTUYtQlFHZ0tTMkVMZFc2RmQySG1hbnk3ZjJZem5mMzYxamJRLXgwYUNXWC11TXB2QmJzTjJtMXJPWmpONjg1bjdoenB3dDdTeWxvVFUzUjNTUjJnZDRoNlhFVHA2X1JBTFhHQXA0M1BHZjkxc2NUaVhXbG53WlFIb0VR?oc=5",
+          "title": "OpenAI disbands its stand-alone robotics team and moves researchers into core groups",
+          "date": "2026-11-15"
+        },
+        {
+          "name": "shattered.io",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeTBYWDI0Y3F4NzlkNmpmMnFiNmhJYUZNQkZVUmlfQ3N2dXM2Q0NieE5ocTZ6bHhHU2Q1Z1NpUEEzR3FOUUg2VkMtY2twLTgyTjBndUpuVkFDeHByMzNlZTlPekgtOFBBcmR5c3BXbkNRS0pNa20zT1F3MmFlSXU4Umt4UDZzdVZU?oc=5",
+          "title": "OpenAI Dissolves Robotics Team, Moves Staff to 2 Orgs",
+          "date": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "company": "토론토시",
+      "kind": "채용 동결",
+      "size": "",
+      "pct": "",
+      "note": "11억 달러 규모의 예산 부족으로 채용을 전면 동결했어요.",
+      "sources": [
+        {
+          "name": "Philippine Canadian Inquirer",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMk9fQ09DR0NVNjNVTXh6WXBEYVhRSnc4UzBmcHVQRkd6UzJZellkbXE2M0lXZWZ1eVNWODBqUVA0WVVHbF9wYWpMWGZ5QndPMG80NG5tRTV5WjJSSEhNMFdkNWtycDhxOHR1RVhjZEJpdmNUU29XOUxZN1Bsdnlpa3NtMzVUX2lNVGtOdUhWZVd2MWRDNE1uWlVZYUNGbldMYll0X290TQ?oc=5",
+          "title": "Toronto imposes hiring freeze amid $1.1-billion budget shortfall",
+          "date": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "company": "디즈니",
+      "kind": "감원",
+      "size": "수천 명",
+      "pct": "",
+      "note": "신임 CEO 체제 아래 실적 발표를 앞두고 수천 명 규모 감원을 계획 중이에요.",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZ3pvUHM4NkNtRjJGX25zdENEbFNBR1Y5akE0OThCRmlHUnRtcWFTckNLVEdTV1lWaTl5RGpBWlZNVVp3REZqR1NhT1Q0ZG9nVVVXakZMYmtwczlJRVZtNnRQVDRSMXN1aHk1OHkwMXZ2VkIxNnNqN2x6Z09ib3Y1c1RzQmpYWkdaekdiVEQ5YmFTUQ?oc=5",
+          "title": "Disney’s New CEO Josh D’Amaro Is Reportedly Planning Thousands of Job Cuts Ahead of Nov. 17 Earnings. Here’s What It Means for a 72-Year-Old Widow With $150,000 of Disney",
+          "date": "2026-11-16"
+        }
+      ]
+    }
+  ],
+  "hiring": [
+    {
+      "company": "CIQ",
+      "role": "시니어 엔지니어",
+      "note": "AI가 코드 90%를 작성함에도 시니어 엔지니어 채용을 확대하고 있어요.",
+      "sources": [
+        {
+          "name": "Hoodline",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQ05kNTA1cGJsNUZaR3dad1ZtZ0NYYk4xSm5DeHJCYzBwXzhxRHd1cWlnNjZTTWtHNkFmdmlKRl8zYlRmb3BTX2ZjVlZnUzVId1FWX1BBYjcxNURXQWx2di1jWEdnd2NhWTRHcWtOVk81aWR6cFNuOVRvMHVNbmdhWm52U1lLN05yQ2RiQVlodGZGUF9IYURudldyUGk5VUFKek8wdU1n?oc=5",
+          "title": "AI Writes 90% of This Firm's Code, Yet It Still Can't Hire Enough Engineers",
+          "date": "2026-11-16"
+        },
+        {
+          "name": "Business Insider",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPY2Q0S2w2M09WaTM3V0xCazBjWnVtUXFjTXJILVBaS1dMbHNfWS1iaDRDX1RDMG9CWkhjVEFMRlcxOFFmSjN6VzRuZzlqOXhCWXVjUzVvd2UtbE5iVTNURzhwRjl4eG9jcnBycHFQT1JGb29YYUlnLXBPbDh1NVpXanVfUDJoUFdUV1BxdU50VVVMa2VxVVNJZjZ4ME45S1hSOTVMLUU4akEwUQ?oc=5",
+          "title": "AI writes 90% of the code at this company. It still can't hire enough engineers.",
+          "date": "2026-11-15"
+        },
+        {
+          "name": "Traders Union",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNOGo2eEgtbG1LQUtXa1ozOTA5TzEweGU3cHE4SWh2QU0yQWQxY2oxb0tCZ0dBQklxUFc0WkJtWDlwb3ZVOEdqU3ZPQ0tsYkpPRHBaQ3Q0NFRoXzFWLUhaaFJrNHBKcXBMX2lWSzdWVmRBNGlTOWZzQjBBblhHQkZsNzRSXzBUMGNyanpuQ0pncXdfdw?oc=5",
+          "title": "CIQ expands senior engineer hiring as AI writes over 90% of code",
+          "date": "2026-11-15"
+        }
+      ]
+    },
+    {
+      "company": "어니스트AI",
+      "role": "금융·기술·프로덕트·보안",
+      "note": "사업 확대를 위해 전 분야에 걸쳐 대규모 인재 채용을 진행해요.",
+      "sources": [
+        {
+          "name": "지디넷코리아",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBXa0FlQ3JnM1pzWHpiWWJQUkk3a0ZIWjdhTGlueGRjT3QwRkEyUktKbEVmSWdKVGZ1cUk5RGRGVzczZFc4RldZS1FiOTBTYmU2Qzg2bkZ3?oc=5",
+          "title": "어니스트AI, 금융·기술·프로덕트·보안 채용 실시",
+          "date": "2026-11-16"
+        },
+        {
+          "name": "벤처타임즈",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE95cG4tNVZ3cWRibFFFcjRDQWE1U1VVUnp5NlFCdkhyR1o5ZmJsMjMySUcyWGtYWlR4QUNpNlp3SVNhZkJ5cVZqZTdEWXJuV3J5X3lDRnNBbWExdldIUUs5YzNqWGVoUQ?oc=5",
+          "title": "어니스트AI, 사업 확대에 전 분야 대규모 채용",
+          "date": "2026-11-16"
+        }
+      ]
+    },
+    {
+      "company": "V2 AI",
+      "role": "Director of Applied AI",
+      "note": "싱가포르 리더십 강화를 위해 응용 AI 총괄 임원을 영입했어요.",
+      "sources": [
+        {
+          "name": "The Business Times",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPV2ZGemtYNUJ6VWZNSGYwNEhhUVg2VGQtSjh6b1JxOFpOMWhiT0hkamNIVTNGRlJ5dUVPMDJnT3pIZVR2bGR6d2wtdmJoODBQbjU1a2RwTHJvQUFHYXZBQ1RRdjZWanVGcTZCd0ZKbTRwMjhHejZ2REpfQXhaZ3JHcFplVUc3anpQT2l6LVkxVlByM01tdWZ0Unk3SmFYMnNZeXlNdzdnQng5ckMxUms4MFdBX3kxRDhuQjN3emthdE1TZTE5RkxlelNnTFBFZw?oc=5",
+          "title": "V2 AI strengthens Singapore leadership with appointment of Director of Applied AI",
+          "date": "2026-11-16"
+        }
+      ]
+    }
+  ],
+  "roles": {
+    "up": [
+      {
+        "name": "시니어 소프트웨어 엔지니어",
+        "why": "AI 자동 코딩 도입에도 아키텍처와 검증을 맡을 숙련 인력 수요가 급증했어요."
+      },
+      {
+        "name": "AI 및 응용 AI 전문가",
+        "why": "실제 비즈니스 적용을 주도할 AI 인재 유치 경쟁이 가열되고 있어요."
+      }
+    ],
+    "down": [
+      {
+        "name": "주니어 및 신입 개발자",
+        "why": "AI 도구 확산과 경력직 선호로 진입 문턱이 높아지고 공고가 줄었어요."
+      },
+      {
+        "name": "사무직 일반 관리 직무",
+        "why": "빅테크 및 기업들의 전방위적 비용 절감과 AI 기반 감원 대상이 되고 있어요."
+      }
+    ]
+  },
+  "korea": [
+    {
+      "company": "잡코리아",
+      "note": "경력 15년 이상 공고가 30% 늘며 AI 역량을 갖춘 시니어 선호 현상이 뚜렷해요.",
+      "sources": [
+        {
+          "name": "청년일보",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE52eHUzZUs5QTRXazdiaWFFaXlRRjd5T1JkZkNjUjhxWmUtSjhFQUxGUXJkQzNWTFdwSGdsWXFoVWZhY2M0Sk1KR0pqWURuc2xxdHk0dVdFUUdaUGdzUjFJelRqVzRmemRtUnc?oc=5",
+          "title": "경력 15년 이상 공고 30% 늘어…'AI 역량' 시니어 수요 확대",
+          "date": "2026-11-16"
+        },
+        {
+          "name": "한국면세뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAycjN4blNQTnRYT0pJV1lYU1V5d2VNcG8wOVR6UF8zek9zcEJ6VW1SWFdRN2tmQkFGWmtlZGJyMEhEWTJDQXRVdS1JSFlrcDF2MTBZc1Y2eE9MUjFVSVdaYTdWSjE1aEJnZ0E?oc=5",
+          "title": "잡코리아 \"경력 15년 이상 채용공고 30% 증가…AI 역량도 주목\"",
+          "date": "2026-11-16"
+        }
+      ]
+    },
+    {
+      "company": "어니스트AI",
+      "note": "금융, 기술, 프로덕트, 보안 전 부문에서 대규모 경력직 채용을 진행 중이에요.",
+      "sources": [
+        {
+          "name": "지디넷코리아",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBXa0FlQ3JnM1pzWHpiWWJQUkk3a0ZIWjdhTGlueGRjT3QwRkEyUktKbEVmSWdKVGZ1cUk5RGRGVzczZFc4RldZS1FiOTBTYmU2Qzg2bkZ3?oc=5",
+          "title": "어니스트AI, 금융·기술·프로덕트·보안 채용 실시",
+          "date": "2026-11-16"
+        },
+        {
+          "name": "벤처타임즈",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE95cG4tNVZ3cWRibFFFcjRDQWE1U1VVUnp5NlFCdkhyR1o5ZmJsMjMySUcyWGtYWlR4QUNpNlp3SVNhZkJ5cVZqZTdEWXJuV3J5X3lDRnNBbWExdldIUUs5YzNqWGVoUQ?oc=5",
+          "title": "어니스트AI, 사업 확대에 전 분야 대규모 채용",
+          "date": "2026-11-16"
+        }
+      ]
+    },
+    {
+      "company": "통계 지표(국내 노동시장)",
+      "note": "청년 취업자 중 비정규직 비중이 46%로 역대 최고를 기록하며 취업난이 심화됐어요.",
+      "sources": [
+        {
+          "name": "SBS 뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBmZURndUNtWlhsWUNwUFZwdVR3cjVvOHJqMjhQWktQV0k1UHZnR3JBa1lWSWlsbS14R3l0TTh3SkZPREJPZmo4b3luZ2pMVDhVUXQwX2tHQW5vbEJYME9lSS1GbUF0UdIBZkFVX3lxTFBmZURndUNtWlhsWUNwUFZwdVR3cjVvOHJqMjhQWktQV0k1UHZnR3JBa1lWSWlsbS14R3l0TTh3SkZPREJPZmo4b3luZ2pMVDhVUXQwX2tHQW5vbEJYME9lSS1GbUF0UQ?oc=5",
+          "title": "Finally Employed, But Nearly Half in Non-Regular Jobs: Record High Frustrates Youths",
+          "date": "2026-11-16"
+        },
+        {
+          "name": "Korea JoongAng Daily",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZFBWRDVvMDYyVi1mTi1vbzZxQk55cjFBMWQydzBwVXdrZTR4dVJqeTJXR2g3cnZaaTZIcmRyM0JxY1FTcGJqVFU4OGVzNlhBNTBPZGtLLUpTV0poUGF3WlR1eGF3cm9mbWxEQVo2UDJoNkVoVklRQS1zLWJEOEVUXzdtdnFJNk9oc0xUTmg1LWkyU3JMeEdmMzBuODE0UFlBSThKXzZYNUJldw?oc=5",
+          "title": "Record 46% of young Korean workers hold irregular jobs",
+          "date": "2026-11-15"
+        },
+        {
+          "name": "이로운넷",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA2S2cwWXNOUVlteFczNUFpaHJDU2VpNTJ5c0EtNHZDWE5LX29nWl9NLV8yZ241SWtLNHY0ajlOdVgwbENFZEFwV1dDY05WaGhkY01UcHprWW9yMklrWUVYaFlIVFhpdw?oc=5",
+          "title": "\"취업 못해서 경력 없는 건데\"...경력자 찾는 기업에 청년들 '눈물'",
+          "date": "2026-11-16"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "t20261116-02",
+      "region": "global",
+      "importance": "high",
+      "company": "미국 AI 스타트업",
+      "title": "사이닝 보너스 3만 달러… 파격 혜택으로 AI 인재 확보 경쟁",
+      "body": "미국 AI 기업들은 입사 보너스로 3만 달러(약 4,000만 원)와 여행 지원금 1만 달러를 지급하는 등 극소수 핵심 엔지니어를 잡기 위해 유례없는 파격 처우를 제시하고 있어요.",
+      "insight": "대기업과의 단순 보수 경쟁이 어려운 만큼 커넥트웨이브의 독자적 데이터 자산과 주도적 개발 환경을 강점으로 브랜딩해야 해요.",
+      "tags": [
+        "AI채용",
+        "사이닝보너스",
+        "처우경쟁"
+      ],
+      "sources": [
+        {
+          "name": "BigGo Finance",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB1TUNkVWQ0bGtZT3p4QnZyS0oybWpGdy0yOWZ2RXNWbVBqQi1hbS1NWTM2Mkk3ZF9pSFA5QUhkR2szWU14Z1p2a0lpbDVDLWF0aUkwbUxJUWFSU0JBc2daZUJ1Rm0xeS1IYk5ndzhSVnYxR3BFYmc?oc=5",
+          "title": "US AI Talent War Brings Unprecedented Perks: $30,000 Signing Bonuses and $10,000 Travel Stipends",
+          "date": "2026-11-15"
+        },
+        {
+          "name": "Seoul Economic Daily",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPM3pqbjh1Z1dRUmZyczRPbU9fOURDZ1hIY3pWbkRlaUZaWUlGa3lBTjVoa2RGWGxRYmMxYnpqVDlCVVRGMV90UVNQNnJlZUxWR0xrTmt5MllIUm1WbmJVWENHS3R0bmtTaGdicWhxYXE2eUdBYXpyUHpGZXZHWk5Pc2llTU9CUGlsbmh3bkJXODdab3pIU3R2dVQ0VDN5UWhV?oc=5",
+          "title": "AI Startup Offers $30,000 Signing Bonuses to Hire AI-Savvy Engineers",
+          "date": "2026-11-15"
+        },
+        {
+          "name": "시사프리즘",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5WbFNFTzkwaU15a1hEekJRekNDcjNHTXJOUGpkNjYxYzBCbU1obVJIdDA3cW1rNko1WV8wdURnVGl6Um9HRFVqUkRSekZjZTNDa1FVZTg1MDZZY0hoekRYZUR6eXdlY09i?oc=5",
+          "title": "17만 명 감원 발표한 미국 기술업계, AI 인재엔 최대 4만 달러 혜택…고용 양극화의 역설",
+          "date": "2026-11-16"
+        },
+        {
+          "name": "파이낸셜뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WUVZaa2JBaml1YXd5Rm56SXdrNDJOYlExbGdELWdXVklLbHhmME9XSk84aFJuZGRKTHBaRnlMbkp4TU5Uck9pOTMtMkRLUVl5ZFZEQk4wSVZ3QQ?oc=5",
+          "title": "\"입사만 해도 4000만원 지급\"…美 AI 기업이 내건 파격 채용 조건",
+          "date": "2026-11-16"
+        },
+        {
+          "name": "이데일리TV",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5TSWZfV0gyMkh6OG84LUJXYzF0cnJubDljTWpwSWFqblllS0VKV2hWOHR3V0xaUHBYcTA2b2h2R0c0alZuZkllR01HcHJibkRZX2M2MzFiNlVjTXhxd0owQTVFS0xuSHhKR3RyVGduUXRtZ21zUE05ZXhrSQ?oc=5",
+          "title": "첫 출근도 안 했는데 \"보너스 4000만원 드려요\"…이 회사 어디?",
+          "date": "2026-11-16"
+        },
+        {
+          "name": "서울경제",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9XZk1ydWR3NE9CNm9lYzd3Q2JyczFHLTNXTHVfaFVTeDBMZHVBRVlDRkctY1BlSy1lR2JXVzZvSUU5dGI0cVcxdldhUjB2d0NHNWfSAVNBVV95cUxOV2lwQ0F4eEgxNnd4V0l4MUEwa1VyQ0FYa0hvSURIMk80WVVYT2xReGYxeEFLQllON3FfNUo0dElJaGpzdnRadGFSWDRLcVc5UlU5bw?oc=5",
+          "title": "아직 출근도 안 했는데 “보너스 4000만원에 여행비까지 드려요”…美서 귀한 대접받는 ‘이 직업’",
+          "date": "2026-11-15"
+        }
+      ],
+      "date": "2026-11-16"
+    },
+    {
+      "id": "t20261116-00",
+      "region": "global",
+      "importance": "high",
+      "company": "글로벌 테크 업계",
+      "title": "2026년 글로벌 테크 감원 20만 명 돌파와 AI 투자 쏠림",
+      "body": "2026년 전 세계 테크 업계 감원 인원이 20만 명을 넘어섰어요. 기업들이 7,000억 달러 규모의 AI 인프라 투자 비용을 마련하기 위해 기존 인력을 축소하면서 고용 한파가 이어지고 있어요.",
+      "insight": "글로벌 감원으로 빅테크 출신 해외파 인재 풀이 확대되고 있으므로 커넥트웨이브의 핵심 기술 직군에 적극 소싱을 검토해 볼 만해요.",
+      "tags": [
+        "글로벌감원",
+        "AI투자",
+        "구조조정"
+      ],
+      "sources": [
+        {
+          "name": "Crowdfund Insider",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPSktwZWp4WG9xQU84WnFOcnNnTmJXX3lZS0d6ZTloNW1ZRXEtNDVPSFVTc2dlZVhUX3lUNzNWUEpoVHpIOElrTnpTemM4dDM3RHR5VG50bm9OM0p3M3pHZWVndDZwR01MZlQxY0UtVHhnWnppNVZxemxhUGJwMGt4ZnJ0aEdwTWp1c3B1elc3QUc1OTZsUEpNdDZfd1hSYkpqaUNxQTNfajJ4UDVnSnpWTTRUcFZSOGN1eDZpQXp5anBCUUl0UHhqR3JPdDhqSFdrREZIYVBNYw?oc=5",
+          "title": "Meta, Microsoft, PayPal Lead 2026 Tech Layoffs as AI Spending Results in Significant Job Cuts",
+          "date": "2026-11-16"
+        },
+        {
+          "name": "BigGo Finance",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9CTTFDbGNYc0owSVEzS01mNVJJNXFUQlFuUnB1cENkeEt0NWNMbEhnNzFhRHVJNld5LS12U29laHdLNVl1NC1XRVpkMURnbmI0TUdUQU9ZRWl1bDlJcEJoclZzMWxOby1EcmVJZE9CRkNjQkloWlE?oc=5",
+          "title": "Over 200,000 Tech Workers Lose Jobs in 2026 as AI-Driven Cutbacks Spread",
+          "date": "2026-11-15"
+        },
+        {
+          "name": "OpenTools",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVWk2SXFKeE1pNWxtY2pZQUl3TUotZEROX3F6Sjg2dlB0T2pYRzFPaFhRWnNNa2FlWVZrcHo1czlobk45WWJmUGxDRWRyYjhJNk1JSkdNMG1ZZjQyZFAwVEluZlAyMDNwRnZ6aXdTSzlYNUVPREFnaS10blhock1haV9qWFc0c0Q2cnhWTHIyU0c?oc=5",
+          "title": "206K Tech Workers Laid Off in 2026 as AI Infrastructure Spend Hits $700B",
+          "date": "2026-11-15"
+        },
+        {
+          "name": "Vietnam.vn",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNUJCck5CRjhDcDZzZE8xa091SEN5aGJSN3Y4NkpFTlU0Y2FIM3h1Qmg2aFc4U0JQUExPOGd6RmhmeEtvZWxVVXZtZ0pmTXJzd21jWlhtRmhhM2V1QlQ1WnpSeV9mSVRHNmZJaHBaTXYxRG5FSE52ZVhuakdvOVVFVWFHNmk5OFN3Wl9JRFhmMGs2Zw?oc=5",
+          "title": "전 세계적으로 20만 명이 넘는 기술직 종사자들이 일자리를 잃었는데, 주요 원인은 인공지능(AI) 때문이었습니다.",
+          "date": "2026-11-15"
+        }
+      ],
+      "date": "2026-11-16"
+    },
+    {
+      "id": "t20261116-01",
+      "region": "global",
+      "importance": "high",
+      "company": "CIQ 등 글로벌 테크 기업",
+      "title": "AI가 코드 90% 짜도 시니어 엔지니어는 구인난",
+      "body": "CIQ 등 기술 기업들은 AI가 코드의 90% 이상을 작성하는 환경에서도 시스템 아키텍처와 복잡한 문제 해결을 위해 시니어 엔지니어 채용을 공격적으로 확대하고 있어요.",
+      "insight": "단순 코딩 테스트 위주의 채용보다 AI 협업 역량과 시스템 설계 능력을 검증하는 평가 체계로 개편해야 해요.",
+      "tags": [
+        "시니어엔지니어",
+        "AI코딩",
+        "채용평가"
+      ],
+      "sources": [
+        {
+          "name": "Hoodline",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQ05kNTA1cGJsNUZaR3dad1ZtZ0NYYk4xSm5DeHJCYzBwXzhxRHd1cWlnNjZTTWtHNkFmdmlKRl8zYlRmb3BTX2ZjVlZnUzVId1FWX1BBYjcxNURXQWx2di1jWEdnd2NhWTRHcWtOVk81aWR6cFNuOVRvMHVNbmdhWm52U1lLN05yQ2RiQVlodGZGUF9IYURudldyUGk5VUFKek8wdU1n?oc=5",
+          "title": "AI Writes 90% of This Firm's Code, Yet It Still Can't Hire Enough Engineers",
+          "date": "2026-11-16"
+        },
+        {
+          "name": "Business Insider",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPY2Q0S2w2M09WaTM3V0xCazBjWnVtUXFjTXJILVBaS1dMbHNfWS1iaDRDX1RDMG9CWkhjVEFMRlcxOFFmSjN6VzRuZzlqOXhCWXVjUzVvd2UtbE5iVTNURzhwRjl4eG9jcnBycHFQT1JGb29YYUlnLXBPbDh1NVpXanVfUDJoUFdUV1BxdU50VVVMa2VxVVNJZjZ4ME45S1hSOTVMLUU4akEwUQ?oc=5",
+          "title": "AI writes 90% of the code at this company. It still can't hire enough engineers.",
+          "date": "2026-11-15"
+        },
+        {
+          "name": "Traders Union",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNOGo2eEgtbG1LQUtXa1ozOTA5TzEweGU3cHE4SWh2QU0yQWQxY2oxb0tCZ0dBQklxUFc0WkJtWDlwb3ZVOEdqU3ZPQ0tsYkpPRHBaQ3Q0NFRoXzFWLUhaaFJrNHBKcXBMX2lWSzdWVmRBNGlTOWZzQjBBblhHQkZsNzRSXzBUMGNyanpuQ0pncXdfdw?oc=5",
+          "title": "CIQ expands senior engineer hiring as AI writes over 90% of code",
+          "date": "2026-11-15"
+        }
+      ],
+      "date": "2026-11-16"
+    },
+    {
+      "id": "t20261116-03",
+      "region": "korea",
+      "importance": "high",
+      "company": "국내 채용 플랫폼(잡코리아)",
+      "title": "경력 15년 이상 시니어 공고 30% 급증… 경력 쏠림 가속",
+      "body": "국내 채용 시장에서 경력 15년 이상 공고가 전년 대비 30% 증가했어요. AI 역량과 프로젝트 리더십을 동시에 갖춘 숙련된 시니어에 대한 기업 수요가 집중되고 있어요.",
+      "insight": "다나와·메이크샵 등 그룹 핵심 서비스의 체질 개선을 이끌 AI 기반 시니어 PM 및 리드 개발자 타깃 헤드헌팅을 강화해야 해요.",
+      "tags": [
+        "시니어수요",
+        "국내채용",
+        "경력직"
+      ],
+      "sources": [
+        {
+          "name": "청년일보",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE52eHUzZUs5QTRXazdiaWFFaXlRRjd5T1JkZkNjUjhxWmUtSjhFQUxGUXJkQzNWTFdwSGdsWXFoVWZhY2M0Sk1KR0pqWURuc2xxdHk0dVdFUUdaUGdzUjFJelRqVzRmemRtUnc?oc=5",
+          "title": "경력 15년 이상 공고 30% 늘어…'AI 역량' 시니어 수요 확대",
+          "date": "2026-11-16"
+        },
+        {
+          "name": "한국면세뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAycjN4blNQTnRYT0pJV1lYU1V5d2VNcG8wOVR6UF8zek9zcEJ6VW1SWFdRN2tmQkFGWmtlZGJyMEhEWTJDQXRVdS1JSFlrcDF2MTBZc1Y2eE9MUjFVSVdaYTdWSjE1aEJnZ0E?oc=5",
+          "title": "잡코리아 \"경력 15년 이상 채용공고 30% 증가…AI 역량도 주목\"",
+          "date": "2026-11-16"
+        }
+      ],
+      "date": "2026-11-16"
+    },
+    {
+      "id": "t20261116-04",
+      "region": "korea",
+      "importance": "mid",
+      "company": "통계청 및 국내 노동시장",
+      "title": "청년 비정규직 비중 46% 역대 최고… 신입 채용문 축소",
+      "body": "청년 취업자 중 비정규직 비율이 46%에 도달하며 역대 최고치를 기록했어요. 기업들이 즉시 투입 가능한 경력직만 선호하면서 청년층의 정규직 신입 진입 장벽이 극도로 높아졌어요.",
+      "insight": "신입 인턴십 운영 시 즉각적인 전환 기회와 명확한 육성 트랙을 제시하면 우수 신인 인재를 선제적으로 선점할 수 있어요.",
+      "tags": [
+        "청년고용",
+        "비정규직",
+        "신입채용"
+      ],
+      "sources": [
+        {
+          "name": "SBS 뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBmZURndUNtWlhsWUNwUFZwdVR3cjVvOHJqMjhQWktQV0k1UHZnR3JBa1lWSWlsbS14R3l0TTh3SkZPREJPZmo4b3luZ2pMVDhVUXQwX2tHQW5vbEJYME9lSS1GbUF0UdIBZkFVX3lxTFBmZURndUNtWlhsWUNwUFZwdVR3cjVvOHJqMjhQWktQV0k1UHZnR3JBa1lWSWlsbS14R3l0TTh3SkZPREJPZmo4b3luZ2pMVDhVUXQwX2tHQW5vbEJYME9lSS1GbUF0UQ?oc=5",
+          "title": "Finally Employed, But Nearly Half in Non-Regular Jobs: Record High Frustrates Youths",
+          "date": "2026-11-16"
+        },
+        {
+          "name": "Korea JoongAng Daily",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZFBWRDVvMDYyVi1mTi1vbzZxQk55cjFBMWQydzBwVXdrZTR4dVJqeTJXR2g3cnZaaTZIcmRyM0JxY1FTcGJqVFU4OGVzNlhBNTBPZGtLLUpTV0poUGF3WlR1eGF3cm9mbWxEQVo2UDJoNkVoVklRQS1zLWJEOEVUXzdtdnFJNk9oc0xUTmg1LWkyU3JMeEdmMzBuODE0UFlBSThKXzZYNUJldw?oc=5",
+          "title": "Record 46% of young Korean workers hold irregular jobs",
+          "date": "2026-11-15"
+        },
+        {
+          "name": "이로운넷",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA2S2cwWXNOUVlteFczNUFpaHJDU2VpNTJ5c0EtNHZDWE5LX29nWl9NLV8yZ241SWtLNHY0ajlOdVgwbENFZEFwV1dDY05WaGhkY01UcHprWW9yMklrWUVYaFlIVFhpdw?oc=5",
+          "title": "\"취업 못해서 경력 없는 건데\"...경력자 찾는 기업에 청년들 '눈물'",
+          "date": "2026-11-16"
+        },
+        {
+          "name": "이데일리",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbTB2N0sta2E4LTlWUnJ3NHlLdEI3TUtBZnkzTURSRlZ2cWptaWFBVDVreElNcDdfMEpEcG85NXFid3NSSFZyUW11bU4zYUxNSzNSTFhpSml4cnU5eHBOTmwtTTBJVFQ0RDN6b2Q5WVJ5STlORUZyMzE4Zy03U1Ixdw?oc=5",
+          "title": "청년 취업난은 인구 감소탓? '일자리 부족' 영향이 2배",
+          "date": "2026-11-16"
+        }
+      ],
+      "date": "2026-11-16"
+    },
+    {
+      "id": "t20261116-05",
+      "region": "global",
+      "importance": "mid",
+      "company": "OpenAI",
+      "title": "OpenAI, 로보틱스 전담 조직 해체 및 핵심 부서 재배치",
+      "body": "OpenAI가 독립 로보틱스 팀을 공식 해체하고 소속 연구 인력들을 핵심 모델 연구 그룹 등 2개 조직으로 분산 배치하며 연구 자원 효율화에 나섰어요.",
+      "insight": "빅테크의 조직 개편 과정에서 특정 도메인 연구 인력의 이직 가능성이 커지므로 이커머스 적용 가능 AI 인재를 선별 접촉할 필요가 있어요.",
+      "tags": [
+        "OpenAI",
+        "조직개편",
+        "인력재배치"
+      ],
+      "sources": [
+        {
+          "name": "Startup Fortune",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVXg3SVJ4Y3JqV0gwc2FLQ21obmhCR0I0X3BjUkZTZ2tDd0owWFJpWnlLUUdscFNzTUYtQlFHZ0tTMkVMZFc2RmQySG1hbnk3ZjJZem5mMzYxamJRLXgwYUNXWC11TXB2QmJzTjJtMXJPWmpONjg1bjdoenB3dDdTeWxvVFUzUjNTUjJnZDRoNlhFVHA2X1JBTFhHQXA0M1BHZjkxc2NUaVhXbG53WlFIb0VR?oc=5",
+          "title": "OpenAI disbands its stand-alone robotics team and moves researchers into core groups",
+          "date": "2026-11-15"
+        },
+        {
+          "name": "eu.36kr.com",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1sYVFxNXJWTlRyVkUwelIwZnBqenNFM2Q2X2F5b0JjcDhoRFdObEFyTjVzV3dvSmlvazR6UjEzR1Z4cGZ2cTFHTzMxOHM4aVJWUHpV?oc=5",
+          "title": "OpenAI Robotics Team Sudden Disbandment: GPT-6 Astra Completely Upends the Entire Industry",
+          "date": "2026-11-15"
+        },
+        {
+          "name": "shattered.io",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeTBYWDI0Y3F4NzlkNmpmMnFiNmhJYUZNQkZVUmlfQ3N2dXM2Q0NieE5ocTZ6bHhHU2Q1Z1NpUEEzR3FOUUg2VkMtY2twLTgyTjBndUpuVkFDeHByMzNlZTlPekgtOFBBcmR5c3BXbkNRS0pNa20zT1F3MmFlSXU4Umt4UDZzdVZU?oc=5",
+          "title": "OpenAI Dissolves Robotics Team, Moves Staff to 2 Orgs",
+          "date": "2026-11-15"
+        }
+      ],
+      "date": "2026-11-15"
+    },
+    {
+      "id": "t20261116-06",
+      "region": "korea",
+      "importance": "low",
+      "company": "어니스트AI",
+      "title": "어니스트AI, 사업 확대 따라 전 직군 대규모 채용 진행",
+      "body": "금융 AI 전문 기업 어니스트AI가 사업 성장에 발맞추어 기술, 프로덕트, 금융, 정보보안 등 전 영역에 걸친 경력직 인재 영입에 돌입했어요.",
+      "insight": "국내 핀테크·AI 분야의 채용 보상 수준과 기술 직군 JD 키워드를 주기적으로 모니터링하여 그룹 내 IT 인재 이탈을 방지해야 해요.",
+      "tags": [
+        "어니스트AI",
+        "대규모채용",
+        "핀테크"
+      ],
+      "sources": [
+        {
+          "name": "지디넷코리아",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBXa0FlQ3JnM1pzWHpiWWJQUkk3a0ZIWjdhTGlueGRjT3QwRkEyUktKbEVmSWdKVGZ1cUk5RGRGVzczZFc4RldZS1FiOTBTYmU2Qzg2bkZ3?oc=5",
+          "title": "어니스트AI, 금융·기술·프로덕트·보안 채용 실시",
+          "date": "2026-11-16"
+        },
+        {
+          "name": "벤처타임즈",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE95cG4tNVZ3cWRibFFFcjRDQWE1U1VVUnp5NlFCdkhyR1o5ZmJsMjMySUcyWGtYWlR4QUNpNlp3SVNhZkJ5cVZqZTdEWXJuV3J5X3lDRnNBbWExdldIUUs5YzNqWGVoUQ?oc=5",
+          "title": "어니스트AI, 사업 확대에 전 분야 대규모 채용",
+          "date": "2026-11-16"
+        }
+      ],
+      "date": "2026-11-16"
+    }
+  ]
+}

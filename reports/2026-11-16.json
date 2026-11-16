@@ -1,0 +1,382 @@
+{
+  "date": "2026-11-16",
+  "window_days": 1,
+  "article_count": 243,
+  "engine": "gemini-3.7-flash",
+  "headline": "가짜 3.3 기획감독 및 시니어 경력직 수요 급증",
+  "points": [
+    "고용부, 위장 프리랜서 '가짜 3.3%' 및 사업장 쪼개기 집중 기획감독 착수",
+    "15년 이상 시니어 경력직 채용 수요 30% 급증하며 베테랑 선호 뚜렷",
+    "AI 채용 시험 부정행위 확산에 따른 대기업 채용 전형 보안 검증 강화"
+  ],
+  "items": [
+    {
+      "cat": "market",
+      "importance": "high",
+      "company": "업계 전반",
+      "title": "기업들 '베테랑' 선호 뚜렷, 15년 이상 경력 공고 30% 급증",
+      "body": "전반적인 채용 시장 둔화 속에서도 즉시 전력화 가능한 15년 차 이상 시니어 베테랑 경력직 채용 공고가 전년 대비 30% 이상 큰 폭으로 늘어났어요.",
+      "insight": "신규 프로젝트 추진 및 위기 대응을 위한 리더급 인재 유치 경쟁이 치열해지며 시니어 보상 체계 정비 필요성이 커졌어요.",
+      "action": "핵심 조직 내 시니어급 TO 필요성을 재산정하고 베테랑 영입용 보상 패키지를 검토해 보세요.",
+      "teams": [
+        "채용",
+        "보상·복리후생"
+      ],
+      "tags": [
+        "시니어채용",
+        "경력직",
+        "베테랑",
+        "채용트렌드"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "뉴스1",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1XQzFTVTRyd0FQUmhPOFBUdlVLSEdRNmlUVnBrdENTODd1c3Ntd3l2RlN2R3V4Nmo4cmQ5LTZ6anFqVHU1aUREVjJwa0xVTEJHQUhqZWxobTlabTc0aDk2SW90Qm4?oc=5",
+          "title": "기업들 '베테랑' 찾는다…15년 이상 경력직 공고 30% 증가",
+          "date": "2026-11-16"
+        },
+        {
+          "name": "Queen 이코노미퀸",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1FM09yR3FhekFvdlB5dEZFZ3ptQzkwcWNvNzFsRWgxd1pvbXN4VzBVUnVxSDZ3c1Z2MUtMamJ6MmxWUnd5UmJNTEZxWjhZNkExWDFURmdkaXctbVhvWkhrb0Y5MExucUxBcVE?oc=5",
+          "title": "\"15년차 이상 베테랑 모십니다\"…기업들, 시니어 경력직 채용 공고 30% 급증",
+          "date": "2026-11-16"
+        },
+        {
+          "name": "재경일보",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1zdnFUVy1EMDZCQTE2NXdmYmNScHE4d0ZLa2pLZ2E0Z2lZbFJxaDJJNnpiNGlXdU9laXFIbHotcDNFLUQtMWxVazM0bw?oc=5",
+          "title": "줄어드는 경력직 채용 속 베테랑 인재 수요는 커졌다 : 경제",
+          "date": "2026-11-16"
+        },
+        {
+          "name": "아웃소싱타임스",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE96bDk5Q2xsZ1RIVVQ2c2pkdXBtUzJuWlN3OWdzZTBFZi1EWVlPMXpZN0xiV1B5bW9IVzAySGlTakprQUwzcW1NalFWN1ljTi1ibWV1ZnFJVGNraW1yTGZFQV9PRTZGREdIazlnSF9vUmFtZw?oc=5",
+          "title": "[취업뉴스]“15년 차 베테랑 모십니다”… 경력 15년 이상 공고 전년 대비 30% 증가",
+          "date": "2026-11-16"
+        },
+        {
+          "name": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1KZkZHNGV1YU5CQzIxYmJma1duclZfRGZ0Zy15amhHcUhpNTVmTndnRDR1NEsxeGRKOVhzSUZ3b3I4QkVLRktyZ2dLZ1ZrTVBoTS1sa1RvR3dpWjjSAWBBVV95cUxQY0hjbmFHY296eUZOdFZlcEVpNHR0bk84aHBSNk92RGE3ZkRKTVltV19DOXNKWWpKcG1oNWdTTjhxTWZZbE1OQ0tQQXZMVkljV2RKZ0pBdnMwb2lZN1FiSnE?oc=5",
+          "title": "기업들, 경력 15년 이상 베테랑 찾는다…채용공고 30%↑",
+          "date": "2026-11-16"
+        }
+      ],
+      "date": "2026-11-16",
+      "id": "20261116-01"
+    },
+    {
+      "cat": "market",
+      "importance": "high",
+      "company": "삼성전자·SK",
+      "title": "초소형 카메라·생성형 AI 결합 커닝에 대기업 채용 보안 비상",
+      "body": "공채 및 필기·면접 시험에서 초소형 기기와 생성형 AI를 활용한 부정행위가 적발되자 삼성·SK 등 주요 기업이 안경 대면 검사 등 채용 보안 전담 대응에 나섰어요.",
+      "insight": "비대면 AI 역량검사나 온라인 필기 전형의 신뢰성 검증 이슈가 대두되어 채용 절차의 보안 프로토콜 보완이 필수적이에요.",
+      "action": "온라인 코딩 테스트 및 역량검사 프로세스 내 부정행위 방지 지침과 현장 검증 절차를 강화해 보세요.",
+      "teams": [
+        "채용"
+      ],
+      "tags": [
+        "AI부정행위",
+        "채용보안",
+        "선발전형",
+        "AI검사"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "중앙일보",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5MNEFqX0VxZnZKVXhDNDFrQ2VsX25udjNGUklnaVVaaVpHLS1rajJZdGlCck5xSXFhSkdoaFVjdWdXZ1NrdFk3QTZidjZyLVZMSkVMTHZB?oc=5",
+          "title": "AI 커닝에 기업채용도 비상…삼성·SK “응시자 안경 대면 검사”",
+          "date": "2026-11-16"
+        },
+        {
+          "name": "PRESS9",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1MYkw1N3hqQk1Vd2ZySzZyeTEyYlkxSjcweW1DTDI0aXhRLXhhcXMyc1ZNQlhmS0cwb3J3V0N6MVZod2ZlUUQ0Z0R2eVFWZHhDUDVSazNqbzRrSU5GRWtGMngxLWM?oc=5",
+          "title": "초소형 카메라·생성형 AI 결합…기업 보안 위협 확산",
+          "date": "2026-11-16"
+        },
+        {
+          "name": "파이낸셜뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBfb2s3T2V1S2VUVWxab3QxbVptdkFxTXJlWm9iemlUS0lIRTlLSGo2aGxqNUV2OW5TMzhtdFVGSktncFJkNFh0NmFlSUdJTTBTeUduVmtHWEsydw?oc=5",
+          "title": "\"AI 부정행위 막아라\"…대기업 채용 보안, 전담 TF로 확대될까",
+          "date": "2026-11-16"
+        },
+        {
+          "name": "조선일보",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZ0J3cjRKX19ueXlTZTgzYnhYUHJMVkhMRndYNWxWYjlrRThpTWNNUU9BcjR0ZGNLOFFtNmVTQ3dYRGFWa21BTFlNR1hsLWc4S21sSTV2Q3RzS3pSMmlHX2JEMENxT1RnajNiS3FrRXpfQU0zejVvZ3RjcXplTWx1bThaYw?oc=5",
+          "title": "“시험장에 EMP라도 터뜨려야 하나”…‘쌀알' 크기 이어폰부터 안경·펜·지우개가 커닝 도구로",
+          "date": "2026-11-16"
+        },
+        {
+          "name": "뉴시스",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5lTjhmSDc1THM1S1JhV0ZjMWZRdDl4dXRLNklEVVY3dlJGTGo0RDlPeUlrVUUzdnZJaVFQWmZNNU1PRF9oVFBnUFZyOVBNWmtxU3JDNkhkQm1CLTRGTG54dlJzaTFuRjhMdUhCandJdk9NTE1DeDFmZNIBeEFVX3lxTE5lTjhmSDc1THM1S1JhV0ZjMWZRdDl4dXRLNklEVVY3dlJGTGo0RDlPeUlrVUUzdnZJaVFQWmZNNU1PRF9oVFBnUFZyOVBNWmtxU3JDNkhkQm1CLTRGTG54dlJzaTFuRjhMdUhCandJdk9NTE1DeDFmZA?oc=5",
+          "title": "초소형 카메라에 뚫린 시험장…삼성·SK 'AI 커닝' 차단 고심",
+          "date": "2026-11-15"
+        }
+      ],
+      "date": "2026-11-16",
+      "id": "20261116-02"
+    },
+    {
+      "cat": "labor",
+      "importance": "high",
+      "company": "고용노동부",
+      "title": "정부, '가짜 3.3%' 위장 프리랜서 계약 기획감독 착수",
+      "body": "고용노동부가 실질적 근로자임에도 3.3% 사업소득세를 원천징수하는 위장 프리랜서 계약과 근로기준법 회피 목적의 사업장 쪼개기 의심 사업장 140곳에 대해 집중 감독을 개시했어요.",
+      "insight": "이커머스·물류 및 고객센터 도급 인력 등 비정규·용역 인력 운용 시 위장도급이나 오분류 리스크 점검이 시급해요.",
+      "action": "그룹 내 프리랜서 및 외주 도급 계약 인원의 실질 지휘·감독 여부를 사전 자체 점검해 보세요.",
+      "teams": [
+        "노무·ER",
+        "인사기획"
+      ],
+      "tags": [
+        "가짜3.3",
+        "위장도급",
+        "근로감독",
+        "노동법"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "용인신문",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9sUVZRMFY5RFZGalJkMV9OazRueDdVUk1jVDNmbEd0SGs4ZXdUTUZST3JiSGlYWS1ET3JaMWh4bFdYTVBVLXM3eUJTVFBIcFVudHJ4c2MyOHpSNWpLMnA4MTFDaVU?oc=5",
+          "title": "직원인데 프리랜서 계약? 정부, '가짜 3.3%' 사업장 잡는다",
+          "date": "2026-11-16"
+        },
+        {
+          "name": "아웃소싱타임스",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1lTXAwS0NOcUFhVE9UZzdJUzRsLWtsUUdHWVZQSDFYTEFIOTBHeXJnVnJKN3NCckhoSTJTNDdyUlFqZVZMeWpYaHpqX0hUb1NZT0gyTThtcFdLS0lONjRXMXdvUkNTbk03ajNQMzVBT0pkZw?oc=5",
+          "title": "[ 초점] '가짜 3.3' 기획감독 16일 착수…도급·파견 업계가 점검할 세 가지",
+          "date": "2026-11-16"
+        },
+        {
+          "name": "강소기업뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9nZUVlalhkcmoxQ1U5dmkzQ1NnM29JTzhkY0ZwaHI4NnQ0Z2JGS25mVFFnVUp2djNqYXd3QXluYVFvUG11QVJDeXFtSDVUM2M5SGFN?oc=5",
+          "title": "정부, ‘가짜 3.3 계약’·사업장 쪼개기 집중 단속…의심 사업장 140곳 감독",
+          "date": "2026-11-16"
+        },
+        {
+          "name": "서남투데이",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CeHFXLWZMRC1hWXFfYzJnc3lDUTZ4Sk9WNEJYYkV6LTFmRWNPYnpLc0xuS2l1Wkh4TVRVOGhqMWV6amY0U2lmR0RaN05VYWY3T0cteXdBbWQ1QQ?oc=5",
+          "title": "노동법 회피하는 `가짜 3.3` 위장고용·사업장 쪼개기 기획감독 착수",
+          "date": "2026-11-15"
+        }
+      ],
+      "date": "2026-11-16",
+      "id": "20261116-00"
+    },
+    {
+      "cat": "ecom",
+      "importance": "high",
+      "company": "넥슨",
+      "title": "넥슨, 던파 실적 둔화로 사업성 낮은 개발 프로젝트 6개 중단",
+      "body": "넥슨이 던전앤파이터 실적 둔화와 선택과 집중 기조에 따라 진행 중이던 비핵심 개발 프로젝트 6개를 전격 중단했어요.",
+      "insight": "정리되는 프로젝트 소속의 역량 있는 개발자, 기획자, PM 등 우수 IT 인력이 이직 시장에 대거 유입될 가능성이 높아요.",
+      "action": "넥슨 중단 프로젝트 출신 개발자 및 PM 인재 풀을 신속히 모니터링하고 다나와·메이크샵 채용 풀로 유입해 보세요.",
+      "teams": [
+        "채용",
+        "인사기획"
+      ],
+      "tags": [
+        "넥슨",
+        "프로젝트중단",
+        "게임IT",
+        "개발인력"
+      ],
+      "our_group": false,
+      "talent": {
+        "level": "high",
+        "signal": "개발 프로젝트 6개 중단 — 대규모 개발·기획 인력 이직 시장 유입"
+      },
+      "sources": [
+        {
+          "name": "Naver Blog",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQzVOOXVZbmRNWnJ4bERWMHA3UnlsbXhRZkxlLTRBbllyRndqZFlmY0FuU1VYWDBNZmx1aGYyTmRYR3Z4ak5acWJkN1R5YnA4Q0tqWE90RG5vVjg1R3dkNjF0THdPQjZFMjRtUjdzenVFRGVQNUtBcm5uQXB5d3dkU3dBaENBNktWQzZWREpZOA?oc=5",
+          "title": "넥슨, 던파 부진…사업성 낮은 개발 프로젝트 6개 중단 : 네이버 블로그",
+          "date": "2026-11-16"
+        }
+      ],
+      "date": "2026-11-16",
+      "id": "20261116-03"
+    },
+    {
+      "cat": "labor",
+      "importance": "mid",
+      "company": "고용노동부",
+      "title": "노사정, 퇴직연금 사외적립 의무화 및 기금화 입법 협력 가속",
+      "body": "노사정이 퇴직급여 사외적립 의무화와 기금형 퇴직연금 제도 확대를 위한 입법 단계 협력을 본격화하며 연착륙 방안을 논의했어요.",
+      "insight": "퇴직연금 제도의 법적 의무화 및 운용 방식 전환에 대비해 사내 퇴직연금 운용 구조 및 사외적립 비율 점검이 요구돼요.",
+      "action": "그룹사 전반의 퇴직연금 가입 현황과 사외적립률을 점검하고 법제화 로드맵에 맞춘 재무·보상 영향을 분석해 보세요.",
+      "teams": [
+        "보상·복리후생",
+        "노무·ER"
+      ],
+      "tags": [
+        "퇴직연금",
+        "사외적립",
+        "노사정",
+        "퇴직급여"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "고용노동부 보도자료",
+          "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=20257",
+          "title": "퇴직연금 기능강화, 노사정 합의정신을 입법단계에서도 이어 나가겠습니다.",
+          "date": "2026-11-16"
+        },
+        {
+          "name": "뉴시스",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8xTU1EZjJqQU5Rek1iQUV6TjdvaEFmeEVTYkhGMmJ1a1NNbGhlVW1kMXJYV1I2bjA1bnp6eTcyaWVCbUIxSE1RSUNUdlY1TWQtQURCY1RXNzVzZHk1YjkwTHVCV05kY2lhZWlTa1JyTGZ6bC1TeWEyetIBeEFVX3lxTE8xTU1EZjJqQU5Rek1iQUV6TjdvaEFmeEVTYkhGMmJ1a1NNbGhlVW1kMXJYV1I2bjA1bnp6eTcyaWVCbUIxSE1RSUNUdlY1TWQtQURCY1RXNzVzZHk1YjkwTHVCV05kY2lhZWlTa1JyTGZ6bC1TeWEyeg?oc=5",
+          "title": "\"퇴직급여 사외적립 의무화, 영세사업장 부담 고려해야\"",
+          "date": "2026-11-16"
+        },
+        {
+          "name": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5UNXI3dnZRY3FVT1dNU3FsbThGbXlubDl0UUpKRVhmdzI4SEFuQUx6cTlzRTF6eVcwMWhUemd3dDhjUC1HWldLNW9HeEZZTnNmX1QzZnlqSzJwNzVGZTdOaNIBYEFVX3lxTE5UNXI3dnZRY3FVT1dNU3FsbThGbXlubDl0UUpKRVhmdzI4SEFuQUx6cTlzRTF6eVcwMWhUemd3dDhjUC1HWldLNW9HeEZZTnNmX1QzZnlqSzJwNzVGZTdOaA?oc=5",
+          "title": "노사정, 퇴직연금 기능강화 입법 협력…영세사업장 연착륙 지원",
+          "date": "2026-11-16"
+        },
+        {
+          "name": "파이낸셜뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9KelRNbWp5eXFvZEN0UTZkYjRHTm5XekZVc2dtZzh1Y3FBenVvTVV6Q0FpZ3huT1BvRnVCRWFWYXRQTEpXaUNNUlJZa29MMk5ibjh1cWpvdDVGUQ?oc=5",
+          "title": "노사정, 퇴직연금 의무화·기금화 대책 후속 논의…\"영세업장·기금형 균형발전 지원을\"",
+          "date": "2026-11-16"
+        }
+      ],
+      "date": "2026-11-16",
+      "id": "20261116-05"
+    },
+    {
+      "cat": "labor",
+      "importance": "mid",
+      "company": "법원",
+      "title": "근무표 변경 반발해 임의 출근 거부한 근로자 직위해제 정당 판결",
+      "body": "법원은 사측의 합리적 업무상 필요에 의한 근무표 변경에 반발해 출근을 거부한 기관사에 대한 직위해제 조치가 정당하다고 판결했어요.",
+      "insight": "물류센터(몰테일 등) 교대근무제 및 업무 스케줄 조정 시 회사의 정당한 인사명령 범위와 절차적 정당성을 재확인한 판례예요.",
+      "action": "물류 및 고객지원 부서의 교대제 근무표 작성 및 변경 관련 규정과 통보 절차의 적법성을 확인해 보세요.",
+      "teams": [
+        "노무·ER",
+        "인사기획"
+      ],
+      "tags": [
+        "인사명령",
+        "근무표",
+        "직위해제",
+        "노동판례"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ON0x4dTZqQWEzY2xmaHVCXzJJOW5SdXJpMnpuMi1kbFM5eExpV2xETDRPbTV1Ni1vQ1B6U2h3VXo5Rk9jLVlZYThMQm40aHF0clRyUFVvYjZEdG5jUVdndtIBYEFVX3lxTE9ON0x4dTZqQWEzY2xmaHVCXzJJOW5SdXJpMnpuMi1kbFM5eExpV2xETDRPbTV1Ni1vQ1B6U2h3VXo5Rk9jLVlZYThMQm40aHF0clRyUFVvYjZEdG5jUVdndg?oc=5",
+          "title": "법원 \"근무표 바뀌자 출근거부한 기관사 직위해제 정당…직무 기본\"",
+          "date": "2026-11-16"
+        },
+        {
+          "name": "뉴시스",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5hNnBPcm92UnQxLTVzOFNWclN1ZlRZUjVWZVNhdEFBR0dyN1B3MnNOZG5rVUNaRlR0WFVaLXhKOThzZ0RYUGswbF9oZlVBTEphLWVMRHcxZHF3Tl9Jd0hYY9IBeEFVX3lxTE5meUNJTU9YcDZXNGFLaElwdlhZY29vVGVPeVNqckxWMlcxMmpQNUY1SENTSkMxZFdSWkt6cHpFaEl6SkJPaDdEbVlFVG12X3cwOEtmdUkxMEZGc0V3UXRGMEsyeEJtS1dXTGxaOFgyc3htZ2VBRHl5eg?oc=5",
+          "title": "근무표 바뀌자 3차례 출근 거부한 기관사…法 \"직위해제 정당\"",
+          "date": "2026-11-16"
+        },
+        {
+          "name": "뉴스1",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBJRzljTDF0TUx2dHBUX3plamluNXRBc2xXcnR1cWNaQzZwVElpLXB3VDhEQ2k1NUhSamdYMWRLeDZlQVdNMUN0Z2x3ZXpFaDA4Mnpad2gwODh6OEtFMWk4NU0xc1c?oc=5",
+          "title": "근무표 변경 반발해 이전 근무표대로 출근한 기관사…법원 \"직위해제 정당\"",
+          "date": "2026-11-16"
+        }
+      ],
+      "date": "2026-11-16",
+      "id": "20261116-06"
+    },
+    {
+      "cat": "ecom",
+      "importance": "mid",
+      "company": "아임웹",
+      "title": "아임웹, 플랫폼 체질 전환 위해 비즈니스·영업 인재 대거 채용",
+      "body": "웹 빌더 플랫폼 아임웹이 단순 쇼핑몰 구축을 넘어 '거래 촉진' 플랫폼으로 체질을 전환하며 대규모 비즈니스·영업 전문 인력 채용에 나섰어요.",
+      "insight": "메이크샵과 플레이오토의 경쟁사로서 셀러 솔루션 비즈니스 인재 확보 경쟁이 가열될 것으로 보여요.",
+      "action": "아임웹의 채용 공고와 처우 수준을 벤치마킹하여 메이크샵 핵심 비즈니스 인재의 리텐션을 강화해 보세요.",
+      "teams": [
+        "채용"
+      ],
+      "tags": [
+        "아임웹",
+        "메이크샵",
+        "셀러솔루션",
+        "경쟁사채용"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "동행일보",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ZVmdxRWx0bUFHNWlUeF9YQnhLS3pUY3pnM2pLbUY0b0Q0emgtTEhES25PRHJBLTBXeVFLaHdncnl3V0VNOXB0SjQ3ZG1tdms4MGxZc2VXaGRiaFhRZ1dtMzM5b2xGS2N2?oc=5",
+          "title": "아임웹, '거래 촉진' 플랫폼 체질 전환…영업·비즈니스 인력 대거 채용",
+          "date": "2026-11-16"
+        },
+        {
+          "name": "뉴스웍스",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBpODYzb2NVNHJRa3gzM2lISFVDQXk0NjdzbjBnY2plZnZsTEE5d193aUNXTEc0dWFYN1h6cG40R05CSWJ5ZGJVOS1idGRhbXR4N0l6a2p6THhoSXF1a0cwWHFhZHVmTVpPQmFyUTNSUdIBc0FVX3lxTFBvWEs1UmVyZGRGUUZkVGxrX0FzU21QSmhIUFhTaXhVZGhBaDdwUjhxRG5NRDBDR3ZkaEh4ek44Y0FLMDctWWpDV1owSVF3MGdKUno2b0h1X0FPUUhzR2JlanNPLTFkRXYtOUZFdVZEUU1ZOXc?oc=5",
+          "title": "[IT라운지] 딥브레인 'AI 휴먼 구현'·'AI 카페 에이전트' CBT·비글루 '숏드 페스티벌'·아이디어스 큰세일'·웹케시 '하나 통합 CMS 착수'·엘리스 '대통령상'·슈퍼브AI '부총리 표창'·\"베테랑 채용 급증\"·아임웹 '채용'·여기어때 '블랙위크'",
+          "date": "2026-11-16"
+        }
+      ],
+      "date": "2026-11-16",
+      "id": "20261116-04"
+    },
+    {
+      "cat": "trend",
+      "importance": "low",
+      "company": "업계 전반",
+      "title": "온라인 혐오 표현의 직장 내 전이, 임직원 갈등 관리 필요성 증대",
+      "body": "직장인 서베이 결과 64% 이상이 온라인 혐오 표현을 일상적으로 접하고 있으며, 이것이 직장 내 동료 관계와 조직 갈등으로 번지고 있는 것으로 나타났어요.",
+      "insight": "세대·성별 갈등이나 사내 메신저 내 혐오성 발언이 직장 내 괴롭힘 또는 조직 몰입 저해로 발전할 위험이 있어요.",
+      "action": "사내 커뮤니케이션 에티켓 가이드를 재정비하고 조직문화 차원의 상호 존중 캠페인을 기획해 보세요.",
+      "teams": [
+        "조직문화·HRD",
+        "인사기획"
+      ],
+      "tags": [
+        "조직문화",
+        "혐오표현",
+        "직장갈등",
+        "사내소통"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5kT2tqeTlkZDJfejJldXdwaVZLekRrLTA4eDRmZVF2MWlsdVQxWXJmdXRWeVdTN2FlTmR5cTBNd01uS2tjWlhwLUNxYUphbGZKUmVCYkZEb3dGMXdBTjNUctIBYEFVX3lxTE5kT2tqeTlkZDJfejJldXdwaVZLekRrLTA4eDRmZVF2MWlsdVQxWXJmdXRWeVdTN2FlTmR5cTBNd01uS2tjWlhwLUNxYUphbGZKUmVCYkZEb3dGMXdBTjNUcg?oc=5",
+          "title": "직장인 64.3% 온라인에서 혐오 표현 접해…직장생활에도 영향",
+          "date": "2026-11-15"
+        },
+        {
+          "name": "대전일보",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5BNGNlRDFpMUJ2UndSM0JmSEVhSWhZSEdBZVJIdml2RlJ4ckozbEFIVkRHbnJyLTF3MlBjR1VRUVJkdER1MUtwcm85d3pjeHZSdE9YUXQ2bmZlU2tBdUQ3N0U5STJOOERCY1cwVExrVV8zX03SAXNBVV95cUxOQTRjZUQxaTFCdlJ3UjNCZkhFYUloWUhHQWVSSHZpdkZSeHJKM2xBSFZER25yci0xdzJQY0dVUVFSZHREdTFLcHJvOXd6Y3h2UnRPWFF0Nm5mZVNrQXVENzdFOUkyTjhEQmNXMFRMa1VfM19N?oc=5",
+          "title": "직장인 10명 중 6명 '혐오 표현' 접해…직장생활 영향 有",
+          "date": "2026-11-15"
+        },
+        {
+          "name": "강원도민일보",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5HLTdhalJPYUlrT0FhbHE5cldpODdkWE83ZVMxYmZmRWlaZGNmdC1EQmFOVklYUlAtUEV0TU5KOFlYeTYwYWNkU2VxdTRhWHVxZHVLTEUtY0lLc19YbUdwVzRtN0doX0k5?oc=5",
+          "title": "직장인 10명 중 6명 “온라인 혐오 표현 접했다”…직장 내 갈등으로 번져",
+          "date": "2026-11-15"
+        },
+        {
+          "name": "프레시안",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE85Nk9zS2F6NUVqeTZaMW9kR0FuUzk1TnAwU3Bpd1pQWE0tN1pTcG9SS1pERTQtY1lEMlNFdzlpNGtQcGxtMWVHTUhKQ0o5Wl8xY3F2TU9tX3EwcTI0UmZIajJOUml6NEQ0Ml9F?oc=5",
+          "title": "직장인 10명 중 6명 온라인 혐오표현 접해…'여성혐오' 가장 많았다",
+          "date": "2026-11-15"
+        },
+        {
+          "name": "금강일보",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1VTjJEMmg4LWZvWW5iQmRVUzNQSVhCVnY4UjRUaGJSaDZCbGhpa3czWmVpcVBfaXNJY2NpdVZlUndXeHUxeFpxa0FaODk1bjBuNUZnN1FYUzZrQzdYU21WbW13VnpSb21VVVE?oc=5",
+          "title": "직장인 64% “온라인 혐오 표현 경험”…동료 관계에도 영향",
+          "date": "2026-11-15"
+        }
+      ],
+      "date": "2026-11-15",
+      "id": "20261116-07"
+    }
+  ]
+}

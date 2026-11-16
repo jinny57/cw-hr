@@ -6,121 +6,277 @@
    "start": "2026-11-09",
    "end": "2026-11-15",
    "days": [
-    "2026-11-11"
+    "2026-11-11",
+    "2026-11-12",
+    "2026-11-13",
+    "2026-11-14",
+    "2026-11-15"
    ],
-   "manual": true,
-   "headline": "감원은 넓게, AI 채용은 좁고 깊게",
-   "emph": "AI 채용",
-   "lede": "캔바·스퀘어스페이스가 20% 안팎을 줄인 주. 반대편에선 FDE·Applied AI 포지션이 늘고, 국내 기업은 코딩테스트 대신 AI 활용 역량을 보기 시작했어요.",
+   "coverage": [
+    "2026-11-09",
+    "2026-11-15"
+   ],
+   "final": true,
+   "headline": "보안·PM 뜨고 단순개발 지고",
+   "emph": "보안·PM",
+   "lede": "글로벌 테크 감원이 20만 명을 넘어선 가운데 AI 직무 재편이 빨라지고 있어요. 단순 코딩 대신 보안과 PM 직무가 뜨고, 전 직군에 AI 역량이 필수가 됐어요.",
    "tags": [
-    "감원",
-    "AI 엔지니어",
-    "신입 채용",
-    "국내 동향"
+    "AI직무변화",
+    "테크감원",
+    "코테폐지",
+    "FDE"
    ],
    "numbers": [
     {
-     "value": "20.5만",
-     "label": "올해 테크 감원 영향 인원",
-     "note": "TrueUp 누적, 11월 초 기준",
-     "dir": "down"
-    },
-    {
-     "value": "-4.2%",
-     "label": "미국 정보 업종 고용, 1년 전 대비",
-     "note": "미 노동통계국 10월 고용보고서",
+     "value": "20.6만",
+     "label": "올해 글로벌 테크 누적 감원 인원",
+     "note": "2026년 글로벌 테크 기업 누적 집계",
      "dir": "down"
     },
     {
      "value": "13.8배",
-     "label": "국내 FDE 채용 공고 낸 기업 수",
-     "note": "원티드랩, 1~9월 전년 대비",
+     "label": "국내 FDE 채용 공고 기업 수 증가",
+     "note": "1~9월 전년 동기 대비 공고 기업 수",
+     "dir": "up"
+    },
+    {
+     "value": "63%",
+     "label": "프론트엔드 직무 내 AI 요구 비율",
+     "note": "빅테크 프론트엔드·모바일 공고 분석",
      "dir": "up"
     }
    ],
-   "numbers_note": "감원 누적치는 집계 기관마다 12만~24만 명으로 차이가 커요",
+   "numbers_note": "인력 감축 속 AI 현장 배포 엔지니어 수요는 폭증했어요.",
    "layoffs": [
+    {
+     "company": "Microsoft",
+     "badge": "25%",
+     "note": "6만 명 희망퇴직 및 구조조정 진행"
+    },
     {
      "company": "Canva",
      "badge": "-22%",
-     "note": "1,271명, 제품·그로스·플랫폼 조직 통합"
+     "note": "1,271명 감원, 제품 조직 통합"
     },
     {
      "company": "Squarespace",
      "badge": "-19%",
-     "note": "약 300명, 운영 방식 재정비"
+     "note": "약 300명 감원, 웹빌더 연쇄 구조조정"
     },
     {
-     "company": "Heidi Health",
-     "badge": "-18%",
-     "note": "108명, AI 의료 기록 스타트업"
-    },
-    {
-     "company": "Block",
-     "badge": "2차",
-     "note": "올해 4천 명 감원에 이어 추가 감원"
+     "company": "Qualcomm",
+     "badge": "감원",
+     "note": "인도 지사 엔지니어링 1,500명 해고"
     },
     {
      "company": "Google",
      "badge": "자발적 퇴직",
-     "note": "MS·오라클에 이어 퇴직 패키지 제시"
+     "note": "MS·오라클 이어 퇴직 패키지 확산"
     },
     {
-     "company": "ServiceNow",
-     "badge": "추가",
-     "note": "주가 급락 이후 추가 감원"
+     "company": "SpaceX",
+     "badge": "감원",
+     "note": "Grok 이미지·비디오 유닛 60명 감원"
     }
    ],
-   "layoffs_note": "웹빌더·SaaS(캔바, 스퀘어스페이스) 감원이 연달아 나왔어요",
+   "layoffs_note": "AI 인프라 재원 마련을 위해 기존 인력 효율화가 빨라져요.",
    "roles": {
     "up": [
-     "Applied AI · AI 평가(Evals) 엔지니어",
-     "FDE(현장 배치형 AI 엔지니어)",
-     "시니어·스태프급 IC 개발자",
-     "AI 프로덕트 오너 / AI PM"
+     "보안 (+0.5%p)",
+     "PM·TPM (+0.2%p)",
+     "AI 연구 (+0.2%p)",
+     "인프라·SRE·클라우드 (+0.2%p)"
     ],
     "down": [
-     "신입 개발자",
-     "정보·금융 업종 일반 직무",
-     "스타트업 비개발 지원 직무(HR·마케팅·운영)"
+     "제조·물류·현장 (-0.5%p)",
+     "재무·법무·전략 (-0.3%p)",
+     "디자인·UX (-0.2%p)"
     ]
    },
-   "roles_note": "AI 채용 상위 기업이 Databricks, Anthropic 같은 제품 회사로 옮겨갔고, 중국 AI 기업은 실리콘밸리 연구자에게 높은 처우를 제시하고 있어요.",
+   "roles_note": "AI 모델 보호를 위한 보안과 사업화를 리드할 PM 수요가 뚜렷이 늘었어요.",
+   "jobs": {
+    "from": "2026-11-11",
+    "to": "2026-11-15",
+    "compared": true,
+    "total": 25202,
+    "companies": 18,
+    "up": [
+     {
+      "id": "security",
+      "name": "보안",
+      "n": 656,
+      "d": 2,
+      "pp": 0.5
+     },
+     {
+      "id": "product",
+      "name": "PM·TPM",
+      "n": 1626,
+      "d": 21,
+      "pp": 0.2
+     },
+     {
+      "id": "ai_research",
+      "name": "AI 연구",
+      "n": 465,
+      "d": 4,
+      "pp": 0.2
+     },
+     {
+      "id": "infra",
+      "name": "인프라·SRE·클라우드",
+      "n": 1157,
+      "d": 0,
+      "pp": 0.2
+     }
+    ],
+    "down": [
+     {
+      "id": "field",
+      "name": "제조·물류·현장",
+      "n": 3732,
+      "d": -40,
+      "pp": -0.5
+     },
+     {
+      "id": "ops_corp",
+      "name": "재무·법무·전략",
+      "n": 1400,
+      "d": -37,
+      "pp": -0.3
+     },
+     {
+      "id": "fde",
+      "name": "FDE·AI 도입 엔지니어",
+      "n": 528,
+      "d": -9,
+      "pp": -0.2
+     },
+     {
+      "id": "design",
+      "name": "디자인·UX",
+      "n": 269,
+      "d": -9,
+      "pp": -0.2
+     }
+    ],
+    "new_titles": [
+     {
+      "title": "Workplace Health & Safety (WHS) Specialist, WHS Field",
+      "family": "기타",
+      "companies": [
+       "Amazon"
+      ]
+     },
+     {
+      "title": "AI Seller Experience Manager, Seller Compliance",
+      "family": "영업·마케팅·고객",
+      "companies": [
+       "Amazon"
+      ]
+     },
+     {
+      "title": "Sr. WW Field Activation Lead, Applied AI Solutions GTM",
+      "family": "영업·마케팅·고객",
+      "companies": [
+       "Amazon"
+      ]
+     },
+     {
+      "title": "AI Enablement & Operations Specialist, Amazon Shipping",
+      "family": "제조·물류·현장",
+      "companies": [
+       "Amazon"
+      ]
+     },
+     {
+      "title": "Transportation Operations Manager TAI (Technology Automation Integration), Technology Automation Integration",
+      "family": "제조·물류·현장",
+      "companies": [
+       "Amazon"
+      ]
+     },
+     {
+      "title": "Group Narrative Technical Solutions, Google Cloud AI",
+      "family": "ML 엔지니어·ML 인프라",
+      "companies": [
+       "Google"
+      ]
+     }
+    ],
+    "new_count": 61,
+    "ai_creep": [
+     {
+      "id": "mobile_fe",
+      "name": "프론트엔드·모바일",
+      "rate": 63,
+      "delta": 3
+     },
+     {
+      "id": "gtm",
+      "name": "영업·마케팅·고객",
+      "rate": 55,
+      "delta": 0
+     },
+     {
+      "id": "design",
+      "name": "디자인·UX",
+      "rate": 52,
+      "delta": 0
+     },
+     {
+      "id": "security",
+      "name": "보안",
+      "rate": 50,
+      "delta": 0
+     },
+     {
+      "id": "product",
+      "name": "PM·TPM",
+      "rate": 48,
+      "delta": 0
+     }
+    ],
+    "ai_share": 13.7,
+    "ai_share_delta": -0.1
+   },
+   "new_titles_note": "아마존과 구글은 AI 현장 적용과 운영을 맡을 특화 직무를 신설했어요.",
+   "ai_note": "프론트엔드(63%)와 GTM(55%) 등 일반 직무에도 AI 요구가 스며들고 있어요.",
    "korea": [
     {
+     "company": "넥슨·무신사",
+     "note": "신입 평가서 코딩테스트를 폐지하고 AI 활용 역량 검증으로 전환했어요."
+    },
+    {
      "company": "크래프톤",
-     "note": "AI 활용 역량 인재 100명+ 채용연계형 인턴, 자체 AI 역량평가"
+     "note": "자체 AI 역량평가 도구를 도입해 100명 이상 채용형 인턴십을 진행해요."
     },
     {
-     "company": "넥슨",
-     "note": "채용형 인턴 코딩테스트 폐지, AI 활용 역량평가로 대체"
+     "company": "엔터프라이즈",
+     "note": "AI를 고객 현장에 즉시 안착시키는 FDE 채용 기업이 13.8배 늘었어요."
     },
     {
-     "company": "무신사",
-     "note": "신입 과제에서 코드와 설계 문서, AI 지시 내용까지 평가"
+     "company": "BBQ·CJ·신세계",
+     "note": "유통 대기업들이 파격 처우를 내걸고 테크 기업 AI 인재를 흡수하고 있어요."
     },
     {
-     "company": "SK하이닉스",
-     "note": "AI 해커톤 본선(11/11), 우수자 서류·필기 면제"
-    },
-    {
-     "company": "원티드",
-     "note": "FDE 채용 급증에 맞춰 직무 전환 아카데미 준비"
+     "company": "청년 고용",
+     "note": "즉시 전력 경력직 선호로 청년 취업자 중 비정규직 비중이 46%에 달했어요."
     }
    ],
-   "korea_note": "신입에게도 'AI 결과물을 검증하는 능력'을 요구해요",
+   "korea_note": "국내 채용도 단순 지식 평가에서 'AI 도구 활용 검증'으로 급변했어요.",
    "actions": [
     {
-     "title": "개발 JD에 AI 활용·검증 역량 넣기",
-     "detail": "요건·우대사항에 명시하고, 과제 전형에서 AI 사용 과정을 함께 보는 방식 검토"
+     "title": "개발 채용 코테 평가 개편 검토",
+     "detail": "다나와·메이크샵 개발 채용 시 코딩테스트 대신 AI 도구 활용 능력과 문제 해결력을 평가하는 방식을 검토해요."
     },
     {
-     "title": "웹빌더·SaaS 감원 인력 소싱",
-     "detail": "캔바·스퀘어스페이스·윅스 출신 국내 지사·한국계 인재를 커머스 플랫폼 포지션 후보 풀로"
+     "title": "커머스 FDE 역할 정의 및 영입",
+     "detail": "플레이오토 셀러 솔루션과 몰테일 물류에 AI를 직접 적용하고 안착시킬 고객 접점형 FDE 포지션을 신설해요."
     },
     {
-     "title": "AI 시니어 리드타임 재점검",
-     "detail": "글로벌 처우 경쟁이 커지는 구간이라 처우 밴드와 오픈 기간을 여유 있게"
+     "title": "비개발 직군 AI 활용 교육 연계",
+     "detail": "프론트엔드와 마케팅 직군 등 전 직무 공고에 AI 툴 활용 자격을 반영하고 실무 적응 온보딩을 강화해요."
     }
    ],
    "sources": [
@@ -129,48 +285,6 @@
      "url": "https://www.trueup.io/layoffs",
      "title": "Tech Layoffs Tracker 2026",
      "date": "2026-11-10"
-    },
-    {
-     "name": "InformationWeek",
-     "url": "https://www.informationweek.com/it-staffing-careers/2026-tech-company-layoffs",
-     "title": "2026 tech company layoffs",
-     "date": "2026-11-04"
-    },
-    {
-     "name": "Quartz",
-     "url": "https://qz.com/tech-layoffs-2026-share-of-workforce-yahoo-tech",
-     "title": "25% to 10%: how 18 tech companies cut their 2026 workforces",
-     "date": "2026-11-05"
-    },
-    {
-     "name": "24/7 Wall St.",
-     "url": "https://247wallst.com/investing/2026/11/05/google-joins-the-surge-of-tech-layoffs/",
-     "title": "Google Joins The Surge Of Tech Layoffs",
-     "date": "2026-11-05"
-    },
-    {
-     "name": "FourWeekMBA",
-     "url": "https://fourweekmba.com/ai-payrolls-rose-165000-information-jobs-fell-4-2-in-a-year/",
-     "title": "Payrolls Rose 165,000; Information Jobs Fell 4.2% in a Year",
-     "date": "2026-11-06"
-    },
-    {
-     "name": "DEV Community",
-     "url": "https://dev.to/siftwright_data/whos-hiring-this-week-only-1-in-4-new-tech-jobs-is-remote-and-ai-hiring-shifts-back-to-product-2656",
-     "title": "Who's hiring this week (Nov 2-8, 2026)",
-     "date": "2026-11-09"
-    },
-    {
-     "name": "Rest of World",
-     "url": "https://restofworld.org/2026/chinese-ai-labs-hire-silicon-valley-engineers-openai-anthropic/",
-     "title": "Chinese AI firms want Silicon Valley's top minds",
-     "date": "2026-11-09"
-    },
-    {
-     "name": "한국경제",
-     "url": "https://www.hankyung.com/article/202610264345i",
-     "title": "AI 때문에 일자리 뺏긴다더니…기업들 14배 더 찾은 인재",
-     "date": "2026-10-26"
     },
     {
      "name": "파이낸셜뉴스",
@@ -183,15 +297,52 @@
      "url": "https://m.news.nate.com/view/20261110n00342",
      "title": "신입 개발자에게도 경력자 수준 AI 능력 요구",
      "date": "2026-11-10"
+    },
+    {
+     "name": "한국경제",
+     "url": "https://www.hankyung.com/article/202610264345i",
+     "title": "AI 때문에 일자리 뺏긴다더니…기업들 14배 더 찾은 인재",
+     "date": "2026-10-26"
+    },
+    {
+     "name": "The Times of India",
+     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPZmtjVTFRV3l5OGxLcFJkNnE2Qmk0dl9LYzlxXzd3TER5eGhaWU1KT2VsNWJFQV9qQU1xaWFnaXFTUnVWUGZORlVTTkRVNHRTbGlLWGlsNGg1ZTN1cXAxM1NLbDNCeHFmVXZBQWlPYlNPWTRPbGFpRkJjTXI2cldvWHRqUm5FNWxBOTRVak55UWpOelc2aHh0N0FZVkJrdjFuX1lUMG1MZjZQdHI0cklhOGYzbXVQSzdlOGZuOEt4Wm5HZjBwU2p1eDczdlJqZ1BBLU5GN3JOUk5FQzk5blHSAeMBQVVfeXFMUFdiRVhEdV9TVFJ2TDRBN1JuOXpSU2I4WTFkY0QtYy1wVzhVdGFPaU1UTmM1bzQ3YXRXaWlrV1lSRUl2U2hfb2QwX1VFM0FETmlQQTZ5LUhFUW9qeUNJcWtWRnQ5NDNIQ2VMTnFldmRjZWtmWW5ZLXBsdDIwWW1HdVY0QkQxT2VvMWZHeDVORklxMFYyWWNORGhpc19yRXZobVVfZXJlOE5yYXNuZFZKcFRERzNCOURvMmtxUmRlUXloR09KYjF0QkpFb3BVQzBJTE83ZDFkc1djMHVsbUk4d2FTVmc?oc=5",
+     "title": "Qualcomm layoffs 1,500 employees in India amid restructuring",
+     "date": "2026-11-12"
+    },
+    {
+     "name": "Newsweek",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9qTUdhb2gyX1ZOZnVTWk5QQWtESTJLR3N6U0I2bG9TVnhmUUp1R09pTHJ2TFdIYm1mOTFIb2stQ0RsZXFrMmdERVlSTkRUb1NiVmpMemNwRUxRcFhWY2Rzc0FUanhJRHJQZ1RNQ0JqamoyRURwMVp6SkpSTjc0dw?oc=5",
+     "title": "Microsoft’s Self-Inflicted Outage Follows Plan to Cut Quarter of Workforce",
+     "date": "2026-11-13"
+    },
+    {
+     "name": "FourWeekMBA",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPb0lOX2RUM3JlNjlCbW5EYl9SSG1Zb2liVC1DazRoYWQxLXhYb1MwbkVJTFJlQm04a3ctakJGSVRTVVNxcUo1b0pBNFJtc0kzM2JpMk9CVUJDLTczd3haakVvdlUxSlEwVURWWnZPcTNsQzBBQ1JpVFhTemc2SHBDb2ZlZVBCLThPWkd3?oc=5",
+     "title": "Anthropic’s AI Scientist Push: Researcher Pay Tops $850,000",
+     "date": "2026-11-14"
+    },
+    {
+     "name": "Fortune",
+     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZHlXWmNFVXRTcnRvT3hkTkdxdTBKWF9FVGZQaWVxdjNPT1hpa1BvaUVEckRfMEUwY0NZa3JSWlUtelBoWTFidk5hN1RSLWFHdmNQQlBBbjR3ODVFRnZmcFlaMEkxb1ljbHhzaUpVV3lpeW1KR0VTRHlBa1poU2diRTNpTElQdHhpSFlTUFpQeEZWSDJzRzVlRXVBdkwxV1VGODlrX3BxcHZtTjhSWGJOZDlmYjRoSE5BUUMtQWZxR0xvUXJmTXgxeFk1cWE3YnBiOVRCcjdR?oc=5",
+     "title": "The hottest job in AI right now may be counterintelligence as companies hire to protect secrets",
+     "date": "2026-11-15"
+    },
+    {
+     "name": "Hoodline",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQ05kNTA1cGJsNUZaR3dad1ZtZ0NYYk4xSm5DeHJCYzBwXzhxRHd1cWlnNjZTTWtHNkFmdmlKRl8zYlRmb3BTX2ZjVlZnUzVId1FWX1BBYjcxNURXQWx2di1jWEdnd2NhWTRHcWtOVk81aWR6cFNuOVRvMHVNbmdhWm52U1lLN05yQ2RiQVlodGZGUF9IYURudldyUGk5VUFKek8wdU1n?oc=5",
+     "title": "AI Writes 90% of This Firm's Code, Yet It Still Can't Hire Enough Engineers",
+     "date": "2026-11-16"
+    },
+    {
+     "name": "InformationWeek",
+     "url": "https://www.informationweek.com/it-staffing-careers/2026-tech-company-layoffs",
+     "title": "2026 tech company layoffs",
+     "date": "2026-11-04"
     }
    ],
-   "engine": "수동 작성(첫 호)",
-   "created": "2026-11-11T11:40",
-   "coverage": [
-    "2026-11-03",
-    "2026-11-11"
-   ],
-   "final": false
+   "engine": "gemini-3.8-flash",
+   "created": "2026-11-16T11:13+09:00"
   }
  ]
 }
