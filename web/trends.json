@@ -1,8 +1,493 @@
 {
  "meta": {
-  "updated": "2026-11-17T01:18+09:00"
+  "updated": "2026-11-18T01:26+09:00"
  },
  "reports": [
+  {
+   "date": "2026-11-18",
+   "article_count": 146,
+   "engine": "gemini-3-flash-preview",
+   "headline": "AI가 재편하는 테크 채용 시장, 감원과 전문직 수요의 공존",
+   "summary": [
+    "마이크로소프트·디즈니 등 빅테크 중심의 대규모 감원 및 자발적 퇴직 프로그램 확산",
+    "AI 기술 고도화에 따라 단순 코딩보다 검증 및 판단 능력을 갖춘 전문 인력 수요 급증",
+    "국내외 외국인 채용 및 비자 규제 변화로 인한 글로벌 인재 소싱 환경의 불확실성 증대"
+   ],
+   "numbers": [
+    {
+     "value": "60,000명",
+     "label": "Microsoft 자발적 퇴직 제안 대상 규모",
+     "dir": "down",
+     "sources": [
+      {
+       "name": "The Times of India",
+       "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxNVW0wQ1k1dmt2aXd2U0xPRjUzRVlGeldYbXdqc2ZQb1FaNl9lWUZqblpyTUFwU1cxN3c0alNmTkRKM29tQWFRVnZVZ1pkNHYxV3l5b0lHMXg4QkFWaWJFclhrMTJKM2ktMlFwUEZZTllUSlg1TjdJT1BNcFRfa3BpbXV5bWxBcjMwRmpTY01QQVdLanYxTWRKSDZuM0tYeWRidUotTkw1c09pS2ROZWFzZzBsYmJxRmFhSWF5ZVY3NE50NmFVSUNnLVFBcjBwMDJZRnAxQmlRblhkQ2JVYWNtQmtEYTZVay13SmtfVFBRcmtkcTVGTk1rM1BVMWxFWWJCdG1ZRENBbGxnTm5PVzNQaC1qX3MxX1h5VXlpU2Nid0hIMWtBMDA5dVFnZ3pZM3BsbW5BTVhR0gG7AkFVX3lxTE44bzk4ZHlGT3Q1YWZKUFExRXprNVJ1V19KdXRmYzBnQTFDNWJtLTJnZDB0VHdub3N6M3ZtTDlRR2FEV1l4VUpibGhwa2pQN0RTaGljcmVKeUJ4UC1ySmVZRTctOTUyZmNpYnJ5ZUtZN0xqOVJib1lDTTMtUHV1R0I3d2ZtSWV6cVdJay1PSHY1enBnenZQNmtPZHAzSE5rZzhWaG5iQm0ydkVfajFPdFRPY0RlanB2TTU0RnRXemxKX2pnNkpKZWZJY1drT0JYTzhuQXpTTUdVZ0dWQUxncmJkOFhiZWF5TjVId2FJT0g3Qk1uVm1BbmJqa0oydEJSM0QxbHhwQkMwZ2pwdUFOYXI5WG9kanRWeGZ0alo3U2dVRnVWb2duTi04aTA4bTBGSm51SDEyQlZTMnpucw?oc=5",
+       "title": "After Microsoft offers buyouts to 60,000 employees, CEO Satya Nadella explains the decision; says: I wish",
+       "date": "2026-11-17"
+      },
+      {
+       "name": "LinkedIn",
+       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUFJQSnZWaF82YkNqVnNUUzVaWEw3bG9EYTFuOUNiVjB0VzJ5QTZaMUR5bVRyWnJ6SUhnWTNUeW5rYnRjdldyT1NBV0hlV19VYVNyeXItY3A0eXo4UTRfYjN3eFg2MS12SjhXM01Dd1dBM1g2X0lpaEx5dzZNRkY4MVJWcHgwcU16bEJjMFZjZjB6SHRWeGZ6V2x5SGJ3N0VPQnM0NW1vaGVTZw?oc=5",
+       "title": "Late last month, some 60,000 Microsoft employees were presented with a choice that could transform the trajectory of their careers: accept a buyout offer or remain at their jobs. Microsoft has said it expects fewer than 5% of eligible employees to accept the volu",
+       "date": "2026-11-17"
+      }
+     ]
+    },
+    {
+     "value": "135,000명",
+     "label": "2026년 테크 업계 누적 감원 인원",
+     "dir": "down",
+     "sources": [
+      {
+       "name": "Techloy",
+       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBmVnEzXzJYWUxzZFpiR2NmUnZNMTVnZlhEN2lxb1NUeXhjWHFoa1UyMVA1WUFTa1ZkeE1qZFhubEZXYV9Vd05KVDFRUmFyNFBKYng5MWppcHpicnI2T0ppbmZHNGt3U1pCcVJUb1d0cEhJbkRY?oc=5",
+       "title": "Tech Layoffs 2026: What the 135,000 Tracker Total Counts",
+       "date": "2026-11-17"
+      }
+     ]
+    },
+    {
+     "value": "15,700개",
+     "label": "싱가포르 향후 5년 내 창출 예정 일자리",
+     "dir": "up",
+     "sources": [
+      {
+       "name": "Singapore Economic Development Board (EDB)",
+       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQd2MweTBVUUNTbDNydDl2NEFITngtRE5faTRzakM0a0RqZWl1eF9kM2dWVnoxdDJMNHh5bkFIZ0p6c01DSktZYkVha2cydlMyUVpBc3FOQ05tMkhPRUtERmpXR2luVlBfN2ZnMl9lekVZWm1oaWdId2Nla3VNWV9aRjB3eFVSLTNTMmpQdVZHcjAtNE5GQ21WOTFqNWMycGZIbG5TbmJJQWdVbUlWNTdWSzhFZ3k5RHI5dDZaQU03VjRjaHg2c3hmWQ?oc=5",
+       "title": "Singapore to create 15,700 jobs over five years, with two-thirds paying above S$5,000: EDB",
+       "date": "2026-11-17"
+      }
+     ]
+    }
+   ],
+   "layoffs": [
+    {
+     "company": "Microsoft",
+     "kind": "자발적 퇴직",
+     "size": "60,000명",
+     "pct": "null",
+     "note": "엔지니어 대상 첫 자발적 퇴직 제안, AI 시대 커리어 유연성 강조",
+     "sources": [
+      {
+       "name": "The Times of India",
+       "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxNVW0wQ1k1dmt2aXd2U0xPRjUzRVlGeldYbXdqc2ZQb1FaNl9lWUZqblpyTUFwU1cxN3c0alNmTkRKM29tQWFRVnZVZ1pkNHYxV3l5b0lHMXg4QkFWaWJFclhrMTJKM2ktMlFwUEZZTllUSlg1TjdJT1BNcFRfa3BpbXV5bWxBcjMwRmpTY01QQVdLanYxTWRKSDZuM0tYeWRidUotTkw1c09pS2ROZWFzZzBsYmJxRmFhSWF5ZVY3NE50NmFVSUNnLVFBcjBwMDJZRnAxQmlRblhkQ2JVYWNtQmtEYTZVay13SmtfVFBRcmtkcTVGTk1rM1BVMWxFWWJCdG1ZRENBbGxnTm5PVzNQaC1qX3MxX1h5VXlpU2Nid0hIMWtBMDA5dVFnZ3pZM3BsbW5BTVhR0gG7AkFVX3lxTE44bzk4ZHlGT3Q1YWZKUFExRXprNVJ1V19KdXRmYzBnQTFDNWJtLTJnZDB0VHdub3N6M3ZtTDlRR2FEV1l4VUpibGhwa2pQN0RTaGljcmVKeUJ4UC1ySmVZRTctOTUyZmNpYnJ5ZUtZN0xqOVJib1lDTTMtUHV1R0I3d2ZtSWV6cVdJay1PSHY1enBnenZQNmtPZHAzSE5rZzhWaG5iQm0ydkVfajFPdFRPY0RlanB2TTU0RnRXemxKX2pnNkpKZWZJY1drT0JYTzhuQXpTTUdVZ0dWQUxncmJkOFhiZWF5TjVId2FJT0g3Qk1uVm1BbmJqa0oydEJSM0QxbHhwQkMwZ2pwdUFOYXI5WG9kanRWeGZ0alo3U2dVRnVWb2duTi04aTA4bTBGSm51SDEyQlZTMnpucw?oc=5",
+       "title": "After Microsoft offers buyouts to 60,000 employees, CEO Satya Nadella explains the decision; says: I wish",
+       "date": "2026-11-17"
+      },
+      {
+       "name": "AOL.com",
+       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObnZuZUVxUjd1TWFzMGVHSFhCVkp6VjVGRlRQWTZKWV9yLTE0WHRQQWNhNURwS244LVMyZ0RGMUF1Z2xQNEs1UVFRNU82anN3U1BOVHJyVEtVQmRlSmlCbGVaanVMY29XZGVRS2VoV3NKU2dQMzIyMWp6RndLaElYWnJDQWFXVUZ2M2c?oc=5",
+       "title": "Microsoft Is Making Voluntary Exit Offers to Engineers for the First Time",
+       "date": "2026-11-17"
+      }
+     ]
+    },
+    {
+     "company": "Disney",
+     "kind": "감원",
+     "size": "미정",
+     "pct": "null",
+     "note": "비용 절감 프로그램의 일환으로 추가 감원 예고",
+     "sources": [
+      {
+       "name": "Fast Company",
+       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMkdrYlBmb2hZYVZoUGZOcUtNQnAwbmhoMk9EWU53VVduZ0VvdGV1WVZjbkdjRVpHWjI4WTJpeGMtWWhIOVZpdndoWmU2NC1RMGNiSmVWM2FUdTBnMUFzMU5sSDRXaEFFYnprUWU5UXhvY09ucDVtMS1SblhqWTRTVUI1dTVnamFMNEVfTVg3RHhvWU1pOXEwV3puYw?oc=5",
+       "title": "Disney says more layoffs are on the way as company announces double-digit Q4 revenue growth",
+       "date": "2026-11-17"
+      },
+      {
+       "name": "Business Insider",
+       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNEx1ZTAwX0F5bUotSzNiVVVtRThEbmRCcWVBNV8wNWRweXZvU2Y1TloyQjMtNDBYT3pUcXNzT2ZMXzVONG43TkJScGRsZlVsczVlQlpPcURsR0p6TFNHSWVyc2wwZnFSV0hsVVVzc2Jzc2ozS3J1eXlwQVZrdzc5OWp6Smt0NmI3R0pBSDVabDFELXRNWC1EZ1dFZWJpMXRLUjRzMkQ1cU8?oc=5",
+       "title": "Disney is planning more layoffs under CEO Josh D'Amaro's cost-cutting program",
+       "date": "2026-11-17"
+      }
+     ]
+    },
+    {
+     "company": "Canva",
+     "kind": "감원",
+     "size": "미정",
+     "pct": "null",
+     "note": "창사 이래 첫 대규모 감원 징후 포착",
+     "sources": [
+      {
+       "name": "1 Smart Business Story",
+       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQnFRQS13R1Ytd3dGVURDdnVrRXptYkN5N05TbENvSDFmVnRjWEhwcDh0Tm5XUGZLdGhXZGpuMWFJQmRPRUxLVEZLM3FiS3JJaXRZTzJFUnNYQU5IR2ZHRzBGY3VhcHlOdEZESXpsdlF6ZUF5U3FuSkY0UlVtSWNKeHVSSXdGNjRfd2RmaGtfb1lZV1FvQ3VSQWhLOWN4amNaMjdUNEpwNkxhVGhxM1pORFNn?oc=5",
+       "title": "Canva Showed Signs of Trouble Before Its First-Ever Mass Layoff",
+       "date": "2026-11-17"
+      }
+     ]
+    },
+    {
+     "company": "Bunnings",
+     "kind": "감원",
+     "size": "350명",
+     "pct": "null",
+     "note": "AI 오버홀 및 업무 외주화(TCS)에 따른 기술직 감원",
+     "sources": [
+      {
+       "name": "BigGo Finance",
+       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9uaHNfZUw2eWwydHY5ZlJNRkVJeXlNMnd3TG5RSmprRk81UlRZSTFTbXVtMEZvQWVER0xwN3hIQVFmRGUxLTF2cFJBd1k5aTVDSWxZN1hkck83bnJER2pueVR4ei12Z2NIcTNZUEdpV0J3Zkg5Y0E?oc=5",
+       "title": "Bunnings Cuts 350 Tech Jobs, Hands Work to Tata Consultancy Services",
+       "date": "2026-11-17"
+      },
+      {
+       "name": "The Australian",
+       "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOaExEWXlOYWQ1eEk5Sk9uMEpuOEV5b2V3dUpMeTZkTkFqWUo3cEVnaV9nQWtsVERMazgzTUhaWkFyN19XSVY1Rk9kSDdVamFRT09qRm01dWt1NE1LNDJVZ21iSmdxekpwZTQwSlFTaS1uMnlQS2ZfUEptUk9TWUZJczFlTWJmY3JqUmxrUU5kdWVia040UFoxYVRna0ZuU2VOZkE4ZXdGc1ZSckJoMW1CODhMRkRIVDJRSWQ3OTg1cjd0em4tcXN3UEFqYTBfUGtlREJBdHo4OG16UXFqU2VvRm9pcTNDRHF4cmNSbVowTXV2V284OUpTYw?oc=5",
+       "title": "Bunnings cuts 350 tech jobs in major AI overhaul",
+       "date": "2026-11-17"
+      }
+     ]
+    }
+   ],
+   "hiring": [
+    {
+     "company": "OpenAI",
+     "role": "Engineers",
+     "note": "ChatGPT 내 여행 기능 구축을 위한 엔지니어 채용 진행",
+     "sources": [
+      {
+       "name": "Skift",
+       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdzVzVk9NY1U4X2hWWHBvNFNIWjJjTEs3cVdoMk5maFNxWkFwYW41Wnd5YXdOS3A1a1dlMVY5WDRpSzIxV2djZU5LZjVVeko3Qk1WZTdTRDdEQ3RWb1V4bEZYMUM4TnJLQlZYLVFNbVZmVVd2Y2g5a3VUWGR2Z3BBUlpZZHYybUYzdUhrWGVB?oc=5",
+       "title": "OpenAI Is Hiring Engineers to Build Travel Into ChatGPT",
+       "date": "2026-11-17"
+      }
+     ]
+    },
+    {
+     "company": "Apple & Google",
+     "role": "Senior Roles",
+     "note": "스테이블코인 및 Web3 역량을 갖춘 시니어 인력 채용",
+     "sources": [
+      {
+       "name": "CoinMarketCap",
+       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMlJZVjN0bTlHUVZiaUROaTV0aFg1cjRsd0g2R18zQUh6dE9VemFMN2JRQ2VHb29iUHBfLXJmTW11NWxXUXp1ZXREYWo0cnVqSUduVGZJcUwzVnF2VWF1UGlLbXZCckVtQTdmZ3lkQVZ0dzhBSzdpa3dNZUtNb3pzb09PYnlRbkFOem1DQ0xUN3lFbW1qcVFsd0c0MVBtQ2JuRnlxSE5kM0V4RkJ6TmxBNFRwa0c?oc=5",
+       "title": "Apple and Google Post Senior Roles With Stablecoin and Web3 Requirements",
+       "date": "2026-11-17"
+      },
+      {
+       "name": "OneSafe",
+       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE94WHRuVjNPNW1jZjVNWVZHbC1CamRDaUhqWUtuTlllN05ZMFY3UzJTWTBmaUtFSTBheXBmbzBYNFloMTlNWF8wS1hYWVU4S1lCYzVCZ1B2UU5ieGd5c0lNbWFRU3Q2MmgxMEkydERyRkpuN3FudXd2Qi0tNF9Pbzg?oc=5",
+       "title": "Stablecoin Payments Go Mainstream: Apple and Google Hire",
+       "date": "2026-11-17"
+      }
+     ]
+    },
+    {
+     "company": "무신사",
+     "role": "신입 개발자",
+     "note": "AI 시대 핵심 인재 직접 양성을 위한 신입 공채 진행",
+     "sources": [
+      {
+       "name": "전자신문",
+       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB5MWNLOVVITDhyZnk3WmI3MmFObEZ6UUlhVjBGQ3ZOSjJ2d05ra2dXU0prTUZEZ2Q3NURZUk8tLTZZRkhKcDBibDJobHhhUQ?oc=5",
+       "title": "AI 시대에 '신입 개발자' 뽑는 무신사…테크 핵심인재 직접 키운다",
+       "date": "2026-11-17"
+      }
+     ]
+    }
+   ],
+   "roles": {
+    "up": [
+     {
+      "name": "AI 전문 인력",
+      "why": "테크 시장 냉각에도 AI 인재 수요는 지속 상승"
+     },
+     {
+      "name": "DevOps",
+      "why": "시스템 안정성 및 효율화를 위한 채용 기회 지속"
+     },
+     {
+      "name": "판단 및 의사결정 전문가",
+      "why": "AI 시대에 인간의 판단력과 결정 능력이 핵심 기술로 부상"
+     }
+    ],
+    "down": [
+     {
+      "name": "단순 프로그래머",
+      "why": "AI가 코딩 업무를 대체하며 단순 개발직 위협"
+     },
+     {
+      "name": "엔트리 레벨 기술직",
+      "why": "AI 도입으로 신입급 기술직의 고용 형태 및 임금 격차 발생"
+     }
+    ]
+   },
+   "korea": [
+    {
+     "company": "서울시",
+     "note": "외국인 인재 유치를 위한 취업·채용박람회 개최, 117개 기업 참여",
+     "sources": [
+      {
+       "name": "전자신문",
+       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9ndDhGNmJiOHllZlE3d3FVUUZZZ1lHME04TU5ZeVV0eEtpWW45WUZhXzN1clhoUFc2cDg2YWhzYVppTmhxNGJWTzhXZjBRZw?oc=5",
+       "title": "서울시, 외국인 채용박람회 개최…인재 취업·정착 지원",
+       "date": "2026-11-17"
+      },
+      {
+       "name": "파이낸셜신문",
+       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE02UlprdE1iWmR3Y2UwV1Uxc0hEMjNBMWZpSm5ocGNCeUhxbzlsSy1kZlA4bzhRcXgtSXM0SzNFNkoxcUNZZDUyT3ZXUWZ1UVhTSHBzVXd2R3hCaXYwa3NFczVCRHNja2tKNVBV?oc=5",
+       "title": "서울시, 외국인 인재 취업·정착 지원…117개 기업 채용박람회",
+       "date": "2026-11-17"
+      }
+     ]
+    },
+    {
+     "company": "무신사",
+     "note": "AI 시대에 대응하여 테크 핵심 인재를 직접 키우기 위해 신입 개발자 채용",
+     "sources": [
+      {
+       "name": "전자신문",
+       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB5MWNLOVVITDhyZnk3WmI3MmFObEZ6UUlhVjBGQ3ZOSjJ2d05ra2dXU0prTUZEZ2Q3NURZUk8tLTZZRkhKcDBibDJobHhhUQ?oc=5",
+       "title": "AI 시대에 '신입 개발자' 뽑는 무신사…테크 핵심인재 직접 키운다",
+       "date": "2026-11-17"
+      }
+     ]
+    },
+    {
+     "company": "숨빗AI",
+     "note": "의료 영상 판독 AI 확장을 위해 150억 원 규모 시리즈A 투자 유치",
+     "sources": [
+      {
+       "name": "지디넷코리아",
+       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBkMm1jZVNJQmtCUWoxUUVXTHpFUXpaSzhiNmFoamdwYjBTYUZzSWtuYlNHR3VPMm5NWjFhZDdLRjN5UC1jSXpnYXRLOTJkdEhNTVpUOFlR?oc=5",
+       "title": "숨빗AI, 시리즈A·스케일업 팁스로 150억원 확보…\"CT·MRI 판독 AI 확장\"",
+       "date": "2026-11-17"
+      },
+      {
+       "name": "매일경제",
+       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1qa3RaWDNPa1duZFRtN2ozVFYwMlRQczZ4UHdkajdtNzBFYk9TRVZQRThCZURDVjhac1NJMEk1MURsWlRkYmdVSEhGV3B4UQ?oc=5",
+       "title": "AI 의료영상 판독…숨빗AI, 시리즈A 120억 원 유치",
+       "date": "2026-11-17"
+      }
+     ]
+    },
+    {
+     "company": "국내 게임업계",
+     "note": "AI 인재는 뽑고 기존 인력은 줄이는 '고용의 역설' 현상 발생",
+     "sources": [
+      {
+       "name": "포인트데일리",
+       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBtd2I5cDhJWnhXc2xaXzd0c3RNNHBVZ294bHFYSnh4WHZVd2V6M1BMak1LN1JGdzhBQ0dnaFRZRGxEbTBjenIwOUFYaUoxZEZ5R0pHTDhzVTZrOW5ZNXNDSEV0WjQwaUszZG94cGlNZUXSAXRBVV95cUxPYnpuOURNYUFBdTRvcUJzU1A3d2hjYlNrUUE2dGtfQUFYR0xrX2tRZFhKT3h3WWxXT1ZtQ1RScHJGeTMxQW8xYVZPNWs1OXVVSUpVdHI0TWQ1bFptMFB4SGE4dUFWVXBJNDJxSDBOYmNseGotYg?oc=5",
+       "title": "AI 인재 뽑고 기존 인력 줄이고…게임업계 '고용의 역설'",
+       "date": "2026-11-17"
+      }
+     ]
+    }
+   ],
+   "items": [
+    {
+     "id": "t20261118-00",
+     "region": "global",
+     "importance": "high",
+     "company": "Microsoft",
+     "title": "MS, 엔지니어 6만 명 대상 자발적 퇴직 제안",
+     "body": "사티아 나델라 CEO는 AI가 20만 개의 직무를 재편함에 따라 직원들에게 커리어 유연성을 주기 위해 자발적 퇴직(Buyout)을 제안했다고 밝혔어요. 예상 수락률은 5% 미만이지만, 엔지니어 직군을 대상으로 한 첫 대규모 제안이라는 점이 주목돼요.",
+     "insight": "빅테크발 숙련 엔지니어들이 시장에 나올 가능성이 커졌어요. 커넥트웨이브의 플랫폼 고도화에 필요한 시니어급 인재 소싱 기회로 활용할 수 있어요.",
+     "tags": [
+      "엔지니어",
+      "자발적퇴직",
+      "인재유입"
+     ],
+     "sources": [
+      {
+       "name": "The Times of India",
+       "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxNVW0wQ1k1dmt2aXd2U0xPRjUzRVlGeldYbXdqc2ZQb1FaNl9lWUZqblpyTUFwU1cxN3c0alNmTkRKM29tQWFRVnZVZ1pkNHYxV3l5b0lHMXg4QkFWaWJFclhrMTJKM2ktMlFwUEZZTllUSlg1TjdJT1BNcFRfa3BpbXV5bWxBcjMwRmpTY01QQVdLanYxTWRKSDZuM0tYeWRidUotTkw1c09pS2ROZWFzZzBsYmJxRmFhSWF5ZVY3NE50NmFVSUNnLVFBcjBwMDJZRnAxQmlRblhkQ2JVYWNtQmtEYTZVay13SmtfVFBRcmtkcTVGTk1rM1BVMWxFWWJCdG1ZRENBbGxnTm5PVzNQaC1qX3MxX1h5VXlpU2Nid0hIMWtBMDA5dVFnZ3pZM3BsbW5BTVhR0gG7AkFVX3lxTE44bzk4ZHlGT3Q1YWZKUFExRXprNVJ1V19KdXRmYzBnQTFDNWJtLTJnZDB0VHdub3N6M3ZtTDlRR2FEV1l4VUpibGhwa2pQN0RTaGljcmVKeUJ4UC1ySmVZRTctOTUyZmNpYnJ5ZUtZN0xqOVJib1lDTTMtUHV1R0I3d2ZtSWV6cVdJay1PSHY1enBnenZQNmtPZHAzSE5rZzhWaG5iQm0ydkVfajFPdFRPY0RlanB2TTU0RnRXemxKX2pnNkpKZWZJY1drT0JYTzhuQXpTTUdVZ0dWQUxncmJkOFhiZWF5TjVId2FJT0g3Qk1uVm1BbmJqa0oydEJSM0QxbHhwQkMwZ2pwdUFOYXI5WG9kanRWeGZ0alo3U2dVRnVWb2duTi04aTA4bTBGSm51SDEyQlZTMnpucw?oc=5",
+       "title": "After Microsoft offers buyouts to 60,000 employees, CEO Satya Nadella explains the decision; says: I wish",
+       "date": "2026-11-17"
+      },
+      {
+       "name": "LinkedIn",
+       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUFJQSnZWaF82YkNqVnNUUzVaWEw3bG9EYTFuOUNiVjB0VzJ5QTZaMUR5bVRyWnJ6SUhnWTNUeW5rYnRjdldyT1NBV0hlV19VYVNyeXItY3A0eXo4UTRfYjN3eFg2MS12SjhXM01Dd1dBM1g2X0lpaEx5dzZNRkY4MVJWcHgwcU16bEJjMFZjZjB6SHRWeGZ6V2x5SGJ3N0VPQnM0NW1vaGVTZw?oc=5",
+       "title": "Late last month, some 60,000 Microsoft employees were presented with a choice that could transform the trajectory of their careers: accept a buyout offer or remain at their jobs. Microsoft has said it expects fewer than 5% of eligible employees to accept the volu",
+       "date": "2026-11-17"
+      },
+      {
+       "name": "AOL.com",
+       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObnZuZUVxUjd1TWFzMGVHSFhCVkp6VjVGRlRQWTZKWV9yLTE0WHRQQWNhNURwS244LVMyZ0RGMUF1Z2xQNEs1UVFRNU82anN3U1BOVHJyVEtVQmRlSmlCbGVaanVMY29XZGVRS2VoV3NKU2dQMzIyMWp6RndLaElYWnJDQWFXVUZ2M2c?oc=5",
+       "title": "Microsoft Is Making Voluntary Exit Offers to Engineers for the First Time",
+       "date": "2026-11-17"
+      },
+      {
+       "name": "BigGo Finance",
+       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB1UHFzUG5YeWh4TkNHdWlPbUh2cXg3U2NvQkJkRUo0WWVSN3hHeC1kcERQN2k5Ynp4OGlRU3BBNXRFdFE2Tmp6QlhEdVBJV05McjhEcVA2Y3lkYy1CRHA4dFdMT3hBdGhYWFNrRnBvZkhHcThBbGc?oc=5",
+       "title": "Nadella Says Microsoft's Buyout Offer Hands Staff the Wheel as AI Redraws 200,000 Jobs",
+       "date": "2026-11-17"
+      }
+     ],
+     "date": "2026-11-17"
+    },
+    {
+     "id": "t20261118-01",
+     "region": "global",
+     "importance": "high",
+     "company": "업계 전반",
+     "title": "AI 시대, 개발자에게 요구되는 역량의 변화",
+     "body": "나델라 CEO는 이제 코드 작성보다 '검증'이 중요해진다고 강조했어요. 또한 고객을 직접 만나고 발표하는 등 소통 능력을 갖춘 엔지니어의 역할이 커지고 있으며, 판단력과 의사결정 능력이 가장 중요한 기술로 꼽히고 있어요.",
+     "insight": "개발자 채용 시 코딩 테스트 외에도 코드 리뷰 역량과 비즈니스 커뮤니케이션 능력을 평가하는 면접 문항을 강화할 필요가 있어요.",
+     "tags": [
+      "역량변화",
+      "검증능력",
+      "소통하는개발자"
+     ],
+     "sources": [
+      {
+       "name": "Business Insider",
+       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObXludlptb09lbFo4dnpKWEtiZTBpa2VpWS1vd0ZFZXByYUdBSFYzVmVfLXZUOEstcnl3aUZoYmdZbzJsODNHX1VkWjd2Y1NpYnp6aTVCRWpPaDBUdlpiaXNMWUVoNWRuUF9HUTdtQUE0S0ZwMFRUWUVoTHlRSWE2eHRlYW5ueUJxOXZnd3JMQWo0RFpLc0NJZ0VZZWkzUldtTW9lRXFR?oc=5",
+       "title": "Satya Nadella has one piece of career advice for software engineers in the AI era: Do more, talk less",
+       "date": "2026-11-17"
+      },
+      {
+       "name": "CIO Dive",
+       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1PVzFxQ2dLY1NKU21BU3VJMnN3ODNIV2lVdHFQT1NScGh0OUpseEZMZDM5SDMyTWczZ3JBeE8wUnU2djRxOURzVElvUnpxX2VfWkluSnZSbmVSQWVoN0gxNTFRa3FjcXVYODQxRjR2SDAwYXVYelFSVTZSQQ?oc=5",
+       "title": "AI era places judgment, decision-making among most wanted skills",
+       "date": "2026-11-17"
+      },
+      {
+       "name": "디지털투데이",
+       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB5Uk5YUnBfdnhaTEdpZEd2WW8zeTlrUTdmaThaalBUT203cnpyZFh3aDBTck9wdWJORk1PcWVlVUxMOWo5UUJUTzlOY3ZaQ3gxTjF4b1VEamFJV2hFN2RCMFlBcXk3RTY0WHBQRFB0SXp5NlE?oc=5",
+       "title": "\"개발자도 고객 만나고 발표해야\"…AI 시대 달라진 엔지니어 역할",
+       "date": "2026-11-17"
+      },
+      {
+       "name": "조선일보",
+       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVUVJTHhHaUxBWnB6a1NQckFna0Z6eFdkRllMTmpTUzNBYUtvc1drYTBUSFdpc1h2MWg5blYxZG1mMVREaVVCRHp6dThUYzR2ZVhrb1M0WV9OVXBITHZrYUpMV3IyeUxWZFlCWFJqVWc2UENSeFpUWUZGc1NOb3V6R01HZw?oc=5",
+       "title": "나델라 MS CEO \"AI 시대, 코드 작성보다 검증이 중요해진다\"",
+       "date": "2026-11-17"
+      }
+     ],
+     "date": "2026-11-17"
+    },
+    {
+     "id": "t20261118-02",
+     "region": "global",
+     "importance": "mid",
+     "company": "Disney & Canva",
+     "title": "수익 성장에도 불구하고 이어지는 테크 감원",
+     "body": "디즈니는 4분기 매출 성장에도 불구하고 비용 절감을 위해 추가 감원을 발표했고, 캔바(Canva) 역시 첫 대규모 감원 조짐을 보이고 있어요. 2026년 현재까지 테크 업계 감원 인원은 13만 5천 명을 넘어섰어요.",
+     "insight": "글로벌 테크 기업의 구조조정이 상시화되고 있어요. 안정적인 이커머스 그룹으로서의 커넥트웨이브 이미지를 강조해 불안감을 느끼는 인재들을 공략해 보세요.",
+     "tags": [
+      "구조조정",
+      "비용절감",
+      "테크레이오프"
+     ],
+     "sources": [
+      {
+       "name": "Fast Company",
+       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMkdrYlBmb2hZYVZoUGZOcUtNQnAwbmhoMk9EWU53VVduZ0VvdGV1WVZjbkdjRVpHWjI4WTJpeGMtWWhIOVZpdndoWmU2NC1RMGNiSmVWM2FUdTBnMUFzMU5sSDRXaEFFYnprUWU5UXhvY09ucDVtMS1SblhqWTRTVUI1dTVnamFMNEVfTVg3RHhvWU1pOXEwV3puYw?oc=5",
+       "title": "Disney says more layoffs are on the way as company announces double-digit Q4 revenue growth",
+       "date": "2026-11-17"
+      },
+      {
+       "name": "1 Smart Business Story",
+       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQnFRQS13R1Ytd3dGVURDdnVrRXptYkN5N05TbENvSDFmVnRjWEhwcDh0Tm5XUGZLdGhXZGpuMWFJQmRPRUxLVEZLM3FiS3JJaXRZTzJFUnNYQU5IR2ZHRzBGY3VhcHlOdEZESXpsdlF6ZUF5U3FuSkY0UlVtSWNKeHVSSXdGNjRfd2RmaGtfb1lZV1FvQ3VSQWhLOWN4amNaMjdUNEpwNkxhVGhxM1pORFNn?oc=5",
+       "title": "Canva Showed Signs of Trouble Before Its First-Ever Mass Layoff",
+       "date": "2026-11-17"
+      },
+      {
+       "name": "Techloy",
+       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBmVnEzXzJYWUxzZFpiR2NmUnZNMTVnZlhEN2lxb1NUeXhjWHFoa1UyMVA1WUFTa1ZkeE1qZFhubEZXYV9Vd05KVDFRUmFyNFBKYng5MWppcHpicnI2T0ppbmZHNGt3U1pCcVJUb1d0cEhJbkRY?oc=5",
+       "title": "Tech Layoffs 2026: What the 135,000 Tracker Total Counts",
+       "date": "2026-11-17"
+      }
+     ],
+     "date": "2026-11-17"
+    },
+    {
+     "id": "t20261118-03",
+     "region": "korea",
+     "importance": "mid",
+     "company": "서울시",
+     "title": "국내 외국인 인재 채용 시장 확대",
+     "body": "서울시가 외국인 인재의 정착을 돕기 위해 대규모 채용박람회를 개최했어요. 2,500명 이상의 사전 신청자가 몰리며 글로벌 인재들의 국내 취업 의지가 높음을 보여주었어요.",
+     "insight": "국내 개발 인력 부족의 대안으로 국내 거주 외국인 인재 풀을 적극 검토해 볼 시점이에요. 비자 지원 프로세스를 점검해 보세요.",
+     "tags": [
+      "외국인채용",
+      "글로벌인재",
+      "채용박람회"
+     ],
+     "sources": [
+      {
+       "name": "전자신문",
+       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9ndDhGNmJiOHllZlE3d3FVUUZZZ1lHME04TU5ZeVV0eEtpWW45WUZhXzN1clhoUFc2cDg2YWhzYVppTmhxNGJWTzhXZjBRZw?oc=5",
+       "title": "서울시, 외국인 채용박람회 개최…인재 취업·정착 지원",
+       "date": "2026-11-17"
+      },
+      {
+       "name": "뉴시스",
+       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1xVUlyWkI2NXhzWGhrSnMyTVh0ME8xRTNKOE5Jcl9PYy1kdldtTFBfeFdOMEsxZmJObWY1MXV6d1dHb18xdHpHZGVtZXRvZS1Pc21Xa2oteXE3UUxtbmdlOF9Wbkwzck1PQlB0Smg5UWxuNDZFTW1hUNIBeEFVX3lxTE1xVUlyWkI2NXhzWGhrSnMyTVh0ME8xRTNKOE5Jcl9PYy1kdldtTFBfeFdOMEsxZmJObWY1MXV6d1dHb18xdHpHZGVtZXRvZS1Pc21Xa2oteXE3UUxtbmdlOF9Wbkwzck1PQlB0Smg5UWxuNDZFTW1hUA?oc=5",
+       "title": "서울 외국인 취업·채용박람회 사전 신청자 2500명 돌파",
+       "date": "2026-11-17"
+      },
+      {
+       "name": "파이낸셜신문",
+       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE02UlprdE1iWmR3Y2UwV1Uxc0hEMjNBMWZpSm5ocGNCeUhxbzlsSy1kZlA4bzhRcXgtSXM0SzNFNkoxcUNZZDUyT3ZXUWZ1UVhTSHBzVXd2R3hCaXYwa3NFczVCRHNja2tKNVBV?oc=5",
+       "title": "서울시, 외국인 인재 취업·정착 지원…117개 기업 채용박람회",
+       "date": "2026-11-17"
+      }
+     ],
+     "date": "2026-11-17"
+    },
+    {
+     "id": "t20261118-05",
+     "region": "global",
+     "importance": "mid",
+     "company": "OpenAI",
+     "title": "AI 에이전트의 영역 확장과 새로운 직무 수요",
+     "body": "OpenAI가 ChatGPT에 여행 기능을 통합하기 위해 엔지니어를 채용하는 등 AI의 활용 범위를 서비스 전반으로 넓히고 있어요. 이는 특정 도메인 지식과 AI 기술을 결합한 인재 수요를 창출해요.",
+     "insight": "커넥트웨이브의 가격비교나 물류 솔루션에 AI를 접목할 때, 해당 도메인 경험이 풍부한 AI 엔지니어를 선점하는 것이 중요해요.",
+     "tags": [
+      "AI에이전트",
+      "도메인확장",
+      "신규채용"
+     ],
+     "sources": [
+      {
+       "name": "Skift",
+       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdzVzVk9NY1U4X2hWWHBvNFNIWjJjTEs3cVdoMk5maFNxWkFwYW41Wnd5YXdOS3A1a1dlMVY5WDRpSzIxV2djZU5LZjVVeko3Qk1WZTdTRDdEQ3RWb1V4bEZYMUM4TnJLQlZYLVFNbVZmVVd2Y2g5a3VUWGR2Z3BBUlpZZHYybUYzdUhrWGVB?oc=5",
+       "title": "OpenAI Is Hiring Engineers to Build Travel Into ChatGPT",
+       "date": "2026-11-17"
+      }
+     ],
+     "date": "2026-11-17"
+    },
+    {
+     "id": "t20261118-04",
+     "region": "global",
+     "importance": "low",
+     "company": "미국 정부",
+     "title": "트럼프 행정부의 이민 및 비자 규제 강화 움직임",
+     "body": "미국 내에서 숙련된 외국인 노동자에 대한 비자 규제를 강화하려는 움직임이 포착되었어요. 이는 글로벌 인재들의 이동 경로에 영향을 줄 수 있는 요소예요.",
+     "insight": "해외 인재 유입이 어려워진 미국 시장 대신 한국 등 아시아권으로 눈을 돌리는 인재들을 타겟팅하는 전략이 유효할 수 있어요.",
+     "tags": [
+      "비자규제",
+      "트럼프정책",
+      "인재이동"
+     ],
+     "sources": [
+      {
+       "name": "Reuters",
+       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRGhaREpOUW9kNnBLbms2SGNkWmlucE9CazNrQXNCTHVSakp4MnM0RkhVOG5NUVlLYVZkQzBoOGh5eHRWNnVRSFE2Q0FTZ2w0bTczOFJTTGxHNUFDSmN1M3dKbjkwVDlzT3h3dHRKQjVUTjNyRVlrUVBTcTl3d3huSVh5SXkyTWFHbTcwaFBiTUF2OEc1aTBpQXBhS1pXT214Q01PbWkzSDF4bUN1SFhmT0t5UDVLZlI5MEpQQg?oc=5",
+       "title": "Trump administration targets further limits on skilled foreign workers",
+       "date": "2026-11-17"
+      },
+      {
+       "name": "TradingView",
+       "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQM0RUVXlPVFBrVXJtVUd1TW5GeHA4RTBZQ0psanFjS3E1X2tKTWNqWXZTNlg5LXhTbEF4ckVwZFhLVXkzbTB6UElRUF9INzJpSkVIZzJGaFNVVnF0T3kyMlViRHFuR3RSU0pxYTV4T2Z3ZW1jVE1JclFsUElVYmFweURDWjM3S2xyOS1DTVdLSFlhSG4zankyV0hkbjlqZTkxTlhVZDZpSGJ2N3FNeDhtVFlpaEhwZUh1Qk5zbWwyS3BEa2JoeUgyYjBqQUQ0bFJFcnNOWWZQWHZFdC1YdkxVemthU0toSnRPbXFrSnFleGxHcEtmNXFHa1l2dnIzZV9Tc3RqY3VVMFlCOHZ5NUE?oc=5",
+       "title": "Trump Administration Proposes First Major Green Card Hiring Overhaul in Nearly 20 Years: ‘American Workers Are First In Line’",
+       "date": "2026-11-17"
+      },
+      {
+       "name": "뉴스1",
+       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1kX3hsOENCOFV5SUk2aFpLZ1JqTzZ0RDhmYTVYdDFNNzhPRURGNjV2OHluSUI4M3NfX3huLWx2anBzMk5zb2lCZklmdzdCQUZfQ3VPNHNDWWk?oc=5",
+       "title": "\"외국인 숙련자도 취업 어렵게\"…트럼프, 이민정책 또 손본다",
+       "date": "2026-11-17"
+      }
+     ],
+     "date": "2026-11-17"
+    }
+   ]
+  },
   {
    "date": "2026-11-17",
    "article_count": 149,

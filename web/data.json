@@ -56,9 +56,591 @@
     ]
    }
   ],
-  "updated": "2026-11-17T01:03+09:00"
+  "updated": "2026-11-18T01:13+09:00"
  },
  "reports": [
+  {
+   "date": "2026-11-18",
+   "window_days": 1,
+   "article_count": 307,
+   "engine": "gemini-3.8-flash",
+   "headline": "이커머스 구조조정 속 AI 채용 검증·근태 정책 점검 필요",
+   "points": [
+    "11번가·카카오엔터·월부 등 플랫폼 업계 리더 사임 및 희망퇴직 가속화",
+    "채용 전형 내 'AI 부정행위' 차단 및 대면 검증 강화 확산",
+    "고용노동부의 '가짜 3.3' 기획감독 등 위장도급 및 노무 리스크 점검 필수"
+   ],
+   "items": [
+    {
+     "cat": "ecom",
+     "importance": "high",
+     "company": "카카오엔터테인먼트",
+     "title": "카카오엔터 장윤중 공동대표 사임, 고정희 단독 체제 전환",
+     "body": "장윤중 카카오엔터테인먼트 공동대표가 일신상의 사유로 12월 말 사임하며, 고정희 대표 단독 체제로 운영될 예정이에요. 실적 둔화에 따른 구조조정 가능성도 제기되고 있어요.",
+     "insight": "리더십 교체 및 조직 재정비 과정에서 콘텐츠 및 플랫폼 전략/기획 핵심 리더급 인력의 이탈이 발생할 수 있어요.",
+     "action": "콘텐츠·플랫폼 사업 리더급 후보군을 모니터링하고 필요 시 선제적 영입을 타진해 보세요.",
+     "teams": [
+      "채용",
+      "인사기획"
+     ],
+     "tags": [
+      "카카오엔터",
+      "대표이사변경",
+      "리더십교체",
+      "구조조정"
+     ],
+     "our_group": false,
+     "talent": {
+      "level": "mid",
+      "signal": "공동대표 사임 및 체제 개편 — 리더급·기획 인력 이탈 가능성"
+     },
+     "sources": [
+      {
+       "name": "알파경제",
+       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9adFpjbXRmTE44eXVrb2hZVzJFVUNyY3N3STFkQWdHYndYbnlDM1lSNXdRN0pUR1BnMnMxMWtOZkFqNUEzMGJOMnhFY0xObEI2TUZnLU9mVDVMTDFZcVBaVVJRTnhlbUxWMDRHd3ZB?oc=5",
+       "title": "[현장]장윤중 카카오엔터 공동대표 돌연 사임…’수익성 둔화’로 구조조정(?)",
+       "date": "2026-11-17"
+      },
+      {
+       "name": "천지일보",
+       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1iS2tta1JTS3QxMWtTRTZPNlpTYjl3RXNRc2hEaXN5SVIwYzRFWDV4X2pvYm1DbVM3cS1vcHRDWi1rRGY1MVhrdkVZalIxUXJ1NEU1cTZiSlNwVnFXTGF0SUFyOG5VVUpLUlE?oc=5",
+       "title": "장윤중 카카오엔터 공동대표, 내달 사임… 고정희 대표 체제로",
+       "date": "2026-11-17"
+      },
+      {
+       "name": "알파경제",
+       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9adFpjbXRmTE44eXVrb2hZVzJFVUNyY3N3STFkQWdHYndYbnlDM1lSNXdRN0pUR1BnMnMxMWtOZkFqNUEzMGJOMnhFY0xObEI2TUZnLU9mVDVMTDFZcVBaVVJRTnhlbUxWMDRHd3ZB?oc=5",
+       "title": "장윤중 카카오엔터 공동대표 사임...일신상의 이유",
+       "date": "2026-11-17"
+      },
+      {
+       "name": "서울파이낸스",
+       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB2UnZwcmpCTG1ubzFyb3FuZW9VRFZRamV3b3E3ZlJJOVVyQUJJemRtc01wdkhNTGkwTG5ZZnpBLWtrUmVzUFlzRVVWUndaLVNQbjR0SHJsTDJsVDJyZUZNSzNkUFZkZlY0NkE?oc=5",
+       "title": "장윤중 카카오엔터 공동대표, 내달 말 사임",
+       "date": "2026-11-17"
+      },
+      {
+       "name": "파이낸셜뉴스",
+       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0tSU1YdmhaNlVxdTNUejkxdm1qTXJYZUJCYkRNa2hxVEN6UTFIU2tBeWg5OXEyem83Zk1PSUd3VGprc0RaaXdpWTAwM0NLOEJCcG5CWl9DNmtLdw?oc=5",
+       "title": "장윤중 카카오엔터 공동대표 내달 사임…\"일신상 사유\"",
+       "date": "2026-11-17"
+      },
+      {
+       "name": "서울경제TV",
+       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBTby1TVkMtSnJ3S283Unpva19PWjdnZkNBdVpVeVdBYVlnQ1RVUXZsVE8xU0p0MENaMEpjMFo1dS1kWEdVT2J0WjNnUlBONm9VRGk5R0c2QVdEeXhQc1lVZVYwS3Y?oc=5",
+       "title": "카카오엔터 장윤중 공동대표 사임…고정희 대표는 임기 유지",
+       "date": "2026-11-17"
+      },
+      {
+       "name": "파이낸셜포스트",
+       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE84MWprY0s5aUxPOUR6TGxFZlAzMlQ2SHhweHBtR2hfcklDY211WXFEeWRvOW9UNG5HVHhzVE44bG92VWE5WHRiaG1ZT0ZkWkt0VHE5bTExRFFWOGpLSUR5X3Iwc3lGRVJSNVVrdGo4Q1FKREti?oc=5",
+       "title": "장윤중 카카오엔터 공동대표 사임...고정희 대표 경영 지휘봉",
+       "date": "2026-11-17"
+      },
+      {
+       "name": "데일리안",
+       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4zVG56WHl1ZlNrZ24zcHE0VkFPMmwyeFgxZzZKU3Jfa1ltSXpsSG5qektNUkZGNEdBZC1vZUtSZmUyZ2s0c2UwbVF4NGhXSmwzOC1R?oc=5",
+       "title": "장윤중 카카오엔터 공동대표, 12월 말 사임 예정…고정희 대표 체제로",
+       "date": "2026-11-17"
+      }
+     ],
+     "date": "2026-11-17",
+     "id": "20261118-01"
+    },
+    {
+     "cat": "market",
+     "importance": "high",
+     "company": "업계 전반",
+     "title": "대기업 채용 전형서 ‘AI 커닝’ 우려… 대면 검증 및 감독 강화",
+     "body": "삼성, SK, 현대차 등 주요 대기업들이 온라인 인적성 및 코딩테스트 등에서 AI를 악용한 부정행위 우려로 대면 검증을 강화하고 감독 절차를 대폭 고도화하고 있어요.",
+     "insight": "생성형 AI 기술의 대중화로 온라인 서류/코딩테스트의 변별력이 약화되어 검증 프로세스 혁신이 불가피해요.",
+     "action": "우리 그룹의 비대면 과제 전형 및 인터뷰에 실시간 검증 문항이나 대면 심층 검증 절차를 도입해 보세요.",
+     "teams": [
+      "채용"
+     ],
+     "tags": [
+      "AI채용",
+      "부정행위",
+      "인적성",
+      "면접검증"
+     ],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "비즈트리뷴",
+       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE84UFR3TkFKVkpIZ1ZBQTFfYXlhY1NXY241d3ZqdUJTMFR5UTJrSWluY0ZxV0w2ZTJhb01tUzk5RWpmV1d4RVZkSWZ2WXItaFBVSGtoN3hOc3F6c2poZlVKQXBtcTJMYmZpTVpCemE0OC0?oc=5",
+       "title": "대기업 채용까지 번진 ‘AI 커닝’ 우려… 삼성·SK·현대차 감독 강화",
+       "date": "2026-11-17"
+      },
+      {
+       "name": "동아일보",
+       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB6Zlg0VHhTNWFyNzlpZXVHdGp1c3cxR2lGWGRoVXB5NkpOWkFwYlA4Yk1EcUQzdEE1R0ZSaU55cl9CbzNySlJhbVRyNVA0cTlIbDlNZHV2cDAxMk9tbl84NEZKWnkzUdIBZkFVX3lxTFB6Zlg0VHhTNWFyNzlpZXVHdGp1c3cxR2lGWGRoVXB5NkpOWkFwYlA4Yk1EcUQzdEE1R0ZSaU55cl9CbzNySlJhbVRyNVA0cTlIbDlNZHV2cDAxMk9tbl84NEZKWnkzUQ?oc=5",
+       "title": "“안경 보여주세요” “시선 떼지 마세요” 기업 채용도 AI 차단 고심",
+       "date": "2026-11-17"
+      },
+      {
+       "name": "매일일보",
+       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5SeUI1LTBMMm1BTXB2STlSZi03d0FVeWxRUEF1LXlWVF9JTUk5Si1NOUlacTJtbmNheFlPUjkwalU5OEZIWHlJTzRKVmgzMzZ5MlNmMTlvc3B5UGNMbVNGQ2NKcmI?oc=5",
+       "title": "'AI 커닝'에 대기업도 비상…재계, 채용 부정행위 감독 강화한다",
+       "date": "2026-11-17"
+      },
+      {
+       "name": "시사1",
+       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1KT0tUWWNHc3ZjRG5WRjlJZUF5aGhVMnJaNFYtemJ3Wktfb1RoSDJzQlU0aW94VEN2cldLeVBmcmZKUlp6ZkRyUGFjQUpCRXdWX2xNMHFWNEFERFRIWHNXMw?oc=5",
+       "title": "AI 부정행위 파장 대기업 채용까지…삼성·SK 인적성검사 비상",
+       "date": "2026-11-17"
+      },
+      {
+       "name": "아시아타임즈",
+       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE52MkF3dGxkT0dGVzhBbDRab0otRU9DR1ExSV9uN0M1VVRtaklXQnI3QU15VW4tXzNqQy1PM0dWRjhaZnNvblQ5eXpHYTdQR3QyaER3U0FNcC0wU1ZtcWc?oc=5",
+       "title": "AI 부정시험 파문 일파만파⋯삼성·SK 채용까지 확산",
+       "date": "2026-11-17"
+      },
+      {
+       "name": "SBS Biz",
+       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9lMEZqWGlCR29fdWtpZDRqQnd5TElfSXNkMWZ4alJQMnZ5NjhITjVud0Z3NHhEbXNxRTViNjNiUDlHRlZzQlZfR0ctZzRzZTNPQndzMlhJSjHSAVhBVV95cUxPZTBGalhpQkdvX3VraWQ0akJ3eUxJX0lzZDFmeGpSUDJ2eTY4SE41bndGdzR4RG1zcUU1YjYzYlA5R0ZWc0JWX0dHLWc0c2UzT0J3czJYSUox?oc=5",
+       "title": "국가시험도 뚫렸는데…기업 채용에 산업 기밀까지 비상",
+       "date": "2026-11-17"
+      },
+      {
+       "name": "한국정경신문",
+       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1YSVFobUJzQ2V0ZXo3XzJnaWRaeWlCZVk0alNsZnhlSWxydTlxOV9TU2dGTnZnRFk3QzNlWmsyNm5vYUV6ejRLVFo3UGw5YUVsR3c?oc=5",
+       "title": "삼성·SK·현대차 등 대기업 채용 대면 검증 힘준다..AI 부정행위 차단 고심",
+       "date": "2026-11-17"
+      }
+     ],
+     "date": "2026-11-17",
+     "id": "20261118-02"
+    },
+    {
+     "cat": "ecom",
+     "importance": "high",
+     "company": "11번가",
+     "title": "11번가, 인력 효율화 일회성 비용으로 3분기 적자 확대",
+     "body": "11번가가 3분기 영업손실 111억 원을 기록하며 적자 폭이 확대됐어요. 지속적인 수익성 개선을 위해 단행한 인력 효율화(희망퇴직 등) 관련 일회성 비용이 반영된 결과예요.",
+     "insight": "이커머스 전반의 감원 및 조직 효율화가 지속되며 플랫폼 경력직 인재가 시장에 다수 유입될 가능성이 커요.",
+     "action": "11번가 출신 이커머스 MD 및 서비스 기획 인력 풀을 사전 확보하고 다나와·에누리 매칭을 검토해 보세요.",
+     "teams": [
+      "채용",
+      "인사기획"
+     ],
+     "tags": [
+      "11번가",
+      "인력효율화",
+      "희망퇴직",
+      "이커머스"
+     ],
+     "our_group": false,
+     "talent": {
+      "level": "high",
+      "signal": "인력 효율화 진행 — 이커머스 MD·개발 인력 시장 유입"
+     },
+     "sources": [
+      {
+       "name": "아이뉴스24",
+       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5oRlFpN2dOcVlKS1Z1Z05ISWdVMkxhTVZCUDBMU3ZnT3ZvelMwV1Z2MnpoOWZxM0VqTm8tTjRTQ2sweDNGTkhERGYxZw?oc=5",
+       "title": "11번가, 3분기 영업손실 111억원…전년比 23억원 늘어",
+       "date": "2026-11-17"
+      },
+      {
+       "name": "아주경제",
+       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE83NkF5cmY3OEVDS2JnSVc1WWRGQnRKT3pQZ2FkNWUzUmhNdW9zazJ2RjNzOXUwc2cwYmNzU01TWkd5X29TMUg0Qm5MTjNHMHUyUE9mdTloQ3JJQdIBWEFVX3lxTE4tSkdSMnNlcGZGNXI5THJYSzVtaEZCY3hmNkRva2NrdUNTLVhTRkF3eDhXM0FXUDVpMkt0V0o5QXRDUDV0V203djU4bXlIYlNZcXVwYUlNT1g?oc=5",
+       "title": "11번가, 3분기 영업손실 111억원…일회성 비용에 적자 확대",
+       "date": "2026-11-17"
+      },
+      {
+       "name": "브릿지경제",
+       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBESE50cXhORWZUZllUa25MOW1EYkJEV29uWk5LdlVRMnRnSkFzOWJTXzFzZnRCa3BVeHZTUEJqQUY2a25ZWjVBNDJlTEZWa3BxaHgwVXg2SWdOQQ?oc=5",
+       "title": "11번가 3분기 매출 908억원… 영업손실 111억원",
+       "date": "2026-11-17"
+      },
+      {
+       "name": "매일일보",
+       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9mS0hrQTFIT1gwVG12cmdBQ0VsZzV6WGt5czlGOUM4aGpITUNIZk9MQUp3VVJfY0o0UlpBRy1MUDhCUE5yMW1xT1BuN0ZJNnNHMzA4WkdHRUJNVFdhYm9mS0MxLW8?oc=5",
+       "title": "11번가, 3분기 영업손실 111억원…\"인력 효율화 일회성 비용 반영\"",
+       "date": "2026-11-17"
+      }
+     ],
+     "date": "2026-11-17",
+     "id": "20261118-00"
+    },
+    {
+     "cat": "labor",
+     "importance": "high",
+     "company": "고용노동부",
+     "title": "노동부, '가짜 3.3' 위장고용 및 사업장 쪼개기 기획감독 착수",
+     "body": "고용노동부가 4대보험 미가입, 사업소득세(3.3%) 위장고용, 사업장 쪼개기 등 노동법 회피 사업장 140여 곳을 대상으로 두 달간 집중 기획감독에 착수했어요.",
+     "insight": "플랫폼 및 물류 산업은 위탁 계약·외주 프리랜서 관련 근로자성 오분류 이슈에 취약하므로 사전 리스크 관리가 시급해요.",
+     "action": "몰테일·스윗트래커 물류 및 그룹사 외주·프리랜서 계약 형태의 근로자성 충족 여부를 선제 점검해 보세요.",
+     "teams": [
+      "노무·ER",
+      "인사기획"
+     ],
+     "tags": [
+      "고용노동부",
+      "기획감독",
+      "위장도급",
+      "근로자성"
+     ],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "코리아타임뉴스",
+       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA5QlAyRXo3OEYtYk9fQnJrVTl0SEZxQ0UxZXhGMHZRVlNUR2tJaXppb0hqaXFQalo2NUVqNE9YZnJmZG9GSURIbElKYUV5SkxON3JVbWlqMnp6NVowcUNkVDZfSTZXbHQweGc?oc=5",
+       "title": "고용노동부, '가짜 3.3·사업장 쪼개기' 노동법 회피 꼼수 집중 감독!",
+       "date": "2026-11-17"
+      },
+      {
+       "name": "CEO저널",
+       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA1VmVSbHd6bHVDYklBZ3F1cGNVN0dGb0w1bUtMTlQ1bXJRTnpHc1EzTG5ZdHRPN2NsZVV4b1pSWkZaLXlXSWFvb0g4aUJBTUhkTDNmVHo5X0wtckZXTElmNnZEMUxzeEXSAWtBVV95cUxPcFRXZ3FJUVJBOGdOOGNuelpjdDdPajNTOE1aV3VFRzJJeE1fdjZHVGNqNE85Y1VPNXhsM1owYzZ6a2JQV1Bxay1FMkpIbnVqLVZJbE9NLVVpdnZVbWxmbnhtR25paHo4YTlOZw?oc=5",
+       "title": "김영훈 노동부 장관, '가짜 3.3' 위장고용 기획감독 착수…140여 곳 두 달간",
+       "date": "2026-11-17"
+      }
+     ],
+     "date": "2026-11-17",
+     "id": "20261118-03"
+    },
+    {
+     "cat": "ecom",
+     "importance": "mid",
+     "company": "카페24",
+     "title": "카페24, 온라인 사업자-제조사 잇는 ‘제조사 매칭’ 서비스 출시",
+     "body": "카페24가 셀러가 기획한 아이템을 제조 공장과 직접 연결해 견적부터 발주까지 지원하는 '카페24 제조사 매칭' 서비스를 신규 출시하며 제조 인프라 영역으로 확장했어요.",
+     "insight": "셀러 생태계 확장을 둘러싼 경쟁이 가속화됨에 따라 메이크샵·플레이오토의 솔루션 경쟁력 강화를 위한 전문 인재 수요가 증가하고 있어요.",
+     "action": "셀러 제조·소싱 솔루션 기획 경험 인재 풀을 조사하고 플레이오토 조직에 필요한 역량을 정의해 보세요.",
+     "teams": [
+      "인사기획",
+      "채용"
+     ],
+     "tags": [
+      "카페24",
+      "셀러솔루션",
+      "메이크샵",
+      "경쟁사동향"
+     ],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "머니투데이",
+       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBtZWJFdUlVTE0tSlUyY2tWUkNTWVpWU1F0eFBnN2hNRUJFMXBBWGZucEZXQm93V2pJQ3FUNnRKR2NtNjBOZk1YRllQRkRHZDJoczNScXhvbmRVTUxKYjJOdlN1bWlEUHdMcXhYYWFR0gFuQVVfeXFMUG1lYkV1SVVMTS1KVTJja1ZSQ1NZWlZTUXR4UGc3aE1FQkUxcEFYZm5wRldCb3dXaklDcVQ2dEpHY202ME5mTVhGWVBGREdkMmhzM1JxeG9uZFVNTEpiMk52U3VtaURQd0xxeFhhYVE?oc=5",
+       "title": "카페24, 온라인 사업자와 제조사 매칭 서비스 출시 - 머니투데이",
+       "date": "2026-11-17"
+      },
+      {
+       "name": "서울경제TV",
+       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9yV1hTU1NsTUp2c1dyQ1JQbDhsZ3M4YkJMMnFyWE5PUXRiLUhCSG1LdEJJeC1aVWVoQ0ZqNXV0ajhkTnUwUzdEdmpOYWVGZEU1YVZSdGxXakJhV19McUJ4Y3pJX2o?oc=5",
+       "title": "“상품 제작도 온라인에서”…카페24, 제조사 매칭 서비스 출시",
+       "date": "2026-11-17"
+      },
+      {
+       "name": "지디넷코리아",
+       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5rczA5OEgwQk1NLXNfTV9nNGpMR1phV3BWVTRndEZHNGN3MFdRS01VUFhfczJIZXBfVUl3SXRFZzV6aXppMHF3dlVoZXY3X0MwUzQzczRn?oc=5",
+       "title": "온라인 사업자·제조사 연결…카페24, '매칭 서비스' 출시",
+       "date": "2026-11-17"
+      },
+      {
+       "name": "아주경제",
+       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9BU083VmxvODcxUFVzbGdMM29JX0NzLXhLNk9DeHF0a05UWkh4dDlpOWxVVE5tSW5ocE9uZDhyU01FdmtXbGlTZFFRQ2x0Nm5OR0xHR2dIM0rSAVhBVV95cUxPQVNPN1Zsbzg3MVBVc2xnTDNvSV9Dcy14SzZPQ3hxdGtOVFpIeHQ5aTlsVVRObUluaHBPbmQ4clNNRXZrV2xpU2RRUUNsdDZuTkdMR0dnSDNK?oc=5",
+       "title": "카페24, 온라인 사업자·제조사 매칭 서비스 출시…상품 제조 영역으로 사업 확대",
+       "date": "2026-11-17"
+      },
+      {
+       "name": "KIPOST",
+       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBpSlQySjlHUEpWT0lnOWxELVk0QVVQekRzRG03T2Z3OFlsZFBtcFFhcHFodi11UnY3WWc1TzA0MGhQa3JENTA4aEJKSGtuU2pMLVotblFWdDZLTmw0Vnpqa0tLSFBHbVRXZzU5RtIBbEFVX3lxTFBpSlQySjlHUEpWT0lnOWxELVk0QVVQekRzRG03T2Z3OFlsZFBtcFFhcHFodi11UnY3WWc1TzA0MGhQa3JENTA4aEJKSGtuU2pMLVotblFWdDZLTmw0Vnpqa0tLSFBHbVRXZzU5Rg?oc=5",
+       "title": "카페24, 온라인 사업자와 제조 현장 잇는 ‘카페24 제조사 매칭’ 서비스 출시",
+       "date": "2026-11-17"
+      },
+      {
+       "name": "전자신문",
+       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE40Y2FQMU1pbzlidExUNi1YQ2pZa18tOUVQY0NTNFQ4UGwybm44VjFQalJYRzhkTlY1amo1amRUXzZWeENWZVRoUjRCYWRldw?oc=5",
+       "title": "카페24, 온라인 사업자·제조사 매칭 서비스 출시",
+       "date": "2026-11-17"
+      },
+      {
+       "name": "소셜밸류",
+       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1CMmg4NmlCS1FBeFYzSHhOdm1KaVBTeEtTSnZSTnNnaUZodGZ5U2xQLVMteTNkV3VsQ0JzM3loX3RZNEMxallsU1c3aVFRMGo0eHBRVlZRVDFPZFR5TDNDbmVXSdIBbEFVX3lxTFBSVjBHMzRTcVJ2cXFYcmVXLTI3X0NkVEtaMFZWVDcxRE9CR2JPMG15dllCOV8yRVc5SjlIaE5raTdpMDNhdFk2UWVYTkxyTUpUR0syRU5pZkJtMXVXd0d3V2xtVjBRT3RYcHJvYw?oc=5",
+       "title": "카페24, ‘제조사 매칭 서비스’ 출시…＂상품 제작 요청 한 번에 여러 견적＂",
+       "date": "2026-11-17"
+      },
+      {
+       "name": "이데일리",
+       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQOXc1TUE3TnVoYVlYc3pnbC1BVWM5YnJxOHVhbmFuYXktSTQwOXBXeUFaX21pbGRhZXdWZWNMYnhpbHR0LUktb0I3V25qbmRFNDlyNURwOHBxMEhCMnR3MWNPVUhwV3FNWnBlYnBoVnp5UkV6d1JJd0lKOEtmZTNlZg?oc=5",
+       "title": "\"상품만 기획하세요, 제조사 찾아드려요\"…카페24 '제조사 매칭' 출시",
+       "date": "2026-11-17"
+      }
+     ],
+     "date": "2026-11-17",
+     "id": "20261118-05"
+    },
+    {
+     "cat": "market",
+     "importance": "mid",
+     "company": "업계 전반",
+     "title": "직장인 스카웃 제안 거절 1위는 ‘희망 직무 불일치’, 연봉보다 일",
+     "body": "설문조사 결과 직장인 과반수가 이직 제안을 거절하는 주된 이유로 '연봉'이 아닌 '희망 직무와의 불일치(JD 불명확/역할 차이)'를 1위로 꼽았어요.",
+     "insight": "단순 연봉 인상 제안만으로는 우수 경력직 유치가 어려우며, 구체적인 R&R과 성장 기회 제시가 채용 성패를 좌우해요.",
+     "action": "채용 공고 및 헤드헌팅 제안 시 직무 기술서(JD)의 커리어 비전과 핵심 업무 범위를 상세화해 보세요.",
+     "teams": [
+      "채용",
+      "보상·복리후생"
+     ],
+     "tags": [
+      "이직트렌드",
+      "스카웃",
+      "직무적합성",
+      "채용브랜딩"
+     ],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "파이낸셜뉴스",
+       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1PQXVOWFEyZ0dMaGpLNmRDQV9JQ0NOSndta0xJSzA2UWxBdThnSEFjc3J1MWlQN2JFd2dVSWh4bEFMWWNGbUlULXpmU3lpWW5ZOGpYbGNxV2Fjdw?oc=5",
+       "title": "\"연봉 때문 아니었다\"…직장인 절반이 이직제안 거절한 이유",
+       "date": "2026-11-17"
+      },
+      {
+       "name": "매일경제",
+       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB2NzlnVy14MmZpNXlJOHFJRmcyOS1NVTlFczhjVjlDZGVYYWtBcXJZUERTM1dtMlViaHpPMXpoVk1sT25BeWRoQW5yRVFtQQ?oc=5",
+       "title": "연봉 아니었다...직장인 스카웃 제안 거절 이유는 이것",
+       "date": "2026-11-17"
+      },
+      {
+       "name": "Chosunbiz",
+       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQTdpQUdTWnBqSERDaW93ZzlPRjVSc2Y4MFNHdU1Jbnl1YkZHNTRPQURpejdESnFjUFd6V2c3bm44WDh1WTZDWUFjVVdzUWJucnYtQkRndDZSUzNzcjllRUt0NVRtb2FmMVRuMENPcnE4em1ISmZKWERYYTJ5cFlCcllGYWQycGhFTWpjNDdGRXdHSVRoT1HSAZYBQVVfeXFMTUE3aUFHU1pwakhEQ2lvd2c5T0Y1UnNmODBTR3VNSW55dWJGRzU0T0FEaXo3REpxY1BXeldnN25uOFg4dVk2Q1lBY1VXc1FibnJ2LUJEZ3Q2UlMzc3I5ZUVLdDVUbW9hZjFUbjBDT3JxOHptSEpmSlhEWGEyeXBZQnJZRmFkMnBoRU1qYzQ3RkV3R0lUaE9R?oc=5",
+       "title": "연봉이 문제인 줄 알았더니…스카웃 거절 이유 1위는 ‘희망 직무 불일치’",
+       "date": "2026-11-17"
+      },
+      {
+       "name": "ER 이코노믹리뷰",
+       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9VeEpkbVRKY1B2MjlHYnV2bm9wX3BGejNXempqazdoVW5DdEJyTXZ4R0ZpLXI4a1hqWWQ3VFFaazVnMzdQem9YMjEwdmRXMTEzeTRiaGI0ZXBWa0JFbVhRNEphUEZaZ043VnItdw?oc=5",
+       "title": "스카웃 거절 1위는 \"연봉 아닌 원하는 일\"",
+       "date": "2026-11-17"
+      },
+      {
+       "name": "비즈니스플러스",
+       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBHLWxkNTRkYk9qU1VXeHQwb2VUWGNCblgyeHptLWZKdkhlUWJFc3VtQzdpTk1zQmQ2MnNjLUVJVHZNWWxNY3paYllDR0VsZXlfeE1sLVMtZThidGZtUUpSMWRla05KR3FzdlNJamN1RQ?oc=5",
+       "title": "직장인 스카웃 제안 거절 이유 1위는 '연봉' 아닌 '직무 불일치'",
+       "date": "2026-11-17"
+      }
+     ],
+     "date": "2026-11-17",
+     "id": "20261118-06"
+    },
+    {
+     "cat": "labor",
+     "importance": "mid",
+     "company": "시프티",
+     "title": "연말 임금 산정 시즌 대비 근태 데이터 관리 및 통상임금 기준 가이드",
+     "body": "HR 전문 기고를 통해 복잡해진 혼합근무제 속 근태 데이터 자동화, 통상임금 판례 기준, 퇴직금 및 연차 산정 오류 예방 가이드가 공유되었어요.",
+     "insight": "통상임금 산정 범위 관련 법적 분쟁 리스크를 예방하고 연말 연차수당 및 급여 정산 오류를 원천 차단해야 해요.",
+     "action": "통상임금 항목 정의와 12월 연차 정산 프로세스를 사전 검토하고 현장 모니터링을 진행해 보세요.",
+     "teams": [
+      "노무·ER",
+      "보상·복리후생"
+     ],
+     "tags": [
+      "통상임금",
+      "근태관리",
+      "연차수당",
+      "급여정산"
+     ],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "시프티 블로그",
+       "url": "https://shiftee.io/ko/blog/article/efficient-time-and-attendance-management-automation-2026",
+       "title": "2026년, 근태관리를 효율적으로 하는 방법과 자동화 도입 절차 2026년 기업의 HR 환경은 빠르게 변화하고 있습니다. 혼합 근무제가 일상화되면서 사무직, 외근직, 교대근무 인력이 한 조직... 2026-04-27",
+       "date": "2026-11-18"
+      },
+      {
+       "name": "시프티 블로그",
+       "url": "https://shiftee.io/ko/blog/article/payroll-automation-and-attendance-data-management",
+       "title": "급여정산 오류를 줄이는 근태 데이터 관리와 임금명세서 발송 자동화 전략 매월 급여정산 시즌이 다가오면 인사·급여 담당자는 반복되는 확인 작업과 데이터 검증에 많은 시간을 할애하게 됩니다. 근로시간 ... 2026-0",
+       "date": "2026-11-18"
+      },
+      {
+       "name": "시프티 블로그",
+       "url": "https://shiftee.io/ko/blog/article/severance-pay-calculation-average-wage-guide",
+       "title": "퇴직금 계산 방법과 평균임금 산정 기준·근속기간별 예시 퇴직금은 계속근로기간과 퇴직 전 평균임금을 기준으로 산정합니다. 법정 퇴직금은 1일 평균임금 × 30일 × (총 재직일수 ÷ ... 2026-10-29",
+       "date": "2026-11-18"
+      },
+      {
+       "name": "시프티 블로그",
+       "url": "https://shiftee.io/ko/blog/article/annual-leave-accrual-criteria-and-days-by-tenure",
+       "title": "근속기간별 연차 발생 기준과 연차일수 계산 방법 알아보기 연차휴가는 근로자의 근속기간과 출근 요건에 따라 발생하는 법정 휴가입니다. 근로자의 계속근로기간이 1년 미만인지 1년 이상인지... 2026-10-16",
+       "date": "2026-11-18"
+      },
+      {
+       "name": "시프티 블로그",
+       "url": "https://shiftee.io/ko/blog/article/ordinary-wage-standard-and-allowance-calculation",
+       "title": "통상임금 산정 기준과 수당 계산 방법 : 최신 판례로 알아보기 통상임금은 연장·야간·휴일근로수당, 연차수당, 해고예고수당 등 대부분의 법정수당을 계산하는 기준이 되는 핵심 개념입니다. 어떤... 2026-09-28",
+       "date": "2026-11-18"
+      }
+     ],
+     "date": "2026-11-18",
+     "id": "20261118-08"
+    },
+    {
+     "cat": "trend",
+     "importance": "mid",
+     "company": "업계 전반",
+     "title": "다우기술 등 HR 플랫폼 세미나, 업무 자동화와 AI 도입 전략 제시",
+     "body": "다우기술 등 주요 HR테크 기업들이 AI를 결합한 근태 관리, 급여 자동화, 그룹웨어 연계 방안을 제시하는 오프라인 세미나를 성황리에 마쳤어요.",
+     "insight": "HR 부서의 단순 반복 행정 업무를 AI로 줄이고 전략적 피플 분석 및 임직원 케어로 업무 중심축이 이동하고 있어요.",
+     "action": "그룹사 인사 시스템 내 반복적인 근태·휴가·증명서 발급 문의 등에 챗봇 등 자동화 도입 방안을 검토해 보세요.",
+     "teams": [
+      "인사기획",
+      "조직문화·HRD"
+     ],
+     "tags": [
+      "HR테크",
+      "업무자동화",
+      "AI근태",
+      "생산성"
+     ],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "전자신문",
+       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5xWGdRTnlJbEp0RS1VZV8xNmRid2J0dmNfWjJFbXBTZjUtN2ZIN3BDajVwVllZOTJUWmktaXFQTXdodE9qNDBXQmJVRkxYUQ?oc=5",
+       "title": "다우기술, HR·AI 연계 운영 방안 제시…오프라인 세미나 성료",
+       "date": "2026-11-17"
+      },
+      {
+       "name": "전자신문",
+       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBLSWJIZFZScms3amxESU5pMDFxZWVvUC1VcnFoc29nT2VyLWk3NklvOFJTS2dJV3oyMXhFN2xGa3p6endGbzVsZDgwV0dOdw?oc=5",
+       "title": "다우기술, 다우오피스 'HR과 AI가 만드는 업무 플랫폼의 새로운 변화' 세미나 성료",
+       "date": "2026-11-17"
+      },
+      {
+       "name": "한스경제",
+       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5wcGxWRXpOREtHYml0MjFueWhpM1FiYzlQS1FRZVluTUFWdFgxYXJvNGxuMFl2ZmhacmhqX0JPVlhqZDQxU1hFLVVkOTBha2x1RG16MmdPd0xXYkZLaDRPbEhfU21EVWtLTTE40gFvQVVfeXFMUFVBRVFjVG1sMG82bmE3SE5tTUlPZnpSVXE5UlJLZ1I5QndVV0IwVndpR21wMlZtTU4zRl9YV1N1N3ZrQVFrcHlzRDR4N3NKSGhTQ1QzclRmLVVLTXQ5TEFPc1hLYndyQzVyNWVuZGJv?oc=5",
+       "title": "다우기술, ‘다우오피스’ 중심 노동 환경 변화·AI 도입 전략 제시",
+       "date": "2026-11-17"
+      },
+      {
+       "name": "이코노미사이언스",
+       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5NWl9TZjNqYnlNRVd6dTg2STRnbXFsbFdiNzE0ajk0MWtVVWEyRW5kQ2p0S2tnXzdULVB3UlJLU0QtdkxvUi11N2RLSU1lek9qaE1hRUMyRGlLRjdObmNnZ1gzTkZiNFJiUFd2RHM2OA?oc=5",
+       "title": "다우기술, 그룹웨어·HR·AI 통합 업무 플랫폼 강화…인사관리 자동화 전략 제시",
+       "date": "2026-11-17"
+      }
+     ],
+     "date": "2026-11-17",
+     "id": "20261118-07"
+    },
+    {
+     "cat": "market",
+     "importance": "mid",
+     "company": "월급쟁이부자들",
+     "title": "월급쟁이부자들, 부동산 중개 ‘구해줘내집’ 종료 및 희망퇴직 시행",
+     "body": "부동산 커뮤니티 플랫폼 월급쟁이부자들이 부동산 중개 플랫폼 ‘구해줘내집’ 서비스를 공식 종료하고 소속 인력을 대상으로 희망퇴직을 실시했어요.",
+     "insight": "프롭테크 사업 정리로 인해 서비스 기획, 개발, 부동산 데이터 분석 인력이 대거 시장에 유입되고 있어요.",
+     "action": "다나와 가격비교 및 데이터 서비스 고도화에 적합한 플랫폼 기획/개발 경력직을 타겟 소싱해 보세요.",
+     "teams": [
+      "채용"
+     ],
+     "tags": [
+      "월급쟁이부자들",
+      "서비스종료",
+      "희망퇴직",
+      "프롭테크"
+     ],
+     "our_group": false,
+     "talent": {
+      "level": "mid",
+      "signal": "사업 철수 및 희망퇴직 — 플랫폼 개발·기획 인력 유입"
+     },
+     "sources": [
+      {
+       "name": "Chosunbiz",
+       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVXFyZnpkRnd0d2dfMHNuT1UxRDJOX2NST19yWktIMmJwY1hGbWJVRmtKcWNMck53bWNUUGZPYm15ZmhMdE9JWEY1Y0V0a0MzRG9hdmxyXzVtSDUyZ0JNV0pCWkRPWkdGd0ZNTmxIQUNHUGRiQmV3dzI4b2dMQzF4b2w5YVZRcDhISnE3eXM3LTV4MDVoaFdEQtIBrAFBVV95cUxQUVFBc3JBSDlSeVhGNkJKekxnblprYUJWbk1jNlpVSHVJaTJvTDBMdERCU3JIMW5wandLQ2w5cnk3akR3cjFGaUs3WXFTTUVCejlfNmZYVlZVbXBKZzhMVE1HOWxVZ0M3RHZXb3psVGdtQm4yM29oZUdjUXRRVlluMk1YSWJYV3Z0d3BtQVdSTVlOcTQ4aFlNWE02ek5ld1dMckNJNVNwdllZOGZf?oc=5",
+       "title": "월급쟁이부자들, 부동산 중개 ‘구해줘내집’ 종료… 희망퇴직 시행",
+       "date": "2026-11-17"
+      },
+      {
+       "name": "파이낸셜뉴스",
+       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ZeTZzYWQtQ1pLMzdsSkF0bjAweTAzLVNiYmIwYlU5cW1HMjZBYTZCbGxyLUswc0NJemRZeTYtU0VRMUVLd0Jua2kxaThFQTItalZOWkxzdE1nUQ?oc=5",
+       "title": "월급쟁이부자들, 부동산 중개업 철수…희망퇴직도 실시",
+       "date": "2026-11-17"
+      },
+      {
+       "name": "파이낸셜포스트",
+       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE80bFN6NGhOZFRmZ3VnSUE2VWI3eFhwQWFFVkx1Y0JnYzhkOHhYVjlNa2IzV2FYMEYxLVFFWFI0YWhMYmV4RmpSNWtaY0c2c1NlSlF4UmdaYkEtUy1LVDZQZkQxWDRSWlJHNkpFWE43bWZYVmN2?oc=5",
+       "title": "월급쟁이부자들, 부동산 중개 ‘구해줘내집’ 기능종료… 희망퇴직 시행",
+       "date": "2026-11-17"
+      }
+     ],
+     "date": "2026-11-17",
+     "id": "20261118-04"
+    },
+    {
+     "cat": "market",
+     "importance": "low",
+     "company": "서울시",
+     "title": "서울시, 117개 기업 참가 외국인 인재 취업·채용박람회 개최",
+     "body": "서울시가 18일 국내 유학생 및 글로벌 전문 인재 정착을 지원하는 외국인 취업·채용박람회를 개최했으며 2,500명 이상의 구직자가 몰렸어요.",
+     "insight": "몰테일 등 해외 물류 및 크로스보더 커머스 사업을 위한 다국어 인재 소싱 통로로 활용 가치가 높아요.",
+     "action": "글로벌 사업 부서의 외국인 인턴 및 경력 채용 시 지자체 주관 채용 플랫폼 활용을 검토해 보세요.",
+     "teams": [
+      "채용",
+      "조직문화·HRD"
+     ],
+     "tags": [
+      "외국인채용",
+      "글로벌인재",
+      "몰테일",
+      "채용박람회"
+     ],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "뉴스핌",
+       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1MQzVnVzkxaXNGZEswd0VWcEVpd3lvTDZmSHFSR3dScTg1alBicjVOamZJVmhydkEwX1ItazRZdUowTXUzVVFiSjRoVXJkcXVHVVhodUVENWhrSGlp?oc=5",
+       "title": "서울시, 이달 18일 외국인 취업·채용박람회 개최...117개 기업·기관 참여",
+       "date": "2026-11-17"
+      },
+      {
+       "name": "뉴시스",
+       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1xVUlyWkI2NXhzWGhrSnMyTVh0ME8xRTNKOE5Jcl9PYy1kdldtTFBfeFdOMEsxZmJObWY1MXV6d1dHb18xdHpHZGVtZXRvZS1Pc21Xa2oteXE3UUxtbmdlOF9Wbkwzck1PQlB0Smg5UWxuNDZFTW1hUNIBeEFVX3lxTE1xVUlyWkI2NXhzWGhrSnMyTVh0ME8xRTNKOE5Jcl9PYy1kdldtTFBfeFdOMEsxZmJObWY1MXV6d1dHb18xdHpHZGVtZXRvZS1Pc21Xa2oteXE3UUxtbmdlOF9Wbkwzck1PQlB0Smg5UWxuNDZFTW1hUA?oc=5",
+       "title": "서울 외국인 취업·채용박람회 사전 신청자 2500명 돌파",
+       "date": "2026-11-17"
+      },
+      {
+       "name": "연합뉴스",
+       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5Uc0xjb1hHWDN0bXZqRFpyTW54aTZhOGQ0djc5S21hZUFOUG16WUhLTXhKaWM1bTE2U3FoOU9kakVvV1l1Mm9FT1BEMWdoa2hDMTNBM212ZEFPcnZQZTZ6U9IBYEFVX3lxTE5Uc0xjb1hHWDN0bXZqRFpyTW54aTZhOGQ0djc5S21hZUFOUG16WUhLTXhKaWM1bTE2U3FoOU9kakVvV1l1Mm9FT1BEMWdoa2hDMTNBM212ZEFPcnZQZTZ6Uw?oc=5",
+       "title": "유학 넘어 일하는 도시로…서울 외국인 취업·채용박람회",
+       "date": "2026-11-17"
+      },
+      {
+       "name": "BBS불교방송",
+       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBTX0Q3RENsakVSOEZqRFFKOHQ2NXhuQTY4eUd4ZjFLV0lwaEJfWXh6YlhsLTdPeUZtN2FmWHBxTHJFTFlJLW1MMmEzS2tadE45T0FQa1ZRM0tuT2w5YW9XZUptQ29jRnkwTEJn?oc=5",
+       "title": "서울시, 외국인 인재 취업과 정착 지원...내일 취업·채용박람회",
+       "date": "2026-11-17"
+      },
+      {
+       "name": "서울경제",
+       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE03cHhjN01WeVJSZ0dCYnk3eVBWcHY1dHFpUmNPUFFLWXJPZkQ3UERkcWtlWUFGN0RQdy02TEZOR1VmamJyQmhPUncyMEg3VWNwTEHSAVNBVV95cUxPOXBOYWtleHV3ZTl0RTdrSUNhMVh5TTIwaWQyMTVRUWIybWFjMEtqTGJabmlFZTVhNDNNeHRRVW8xbDRlM0NhZUY1SUtMcWxtaEkwNA?oc=5",
+       "title": "외국인 유학생 취업 문턱 낮춘다…서울시 취업·채용박람회 개최",
+       "date": "2026-11-17"
+      },
+      {
+       "name": "머니투데이",
+       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE90S25oMllmY2VVcnVYYTJzLV9hc3k4aXBQdXJ3bmJYeEFxVnFESTdDazNtajNvNXZrT3VJRk5KRjVXVHozQm1jckJWNnRoczh5bHk1dnp0VmU1YzQwc0VrZmY2REZpYUNJbHN2a29TQXd6SEJZRnM4b19OamPSAXxBVV95cUxPdEtuaDJZZmNlVXJ1WGEycy1fYXN5OGlwUHVyd25iWHhBcVZxREk3Q2szbWozbzV2a091SUZOSkY1V1R6M0JtY3JCVjZ0aHM4eWx5NXZ6dFZlNWM0MHNFa2ZmNkRGaWFDSWxzdmtvU0F3ekhCWUZzOG9fTmpj?oc=5",
+       "title": "\"글로벌 인재가 일하는 도시로\"…서울시, 외국인 취업 박람회 - 머니투데이",
+       "date": "2026-11-17"
+      },
+      {
+       "name": "디벨로퍼뉴스",
+       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE55X1JNN0l6TVF1MVQ3MXdXWFFfamRyOVYzRHQtRDBFN2pMTEtodEdvMHpnUW5EOGpkak1BS1BuWTdWdUNsc1BGU1hNa25yTUhFTFY1c2d6SDhyNU5EZ0l4dmI4M1ljUHRE?oc=5",
+       "title": "서울시, 외국인 취업·채용박람회 18일 개최…기업·기관 117곳 참여",
+       "date": "2026-11-17"
+      }
+     ],
+     "date": "2026-11-17",
+     "id": "20261118-09"
+    }
+   ]
+  },
   {
    "date": "2026-11-17",
    "window_days": 1,
