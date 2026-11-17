@@ -496,9 +496,10 @@ body:not([data-section="news"]) .news-only{display:none!important}
       <div class="eyebrow"><span>빅테크 직무 추이</span><span class="mono" id="jMeta"></span></div>
       <h2 id="jHeadline">불러오는 중…</h2>
     </div>
-    <div class="seg" role="group" aria-label="비교 기간">
-      <button type="button" data-cmp="7" aria-pressed="true">지난주 대비</button>
-      <button type="button" data-cmp="30" aria-pressed="false">지난달 대비</button>
+    <div class="stepper" aria-label="주 선택">
+      <button class="iconbtn" id="jWkPrev" type="button" aria-label="이전 주"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2"><path d="M10 3 5 8l5 5"/></svg></button>
+      <span class="range" id="jWkLabel" style="min-width:150px;text-align:center;font-size:12.5px;font-weight:600">—</span>
+      <button class="iconbtn" id="jWkNext" type="button" aria-label="다음 주"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2"><path d="m6 3 5 5-5 5"/></svg></button>
     </div>
   </div>
   <div class="row" id="jGroups" aria-label="회사 묶음"></div>
@@ -588,7 +589,7 @@ body:not([data-section="news"]) .news-only{display:none!important}
     get(k, d){ try { const v = localStorage.getItem('hrr.' + k); return v == null ? d : JSON.parse(v); } catch { return d; } },
     set(k, v){ try { localStorage.setItem('hrr.' + k, JSON.stringify(v)); } catch {} }
   };
-  const CAT_COLOR = { market:'--c-market', trend:'--c-trend', labor:'--c-labor', ecom:'--c-ecom', brand:'--c-brand' };
+  const CAT_COLOR = { market:'--c-market', trend:'--c-trend', labor:'--c-labor', ecom:'--c-ecom', brand:'--c-brand', work:'--c-brand' };
   const catColor = id => `var(${CAT_COLOR[id] || '--muted'})`;
   const DOW = ['일','월','화','수','목','금','토'];
   const d2s = d => `${d.getFullYear()}-${String(d.getMonth()+1).padStart(2,'0')}-${String(d.getDate()).padStart(2,'0')}`;
@@ -982,7 +983,7 @@ body:not([data-section="news"]) .news-only{display:none!important}
 
   // ── 빅테크 직무 추이 (채용 공고 기반) ──
   const AI_FAMS = new Set(['fde', 'ai_safety', 'ai_research', 'applied_ai', 'ml_eng']);
-  let J = null, jCmp = 7, jGroup = 'all', jOpen = null;
+  let J = null, jWk = 0, jGroup = 'all', jOpen = null;  // jWk: 0 = 가장 최근 주
   function loadJobs(){
     loaded.jobs = true;
     fetch('jobs.json', { cache: 'no-store' }).then(r => { if (!r.ok) throw new Error(r.status); return r.json(); }).then(d => {
@@ -1027,6 +1028,32 @@ body:not([data-section="news"]) .news-only{display:none!important}
     return `<svg viewBox="0 0 92 26" aria-hidden="true"><polyline points="${pts.join(' ')}" fill="none" stroke="${color}" stroke-width="1.6" stroke-linejoin="round"/><circle cx="${pts.at(-1).split(',')[0]}" cy="${pts.at(-1).split(',')[1]}" r="2.2" fill="${color}"/></svg>`;
   }
 
+  // ── 주 단위(월~일) 묶음 ──
+  const iso = d => `${d.getFullYear()}-${String(d.getMonth()+1).padStart(2,'0')}-${String(d.getDate()).padStart(2,'0')}`;
+  function weekOf(ds){  // 카드뉴스와 같은 규칙: 월요일 시작, 목요일이 속한 달의 몇째 주
+    const d = s2d(ds), mon = new Date(d); mon.setDate(d.getDate() - (d.getDay() + 6) % 7);
+    const sun = new Date(mon); sun.setDate(mon.getDate() + 6);
+    const thu = new Date(mon); thu.setDate(mon.getDate() + 3);
+    return { start: iso(mon), end: iso(sun), label: `${thu.getMonth()+1}월 ${Math.floor((thu.getDate() - 1) / 7) + 1}주차` };
+  }
+  function jWeeks(){  // 최신 주부터, 각 주에 들어 있는 수집일
+    const m = new Map();
+    J.days.forEach(d => { const w = weekOf(d.date); if (!m.has(w.start)) m.set(w.start, { ...w, days: [] }); m.get(w.start).days.push(d); });
+    return [...m.values()].sort((a, b) => b.start.localeCompare(a.start));
+  }
+  // 한 주의 공고 수를 회사별 '하루 평균'으로 묶어요 (수집일 수가 달라도 공정하게 비교)
+  function weekAgg(w, ids){
+    const counts = {};
+    ids.forEach(id => {
+      const ds = w.days.filter(d => (d.counts || {})[id]);
+      if (!ds.length) return;
+      const o = {};
+      ds.forEach(d => Object.entries(d.counts[id]).forEach(([f, n]) => o[f] = (o[f] || 0) + n / ds.length));
+      counts[id] = o;
+    });
+    return { date: w.end, counts };
+  }
+
   function renderJobs(){
     const ids = jCompanies(), today = J.days[0], ok = (J.meta.companies || []).filter(c => c.ok);
     const fams = J.meta.families.map(f => f.id);
@@ -1035,55 +1062,62 @@ body:not([data-section="news"]) .news-only{display:none!important}
     const groups = [['all', '전체'], ...Object.entries(J.meta.groups || {})];
     $('#jGroups').innerHTML = '<label class="lbl">회사</label>' + groups.map(([g, n]) =>
       `<button class="chip" type="button" data-jg="${g}" aria-pressed="${g === jGroup}">${esc(n)}</button>`).join('');
-    document.querySelectorAll('[data-cmp]').forEach(b => b.setAttribute('aria-pressed', String(+b.dataset.cmp === jCmp)));
 
-    // 비교 기준: 7일·30일 전 데이터. 아직 없으면 '최근 7일 새 공고' 분포로 대신 봐요
-    const base = dayBack(jCmp);
-    const prev = base ? famTotals(base, ids.filter(id => (base.counts || {})[id] && (today.counts || {})[id])) : null;
-    const curSame = base ? famTotals(today, ids.filter(id => (base.counts || {})[id] && (today.counts || {})[id])) : null;
+    // 비교 기준: 고른 주(월~일) vs 바로 전 주. 두 주 모두 공고가 있는 회사만, 하루 평균 공고 수로 비교해요
+    const WKS = jWeeks();
+    jWk = Math.min(jWk, WKS.length - 1);
+    const wk = WKS[jWk], pw = WKS.find(x => x.start === iso(new Date(s2d(wk.start).getTime() - 7 * 864e5)));
+    const live = wk.days.length < 7 && wk.start === WKS[0].start;
+    const rng = w => `${short(w.start)}~${short(w.end)}`;
+    $('#jWkLabel').textContent = `${wk.label} (${rng(wk)})${live ? ' · 진행 중' : ''}`;
+    $('#jWkPrev').disabled = jWk >= WKS.length - 1;
+    $('#jWkNext').disabled = jWk <= 0;
+    const aggW = weekAgg(wk, ids), aggP = pw ? weekAgg(pw, ids) : null;
+    const both = aggP ? ids.filter(id => aggW.counts[id] && aggP.counts[id]) : [];
+    const prev = both.length ? famTotals(aggP, both) : null;
+    const curSame = both.length ? famTotals(aggW, both) : null;
     const rec = famTotals(today, ids, 'recent7'), recTot = sum(rec);
     let rows, mode;
     if (prev && sum(prev)){
       mode = 'cmp';
-      const both = ids.filter(id => (base.counts || {})[id] && (today.counts || {})[id]);
-      const sc = eqShare(today, both), sp = eqShare(base, both);
-      rows = fams.filter(f => f !== 'other').map(f => ({ f, n: curSame[f] || 0, d: (curSame[f] || 0) - (prev[f] || 0),
+      const sc = eqShare(aggW, both), sp = eqShare(aggP, both);
+      rows = fams.filter(f => f !== 'other').map(f => ({ f, n: Math.round(curSame[f] || 0), d: Math.round((curSame[f] || 0) - (prev[f] || 0)),
         pp: (sc[f] || 0) - (sp[f] || 0), rel: prev[f] ? ((curSame[f] || 0) / prev[f] - 1) * 100 : null }));
-      $('#jMoverNote').textContent = `${fmt(base.date)} 대비 · 공고 비중 변화 기준`;
-      $('#jBaseline').hidden = true;
+      $('#jMoverNote').textContent = `${wk.label} vs 지난주(${rng(pw)}) · 수집 ${wk.days.length}일·${pw.days.length}일 평균 · 공고 비중 변화 기준`;
+      $('#jBaseline').hidden = !live;
+      if (live) $('#jBaseline').innerHTML = `<b>이번 주는 아직 진행 중이에요.</b> 지금까지 수집한 ${wk.days.length}일치로 계산했어요. 일요일까지 쌓이면 숫자가 더 안정돼요.`;
     } else {
-      // 비교할 과거 데이터가 없으면 증감은 -%p로 두고, 현재 비중 순으로만 보여줘요
+      // 전 주 데이터가 없으면 그 주의 공고 비중 순으로만 보여줘요
       mode = 'none';
-      rows = fams.filter(f => f !== 'other').map(f => ({ f, n: cur[f] || 0, pp: null }));
-      const since = J.meta.baseline || today.date;
-      const ready = new Date(s2d(since)); ready.setDate(ready.getDate() + jCmp);
-      $('#jMoverNote').textContent = `증감은 ${ready.getMonth()+1}/${ready.getDate()}부터 표시돼요`;
+      rows = fams.filter(f => f !== 'other').map(f => ({ f, n: Math.round(famTotals(aggW, ids)[f] || 0), pp: null }));
+      $('#jMoverNote').textContent = `${wk.label} · 비교할 지난주 데이터가 없어요`;
       $('#jBaseline').hidden = false;
-      $('#jBaseline').innerHTML = `<b>데이터를 쌓는 중이에요.</b> 공고 수집은 ${esc(since)}에 시작했어요. ${jCmp === 7 ? '일주일' : '한 달'}이 쌓이면 '${jCmp === 7 ? '지난주' : '지난달'} 대비' 증감이 표시되고, 그 전까지는 <b>-%p</b>로 보여드려요.`;
+      $('#jBaseline').innerHTML = `<b>비교할 지난주 데이터가 없어요.</b> 공고 수집은 ${esc(J.meta.baseline || J.days.at(-1).date)}에 시작했어요. 이 주는 직무 비중 순으로만 보여드리고, 증감은 <b>-%p</b>로 표시해요.`;
     }
     // 직무별 비중 추이(최근 30일)
-    const hist = J.days.slice(0, 30).reverse();
-    const shareSeries = f => hist.map(d => eqShare(d, ids)[f] || 0);
-    const curShare = eqShare(today, ids);
+    const sIds = mode === 'cmp' ? both : ids;  // 증감 숫자와 같은 회사 묶음으로 추이선을 그려요
+    const histW = WKS.slice(jWk, jWk + 8).reverse().map(w => eqShare(weekAgg(w, sIds), sIds));
+    const shareSeries = f => histW.map(x => x[f] || 0);
+    const curShare = eqShare(aggW, ids);
     if (mode === 'none'){
       const byShare = rows.slice().sort((a, b) => (curShare[b.f] || 0) - (curShare[a.f] || 0));
       const half = Math.ceil(byShare.length / 2);
-      const row = r => `<div class="mv"><div><b>${esc(famName(r.f))}</b><small>공고 ${r.n.toLocaleString('ko-KR')}건 · 비중 ${(curShare[r.f] || 0).toFixed(1)}%</small></div>
+      const row = r => `<div class="mv"><div><b>${esc(famName(r.f))}</b><small>하루 평균 공고 ${r.n.toLocaleString('ko-KR')}건 · 비중 ${(curShare[r.f] || 0).toFixed(1)}%</small></div>
         <span></span><span class="dl" style="color:var(--sub)">-%p</span></div>`;
       $('#jMovers').innerHTML = `<div class="mv-col"><h4>공고 비중 상위 직무</h4>${byShare.slice(0, half).map(row).join('')}</div>
         <div class="mv-col"><h4>&nbsp;</h4>${byShare.slice(half).map(row).join('')}</div>`;
-      $('#jHeadline').textContent = `지금 빅테크 공고에서 가장 많은 직무는 ${famName(byShare[0].f)}예요`;
+      $('#jHeadline').textContent = `${wk.label} 빅테크 공고에서 가장 많은 직무는 ${famName(byShare[0].f)}예요`;
     }
     const up = mode === 'none' ? [] : rows.filter(r => r.pp > 0.05).sort((a, b) => b.pp - a.pp).slice(0, 6);
     const dn = mode === 'none' ? [] : rows.filter(r => r.pp < -0.05).sort((a, b) => a.pp - b.pp).slice(0, 6);
     const mvRow = (r, color) => `<div class="mv"><div><b>${esc(famName(r.f))}</b><small>${mode === 'cmp'
-        ? `${r.n.toLocaleString('ko-KR')}건 (${r.d >= 0 ? '+' : ''}${r.d.toLocaleString('ko-KR')}${r.rel != null ? `, ${r.rel >= 0 ? '+' : ''}${r.rel.toFixed(0)}%` : ''})`
+        ? `하루 평균 ${r.n.toLocaleString('ko-KR')}건 (${r.d >= 0 ? '+' : ''}${r.d.toLocaleString('ko-KR')}${r.rel != null ? `, ${r.rel >= 0 ? '+' : ''}${r.rel.toFixed(0)}%` : ''})`
         : `새 공고 ${r.n.toLocaleString('ko-KR')}건 · 평소 비중 ${(curShare[r.f] || 0).toFixed(1)}%`}</small></div>
       ${spark(shareSeries(r.f), color)}<span class="dl">${r.pp >= 0 ? '+' : ''}${r.pp.toFixed(1)}%p</span></div>`;
     if (mode !== 'none') $('#jMovers').innerHTML = `<div class="mv-col up"><h4>↑ 뜨는 직무</h4>${up.map(r => mvRow(r, 'var(--up)')).join('') || '<p class="foot">뚜렷하게 늘어난 직무가 없어요</p>'}</div>
       <div class="mv-col dn"><h4>↓ 식는 직무</h4>${dn.map(r => mvRow(r, 'var(--high)')).join('') || '<p class="foot">뚜렷하게 줄어든 직무가 없어요</p>'}</div>`;
     const top = up[0], bot = dn[0];
-    if (mode !== 'none') $('#jHeadline').textContent = top && bot ? `${famName(top.f)} 비중이 늘고, ${famName(bot.f)} 비중이 줄었어요`
+    if (mode !== 'none') $('#jHeadline').textContent = top && bot ? `${wk.label}, ${famName(top.f)} 비중이 늘고 ${famName(bot.f)} 비중이 줄었어요`
       : top ? `${famName(top.f)} 공고 비중이 가장 많이 늘었어요` : '직무 비중에 큰 변화가 없어요';
 
     // 새로 등장한 직무명 · 사라진 직무명
@@ -1135,7 +1169,8 @@ body:not([data-section="news"]) .news-only{display:none!important}
     const fail = (J.meta.companies || []).filter(c => !c.ok);
     $('#jFail').innerHTML = fail.length ? `공고를 가져오지 못한 회사: ${fail.map(c => esc(c.name)).join(', ')} — 공개 채용 API가 없거나 접근을 막아 둔 곳이에요.` : '';
   }
-  document.querySelectorAll('[data-cmp]').forEach(b => b.addEventListener('click', () => { jCmp = +b.dataset.cmp; if (J) renderJobs(); }));
+  $('#jWkPrev').addEventListener('click', () => { if (J){ jWk++; renderJobs(); } });
+  $('#jWkNext').addEventListener('click', () => { if (J && jWk > 0){ jWk--; renderJobs(); } });
   $('#jGroups').addEventListener('click', e => { const b = e.target.closest('[data-jg]'); if (b && J){ jGroup = b.dataset.jg; renderJobs(); } });
   $('#jTable').addEventListener('click', e => { const r = e.target.closest('[data-fam]'); if (r && !e.target.closest('a')){ jOpen = jOpen === r.dataset.fam ? null : r.dataset.fam; renderJobs(); } });
   $('#jTable').addEventListener('keydown', e => { const r = e.target.closest('[data-fam]'); if (r && (e.key === 'Enter' || e.key === ' ')){ e.preventDefault(); r.click(); } });
