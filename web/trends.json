@@ -1,8 +1,550 @@
 {
  "meta": {
-  "updated": "2026-11-18T01:26+09:00"
+  "updated": "2026-11-19T01:12+09:00"
  },
  "reports": [
+  {
+   "date": "2026-11-19",
+   "article_count": 155,
+   "engine": "gemini-3-flash-preview",
+   "headline": "글로벌 빅테크의 대규모 감원·자발적 퇴직과 AI 중심 직군 재편",
+   "summary": [
+    "Microsoft가 6만 명 규모의 자발적 퇴직 프로그램을 가동하며 조직 효율화에 나섰습니다.",
+    "Salesforce, Intel, Qualcomm 등 주요 테크 기업들의 추가 감원 소식이 이어지고 있습니다.",
+    "국내외 이커머스 업계는 AI 역량 중심의 '프로덕트 엔지니어'로 개발 직군을 통합 채용하는 추세입니다."
+   ],
+   "numbers": [
+    {
+     "value": "60,000명",
+     "label": "Microsoft 자발적 퇴직 제안 규모",
+     "dir": "down",
+     "sources": [
+      {
+       "name": "Deccan Chronicle",
+       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQMndNQlcxUGJkSGJmRkdhcXFZc3ZEYnlJdlBhMi1GelA5eFZXckZrdFJYNllwT2tnUnR3RVg2M2NGQjc2QzZkSzh5SWhtbF9KUHJ0ZDJndW5EbWNUWE1pSHdGeTE4RWF1ZmkzS1pBMzA3WS1LV3BNNUxTUHVUZ0w3cTdNMXk1OGVJVUJha3NxNXBHc2NMMHc1aXRhNkVRWTgyb1h2THZRWDRuMm9sRW5rUHA2N1ZyZUFhdVRYYU9MWVJSaF9DOG9yOEtTdnlmZFFfZGFnc3JtcHUyUUdTOFc4a2loWnp3cUJy0gHoAUFVX3lxTFAyd01CVzFQYmRIYmZGR2FxcVlzdkRieUl2UGEyLUZ6UDl4VldyRmt0Ulg2WXBPa2dSdHdFWDYzY0ZCNzZDNmRLOHlJaG1sX0pQcnRkMmd1bkRtY1RYTWlId0Z5MThFYXVmaTNLWkEzMDdZLUtXcE01TFNQdVRnTDdxN00xeTU4ZUlVQmFrc3E1cEdzY0wwdzVpdGE2RVFZODJvWHZMdlFYNG4yb2xFbmtQcDY3VnJlQWF1VFhhT0xZUlJoX0M4b3I4S1N2eWZkUV9kYWdzcm1wdTJRR1M4VzhraWhaendxQnI?oc=5",
+       "title": "Don't Feel Stuck: Satya Nadella Reveals Why Microsoft Is Asking 60,000 Employees To Leave Voluntarily",
+       "date": "2026-11-18"
+      },
+      {
+       "name": "Coinpedia",
+       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQb0VzUnkteDJfQWlsQlFpMlBMcEZYa3Q0d2VrN0gwM0dfU2gwbHRROEUxQ0VKTm9qRXFOdDBEZTBMOUxSTEVLOVNSd1RLUGlXMHFwV1I4cDl6SjlRZlZBaFk2TjRoVXVIM1ZVaFpLRzBQc1VnX19ZYnZDOXBkNGxwbHBPakNNcTVHV0xEa21nUjM4YlAxOEkxLVZva0huT1hZcUdDS19QVEFXRzZGdzR2TUtR0gG3AUFVX3lxTE8zLXQ1SDdXM21jS0k5bXZQZW5sRmRia0RycmY4bWZsTWo2c3ZBaWo3YXVseUVrNURmWjFDV1lpb3lEa0MwWDlsM3Babjh0Tm12cF9ZSDJRRjBkVXRQTW1HVkJ6TTBlUFlaZW9xSkhjUnQ0dmI0Tm9DYWdmakFVaEl1d2VVaDBqWXZKbzY1TWVBeWp4Y3VTVGk2U3hwd1Myc29uZExTdDhnSlVZQXlTRTgtZEE3cDBCcw?oc=5",
+       "title": "Microsoft Buyout Offer Reaches 60,000 Employees In US, India, UK And Canada",
+       "date": "2026-11-18"
+      },
+      {
+       "name": "Firstpost",
+       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMzkyV3VEdnhLSklCbzFGQ3pmOVlNVWMteUdiZnVfbGNHSDdkZVV0eFlBVlcyMVo2Zkd1SkI0MmN1enNKQnpiY0VubVV2aC1QOFFtNktzUVJXNHdXYjZaV1dXbWJZa2Z5aS1kYzRQeEh4Nl9EUkZOT2drZE9CSlJDcV9aLVBtYS12NlZoWjNoYjBhWjNKWnlRV29UaXFFZF9rNjZ3TnlhXzd2VjFvYS1WeWtsVG16YlJVcXJBWDRlb2l5dVY5YlBGNTZR0gHPAUFVX3lxTE85MmZSeTg5XzhpNTJMUGFKd0hSUzZ4M3ZXQ1hEb3NUdVFwcE9NbjJ2X1owSUllOEI2WV84SDlXUUhhLTVVanViQ2l5NmdOWG0tV05qYW9nN3Iwb3VSdDNoZU9vNC1FMTNHTThYc2ZWNUpKT0M3TW9TQWFfVE1HYjgtaTlCdUdNbjZsZlUxVVdZOEM3bDIyS0xjcDQ3dnFfMlVkMWZHOGNNckRVT2FSS21mNnFyeFZmU1JpbzMtUTJuMzVTUm9MUldkbkZJSEZtYw?oc=5",
+       "title": "Microsoft layoffs: Why Satya Nadella wants 60,000 employees to consider voluntary exits",
+       "date": "2026-11-18"
+      }
+     ]
+    },
+    {
+     "value": "44%",
+     "label": "시애틀 지역 IT 채용 공고 감소율",
+     "dir": "down",
+     "sources": [
+      {
+       "name": "Axios",
+       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZUJ6dlRPZFViY2ZMUXlDZkUtWkFGc1pBZm5FckZpQWk5VU5YeTlWaHZtSmE1REZEUjZEOUhVZFZjN1Q4ZDlRU3dVOTcwMFp3bGJTaXpQTlQzTzNsNzBkV2M1QW9rckJqZ1gtQjZkbUY4LWRpUTV4Vi00WGhxMVZOOE9SMGxCd3J6eVh4TjRrZXR6STh3RDMxQXpR?oc=5",
+       "title": "Tech job postings plunge 44% in the Seattle area as competition surges",
+       "date": "2026-11-18"
+      }
+     ]
+    },
+    {
+     "value": "100,000,000달러",
+     "label": "Tribe AI의 연간 반복 매출(ARR)",
+     "dir": "up",
+     "sources": [
+      {
+       "name": "Business Wire",
+       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPaGNPWUJhLW9BZkNpSFliUmZwc3hFRU4weHhLeTllUFlWNG9fWDRySnBtZ3dqNTFfeWRiTmlJcXAtTDcyMW9yaVRxbTJVU3AydFludkp4WnpvQWQteGU0QUhZSk9sZENXRFhMZUppUk9aaUdQUnE0TVVrV2hCZHlUemxvbS1NRGZEOTZzcU5CSjRNc3hCc19HMUJWOHIwelRyTFlBUmprUnFJNWR4dDZMRVhLRUhqaEx2OVlhcllESDBwM0hjTTRuWWVDWEt2U3Rvbm4wQVcxYTYtVjNTUlQtc09GS1FLclFrWHYtZQ?oc=5",
+       "title": "Tribe AI Crosses $100 Million in Annualized Revenue Fueled by Enterprise Demand for Production AI",
+       "date": "2026-11-19"
+      }
+     ]
+    }
+   ],
+   "layoffs": [
+    {
+     "company": "Microsoft",
+     "kind": "자발적 퇴직",
+     "size": "60,000명",
+     "pct": "N/A",
+     "note": "미국, 인도, 영국, 캐나다 대상 커리어 선택권 부여 명목의 바이아웃 제안",
+     "sources": [
+      {
+       "name": "Deccan Chronicle",
+       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQMndNQlcxUGJkSGJmRkdhcXFZc3ZEYnlJdlBhMi1GelA5eFZXckZrdFJYNllwT2tnUnR3RVg2M2NGQjc2QzZkSzh5SWhtbF9KUHJ0ZDJndW5EbWNUWE1pSHdGeTE4RWF1ZmkzS1pBMzA3WS1LV3BNNUxTUHVUZ0w3cTdNMXk1OGVJVUJha3NxNXBHc2NMMHc1aXRhNkVRWTgyb1h2THZRWDRuMm9sRW5rUHA2N1ZyZUFhdVRYYU9MWVJSaF9DOG9yOEtTdnlmZFFfZGFnc3JtcHUyUUdTOFc4a2loWnp3cUJy0gHoAUFVX3lxTFAyd01CVzFQYmRIYmZGR2FxcVlzdkRieUl2UGEyLUZ6UDl4VldyRmt0Ulg2WXBPa2dSdHdFWDYzY0ZCNzZDNmRLOHlJaG1sX0pQcnRkMmd1bkRtY1RYTWlId0Z5MThFYXVmaTNLWkEzMDdZLUtXcE01TFNQdVRnTDdxN00xeTU4ZUlVQmFrc3E1cEdzY0wwdzVpdGE2RVFZODJvWHZMdlFYNG4yb2xFbmtQcDY3VnJlQWF1VFhhT0xZUlJoX0M4b3I4S1N2eWZkUV9kYWdzcm1wdTJRR1M4VzhraWhaendxQnI?oc=5",
+       "title": "Don't Feel Stuck: Satya Nadella Reveals Why Microsoft Is Asking 60,000 Employees To Leave Voluntarily",
+       "date": "2026-11-18"
+      },
+      {
+       "name": "Coinpedia",
+       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQb0VzUnkteDJfQWlsQlFpMlBMcEZYa3Q0d2VrN0gwM0dfU2gwbHRROEUxQ0VKTm9qRXFOdDBEZTBMOUxSTEVLOVNSd1RLUGlXMHFwV1I4cDl6SjlRZlZBaFk2TjRoVXVIM1ZVaFpLRzBQc1VnX19ZYnZDOXBkNGxwbHBPakNNcTVHV0xEa21nUjM4YlAxOEkxLVZva0huT1hZcUdDS19QVEFXRzZGdzR2TUtR0gG3AUFVX3lxTE8zLXQ1SDdXM21jS0k5bXZQZW5sRmRia0RycmY4bWZsTWo2c3ZBaWo3YXVseUVrNURmWjFDV1lpb3lEa0MwWDlsM3Babjh0Tm12cF9ZSDJRRjBkVXRQTW1HVkJ6TTBlUFlaZW9xSkhjUnQ0dmI0Tm9DYWdmakFVaEl1d2VVaDBqWXZKbzY1TWVBeWp4Y3VTVGk2U3hwd1Myc29uZExTdDhnSlVZQXlTRTgtZEE3cDBCcw?oc=5",
+       "title": "Microsoft Buyout Offer Reaches 60,000 Employees In US, India, UK And Canada",
+       "date": "2026-11-18"
+      },
+      {
+       "name": "Firstpost",
+       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMzkyV3VEdnhLSklCbzFGQ3pmOVlNVWMteUdiZnVfbGNHSDdkZVV0eFlBVlcyMVo2Zkd1SkI0MmN1enNKQnpiY0VubVV2aC1QOFFtNktzUVJXNHdXYjZaV1dXbWJZa2Z5aS1kYzRQeEh4Nl9EUkZOT2drZE9CSlJDcV9aLVBtYS12NlZoWjNoYjBhWjNKWnlRV29UaXFFZF9rNjZ3TnlhXzd2VjFvYS1WeWtsVG16YlJVcXJBWDRlb2l5dVY5YlBGNTZR0gHPAUFVX3lxTE85MmZSeTg5XzhpNTJMUGFKd0hSUzZ4M3ZXQ1hEb3NUdVFwcE9NbjJ2X1owSUllOEI2WV84SDlXUUhhLTVVanViQ2l5NmdOWG0tV05qYW9nN3Iwb3VSdDNoZU9vNC1FMTNHTThYc2ZWNUpKT0M3TW9TQWFfVE1HYjgtaTlCdUdNbjZsZlUxVVdZOEM3bDIyS0xjcDQ3dnFfMlVkMWZHOGNNckRVT2FSS21mNnFyeFZmU1JpbzMtUTJuMzVTUm9MUldkbkZJSEZtYw?oc=5",
+       "title": "Microsoft layoffs: Why Satya Nadella wants 60,000 employees to consider voluntary exits",
+       "date": "2026-11-18"
+      },
+      {
+       "name": "The Economic Times",
+       "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNMHZSaVlFUXROSnlKUkxob3F3YndzMUpJMlNwTFJmMGNKdjkzb0tSSFpKaHphNUlnajNZRjFqbHhnNThRSlVSVGhzRVhvbzZZTmhUa2VxS0lJbENiZmxrYi15WVJTeUN4N0dmSHB2R05PN2JfZHBWU0dJN1VYN21YLWQtMzlRRkQ5YTRLTkJDcnQ1TWF3RTY0YXMtOTI3U2tsMS03Uy11dFBwTUh2clJwZ1NZQ3Nndm5kSjMtMzVuaUpyZm5zZjlWdG1kWU81YTFwOFpGMTZaOTZnY3ZoUVdydkpuaVpQWWpkX284R0k4OTFSa1ZPczgyZGJza21JSFlfYklMWndOaHc2Ymxj0gGSAkFVX3lxTE0wOXZiQUVkQWZOVHRKbUpZM0hLVzZjQzRKQnF3aTJ6djJMWVVHRWlhUkhmalhfS2xRSDFYOGVCNVpqdzk0ZlZ5ckdhYktyUWVqeFZWWWFha1hTNlE4VFpPTGhkb2RBS0pHRmxLRGFPdERVMjVXT2RVdXo3RmQwTnEwZ2FHNXNoMWlvb2xocHFjZ0d6dHIzQmVha3RQb2VtQ1JVZFpvLW5tSWRVQVVQUVpMZzFkX1dmSjd2eU9YczJxTkRsT0ZNZklTOXJYTll5Y0VMOF9Zb2VKVEpxQkN6dVhncmt1Ym1ZX1BKRE9WMXRwSFpScnNObHdTS3hJRTZsWWlyRGoyVmNXeFJiWlVpUTdlcHc?oc=5",
+       "title": "‘I cannot say it’ll all be the same’: Satya Nadella explains why Microsoft is offering buyouts to 60,000 e",
+       "date": "2026-11-18"
+      }
+     ]
+    },
+    {
+     "company": "Salesforce",
+     "kind": "감원",
+     "size": "미공개",
+     "pct": "N/A",
+     "note": "AI 압박 및 소프트웨어 시장 우려 속 추가 인력 감축 단행",
+     "sources": [
+      {
+       "name": "Business Insider",
+       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPd3pkdHhtTk9yeGJvZGhCOGlLRjRqVEpFX290MFlUYzNUbWF4ZnRrUUY4aExaVTVjaDRmZVZCLU83Ui1ja2NMQlRkMlFyLWszUUZzUlc2cHp0MUxVdzc4ai1MMlFiMEFMVFpuRlU1dS1OVTN1dG1OX2U5RlFVZGVGdjlGOVE5M0pmQ1dzSE43M3FOcGY3UnZDNmpEUnNsekU?oc=5",
+       "title": "Salesforce has started cutting more jobs, internal messages show",
+       "date": "2026-11-18"
+      },
+      {
+       "name": "Yahoo Finance",
+       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTGJJZ29LZHFFMUFZcUhiZUItQllDQ1ItZDBUaWFvelhwTjZ5M0N4aTFuQW5xNVFSYXFhdHkzQ3BpZk41UDNpRndFLTlMeTBicE9meTFFVDFPTFgtbjBrNm8yYkNydW43Rk54cmlBNWhPZlE4WTlGRk5XWWtrcURtVFZ2S0hjaTJKaTJuOVc5TC03RTUzekE?oc=5",
+       "title": "CRM Stock Faces Worst Week Since April: Fresh Layoffs Reportedly Surface Across Salesforce Teams",
+       "date": "2026-11-18"
+      },
+      {
+       "name": "Investing.com",
+       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYWo2S0NEdWptUkNRTDlKZVBEdFNiVGVlVk5XenJhSjBmUmxPSmRXOHp1akxWV0g4RDlsMkYtRGVWYlJYYkVOZi1xN2p4RzlBSEhkYTE1WnB1ODVZeUxvenlVeV9QdlhGcE1JRUhVYkdmZlVyUU01MEJDNzh4WmhNUVhJUWhXUGdmTnBrZHhtd1BxeUxPNno5dHpnc1pONTZqd2pFVWN4cndXUVdFRUdlN0R4SUttLUR1aURNSk94enk?oc=5",
+       "title": "Salesforce starts fresh round of job cuts, Business Insider reports",
+       "date": "2026-11-18"
+      },
+      {
+       "name": "Wocult",
+       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9vYWw1UDFvaXl6dDdXWlYxSlUtOWVjZ0VGX1cyci16aWdmNU1vRjBFOGJqdnZWaEhDM2hMZFltZnp1SU5qTkdtUDR5YzVOdjlBd0RVbVhQUVlOT1VIX3RXekJkdGNEWHpFeGktTUwxd3BOQmFQbmhWRGFpeldwUQ?oc=5",
+       "title": "Salesforce starts another round of job cuts as AI pressure mounts",
+       "date": "2026-11-18"
+      }
+     ]
+    },
+    {
+     "company": "Intel",
+     "kind": "감원",
+     "size": "미공개",
+     "pct": "N/A",
+     "note": "구조조정의 일환으로 글로벌 IT 부문 인력 추가 감축",
+     "sources": [
+      {
+       "name": "CTech",
+       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE44X2xuQnFyc1hWYWZKMkdxaU5vZ0VOSkJlUW5CR1JtcnhDRFlTUlFEZGplcW1IbjdtcXFzQWFsVm5UNFRScFgyWDFGMUZZSW1DUXBob3lwRnNuMHFCX2tpWl9FMTdWV2c?oc=5",
+       "title": "Intel employees report new IT layoffs as restructuring continues",
+       "date": "2026-11-18"
+      },
+      {
+       "name": "Business Insider",
+       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaTBvT0pWSDBxZzhYeTFTVTJtcXdoYWY3YlJGQW9kMVdKeFhzSGpWUkpVY2phdXBwN05KR2lwbEQzamhOamlkSDBxWUdOVzlXRkxmbmJiUHI4MUJJLXZFakhfUHZ5YVo1YTlXU1NFekczZ1hHUmROa0tRdWZRTXowOE81cW10SkNRTkE?oc=5",
+       "title": "Intel is laying off employees again",
+       "date": "2026-11-18"
+      },
+      {
+       "name": "electronics.economictimes.indiatimes.com",
+       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMm1JaFJCVVNaaFQ3SkRfODBCV01vT3FTbzU1M1hUb1pkSDZFSWZkMmVxZDk3X0xfZjN1Um1kNU44NUhES3NEcFlfNlJWaGMtOGJDVEdrczA1NmZsNFFERktDdnY0UVdCT0JSbjNmUlh2aWpKTXJINVl6Q2s2eHBvXzlsY3hHLW9MS3dxZm9zZjFzalJhRnY0ejBDQl9qLVoxTzJPX25OVlFUWnZfTWxsSW10c2tEWVBJSVRVZnh3eEIyRHlHLW5TYk14bHFBVkZNb2hj0gHYAUFVX3lxTE9SZlpUTXdVdW1OdFNPbml2S2R5RmNEV0EySnJUdjZJSjZLV1E2T0RoWTdna1BtRkhsUTNpQktFd0ltNlRsLUdnREI5Ulk4LXYwNUhQYU5hdDJpSGQtSXlxdGl4ODR1M29UOW80SEFQcGRXTmIyMHN4RkFTVmpqMWZxNkk1QmhDbkxGQzVBb3dvSlB0LXgwTnVGNHVKVUpEODE3OGVCVFJnTE94eXFmaWJhdS00cmdFSmw0UGhNcHpYUjFfTEtLaTh1Q1RtbHlSM1o2eDF1dlpBTw?oc=5",
+       "title": "Intel cuts global IT jobs amid restructuring efforts: Report",
+       "date": "2026-11-18"
+      }
+     ]
+    },
+    {
+     "company": "Qualcomm",
+     "kind": "감원",
+     "size": "517명",
+     "pct": "N/A",
+     "note": "샌디에이고 및 실리콘밸리 지역 포함 캘리포니아 인력 감축",
+     "sources": [
+      {
+       "name": "San Francisco Chronicle",
+       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdWlhNzlJTlhLdlVVLWdMTVdITXJwSV82TDBNR2ZsS2RoUEZ2R2VScm9fTUUzUGpaTi0wQ2dGd01abUdGc1dsNUwzaEdTNVVrbDdBeFlRVUlCMnRXdTlfbmJ3RFVGWGpsNkVPTVVzQXRxX0lDQ3RiNGJBSGl5ZE1HOG9MTkdhMjRK?oc=5",
+       "title": "Huge chipmaker to cut 517 California jobs, including 75 in Bay Area",
+       "date": "2026-11-18"
+      },
+      {
+       "name": "Yahoo Finance",
+       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUUN6dlVRZERVRFZSNUFpYTh1Q3NpNFo2aGtrS05zQjZhWS00ODhSTFlJZkRpS25HOFJnTmU2SWhDV0ZUY2pRVHczWTNnMExmdHowQkZvb1M0cXR0SUNlOVB5TUxBWDFoUnZ1YndRajYxUVdYMURnR0dqZHVQdGpiajc3azhUenFnU0Q0TXlBMHRhOWwtMDhaZA?oc=5",
+       "title": "Qualcomm laying off over 500 employees across San Diego, Silicon Valley",
+       "date": "2026-11-18"
+      }
+     ]
+    },
+    {
+     "company": "Firaxis Games",
+     "kind": "감원",
+     "size": "60명",
+     "pct": "33%",
+     "note": "XCOM 신작 지연 등에 따른 전체 인력의 1/3 감축",
+     "sources": [
+      {
+       "name": "shattered.io",
+       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOaHljWHZrZHdIM3F0X0FNX1c0dVBXYlprTGhFbnhPMEhBdWZYOHB2OHZ2aTJlTHQ5eHRad0FvRHF0M1ZIQ2pYVHpFRENfNXJhVkEzYzFYVFBTSTZJdnU2ZjZnQ2w0SXVTaC1GREtGNGZVX3hBcVFiTFU3SDg4NWlvczU5NkNVellOb0lVcW1B?oc=5",
+       "title": "Firaxis Cuts 60 Jobs, a Third of Staff, as XCOM Slips",
+       "date": "2026-11-18"
+      },
+      {
+       "name": "WN Hub",
+       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9mZnFBS1RlSlBtVTRfcFRfa2EzREhKdUtDb0JaT0d1ZFVPLUR2MEZDU1Vrb21CdW9yLV9UOElmR3ZNR0l2eGlrNUNnUzd1ZDlnTlRjQy1IZUNUT2R5NW9Pdg?oc=5",
+       "title": "Media: One-third of Firaxis Games staff laid off, and the new XCOM faces issues",
+       "date": "2026-11-18"
+      }
+     ]
+    }
+   ],
+   "hiring": [
+    {
+     "company": "무신사",
+     "role": "프로덕트 엔지니어",
+     "note": "서버·웹·모바일 직군을 통합하여 AI 활용 역량 중심 경력직 채용",
+     "sources": [
+      {
+       "name": "이데일리",
+       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWGx1OTRwTS1laXNUdVk3NVFZMjZzbHdSM2NMT01FVzNVTnhmOWR6OGhkd05RMEt5em5fS3pKenlpangtUHdRQVN1VjI1MElWcllyX1NSbHk2ZFFQQUl0S1R0VE1LTTdqdVp1d1pzdFljOVdRQy1Kb2wzcENfV19wOA?oc=5",
+       "title": "무신사, 개발 직군 통합해 AI 인재 뽑는다…채용 평가에도 AI 도입",
+       "date": "2026-11-18"
+      },
+      {
+       "name": "매일경제",
+       "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1ZVTBpVkZpZURlSzRBZnpfdm1hTWNjOTB4MGw0UGd2SUNqNTBUM3FzZTFhcHlnNnBPamczMlFiMWZjbUlIbnc?oc=5",
+       "title": "AI 시대 맞춰 개발자 직군 개편…무신사, ‘프로덕트 엔지니어’ 채용",
+       "date": "2026-11-18"
+      },
+      {
+       "name": "무신사",
+       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBOb2g2azh0MlhxTDJGT2QtWURaRnlHVGZ0OUVHQ0w2dF93NUdkbm94UWo0aUVYaDRJVXd3bVFUUENjUldEaWEwWlBjNnJsYk1WYXJNS1g1RlpqOWN4dWN5Vg?oc=5",
+       "title": "무신사, 개발 직군 경계 허문다… AI 에이전트로 검증하는 '프로덕트 엔지니어' 경력직 채용",
+       "date": "2026-11-18"
+      }
+     ]
+    },
+    {
+     "company": "쿠팡CFS",
+     "role": "물류 전문가",
+     "note": "고졸 채용 확대 및 1년 평가 후 정규직 전환 운영",
+     "sources": [
+      {
+       "name": "중앙신문",
+       "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxQV2d5bndjVUltb0ZncjRpNnBmMUZyeEFrTVEzMXpSWVUzYS03YjZsRmp4OUdtdVNmaHdZVlJ2cU16dXZYMGlwbFp1Vm4zVkVia213OW1PMGp0RV9XQ21rZjlNNTdvYTgtTXc2UUJzVDZwSGJXVzd5aFBsQWdXalZuUkRnS2ZNT3hkZVlpT1FyajU0Vm9rVXFySm1FUEJlaC1yNUxiQl9oaUdSdmpOdGRBQzZMZTJZOUFsNWtTR20zNzNOY0VvbHhmRWJaa0RWTWdLanhPN0xPdU13dUlUNm53THJzWDk2WVlBMkxtb0NTY0REV0ZoUk9ySG8tMzFQVVk5Nk43Y2xkV2FnTzZVWWgydFNrVGlMbjlFMmdxcnVNbUtHWGJMUVJ4dzlOVTBvSFNQQkxQTHBWd1hTQTB5VG80MHNkZklVUFpzaTllckRBbWhqajc1VnpDaw?oc=5",
+       "title": "쿠팡CFS, 고졸채용 확대 운영…1년 평가 거쳐 정규직 전환",
+       "date": "2026-11-18"
+      },
+      {
+       "name": "뉴스투데이",
+       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBTNW8yLUxuVWhhZkRpSFk3LWI0UlNzQ3BSWHNXalg1SWxfd2tUcmlQekdsRDRfQ25NOGk2QjFTSFlIMlFIUGpzMFh5cHB4cTdxRzlVNkxidnRBWTJpM0E?oc=5",
+       "title": "쿠팡, 고졸 인재 물류 전문가로 키운다…무신사는 AI 개발자 채용",
+       "date": "2026-11-18"
+      }
+     ]
+    },
+    {
+     "company": "Tribe AI",
+     "role": "AI 엔지니어",
+     "note": "기업용 AI 수요 급증에 따라 매출 1억 달러 돌파 및 채용 동력 확보",
+     "sources": [
+      {
+       "name": "Business Wire",
+       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPaGNPWUJhLW9BZkNpSFliUmZwc3hFRU4weHhLeTllUFlWNG9fWDRySnBtZ3dqNTFfeWRiTmlJcXAtTDcyMW9yaVRxbTJVU3AydFludkp4WnpvQWQteGU0QUhZSk9sZENXRFhMZUppUk9aaUdQUnE0TVVrV2hCZHlUemxvbS1NRGZEOTZzcU5CSjRNc3hCc19HMUJWOHIwelRyTFlBUmprUnFJNWR4dDZMRVhLRUhqaEx2OVlhcllESDBwM0hjTTRuWWVDWEt2U3Rvbm4wQVcxYTYtVjNTUlQtc09GS1FLclFrWHYtZQ?oc=5",
+       "title": "Tribe AI Crosses $100 Million in Annualized Revenue Fueled by Enterprise Demand for Production AI",
+       "date": "2026-11-19"
+      }
+     ]
+    }
+   ],
+   "roles": {
+    "up": [
+     {
+      "name": "프로덕트 엔지니어",
+      "why": "직군 간 경계를 허물고 AI를 활용해 제품을 개발하는 역량 요구"
+     },
+     {
+      "name": "AI 데이터 사이언티스트",
+      "why": "기업의 AI 도입 가속화로 전문 인력 확보 경쟁 본격화"
+     },
+     {
+      "name": "보안 전문가",
+      "why": "Java 취약점 및 AI 도구 악용 해킹 증가로 보안 강화 수요 증대"
+     }
+    ],
+    "down": [
+     {
+      "name": "엔트리 레벨(초급) 직무",
+      "why": "AI가 초급 업무를 대체하며 신입 사원의 진입 장벽이 높아짐"
+     },
+     {
+      "name": "전통적 IT 지원(IT Support)",
+      "why": "빅테크 기업들의 구조조정 과정에서 IT 부문 인력 감축 집중"
+     }
+    ]
+   },
+   "korea": [
+    {
+     "company": "무신사",
+     "note": "개발 직군을 '프로덕트 엔지니어'로 통합하고 AI 에이전트로 역량 검증",
+     "sources": [
+      {
+       "name": "이데일리",
+       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWGx1OTRwTS1laXNUdVk3NVFZMjZzbHdSM2NMT01FVzNVTnhmOWR6OGhkd05RMEt5em5fS3pKenlpangtUHdRQVN1VjI1MElWcllyX1NSbHk2ZFFQQUl0S1R0VE1LTTdqdVp1d1pzdFljOVdRQy1Kb2wzcENfV19wOA?oc=5",
+       "title": "무신사, 개발 직군 통합해 AI 인재 뽑는다…채용 평가에도 AI 도입",
+       "date": "2026-11-18"
+      },
+      {
+       "name": "무신사",
+       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBOb2g2azh0MlhxTDJGT2QtWURaRnlHVGZ0OUVHQ0w2dF93NUdkbm94UWo0aUVYaDRJVXd3bVFUUENjUldEaWEwWlBjNnJsYk1WYXJNS1g1RlpqOWN4dWN5Vg?oc=5",
+       "title": "무신사, 개발 직군 경계 허문다… AI 에이전트로 검증하는 '프로덕트 엔지니어' 경력직 채용",
+       "date": "2026-11-18"
+      }
+     ]
+    },
+    {
+     "company": "쿠팡",
+     "note": "고졸 인재 대상 물류 전문가 양성 및 정규직 전환 프로그램 확대",
+     "sources": [
+      {
+       "name": "중앙신문",
+       "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxQV2d5bndjVUltb0ZncjRpNnBmMUZyeEFrTVEzMXpSWVUzYS03YjZsRmp4OUdtdVNmaHdZVlJ2cU16dXZYMGlwbFp1Vm4zVkVia213OW1PMGp0RV9XQ21rZjlNNTdvYTgtTXc2UUJzVDZwSGJXVzd5aFBsQWdXalZuUkRnS2ZNT3hkZVlpT1FyajU0Vm9rVXFySm1FUEJlaC1yNUxiQl9oaUdSdmpOdGRBQzZMZTJZOUFsNWtTR20zNzNOY0VvbHhmRWJaa0RWTWdLanhPN0xPdU13dUlUNm53THJzWDk2WVlBMkxtb0NTY0REV0ZoUk9ySG8tMzFQVVk5Nk43Y2xkV2FnTzZVWWgydFNrVGlMbjlFMmdxcnVNbUtHWGJMUVJ4dzlOVTBvSFNQQkxQTHBWd1hTQTB5VG80MHNkZklVUFpzaTllckRBbWhqajc1VnpDaw?oc=5",
+       "title": "쿠팡CFS, 고졸채용 확대 운영…1년 평가 거쳐 정규직 전환",
+       "date": "2026-11-18"
+      },
+      {
+       "name": "뉴시안",
+       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ZRTVidUhTU1d2Q1NlZE03em5kcWxEOEd0NmR4eHRxZVlwRmVLUFFKVjYxdVpma1AtS3JDVFA4R3BhS19EYlJsTGlEaHlCdmROS19rZ3hVMlZ0cHVFbkQzOHEwenNQV2xNSnBoXw?oc=5",
+       "title": "쿠팡·무신사·당근 채용…AI 개발 경력직부터 고졸 물류 인재까지",
+       "date": "2026-11-18"
+      }
+     ]
+    },
+    {
+     "company": "당근",
+     "note": "AI 개발 경력직 등 전문 인력 채용 진행",
+     "sources": [
+      {
+       "name": "뉴시안",
+       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ZRTVidUhTU1d2Q1NlZE03em5kcWxEOEd0NmR4eHRxZVlwRmVLUFFKVjYxdVpma1AtS3JDVFA4R3BhS19EYlJsTGlEaHlCdmROS19rZ3hVMlZ0cHVFbkQzOHEwenNQV2xNSnBoXw?oc=5",
+       "title": "쿠팡·무신사·당근 채용…AI 개발 경력직부터 고졸 물류 인재까지",
+       "date": "2026-11-18"
+      }
+     ]
+    },
+    {
+     "company": "유통업계 전반",
+     "note": "AI로 매출을 키우기 위한 전문 인력 확보 경쟁 본격화",
+     "sources": [
+      {
+       "name": "이투데이",
+       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1xWHowWjU2YkY3dzhMdlhYWk9tQkVkRW9sendTejVJc3VmUEN3LThvZm8tenNScUdmZ0VZZXpuZnN0bXRFNjZfWGZHUUItQnRtMXVwQQ?oc=5",
+       "title": "AI로 매출 키우는 유통업계…전문인력 확보 경쟁 본격화",
+       "date": "2026-11-18"
+      }
+     ]
+    }
+   ],
+   "items": [
+    {
+     "id": "t20261119-00",
+     "region": "global",
+     "importance": "high",
+     "company": "Microsoft",
+     "title": "MS, 6만 명 규모 자발적 퇴직(Buyout) 실시",
+     "body": "사티아 나델라 CEO는 직원들에게 더 많은 커리어 제어권을 주기 위함이라고 밝혔으나, 실질적으로는 AI 비용 증가에 따른 대규모 조직 효율화 작업으로 풀이됩니다. 미국, 인도 등 주요 거점 인력이 대상입니다.",
+     "insight": "글로벌 핵심 인재들이 시장에 쏟아져 나올 기회입니다. 커넥트웨이브의 글로벌 물류(몰테일)나 솔루션 부문에서 해외 경험이 풍부한 시니어급 인재 소싱을 검토할 시점입니다.",
+     "tags": [
+      "자발적퇴직",
+      "조직개편",
+      "글로벌인재"
+     ],
+     "sources": [
+      {
+       "name": "Deccan Chronicle",
+       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQMndNQlcxUGJkSGJmRkdhcXFZc3ZEYnlJdlBhMi1GelA5eFZXckZrdFJYNllwT2tnUnR3RVg2M2NGQjc2QzZkSzh5SWhtbF9KUHJ0ZDJndW5EbWNUWE1pSHdGeTE4RWF1ZmkzS1pBMzA3WS1LV3BNNUxTUHVUZ0w3cTdNMXk1OGVJVUJha3NxNXBHc2NMMHc1aXRhNkVRWTgyb1h2THZRWDRuMm9sRW5rUHA2N1ZyZUFhdVRYYU9MWVJSaF9DOG9yOEtTdnlmZFFfZGFnc3JtcHUyUUdTOFc4a2loWnp3cUJy0gHoAUFVX3lxTFAyd01CVzFQYmRIYmZGR2FxcVlzdkRieUl2UGEyLUZ6UDl4VldyRmt0Ulg2WXBPa2dSdHdFWDYzY0ZCNzZDNmRLOHlJaG1sX0pQcnRkMmd1bkRtY1RYTWlId0Z5MThFYXVmaTNLWkEzMDdZLUtXcE01TFNQdVRnTDdxN00xeTU4ZUlVQmFrc3E1cEdzY0wwdzVpdGE2RVFZODJvWHZMdlFYNG4yb2xFbmtQcDY3VnJlQWF1VFhhT0xZUlJoX0M4b3I4S1N2eWZkUV9kYWdzcm1wdTJRR1M4VzhraWhaendxQnI?oc=5",
+       "title": "Don't Feel Stuck: Satya Nadella Reveals Why Microsoft Is Asking 60,000 Employees To Leave Voluntarily",
+       "date": "2026-11-18"
+      },
+      {
+       "name": "Coinpedia",
+       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQb0VzUnkteDJfQWlsQlFpMlBMcEZYa3Q0d2VrN0gwM0dfU2gwbHRROEUxQ0VKTm9qRXFOdDBEZTBMOUxSTEVLOVNSd1RLUGlXMHFwV1I4cDl6SjlRZlZBaFk2TjRoVXVIM1ZVaFpLRzBQc1VnX19ZYnZDOXBkNGxwbHBPakNNcTVHV0xEa21nUjM4YlAxOEkxLVZva0huT1hZcUdDS19QVEFXRzZGdzR2TUtR0gG3AUFVX3lxTE8zLXQ1SDdXM21jS0k5bXZQZW5sRmRia0RycmY4bWZsTWo2c3ZBaWo3YXVseUVrNURmWjFDV1lpb3lEa0MwWDlsM3Babjh0Tm12cF9ZSDJRRjBkVXRQTW1HVkJ6TTBlUFlaZW9xSkhjUnQ0dmI0Tm9DYWdmakFVaEl1d2VVaDBqWXZKbzY1TWVBeWp4Y3VTVGk2U3hwd1Myc29uZExTdDhnSlVZQXlTRTgtZEE3cDBCcw?oc=5",
+       "title": "Microsoft Buyout Offer Reaches 60,000 Employees In US, India, UK And Canada",
+       "date": "2026-11-18"
+      },
+      {
+       "name": "Firstpost",
+       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMzkyV3VEdnhLSklCbzFGQ3pmOVlNVWMteUdiZnVfbGNHSDdkZVV0eFlBVlcyMVo2Zkd1SkI0MmN1enNKQnpiY0VubVV2aC1QOFFtNktzUVJXNHdXYjZaV1dXbWJZa2Z5aS1kYzRQeEh4Nl9EUkZOT2drZE9CSlJDcV9aLVBtYS12NlZoWjNoYjBhWjNKWnlRV29UaXFFZF9rNjZ3TnlhXzd2VjFvYS1WeWtsVG16YlJVcXJBWDRlb2l5dVY5YlBGNTZR0gHPAUFVX3lxTE85MmZSeTg5XzhpNTJMUGFKd0hSUzZ4M3ZXQ1hEb3NUdVFwcE9NbjJ2X1owSUllOEI2WV84SDlXUUhhLTVVanViQ2l5NmdOWG0tV05qYW9nN3Iwb3VSdDNoZU9vNC1FMTNHTThYc2ZWNUpKT0M3TW9TQWFfVE1HYjgtaTlCdUdNbjZsZlUxVVdZOEM3bDIyS0xjcDQ3dnFfMlVkMWZHOGNNckRVT2FSS21mNnFyeFZmU1JpbzMtUTJuMzVTUm9MUldkbkZJSEZtYw?oc=5",
+       "title": "Microsoft layoffs: Why Satya Nadella wants 60,000 employees to consider voluntary exits",
+       "date": "2026-11-18"
+      },
+      {
+       "name": "The Economic Times",
+       "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNMHZSaVlFUXROSnlKUkxob3F3YndzMUpJMlNwTFJmMGNKdjkzb0tSSFpKaHphNUlnajNZRjFqbHhnNThRSlVSVGhzRVhvbzZZTmhUa2VxS0lJbENiZmxrYi15WVJTeUN4N0dmSHB2R05PN2JfZHBWU0dJN1VYN21YLWQtMzlRRkQ5YTRLTkJDcnQ1TWF3RTY0YXMtOTI3U2tsMS03Uy11dFBwTUh2clJwZ1NZQ3Nndm5kSjMtMzVuaUpyZm5zZjlWdG1kWU81YTFwOFpGMTZaOTZnY3ZoUVdydkpuaVpQWWpkX284R0k4OTFSa1ZPczgyZGJza21JSFlfYklMWndOaHc2Ymxj0gGSAkFVX3lxTE0wOXZiQUVkQWZOVHRKbUpZM0hLVzZjQzRKQnF3aTJ6djJMWVVHRWlhUkhmalhfS2xRSDFYOGVCNVpqdzk0ZlZ5ckdhYktyUWVqeFZWWWFha1hTNlE4VFpPTGhkb2RBS0pHRmxLRGFPdERVMjVXT2RVdXo3RmQwTnEwZ2FHNXNoMWlvb2xocHFjZ0d6dHIzQmVha3RQb2VtQ1JVZFpvLW5tSWRVQVVQUVpMZzFkX1dmSjd2eU9YczJxTkRsT0ZNZklTOXJYTll5Y0VMOF9Zb2VKVEpxQkN6dVhncmt1Ym1ZX1BKRE9WMXRwSFpScnNObHdTS3hJRTZsWWlyRGoyVmNXeFJiWlVpUTdlcHc?oc=5",
+       "title": "‘I cannot say it’ll all be the same’: Satya Nadella explains why Microsoft is offering buyouts to 60,000 e",
+       "date": "2026-11-18"
+      }
+     ],
+     "date": "2026-11-18"
+    },
+    {
+     "id": "t20261119-01",
+     "region": "korea",
+     "importance": "high",
+     "company": "무신사",
+     "title": "개발 직군 통합 및 AI 에이전트 채용 평가 도입",
+     "body": "무신사가 서버, 웹, 모바일로 나뉘었던 개발 직군을 '프로덕트 엔지니어'로 통합했습니다. 특히 채용 과정에 AI 에이전트를 투입해 실무 역량을 검증하는 방식을 도입했습니다.",
+     "insight": "이커머스 플랫폼으로서 개발 효율성을 극대화하려는 전략입니다. 커넥트웨이브도 JD 작성 시 특정 스택에 국한하기보다 AI 활용 능력을 갖춘 풀스택 성향의 인재 채용을 고려해야 합니다.",
+     "tags": [
+      "직군통합",
+      "AI채용",
+      "이커머스"
+     ],
+     "sources": [
+      {
+       "name": "이데일리",
+       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWGx1OTRwTS1laXNUdVk3NVFZMjZzbHdSM2NMT01FVzNVTnhmOWR6OGhkd05RMEt5em5fS3pKenlpangtUHdRQVN1VjI1MElWcllyX1NSbHk2ZFFQQUl0S1R0VE1LTTdqdVp1d1pzdFljOVdRQy1Kb2wzcENfV19wOA?oc=5",
+       "title": "무신사, 개발 직군 통합해 AI 인재 뽑는다…채용 평가에도 AI 도입",
+       "date": "2026-11-18"
+      },
+      {
+       "name": "무신사",
+       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBOb2g2azh0MlhxTDJGT2QtWURaRnlHVGZ0OUVHQ0w2dF93NUdkbm94UWo0aUVYaDRJVXd3bVFUUENjUldEaWEwWlBjNnJsYk1WYXJNS1g1RlpqOWN4dWN5Vg?oc=5",
+       "title": "무신사, 개발 직군 경계 허문다… AI 에이전트로 검증하는 '프로덕트 엔지니어' 경력직 채용",
+       "date": "2026-11-18"
+      },
+      {
+       "name": "CWN",
+       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5GLU9FZWtNZExBeWNtZ1JwNU0wRlE4UnBaYV8ycGwzTjRuZG9Mazk2THFra2Z6cTBIMGpqVkgzcEVIT1ZFMXFKdEdlSFg1WTlpbVg2SWJvTlVoUGpxTjRUSEtB?oc=5",
+       "title": "무신사 개발자 채용에 AI 투입…AI와 함께 실무 역량 평가",
+       "date": "2026-11-18"
+      }
+     ],
+     "date": "2026-11-18"
+    },
+    {
+     "id": "t20261119-02",
+     "region": "global",
+     "importance": "mid",
+     "company": "Salesforce",
+     "title": "세일즈포스, AI 압박 속 추가 감원 단행",
+     "body": "실적 우려와 AI 전환 압박으로 인해 여러 팀에서 추가 인력 감축이 보고되었습니다. 인도 지사 등 글로벌 전반에서 퇴직금 지급을 동반한 감원이 진행 중입니다.",
+     "insight": "SaaS 솔루션(메이크샵, 플레이오토) 경쟁사의 인력 변동을 모니터링하여 우수 엔지니어 및 영업 인력을 확보할 수 있는 적기입니다.",
+     "tags": [
+      "SaaS",
+      "추가감원",
+      "인재확보"
+     ],
+     "sources": [
+      {
+       "name": "Business Insider",
+       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPd3pkdHhtTk9yeGJvZGhCOGlLRjRqVEpFX290MFlUYzNUbWF4ZnRrUUY4aExaVTVjaDRmZVZCLU83Ui1ja2NMQlRkMlFyLWszUUZzUlc2cHp0MUxVdzc4ai1MMlFiMEFMVFpuRlU1dS1OVTN1dG1OX2U5RlFVZGVGdjlGOVE5M0pmQ1dzSE43M3FOcGY3UnZDNmpEUnNsekU?oc=5",
+       "title": "Salesforce has started cutting more jobs, internal messages show",
+       "date": "2026-11-18"
+      },
+      {
+       "name": "Yahoo Finance",
+       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTGJJZ29LZHFFMUFZcUhiZUItQllDQ1ItZDBUaWFvelhwTjZ5M0N4aTFuQW5xNVFSYXFhdHkzQ3BpZk41UDNpRndFLTlMeTBicE9meTFFVDFPTFgtbjBrNm8yYkNydW43Rk54cmlBNWhPZlE4WTlGRk5XWWtrcURtVFZ2S0hjaTJKaTJuOVc5TC03RTUzekE?oc=5",
+       "title": "CRM Stock Faces Worst Week Since April: Fresh Layoffs Reportedly Surface Across Salesforce Teams",
+       "date": "2026-11-18"
+      },
+      {
+       "name": "India Today",
+       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOcE1SXzNqNGJXUW9wNUsxSHNzWmNxSUtBSHExWDJEdk9OVnBzUDMyWjdwQXd5U0tPTFpQQThVOURrTzFkTmNSZzlOZE91V1cxNUQzLVk1aEV6RXNLaFV2UXEyVFdmdlJIQXNGcFdBN0NhSDc5N3RzVzZjbWppSHZfZ2FVQTMxWUlCWUFZc2tWT2x6MlBXOHJyYWNhaExCYTJRcWpwTEVXVjFLV1dIeVB5OHdoNnV3dGkxRV9KZWhfUGdxd1ZrMjFLN2FudGl5RHYzTU82NUVmRjhXQktOajRjOFdLdi1KV2hVemdB0gHwAUFVX3lxTE5lOVNkMGw1US1UY1NSbWN4UjNIbnRMMC1SdXBGQjZSNFd0aFFjQlRTRC1IOUFFWWtmMGxEVnJuWjh1MGNNM2RFWC1vc0Vid2xsY3BwXzcyMTZlbHVZY0JfclBwdWtqLVFoMVBIb2JQSFoxVWl5Nk50OUpKdDByXzRFMl83ZloxRXYyZ2FaSjdLUF9IUWN1VEQwWUpJUkZSdzRJWU03Nm1BbUpmeVJIQ1hCVnQ5QmNYeS14eUNPRk1RQVR2M2hrMlhBMVNFQmpVcUQ0c1JYY3p4Ri1lVm9MTFU3bnhZcHIwT3JtNE1nazRIVg?oc=5",
+       "title": "Salesforce layoffs hit India, employee says they were put on garden leave and offered severance",
+       "date": "2026-11-18"
+      }
+     ],
+     "date": "2026-11-18"
+    },
+    {
+     "id": "t20261119-05",
+     "region": "korea",
+     "importance": "mid",
+     "company": "쿠팡CFS",
+     "title": "물류 현장직 고졸 채용 및 정규직 전환 확대",
+     "body": "쿠팡 물류 자회사가 고졸 인재를 대상으로 물류 전문가 양성 프로그램을 운영하며 정규직 전환 기회를 넓히고 있습니다. 이는 현장 인력의 안정적 확보를 위한 전략입니다.",
+     "insight": "커넥트웨이브의 물류·배송(스윗트래커, 몰테일) 부문에서도 현장 인력 수급을 위해 학력 제한 완화 및 자체 육성 프로그램을 강화하는 방안을 벤치마킹할 수 있습니다.",
+     "tags": [
+      "물류채용",
+      "고졸채용",
+      "인재육성"
+     ],
+     "sources": [
+      {
+       "name": "중앙신문",
+       "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxQV2d5bndjVUltb0ZncjRpNnBmMUZyeEFrTVEzMXpSWVUzYS03YjZsRmp4OUdtdVNmaHdZVlJ2cU16dXZYMGlwbFp1Vm4zVkVia213OW1PMGp0RV9XQ21rZjlNNTdvYTgtTXc2UUJzVDZwSGJXVzd5aFBsQWdXalZuUkRnS2ZNT3hkZVlpT1FyajU0Vm9rVXFySm1FUEJlaC1yNUxiQl9oaUdSdmpOdGRBQzZMZTJZOUFsNWtTR20zNzNOY0VvbHhmRWJaa0RWTWdLanhPN0xPdU13dUlUNm53THJzWDk2WVlBMkxtb0NTY0REV0ZoUk9ySG8tMzFQVVk5Nk43Y2xkV2FnTzZVWWgydFNrVGlMbjlFMmdxcnVNbUtHWGJMUVJ4dzlOVTBvSFNQQkxQTHBWd1hTQTB5VG80MHNkZklVUFpzaTllckRBbWhqajc1VnpDaw?oc=5",
+       "title": "쿠팡CFS, 고졸채용 확대 운영…1년 평가 거쳐 정규직 전환",
+       "date": "2026-11-18"
+      },
+      {
+       "name": "뉴스투데이",
+       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBTNW8yLUxuVWhhZkRpSFk3LWI0UlNzQ3BSWHNXalg1SWxfd2tUcmlQekdsRDRfQ25NOGk2QjFTSFlIMlFIUGpzMFh5cHB4cTdxRzlVNkxidnRBWTJpM0E?oc=5",
+       "title": "쿠팡, 고졸 인재 물류 전문가로 키운다…무신사는 AI 개발자 채용",
+       "date": "2026-11-18"
+      }
+     ],
+     "date": "2026-11-18"
+    },
+    {
+     "id": "t20261119-03",
+     "region": "global",
+     "importance": "mid",
+     "company": "Anthropic",
+     "title": "AI가 16시간 걸릴 리서치 업무를 3시간 만에 완료",
+     "body": "Anthropic의 Claude가 인간 리서치 업무 시간을 80% 이상 단축시켰다는 결과가 나왔습니다. 이는 단순 반복 업무뿐 아니라 전문적인 리서치 영역까지 AI가 대체하고 있음을 시사합니다.",
+     "insight": "채용팀 내부의 후보자 리서치나 시장 분석 업무에도 AI 도구 도입을 가속화하여 리크루터의 생산성을 높일 필요가 있습니다.",
+     "tags": [
+      "AI생산성",
+      "업무대체",
+      "Anthropic"
+     ],
+     "sources": [
+      {
+       "name": "CryptoSlate",
+       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSFlOWUxIS3NnaXBfQmo3TnRfUGtfYkQzUEhHbTEwVHZMNWtKSG9wMm4yWm53RFZKbGlUNno2X1M4V201bTlVcFBBOG1SNnktbmQ3eFFXdE9pbTdrNzVQeUxsX0ZMTXlPYWNySWxGc0xXVm1zdnh0YmJJMTFYS0JiZWdmNDFTMWNuMjV5U3VvVHZoWGRoZS1kaFFrXzA?oc=5",
+       "title": "Anthropic’s Claude completes a 16-hour human research job in under 3 hours",
+       "date": "2026-11-19"
+      }
+     ],
+     "date": "2026-11-19"
+    },
+    {
+     "id": "t20261119-04",
+     "region": "global",
+     "importance": "low",
+     "company": "Qualcomm",
+     "title": "퀄컴, 캘리포니아 지역 500명 이상 감원",
+     "body": "반도체 대기업 퀄컴이 베이 에어리어와 샌디에이고에서 517명의 인력을 감축했습니다. 기술직군 채용 둔화세가 지속되고 있음을 보여줍니다.",
+     "insight": "하드웨어 및 임베디드 관련 인력의 유동성이 높아졌으나, 이커머스 도메인과의 적합성을 고려한 선별적 접근이 필요합니다.",
+     "tags": [
+      "반도체",
+      "실리콘밸리",
+      "감원"
+     ],
+     "sources": [
+      {
+       "name": "San Francisco Chronicle",
+       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdWlhNzlJTlhLdlVVLWdMTVdITXJwSV82TDBNR2ZsS2RoUEZ2R2VScm9fTUUzUGpaTi0wQ2dGd01abUdGc1dsNUwzaEdTNVVrbDdBeFlRVUlCMnRXdTlfbmJ3RFVGWGpsNkVPTVVzQXRxX0lDQ3RiNGJBSGl5ZE1HOG9MTkdhMjRK?oc=5",
+       "title": "Huge chipmaker to cut 517 California jobs, including 75 in Bay Area",
+       "date": "2026-11-18"
+      },
+      {
+       "name": "Yahoo Finance",
+       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUUN6dlVRZERVRFZSNUFpYTh1Q3NpNFo2aGtrS05zQjZhWS00ODhSTFlJZkRpS25HOFJnTmU2SWhDV0ZUY2pRVHczWTNnMExmdHowQkZvb1M0cXR0SUNlOVB5TUxBWDFoUnZ1YndRajYxUVdYMURnR0dqZHVQdGpiajc3azhUenFnU0Q0TXlBMHRhOWwtMDhaZA?oc=5",
+       "title": "Qualcomm laying off over 500 employees across San Diego, Silicon Valley",
+       "date": "2026-11-18"
+      }
+     ],
+     "date": "2026-11-18"
+    }
+   ]
+  },
   {
    "date": "2026-11-18",
    "article_count": 146,

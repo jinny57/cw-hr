@@ -56,9 +56,429 @@
     ]
    }
   ],
-  "updated": "2026-11-18T01:13+09:00"
+  "updated": "2026-11-19T00:55+09:00"
  },
  "reports": [
+  {
+   "date": "2026-11-19",
+   "window_days": 1,
+   "article_count": 311,
+   "engine": "gemini-3-flash-preview",
+   "headline": "이커머스·게임업계 인력 유입 신호와 2026년 하반기 노동감독 강화",
+   "points": [
+    "무신사·당근 등 주요 이커머스 기업의 AI 및 프로덕트 인재 확보 경쟁 심화",
+    "고용노동부의 포괄임금 오남용 및 지방정부 노동감독 시행에 따른 근태 관리 주의",
+    "게임업계 상시 구조조정 및 쿠팡풀필먼트서비스 리더급 사법 리스크 발생"
+   ],
+   "items": [
+    {
+     "cat": "ecom",
+     "importance": "high",
+     "company": "무신사",
+     "title": "무신사, 개발 직군 통합 및 AI 역량 중심 경력직 채용",
+     "body": "무신사가 서버, 웹, 모바일 등 개발 직군을 '프로덕트 엔지니어'로 통합하여 경력직 채용을 진행해요. 특히 AI 에이전트를 활용한 실무 검증 등 AI 역량 평가를 강화했어요.",
+     "insight": "직군 통합을 통한 유연한 인력 운용과 AI 실무 적용 능력을 중시하는 채용 트렌드가 동종 업계에서 강화되고 있어요.",
+     "action": "우리 그룹의 개발 직군 채용 시 AI 활용 역량 검증 프로세스 도입을 검토해 보세요.",
+     "teams": [
+      "채용",
+      "인사기획"
+     ],
+     "tags": [
+      "무신사",
+      "직군통합",
+      "AI채용",
+      "경력직"
+     ],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "1코노미뉴스",
+       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9yaVV6dWdjZ1lacmp1ckluU045SjBXdURPUkNyWGdsb1RQMm9rOTRwbUdZWlVfM3VjS0NDZVBKQmJNRFhIQmJ2UWNHVHkxX3NtOG5hTG10RFkxUXY0NjBuTFZMbjZURHY0aFprNDJQY2g?oc=5",
+       "title": "무신사, PE 경력직 채용 시작…AI 에이전트로 실무 검증",
+       "date": "2026-11-18"
+      },
+      {
+       "name": "지디넷코리아",
+       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1JV0FUcDdTM1M0eDFZWkJiX0kxQkdma3d3QzhyZjZFLXFEZlUtSlJFX1ZtbHJXcVh6Sk91TTIwQ0NTSmNCZkNZQUpwUzBjRFN0anM0NDNn?oc=5",
+       "title": "무신사, ‘프로덕트 엔지니어’ 경력직 채용",
+       "date": "2026-11-18"
+      },
+      {
+       "name": "아이뉴스24",
+       "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5RTXpWd3BlR2UyWC1XTUJhOEJKN0d2a1VlbHpYUlBFRGl6Q2VfZVR3ZElSb3ZUX2l5VnowWU1WRmc2MXZONEpB?oc=5",
+       "title": "무신사, 개발 직군 통합해 경력직 채용…AI 활용 역량 평가",
+       "date": "2026-11-18"
+      },
+      {
+       "name": "어패럴뉴스",
+       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBlVW81Tlp5ZXhHeThrekw4S3JLRXhVRk1WNkUzSjNrdG1qVXpTTXpUZEpvc25FbGRzRWk1amJucmZrNC11N2NpRFhyVVRlZXJ6dVU0Q1k0ekNieVRDR3J1WkVPTHFMU3liNFFfcFY2NFE1SDg?oc=5",
+       "title": "무신사, 서버·웹·모바일 개발 직군 통합…프로덕트 엔지니어 채용",
+       "date": "2026-11-18"
+      }
+     ],
+     "date": "2026-11-18",
+     "id": "20261119-00"
+    },
+    {
+     "cat": "ecom",
+     "importance": "high",
+     "company": "쿠팡풀필먼트서비스",
+     "title": "쿠팡CFS 전·현직 대표 퇴직금 미지급 혐의 실형 구형",
+     "body": "특검이 퇴직금 미지급 혐의로 쿠팡풀필먼트서비스(CFS) 전·현직 대표에게 징역 1년 6개월에서 2년을 구형했어요. 내달 선고 결과에 따라 리더십 공백이 예상돼요.",
+     "insight": "물류 계열사 운영 시 퇴직금 등 법정 수당 지급 프로세스의 완결성이 기업 평판 및 경영진 리스크와 직결됨을 보여줘요.",
+     "action": "스윗트래커, 몰테일 등 물류 계열사의 퇴직금 산정 및 지급 시기 준수 현황을 재점검해 보세요.",
+     "teams": [
+      "채용",
+      "노무·ER"
+     ],
+     "tags": [
+      "쿠팡CFS",
+      "임금체불",
+      "퇴직금",
+      "사법리스크"
+     ],
+     "our_group": false,
+     "talent": {
+      "level": "high",
+      "signal": "C레벨 사법 리스크 및 조직 불안정 — 물류·운영 관리 인력 유입 가능성"
+     },
+     "sources": [
+      {
+       "name": "MBC 뉴스",
+       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9GV3RMblloYkNBTEIwU2lXRnFDYURGcG9OR2hhdG1sQTd5ckxqZGFvSGQtZTgxQTRnSmhNaUJBSGRqWW9HWXRuLURQbVlJRE1rWGxFZzlCNXNfelVKYWlNSXFMelR3bTNIa1AxODlxcEF5S3dpRGRV0gF3QVVfeXFMTnZVcEJMSU45UF9hRTVlZElCSjBFSVhWbk9FWWdfYVBRejJaWncxMEUyMEN2Z2dEU0R0eG1LSHBSTUhQVmlJUTRBSXhMeGEzbUxSTTV0TGhkWjJZVDBzT3JqaGQ1Q2xnNUFoZmdlRXh5V0dPa0hRaG8?oc=5",
+       "title": "특검, '퇴직금 미지급' 쿠팡CFS 대표에 징역 2년 구형",
+       "date": "2026-11-18"
+      },
+      {
+       "name": "중앙일보",
+       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9MT3BkcTNLdG9BZjZiUWcxZzdCUVl6MndOb1VYb2M1NGJTUGJ5YU8wUExGajBicnZoSkVUZU8ydTUyeFJ3bmhNaEhZSGFPUEpwWllOQUxn?oc=5",
+       "title": "‘퇴직금 미지급’ 쿠팡 전현직 대표에 징역형 구형…특검 “악의적 체불”",
+       "date": "2026-11-18"
+      },
+      {
+       "name": "뉴시스",
+       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE93anQtOGRwTkhLYzRpRjBOWTA2OUpRb3FVNkpZSlFxazB1V3hNN1NrMXNzUnpsUGd6YVEza25aWGplVWtiT2xuWkdUS0RRc01WZEs3VUxBb1pMLTMyT3BpTkVpeFh4SE1JWjRXU1dzZWh6ODRybEJRWdIBeEFVX3lxTE93anQtOGRwTkhLYzRpRjBOWTA2OUpRb3FVNkpZSlFxazB1V3hNN1NrMXNzUnpsUGd6YVEza25aWGplVWtiT2xuWkdUS0RRc01WZEs3VUxBb1pMLTMyT3BpTkVpeFh4SE1JWjRXU1dzZWh6ODRybEJRWQ?oc=5",
+       "title": "특검, '퇴직금 미지급' 쿠팡CFS 전·현직 대표 실형 구형…내달 21일 선고(종합)",
+       "date": "2026-11-18"
+      },
+      {
+       "name": "지디넷코리아",
+       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5TTjA0SXA3UnJaTVFua2EwRE1YM1NJVjZiVmFEQ2s4MEhYYnlPVk11b3l2NHEwT1RrWm92VVNSUXpvbURkSmVMM1QtbEtWTWM3UFpUWkZR?oc=5",
+       "title": "특검, '퇴직금 미지급' 쿠팡CFS 정종철 대표에 징역 2년 구형",
+       "date": "2026-11-18"
+      }
+     ],
+     "date": "2026-11-18",
+     "id": "20261119-02"
+    },
+    {
+     "cat": "labor",
+     "importance": "high",
+     "company": "고용노동부",
+     "title": "2026 포괄임금·고정OT 오남용 기획 감독 실시",
+     "body": "고용노동부가 '공짜 노동' 근절을 위해 포괄임금제 및 고정OT 수당 계산의 적정성을 점검하는 기획 감독을 실시해요. 근태 데이터와 급여 명세서 대조가 핵심 점검 항목이에요.",
+     "insight": "포괄임금제를 운영 중인 그룹사의 경우, 실제 근로시간과 수당의 불일치로 인한 리스크를 사전에 점검해야 할 시점이에요.",
+     "action": "그룹사별 고정OT 시간과 실제 연장근로 기록을 대조하고 미지급 수당 발생 여부를 전수 조사해 보세요.",
+     "teams": [
+      "노무·ER",
+      "인사기획"
+     ],
+     "tags": [
+      "포괄임금제",
+      "고정OT",
+      "근로감독",
+      "노무리스크"
+     ],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "시프티 블로그",
+       "url": "https://shiftee.io/ko/blog/article/2026-inclusive-wage-fixed-ot-audit",
+       "title": "2026 포괄임금제 근태관리: 고정OT 수당 계산·대조와 기획감독 점검 항목 고용노동부는 ‘공짜 노동’ 근절을 위해 2026년 9월 15일부터 약 두 달간 「포괄임금·고정OT 오남용 기획 감독」을 실시하... 202",
+       "date": "2026-11-19"
+      }
+     ],
+     "date": "2026-11-19",
+     "id": "20261119-01"
+    },
+    {
+     "cat": "labor",
+     "importance": "mid",
+     "company": "업계 전반",
+     "title": "직장 내 괴롭힘 및 정신건강 산재 예방 강화",
+     "body": "직장 내 괴롭힘 신고 처리 미흡에 대한 비판과 함께, 정신질병 산재 승인 증가에 따른 일터 정신건강 관리 법령 개정이 추진되고 있어요.",
+     "insight": "괴롭힘 방지뿐만 아니라 구성원의 정신건강을 보호하는 것이 기업의 법적 의무로 강화되는 추세예요.",
+     "action": "그룹 내 심리 상담 프로그램(EAP) 도입이나 관리자 대상 괴롭힘 방지 교육을 강화해 보세요.",
+     "teams": [
+      "노무·ER",
+      "조직문화·HRD"
+     ],
+     "tags": [
+      "직장내괴롭힘",
+      "정신건강",
+      "산재예방",
+      "조직문화"
+     ],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "연합뉴스",
+       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBMRmRVUlVCdG1rMGZYUGFxelZrMlVmZUdiUFpDb18tYVN4cTRyc1FBMWpfTFJZZF9tWllUOHYybXRaWktpMVRpM3U0TnJDa3hfZG9vRGJTV2o0OTdxcXVxUNIBYEFVX3lxTFBMRmRVUlVCdG1rMGZYUGFxelZrMlVmZUdiUFpDb18tYVN4cTRyc1FBMWpfTFJZZF9tWllUOHYybXRaWktpMVRpM3U0TnJDa3hfZG9vRGJTV2o0OTdxcXVxUA?oc=5",
+       "title": "\"정신질병 산재 승인 7배↑…미취업자 자살, 직장 복귀자의 3배\"",
+       "date": "2026-11-18"
+      },
+      {
+       "name": "청년일보",
+       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1rakxzZTkzalJxS2F0S1h4VFlBaDhMX1BvWHFlMDNZaFpfY1FTOFQwb0dUZldTckt3R0xkM0p3T2N1aDM3S2xscW5VNWJTVUIzNjJMX2dpcDdlOHllM1FBZEdmbnhzYU0?oc=5",
+       "title": "\"일터에서 다친 마음 보호\"…'노동자 자살예방' 5개 법령 개정안 공개",
+       "date": "2026-11-18"
+      },
+      {
+       "name": "뉴스필드",
+       "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxQdWJPN1JIVy0tYUdYRnlKRS1VOHJIOE5lOG1rWC1fWWl3SWFaQmlxa0JoUlM2NGd0NlVSU3o3X0xrcFZBcnMwb3Z6NmxVb194elVGZm9TODZIM0dITFBjRjhVc0ZUZ01fcG5xMVdHVFNGdDJwR3ZFdXVfeGxVdlpGNnpDYU9BZTRoVUZsQVpaUkhBSndaY090TlZhMTNhSjFmdzRuQkkzaDd0eFhmUWgzWU9JZ29neWpuVWc3anIydHlyM0lIaV82S0RxZUF0OUEwcjBlLUtOd0VhakxCLUZ5dTBRX0x5UXBxSkQwVFNfZzN0d2NCN3lOdUZCSVZmc0hLdmhxbVdjV1BpUWJwZ1ZxcGFIRUVkaktmcDBwZGljZGxLVUwtMlB6bGR5eXctMmFj?oc=5",
+       "title": "현대백화점그룹 한섬의 두 얼굴?…보고서엔 '경쟁력 있는 조직문화', 내부선 '괴롭힘 신고가 팀장에게' 폭로",
+       "date": "2026-11-18"
+      },
+      {
+       "name": "안전신문",
+       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBTYTlXT0h5TGppSVNyTjI1VzNGY05SOW9JeV9USVU2UDVhR2NWMHZGZzRXVHJUUFA4RlNMcFdzaG8wR1F6MUFZQTdiQ05URkViNkJCZE54OU96YjJQNUpLa0tmODZZRnVtLVpIWWhYYWc?oc=5",
+       "title": "“직장 내 정신건강 위험도 산업재해 예방 대상에 포함해야”",
+       "date": "2026-11-18"
+      }
+     ],
+     "date": "2026-11-18",
+     "id": "20261119-09"
+    },
+    {
+     "cat": "market",
+     "importance": "mid",
+     "company": "당근",
+     "title": "당근, 채용전환형 '프로덕트 빌더' 인턴십 모집",
+     "body": "당근이 서비스 개발 및 기획을 담당할 '2027 프로덕트 빌더 인턴십'을 모집해요. 실무 투입 후 정규직 전환 기회를 제공하는 대규모 인재 확보 전략이에요.",
+     "insight": "주니어급 인재를 조기에 확보하여 자사 문화에 맞게 육성하려는 이커머스 플랫폼의 경쟁이 치열해요.",
+     "action": "우리 그룹의 인턴십 프로그램 명칭이나 EVP를 '빌더'와 같은 직관적인 브랜드로 고도화해 보세요.",
+     "teams": [
+      "채용"
+     ],
+     "tags": [
+      "당근",
+      "인턴십",
+      "채용전환형",
+      "주니어확보"
+     ],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "전자신문",
+       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8xNThyNjRIbVBuNlFaTlQ2YkNZX0d0MS1vSkdnN3dyMzYtb0pEMXF2MWlvOHl3SWhJQ0JDdFk4SXZ1aUhaMVhBRmIyUWVTdw?oc=5",
+       "title": "당근, 채용전환형 인턴 모집",
+       "date": "2026-11-18"
+      },
+      {
+       "name": "테크월드",
+       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE02eUhEYVNILWotVFlzQlJteldSdWttdFZObEZDODNrZkFHOTgzWEdfSjE5cERfMHJUOVJhdHBzWk9aLWlXWTl2eUVVYm9WLWo1R3IwQjVvbGFZZ08xTnVpdkJLZ1FjdlBi?oc=5",
+       "title": "당근, 채용전환형 ‘2027 프로덕트 빌더 인턴십’ 모집",
+       "date": "2026-11-18"
+      },
+      {
+       "name": "뉴시스",
+       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9wVGRBVHlYS3hjVlFjcmZzX28ySFZmUU5FS1FuREt2LXpLSnAwdlp5YzNrN1gzSjMtRnktZVVsV2p3a2xVSzM4NHZ4aUZJNFB5SEhvNGNHaF9VYVU0UDV6dzVQSmd5MVlmWE5RcnhEOW9kLWw1YVcwbdIBeEFVX3lxTE9wVGRBVHlYS3hjVlFjcmZzX28ySFZmUU5FS1FuREt2LXpLSnAwdlp5YzNrN1gzSjMtRnktZVVsV2p3a2xVSzM4NHZ4aUZJNFB5SEhvNGNHaF9VYVU0UDV6dzVQSmd5MVlmWE5RcnhEOW9kLWw1YVcwbQ?oc=5",
+       "title": "당근, 서비스 개발 맡길 인턴 뽑는다…정규직 전환 기회",
+       "date": "2026-11-18"
+      }
+     ],
+     "date": "2026-11-18",
+     "id": "20261119-03"
+    },
+    {
+     "cat": "ecom",
+     "importance": "mid",
+     "company": "게임업계 전반",
+     "title": "K-게임업계 상시 구조조정 및 인력 감축 확산",
+     "body": "하이브 게임 자회사 드림에이지의 인력 감축과 더불어 대형 게임사들이 상시 구조조정 체제에 돌입했어요. 실적 개선을 위해 인건비를 효율화하는 추세예요.",
+     "insight": "게임업계의 우수한 개발·디자인·PM 인력이 시장에 대거 유입될 수 있는 기회예요.",
+     "action": "게임사 출신 인재들을 타겟팅하여 우리 그룹의 기술력과 안정성을 강조한 채용 제안을 강화해 보세요.",
+     "teams": [
+      "채용"
+     ],
+     "tags": [
+      "구조조정",
+      "게임업계",
+      "인력감축",
+      "인재유입"
+     ],
+     "our_group": false,
+     "talent": {
+      "level": "high",
+      "signal": "게임사 상시 구조조정 진행 — 고숙련 개발 및 기획 인력 시장 유입"
+     },
+     "sources": [
+      {
+       "name": "딜사이트",
+       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE54Zy1FSjVaUmxVT0p6T1gtdEpkUEM4VV93OG9WMkItaWphTXc4eTIwYlUweXlZc2lHTjJLbm0xX3hmX0VvbXUyMVdmMVhtNTA?oc=5",
+       "title": "[인력 줄이는 K게임] 돈은 더 벌고 사람은 줄이고…대형 게임사 '상시 구조조정' 시대",
+       "date": "2026-11-18"
+      },
+      {
+       "name": "게임메카",
+       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5yQzBudGZ5WFFSWTY2YmpQb1ZuaUdkYU0ydG9JLWxZSFl3RUNTM2gyZUc5MFk3dVNfSDBYWnZISU1aNXhzcVdTWXkySmMyWGdzbW53WFpNeHfSAVtBVV95cUxNdlN6Nnc0OXdsajhGZFVkdU5semY1eHQxUTBxaE9RT1ExZnk0NHNWOTZkUXU4eWU5ZkMzWnNpZDV3TFozcjBIQnloQkZ3SkRtZ2lYOENSUUF2Mlo0?oc=5",
+       "title": "문명·엑스컴 제작사 파이락시스, 대표 포함 인력 1/3 감원",
+       "date": "2026-11-18"
+      },
+      {
+       "name": "비즈워치",
+       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ybWxwU0IwSHBOeW5oalJVZEozb09jUzBXeWhDYmxUdzZNRV9VdTcyM1oxRlBPNF8wcEkxS1hZOVF2NzZoRC1XbUJQam1Tc0VvTDA2VUFaR3BnOHBTSE85d3IxbFhBd2c5d3c?oc=5",
+       "title": "'5년째 적자' 하이브 게임 자회사 드림에이지, 인력감축 돌입",
+       "date": "2026-11-18"
+      }
+     ],
+     "date": "2026-11-18",
+     "id": "20261119-04"
+    },
+    {
+     "cat": "trend",
+     "importance": "mid",
+     "company": "업계 전반",
+     "title": "워케이션 및 유연근무를 통한 복지 차별화 트렌드",
+     "body": "충주 등 지역 워케이션 사례와 대기업들의 유연근무 자율화가 확산되고 있어요. 단순 연봉 외에 '일하는 방식'의 자율성이 핵심 복지로 자리 잡고 있어요.",
+     "insight": "우수 인재 유지를 위해 우리 그룹만의 특색 있는 워케이션 제도나 유연근무 가이드를 정립할 필요가 있어요.",
+     "action": "현재 운영 중인 유연근무제의 만족도를 조사하고, 그룹사 공통 워케이션 거점 확보를 검토해 보세요.",
+     "teams": [
+      "보상·복리후생",
+      "조직문화·HRD"
+     ],
+     "tags": [
+      "워케이션",
+      "유연근무",
+      "복리후생",
+      "EVP"
+     ],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "기고만장",
+       "url": "https://ggmj.kr/thehyuil/?idx=175726466&bmode=view",
+       "title": "[충주 워케이션] 내년 우리 회사 워케이션 어디로 가지? 탄금호를 품은 프리미엄 오피스 --> --> --> [충주 워케이션] 내년 우리 회사 워케이션 어디로 가지? 탄금호를 품은 프리미엄 오피스 N",
+       "date": "2026-11-19"
+      },
+      {
+       "name": "뉴시스",
+       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE94d2ZxVW1GdXh6MHRoQkhfSVdnZ2xkOUtOdG1weThuQ3RaaTRodnBxWk4tZVk5azdTQW0zRVVsZG5Fa0E0OWJxS2U1S0ZXMUNVNnpESG5nUk94ZGlheHUzY3hXc2pRRHVWVzduWk5hTkJXZF85RnFiatIBeEFVX3lxTE94d2ZxVW1GdXh6MHRoQkhfSVdnZ2xkOUtOdG1weThuQ3RaaTRodnBxWk4tZVk5azdTQW0zRVVsZG5Fa0E0OWJxS2U1S0ZXMUNVNnpESG5nUk94ZGlheHUzY3hXc2pRRHVWVzduWk5hTkJXZF85RnFiag?oc=5",
+       "title": "요즘 대기업들, '수능날 출근시간 조정' 사라졌다…\"유연근무로 자율\" [2027 수능]",
+       "date": "2026-11-18"
+      },
+      {
+       "name": "세계일보",
+       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5IS09wVEt0eTdvR0g1MGlnMERvVHQ0WVY2MDhLeWppVllVTHY2WFVKX29OYndwWkxlNXRINWhQNkQyekRCNlFIcC1PQ0F6SUZ00gFUQVVfeXFMT3pUVGZoYk1Xd0J1NlRWQURiOEtVOW5mYkhKc2hsMHp2eDdOZ19ISGV4UFZSb2dMWkxySzd4MWNmZks4aXp2bFJwbjRxOXhLV1NaYlkw?oc=5",
+       "title": "정부는 ‘10시 출근’ 요청했지만…대기업은 ‘유연근무’·우리 회사도 해당될까?",
+       "date": "2026-11-18"
+      }
+     ],
+     "date": "2026-11-19",
+     "id": "20261119-06"
+    },
+    {
+     "cat": "labor",
+     "importance": "mid",
+     "company": "지방자치단체",
+     "title": "12월 지방정부 노동감독 시행 및 권한 확대",
+     "body": "2026년 12월 8일부터 시·도지사에게 근로감독 권한 일부를 부여하는 법안이 시행돼요. 경기도 등 지자체가 직접 사업장 점검에 나설 예정이에요.",
+     "insight": "중앙 정부뿐만 아니라 지자체 차원의 노동 감시가 강화되므로, 지역 사업장(물류센터 등)의 노무 관리가 더욱 중요해졌어요.",
+     "action": "지방 소재 물류센터 및 사업장의 기초 고용질서 준수 여부를 사전 점검표로 확인해 보세요.",
+     "teams": [
+      "노무·ER",
+      "인사기획"
+     ],
+     "tags": [
+      "지방노동감독",
+      "근로감독관",
+      "노무점검",
+      "경기도"
+     ],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "시프티 블로그",
+       "url": "https://shiftee.io/ko/blog/article/regional-labor-inspection-delegation-under-30-employees",
+       "title": "2026년 12월 지방정부 노동감독 시행: 30인 미만 사업장 주요 확인 사항 2026년 12월 8일부터 노동감독관 직무집행법이 시행되면서, 고용노동부장관의 사업장 근로감독 권한의 일부를 지방정부 시·도지... 20",
+       "date": "2026-11-19"
+      },
+      {
+       "name": "서남투데이",
+       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0wTkdGQ1JtNkJubVlHQWdTY2R0MUNlb0hoMUkzMkZWUUFPMEhmRTRabXZGWGhQVUloVngwWXk2akdRcWZzRmFBSXp4QUJUM0xUZEtjX1l5T1ppZw?oc=5",
+       "title": "경기도, 12월 8일부터 지방노동감독 본격 착수…사업장 125곳 우선 점검",
+       "date": "2026-11-18"
+      }
+     ],
+     "date": "2026-11-19",
+     "id": "20261119-05"
+    },
+    {
+     "cat": "trend",
+     "importance": "low",
+     "company": "업계 전반",
+     "title": "마이너스 연차 및 연차 당겨쓰기 관리 주의",
+     "body": "신규 입사자나 연차 소진자의 '연차 당겨쓰기' 운영 시 퇴사 시점의 정산 문제와 법적 유효성에 대한 가이드가 공유되었어요.",
+     "insight": "근로기준법상 발생하지 않은 휴가를 미리 주는 것은 기업의 재량이나, 퇴사 시 임금 공제 등에서 분쟁 소지가 있어요.",
+     "action": "그룹사 취업규칙 내 연차 선사용 및 정산 규정이 명확히 기재되어 있는지 확인해 보세요.",
+     "teams": [
+      "인사기획",
+      "노무·ER"
+     ],
+     "tags": [
+      "연차관리",
+      "마이너스연차",
+      "근로기준법",
+      "인사운영"
+     ],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "시프티 블로그",
+       "url": "https://shiftee.io/ko/blog/article/annual-leave-in-advance-deduction-settlement",
+       "title": "연차 당겨쓰기, 며칠까지 가능할까? 마이너스 연차 차감·정산 정리 연차유급휴가를 모두 사용했거나 아직 충분한 연차가 발생하지 않은 직원이 휴가를 신청하는 경우, 기업에서는 향후 발생할 연차를 ... 2026-11-0",
+       "date": "2026-11-19"
+      }
+     ],
+     "date": "2026-11-19",
+     "id": "20261119-07"
+    },
+    {
+     "cat": "ecom",
+     "importance": "low",
+     "company": "카카오엔터테인먼트",
+     "title": "카카오엔터, 장윤중 공동대표 사임으로 단독 체제 전환",
+     "body": "카카오엔터테인먼트가 장윤중 공동대표의 사임에 따라 권기수 단독 대표 체제로 변경되었어요. 조직 효율화 및 경영 쇄신에 박차를 가할 것으로 보여요.",
+     "insight": "C레벨 교체에 따른 후속 조직 개편이나 핵심 인력의 이동 가능성을 모니터링할 필요가 있어요.",
+     "action": "카카오 계열사 출신 리더급 인재들의 이직 시장 동향을 상시 체크해 보세요.",
+     "teams": [
+      "채용",
+      "인사기획"
+     ],
+     "tags": [
+      "카카오엔터",
+      "대표이사변경",
+      "조직개편",
+      "리더십"
+     ],
+     "our_group": false,
+     "talent": {
+      "level": "mid",
+      "signal": "공동대표 사임 및 체제 변경 — 전략·기획 라인 인력 이동 가능성"
+     },
+     "sources": [
+      {
+       "name": "CEO저널",
+       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9VZWlmN2JOTEFYNl8xcFVYdGVxOE9Ta3lhNDE3MXFDSG1pUU9KeVZrUlo3NFladFNQc3didElmdW42cXVPVEhpVGFmelgwUmliMGE3TDRsSEhwSjhDd0EtdXE4TTN1VVnSAWtBVV95cUxQZ29kak9JaHM5OVFMVFhIRkNtR25XVUxYR3N6MlQ4YVc3VDRlbmlSTUpFYkhlaUYyc2pJaXNrUDhmRlFXYVViTmxBd2RuWEh5T2c1aEV1dEZnYm05UDdpekNpbmhnNi1HSkFZVQ?oc=5",
+       "title": "고정희 카카오엔터 대표, 장윤중 공동대표 사임으로 단독 체제",
+       "date": "2026-11-18"
+      }
+     ],
+     "date": "2026-11-18",
+     "id": "20261119-08"
+    }
+   ]
+  },
   {
    "date": "2026-11-18",
    "window_days": 1,
