@@ -1,0 +1,377 @@
+{
+  "date": "2026-11-20",
+  "window_days": 1,
+  "article_count": 274,
+  "engine": "gemini-flash-latest",
+  "headline": "근로감독 강화와 채용·보상 격차 대응 필요",
+  "points": [
+    "노동감독관 직무집행법 시행 및 포괄임금제 집중 점검 대비 근태 점검 필수예요.",
+    "경력직 이탈 및 오퍼 거절 사유 1위로 연봉·보상과 직무 기대 불일치가 대두돼요.",
+    "무신사·현대차의 직군 통합 및 유연근무 축소 등 채용·일하는 방식 변화가 빨라져요."
+  ],
+  "items": [
+    {
+      "cat": "market",
+      "importance": "high",
+      "company": "업계 전반",
+      "title": "경력직 오퍼 거절 사유 1위 연봉 불만족·2위 직무 불일치",
+      "body": "히든스카우트 데이터 분석 결과 경력직 최종 오퍼 거절 사유 중 43%가 연봉·보상 불만족이었으며, 직무 기대 불일치가 27%로 뒤를 이었어요.",
+      "insight": "핵심 IT 인재 채용 성공률을 높이려면 단순 처우 협상을 넘어 상세 R&R 사전 조율과 총보상 관점의 소통이 중요해요.",
+      "action": "처우 협의 단계 전 직무 기술서(JD) 고도화 및 보상 패키지 설명 프로세스를 정비해 보세요.",
+      "teams": [
+        "채용",
+        "보상·복리후생"
+      ],
+      "tags": [
+        "경력직채용",
+        "처우협의",
+        "오퍼수락률",
+        "보상전략"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "BI KOREA",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA0ODJSb2QtY3BqSzFOTmsyRTdZTGROdFY5Q1NlZnZoQm9mLUs0cHlCMndlSEM5NlBqZmNOLTZuYVpwTHA4dW9uXzVRM3prcTg0VWRib005VnNLN3lnMGhJSGdSZVd1dw?oc=5",
+          "title": "“경력직 오퍼 거절 사유 1위 ‘연봉·보상 불만족’ 43% 기록”",
+          "date": "2026-11-19"
+        },
+        {
+          "name": "한스경제",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5Fcks2ang4cnBmV25SNXdUTmpOWVk1MldkcENvb0VzWXg2MDVaUTA4eHZKMTRZRXdTSG9GejNmM3VmOUdScGhIY0FPMUpWUjN6SHRRSXF0ZHZGLURxbTlpTDJQUVIzMS03MnVSeW5LVQ?oc=5",
+          "title": "히든스카우트, 경력직 오퍼 거절 사유 조사 |",
+          "date": "2026-11-19"
+        },
+        {
+          "name": "잡포스트",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1tcU0tQWdSM1VvMFpkYTFwTHNocC1Mc0VHQkdUeUdESWdIVGZodFg3b25nVTBtYXEzQnNvbFZSeEJjQ1d0YWhfTHZsaHd3Q3VrZGd5eDNZYkNuTTdjcm9ZdGMzMWN2RFdxbEFOczVR0gFyQVVfeXFMTmtFOHNmQWxnb1hmMm92LUZOUUZPcTI3WUxNdmZ1LXdIRWh3TmIzSEtYNDdtZURpZVVnSHdVYk4zR2ktelZCLU1GMy1OLTJkOURWSjk1bTctQ1pmQnhlWnlUWXp0aHJfZkxBa2wtYkpXd1Zn?oc=5",
+          "title": "경력직 채용 최종 오퍼 거절 이유 1위는 ‘연봉 불만족’…직무 기대 불일치도 27%",
+          "date": "2026-11-19"
+        },
+        {
+          "name": "플래텀(Platum)",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBXYTkwcVpEcmJhVVZpaVYwZTVZMTExTkFlWWVzX29mWXNMODdXNzRUY05lSm1HaU5yT3pycktKYlZFSXhRWUF5dQ?oc=5",
+          "title": "경력직이 최종 오퍼를 거절하는 이유, 연봉 다음은 ‘맡게 될 일’",
+          "date": "2026-11-19"
+        },
+        {
+          "name": "한국경제",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5YZnNvVWNhSEpRbUxiTzBFNjFZekNSYVBiVXN0M3BjZUpuRUI4OER3VmtNV2FqbFZ2cmpFZ3VaLTdVMTQ4V2xOVTJZVDQzM3ZMakVrVWh5dmRIZw?oc=5",
+          "title": "'월급 더 줘도 포기'…합격 통보받고도 직장 안 옮기는 이유",
+          "date": "2026-11-19"
+        },
+        {
+          "name": "통신일보",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1JUm5nemNyY0dnVUdnWXBzaFIzS0oxTHZIZm5PaFoySzJRVjhXMXpxUkJicTNHQVkwclZoR20wUHZHWklHeE5jSW1qcUpSMGMyWlhrU0F6THZGWG9TSHMyZzJad3BVcWRoVjk4?oc=5",
+          "title": "경력직 43% “연봉·보상 불만족에 최종 합격 포기”… 히든스카우트, 채용 데이터 분석",
+          "date": "2026-11-19"
+        }
+      ],
+      "date": "2026-11-19",
+      "id": "20261120-02"
+    },
+    {
+      "cat": "labor",
+      "importance": "high",
+      "company": "고용노동부",
+      "title": "노동감독관 직무집행법 개정 시행 대비 불시점검 점검",
+      "body": "12월 8일부터 노동감독관 직무집행법 개정안이 시행되면서 불시감독 원칙이 확립되고 권한이 확대돼요. 근로계약서, 임금명세서, 근태 기록 등의 상시 관리가 요구돼요.",
+      "insight": "감독 방식이 불시 현장 점검으로 강화되므로 커넥트웨이브 그룹 전반의 근로시간 데이터 정합성 확보가 시급해요.",
+      "action": "그룹사 전반의 근태 타각 기록과 실근로시간 데이터 관리 현황을 긴급 자체 점검해 보세요.",
+      "teams": [
+        "노무·ER",
+        "인사기획"
+      ],
+      "tags": [
+        "노동감독",
+        "근로감독관직무집행법",
+        "근태기록",
+        "컴플라이언스"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "잡코리아 HR 뉴스",
+          "url": "https://www.jobkorea.co.kr/Corp/Lounge/News_View?GI_Trend_News_No=1082&Page=1&psTab=10&selText=",
+          "title": "12월 8일 노동감독관 직무집행법 시행을 앞두고 불시감독 원칙과 일부 감독 권한의 지방 위임 요건을 살펴봅니다. 근로계약·임금·근태 기록의 상시 관리부터 현장 자료 제출과 시정 이",
+          "date": "2026-11-20"
+        }
+      ],
+      "date": "2026-11-20",
+      "id": "20261120-00"
+    },
+    {
+      "cat": "labor",
+      "importance": "high",
+      "company": "고용노동부",
+      "title": "고용노동부 포괄임금·고정OT 오남용 기획감독 강화",
+      "body": "고용노동부가 공짜 노동 근절을 위해 포괄임금 및 고정OT 오남용 기획감독을 추진하며 수당 산정 및 근태 기록과의 대조를 엄격히 들여다보고 있어요.",
+      "insight": "포괄임금 체계를 운영 중인 이커머스 및 IT 직무 특성상 고정OT 대비 초과근로수당 정산 프로세스 정비가 필요해요.",
+      "action": "개발·운영 직군의 연장근로 실적과 고정OT 한도 소진율을 대조 분석해 보세요.",
+      "teams": [
+        "노무·ER",
+        "보상·복리후생"
+      ],
+      "tags": [
+        "포괄임금",
+        "고정OT",
+        "기획감독",
+        "근로시간"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "시프티 블로그",
+          "url": "https://shiftee.io/ko/blog/article/2026-inclusive-wage-fixed-ot-audit",
+          "title": "2026 포괄임금제 근태관리: 고정OT 수당 계산·대조와 기획감독 점검 항목 고용노동부는 ‘공짜 노동’ 근절을 위해 2026년 9월 15일부터 약 두 달간 「포괄임금·고정OT 오남용 기획 감독」을 실시하... 202",
+          "date": "2026-11-20"
+        }
+      ],
+      "date": "2026-11-20",
+      "id": "20261120-01"
+    },
+    {
+      "cat": "trend",
+      "importance": "mid",
+      "company": "고용노동부",
+      "title": "채용문화 우수기업 발표, 역량 평가 및 AI 온보딩 주목",
+      "body": "고용노동부가 2026 채용문화 우수기업을 발표했어요. 학력 제한 철폐, AI 챗봇을 통한 온보딩 지원으로 신입 퇴사율을 32%에서 4.8%로 낮춘 사례 등이 소개됐어요.",
+      "insight": "채용 투명성과 체계적인 온보딩 인터랙션이 초기 조기 전력화와 유지율 개선에 직결돼요.",
+      "action": "신규 입사자 온보딩 만족도 조사를 강화하고 질의응답을 지원하는 내부 가이드를 정비해 보세요.",
+      "teams": [
+        "인사기획",
+        "조직문화·HRD"
+      ],
+      "tags": [
+        "채용문화",
+        "온보딩",
+        "리텐션",
+        "AI도입"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "고용노동부 보도자료",
+          "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=20276",
+          "title": "역량으로 평가하고, 채용과정은 투명하게! 2026년 ‘채용문화 우수기업 어워즈’ 개최",
+          "date": "2026-11-20"
+        },
+        {
+          "name": "헤럴드경제",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5OYm00RU83ay1ZWHBiZHNpX2JCeWkzTWxmcXg1cTFEOFNscW5zWEh5UDl4MTNMWXhEWUJtWEhZamdMRThqZk9Ja1k4OXI2VFc1SWJDYTVB?oc=5",
+          "title": "SK하이닉스, 채용 학력 제한 없애 1만6000명에 지원 기회…노동부 장관상",
+          "date": "2026-11-19"
+        },
+        {
+          "name": "아주경제",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE05T3UtZGxrX01BWExCZEVPMzhocEdEXzNaT0phT09zc1RzTDAwX09QbDZmR1hBRVYzOXo5MHRxSThzN3VFblN2dFZIbEtzUGluWld5T3hxQ3nSAVhBVV95cUxNOU91LWRsa19NQVhMQmRFTzM4aHBHRF8zWk9KYU9Pc3NUc0wwMF9PUGw2ZkdYQUVWMzl6OTB0cUk4czd1RW5TdnRWSGxLc1BpblpXeU94cUN5?oc=5",
+          "title": "노동부·산인공 채용문화 우수기업 어워즈…SK하이닉스 등 22곳 선정",
+          "date": "2026-11-19"
+        },
+        {
+          "name": "뉴시스",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBwMlpRX2hzRzVoTjY3WlVtdXBJdXJ6MEYwbDhtYjNHRHFWWnIxcFpLaElRYnJXUTNCYW43SFVBX3ZsUnNnMzNfS1hXMDRQODZUZmIwUEpCWDBTbGVueVRucmI1eEI3eU9PdFJ5XzJoQXhtQXNRUy01Y9IBeEFVX3lxTFBwMlpRX2hzRzVoTjY3WlVtdXBJdXJ6MEYwbDhtYjNHRHFWWnIxcFpLaElRYnJXUTNCYW43SFVBX3ZsUnNnMzNfS1hXMDRQODZUZmIwUEpCWDBTbGVueVRucmI1eEI3eU9PdFJ5XzJoQXhtQXNRUy01Yw?oc=5",
+          "title": "AI 챗봇 활용하니 신입 퇴사율 32%→4.8%…채용 우수기업 선정",
+          "date": "2026-11-19"
+        }
+      ],
+      "date": "2026-11-20",
+      "id": "20261120-06"
+    },
+    {
+      "cat": "trend",
+      "importance": "mid",
+      "company": "현대자동차",
+      "title": "현대차, 채용 웹사이트 내 재택근무 표기 삭제 및 오피스 출근 기조",
+      "body": "현대자동차가 채용 사이트 근무환경 소개에서 '재택근무' 항목을 삭제하며 대면 중심 근무 환경 강화 행보를 보이고 있어요.",
+      "insight": "대기업들의 오피스 복귀(RTO) 전환 흐름 속에서 유연근무가 IT 인재 유치의 차별화 EVP 요소로 작동할 수 있어요.",
+      "action": "우리 그룹의 스마트워크 정책 현황을 점검하고 채용 브랜딩 강조 포인트로 재정의해 보세요.",
+      "teams": [
+        "조직문화·HRD",
+        "채용"
+      ],
+      "tags": [
+        "현대자동차",
+        "RTO",
+        "재택근무",
+        "유연근무"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "뉴시스",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB0cFhxTEttcl95SzM3V05oa2FfcUpNckpaOWVycjRuYTNqTDhKZ0U4ODQ2alJMcUZla3JjZVp4WjFaeVA4NGxBOXRJNDlHVG5wZkJwTm14RUx5NEhwaEFFetIBeEFVX3lxTE1VZl84NWxtcjFWNm96UVZ2TXowVGRsYjR0cHlIMzFfbVljWjBNamdSRmcwQUpTMF9NeFl0NnpzaWRUNFg5aUVBT3JvdlhFSGhpRkloU2RfdzhDYkxUU25kdFozYzFYU2ttQUNiTWNzTGE0bHJJbFZEOA?oc=5",
+          "title": "현대차, 채용 근무환경 소개서 '재택근무’ 뺐다",
+          "date": "2026-11-19"
+        },
+        {
+          "name": "매일경제",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE44RjlYek01TDVDVzh3azV3Y0p4YzFxcER1ekpFV2ZUelNiejVXWUUxUFI5Mk1ZbndSRGN1T0M0TjNuWkZRaHowRUxfYVI5eEtZSm5pcmJ3?oc=5",
+          "title": "[단독] 현대차, 채용 웹사이트서 ‘재택근무’ 항목삭제…집콕 원천차단 속도",
+          "date": "2026-11-19"
+        },
+        {
+          "name": "생생비즈플러스",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9qR2lGcFhkVGRPdE1PdzZPck9heElscDFyblA3aTZ6M3AtMkVKSnZaSXBMZzBRUWlaMG9ibG1rRXZVOEZ4TVlmZDZFd0hIRkJiMzdtX2dwWXh2MDdFZ3oyd196eG5WMlNoMlBkWQ?oc=5",
+          "title": "현대차, 채용 사이트서 '재택근무' 항목 삭제... \"새로 바뀐 방침 없어\"",
+          "date": "2026-11-19"
+        }
+      ],
+      "date": "2026-11-19",
+      "id": "20261120-04"
+    },
+    {
+      "cat": "ecom",
+      "importance": "mid",
+      "company": "쿠팡",
+      "title": "쿠팡풀필먼트서비스, 고졸 정규직 연계 트랙 확대",
+      "body": "쿠팡풀필먼트서비스가 물류 전문가 육성을 위한 고졸 공채 '웨이파인더 트랙' 모집을 확대하고 평가 후 정규직 전환을 추진해요.",
+      "insight": "물류 운영 인력 확보 경쟁이 심화되는 가운데 조기 선발 및 자체 양성 트랙을 통해 인력난을 해소하려는 전략이에요.",
+      "action": "몰테일·스윗트래커 물류 거점의 센터 운영 인력 확보 방안으로 영마이스터 및 특성화고 연계 방안을 검토해 보세요.",
+      "teams": [
+        "채용",
+        "노무·ER"
+      ],
+      "tags": [
+        "쿠팡",
+        "물류센터",
+        "고졸채용",
+        "CFS"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "시사포커스",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE41Zm8xMDhJajI5MF94Mlo2bE1BR2lhMzRPdGc2WWxxd1VuZURlOXE0ODVOYy1hc2xBeHMzVWJTMktfVEhnX0V6QWNmaXRUSm1BYjV3N0huUnBrMzNtTzl4OU11dTh5MUNCazFkMU1FSQ?oc=5",
+          "title": "쿠팡풀필먼트서비스, 고졸 공채 '웨이파인더 트랙' 모집 확대",
+          "date": "2026-11-19"
+        },
+        {
+          "name": "파이낸스투데이",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1yTmkzNFgyRzlnYVBDS2hfOUV2SjFfWF82U3plR28tUGpRWDdobXljMExsWTRfMjN0c1VOUmxWLVNMLVkxdHpkcDlRLWFrYjFlT0hDN0xwUWYzWHdaUF9BNk5mcWZob0t3WEhrVA?oc=5",
+          "title": "쿠팡풀필먼트서비스, 고졸채용 확대…1년 평가 거쳐 정규직 전환",
+          "date": "2026-11-19"
+        },
+        {
+          "name": "잡포스트",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0tb0kySzZGYVc1TVJXcDNVVFVBSzgyUWRKQTN1SDZ4YVl6Q2JzMFNsa2VMZ0tmMTRXeHB2SE9obllyYU5ZN2paNno5QjhCZ3FHZUNTSTZmcVgteGVCVTZDakhfbVNIaElQeDdmYkhn0gFyQVVfeXFMTnZNZlBCazJKSW8ycDdQUG80NklRaWt3VlRDT2hudVpoUXE5azQ4OGt6MjFBRDcyLXF2VHp2QjRxaEtHWXNUZU5YNE5Ha3ZiVl85MlRTUnFrUFNUNF96ZExZT0I1VjlPZHFJdWVPQmF4eE9B?oc=5",
+          "title": "쿠팡풀필먼트서비스, 고졸 물류 전문가 육성...채용 규모 확대",
+          "date": "2026-11-19"
+        }
+      ],
+      "date": "2026-11-19",
+      "id": "20261120-05"
+    },
+    {
+      "cat": "market",
+      "importance": "mid",
+      "company": "무신사",
+      "title": "무신사, AI 에이전트 도입해 프로덕트 엔지니어 통합 채용",
+      "body": "무신사가 프론트·백엔드 직군 경계를 허물고 AI 에이전트를 활용해 실무 역량을 검증하는 프로덕트 엔지니어 경력직 채용을 시작했어요.",
+      "insight": "AI 코딩 툴 확산에 따라 단일 도메인 개발자보다 비즈니스 문제를 해결하는 풀스택형 엔지니어 수요가 급증하고 있어요.",
+      "action": "다나와·메이크샵 등 주요 플랫폼 개발 직군의 채용 요건과 과제 전형 방식을 검토해 보세요.",
+      "teams": [
+        "채용",
+        "인사기획"
+      ],
+      "tags": [
+        "무신사",
+        "AI채용",
+        "프로덕트엔지니어",
+        "개발자채용"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "파이낸스투데이",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE52bnlqUGQtbm8xdWdPRG1aTWJQbUpmUzhlUEU3RWRnZkhWci04anUyNDVkQ3lmRm5CMVhZQTcwbkhwYVpfWVZmb3FQMXNlX05rNldXVktITGx5Ml9pWHpsem1EWUlad3BXY1JOYQ?oc=5",
+          "title": "무신사, AI 에이전트 활용해 경력직 채용…개발 직군 일원화",
+          "date": "2026-11-19"
+        },
+        {
+          "name": "무신사",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBOb2g2azh0MlhxTDJGT2QtWURaRnlHVGZ0OUVHQ0w2dF93NUdkbm94UWo0aUVYaDRJVXd3bVFUUENjUldEaWEwWlBjNnJsYk1WYXJNS1g1RlpqOWN4dWN5Vg?oc=5",
+          "title": "무신사, 개발 직군 경계 허문다… AI 에이전트로 검증하는 '프로덕트 엔지니어' 경력직 채용",
+          "date": "2026-11-19"
+        }
+      ],
+      "date": "2026-11-19",
+      "id": "20261120-03"
+    },
+    {
+      "cat": "ecom",
+      "importance": "low",
+      "company": "롯데쇼핑",
+      "title": "롯데그룹 임원 감축 인사 단행 및 롯데온 추대식 대표 유임",
+      "body": "롯데그룹이 유통·석화 계열사 위주로 임원을 축소하는 쇄신 인사를 단행한 가운데 롯데온 추대식 대표는 적자 축소 성과를 인정받아 유임됐어요.",
+      "insight": "이커머스 업계 전반의 외형 성장 위주 기조가 끝나고 수익성 및 비용 효율화 중심의 조직 셋업이 장기화되고 있어요.",
+      "action": "커넥트웨이브 그룹 내 플랫폼별 운영 효율화 및 손익 중심의 조직 구조 트렌드를 모니터링해 보세요.",
+      "teams": [
+        "인사기획"
+      ],
+      "tags": [
+        "롯데쇼핑",
+        "롯데온",
+        "임원인사",
+        "이커머스"
+      ],
+      "our_group": false,
+      "talent": {
+        "level": "mid",
+        "signal": "유통 계열 임원 축소 — 이커머스 MD·기획 인력 이직 시장 유입"
+      },
+      "sources": [
+        {
+          "name": "FETV",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9mN0piX0ppaHM1YUJzQk1nN1A4LWVSNFVRRk9ZVm1mM2RFZ3oyYmY0UHVBTmtGWnlMcDVHQ3pXbkc3TnpGZVBvR3d2Unp4ekMwa1pDaENPNFZ6bHZQYzZ0ZEdvTUliaVNM?oc=5",
+          "title": "롯데그룹, 신임 임원 86명·퇴임 90명…호텔 키우고 석화·유통 줄였다",
+          "date": "2026-11-19"
+        },
+        {
+          "name": "CEO스코어데일리",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4wZ1FlQXlNbS02MFp1WnNHbUFXZWJESElwYjdaUmQ3cE9YeGYtVS14eHpfMTBqVzNuOUs4VWU1d2Y4R0FGZkhKTS1kWlJVVGdPOWZMRVBjVTV3Y0VNU2tCbk9YdWFJZzU1?oc=5",
+          "title": "추대식 롯데온 대표, 적자 축소로 첫 성적표 합격…유임 성공",
+          "date": "2026-11-19"
+        }
+      ],
+      "date": "2026-11-19",
+      "id": "20261120-07"
+    },
+    {
+      "cat": "trend",
+      "importance": "low",
+      "company": "업계 전반",
+      "title": "2027년 반차 제도 법제화 대비 및 연차 데이터 시스템 사전 준비",
+      "body": "2027년 반차 사용 의무화 관련 제도 도입 흐름과 함께 근태 SaaS 솔루션을 통한 시간 단위 휴가 관리 가이드가 제시되고 있어요.",
+      "insight": "근태 시스템의 유연휴가 연동 기준을 미리 마련해야 향후 제도 변화 시 혼선과 근로시간 데이터 불일치를 줄일 수 있어요.",
+      "action": "사내 ERP 및 근태 시스템상 반차·반반차 데이터 처리 체계를 사전 점검해 보세요.",
+      "teams": [
+        "인사기획",
+        "노무·ER"
+      ],
+      "tags": [
+        "반차의무화",
+        "연차관리",
+        "근태SaaS",
+        "HR시스템"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "시프티 블로그",
+          "url": "https://shiftee.io/ko/blog/article/2027-half-day-leave-and-time-tracking",
+          "title": "2027년 반차 의무화: 근태관리 프로그램 활용과 연차휴가 관리 기준 반차는 근로자가 연차휴가를 반일 단위로 나누어 사용할 수 있도록 사업장별로 운영해 온 제도입니다. 그러나 2027년 6월 10... 2026-11",
+          "date": "2026-11-20"
+        },
+        {
+          "name": "시프티 블로그",
+          "url": "https://shiftee.io/ko/blog/article/work-time-data-consistency-guide",
+          "title": "HR솔루션과 PC-OFF 연계, 근로시간 데이터 불일치 원인과 관리 기준 기업에서 PC-OFF 프로그램을 활용해 근무시간 외 PC 사용을 제한하더라도, 실제 근로시간을 관리하는 과정에서는 다양한 데이... 2026-",
+          "date": "2026-11-20"
+        }
+      ],
+      "date": "2026-11-20",
+      "id": "20261120-08"
+    }
+  ]
+}
