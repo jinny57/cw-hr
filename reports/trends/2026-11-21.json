@@ -1,0 +1,465 @@
+{
+  "date": "2026-11-21",
+  "article_count": 146,
+  "engine": "gemini-3-flash-preview",
+  "headline": "AI 전환 가속화 속 글로벌 빅테크 대규모 감원 및 직무 재편 본격화",
+  "summary": [
+    "Microsoft, Salesforce 등 주요 테크 기업들이 AI 중심 조직 개편을 위해 수만 명 규모의 감원 및 자발적 퇴직 시행",
+    "Apple, Anthropic 등 AI 에이전트 및 연구 분야에서는 공격적인 채용과 파격적인 보상 체계 유지",
+    "국내외 채용 시장에서 AI를 활용한 면접 및 부정행위 방지가 화두로 떠오르며 채용 방식의 변화 감지"
+  ],
+  "numbers": [
+    {
+      "value": "60,000명",
+      "label": "Microsoft 자발적 퇴직 제안 규모",
+      "dir": "down",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMzZYUVViV012NGpKNnFSYWRnbG8zc2VrWUV0anV6WXFieXg0RktiSXFqUnV0Y1VYeVpIQUoyczJyVEFuSnRWcTRkanNzSF8yQjdCc05WeDN1cWY5Zk4xaS1vM2F4NmpBamttMUtvVmdfZHpxbm4xX2gzcDBJVVlXMnRlOEotM0U3cm5XS3FxMTlqR1FTRlg0Y3R3T1RZSGs?oc=5",
+          "title": "Microsoft CEO explains why the company asked 60K workers to quit. How to know when to accept a buyout or turn it down",
+          "date": "2026-11-20"
+        },
+        {
+          "name": "The Business Journals",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQTNnamQ5SXVfM0RJVjI4YjlRbDU2MXZZNEpWOGxjSTVvc0NqNGlDYmllNzFma3F4NFBXTGxCYTZqZHU1OXg3Sm1DYk8xdW9mazNMVWdfdkhUcnYyM3BwU1U3OXNVb3o4dDN5VFEzUUtlRC1IRTF3cHpGWEpHVno0QzF5OHBTVGtIazlSUUN2SW9XaFdNRW1yMVdrVUpuSTQ?oc=5",
+          "title": "Microsoft CEO addresses buyout offers to 60,000 employees",
+          "date": "2026-11-20"
+        },
+        {
+          "name": "The Times of India",
+          "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxNQThRMVdscDBuRjNTcGw0SlBGNkx5Zkh1c2I1TGRHMGEyS0l3b3ZFV3JsTVZBSU5qS0JHb0hCZGo5b3AxVUtSdk9pREdNUkkxRnd3UG4xMmZGcEhmSG9UR3R6U2V2RkcwWlNxM01iMlo4anZDYmdiaHo2dWx6VE9mVDNNSnR6VDJJUXVmN1dWdGhJTVRtVERyQ2RDbXBkUFJvN2xYTFdmOVBJMU1CSk1yZENnZ0NPcGFmNENWeGdjblRZU3g1U1Q1cGNEbVE2TDBYNndkTGE2X2ZHMmJVN2pxZXFQMFh1d3ZFSmxRM3h3U0VFY1NWb2lwMEZVOTMzckRVcGtpSXBqWnB1N3ViRml1NHpIQVJrclhIN1ROcTU0cDVvRkRQZ2tVczB1RW5vRXhPdFp5OG81NUtlX1BXMDdSR1ZrSGVmdVBfcVRKRmVzYi1vNEtfOHRleWRVSEjSAeICQVVfeXFMTmNNX3g3dGpnSGR0UV9jWXdIeHZsci00bjRnNzdQbWpvdE5TY0hUOUtDcnlkQmMzdjlRVXd5MmFmcGhUT1BwSHBBcktSTWNFYjZHQjJteGJLdzgzYW9IU05VQ3ZnczN3dTFNbm1jMUtRYnN4SEFHbW4zVExYeEgwRjVuT3VhR0MxcUMwYk41ZzhiampTeWRtQjV3VzV4NmRvRklqNkhNZkx5cnlxb2ItdmczVU1tb2otWlkteTVpTUZqRV9za21ZcDQzNWIwLVdEZVh2NFNHNGlKWjFfT0ZFX2VXQms2TGVYdzdJSGVrYjZWSTVRV2ZocFI2a3lTdWQxV09MN2kwWVJmSGJyNXZvM3pXZ1hRRDgxME5qWU1WZld1MGxxb1dBRXFfTU1Rem5neUtYNGtudVJwQmZTQ0x4eVVROUJqZ3VlNlNUak1JMmpKcV9tRjljVnhrSnpFUlgxS1NB?oc=5",
+          "title": "Microsoft staff wrote open letter that they fear being replaced by AI, then 60,000 got exit offers; Satya",
+          "date": "2026-11-20"
+        }
+      ]
+    },
+    {
+      "value": "1,000명",
+      "label": "미국 연방 조달청(GSA) 신규 채용 계획",
+      "dir": "up",
+      "sources": [
+        {
+          "name": "Wisevoter",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQ0tsd3EzNWk1dEFFVmJEODlPS0Y4aTNXX1pRY1FnNXNRUk40ejg1UDV5LWdSMzA2WGVKV21xQnF3VWtxd3ROZG9zUWMxTEJHamFXUlM4QXVfN2ZXa0d1LXgtM2tYcE9HN1BUT3FUdWFZQ1UwclVUYTRmVTJVbWlEaFd5SnYtbWliYVl5bTJkVnZrTHM5aHc?oc=5",
+          "title": "GSA Plans to Hire 1,000 Federal Acquisition Workers",
+          "date": "2026-11-21"
+        }
+      ]
+    },
+    {
+      "value": "950명",
+      "label": "Accenture 포르투갈 내 Meta 관련 직무 감원",
+      "dir": "down",
+      "sources": [
+        {
+          "name": "shattered.io",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcDFzVk5vbXdKaW1QSGVpRjhWeVdoazl1Q3M2TnJVSnQ0V2VuVXFXelJJUVlHaENucTB4X2w2VFRTMGh5ellkcHZoR0hhT2FnamJld19oOUhHWmI2ZVZLUjZFdkY3aHFSdWNSSkpxZkpRODN0VFVLNEdnQm0tREFrUkZnVm40UzhxOHQ0?oc=5",
+          "title": "Accenture Portugal Job Cuts: 950 Meta-Linked Roles",
+          "date": "2026-11-20"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQl82R1NQaEttYmk0WWpabkRNRUVCYWFvSDBwVjFJWXEtUi1RNklzaDd3cWx4a01aWUxoZVZvR0JmYmNvRWhyMzlkQS1BYUNDeUVlMGhYMHZIcTc3TkxYYTh3SEFvYmZjYWJ3UHRCTzRpRkotTEliWEstSkd4MDhQZ19DWGdPOWVSS3NQQ0RRQndsNnZ2bHl6b3ZrTngzUk4tamJla2R3SzZZa3dGTGtNSl9icThRRFU?oc=5",
+          "title": "Accenture launches plan to cut 950 Meta-linked jobs in Portugal",
+          "date": "2026-11-20"
+        }
+      ]
+    },
+    {
+      "value": "520명",
+      "label": "Qualcomm 캘리포니아 지역 감원 규모",
+      "dir": "down",
+      "sources": [
+        {
+          "name": "The Times of India",
+          "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxOTG9jUXF1OGVVSHFTNHJsckNKY2YtYlktQnJqeWpCbzlCcFFVZGthMkU2VmNwY3lJNmRBdEw3MVBpOURSZ0RRUFIzbDRxNUJwWUgzQ3FfdVRvQ3gxQnV3RUQzakQtSGhqNEhrZHB6ajZNU2RqczBPZWZEV3ltVjU2a1d0SkluTHR5Ui0ySXhWeVM5WndITXE3WHVZand2SHFmLXRWamVMSjZzb0hJX2F2WWphUmFtU2FRS2NHTGRDOF85MU52UmdHemVTTzlmeDY3V0VBOHFPMjYwU2IycTdzMEN5anhQN0duRTc1aEdPbUVLdFlvRTNMR2dSVWswSXpUbmYwN3d3M3g4NHpSX3kwczZzXzVDdTV6c3NzS2xqRdIBpAJBVV95cUxPMTZsU200WTB1UVFaeXVvRnI1UFI5bzBFc3BjMXNvaXQtTzEwTUgtUm1JZHhYbDRndGxwSmdPSHdJd0dHMGtQUzMyTmVTZ1hPRFYweWkweE44Q0tYSlVoeF9vUkMwd1lhclBFTEFmbTlqZDFNSkVwZFV3bjN0SnRzMHdCbDZYbWctUFM2MGtzM21BNk5Tcnc2bHlVV1FzMEZCbHBZODNjSnlXY0tEbmhnNFhrTVYyYXZZR1k5TUxoSGlwTnd4OXpfdThNQ3d2SFlMZXBZdEY0MzVzc3VWeUVrVm4tZW14Y1hFa1ZBcjJOaHNJWDNYNGduYnE1d3NWNkwyUkV0Y0ZUcEFtaGNoUlpZanhoMHVnVm85MXBseGNIZFpHdWRP?oc=5",
+          "title": "Qualcomm lays off hundreds in California; as CEO Cristiano Amon says: We must have the right people in th",
+          "date": "2026-11-20"
+        },
+        {
+          "name": "People Matters Global",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPNnBBUjdxR0NVdmxMdkFrbEZ2MHhYMHBKUllWTENIN1plTWN3T211RWN5dTJNSzJCSnFLV0RVNUFBRW0yT21PbktIVV9kRXNhcjVLNElidUdTbVMzYmNJNWtfU2JncXNCWHRuRnJBQlhuRlYyR3BwbFJpdjBWbWpja1VGbnNZbjVtVnUtRnJEOFA5ZjVydExIUlk4X1BPTjVkci16RFlfb0paR3dRUWpqS0FCZ1VkdlhRREJsUUhBQk9FOXRhM3I0ejhLUXd4a3JNQmxfdUdoUDVTSWNM?oc=5",
+          "title": "Qualcomm to cut 520 jobs in California amid global restructuring and AI push",
+          "date": "2026-11-20"
+        }
+      ]
+    }
+  ],
+  "layoffs": [
+    {
+      "company": "Microsoft",
+      "kind": "자발적 퇴직",
+      "size": "60,000명",
+      "pct": "미표기",
+      "note": "AI 중심의 조직 개편을 위해 대규모 자발적 퇴직(Buyout) 제안",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMzZYUVViV012NGpKNnFSYWRnbG8zc2VrWUV0anV6WXFieXg0RktiSXFqUnV0Y1VYeVpIQUoyczJyVEFuSnRWcTRkanNzSF8yQjdCc05WeDN1cWY5Zk4xaS1vM2F4NmpBamttMUtvVmdfZHpxbm4xX2gzcDBJVVlXMnRlOEotM0U3cm5XS3FxMTlqR1FTRlg0Y3R3T1RZSGs?oc=5",
+          "title": "Microsoft CEO explains why the company asked 60K workers to quit. How to know when to accept a buyout or turn it down",
+          "date": "2026-11-20"
+        },
+        {
+          "name": "Mashable SEA",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSTViYV9GS3VRLWZXWG5tQks0ZmtmcHo3bU4yRTJYWWdOQ2RkQjhNWDZITkkweUJOY1EtUW1ndHFTaE9PTy1iOXpuNHFVYjZueC1wejJBb1B5RHpBMUw4Vk1VT09wQXF0ellnRk9jQjVxNVloRlVtZ0NKRGdxby0xYTF1MV9CeFZyR2pCbnVCVFpmcEFaVEw0bFJrLWdHWjZGaXluOHlrNTYxbjQwcXU0YWNqMlFlY00?oc=5",
+          "title": "Microsoft CEO explains reason behind the 60,000 buyouts (it's AI, of course)",
+          "date": "2026-11-20"
+        },
+        {
+          "name": "Computerworld",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNc0dmOEZYT0g1NWdHT202STRMVnNRTVhTck1WQjVYQ3I1aXlRLUhfSGRYb0VVU0VPZkpOeDRtNWttVVdiX3NyLUtqb2ozcmU1RWsyakJSUVozSUtlQUtyMTdLY1oyaUdiajE2Y0FXejJaWEhzRndRcFNqYUpfZ3pXR3hjRHRNdW4xbTJMTXkwOHZYdHd3NmRfVTIyeUdTQkd4U2xxaHhFSkk5eTdvRE1yY3IxOA?oc=5",
+          "title": "Nadella: Here’s why Microsoft offered buyouts to 60,000 employees",
+          "date": "2026-11-20"
+        }
+      ]
+    },
+    {
+      "company": "Salesforce",
+      "kind": "감원",
+      "size": "미표기",
+      "pct": "",
+      "note": "인도 지사를 포함한 글로벌 조직 전반의 구조조정 및 비용 절감",
+      "sources": [
+        {
+          "name": "The Federal",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaGZoQnJGclVsaXk0NEVKa2dGcGFyNU5TNUNtZVF4ZG9LcG5ETS1IVzFoVUdLX3Y4anpWcGJCU25yUzRnMS13RDhOcnRPUHllNFNvWk1HQ2IzbTJPRHhBRTFsYzB2aEJRU0k1UHlEWG5xVGp6Tno4TkdzSGd2RFo1VVlBWklxUVpjU0JqSnRnZDJ3c3Q3RHdPZzJzVzZZc29HdVE?oc=5",
+          "title": "Watch | Qualcomm, Salesforce layoffs signal shift in India’s tech job market",
+          "date": "2026-11-20"
+        },
+        {
+          "name": "India Today",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQV29JN3dQdXN3ODJfcG5jR3lFVzlYZTdhbWtBeld2UklKNU93dl9hYVFEREYtYWl1Y3Vka1JEWldaa0ttWl9mWnNhdENMVF91a1FQU1RleFZ5UVByTUZfdVRRbG1xclpPYTQ3UkdWSmxDU2g2YmhpSk9IYUJuSWxsUi01a3F1eTJlcVJHNDBacjNSTldkblY0dVFDX2dUejdWaUxFS0lpTWhLWVljV2FHYmphSXJBRDNkN0txZzNDYnhRSlZKalc0ejJndUl2YUNhOGx2YkNUMGh6SXfSAeABQVVfeXFMTm0yMUF2ZU5ZWWFYams1QUplQ2pGVmZHZ1p2VlM5OU5SOWd3WFdIVW4ycDZOaEpldW9aUWl4T01ZVGh1bnhlSFk1ZEx5N2oxYVZwNEcyb0dCcWRjNTQ5QV9DVGVKOHR2bnhZdjBoXzFjRElZMWRzeW5LcE9GU1RtY2xtLTkwN1BDdWNCTm5JV0tTYzgtb0xQRzVaX0t5NF8tQlZoZVJuT19xVzhITnBNd0plUW9PaFhZdXRpYmRiZk5iY29HdFd6RkU0ajBMWm5WQ3dRd09QQm5XMGdjMTIxVGs?oc=5",
+          "title": "Salesforce layoffs: India office impact, garden leave and severance explained in 5 points",
+          "date": "2026-11-20"
+        },
+        {
+          "name": "재경일보",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9MRUVCekJObnBMUE1DMFh0U2ROUWQ2QS11TTltelIwYVprYV9vOUtVM1pUTVJRbTc5ZXdqc3ZEVEc3V0h0V1F0UXZCb2p6QVVuTUxHRzRkU21WSzdWcFRvbVNB?oc=5",
+          "title": "Salesforce Drops 3.7% Amid Reports of Ongoing Restructuring Costs and Layoffs : Finance : JKN",
+          "date": "2026-11-20"
+        }
+      ]
+    },
+    {
+      "company": "Cisco",
+      "kind": "감원",
+      "size": "수백 명",
+      "pct": "8.8%",
+      "note": "지난 2년간 지속된 인력 감축의 일환으로 추가 감원 단행",
+      "sources": [
+        {
+          "name": "SDxCentral",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBZeEpZWVBYWlNxbjNhRG11em9VU2J2S3o0eHotc0R0YkhEMll0NURKaHcySS11ZGU1cHlwRkJfcnhmdVROa0pUczZ3Z3NGVl9ySG5oa2luVFg3RU5mcGVNcW5nOG9zbENsckdUQV85bw?oc=5",
+          "title": "Cisco lays off more employees",
+          "date": "2026-11-20"
+        },
+        {
+          "name": "People Matters - HR News",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNG9PSzVDT2NMNlpiZGp2czdjQklYOXEzYVEwbENLMkdEQktKdWFDeEczajhoU2xmZGdSbnQzU0x1ZjUyNFEzUWxKV0JfUVk1NnpkbzRLNTJCSGNITzFIZTVTYzhWTHJKZGJvTjM4R3VLS05NWm52dUlJN3VjOFl6NzVOWVJHZkhlM3ZqVEhLX1NybFRTcFJsekFZdXc1bG1zdlNWWFo5RDlPQ0JFWmVUT2V6SDdITW02b3BXUWJBU2ZnMG43dm1qS3lKS1hNNWU5eHc?oc=5",
+          "title": "Cisco reduces workforce by 8.8% in two years, reports fresh layoffs in November",
+          "date": "2026-11-20"
+        },
+        {
+          "name": "CTech",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1yU0hJZUNzS3JkSjBldl9VWjVjSGZxdXlhejAxaEtXdTRnc3k5dzRQMU9MQXlnOEdUNkltUkpuSktHeV8xUXVTWUlWdkxsWThBOUNSU1BBUWw2bFJuQ1BEQVhPUHlaOTA?oc=5",
+          "title": "Cisco's latest layoffs could affect hundreds as workforce reduction continues",
+          "date": "2026-11-20"
+        }
+      ]
+    },
+    {
+      "company": "Ubisoft",
+      "kind": "감원",
+      "size": "166명",
+      "pct": "",
+      "note": "조직 효율화와 동시에 신규 AI 스튜디오 설립 병행",
+      "sources": [
+        {
+          "name": "Notebookcheck",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcFpHeXdoSkpwY2RkSU5xNm5TVGphOVRkc1hicjFsTXhPUjBfRXNTanFtblQtR3U4LVlESWVLeGhTTkQ2cm05MVh3YzM0U2ZGUmFjZkRqWDRJRUUxeWo1SnprM1VMeGRQWnlhVUZ4U2tqaDgxalBMV01KZF9KeURtQXZMQ3QzOHdPUFlSTnltM0hpT0dieDdrRHJNOFN0VzQ1ZlJzZTI3NXAtcUdndjBHY1Y1Zw?oc=5",
+          "title": "Layoffs continue: Ubisoft cuts 166 jobs while launching new AI studio",
+          "date": "2026-11-20"
+        }
+      ]
+    }
+  ],
+  "hiring": [
+    {
+      "company": "Apple",
+      "role": "AI 에이전트 엔지니어",
+      "note": "Mac 조작 및 코딩이 가능한 범용 AI 에이전트 개발 인력 집중 채용",
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE11WFRUMzlQZGxwaVNlYzlJdndFR3pDNURIeEM4Q1RpNUdkUzhBaFpOVHgxOHg4Y1BmazJhdUhLRjdMOERCUUlwT3loSDhPb0gyM1FCdkJQRC1tTl83MGRWRHFpTDh2UTVyUHpsYUc4ZFh5VzUzaTlQSmhpZUQ2UQ?oc=5",
+          "title": "Apple is hiring engineers to build its own AI agent",
+          "date": "2026-11-20"
+        },
+        {
+          "name": "The Tech Buzz",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNU2VIYjc3YWpILXpqWXAybmJYTDB1QUQtcEJrbFk1aGxfUnlVNFB3ZVRYODlBN2dpdmp6V20zaW5oSXRMNTJMWHpKYmNvNWxrNGhPRWlHOVN4d253OXVDaE9Mazl6WnktaFU3dVFjUlNyZkRFaDQwUFlOdzlHNncyUUN1OTA?oc=5",
+          "title": "Apple Hiring Signals Entry Into AI Agent Race",
+          "date": "2026-11-20"
+        },
+        {
+          "name": "Unite.AI",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPckh3aFk2NGF2M2pqc1lTeThuRjB1TEgtMGRqeEI1RlZQemtLWG9nRG5OR05sTkdBR3JkLTlYLWUtNldtdTFsRlpmR2tCM2hxcFVvOHl1WDZncjNKYlE4UndxazFLV1lHY3Vsdmo4OVRLakNUSzhGX25WeUJMaHBoaFZRWnI2c3pfTktVclJMSmNJZw?oc=5",
+          "title": "Apple 채용 공고, Mac AI 에이전트 초기 개발 시사",
+          "date": "2026-11-20"
+        }
+      ]
+    },
+    {
+      "company": "Lam Research",
+      "role": "반도체 장비 인력",
+      "note": "AI 붐에 따른 수요 대응을 위해 싱가포르에 200명 신규 채용",
+      "sources": [
+        {
+          "name": "Singapore Economic Development Board (EDB)",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOa2pHWGVqaGNVdkV1UXpSSlA2Nlg0V0QtMGh0UzFQY0FUU2VOSTN6NFFsbW5vMkhxS3BEcWpVdDNpRm5ibVZuQ3hrQUt4cmVCSGVjSnp1eGZTdWJhRlZkaFZ3ejhWQ0d5Tm03R0ItTmFyYmlLenc4cXhKU19BbFVIa3VRdXNvWXRHWTVZSTYzb2RHWHVUZ2ktN2hsdlRvbU1pXzhhajg3WUo2M1N2UGoyZ093T2V5b3J5V25TUVdXXzVENkxhcXg3cnJn?oc=5",
+          "title": "US semiconductor equipment firm Lam Research to add 200 jobs in Singapore amid AI boom",
+          "date": "2026-11-20"
+        }
+      ]
+    },
+    {
+      "company": "Meta",
+      "role": "인도 정책 총괄",
+      "note": "인도 내 관계 회복 및 정책 대응을 위한 고위급 인사 영입 추진",
+      "sources": [
+        {
+          "name": "Indiatimes",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPbEt0WUp0VE5CRUdwVVZJNHFjcWc5NkQ2QWlKNE1OTnlqNEhoNjhqTHlkSEFBeVhWUDhnV0g4TkNZV19GTXppOEZicHBrbk5ITmZTSy12QlRURFJkSG5URnlSM2hLZ0xhb1ROc3hpWTJLUWVjWElaNU9qMVhFa2l4NllKSXRXbjZxY1BlLWx4cmZMbkgyZ0ZHUFlCTVVBcFdlT2UtUllCb2huZUJZc01feDZ2eUxkZTNNT3YxZ0dxS1BkbUsyMFd4RkllS29YVURkRGc?oc=5",
+          "title": "Meta looks to hire new India policy chief to repair frayed ties",
+          "date": "2026-11-20"
+        }
+      ]
+    }
+  ],
+  "roles": {
+    "up": [
+      {
+        "name": "AI 에이전트 개발자",
+        "why": "Apple 등 빅테크의 차세대 AI 서비스 주도권 경쟁 심화"
+      },
+      {
+        "name": "데이터 센터 전문가",
+        "why": "AI 인프라 확장에 따른 전문 학위 및 기술 수요 급증"
+      }
+    ],
+    "down": [
+      {
+        "name": "IT 운영 및 지원",
+        "why": "Intel 등 주요 기업의 IT 조직 효율화 및 AI 대체"
+      },
+      {
+        "name": "단순 코드 작성자",
+        "why": "AI가 코드를 생성함에 따라 사고 과정 중심의 개발자로 재편"
+      }
+    ]
+  },
+  "korea": [
+    {
+      "company": "국내 대형 게임사",
+      "note": "실적 개선에도 불구하고 상시 구조조정 체제로 전환하며 인력 효율화 추진",
+      "sources": [
+        {
+          "name": "Naver Blog",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNmxtRVlyRFpfSldDNWVpRDV6dk1PYzAxVWQ4eDdjZWRSaGtHak1WVVlhUjVLSEUwUUN5MU1vdjNtUDc5dUtDbU9zbFp5dHRKdUJISHNhZjBoeEV3M1VZb2Y3RzhfWm93YzN2aTlUX3ZDelhpYmRrUTIwcno5S09OTnQ0UldlSF9sYTlKWWdSSQ?oc=5",
+          "title": "[인력 줄이는 K게임] 돈은 더 벌고 사람은 줄이고…대형 게임사 '상시 구조조정' 시대 : 네이버 블로그",
+          "date": "2026-11-20"
+        }
+      ]
+    },
+    {
+      "company": "잡코리아",
+      "note": "AI 시대의 일하는 방식과 프로덕트 전략 공유를 위한 컨퍼런스 개최",
+      "sources": [
+        {
+          "name": "베이비뉴스",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1KOGdWVGtaUElDaFFZdVpuWXpOcV8zMG5wZzV1c0hmaGRpQk10OWVYaDJzVW9VTU94WlFBMmhjcUhJRGpJQzc5UGw0OTNleTlCQTVvcjFIUVRjeXFLSGtSZE5ZVGxNd0pMbGZONA?oc=5",
+          "title": "[AI 트렌드] 잡코리아, 26일 ‘프로덕트 컨퍼런스’ 개최…AI 시대 일하는 법 공유 外",
+          "date": "2026-11-20"
+        }
+      ]
+    },
+    {
+      "company": "아임웹",
+      "note": "AI 루프 엔지니어링 도입을 통해 개발 병목 현상 해결 시도",
+      "sources": [
+        {
+          "name": "ER 이코노믹리뷰",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5EUU9BcXpVcXFGcDVsbWJ2YjQ3N0dtZFdjRHZZcGhPU2RkUmwxdDVxb0tfZVFXS1kyX2x0RUc5eFIxRVdqa2lrS0d3R1NFUXdSSm5SM0ZFZ3pzTjA5VWdnWEJONHJMZlUydVBzQw?oc=5",
+          "title": "아임웹, AI 루프 엔지니어링으로 개발 병목 푼다",
+          "date": "2026-11-20"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "t20261121-00",
+      "region": "global",
+      "importance": "high",
+      "company": "Microsoft",
+      "title": "AI 전환을 위한 6만 명 규모 자발적 퇴직 제안",
+      "body": "사티아 나델라 CEO는 AI 시대로의 완전한 전환을 위해 6만 명의 직원에게 자발적 퇴직(Buyout)을 제안했습니다. 이는 단순 비용 절감이 아닌, AI 역량 중심의 인력 구조 재편을 목적으로 합니다.",
+      "insight": "커넥트웨이브도 단순 운영 인력보다는 AI 활용 능력을 갖춘 인재 위주로 JD를 재편하고, 기존 인력의 AI 리터러시 교육 강화가 필요해요.",
+      "tags": [
+        "AI전환",
+        "조직개편",
+        "인력재편"
+      ],
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMzZYUVViV012NGpKNnFSYWRnbG8zc2VrWUV0anV6WXFieXg0RktiSXFqUnV0Y1VYeVpIQUoyczJyVEFuSnRWcTRkanNzSF8yQjdCc05WeDN1cWY5Zk4xaS1vM2F4NmpBamttMUtvVmdfZHpxbm4xX2gzcDBJVVlXMnRlOEotM0U3cm5XS3FxMTlqR1FTRlg0Y3R3T1RZSGs?oc=5",
+          "title": "Microsoft CEO explains why the company asked 60K workers to quit. How to know when to accept a buyout or turn it down",
+          "date": "2026-11-20"
+        },
+        {
+          "name": "Mashable SEA",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSTViYV9GS3VRLWZXWG5tQks0ZmtmcHo3bU4yRTJYWWdOQ2RkQjhNWDZITkkweUJOY1EtUW1ndHFTaE9PTy1iOXpuNHFVYjZueC1wejJBb1B5RHpBMUw4Vk1VT09wQXF0ellnRk9jQjVxNVloRlVtZ0NKRGdxby0xYTF1MV9CeFZyR2pCbnVCVFpmcEFaVEw0bFJrLWdHWjZGaXluOHlrNTYxbjQwcXU0YWNqMlFlY00?oc=5",
+          "title": "Microsoft CEO explains reason behind the 60,000 buyouts (it's AI, of course)",
+          "date": "2026-11-20"
+        },
+        {
+          "name": "MoneyWise.com",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOc1RmTS14QkdiaW0xTXZUbE1zVmtnMDN3LVRaV2VfWWdINjRpVlVZN2JPeENpaGJ2M3poOVM5R3ZWLVZvNXl5T29JRENadEx2SXI1TkxmYVNwTENGZEI1QWRoTy05NEFFclJFV3ZWZmhfamRNNThXTTE5Z3QxdnVyRUhuUkRlR0o5M1VtMGdkdUJCMVhQbHU0cU1DWQ?oc=5",
+          "title": "‘It has to be done’: Microsoft CEO explains why the company asked 60K workers to quit. How to know when to accept a buyout offer or turn it down",
+          "date": "2026-11-20"
+        }
+      ],
+      "date": "2026-11-20"
+    },
+    {
+      "id": "t20261121-01",
+      "region": "global",
+      "importance": "high",
+      "company": "Apple",
+      "title": "범용 AI 에이전트 개발을 위한 엔지니어 집중 채용",
+      "body": "Apple이 사용자의 컴퓨터를 직접 조작하고 코딩까지 수행하는 AI 에이전트 개발에 박차를 가하며 관련 엔지니어를 대거 채용 중입니다. 이는 챗봇을 넘어선 실행형 AI 시장의 경쟁 신호입니다.",
+      "insight": "이커머스 솔루션(메이크샵 등)에 적용 가능한 AI 에이전트 기술 역량을 가진 엔지니어 확보 경쟁이 치열해질 것으로 보여요.",
+      "tags": [
+        "AI에이전트",
+        "엔지니어채용",
+        "기술경쟁"
+      ],
+      "sources": [
+        {
+          "name": "The Verge",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE11WFRUMzlQZGxwaVNlYzlJdndFR3pDNURIeEM4Q1RpNUdkUzhBaFpOVHgxOHg4Y1BmazJhdUhLRjdMOERCUUlwT3loSDhPb0gyM1FCdkJQRC1tTl83MGRWRHFpTDh2UTVyUHpsYUc4ZFh5VzUzaTlQSmhpZUQ2UQ?oc=5",
+          "title": "Apple is hiring engineers to build its own AI agent",
+          "date": "2026-11-20"
+        },
+        {
+          "name": "24/7 Wall St.",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaTNXM3lfYkdKaVM4MFBqRDlPeHE3M1U4TFhfeDQwTUtUc1BfU3dfNjdYSmw4bTBfZlpOR3RZSmowNGs2c1lrWW02bVRSU19HdEZ2dXZRd0ZNajduMXJtc04ySTkwaUZLVFN6Q0tvMmJwajVyTGhnZHZ3OUNmUy1yX3FJZ1ZfdG50MVNCZUc1VXJ4VmtZZmdsbkpwc3EwdkpZNGJRbEF6OF9odjkz?oc=5",
+          "title": "Apple Is Building an AI Agent That Can Use Your Computer for You",
+          "date": "2026-11-20"
+        },
+        {
+          "name": "AI타임스",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE94Tlc1ZTZjT19VUF85NmlmVUxGNGtrZ0hWVTBLbjVrS29mZE9JRG8wZmhqcFpiQVlJQS13YzZDSU5INFFTSWxfSHN6cDNDQ0dzcllhcWNkSDhuX2tObEw3ZmpuRjNWMTFhTlE?oc=5",
+          "title": "애플, 시리 넘어서는 범용 AI 에이전트 개발...앱 조작·코딩까지",
+          "date": "2026-11-20"
+        }
+      ],
+      "date": "2026-11-20"
+    },
+    {
+      "id": "t20261121-02",
+      "region": "global",
+      "importance": "mid",
+      "company": "Anthropic",
+      "title": "IPO 및 파격적 보상으로 핵심 연구 인력 '백만장자' 등극",
+      "body": "Anthropic의 상장 과정에서 대부분의 직원이 백만장자 반열에 올랐습니다. 이는 최상위 AI 연구 인력을 확보하기 위한 테크 업계의 보상 경쟁이 극에 달했음을 보여줍니다.",
+      "insight": "핵심 AI 인재 유치를 위해서는 기존 연봉 체계를 뛰어넘는 파격적인 스톡옵션이나 인센티브 설계가 필수적이에요.",
+      "tags": [
+        "인재보상",
+        "AI연구원",
+        "스톡옵션"
+      ],
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcWFRMHVMWFROREx5em8wYWdDZ2pvUk9nLV9OZS10bjZCVVE4Nmd3bEt3ZFZhZUFsdjU3S3RwMThTZzVsSUY5TEd4RlYwbGp0dVRZX3dTOGVjTVlVNWgxeGo5b0I2aG92ZTNmTTB3SzFfX2s5anZDTFZtbGpteDdnY2JTakFKTHdD?oc=5",
+          "title": "Anthropic’s I.P.O. Turns Tech Researchers Into Overnight Millionaires",
+          "date": "2026-11-20"
+        },
+        {
+          "name": "CNN",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE16bUU5S2ZDSlZ3aGZMNFFjajdWQlpJUWNNbFNDVkpzX3lrR3k1azQybWVNVTZnTlplVU9xTXlrTTR1bFlYOFhQbjhhNUpFSmNhdXUwa2NGaHdoZDFRRC1STmJUeWx0SkpmamkxN21iX1UwZHNVRUZtUFBXeno?oc=5",
+          "title": "Almost all of Anthropic’s employees are now millionaires",
+          "date": "2026-11-20"
+        }
+      ],
+      "date": "2026-11-20"
+    },
+    {
+      "id": "t20261121-03",
+      "region": "korea",
+      "importance": "mid",
+      "company": "업계 전반",
+      "title": "AI 면접 도입 확산 및 부정행위 방지 대책 고심",
+      "body": "미국 기업의 52%가 AI 면접을 활용 중인 가운데, 국내에서도 AI를 활용한 채용 시험 부정행위에 대한 우려가 커지고 있습니다. 맥킨지, 메타 등은 이에 대응하는 엄격한 평가 방식을 도입하고 있습니다.",
+      "insight": "채용 프로세스에 AI 면접 도입 시, 지원자의 AI 활용 부정행위를 걸러낼 수 있는 정교한 평가 로직과 가이드라인이 필요해요.",
+      "tags": [
+        "AI면접",
+        "채용혁신",
+        "부정행위방지"
+      ],
+      "sources": [
+        {
+          "name": "Metaintro",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQODNMU010RW9DQTBrVGVPQVY5WFprUjB2Uml6aTdxdEdPRm1XUlhQaWQ3emxDTkJmQlFuOFhqLW1WN3RyVW5mM3o0WVpSX252LXdtOXdwWS1UVFYzZlRwd2s5UzAzcVJ5NFJzVTFfU2dOVkdxREl6TXNueGpKcUQ0Z2MwYXB3ZTQ4c0xKMS1Fd1RaR1U?oc=5",
+          "title": "52% of US Employers Use AI Interviews While 90% Believe They Rejected Real Applicants",
+          "date": "2026-11-20"
+        },
+        {
+          "name": "노컷뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBwTVZqRGU1YlhVYjItYk44TWEwX1NkWGRZUWdxcmN2ZWVfeVB2QUlNbVZaV2lDMmVOaXBLTFVIVU1tc19OYi01VGV6SU5KdG1xa3ZCUQ?oc=5",
+          "title": "채용시험까지 번진 'AI 부정행위' 우려…맥킨지·메타는 어떻게",
+          "date": "2026-11-20"
+        }
+      ],
+      "date": "2026-11-20"
+    },
+    {
+      "id": "t20261121-04",
+      "region": "global",
+      "importance": "low",
+      "company": "Salesforce",
+      "title": "인도 등 글로벌 지사 대상 상시 구조조정 지속",
+      "body": "Salesforce가 인도 지사를 포함하여 추가 감원을 단행했습니다. 퇴직자들에게는 2027년 2월까지의 가든 리브(Garden Leave)와 퇴직금이 제공되는 등 비용 효율화에 집중하고 있습니다.",
+      "insight": "글로벌 빅테크 출신의 우수 인력들이 시장에 나오고 있으므로, 이들을 타겟팅한 다이렉트 소싱 기회로 활용할 수 있어요.",
+      "tags": [
+        "글로벌채용",
+        "구조조정",
+        "인재소싱"
+      ],
+      "sources": [
+        {
+          "name": "The Federal",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaGZoQnJGclVsaXk0NEVKa2dGcGFyNU5TNUNtZVF4ZG9LcG5ETS1IVzFoVUdLX3Y4anpWcGJCU25yUzRnMS13RDhOcnRPUHllNFNvWk1HQ2IzbTJPRHhBRTFsYzB2aEJRU0k1UHlEWG5xVGp6Tno4TkdzSGd2RFo1VVlBWklxUVpjU0JqSnRnZDJ3c3Q3RHdPZzJzVzZZc29HdVE?oc=5",
+          "title": "Watch | Qualcomm, Salesforce layoffs signal shift in India’s tech job market",
+          "date": "2026-11-20"
+        },
+        {
+          "name": "India Today",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQV29JN3dQdXN3ODJfcG5jR3lFVzlYZTdhbWtBeld2UklKNU93dl9hYVFEREYtYWl1Y3Vka1JEWldaa0ttWl9mWnNhdENMVF91a1FQU1RleFZ5UVByTUZfdVRRbG1xclpPYTQ3UkdWSmxDU2g2YmhpSk9IYUJuSWxsUi01a3F1eTJlcVJHNDBacjNSTldkblY0dVFDX2dUejdWaUxFS0lpTWhLWVljV2FHYmphSXJBRDNkN0txZzNDYnhRSlZKalc0ejJndUl2YUNhOGx2YkNUMGh6SXfSAeABQVVfeXFMTm0yMUF2ZU5ZWWFYams1QUplQ2pGVmZHZ1p2VlM5OU5SOWd3WFdIVW4ycDZOaEpldW9aUWl4T01ZVGh1bnhlSFk1ZEx5N2oxYVZwNEcyb0dCcWRjNTQ5QV9DVGVKOHR2bnhZdjBoXzFjRElZMWRzeW5LcE9GU1RtY2xtLTkwN1BDdWNCTm5JV0tTYzgtb0xQRzVaX0t5NF8tQlZoZVJuT19xVzhITnBNd0plUW9PaFhZdXRpYmRiZk5iY29HdFd6RkU0ajBMWm5WQ3dRd09QQm5XMGdjMTIxVGs?oc=5",
+          "title": "Salesforce layoffs: India office impact, garden leave and severance explained in 5 points",
+          "date": "2026-11-20"
+        },
+        {
+          "name": "SME Futures",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNnZwaV9PcEZvdUZDT0tOS2EwMWZTRmlJQl9MclJqd3JOTlBRdzBLRDI0UWI5U2VwN0gwYnZ4OE9jZF83ejFoQWlPMW83VDZsYlhLUERDV2RPMm9vdS1uOUZoVVEwbzRFVEpVNlRvdG9ydVc3c3hlR2lVX3kzVDJCVkJBUjFDQU5US3dOd25MNjV4Z3FSeG1GWlpuU1dpaGlvNi1ycw?oc=5",
+          "title": "Salesforce layoffs hit India; employees report garden leave until February 2027",
+          "date": "2026-11-20"
+        }
+      ],
+      "date": "2026-11-20"
+    }
+  ]
+}

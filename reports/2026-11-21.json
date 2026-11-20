@@ -1,0 +1,350 @@
+{
+  "date": "2026-11-21",
+  "window_days": 1,
+  "article_count": 266,
+  "engine": "gemini-3-flash-preview",
+  "headline": "2027년 반차 의무화 및 포괄임금제 기획 감독 등 근태·보상 규제 강화",
+  "points": [
+    "2027년 6월 반차 사용 의무화 시행에 따른 근태 관리 시스템 선제적 대응 필요",
+    "고용노동부의 포괄임금제 및 고정OT 오남용 기획 감독 실시로 근태 기록 관리 중요성 증대",
+    "경력직 이직 거절 사유 1위가 보상 불만족(43%)으로 나타나며 보상 경쟁력 강화 요구"
+  ],
+  "items": [
+    {
+      "cat": "labor",
+      "importance": "high",
+      "company": "고용노동부",
+      "title": "2027년 반차 의무화 시행 및 포괄임금제 기획 감독 강화",
+      "body": "2027년 6월부터 근로자의 반차 사용이 법적으로 의무화될 예정입니다. 또한 고용노동부는 포괄임금제와 고정OT 오남용을 근절하기 위해 기획 감독을 실시하며 근태 관리의 투명성을 강조하고 있습니다.",
+      "insight": "반차 의무화에 대비해 연차 관리 시스템을 고도화해야 해요. 특히 포괄임금제를 운영 중인 그룹사 특성상, 실제 근로시간과 수당의 대조 관리가 법적 리스크 관리의 핵심이 될 거예요.",
+      "action": "현재 그룹사 PC-OFF 및 근태 시스템이 반일 단위 연차와 연장근로 기록을 정확히 매칭하는지 점검해 보세요.",
+      "teams": [
+        "인사기획",
+        "노무·ER"
+      ],
+      "tags": [
+        "반차의무화",
+        "포괄임금제",
+        "근로감독",
+        "근태관리"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "시프티 블로그",
+          "url": "https://shiftee.io/ko/blog/article/2027-half-day-leave-and-time-tracking",
+          "title": "2027년 반차 의무화: 근태관리 프로그램 활용과 연차휴가 관리 기준 반차는 근로자가 연차휴가를 반일 단위로 나누어 사용할 수 있도록 사업장별로 운영해 온 제도입니다. 그러나 2027년 6월 10... 2026-11",
+          "date": "2026-11-21"
+        },
+        {
+          "name": "시프티 블로그",
+          "url": "https://shiftee.io/ko/blog/article/2026-inclusive-wage-fixed-ot-audit",
+          "title": "2026 포괄임금제 근태관리: 고정OT 수당 계산·대조와 기획감독 점검 항목 고용노동부는 ‘공짜 노동’ 근절을 위해 2026년 9월 15일부터 약 두 달간 「포괄임금·고정OT 오남용 기획 감독」을 실시하... 202",
+          "date": "2026-11-21"
+        }
+      ],
+      "date": "2026-11-21",
+      "id": "20261121-00"
+    },
+    {
+      "cat": "market",
+      "importance": "high",
+      "company": "업계 전반",
+      "title": "경력직 오퍼 거절 사유 1위 '보상 불만족' 43%",
+      "body": "경력직 후보자들이 최종 오퍼를 거절하는 가장 큰 이유가 연봉 및 보상에 대한 불만족(43%)으로 조사되었습니다. 이는 기업의 EVP(인재가치제안)에서 보상이 여전히 가장 강력한 요소임을 보여줍니다.",
+      "insight": "커넥트웨이브가 우수 인재를 영입하기 위해서는 시장가에 맞는 연봉 밴드 설정과 함께, 현금성 보상 외의 차별화된 복리후생 패키지 설계가 필수적이에요.",
+      "action": "최근 1년간 채용 실패 사례를 분석하여 우리 그룹의 오퍼 수락률을 높일 수 있는 보상 가이드를 검토해 보세요.",
+      "teams": [
+        "채용",
+        "보상·복리후생"
+      ],
+      "tags": [
+        "경력직채용",
+        "연봉협상",
+        "보상경쟁력",
+        "EVP"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "아웃소싱타임스",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5BRXdtREtXd0cwM3p5eVF4R0ZSMUtWWEZkVXpHTUxNYWY4UjJvenFsd1BZcUVFY3pFZm9sNVJrcllRbTVPclljSDVET2gtSTNiLTI5NVQzZlRSX3lfVWkwdW5OaV93OWpWdnIxOWwtdHBEQQ?oc=5",
+          "title": "[취업뉴스] 경력직 오퍼 거절 사유 1위는 '연봉·보상 불만족' 43%으로 나타나",
+          "date": "2026-11-20"
+        }
+      ],
+      "date": "2026-11-20",
+      "id": "20261121-01"
+    },
+    {
+      "cat": "ecom",
+      "importance": "mid",
+      "company": "금융·게임업계",
+      "title": "금융권 및 게임업계 대규모 희망퇴직 실시",
+      "body": "NH농협은행 등 범농협 계열사가 만 40세 이상을 대상으로 최대 40개월치 임금을 지급하는 희망퇴직을 실시합니다. 게임업계 또한 상시 구조조정 체제로 전환하며 인력을 감축하고 있습니다.",
+      "insight": "금융권의 IT 인력이나 게임사의 개발·기획 인력이 시장에 대거 유입될 신호예요. 우리 그룹의 서비스 고도화에 필요한 시니어급 인재를 확보할 기회로 활용할 수 있어요.",
+      "action": "희망퇴직이 진행되는 주요 기업 출신 인재들을 타겟팅하여 인재풀(Talent Pool)을 선제적으로 구축해 보세요.",
+      "teams": [
+        "채용"
+      ],
+      "tags": [
+        "희망퇴직",
+        "인재유입",
+        "구조조정",
+        "금융IT"
+      ],
+      "our_group": false,
+      "talent": {
+        "level": "high",
+        "signal": "금융·게임사 희망퇴직 진행 — 시니어 개발 및 기획 인력 유입 예상"
+      },
+      "sources": [
+        {
+          "name": "DealSite경제TV",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9TXzh5ZEIwYWdleTBxMW9OLXRIQ3k4ZXlXcDEwN3RlTmk2eDQzY25RbTNkSkZCMklwY1V0amxkejRXRm1KVDhkMjRZOVhvS0REVGd6UENn?oc=5",
+          "title": "보험업계 찬바람…교보·NH농협 희망퇴직",
+          "date": "2026-11-20"
+        },
+        {
+          "name": "더팩트",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAzbDBESlM0cnptRGxJelNYNFc2bmExODN0OW9fckJwNlJESkhfMDBtei1sbGFCTTJmWW9NdXhWOGVldE1kR3d2Z1hkSl8zYUdxU0oxRNIBVEFVX3lxTFAzbDBESlM0cnptRGxJelNYNFc2bmExODN0OW9fckJwNlJESkhfMDBtei1sbGFCTTJmWW9NdXhWOGVldE1kR3d2Z1hkSl8zYUdxU0oxRA?oc=5",
+          "title": "농협금융 계열사, 희망퇴직 확대…최대 40개월치 특별퇴직금 지급",
+          "date": "2026-11-20"
+        },
+        {
+          "name": "디지털데일리",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8za3hiVVNQWG9fS3p2YmJmN1NDQTVzcnZnTzB5R2VXYTlNWGxkNjBiejJ2VW1nUjlkeFJIdFFacDFXaTlwZl9fR3ZsSlMzcmZ5eDUtUV9MWmRCbkhWdk5TYWRHUnY?oc=5",
+          "title": "“최대 40개월치 임금 준다”…농협은행, 40세부터 희망퇴직",
+          "date": "2026-11-20"
+        },
+        {
+          "name": "딜사이트",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9HdzhJeUl2QllqMG9ydGtaeUhOVUNlTUZQU0psNjZsNkkxT0tqd0JJd01UeHdaejFOc1NiZFM0RkNTM2JiOFBkUDQ5NWh5Z00?oc=5",
+          "title": "[인력 줄이는 K게임] 누구는 3년치, 누구는 두 달치…게임사 희망퇴직도 '복불복'",
+          "date": "2026-11-20"
+        },
+        {
+          "name": "블로터",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5zQkpWTkhtOVlkMTgtNVlUeEtUYXEwRnV5bE95bDJWYlVjWGVXZ3hZZGxUcEF4dXFDODRGRGNSLTJ0bEM4bFhUTDR1Ml9jM212U3VQNUVUaFh6Z1BiY1o1Qm9XMFR0U1BG0gFsQVVfeXFMTjRGSUFwc2lOaUFHdUV6MFhqN3NkTmpfWGZZUk44NXlhRXhLTDBfTVd6WXlKQURsVzBvYjVkbGZqWG5UcTB5eDJ3Z1FSSVo4THlmdEh3M0NmOTZkQUxxazZKemtTUEdsb1ltMW1Q?oc=5",
+          "title": "농협 명퇴금 2배로…신한·우리 12월 희퇴, 은행권 'AI 인력 재편'",
+          "date": "2026-11-20"
+        },
+        {
+          "name": "Naver Blog",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNmxtRVlyRFpfSldDNWVpRDV6dk1PYzAxVWQ4eDdjZWRSaGtHak1WVVlhUjVLSEUwUUN5MU1vdjNtUDc5dUtDbU9zbFp5dHRKdUJISHNhZjBoeEV3M1VZb2Y3RzhfWm93YzN2aTlUX3ZDelhpYmRrUTIwcno5S09OTnQ0UldlSF9sYTlKWWdSSQ?oc=5",
+          "title": "[인력 줄이는 K게임] 돈은 더 벌고 사람은 줄이고…대형 게임사 '상시 구조조정' 시대 : 네이버 블로그",
+          "date": "2026-11-20"
+        },
+        {
+          "name": "Chosunbiz",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTU1zbW5HYjdNUV9kS01ZQ2gtSTBXaEpvbzB0MjFmUnRpelM3S0R4UDllQ2dSc2FuQndhRTBVcUFQNHpSemtGRHlfUWZWd1V1M1hNWnNfQ3lRWHotNkFpN294eno2dTAwZVhxc0I1dTllV3JodjU4OXhZN3lNZUVKdNIBlAFBVV95cUxOQjBMWG0weWd3NUdsbmcxeG5LWXBYcVpwbGRvcnhST0NuRExTRWZuQmEtbnQ3bmp2MEw0WDFpcmlNcmZwRjktUVFWbzZ3M0JyUVN2RlZRQkc2WW1ZRjkxX093ZnBCdHNDNU83LUk0LWlUc0lhYzVEZThvQ00wdGZPME5OQkpBYkwxV014MVJQaFhIeVdi?oc=5",
+          "title": "NH금융, 40세 이상 직원 특별 명퇴 신청받는다… 특별 퇴직금 2배",
+          "date": "2026-11-20"
+        }
+      ],
+      "date": "2026-11-20",
+      "id": "20261121-03"
+    },
+    {
+      "cat": "labor",
+      "importance": "mid",
+      "company": "업계 전반",
+      "title": "프리랜서 근로자성 판단 및 퇴직금 산정 기준 주의",
+      "body": "프리랜서 계약이라도 실질적 지휘·감독이 있으면 근로기준법상 근로자로 인정되어 수당 및 퇴직금 지급 의무가 발생합니다. 최근 퇴직금 계산 시 평균임금 산정 기준에 대한 분쟁도 증가하고 있습니다.",
+      "insight": "그룹 내 플랫폼 운영을 위해 활용하는 외주 인력이나 프리랜서의 업무 방식이 '근로자성'을 띠고 있지 않은지 상시 점검이 필요해요.",
+      "action": "현업 부서의 프리랜서 활용 가이드를 배포하고, 계약서와 실제 업무 방식의 일치 여부를 확인해 보세요.",
+      "teams": [
+        "노무·ER",
+        "보상·복리후생"
+      ],
+      "tags": [
+        "프리랜서",
+        "근로자성",
+        "퇴직금",
+        "평균임금"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "시프티 블로그",
+          "url": "https://shiftee.io/ko/blog/article/freelancer-night-work-pay-and-employee-status",
+          "title": "프리랜서 야간근로수당 지급 조건과 근로자성 판단 기준 알아보기 프리랜서 계약으로 일하더라도 근로기준법상 근로자에 해당하면 연장·야간·휴일근로수당이 적용됩니다. 근로자 해당 여부는 계약서의 ... 2026-11-09",
+          "date": "2026-11-21"
+        },
+        {
+          "name": "시프티 블로그",
+          "url": "https://shiftee.io/ko/blog/article/severance-pay-calculation-average-wage-guide",
+          "title": "퇴직금 계산 방법과 평균임금 산정 기준·근속기간별 예시 퇴직금은 계속근로기간과 퇴직 전 평균임금을 기준으로 산정합니다. 법정 퇴직금은 1일 평균임금 × 30일 × (총 재직일수 ÷ ... 2026-10-29",
+          "date": "2026-11-21"
+        },
+        {
+          "name": "그린포스트코리아",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE02aGpuT05qWW10NFo4UG1FVjczVkIySHA2NzRLVy1oR0hGRjRKRC1Fb0tNb0pRRHpCcUJ3VTJfYThMd1pldEk0QTJYSF81NkJrV2RPWG96eE9jeEpVcHFlMEE5NmdLUjRpVXdHcGJWOXBKQ1Z3QlHSAXpBVV95cUxQQ0FJcWFlY0RxV1ZBb2hNeXYtUE9YcFQxTmU5VjRXS0Z5N3hIZWlMdkJHMkg0bDBUN3RIRUwyTkNkQk1ERmFPazNxZ0Q5S0R1MzJ3d0M0TWJvaEQyVEprdnhKbFNVSkVlMElOOE5GcUlncndwVGxUMk94dw?oc=5",
+          "title": "퇴직연금 기능 강화와 기업의 평균임금 검토 사례",
+          "date": "2026-11-20"
+        }
+      ],
+      "date": "2026-11-21",
+      "id": "20261121-02"
+    },
+    {
+      "cat": "trend",
+      "importance": "mid",
+      "company": "네이버페이",
+      "title": "네이버페이, 중소기업용 복지몰 'Npay 복지마켓' 출시",
+      "body": "네이버페이가 구축비 없이 도입 가능한 기업 전용 복지몰을 오픈했습니다. 복지포인트를 네이버페이 포인트로 전환하여 온·오프라인에서 자유롭게 사용할 수 있는 점이 특징입니다.",
+      "insight": "임직원들의 복지 포인트 사용 편의성을 높이는 것이 트렌드예요. 우리 그룹의 복지 포인트 운영 방식과 비교하여 임직원 만족도를 높일 수 있는 플랫폼 연동 방안을 고민해 볼 가치가 있어요.",
+      "action": "현재 운영 중인 복지 포인트 시스템의 사용처와 편의성을 점검하고, 외부 플랫폼 제휴 효율성을 검토해 보세요.",
+      "teams": [
+        "보상·복리후생"
+      ],
+      "tags": [
+        "복지몰",
+        "네이버페이",
+        "선택적복지",
+        "임직원만족도"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "매일일보",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9aUk1yMVE1NTl1RkxkUWZoVGVFUEtySUtGQjVVSDNERVE5SExDMTRXUnVuS0pIZldxX2ZaYll2TkFfVjVsd1FSeXZhX1Nqa0wyVDF1bmR6YUh1UHhTMmw1TVA3OUc?oc=5",
+          "title": "네이버페이, 기업 전용 복지몰 출시…중소기업도 구축비 없이 도입",
+          "date": "2026-11-20"
+        },
+        {
+          "name": "전자신문",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE12cXBxRko0WUhyTWV3cmhkcUlDZGd4T29sWjR1MXVzaGVwYm9pWUJ4MTZ3Z2Jzem56eEp5VEJfQlVkOUkyeXpFY1NxMDBWQQ?oc=5",
+          "title": "네이버페이, 기업 전용 복지몰 'Npay 복지마켓' 열어",
+          "date": "2026-11-20"
+        },
+        {
+          "name": "매일일보",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5LUWZvQzV5Qm5NZkNaa05PMkxjMFdMdGxlOGY3enQtbTlmcHJSSzJfeVFPdDRDRzF4MFZaWmZkeUNZVEx2TkNHRFdfbU1vaGo0X0RacnJrX0RGS1BIOVhIby1xWHY?oc=5",
+          "title": "복지포인트로 '전용몰 쇼핑'…네이버페이, ‘Npay 복지마켓' 열었다",
+          "date": "2026-11-20"
+        }
+      ],
+      "date": "2026-11-20",
+      "id": "20261121-04"
+    },
+    {
+      "cat": "labor",
+      "importance": "mid",
+      "company": "업계 전반",
+      "title": "직장 내 괴롭힘 금지법 강화 및 피해 지원관 신설",
+      "body": "직장 내 괴롭힘 근절을 위한 제도화가 가속화되고 있으며, 피해자 구제를 위한 '지원관' 신설이 추진되고 있습니다. 또한 업무상 정신질병의 산재 승인 건수도 급증하는 추세입니다.",
+      "insight": "단순한 금지를 넘어 임직원의 정신건강(Mental Health) 보호 체계를 구축하는 것이 기업의 리스크 관리 영역으로 들어왔어요. 조직문화 차원의 예방 교육이 중요해졌습니다.",
+      "action": "그룹 내 고충처리 위원회의 운영 실태를 점검하고, 익명 신고 채널의 신뢰도를 높일 수 있는 캠페인을 기획해 보세요.",
+      "teams": [
+        "노무·ER",
+        "조직문화·HRD"
+      ],
+      "tags": [
+        "직장내괴롭힘",
+        "정신건강",
+        "조직문화",
+        "노무리스크"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "의약일보",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE14RXRwX3lYZmtGZnp0elFvalJ0amNpY0tESUZLTndSUUFmS19LUUtLQmV2UG9EV3VUU2xjN2pVOFdac29ZSU1xNVFBLUtfYmY0R25wUg?oc=5",
+          "title": "업무상 정신질병 산재 승인 8년 새 6.8배 증가…\"직장인 정신건강 보호체계 필요\" : 정책",
+          "date": "2026-11-20"
+        },
+        {
+          "name": "JTBC",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5PN2s1VUhoWGRvbEV0SE82ZENXQ3RDM1ZMSC00b0hDbVlwdXBsUDh2ZDg4TWV0c1FhUmI2bFZyMjRtV0FobXJ0OHhpN3NfVXhmbWV3Rg?oc=5",
+          "title": "직장 내 괴롭힘 금지법 16일 시행…처벌기준과 사례는",
+          "date": "2026-11-20"
+        },
+        {
+          "name": "뉴스핌",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBGZWlaY3Y3UXo3SDRSeUZGNVRxS1dVeDExa05zbGt5LXRBcTZ6bzBSLTVRRmczN0hmQjlFcHZfdk1nRUc5ckJSRHZtWVQ4aktoV2VIUngtelk5ZG03?oc=5",
+          "title": "[단독] '괴롭힘 금지구제 지원관' 신설 추진…직장 내 괴롭힘 피해자 지원 강화",
+          "date": "2026-11-20"
+        }
+      ],
+      "date": "2026-11-20",
+      "id": "20261121-06"
+    },
+    {
+      "cat": "trend",
+      "importance": "low",
+      "company": "업계 전반",
+      "title": "채용 및 교육 현장의 AI 활용과 부정행위 리스크",
+      "body": "채용 시험과 면접에서 AI를 활용한 부정행위 우려가 커지며 맥킨지, 메타 등 글로벌 기업들이 대응책을 마련하고 있습니다. 반면 대학가에서는 AI 면접 역량 강화 프로그램이 활발히 운영 중입니다.",
+      "insight": "AI 면접이나 과제 전형을 운영할 때, 후보자의 진정성을 검증할 수 있는 보완 장치가 필요해요. 동시에 내부 교육(HRD) 시 AI 활용 능력을 높이는 과정은 필수가 되고 있어요.",
+      "action": "우리 그룹 채용 전형 중 AI 활용이 가능한 단계의 검증 로직을 점검하고, 2027년 HRD 계획에 AI 실무 활용 과정을 포함해 보세요.",
+      "teams": [
+        "채용",
+        "조직문화·HRD"
+      ],
+      "tags": [
+        "AI채용",
+        "부정행위",
+        "AI면접",
+        "디지털전환"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "노컷뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAtLU9xeDlQYi1oU1ZkUjFXVVhvbzlzSmg2aFFGbUJRbFJkblhWTGV4SVA5VFJJQjRzMk9uUnk4TlBRb0xyVTF3eEJKSlVCSjRRNUE?oc=5",
+          "title": "채용시험까지 번진 'AI 부정행위' 우려…맥킨지·메타는 어떻게",
+          "date": "2026-11-20"
+        },
+        {
+          "name": "경상일보",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE41QnE0NG1TMTJ4aXBrcnZzMi16NHRPVmw0ek9yWWJYLVhsZFA1S29VUTNzWE9yOFN1NU1STFlMVXl2bzh1dXlZcVZsRTNfTlBRS3RTc1p4SWhqZUpYRVlxelRlckZkS1ZBeHdVSA?oc=5",
+          "title": "청운대 ‘AI면접으로 배우는 AI실전 문제해결 과정’ 성료",
+          "date": "2026-11-20"
+        },
+        {
+          "name": "피앤피뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9EOC11alhNLTZMNlVXcjNqVWQySF9ockhSVmRpNEZLS2s5Q0p0eWcxamZTdUowdkRaTWtfclBFNGdJMjhHbTZabEhwdzV1Y000MjdIRFB6X1FNcG5MUEE?oc=5",
+          "title": "청운대학교 대학일자리플러스센터, '2026년 하반기 포트폴리오 작성 및 AI 활용 면접역량 강화' 프로그램 성황리 마무리",
+          "date": "2026-11-20"
+        }
+      ],
+      "date": "2026-11-20",
+      "id": "20261121-05"
+    },
+    {
+      "cat": "ecom",
+      "importance": "low",
+      "company": "SSG닷컴",
+      "title": "SSG닷컴, 장보기와 패션·뷰티 독립경영 체제 돌입",
+      "body": "SSG닷컴이 물적 분할을 통해 신선식품 중심의 '장보기'와 '패션·뷰티' 조직으로 나누어 독립경영을 시작합니다. 이는 전문성 강화와 의사결정 속도 향상을 목적으로 합니다.",
+      "insight": "이커머스 경쟁사의 조직 개편은 인재 이동의 신호탄이 될 수 있어요. 특히 특정 카테고리(패션/뷰티) 전문 인력들의 R&R 변화에 따른 이직 의향을 모니터링할 필요가 있어요.",
+      "action": "분할 이후 조직 개편 과정에서 이탈하는 핵심 리더급이나 실무진이 있는지 채용 채널을 통해 확인해 보세요.",
+      "teams": [
+        "인사기획",
+        "채용"
+      ],
+      "tags": [
+        "조직개편",
+        "독립경영",
+        "이커머스",
+        "인재이동"
+      ],
+      "our_group": false,
+      "talent": {
+        "level": "mid",
+        "signal": "SSG닷컴 조직 분할 및 독립경영 — 카테고리별 전문 인력 이동 가능성"
+      },
+      "sources": [
+        {
+          "name": "한국아이닷컴",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1GM0Q0djRQdE5MYUZ6NVhJUUhWNHhsdFM5N0VLa0JIT3B6ZF9Ga2ZUbkJSZFlOQnZ5eDJUemxDMllfcnRkdE04blM5WTI1eDZ0MTZObUp5NEJtMTdOekZ2V0IzWkx5dDRGbGhr0gFvQVVfeXFMTS1mVzNENWZ4bjJidmRTYW9lOW43elNtYVoxOHd3M043czJSbTNYWk1RcHJOdmJxUEZ6emFhMlE1V2hOYS1LMzFKOHdLUEN0TXhlaWpKd1hSVFo5U3pmRm5aVFZialFTaEcybXZsTnBn?oc=5",
+          "title": "SSG닷컴 분할 D-11…'장보기'와 '패션·뷰티' 독립경영 시험대",
+          "date": "2026-11-20"
+        }
+      ],
+      "date": "2026-11-20",
+      "id": "20261121-07"
+    }
+  ]
+}
