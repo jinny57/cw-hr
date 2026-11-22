@@ -56,9 +56,401 @@
     ]
    }
   ],
-  "updated": "2026-11-21T00:41+09:00"
+  "updated": "2026-11-22T11:06+09:00"
  },
  "reports": [
+  {
+   "date": "2026-11-22",
+   "window_days": 1,
+   "article_count": 185,
+   "engine": "gemini-3.8-flash",
+   "headline": "포괄임금 감독·보안 리스크 속 인재 이동 신호 포착",
+   "points": [
+    "고용노동부의 포괄임금·고정OT 기획감독에 대응한 근태 및 수당 점검 필요",
+    "컬리 개인정보 유출 및 무신사 IPO 추진 등 커머스 경쟁사 주요 동향 발생",
+    "게임업계 M&A 감원 및 엔비디아 리더십 교체 등 IT 인재 유입 모니터링"
+   ],
+   "items": [
+    {
+     "cat": "ecom",
+     "importance": "high",
+     "company": "컬리",
+     "title": "컬리 큐레이터 1만여 명 개인정보 유출 사태 발생",
+     "body": "컬리에서 외부 공격으로 인해 큐레이터 1만 699명의 개인정보와 계좌번호가 유출되어 대표 공식 사과 및 보상안이 발표되었어요.",
+     "insight": "이커머스 기업의 정보보안 인프라와 내부 직원 대상 보안 의식 교육의 중요성이 다시금 부각되고 있어요.",
+     "action": "사내 임직원 대상 개인정보 취급 및 계정 보안 준수 캠페인을 즉시 공지해 보세요.",
+     "teams": [
+      "인사기획",
+      "조직문화·HRD"
+     ],
+     "tags": [
+      "컬리",
+      "개인정보",
+      "보안사고",
+      "이커머스"
+     ],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "뉴시안",
+       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE50MEtRZlh1M1R0bXpwTlEtcjl6enFwcU05VzFYVmNMMkY5UGxVaEo2NkFFZk1fNUV6QXA3OTdiNFBzbldjQnVkeUR4dHN2dVEwaXpvUUxvNGFrMjl6enFiS1JCUUpkZXhzUFB6Mw?oc=5",
+       "title": "컬리 큐레이터 1만699명 개인정보 유출…김슬아 “피해액 전액 보상”",
+       "date": "2026-11-21"
+      },
+      {
+       "name": "월요신문",
+       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5NaURZSHk3RE5JUXNEcEMtNnowVnJrN25qRGltY3Z5eVVjTDRORDdGNW4tWU9IemVtVG1XekVhampMSHc5VUNvaHFYOG9DMzNfZGNGenZFeHE0WlRWZzVTYW5TYUF6VENuc2c?oc=5",
+       "title": "컬리 큐레이터 1만여명 개인정보 유출…김슬아 대표 사과",
+       "date": "2026-11-21"
+      },
+      {
+       "name": "머니투데이",
+       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB3WkhiWnQ0T1l5NXFIdHZMVjNFTXdJUnJxRktsNlo5NHFnc0xtNjhiek9RYTZfLThZT1k4OU9SZHhXLTlLZG9qX1FNVFRyUGZlWklNaWxWR2FRQURFYy0tSE9SVkd5dGpmdkN3aERBUHI0VkpfMjFn0gF8QVVfeXFMTWxESS1TbWxjQWZrdUR5d3dVODZDM1RTbmx5UnN6TWJkM1daeTE4RWxtNGZDcTB0RmZmRldPSF9naFRJTlZOa0c5T3MtSlc0dkNxNm1hX0Y5M0R2OV9kS2NwYkFtUjlWLWZReVFraWlCMmlCaHFDRk9fNjBUTg?oc=5",
+       "title": "컬리, 큐레이터 1만699명 개인정보 유출...최대 15만원 보상 - 머니투데이",
+       "date": "2026-11-21"
+      },
+      {
+       "name": "이코노미사이언스",
+       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9teEZhSWRDX25IU3MyRGV4R2pBekowbk9oRTZTNTVnSWZvVzNoNzh1MUJpSDVSTVN3elpaNHBJZUx2SFgta1hLcFl1bWJYc01jYVVjQ0lxQlU1LUw3V0M4LVZLM3JkbWFuSWt6TURYUQ?oc=5",
+       "title": "'큐레이터 1만 699명 개인 정보 유출'...김슬아 컬리 대표 \"손해 발생 시 책임 다할 것\"",
+       "date": "2026-11-21"
+      },
+      {
+       "name": "한경매거진",
+       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBJdkllU0ExaVlRRThEUHRNZjU2ZllibFRhY3R6VkotUk90X2o1RklEeHBZeFFJWGU0ZjJzVzBSOHFNbExqVm1QTVJKT05zSENsVkNJZlJEbWZFbDBoRUZ6Qkl4aklVV21pRHRleg?oc=5",
+       "title": "컬리도 1만명 개인정보 유출···\"최대 15만원 보상\"",
+       "date": "2026-11-21"
+      },
+      {
+       "name": "파이낸셜투데이",
+       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5TVGEwdlZ1V25oZjgxMXE1ZFNFdjZleEVhcXlHTUc4UjVzYkdQUHNsajlhWVlwdlA0bUMyWGxiZVczOUZqOTJzVHluZWx4S2Zjd3VhLWpTVi03MHl4blgzVnI1aENZcU1YUHfSAW5BVV95cUxORWVjbWdhQ09TWmQyZXhOZHpNUXp0c3NYWU1BMTBJcGhucXVYS1ltS0R4U0FlSnpJWGhVV1pTMWxQZ0tkeUFIUUR0LWJsNjBuZ2d3bm9KS3VBTk82ek9PcG41a3J5OEZQNndkU3Fvdw?oc=5",
+       "title": "컬리 큐레이터 1만여명 정보 유출...주민·계좌번호까지 탈취당해",
+       "date": "2026-11-21"
+      },
+      {
+       "name": "CBC뉴스",
+       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Oak5QSmJoSnpXNGN3c0VlOEhvemtxTVhHZ1dMRWMyQlh4TUh1ODRhaGNGOFpRZWpVeDJpckQyMUlTaUg3dmVaUFVkTkRETEJ1ZVoxbUpaNDVMNnRfTTh0VzBhZW00NHJH?oc=5",
+       "title": "[개인정보 유출] 외부 공격자에 인증정보 탈취당한 컬리… 김슬아 대표 사과, 최대 15만 원 적립금 보상",
+       "date": "2026-11-21"
+      },
+      {
+       "name": "코리아포스트 한글판",
+       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE50YmVWd1pBSkdabWktTlgyMTNjRU15OHRGMFFKb2NlR01Jd1JtNGFZS21rNHJMTm1BUjZYYTNTWGdiNDdnZEp2Z0tSYlVOM2lxYkF2T2VmZHFhS25FOXpzZWJmSVF5ZmtCSEpEV3lB?oc=5",
+       "title": "컬리, 큐레이터 1만699명 개인정보 유출…최대 15만원 보상",
+       "date": "2026-11-21"
+      }
+     ],
+     "date": "2026-11-21",
+     "id": "20261122-01"
+    },
+    {
+     "cat": "labor",
+     "importance": "high",
+     "company": "고용노동부",
+     "title": "고용부 포괄임금·고정OT 오남용 기획감독 진행",
+     "body": "고용노동부가 공짜 노동 근절을 위해 포괄임금 및 고정OT 오남용 기획감독을 집중 실시해요. 실근로시간 측정과 수당 대조가 주요 점검 대상이에요.",
+     "insight": "다나와, 메이크샵 등 그룹 전반의 연장근로 관리와 고정OT 정산 프로세스를 사전 점검해 리스크를 예방해야 해요.",
+     "action": "그룹사별 근태 타각 기록과 고정OT 한도 초과분 지급 내역을 전수 대조해 보세요.",
+     "teams": [
+      "노무·ER",
+      "보상·복리후생"
+     ],
+     "tags": [
+      "포괄임금",
+      "고정OT",
+      "근로감독",
+      "노무리스크"
+     ],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "시프티 블로그",
+       "url": "https://shiftee.io/ko/blog/article/2026-inclusive-wage-fixed-ot-audit",
+       "title": "2026 포괄임금제 근태관리: 고정OT 수당 계산·대조와 기획감독 점검 항목 고용노동부는 ‘공짜 노동’ 근절을 위해 2026년 9월 15일부터 약 두 달간 「포괄임금·고정OT 오남용 기획 감독」을 실시하... 202",
+       "date": "2026-11-22"
+      }
+     ],
+     "date": "2026-11-22",
+     "id": "20261122-00"
+    },
+    {
+     "cat": "market",
+     "importance": "high",
+     "company": "게임업계",
+     "title": "게임사 M&A 및 사업 재편에 따른 인력 감원 확산",
+     "body": "게임업계에서 인수합병 및 비용 절감 과정 중 인력 감축과 조직 슬림화가 연쇄적으로 이어지고 있어요.",
+     "insight": "게임 개발, 아트, 테크 인력 풀이 시장에 대거 유입되고 있어 플랫폼 고도화 인력으로 흡수할 기회예요.",
+     "action": "퇴사 및 이직 희망 개발 인력을 대상으로 타깃 소싱 풀을 구축해 보세요.",
+     "teams": [
+      "채용"
+     ],
+     "tags": [
+      "게임업계",
+      "M&A",
+      "감원",
+      "인재확보"
+     ],
+     "our_group": false,
+     "talent": {
+      "level": "high",
+      "signal": "게임사 구조조정 진행 — 테크·개발 인력 시장 유입"
+     },
+     "sources": [
+      {
+       "name": "Naver Blog",
+       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSEd4VHQyc2d4YXBrVVg0U1lSY2Y5d2Nfb2tKZ2xoOXZBdXJ6VDVlREd6bEhqSEVWMy1XZXFKS1BKYWszMmlKUTZ0NzVMcHItRDVVU0VSanZOU01kN3RtRzhyS2tCZVctNmR6M3hCVnR2V3lKZ3c5cVNSZEJrUUtwb0NHOFU0R3hIeXNfeHdwRQ?oc=5",
+       "title": "[인력 줄이는 K게임] 회사 사고팔 때 직원부터 줄인다…게임사 M&A '감원 셈법' : 네이버 블로그",
+       "date": "2026-11-22"
+      }
+     ],
+     "date": "2026-11-22",
+     "id": "20261122-02"
+    },
+    {
+     "cat": "market",
+     "importance": "mid",
+     "company": "업계 전반",
+     "title": "채용 평가 시 생성형 AI 부정행위 대책 시급",
+     "body": "대기업 및 국가자격시험에서 생성형 AI를 활용한 부정행위가 잇따르며 인재 선발 방식 개편이 논의되고 있어요.",
+     "insight": "서류 전형과 온라인 과제 전형에서 단순 AI 작성을 걸러내고 실제 직무 역량을 검증할 체계가 필요해요.",
+     "action": "채용 전형 중 실기 테스트와 대면 심층 인터뷰 비중을 재조정해 보세요.",
+     "teams": [
+      "채용"
+     ],
+     "tags": [
+      "AI채용",
+      "채용프로세스",
+      "면접검증"
+     ],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "아시아타임즈",
+       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBTY0xyUWlaRlY4VFk0SHV2T2hoUkZ3ZENqTmcxQnFVWTlJUmROTVc0X1JUM2NYR0R6dUZ6VFhQbkJBTnFoMUpnSmRqOTdDaXNZeTF2WmlMU2RvbEZuU0E?oc=5",
+       "title": "AI 부정행위에 대기업 채용 비상…인재 선발 방식 바뀌나",
+       "date": "2026-11-22"
+      },
+      {
+       "name": "뉴시스",
+       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9hRzg4WGRWalk1NlNyTDZ4ZnV4RWhZeE5OSno2UmUyQWR3UERhN3dsa2d5SXlyNWlGVDB0ZmdvNElyaTFkdGtoNmRyRmhORDlVaWlkczY0TElsVWtOdEREcdIBeEFVX3lxTE5xLVhneWlWVnRsUjJfZXJEOVc0TnRVeGdtWHhaV2t0WWtzMVFXZnJqeHZRajA4ZndxcFZzN0Zib0lhR1RLLUNjT0lfbVd6SEtwbF92NWJoY3hvTFY1NU1GNGIxeEc5V3RMYmhMOEo1R2hqT0FJUDlwUQ?oc=5",
+       "title": "[수능이후③] AI가 풀면 만점…\"감시강화 넘어 시험 틀 바꿔야\"",
+       "date": "2026-11-22"
+      },
+      {
+       "name": "파이낸셜뉴스",
+       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBic05NMnowV1JJNlh0ckRTZmprLWRYR3o0aUd0UnJJajNlaENlaThsX1J1TkZNUGF1Z0tDdE15eFNaN3Uxbl9aZU5qbjRTTHRaUW1RTWJ2V3ZqZw?oc=5",
+       "title": "AI 학습 주도권부터 채용 공정성까지…청소년·대학생 열띤 토론",
+       "date": "2026-11-21"
+      }
+     ],
+     "date": "2026-11-22",
+     "id": "20261122-03"
+    },
+    {
+     "cat": "trend",
+     "importance": "mid",
+     "company": "네이버페이",
+     "title": "네이버페이, B2B 전용 'Npay 복지마켓' 론칭",
+     "body": "네이버페이가 기업 전용 복지몰인 'Npay 복지마켓'을 오픈하고 포인트 기반 복지 쇼핑 서비스를 제공하기 시작했어요.",
+     "insight": "플랫폼 기반 선택적 복지 포인트 도입 흐름을 파악하고 임직원 복지 만족도 제고 옵션으로 검토 가능해요.",
+     "action": "사내 복지몰 운영 현황과 네이버페이 복지마켓 등 외부 솔루션의 도입 효용을 비교해 보세요.",
+     "teams": [
+      "보상·복리후생"
+     ],
+     "tags": [
+      "복지몰",
+      "네이버페이",
+      "복리후생",
+      "선택적복지"
+     ],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "더퍼블릭",
+       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5jd1lQS21JSnVRQURSZE1vSTRmdzV1MlY4Y2swTlgyYjlHdU1MREVFUmE0N01RWk1fRDRYNU05ZlJuSHBBRUdxNHgwUFNMOEhJeWxwWV84MU5fQjBoVE15em1ONzYweWFoQ2dv0gFvQVVfeXFMTjhwSFFhRVl0T2VpX0JVNjFWTHhGY01lUGJUd3pHdlhpaVpUZU5BSm02ejBWdkhXZVVxakNjb3Z1NnFkZjIwQVU5eUNySDJSSm5FY1E5VFp2SEtmT3lfUUlpY2Jhc2d2UGtCWEtxZmxJ?oc=5",
+       "title": "“Npay 포인트로 복지몰 쇼핑”…네이버페이, 기업 전용 ‘Npay 복지마켓’ 오픈",
+       "date": "2026-11-22"
+      },
+      {
+       "name": "비즈월드",
+       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBUdEpoSGtXelF6ODV6UnA1OGp3T3ktOTI2ZG9ETkwtSjNzcmFkNTRKanFrdmUtU2llMWZoeHBCTzFsNXhGRjh4MmdON2R2dy1ZVmpDM0w3TVR2c0JtRFIybzA2dmNSNFFyb0pn?oc=5",
+       "title": "네이버페이, 기업 전용 복지몰 ‘Npay 복지마켓’ 열어",
+       "date": "2026-11-22"
+      }
+     ],
+     "date": "2026-11-22",
+     "id": "20261122-04"
+    },
+    {
+     "cat": "trend",
+     "importance": "mid",
+     "company": "마이크로소프트",
+     "title": "MS, 성과주의 강화 및 AI 적응 기반 평가제 개편",
+     "body": "마이크로소프트가 고성과자 주식 보상을 강화하고 AI 적응 부진자에게 이직 선택권을 언급하는 등 성과 압박을 강화했어요.",
+     "insight": "AI 업무 툴 활용 역량이 직무 성과의 핵심 지표로 진화하고 있어 이에 맞춘 평가 및 교육 연계가 요구돼요.",
+     "action": "임직원 AI 툴 활용 현황을 파악하고 실무 연계 교육 프로그램을 기획해 보세요.",
+     "teams": [
+      "인사기획",
+      "조직문화·HRD"
+     ],
+     "tags": [
+      "성과평가",
+      "보상체계",
+      "AI적응",
+      "마이크로소프트"
+     ],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "SeattleN",
+       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1DTE4wdV83YmxmVjZrbmNaQ1NIbWxOU0FURVRnWkFOOE9jQnVyN0hKSjEtZldfeWFMblhDb0RRNmhUR0lFUTU1RnhB?oc=5",
+       "title": "마이크로소프트, 직원 평가 더 독해진다…“성과 좋으면 주식 더 주고, 못하면 압박” > 시애틀 뉴스/핫이슈",
+       "date": "2026-11-21"
+      },
+      {
+       "name": "SeattleN",
+       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9hOHhnUlpwOXlFeTVnWUVhTVR5cmZjdUxjUzFlUFVrUGt6azk4NndMdVJUMnFBT0otT2VnTVU4MnM2dlhBcjUwWWZB?oc=5",
+       "title": "MS 나델라 “AI시대 적응 어렵다면 떠날 선택권 준 것이다” > 시애틀 뉴스/핫이슈",
+       "date": "2026-11-21"
+      }
+     ],
+     "date": "2026-11-21",
+     "id": "20261122-05"
+    },
+    {
+     "cat": "labor",
+     "importance": "mid",
+     "company": "고용노동부",
+     "title": "정년연장 법제화 논의 가속화 및 정부 개입 시사",
+     "body": "정년연장 특위 합의 불발 시 정부가 직접 입법에 나설 것을 시사하며 법적 정년 연장 논의가 빨라지고 있어요.",
+     "insight": "고연령 근로자 증가에 대비한 직무급 도입 및 임금체계 개편, 인력 운영 전략의 중장기 설계가 필요해요.",
+     "action": "그룹사 인력 연령 분포를 점검하고 정년연장 시뮬레이션을 준비해 보세요.",
+     "teams": [
+      "노무·ER",
+      "인사기획"
+     ],
+     "tags": [
+      "정년연장",
+      "노동정책",
+      "임금피크제"
+     ],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "아주경제",
+       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5LSjY4ZjlScm1aNUd0eVlINENleDdab2pwNHMtVjFocTNvWkctNENjQ0JIQnlGblNoZG9QMDQxR0dScGlpMEFVcUJhbGpGVy1mSGpXQWVQRl9ZZ9IBWEFVX3lxTE9WQ2hReGRmc1lfT2dWQTMzS0Z5UkZlbmpVZGE1aTJ0RGRZdzQ1dlc5V25mcU1LTGI1eEtxUS1fcTZhbExvenFQdWZvNS1McmQ5M0dsUmtfZi0?oc=5",
+       "title": "정년연장 논의 빨라지나…노동장관 특위 합의 불발시 정부 나설 것",
+       "date": "2026-11-22"
+      }
+     ],
+     "date": "2026-11-22",
+     "id": "20261122-06"
+    },
+    {
+     "cat": "ecom",
+     "importance": "mid",
+     "company": "무신사",
+     "title": "무신사, 기업가치 10조 목표 IPO 추진 가속화",
+     "body": "무신사가 대규모 마케팅과 공격적 사업 확장을 이어가며 상장 준비를 본격화하고 있어요.",
+     "insight": "패션·버티컬 커머스 인재 유출입과 조직 규모 확장이 예상되므로 업계 내 인력 변동 추이를 살펴야 해요.",
+     "action": "이커머스 및 셀러 플랫폼 전문 경력직 인재 확보를 위한 채용 파이프라인을 점검해 보세요.",
+     "teams": [
+      "인사기획",
+      "채용"
+     ],
+     "tags": [
+      "무신사",
+      "IPO",
+      "이커머스",
+      "인재영입"
+     ],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "쿠키뉴스",
+       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5rc2tQR2ZUVVZycmd5ZEtkSnJkTVRsNEtqTGUzdENwcWZFR0tua05aNlpKaWpuV2ZBUGRBOVNxZl9aQnN6MHh1TGJFLWE4VEE4N3Ribm9hMzN3VFlNUEx6NEpRbw?oc=5",
+       "title": "드디어 IPO 코앞, 무신사 ‘10조 몸값’ 마지막 관문 넘을까 [F.B.I]",
+       "date": "2026-11-21"
+      }
+     ],
+     "date": "2026-11-21",
+     "id": "20261122-07"
+    },
+    {
+     "cat": "ecom",
+     "importance": "low",
+     "company": "엔비디아",
+     "title": "엔비디아 젠슨 황 CEO 전격 사임 및 리더십 교체",
+     "body": "엔비디아 창업자 젠슨 황이 사임하고 임시 CEO 체제로 전환되면서 글로벌 테크 거버넌스 전반에 파장이 일고 있어요.",
+     "insight": "글로벌 빅테크 리더십 변동에 따른 국내외 AI/테크 개발자들의 시장 이동 가능성을 주시할 필요가 있어요.",
+     "action": "국내외 AI 연구 및 엔지니어링 핵심 인력의 링크드인 네트워크 동향을 모니터링해 보세요.",
+     "teams": [
+      "채용"
+     ],
+     "tags": [
+      "엔비디아",
+      "리더십교체",
+      "AI인재"
+     ],
+     "our_group": false,
+     "talent": {
+      "level": "mid",
+      "signal": "엔비디아 리더십 교체 — AI 테크 인력 이동 가능성"
+     },
+     "sources": [
+      {
+       "name": "https://www.sisaworld.kr/",
+       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE93OUR4YVU3Qk5UUnhsVVhleXgzcUxfQkgwdVJzbmpiUUlzSUZ1c2RJY3d1WTFEVkNOeGhkalo0UWs5aWJTUEczZ25UdFhOS2szcHR3QUh4NnpjSEMzSEQtWDNYY2d3QUtjTWc?oc=5",
+       "title": "엔비디아 흔든 ‘신뢰의 위기’…젠슨 황 사임 뒤 지배구조 시험대",
+       "date": "2026-11-21"
+      },
+      {
+       "name": "라디오코리아",
+       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE55VTZhcGdDVVlrN2pocHl0UVV1Wk9DQk9faWIwWk5CTkFkcENHSmFtVFljNFlaM3VaMExtdFVrWjFMNFRkcFhJNy1sbWRHN0NTYTI3ZVpKUnM5SmFnZ0NSRUNMYXo?oc=5",
+       "title": "[속보] 젠슨 황, 엔비디아 CEO 전격 사임...콜레트 크레스 임시 CEO 임명",
+       "date": "2026-11-21"
+      },
+      {
+       "name": "한국경제",
+       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1xenBpeTl6WnlBTGtBVmxubVl2eUtfYzdKRDNvUloyR1ZWeVVzVXB3SGVDZmVFMjdBNE9FZVhtdDBGVVRCZjVsV3dVRGtRaTM2Q0xLcnk5NDlRQQ?oc=5",
+       "title": "젠슨 황 사임 뒤 잇단 폭로…이사회엔 거짓 해명, 직원들엔 폭언",
+       "date": "2026-11-21"
+      }
+     ],
+     "date": "2026-11-21",
+     "id": "20261122-09"
+    },
+    {
+     "cat": "trend",
+     "importance": "low",
+     "company": "업계 전반",
+     "title": "미사용 연차수당 정산 및 퇴사자 지급 기준 점검",
+     "body": "연말 및 회계연도 말 도래에 맞춰 미사용 연차수당 계산 방식과 퇴사자 정산 관리가 중요해지고 있어요.",
+     "insight": "연차사용촉진제도의 법적 유효 요건을 철저히 충족하고 정산 분쟁을 미연에 방지해야 해요.",
+     "action": "전사 미사용 연차 현황을 취합하고 2차 촉진 통보 일정 및 예외 기준을 점검해 보세요.",
+     "teams": [
+      "보상·복리후생",
+      "노무·ER"
+     ],
+     "tags": [
+      "연차수당",
+      "연차촉진",
+      "퇴사정산"
+     ],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "시프티 블로그",
+       "url": "https://shiftee.io/ko/blog/article/unused-annual-leave-pay-calculation",
+       "title": "미사용 연차수당 지급 기준과 계산 방법, 퇴사 시 연차수당 정산 방법까지 알아보기 연차휴가를 모두 사용하지 못한 근로자가 있다면, HR 담당자는 남은 연차휴가에 대한 수당 지급 여부를 판단해야 합니다. 이때 ... ",
+       "date": "2026-11-22"
+      }
+     ],
+     "date": "2026-11-22",
+     "id": "20261122-08"
+    }
+   ]
+  },
   {
    "date": "2026-11-21",
    "window_days": 1,

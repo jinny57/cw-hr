@@ -1,0 +1,536 @@
+{
+  "date": "2026-11-22",
+  "article_count": 126,
+  "engine": "gemini-3.8-flash",
+  "headline": "빅테크 대규모 감원·희망퇴직 속 AI 인재 쏠림 가속",
+  "summary": [
+    "마이크로소프트 6만 명 바이아웃 제안 등 빅테크 구조조정 지속",
+    "애플·구글·딥마인드는 웹3 및 AI 에이전트 핵심 인재 적극 영입",
+    "국내외 FDE(고객 현장 배치 엔지니어) 직무 관심 급부상"
+  ],
+  "numbers": [
+    {
+      "value": "41%",
+      "label": "올해 누적 감원 규모 감소율",
+      "dir": "down",
+      "sources": [
+        {
+          "name": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9tRUQ3eGRWZVptRTlGZFB0TlFkS2dtWEZ3Tm4zeDBYeHFOQ1dyUm5nQ2J2TmtNWERob2s5TmlMQVg1aXNFaC1tSk5abVNKOHpsYXQ0bTNRT01ob3Vsb0lqUVNldDJEZWVrMzctdDlhSQ?oc=5",
+          "title": "New Layoff Data Show Job Cuts Down 41% So Far This Year",
+          "date": "2026-11-22"
+        }
+      ]
+    },
+    {
+      "value": "60,000명",
+      "label": "Microsoft 희망퇴직(바이아웃) 대상 규모",
+      "dir": "down",
+      "sources": [
+        {
+          "name": "Mashable",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE55bm5OOEMxNTNvbGlLeWsxZ2o5d0IyUHI4N210ZElSRnRkV211d2VUaXNOdmpyWURPZW0xNHZUcXNMc3dpWXFCdlRWTHVjWWw2WWlmY2llLXRvV0xLaFRtNnB1bWZaMWZMeTZ4czRR?oc=5",
+          "title": "Microsoft CEO explains reason behind the 60,000 buyouts (it's AI, of course)",
+          "date": "2026-11-21"
+        },
+        {
+          "name": "OpenTools",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBZSTAwakZ1WndoanQ3WGI1MTlsSlB0ai1RTjRVWTg1MHJKRk9ic2swUjYtbTFQZlRjOWl2NmtJSDBrTzZMOHNKX20wYXZJcG1kdzFUSjExaWtVS1hQYVBST0lvbmZ6ZjFTZm1RaA?oc=5",
+          "title": "Microsoft Offers Buyouts to 60,000 Employees as Nadella Says AI Is Why",
+          "date": "2026-11-21"
+        },
+        {
+          "name": "FourWeekMBA",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQWZCems4WUhrcmkyZzZCUFJQc0QyYXR3ZjZGVUhuWmNXZDRsMXk0bExwUEhCY3IzdU02THdMRlBtcWlyMkdWVHlPQ0w3VEJXRWpFTEV6MEpGSHFPTHJNUmJmSFZ2NGY4WVRHb1hiVFNrWHI0d2xKR2JhZDh6YlVkMzFERUdWY3R5blAyRHNB?oc=5",
+          "title": "Nadella: AI Is Why 60,000 Microsoft Staff Got Buyout Offers",
+          "date": "2026-11-21"
+        }
+      ]
+    },
+    {
+      "value": "1,000명",
+      "label": "Qualcomm 인도 감원 위기 규모",
+      "dir": "down",
+      "sources": [
+        {
+          "name": "INDIA New England News",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPU2RyRE04aHF0RzlfcmFSSFE1bDUxT01ScnJROFlwS3NFTVZGejBibzhvT0RJOWV6S0MzRGcwSzF6bjhaQ1VtQjZEclpEVE5NaTlvSVI5UldjUlpyX19fVkFncnhVWTVzcTBkdG82VjJBQVBhLUxGSmEzU2VPRnptX3FhTTJRdlRJUGU4OENEVFU4NjJ0QjFWZzZSVE4yeGZBTE9yUA?oc=5",
+          "title": "Qualcomm Reportedly Begins Layoffs in India, With Around 1,000 Jobs at Risk",
+          "date": "2026-11-21"
+        }
+      ]
+    },
+    {
+      "value": "950명",
+      "label": "Accenture 포르투갈 자발적 퇴직 규모",
+      "dir": "down",
+      "sources": [
+        {
+          "name": "Essential Business",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVE54ZWJKWmZERmtZaG9Edlg3TkRNMlcxd2huTV9Zd09VXzQyamZPWmRSR0xyMkVaOW5hZGFJbmw5RHREMXluWVFxZ05uV3RhOXJQQW0xSHJmMEpicm9Ldm04UUJ1RHdrejgyemVLLV9fRFJMal9DanlCc2Y2R3hzalo2X3dPdFMyd1BXUm1xWG9QVzFUbWZ3T2RZOWpMM2ZrV2pWSFQzSGU5S1FqcmVick50STdyVUVLdS1J?oc=5",
+          "title": "Accenture plans voluntary departures affecting up to 950 jobs in Portugal",
+          "date": "2026-11-21"
+        }
+      ]
+    }
+  ],
+  "layoffs": [
+    {
+      "company": "Microsoft",
+      "kind": "자발적 퇴직",
+      "size": "60,000명",
+      "pct": "",
+      "note": "AI 전환 가속화에 따른 대규모 희망퇴직 제안",
+      "sources": [
+        {
+          "name": "Mashable",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE55bm5OOEMxNTNvbGlLeWsxZ2o5d0IyUHI4N210ZElSRnRkV211d2VUaXNOdmpyWURPZW0xNHZUcXNMc3dpWXFCdlRWTHVjWWw2WWlmY2llLXRvV0xLaFRtNnB1bWZaMWZMeTZ4czRR?oc=5",
+          "title": "Microsoft CEO explains reason behind the 60,000 buyouts (it's AI, of course)",
+          "date": "2026-11-21"
+        },
+        {
+          "name": "OpenTools",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBZSTAwakZ1WndoanQ3WGI1MTlsSlB0ai1RTjRVWTg1MHJKRk9ic2swUjYtbTFQZlRjOWl2NmtJSDBrTzZMOHNKX20wYXZJcG1kdzFUSjExaWtVS1hQYVBST0lvbmZ6ZjFTZm1RaA?oc=5",
+          "title": "Microsoft Offers Buyouts to 60,000 Employees as Nadella Says AI Is Why",
+          "date": "2026-11-21"
+        },
+        {
+          "name": "FourWeekMBA",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQWZCems4WUhrcmkyZzZCUFJQc0QyYXR3ZjZGVUhuWmNXZDRsMXk0bExwUEhCY3IzdU02THdMRlBtcWlyMkdWVHlPQ0w3VEJXRWpFTEV6MEpGSHFPTHJNUmJmSFZ2NGY4WVRHb1hiVFNrWHI0d2xKR2JhZDh6YlVkMzFERUdWY3R5blAyRHNB?oc=5",
+          "title": "Nadella: AI Is Why 60,000 Microsoft Staff Got Buyout Offers",
+          "date": "2026-11-21"
+        }
+      ]
+    },
+    {
+      "company": "Salesforce",
+      "kind": "감원",
+      "size": "",
+      "pct": "",
+      "note": "인도 지사 포함 전사 팀 대상 추가 감원 및 가든리브 조치",
+      "sources": [
+        {
+          "name": "BW Businessworld",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSGJUcTVZaG1JRHVBVEMzRDJmTWlWS3E2TnJ1UGhyT0xKcWlDcVhEb2Z6MFBjcnRzNW01emZNNEk2QXhkUUxGMi1PbUdBY1ZHYUEta1VrMlZJcXNkMXhQZHA2eFJBYnNxMHhrajJhNWtPSXdlTjhidGxYT0M2dEYwajlqWUdkaUlzUmhmZkJnUElma1Z2ai1TTUFXLVFDSEtSckRpUXZ3WGpWNUNpMTRvOEdaV3Q?oc=5",
+          "title": "Salesforce Begins Fresh Layoffs, Indian Employees Also Affected: Reports",
+          "date": "2026-11-22"
+        },
+        {
+          "name": "ad-hoc-news.de",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPT3RRSnAyX1NOV20yeVJTVWJPanJyajBDcUt2eEstTmM2Z0pSVXRQaHYxdDZDVGVZLUY1SDgyYjQ4QXJ5djdrWkhFU3dObFFYVUxQQ2hMdURpSThwN083ZjJtbFBCRHdSMkI3ZTBnbXdFZHVveDR6bmNiTWF5akxPamI2OGM2MEVPTjliTmdxUmJ6REROdnRKYmRXSld0WlA3dmxYUzZHYVlTd1lMbDZ1MU1DMGlwNEVpSlVLanllRmd1elRsWkE4YWplbzFFd1Zyakg4QjRIcjJPSmM?oc=5",
+          "title": "Salesforce Wins Federal Export Nod as BTIG Cuts Target and Layoffs Loom",
+          "date": "2026-11-22"
+        },
+        {
+          "name": "Firstpost",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZk5MY0YxWXV5eFc2NHVYLU1RNkV0ZkVvcVM2c28ya055U3dOLUVDWWYwR2hqRnRzYzJ3dUR1ZVVqTHdSdU9uZFk4MVlDNHpMbVA4bWZwU0dUaHRTUzZRTEx6ZlAyNjFlakJlWkUyNFZxRUx2NzVvWHdBMW84S081TG4xblh0N1ppQU9zNlNJZG5ZSXQ2MGNTaEF5c0o1LXZtQmNQWjdxWE1PaTNJanA2aUVNUFh5QmxocDhxaUxsV0RGd0NzVG5xWUVYTVTSAdIBQVVfeXFMTzVyVDVtMzU3SHNmZUFEUThlNU8wQkRJX3FGNkZ0TWVWclpjVGVxQ0NtZkstMkpnZFNfdWtHYWhXOTUxclRYVDJEOHJDTGJsdUFGU0t5a0h3TV9OMExVSzd6Q2tFVUV4aUZQSHpzM3Nkc2ZNMDdocF9tU3d3WVYtclBURFBOMUprOFBkWkg5ZHBYUDZtcER3NVF3QUUzbTVzQjRaT2c1MDhtUG5ua2o4LXpIQl9qNkNKUkFWNkVtZFc1NDNBb04xUmdjZXNVU0JQal93?oc=5",
+          "title": "This Week in Explainers: Why is Salesforce putting its India staff on ‘garden leave’",
+          "date": "2026-11-21"
+        },
+        {
+          "name": "Stocktwits",
+          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOMUV2U3NNU1NZdnM3azZOOGxnYVd3LTI2OU85bHdsd3hkbU10LWF1OS1sRXZqMHpFNkhlNklFXzFGbzg2czBHYmN6VUN0aWRjRGRHWHR2UmdCUlNRbWU3S1Bzcy1uZ183emExejA1cDNZN3Z5dVNBRENDNWgtMG8yY0UzbjBIUkpTZ0stTFBza2N2V3BCb1RmTFBqNWk1STR2ZXFLRkRzSEJqMjNDS2lIRFBJSzB6SC02V1c5R2ZPY3pEZ0NHZTFNcF9GeDBTa0xBa29KLWRoMzUzdFJ1bmUyejZpMmVNcVFFNTZsMWxqUjE?oc=5",
+          "title": "CRM Stock Faces Worst Week Since April: Fresh Layoffs Reportedly Surface Across Salesforce Teams",
+          "date": "2026-11-21"
+        }
+      ]
+    },
+    {
+      "company": "Canva",
+      "kind": "감원",
+      "size": "",
+      "pct": "",
+      "note": "AI 대체 배제 공언 속 전사적 구조조정 단행",
+      "sources": [
+        {
+          "name": "The Canberra Times",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNeEhEdWVGZE1Fdy1rREFCRzJzYzhlSXlmckFVOW90OTdUSVJVWlVkWkZsdHo5OWRsN1BUSUNZQXlzMVVXT2x3N084LVRGN1pfQmIwNk8xUk5nV0hpVHRhVDdxOHd6N1o1OFdBQU1ZUkdVSEJYV2ludjh0TDVqTWhXQWJhdlFHVDBfUEN5Uk5GYW5TR0I3VVQzOHVkNS04Ui1xeGlF?oc=5",
+          "title": "Canva rules out AI replacement amid sweeping job cuts",
+          "date": "2026-11-22"
+        }
+      ]
+    },
+    {
+      "company": "Nscale",
+      "kind": "채용 동결",
+      "size": "",
+      "pct": "",
+      "note": "비용 절감을 위한 신규 채용 전면 중단",
+      "sources": [
+        {
+          "name": "The Telegraph",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTkFaMWFocllaZFVDNVJQcENnbmVzajFBZzZpbDdaNnRGQWlxbUI5d0dlUGpvcW1UU0VVSl9rRS0wM3FGOGhJNm96VXJkTmwwN2JETk82ZHV3Q0JKZWNuVUZYVHdOWGV1YWNxWnEyRXEzR3pBVEp3cjhZZkp0dVZmdDh5RlRRMUlRaXJDS1cwWEtFbE5wMGFuTnhJT3Fjc3Jvb2ZCSE9nX2hKcjg?oc=5",
+          "title": "British AI giant Nscale halts hiring in cost-cutting drive",
+          "date": "2026-11-22"
+        }
+      ]
+    },
+    {
+      "company": "Qualcomm",
+      "kind": "감원",
+      "size": "1,000명",
+      "pct": "",
+      "note": "인도 지사 인력 구조조정 착수",
+      "sources": [
+        {
+          "name": "INDIA New England News",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPU2RyRE04aHF0RzlfcmFSSFE1bDUxT01ScnJROFlwS3NFTVZGejBibzhvT0RJOWV6S0MzRGcwSzF6bjhaQ1VtQjZEclpEVE5NaTlvSVI5UldjUlpyX19fVkFncnhVWTVzcTBkdG82VjJBQVBhLUxGSmEzU2VPRnptX3FhTTJRdlRJUGU4OENEVFU4NjJ0QjFWZzZSVE4yeGZBTE9yUA?oc=5",
+          "title": "Qualcomm Reportedly Begins Layoffs in India, With Around 1,000 Jobs at Risk",
+          "date": "2026-11-21"
+        }
+      ]
+    },
+    {
+      "company": "Accenture",
+      "kind": "자발적 퇴직",
+      "size": "950명",
+      "pct": "",
+      "note": "포르투갈 지사 대상 자발적 퇴직 프로그램 운영",
+      "sources": [
+        {
+          "name": "Essential Business",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVE54ZWJKWmZERmtZaG9Edlg3TkRNMlcxd2huTV9Zd09VXzQyamZPWmRSR0xyMkVaOW5hZGFJbmw5RHREMXluWVFxZ05uV3RhOXJQQW0xSHJmMEpicm9Ldm04UUJ1RHdrejgyemVLLV9fRFJMal9DanlCc2Y2R3hzalo2X3dPdFMyd1BXUm1xWG9QVzFUbWZ3T2RZOWpMM2ZrV2pWSFQzSGU5S1FqcmVick50STdyVUVLdS1J?oc=5",
+          "title": "Accenture plans voluntary departures affecting up to 950 jobs in Portugal",
+          "date": "2026-11-21"
+        }
+      ]
+    },
+    {
+      "company": "Firaxis",
+      "kind": "감원",
+      "size": "",
+      "pct": "",
+      "note": "직원 200명 넘던 조직에서 스파크스 감원 시행",
+      "sources": [
+        {
+          "name": "위키트리",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5jSXhWM3FUeVhvd1VQNnBnbUk3NU41U2NuZFR2dW8wdkRwcW9zbGRaUXJTUEFTb1I0YTI3SkRScWxlR0RHQ1pHRE96R1d5cXItc253ZEVB?oc=5",
+          "title": "직원 200명 넘던 문명 제작사 파이랙시스, 1월 19일 스파크스 감원 시행",
+          "date": "2026-11-21"
+        }
+      ]
+    }
+  ],
+  "hiring": [
+    {
+      "company": "Google DeepMind",
+      "role": "AI 연구/엔지니어링",
+      "note": "Hume AI CEO 및 소속 핵심 엔지니어 영입",
+      "sources": [
+        {
+          "name": "Wisevoter",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOR3FSRURqNkJmbVVIdGREQVZKbm9NTjludnNZSFV6N3dmdVpiMTM4ZlcxcEpsMW9hZ0xfdEstZ1duWmhTU0JBRXdybl8xNkV0R0wwSEUxMWk1Q0V5Z1JpS0p6cmptcnpsLV9DcEp2eU5LLWpyZFFSZ3JiZUFDTzY2M3daQzQyYi1MSDEwcC16NldlUQ?oc=5",
+          "title": "Google DeepMind Hires Hume AI CEO and Engineers",
+          "date": "2026-11-21"
+        }
+      ]
+    },
+    {
+      "company": "Apple",
+      "role": "시니어 스테이블코인·Web3 담당자",
+      "note": "Web3 및 결제/인프라 전문 시니어 포지션 오픈",
+      "sources": [
+        {
+          "name": "CoinMarketCap",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMlJZVjN0bTlHUVZiaUROaTV0aFg1cjRsd0g2R18zQUh6dE9VemFMN2JRQ2VHb29iUHBfLXJmTW11NWxXUXp1ZXREYWo0cnVqSUduVGZJcUwzVnF2VWF1UGlLbXZCckVtQTdmZ3lkQVZ0dzhBSzdpa3dNZUtNb3pzb09PYnlRbkFOem1DQ0xUN3lFbW1qcVFsd0c0MVBtQ2JuRnlxSE5kM0V4RkJ6TmxBNFRwa0c?oc=5",
+          "title": "Apple and Google Post Senior Roles With Stablecoin and Web3 Requirements",
+          "date": "2026-11-22"
+        }
+      ]
+    },
+    {
+      "company": "Google",
+      "role": "시니어 스테이블코인·Web3 담당자",
+      "note": "스테이블코인·Web3 요구 조건 시니어 채용",
+      "sources": [
+        {
+          "name": "CoinMarketCap",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMlJZVjN0bTlHUVZiaUROaTV0aFg1cjRsd0g2R18zQUh6dE9VemFMN2JRQ2VHb29iUHBfLXJmTW11NWxXUXp1ZXREYWo0cnVqSUduVGZJcUwzVnF2VWF1UGlLbXZCckVtQTdmZ3lkQVZ0dzhBSzdpa3dNZUtNb3pzb09PYnlRbkFOem1DQ0xUN3lFbW1qcVFsd0c0MVBtQ2JuRnlxSE5kM0V4RkJ6TmxBNFRwa0c?oc=5",
+          "title": "Apple and Google Post Senior Roles With Stablecoin and Web3 Requirements",
+          "date": "2026-11-22"
+        }
+      ]
+    }
+  ],
+  "roles": {
+    "up": [
+      {
+        "name": "FDE(Forward Deployed Engineer)",
+        "why": "국내외 솔루션 현장 구축 엔지니어 수요 확대"
+      },
+      {
+        "name": "Web3/스테이블코인 전문가",
+        "why": "애플·구글 등 빅테크의 시니어 채용 공고 오픈"
+      },
+      {
+        "name": "AI 에이전트 엔지니어",
+        "why": "빅테크 및 플랫폼사의 자율 에이전트 구축 가속"
+      }
+    ],
+    "down": [
+      {
+        "name": "물류 패킹/포장 인력",
+        "why": "아마존의 주문 자동 패킹 머신 도입 확대"
+      }
+    ]
+  },
+  "korea": [
+    {
+      "company": "케어랩스 (바비톡)",
+      "note": "업무 자동 설계를 위한 AI 에이전트 스튜디오 전사 도입",
+      "sources": [
+        {
+          "name": "스포츠경향",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA0Zlg5VW1QRTMtVlNEWEFZc0hYQkUtU3YzMHBxWkJkTjRkTi1wS2Z2Qy13QmpTRGNFLTJ1Y1VwOVgydUt0ekxFU2pyYzRvNWd0RmY3TGNhTThPSkhsa3fSAWNBVV95cUxQN1pXSVYzdGgwZDFxRXphOHd6ZVR6cHFJVkJNUU10eXB2UEtkTHpFNFdmRUtMZGNxRWxmMGd0UkJkeDFLMXROX2tqWU4ySEk3NWtMOUZ4M3BwTW5rZkNPT0pyTWs?oc=5",
+          "title": "케어랩스 바비톡, AI 에이전트 스튜디오 ‘BaaS’ 전사 도입···업무 설명하면 자동 설계",
+          "date": "2026-11-22"
+        }
+      ]
+    },
+    {
+      "company": "국내 IT 업계 전반",
+      "note": "고객 밀착형 현장 개발 인력인 FDE 현황 조사 본격화",
+      "sources": [
+        {
+          "name": "요즘IT",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBObDlFQVdxWWgxWThLWk1VdkVpLWQ0aXBwUXk5WkN2YnhsT2czVlBLQmdCcUdtUklDcTMwWS1nVTJuOS1IRnNYazRlV0RTTDN3bmJqMkpFUmRTQQ?oc=5",
+          "title": "[리포트] 국내 FDE 현황 조사 2026: ① 누가, 어디서 와서, 무슨 일을 하나",
+          "date": "2026-11-21"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "t20261122-01",
+      "region": "global",
+      "importance": "high",
+      "company": "Salesforce",
+      "title": "세일즈포스, 인도 포함 전사적 추가 감원 진행",
+      "body": "세일즈포스가 전사 팀을 대상으로 신규 감원에 착수했으며 인도 지사 직원들에게 가든리브를 부여하는 등 구조조정을 확대하고 있어요. BTIG의 목표가 하향과 주가 약세 속에 수익성 중심 조직 정리가 이어지고 있어요.",
+      "insight": "SaaS 솔루션 및 글로벌 엔터프라이즈 CRM 영업·엔지니어링 풀이 넓어지고 있어요. 메이크샵과 플레이오토의 글로벌/국내 B2B 솔루션 사업 확장을 위한 영업·운영 인력 타깃팅이 유리해요.",
+      "tags": [
+        "Salesforce",
+        "감원",
+        "SaaS",
+        "B2B"
+      ],
+      "sources": [
+        {
+          "name": "BW Businessworld",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSGJUcTVZaG1JRHVBVEMzRDJmTWlWS3E2TnJ1UGhyT0xKcWlDcVhEb2Z6MFBjcnRzNW01emZNNEk2QXhkUUxGMi1PbUdBY1ZHYUEta1VrMlZJcXNkMXhQZHA2eFJBYnNxMHhrajJhNWtPSXdlTjhidGxYT0M2dEYwajlqWUdkaUlzUmhmZkJnUElma1Z2ai1TTUFXLVFDSEtSckRpUXZ3WGpWNUNpMTRvOEdaV3Q?oc=5",
+          "title": "Salesforce Begins Fresh Layoffs, Indian Employees Also Affected: Reports",
+          "date": "2026-11-22"
+        },
+        {
+          "name": "ad-hoc-news.de",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPT3RRSnAyX1NOV20yeVJTVWJPanJyajBDcUt2eEstTmM2Z0pSVXRQaHYxdDZDVGVZLUY1SDgyYjQ4QXJ5djdrWkhFU3dObFFYVUxQQ2hMdURpSThwN083ZjJtbFBCRHdSMkI3ZTBnbXdFZHVveDR6bmNiTWF5akxPamI2OGM2MEVPTjliTmdxUmJ6REROdnRKYmRXSld0WlA3dmxYUzZHYVlTd1lMbDZ1MU1DMGlwNEVpSlVLanllRmd1elRsWkE4YWplbzFFd1Zyakg4QjRIcjJPSmM?oc=5",
+          "title": "Salesforce Wins Federal Export Nod as BTIG Cuts Target and Layoffs Loom",
+          "date": "2026-11-22"
+        },
+        {
+          "name": "Firstpost",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZk5MY0YxWXV5eFc2NHVYLU1RNkV0ZkVvcVM2c28ya055U3dOLUVDWWYwR2hqRnRzYzJ3dUR1ZVVqTHdSdU9uZFk4MVlDNHpMbVA4bWZwU0dUaHRTUzZRTEx6ZlAyNjFlakJlWkUyNFZxRUx2NzVvWHdBMW84S081TG4xblh0N1ppQU9zNlNJZG5ZSXQ2MGNTaEF5c0o1LXZtQmNQWjdxWE1PaTNJanA2aUVNUFh5QmxocDhxaUxsV0RGd0NzVG5xWUVYTVTSAdIBQVVfeXFMTzVyVDVtMzU3SHNmZUFEUThlNU8wQkRJX3FGNkZ0TWVWclpjVGVxQ0NtZkstMkpnZFNfdWtHYWhXOTUxclRYVDJEOHJDTGJsdUFGU0t5a0h3TV9OMExVSzd6Q2tFVUV4aUZQSHpzM3Nkc2ZNMDdocF9tU3d3WVYtclBURFBOMUprOFBkWkg5ZHBYUDZtcER3NVF3QUUzbTVzQjRaT2c1MDhtUG5ua2o4LXpIQl9qNkNKUkFWNkVtZFc1NDNBb04xUmdjZXNVU0JQal93?oc=5",
+          "title": "This Week in Explainers: Why is Salesforce putting its India staff on ‘garden leave’",
+          "date": "2026-11-21"
+        },
+        {
+          "name": "Stocktwits",
+          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOMUV2U3NNU1NZdnM3azZOOGxnYVd3LTI2OU85bHdsd3hkbU10LWF1OS1sRXZqMHpFNkhlNklFXzFGbzg2czBHYmN6VUN0aWRjRGRHWHR2UmdCUlNRbWU3S1Bzcy1uZ183emExejA1cDNZN3Z5dVNBRENDNWgtMG8yY0UzbjBIUkpTZ0stTFBza2N2V3BCb1RmTFBqNWk1STR2ZXFLRkRzSEJqMjNDS2lIRFBJSzB6SC02V1c5R2ZPY3pEZ0NHZTFNcF9GeDBTa0xBa29KLWRoMzUzdFJ1bmUyejZpMmVNcVFFNTZsMWxqUjE?oc=5",
+          "title": "CRM Stock Faces Worst Week Since April: Fresh Layoffs Reportedly Surface Across Salesforce Teams",
+          "date": "2026-11-21"
+        }
+      ],
+      "date": "2026-11-22"
+    },
+    {
+      "id": "t20261122-00",
+      "region": "global",
+      "importance": "high",
+      "company": "Microsoft",
+      "title": "MS, AI 전환 배경으로 전사 6만 명 바이아웃 제안",
+      "body": "마이크로소프트가 AI 기술 고도화와 조직 효율화를 이유로 전사 60,000명의 직원을 대상으로 자발적 퇴직(바이아웃) 프로그램을 제안했어요. 사티아 나델라 CEO는 AI 도입이 이번 대규모 희망퇴직의 직접적인 이유라고 설명했어요.",
+      "insight": "글로벌 빅테크 경력 인력이 시장에 대거 유출될 예정이에요. 커넥트웨이브의 AI·클라우드 인프라 전환 프로젝트를 이끌 해외파 시니어 인재 소싱 기회로 활용할 수 있어요.",
+      "tags": [
+        "Microsoft",
+        "희망퇴직",
+        "AI전환",
+        "인재소싱"
+      ],
+      "sources": [
+        {
+          "name": "Mashable",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE55bm5OOEMxNTNvbGlLeWsxZ2o5d0IyUHI4N210ZElSRnRkV211d2VUaXNOdmpyWURPZW0xNHZUcXNMc3dpWXFCdlRWTHVjWWw2WWlmY2llLXRvV0xLaFRtNnB1bWZaMWZMeTZ4czRR?oc=5",
+          "title": "Microsoft CEO explains reason behind the 60,000 buyouts (it's AI, of course)",
+          "date": "2026-11-21"
+        },
+        {
+          "name": "OpenTools",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBZSTAwakZ1WndoanQ3WGI1MTlsSlB0ai1RTjRVWTg1MHJKRk9ic2swUjYtbTFQZlRjOWl2NmtJSDBrTzZMOHNKX20wYXZJcG1kdzFUSjExaWtVS1hQYVBST0lvbmZ6ZjFTZm1RaA?oc=5",
+          "title": "Microsoft Offers Buyouts to 60,000 Employees as Nadella Says AI Is Why",
+          "date": "2026-11-21"
+        },
+        {
+          "name": "FourWeekMBA",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQWZCems4WUhrcmkyZzZCUFJQc0QyYXR3ZjZGVUhuWmNXZDRsMXk0bExwUEhCY3IzdU02THdMRlBtcWlyMkdWVHlPQ0w3VEJXRWpFTEV6MEpGSHFPTHJNUmJmSFZ2NGY4WVRHb1hiVFNrWHI0d2xKR2JhZDh6YlVkMzFERUdWY3R5blAyRHNB?oc=5",
+          "title": "Nadella: AI Is Why 60,000 Microsoft Staff Got Buyout Offers",
+          "date": "2026-11-21"
+        }
+      ],
+      "date": "2026-11-21"
+    },
+    {
+      "id": "t20261122-06",
+      "region": "korea",
+      "importance": "high",
+      "company": "국내 테크 업계 전반",
+      "title": "국내 FDE(Forward Deployed Engineer) 직무 부상",
+      "body": "구글 등 해외 빅테크에서 시작된 고객 현장 배치 엔지니어(FDE) 트렌드가 국내에서도 집중 조명되고 있어요. B2B 솔루션 기업들이 고객 요구를 현장에서 즉각 개발·반영하는 하이브리드 기술 인재 확보에 주력하고 있어요.",
+      "insight": "메이크샵·플레이오토 등 셀러 솔루션 사업부문에서 고객사의 커스텀 요구와 온보딩 속도를 높이기 위해 전통적인 SE나 백엔드 개발자 대신 FDE 포지션 신설과 채용을 검토해야 해요.",
+      "tags": [
+        "FDE",
+        "메이크샵",
+        "플레이오토",
+        "B2B엔지니어",
+        "직무트렌드"
+      ],
+      "sources": [
+        {
+          "name": "FlipItMoney",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPejFPLXNDVTJyLU1KU0Q3emEtaEJPLTloSVpxZEZYeXFBSlhHQnZpVzRtOW1CNEVENDliSmN0RlNUT1V4aTlWWGxvTV9FRXprckNGbU42NWQ4T0FDTHVnVmpNLVdKSURsZjZKSmR5ZTVJUkJxZGJSWjlnNWpQcC1fRFA4NjBxbTVwNi1LVVhWQzNZOWxjRnREOFJoWmllTHJ2dkV0WFV1U2dsMF9WUTJQaQ?oc=5",
+          "title": "Why leaving Google to become a forward deployed engineer was the right choice for me",
+          "date": "2026-11-21"
+        },
+        {
+          "name": "요즘IT",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBObDlFQVdxWWgxWThLWk1VdkVpLWQ0aXBwUXk5WkN2YnhsT2czVlBLQmdCcUdtUklDcTMwWS1nVTJuOS1IRnNYazRlV0RTTDN3bmJqMkpFUmRTQQ?oc=5",
+          "title": "[리포트] 국내 FDE 현황 조사 2026: ① 누가, 어디서 와서, 무슨 일을 하나",
+          "date": "2026-11-21"
+        }
+      ],
+      "date": "2026-11-21"
+    },
+    {
+      "id": "t20261122-02",
+      "region": "global",
+      "importance": "mid",
+      "company": "Apple · Google",
+      "title": "애플·구글, 스테이블코인 및 Web3 시니어 포지션 공고",
+      "body": "애플과 구글이 스테이블코인과 Web3 역량을 필수 요건으로 명시한 시니어 직무 채용 공고를 게시했어요. 빅테크들이 차세대 결제 및 블록체인 기반 금융 생태계 대응을 위해 고위직 전문 인재 확보에 나섰어요.",
+      "insight": "다나와·에누리 및 몰테일 등 커머스·물류 플랫폼의 차세대 간편결제와 글로벌 정산 인프라 고도화에 대비해 핀테크·Web3 경력자 소싱 파이프라인을 점검해야 해요.",
+      "tags": [
+        "Apple",
+        "Google",
+        "Web3",
+        "스테이블코인",
+        "핀테크"
+      ],
+      "sources": [
+        {
+          "name": "CoinMarketCap",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMlJZVjN0bTlHUVZiaUROaTV0aFg1cjRsd0g2R18zQUh6dE9VemFMN2JRQ2VHb29iUHBfLXJmTW11NWxXUXp1ZXREYWo0cnVqSUduVGZJcUwzVnF2VWF1UGlLbXZCckVtQTdmZ3lkQVZ0dzhBSzdpa3dNZUtNb3pzb09PYnlRbkFOem1DQ0xUN3lFbW1qcVFsd0c0MVBtQ2JuRnlxSE5kM0V4RkJ6TmxBNFRwa0c?oc=5",
+          "title": "Apple and Google Post Senior Roles With Stablecoin and Web3 Requirements",
+          "date": "2026-11-22"
+        }
+      ],
+      "date": "2026-11-22"
+    },
+    {
+      "id": "t20261122-03",
+      "region": "global",
+      "importance": "mid",
+      "company": "Amazon",
+      "title": "아마존, 포장 인력 대체하는 자동 패킹 머신 도입",
+      "body": "아마존이 물류 주문을 자동으로 패킹하고 기존 현장 작업을 대체하는 기계를 현장에 배치하기 시작했어요. 물류 센터 내 단순 포장 작업을 자동화 기계로 전환하여 운영 효율을 높이고 있어요.",
+      "insight": "스윗트래커와 몰테일 물류센터의 인력 운영 전략도 단순 노무직 중심에서 물류 자동화 설비 관리 및 시스템 제어 엔지니어 채용 중심으로 재편할 필요가 있어요.",
+      "tags": [
+        "Amazon",
+        "물류자동화",
+        "패킹머신",
+        "스윗트래커",
+        "몰테일"
+      ],
+      "sources": [
+        {
+          "name": "Yeni Safak English",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMHNNNnNCbFZOR1B5NlFvV04yal9rdFE5aGUzaHY3d3BnN2JHMUYxZXhyaVl6aGs5eFJsSGIxVlpCWFhndFYyeWx1MHFtanFHN3IzUVRsUmdaS3Fqb1gwV25SWTNkTmNPWk5KR3VRSE1Od0oxY0RzSlYyTFB1ZEoxcGZtVDNqdHRVM2hJMjBVRkE0bC1mZkxON3Y3SlpJR2xTbjhwT1BB?oc=5",
+          "title": "Amazon rolls out machines that pack orders and replace jobs",
+          "date": "2026-11-22"
+        }
+      ],
+      "date": "2026-11-22"
+    },
+    {
+      "id": "t20261122-04",
+      "region": "global",
+      "importance": "mid",
+      "company": "Google DeepMind",
+      "title": "구글 딥마인드, Hume AI CEO 및 핵심 엔지니어 대거 영입",
+      "body": "구글 딥마인드가 음성 감성 AI 스타트업 Hume AI의 CEO와 핵심 엔지니어들을 전격 영입했어요. 주요 AI 연구소 간 핵심 인재를 통째로 흡수하는 '아크하이어(Acqui-hire)' 방식의 영입 경쟁이 지속되고 있어요.",
+      "insight": "AI 핵심 개발 인재 확보를 위해 단건 채용뿐 아니라 유망 AI 소규모 팀 단위 인수 채용이나 C레벨 영입 전략을 유연하게 검토해야 경쟁에서 우위를 점할 수 있어요.",
+      "tags": [
+        "DeepMind",
+        "인재영입",
+        "AI엔지니어",
+        "아크하이어"
+      ],
+      "sources": [
+        {
+          "name": "Wisevoter",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOR3FSRURqNkJmbVVIdGREQVZKbm9NTjludnNZSFV6N3dmdVpiMTM4ZlcxcEpsMW9hZ0xfdEstZ1duWmhTU0JBRXdybl8xNkV0R0wwSEUxMWk1Q0V5Z1JpS0p6cmptcnpsLV9DcEp2eU5LLWpyZFFSZ3JiZUFDTzY2M3daQzQyYi1MSDEwcC16NldlUQ?oc=5",
+          "title": "Google DeepMind Hires Hume AI CEO and Engineers",
+          "date": "2026-11-21"
+        }
+      ],
+      "date": "2026-11-21"
+    },
+    {
+      "id": "t20261122-07",
+      "region": "korea",
+      "importance": "mid",
+      "company": "케어랩스 (바비톡)",
+      "title": "바비톡, 사내 업무 자동화 위한 AI 에이전트 전사 도입",
+      "body": "케어랩스 바비톡이 자연어로 업무를 설명하면 자동으로 프로세스를 설계해주는 AI 에이전트 스튜디오 'BaaS'를 전사 도입했어요. 실무자들의 반복 업무를 에이전트가 대신하는 구조로 업무 방식을 개편하고 있어요.",
+      "insight": "플랫폼 전반의 업무 자동화 툴 도입이 확산되고 있어, 채용 시에도 직무별로 AI 에이전트와 LLM 도구를 능숙하게 활용해 생산성을 낼 수 있는 인재인지 검증하는 항목이 필수적이에요.",
+      "tags": [
+        "바비톡",
+        "AI에이전트",
+        "업무자동화",
+        "채용평가"
+      ],
+      "sources": [
+        {
+          "name": "스포츠경향",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA0Zlg5VW1QRTMtVlNEWEFZc0hYQkUtU3YzMHBxWkJkTjRkTi1wS2Z2Qy13QmpTRGNFLTJ1Y1VwOVgydUt0ekxFU2pyYzRvNWd0RmY3TGNhTThPSkhsa3fSAWNBVV95cUxQN1pXSVYzdGgwZDFxRXphOHd6ZVR6cHFJVkJNUU10eXB2UEtkTHpFNFdmRUtMZGNxRWxmMGd0UkJkeDFLMXROX2tqWU4ySEk3NWtMOUZ4M3BwTW5rZkNPT0pyTWs?oc=5",
+          "title": "케어랩스 바비톡, AI 에이전트 스튜디오 ‘BaaS’ 전사 도입···업무 설명하면 자동 설계",
+          "date": "2026-11-22"
+        }
+      ],
+      "date": "2026-11-22"
+    },
+    {
+      "id": "t20261122-05",
+      "region": "global",
+      "importance": "low",
+      "company": "Nscale",
+      "title": "영국 AI 기업 Nscale, 비용 절감 위해 채용 전면 동결",
+      "body": "영국의 대형 AI 기업 Nscale이 비용 절감 드라이브의 일환으로 신규 채용을 중단(동결)했어요. 공격적으로 인프라를 확장하던 AI 전문 기업들도 현금 흐름 관리를 위한 조직 긴축에 들어갔어요.",
+      "insight": "AI 인프라 전문 기업들의 채용 동결로 클라우드·MLOps 분야 인재들의 이직 탐색이 늘어날 수 있으므로 해당 엔지니어 풀을 적극 모니터링해야 해요.",
+      "tags": [
+        "Nscale",
+        "채용동결",
+        "비용절감",
+        "인프라"
+      ],
+      "sources": [
+        {
+          "name": "The Telegraph",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTkFaMWFocllaZFVDNVJQcENnbmVzajFBZzZpbDdaNnRGQWlxbUI5d0dlUGpvcW1UU0VVSl9rRS0wM3FGOGhJNm96VXJkTmwwN2JETk82ZHV3Q0JKZWNuVUZYVHdOWGV1YWNxWnEyRXEzR3pBVEp3cjhZZkp0dVZmdDh5RlRRMUlRaXJDS1cwWEtFbE5wMGFuTnhJT3Fjc3Jvb2ZCSE9nX2hKcjg?oc=5",
+          "title": "British AI giant Nscale halts hiring in cost-cutting drive",
+          "date": "2026-11-22"
+        }
+      ],
+      "date": "2026-11-22"
+    }
+  ]
+}

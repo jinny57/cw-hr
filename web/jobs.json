@@ -1,6 +1,6 @@
 {
 "meta": {
-"updated": "2026-11-21T00:48+09:00",
+"updated": "2026-11-22T11:13+09:00",
 "baseline": "2026-11-11",
 "families": [
 {
@@ -90,9 +90,9 @@
 "group": "bigtech",
 "ok": true,
 "source": "amazon",
-"total": 9998,
-"secs": 83.6,
-"with_desc": 9998
+"total": 10000,
+"secs": 91.3,
+"with_desc": 10000
 },
 {
 "id": "microsoft",
@@ -107,8 +107,8 @@
 "group": "bigtech",
 "ok": true,
 "source": "google",
-"total": 2972,
-"secs": 130.0,
+"total": 2864,
+"secs": 121.9,
 "with_desc": 0
 },
 {
@@ -132,7 +132,7 @@
 "ok": true,
 "source": "eightfold",
 "total": 50,
-"secs": 2.1,
+"secs": 2.5,
 "with_desc": 0
 },
 {
@@ -148,9 +148,9 @@
 "group": "bigtech",
 "ok": true,
 "source": "greenhouse",
-"total": 2781,
-"secs": 2.0,
-"with_desc": 2781
+"total": 2845,
+"secs": 2.4,
+"with_desc": 2845
 },
 {
 "id": "nvidia",
@@ -172,9 +172,9 @@
 "group": "ailab",
 "ok": true,
 "source": "ashby",
-"total": 852,
-"secs": 0.5,
-"with_desc": 852
+"total": 851,
+"secs": 0.4,
+"with_desc": 851
 },
 {
 "id": "anthropic",
@@ -182,9 +182,9 @@
 "group": "ailab",
 "ok": true,
 "source": "greenhouse",
-"total": 641,
+"total": 635,
 "secs": 0.7,
-"with_desc": 641
+"with_desc": 635
 },
 {
 "id": "xai",
@@ -202,9 +202,9 @@
 "group": "ailab",
 "ok": true,
 "source": "greenhouse",
-"total": 167,
+"total": 166,
 "secs": 0.2,
-"with_desc": 167
+"with_desc": 166
 },
 {
 "id": "databricks",
@@ -212,9 +212,9 @@
 "group": "ailab",
 "ok": true,
 "source": "greenhouse",
-"total": 897,
+"total": 895,
 "secs": 0.7,
-"with_desc": 897
+"with_desc": 895
 },
 {
 "id": "salesforce",
@@ -229,8 +229,8 @@
 "group": "saas",
 "ok": true,
 "source": "smartrecruiters",
-"total": 876,
-"secs": 4.2,
+"total": 997,
+"secs": 4.1,
 "with_desc": 0
 },
 {
@@ -239,9 +239,9 @@
 "group": "saas",
 "ok": true,
 "source": "lever",
-"total": 306,
-"secs": 1.8,
-"with_desc": 306
+"total": 308,
+"secs": 1.1,
+"with_desc": 308
 },
 {
 "id": "shopify",
@@ -263,9 +263,9 @@
 "group": "platform",
 "ok": true,
 "source": "greenhouse",
-"total": 85,
+"total": 92,
 "secs": 0.1,
-"with_desc": 85
+"with_desc": 92
 },
 {
 "id": "uber",
@@ -280,9 +280,9 @@
 "group": "platform",
 "ok": true,
 "source": "greenhouse",
-"total": 201,
+"total": 202,
 "secs": 0.2,
-"with_desc": 201
+"with_desc": 202
 },
 {
 "id": "stripe",
@@ -290,9 +290,9 @@
 "group": "platform",
 "ok": true,
 "source": "greenhouse",
-"total": 774,
-"secs": 0.4,
-"with_desc": 774
+"total": 777,
+"secs": 0.6,
+"with_desc": 777
 },
 {
 "id": "grab",
@@ -301,12 +301,680 @@
 "ok": true,
 "source": "smartrecruiters",
 "total": 429,
-"secs": 2.2,
+"secs": 1.9,
 "with_desc": 0
 }
 ]
 },
 "days": [
+{
+"date": "2026-11-22",
+"total": 21410,
+"counts": {
+"amazon": {
+"field": 2596,
+"swe": 1301,
+"security": 246,
+"gtm": 1190,
+"product": 779,
+"data": 470,
+"other": 1455,
+"hardware": 241,
+"design": 87,
+"fde": 83,
+"ops_corp": 603,
+"infra": 276,
+"ml_eng": 144,
+"people": 290,
+"applied_ai": 52,
+"ai_research": 171,
+"mobile_fe": 16
+},
+"google": {
+"gtm": 541,
+"other": 172,
+"applied_ai": 56,
+"design": 55,
+"product": 381,
+"data": 131,
+"fde": 87,
+"infra": 254,
+"hardware": 182,
+"ml_eng": 237,
+"ops_corp": 145,
+"field": 178,
+"swe": 218,
+"ai_research": 81,
+"security": 68,
+"mobile_fe": 32,
+"people": 22,
+"ai_safety": 24
+},
+"netflix": {
+"applied_ai": 3,
+"ops_corp": 4,
+"security": 2,
+"ml_eng": 3,
+"people": 6,
+"other": 10,
+"ai_research": 1,
+"swe": 7,
+"data": 1,
+"gtm": 8,
+"design": 1,
+"infra": 1,
+"field": 2,
+"product": 1
+},
+"spacex": {
+"ops_corp": 84,
+"gtm": 125,
+"other": 365,
+"hardware": 380,
+"field": 762,
+"swe": 614,
+"ml_eng": 63,
+"applied_ai": 16,
+"mobile_fe": 12,
+"design": 31,
+"infra": 193,
+"people": 62,
+"data": 53,
+"security": 84,
+"ai_safety": 1
+},
+"openai": {
+"product": 59,
+"ai_research": 31,
+"swe": 125,
+"data": 35,
+"ml_eng": 20,
+"security": 36,
+"infra": 35,
+"people": 22,
+"gtm": 112,
+"fde": 45,
+"ai_safety": 10,
+"applied_ai": 74,
+"hardware": 30,
+"ops_corp": 45,
+"other": 121,
+"field": 30,
+"mobile_fe": 9,
+"design": 12
+},
+"anthropic": {
+"ops_corp": 53,
+"gtm": 152,
+"other": 47,
+"ml_eng": 19,
+"ai_safety": 25,
+"people": 19,
+"applied_ai": 45,
+"ai_research": 41,
+"security": 30,
+"swe": 86,
+"field": 12,
+"data": 27,
+"product": 38,
+"infra": 20,
+"hardware": 6,
+"fde": 8,
+"design": 5,
+"mobile_fe": 2
+},
+"xai": {
+"ml_eng": 30,
+"ops_corp": 14,
+"data": 28,
+"security": 14,
+"infra": 23,
+"other": 39,
+"field": 78,
+"swe": 46,
+"gtm": 8,
+"hardware": 5,
+"people": 4,
+"mobile_fe": 5,
+"product": 4,
+"ai_safety": 1
+},
+"scaleai": {
+"gtm": 20,
+"ai_safety": 3,
+"product": 11,
+"applied_ai": 15,
+"other": 25,
+"data": 5,
+"security": 3,
+"ops_corp": 14,
+"ml_eng": 16,
+"swe": 21,
+"fde": 11,
+"people": 2,
+"infra": 4,
+"ai_research": 7,
+"field": 2,
+"design": 7
+},
+"databricks": {
+"other": 44,
+"gtm": 400,
+"ops_corp": 24,
+"ml_eng": 23,
+"fde": 106,
+"data": 24,
+"applied_ai": 13,
+"field": 4,
+"swe": 157,
+"people": 11,
+"ai_research": 2,
+"security": 12,
+"product": 47,
+"infra": 21,
+"mobile_fe": 3,
+"design": 4
+},
+"servicenow": {
+"gtm": 457,
+"people": 10,
+"swe": 69,
+"other": 138,
+"data": 13,
+"security": 56,
+"ml_eng": 61,
+"field": 1,
+"applied_ai": 36,
+"ops_corp": 36,
+"product": 43,
+"fde": 18,
+"ai_research": 7,
+"design": 13,
+"infra": 29,
+"ai_safety": 9,
+"mobile_fe": 1
+},
+"palantir": {
+"other": 19,
+"swe": 68,
+"data": 5,
+"infra": 24,
+"ops_corp": 38,
+"people": 9,
+"security": 20,
+"fde": 94,
+"design": 13,
+"gtm": 4,
+"mobile_fe": 3,
+"applied_ai": 2,
+"ml_eng": 3,
+"field": 2,
+"product": 4
+},
+"instacart": {
+"gtm": 32,
+"ai_research": 2,
+"other": 15,
+"data": 5,
+"ops_corp": 7,
+"field": 6,
+"swe": 4,
+"ml_eng": 5,
+"product": 7,
+"security": 2,
+"mobile_fe": 3,
+"design": 4
+},
+"airbnb": {
+"gtm": 37,
+"other": 60,
+"ops_corp": 19,
+"design": 3,
+"data": 11,
+"field": 6,
+"ml_eng": 17,
+"swe": 20,
+"product": 12,
+"applied_ai": 1,
+"people": 6,
+"infra": 4,
+"mobile_fe": 4,
+"security": 1,
+"ai_safety": 1
+},
+"stripe": {
+"other": 72,
+"gtm": 319,
+"ops_corp": 48,
+"data": 33,
+"applied_ai": 2,
+"product": 74,
+"mobile_fe": 6,
+"security": 21,
+"swe": 106,
+"people": 26,
+"field": 16,
+"ml_eng": 16,
+"infra": 15,
+"fde": 4,
+"design": 19
+},
+"grab": {
+"data": 46,
+"ops_corp": 65,
+"swe": 72,
+"people": 15,
+"other": 103,
+"product": 20,
+"gtm": 40,
+"field": 8,
+"security": 9,
+"applied_ai": 1,
+"ml_eng": 9,
+"design": 3,
+"mobile_fe": 17,
+"infra": 13,
+"fde": 1,
+"ai_safety": 6,
+"ai_research": 1
+}
+},
+"ai_title": {
+"amazon": 378,
+"google": 506,
+"netflix": 6,
+"spacex": 84,
+"openai": 141,
+"anthropic": 101,
+"xai": 32,
+"scaleai": 44,
+"databricks": 85,
+"servicenow": 159,
+"palantir": 7,
+"instacart": 11,
+"airbnb": 20,
+"stripe": 40,
+"grab": 12
+},
+"early": {
+"amazon": 412,
+"google": 68,
+"netflix": 1,
+"spacex": 62,
+"openai": 0,
+"anthropic": 0,
+"xai": 4,
+"scaleai": 8,
+"databricks": 19,
+"servicenow": 21,
+"palantir": 85,
+"instacart": 0,
+"airbnb": 8,
+"stripe": 37,
+"grab": 16
+},
+"new": {
+"amazon": {
+"field": 58,
+"swe": 39,
+"security": 16,
+"gtm": 36,
+"product": 24,
+"data": 24,
+"other": 45,
+"hardware": 6,
+"design": 1,
+"fde": 3,
+"ops_corp": 15,
+"ai_research": 10,
+"infra": 6,
+"people": 7,
+"ml_eng": 1,
+"applied_ai": 1
+},
+"google": {
+"data": 8,
+"gtm": 28,
+"product": 22,
+"other": 10,
+"ml_eng": 15,
+"infra": 12,
+"hardware": 8,
+"ai_research": 8,
+"security": 3,
+"swe": 14,
+"mobile_fe": 3,
+"field": 8,
+"fde": 5,
+"ops_corp": 4,
+"ai_safety": 1,
+"design": 1
+},
+"netflix": {
+"ops_corp": 1,
+"gtm": 2,
+"people": 1
+},
+"spacex": {
+"ops_corp": 3,
+"other": 12,
+"field": 19,
+"swe": 26,
+"hardware": 4,
+"infra": 15,
+"gtm": 1,
+"people": 1,
+"security": 1,
+"data": 4,
+"design": 1
+},
+"openai": {
+"data": 1,
+"gtm": 5,
+"other": 1,
+"ops_corp": 2,
+"ai_research": 1,
+"hardware": 1,
+"field": 1
+},
+"anthropic": {
+"gtm": 2,
+"applied_ai": 1,
+"swe": 4,
+"ai_research": 2,
+"other": 1
+},
+"xai": {
+"field": 1
+},
+"scaleai": {
+"other": 1,
+"ops_corp": 1
+},
+"databricks": {
+"gtm": 3,
+"fde": 1
+},
+"servicenow": {
+"gtm": 106,
+"people": 4,
+"swe": 12,
+"other": 10,
+"data": 1,
+"security": 19,
+"ml_eng": 4,
+"field": 1,
+"applied_ai": 1,
+"ops_corp": 4,
+"product": 2,
+"fde": 1,
+"ai_research": 1,
+"design": 1
+},
+"palantir": {
+"field": 2
+},
+"instacart": {
+"gtm": 5,
+"data": 2
+},
+"airbnb": {
+"ops_corp": 1,
+"gtm": 1,
+"other": 1,
+"data": 1,
+"swe": 1,
+"ml_eng": 1
+},
+"stripe": {
+"people": 2,
+"swe": 2,
+"infra": 1,
+"product": 2,
+"gtm": 2,
+"data": 1
+},
+"grab": {}
+},
+"recent7": {
+"amazon": {
+"field": 584,
+"swe": 250,
+"security": 48,
+"gtm": 205,
+"product": 159,
+"data": 120,
+"other": 266,
+"hardware": 48,
+"design": 14,
+"fde": 18,
+"ops_corp": 107,
+"infra": 46,
+"ml_eng": 22,
+"people": 36,
+"applied_ai": 8,
+"ai_research": 42,
+"mobile_fe": 1
+},
+"netflix": {
+"ops_corp": 1,
+"security": 1,
+"ml_eng": 1,
+"people": 1,
+"other": 2,
+"ai_research": 1,
+"swe": 1,
+"data": 1
+},
+"spacex": {
+"gtm": 6,
+"field": 84,
+"swe": 72,
+"hardware": 33,
+"ops_corp": 5,
+"other": 41,
+"infra": 35,
+"data": 10,
+"people": 5,
+"security": 12,
+"ml_eng": 1,
+"mobile_fe": 1,
+"design": 1
+},
+"openai": {
+"data": 8,
+"fde": 4,
+"infra": 2,
+"applied_ai": 3,
+"other": 19,
+"ai_research": 3,
+"ops_corp": 8,
+"gtm": 26,
+"product": 6,
+"security": 3,
+"hardware": 2,
+"swe": 4,
+"ml_eng": 1,
+"people": 1,
+"field": 3,
+"design": 2
+},
+"anthropic": {
+"applied_ai": 5,
+"gtm": 14,
+"ops_corp": 3,
+"infra": 3,
+"other": 4,
+"swe": 5,
+"ai_research": 3
+},
+"xai": {
+"ml_eng": 3,
+"ops_corp": 1,
+"field": 1,
+"gtm": 1,
+"swe": 5,
+"other": 1,
+"product": 1
+},
+"scaleai": {
+"gtm": 1,
+"other": 1,
+"ops_corp": 2
+},
+"databricks": {
+"gtm": 33,
+"swe": 4,
+"fde": 5,
+"security": 1,
+"other": 1
+},
+"servicenow": {
+"gtm": 250,
+"people": 7,
+"swe": 30,
+"other": 39,
+"data": 2,
+"security": 28,
+"ml_eng": 10,
+"field": 1,
+"applied_ai": 4,
+"ops_corp": 12,
+"product": 9,
+"fde": 5,
+"ai_research": 2,
+"design": 2,
+"infra": 2
+},
+"palantir": {
+"security": 1,
+"ops_corp": 2
+},
+"instacart": {
+"gtm": 2,
+"ai_research": 1,
+"data": 2,
+"other": 2,
+"design": 2
+},
+"airbnb": {
+"gtm": 4,
+"design": 1,
+"data": 1,
+"ml_eng": 4,
+"other": 2,
+"ops_corp": 2,
+"product": 2,
+"people": 1,
+"infra": 1,
+"swe": 4,
+"field": 1
+},
+"stripe": {
+"gtm": 23,
+"data": 3,
+"other": 9,
+"swe": 6,
+"infra": 4,
+"security": 1,
+"fde": 1,
+"people": 2,
+"ops_corp": 2,
+"field": 1,
+"product": 8,
+"mobile_fe": 1
+},
+"grab": {
+"data": 7,
+"ops_corp": 9,
+"swe": 8,
+"people": 3,
+"other": 14,
+"product": 4,
+"gtm": 6,
+"field": 2,
+"security": 1,
+"applied_ai": 1,
+"ml_eng": 2,
+"design": 1,
+"mobile_fe": 1
+}
+},
+"ai_desc": {
+"fde": [
+286,
+351
+],
+"people": [
+193,
+451
+],
+"product": [
+494,
+1035
+],
+"design": [
+97,
+185
+],
+"gtm": [
+1282,
+2399
+],
+"ai_safety": [
+41,
+41
+],
+"ops_corp": [
+383,
+949
+],
+"field": [
+434,
+3514
+],
+"ai_research": [
+225,
+254
+],
+"applied_ai": [
+220,
+220
+],
+"ml_eng": [
+344,
+356
+],
+"hardware": [
+130,
+662
+],
+"security": [
+233,
+469
+],
+"data": [
+330,
+696
+],
+"infra": [
+222,
+615
+],
+"mobile_fe": [
+39,
+63
+],
+"swe": [
+1207,
+2548
+],
+"other": [
+661,
+2262
+]
+}
+},
 {
 "date": "2026-11-21",
 "total": 21328,
@@ -7926,6 +8594,732 @@
 ],
 "new_titles": [
 {
+"norm": "cyber enterprise account exec",
+"example": "Cyber Enterprise Account Exec",
+"family": "security",
+"companies": [
+"ServiceNow"
+],
+"n": 18,
+"first": "2026-11-22",
+"url": "https://jobs.smartrecruiters.com/ServiceNow/744000162834699"
+},
+{
+"norm": "cyber advisory solution consultant",
+"example": "Cyber Advisory Solution Consultant",
+"family": "gtm",
+"companies": [
+"ServiceNow"
+],
+"n": 6,
+"first": "2026-11-22",
+"url": "https://jobs.smartrecruiters.com/ServiceNow/744000162820619"
+},
+{
+"norm": "technicien syst mes et r seaux",
+"example": "Technicien(ne) Systèmes et Réseaux",
+"family": "other",
+"companies": [
+"Amazon"
+],
+"n": 2,
+"first": "2026-11-22",
+"url": "https://www.amazon.jobs/en/jobs/10610333/technicien-ne-systemes-et-reseaux"
+},
+{
+"norm": "delivery shift manager",
+"example": "Delivery Shift Manager Jr, Sub Same Day Operations",
+"family": "field",
+"companies": [
+"Amazon"
+],
+"n": 2,
+"first": "2026-11-22",
+"url": "https://www.amazon.jobs/en/jobs/10610977/delivery-shift-manager-jr-sub-same-day-operations"
+},
+{
+"norm": "inv specialist",
+"example": "Inv Specialist, IN, Worlwide Operations Investigations",
+"family": "other",
+"companies": [
+"Amazon"
+],
+"n": 2,
+"first": "2026-11-22",
+"url": "https://www.amazon.jobs/en/jobs/10610415/inv-specialist-in-worlwide-operations-investigations"
+},
+{
+"norm": "commercial solution sales executive",
+"example": "Sr Commercial Solution Sales Executive, Employee Experience",
+"family": "gtm",
+"companies": [
+"ServiceNow"
+],
+"n": 2,
+"first": "2026-11-22",
+"url": "https://jobs.smartrecruiters.com/ServiceNow/744000162792449"
+},
+{
+"norm": "supply chain security analyst",
+"example": "Supply Chain Security Analyst",
+"family": "field",
+"companies": [
+"Palantir"
+],
+"n": 2,
+"first": "2026-11-22",
+"url": "https://jobs.lever.co/palantir/26c63e91-64bb-4a9d-8b24-f51754bffb83"
+},
+{
+"norm": "salesforce security engineer",
+"example": "Salesforce Security Engineer, Salesforce Success Central",
+"family": "security",
+"companies": [
+"Amazon"
+],
+"n": 1,
+"first": "2026-11-22",
+"url": "https://www.amazon.jobs/en/jobs/10610799/salesforce-security-engineer-salesforce-success-central"
+},
+{
+"norm": "cluster project design mechanical engineer",
+"example": "Cluster Project Design Mechanical Engineer, Fleet Remediation Engineering",
+"family": "field",
+"companies": [
+"Amazon"
+],
+"n": 1,
+"first": "2026-11-22",
+"url": "https://www.amazon.jobs/en/jobs/10610689/cluster-project-design-mechanical-engineer-fleet-remediation-engineering"
+},
+{
+"norm": "product manager amazon mx",
+"example": "Sr Product Manager Amazon Mx, Consumer Electronics",
+"family": "product",
+"companies": [
+"Amazon"
+],
+"n": 1,
+"first": "2026-11-22",
+"url": "https://www.amazon.jobs/en/jobs/10610394/sr-product-manager-amazon-mx-consumer-electronics"
+},
+{
+"norm": "process analyst",
+"example": "Process Analyst, EU Central Operations Analytics",
+"family": "data",
+"companies": [
+"Amazon"
+],
+"n": 1,
+"first": "2026-11-22",
+"url": "https://www.amazon.jobs/en/jobs/10610312/process-analyst-eu-central-operations-analytics"
+},
+{
+"norm": "mba finance leadership development program",
+"example": "2027 MBA Finance Leadership Development Program (FLDP) - FTE",
+"family": "ops_corp",
+"companies": [
+"Amazon"
+],
+"n": 1,
+"first": "2026-11-22",
+"url": "https://www.amazon.jobs/en/jobs/10610940/2027-mba-finance-leadership-development-program-fldp-fte"
+},
+{
+"norm": "aws sales leader",
+"example": "AWS Sr. Sales Leader, FSI, Fintech",
+"family": "gtm",
+"companies": [
+"Amazon"
+],
+"n": 1,
+"first": "2026-11-22",
+"url": "https://www.amazon.jobs/en/jobs/10610728/aws-sr-sales-leader-fsi-fintech"
+},
+{
+"norm": "manufacturing assembly technician",
+"example": "Manufacturing Assembly Technician, Prime Air, Assembly and Test",
+"family": "field",
+"companies": [
+"Amazon"
+],
+"n": 1,
+"first": "2026-11-22",
+"url": "https://www.amazon.jobs/en/jobs/10610941/manufacturing-assembly-technician-prime-air-assembly-and-test"
+},
+{
+"norm": "instock manager imports",
+"example": "Instock Manager Imports, Global Direct Sourcing",
+"family": "other",
+"companies": [
+"Amazon"
+],
+"n": 1,
+"first": "2026-11-22",
+"url": "https://www.amazon.jobs/en/jobs/10610680/instock-manager-imports-global-direct-sourcing"
+},
+{
+"norm": "security solution architect",
+"example": "Principal Security Solution Architect, Security, Networking & Compliance Specialists",
+"family": "gtm",
+"companies": [
+"Amazon"
+],
+"n": 1,
+"first": "2026-11-22",
+"url": "https://www.amazon.jobs/en/jobs/10610354/principal-security-solution-architect-security-networking-compliance-specialists"
+},
+{
+"norm": "expansion transaction manager",
+"example": "Expansion Transaction Manager , APAC Data Center Supply Solutions",
+"family": "data",
+"companies": [
+"Amazon"
+],
+"n": 1,
+"first": "2026-11-22",
+"url": "https://www.amazon.jobs/en/jobs/10610938/expansion-transaction-manager-apac-data-center-supply-solutions"
+},
+{
+"norm": "creative mktg",
+"example": "Creative MKTG III - AMZ14492.11",
+"family": "other",
+"companies": [
+"Amazon"
+],
+"n": 1,
+"first": "2026-11-22",
+"url": "https://www.amazon.jobs/en/jobs/10607537/creative-mktg-iii-amz14492-11"
+},
+{
+"norm": "avionics test system sdm",
+"example": "Avionics Test System SDM, Avionics Bus Design and Test",
+"family": "hardware",
+"companies": [
+"Amazon"
+],
+"n": 1,
+"first": "2026-11-22",
+"url": "https://www.amazon.jobs/en/jobs/10610837/avionics-test-system-sdm-avionics-bus-design-and-test"
+},
+{
+"norm": "camera systems engineer",
+"example": "Senior Camera Systems Engineer",
+"family": "infra",
+"companies": [
+"Amazon"
+],
+"n": 1,
+"first": "2026-11-22",
+"url": "https://www.amazon.jobs/en/jobs/10610703/senior-camera-systems-engineer"
+},
+{
+"norm": "aviation account manager",
+"example": "Aviation Account Manager, Transport, UKPS",
+"family": "gtm",
+"companies": [
+"Amazon"
+],
+"n": 1,
+"first": "2026-11-22",
+"url": "https://www.amazon.jobs/en/jobs/10610364/aviation-account-manager-transport-ukps"
+},
+{
+"norm": "software dev engineer in test",
+"example": "Software Dev Engineer in Test , Amazon Leo Payload",
+"family": "swe",
+"companies": [
+"Amazon"
+],
+"n": 1,
+"first": "2026-11-22",
+"url": "https://www.amazon.jobs/en/jobs/10610933/software-dev-engineer-in-test-amazon-leo-payload"
+},
+{
+"norm": "transportation pm",
+"example": "Transportation Sr PM, Amazon Fulfillment Experience",
+"family": "field",
+"companies": [
+"Amazon"
+],
+"n": 1,
+"first": "2026-11-22",
+"url": "https://www.amazon.jobs/en/jobs/10610407/transportation-sr-pm-amazon-fulfillment-experience"
+},
+{
+"norm": "customer insights manager",
+"example": "Sr Customer Insights Manager, Relay Customer Insights",
+"family": "other",
+"companies": [
+"Amazon"
+],
+"n": 1,
+"first": "2026-11-22",
+"url": "https://www.amazon.jobs/en/jobs/10610471/sr-customer-insights-manager-relay-customer-insights"
+},
+{
+"norm": "analista de invent rio",
+"example": "Analista de Inventário (Cajamar), Operações",
+"family": "other",
+"companies": [
+"Amazon"
+],
+"n": 1,
+"first": "2026-11-22",
+"url": "https://www.amazon.jobs/en/jobs/10607078/analista-de-inventario-cajamar-operacoes"
+},
+{
+"norm": "liquid cooling engineer",
+"example": "Liquid Cooling Chief Engineer, Liquid Cooling Ceneter of Excellence",
+"family": "swe",
+"companies": [
+"Amazon"
+],
+"n": 1,
+"first": "2026-11-22",
+"url": "https://www.amazon.jobs/en/jobs/10610457/liquid-cooling-chief-engineer-liquid-cooling-ceneter-of-excellence"
+},
+{
+"norm": "media specialist tam",
+"example": "Sr. Media Specialist TAM, AWS Enterprise Support, Strategic Industries",
+"family": "other",
+"companies": [
+"Amazon"
+],
+"n": 1,
+"first": "2026-11-22",
+"url": "https://www.amazon.jobs/en/jobs/10600917/sr-media-specialist-tam-aws-enterprise-support-strategic-industries"
+},
+{
+"norm": "design technologist fy2027",
+"example": "Design Technologist Intern FY2027 (Summer)",
+"family": "other",
+"companies": [
+"Amazon"
+],
+"n": 1,
+"first": "2026-11-22",
+"url": "https://www.amazon.jobs/en/jobs/10610836/design-technologist-intern-fy2027-summer"
+},
+{
+"norm": "new region strategy & planning",
+"example": "New Region Strategy & Planning",
+"family": "ops_corp",
+"companies": [
+"Amazon"
+],
+"n": 1,
+"first": "2026-11-22",
+"url": "https://www.amazon.jobs/en/jobs/10600833/new-region-strategy-planning"
+},
+{
+"norm": "cost analyst",
+"example": "Cost Analyst, Cost Management, Strategic Portfolio Management",
+"family": "data",
+"companies": [
+"Amazon"
+],
+"n": 1,
+"first": "2026-11-22",
+"url": "https://www.amazon.jobs/en/jobs/10610937/cost-analyst-cost-management-strategic-portfolio-management"
+},
+{
+"norm": "sc program manager",
+"example": "SC Program Manager , Global Field Operations Supply Chain",
+"family": "product",
+"companies": [
+"Amazon"
+],
+"n": 1,
+"first": "2026-11-22",
+"url": "https://www.amazon.jobs/en/jobs/10604706/sc-program-manager-global-field-operations-supply-chain"
+},
+{
+"norm": "devices & services finance analyst",
+"example": "Devices & Services Finance Analyst, Devices Sales and Marketing Finance",
+"family": "gtm",
+"companies": [
+"Amazon"
+],
+"n": 1,
+"first": "2026-11-22",
+"url": "https://www.amazon.jobs/en/jobs/10610632/devices-services-finance-analyst-devices-sales-and-marketing-finance"
+},
+{
+"norm": "interactive art director",
+"example": "Sr Interactive Art Director, Amazon Leo",
+"family": "other",
+"companies": [
+"Amazon"
+],
+"n": 1,
+"first": "2026-11-22",
+"url": "https://www.amazon.jobs/en/jobs/10610748/sr-interactive-art-director-amazon-leo"
+},
+{
+"norm": "mechatronics technical trainer",
+"example": "Mechatronics Technical Trainer, MHE, OneMHS",
+"family": "field",
+"companies": [
+"Amazon"
+],
+"n": 1,
+"first": "2026-11-22",
+"url": "https://www.amazon.jobs/en/jobs/10610879/mechatronics-technical-trainer-mhe-onemhs"
+},
+{
+"norm": "relay account support specialist",
+"example": "Relay Account Support Specialist, Relay Account Support, Relay Account Services",
+"family": "gtm",
+"companies": [
+"Amazon"
+],
+"n": 1,
+"first": "2026-11-22",
+"url": "https://www.amazon.jobs/en/jobs/10610916/relay-account-support-specialist-relay-account-support-relay-account-services"
+},
+{
+"norm": "briefing program manager",
+"example": "Briefing Program Manager, AWS Executive Briefing Center",
+"family": "product",
+"companies": [
+"Amazon"
+],
+"n": 1,
+"first": "2026-11-22",
+"url": "https://www.amazon.jobs/en/jobs/10584198/briefing-program-manager-aws-executive-briefing-center"
+},
+{
+"norm": "export account manager",
+"example": "Export Account Manager, gReach Program",
+"family": "gtm",
+"companies": [
+"Google"
+],
+"n": 1,
+"first": "2026-11-22",
+"url": "https://www.google.com/about/careers/applications/jobs/results/98395609425158854"
+},
+{
+"norm": "copyright counsel",
+"example": "Copyright Counsel, Legal",
+"family": "ops_corp",
+"companies": [
+"Google"
+],
+"n": 1,
+"first": "2026-11-22",
+"url": "https://www.google.com/about/careers/applications/jobs/results/126767008036332230"
+},
+{
+"norm": "export program manager",
+"example": "Export Program Manager, gReach Program",
+"family": "product",
+"companies": [
+"Google"
+],
+"n": 1,
+"first": "2026-11-22",
+"url": "https://www.google.com/about/careers/applications/jobs/results/112072232559092422"
+},
+{
+"norm": "product marketing manager programmatic ads",
+"example": "Product Marketing Sr. Manager (UCAN) Programmatic Ads",
+"family": "gtm",
+"companies": [
+"Netflix"
+],
+"n": 1,
+"first": "2026-11-22",
+"url": "https://explore.jobs.netflix.net/careers/job/790318993870"
+},
+{
+"norm": "product marketing manager media effectiveness",
+"example": "Product Marketing Manager (UCAN) Media Effectiveness",
+"family": "gtm",
+"companies": [
+"Netflix"
+],
+"n": 1,
+"first": "2026-11-22",
+"url": "https://explore.jobs.netflix.net/careers/job/790318993874"
+},
+{
+"norm": "global gtm strategy",
+"example": "Global GTM Strategy Lead (Starlink)",
+"family": "gtm",
+"companies": [
+"SpaceX"
+],
+"n": 1,
+"first": "2026-11-22",
+"url": "https://boards.greenhouse.io/spacex/jobs/8957456002?gh_jid=8957456002"
+},
+{
+"norm": "maintenance & reliability engineer",
+"example": "Maintenance & Reliability Engineer",
+"family": "infra",
+"companies": [
+"SpaceX"
+],
+"n": 1,
+"first": "2026-11-22",
+"url": "https://boards.greenhouse.io/spacex/jobs/8950837002?gh_jid=8950837002"
+},
+{
+"norm": "security operations analyst",
+"example": "Security Operations Analyst",
+"family": "security",
+"companies": [
+"SpaceX"
+],
+"n": 1,
+"first": "2026-11-22",
+"url": "https://boards.greenhouse.io/spacex/jobs/8955902002?gh_jid=8955902002"
+},
+{
+"norm": "spmt operator",
+"example": "SPMT Operator - Transport (Starship)",
+"family": "field",
+"companies": [
+"SpaceX"
+],
+"n": 1,
+"first": "2026-11-22",
+"url": "https://boards.greenhouse.io/spacex/jobs/8952875002?gh_jid=8952875002"
+},
+{
+"norm": "advanced manufacturing technology",
+"example": "Advanced Manufacturing Technology Lead",
+"family": "other",
+"companies": [
+"OpenAI"
+],
+"n": 1,
+"first": "2026-11-22",
+"url": "https://jobs.ashbyhq.com/openai/30a1d941-f12c-4589-a7a0-dad116b9aa33"
+},
+{
+"norm": "lauch producer",
+"example": "Lauch Producer, Business Marketing",
+"family": "gtm",
+"companies": [
+"OpenAI"
+],
+"n": 1,
+"first": "2026-11-22",
+"url": "https://jobs.ashbyhq.com/openai/5ebe5049-19e5-469e-a7bd-d8e34524220c"
+},
+{
+"norm": "gtm operations & agentic workflows",
+"example": "GTM Operations & Agentic Workflows",
+"family": "gtm",
+"companies": [
+"OpenAI"
+],
+"n": 1,
+"first": "2026-11-22",
+"url": "https://jobs.ashbyhq.com/openai/970e547c-5eda-4ab3-8a4d-c080a18eb4ac"
+},
+{
+"norm": "treasury",
+"example": "Treasury, Trade Finance & Cash Flow Forecasting",
+"family": "ops_corp",
+"companies": [
+"OpenAI"
+],
+"n": 1,
+"first": "2026-11-22",
+"url": "https://jobs.ashbyhq.com/openai/f26bd8f0-5440-46bd-b6c0-8b7465f8e6dc"
+},
+{
+"norm": "gtm strategy & operations business partner",
+"example": "GTM Strategy & Operations Business Partner",
+"family": "gtm",
+"companies": [
+"Anthropic"
+],
+"n": 1,
+"first": "2026-11-22",
+"url": "https://job-boards.greenhouse.io/anthropic/jobs/5485591008"
+},
+{
+"norm": "director & agc",
+"example": "Director & AGC, U.S. Public Sector",
+"family": "other",
+"companies": [
+"Scale AI"
+],
+"n": 1,
+"first": "2026-11-22",
+"url": "https://job-boards.greenhouse.io/scaleai/jobs/4757137005"
+},
+{
+"norm": "industry executive",
+"example": "Industry Executive, Intel Community (AI Transformation)",
+"family": "gtm",
+"companies": [
+"Databricks"
+],
+"n": 1,
+"first": "2026-11-22",
+"url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8948986002"
+},
+{
+"norm": "early in career recruiter",
+"example": "Early in Career Recruiter | APAC & EMEA",
+"family": "people",
+"companies": [
+"ServiceNow"
+],
+"n": 1,
+"first": "2026-11-22",
+"url": "https://jobs.smartrecruiters.com/ServiceNow/744000162954769"
+},
+{
+"norm": "employee relations rep",
+"example": "Sr Employee Relations Rep",
+"family": "other",
+"companies": [
+"ServiceNow"
+],
+"n": 1,
+"first": "2026-11-22",
+"url": "https://jobs.smartrecruiters.com/ServiceNow/744000162953489"
+},
+{
+"norm": "assoc software engineer",
+"example": "Assoc Software Engineer",
+"family": "swe",
+"companies": [
+"ServiceNow"
+],
+"n": 1,
+"first": "2026-11-22",
+"url": "https://jobs.smartrecruiters.com/ServiceNow/744000162837679"
+},
+{
+"norm": "crm sales acceleration",
+"example": "CRM Sales Acceleration",
+"family": "gtm",
+"companies": [
+"ServiceNow"
+],
+"n": 1,
+"first": "2026-11-22",
+"url": "https://jobs.smartrecruiters.com/ServiceNow/744000162831870"
+},
+{
+"norm": "core",
+"example": "Core, CRM NCP Lead",
+"family": "other",
+"companies": [
+"ServiceNow"
+],
+"n": 1,
+"first": "2026-11-22",
+"url": "https://jobs.smartrecruiters.com/ServiceNow/744000162831659"
+},
+{
+"norm": "crm gtm ai tools acceleration",
+"example": "CRM GTM AI Tools Acceleration",
+"family": "gtm",
+"companies": [
+"ServiceNow"
+],
+"n": 1,
+"first": "2026-11-22",
+"url": "https://jobs.smartrecruiters.com/ServiceNow/744000162831474"
+},
+{
+"norm": "program management specialist",
+"example": "Program Management Specialist – CRM Success Engineering and Solution Consulting",
+"family": "swe",
+"companies": [
+"ServiceNow"
+],
+"n": 1,
+"first": "2026-11-22",
+"url": "https://jobs.smartrecruiters.com/ServiceNow/744000162825230"
+},
+{
+"norm": "financial services client director",
+"example": "Financial Services Client Director",
+"family": "ops_corp",
+"companies": [
+"ServiceNow"
+],
+"n": 1,
+"first": "2026-11-22",
+"url": "https://jobs.smartrecruiters.com/ServiceNow/744000162822140"
+},
+{
+"norm": "copy of sales recruiter",
+"example": "Copy of Sales Recruiter",
+"family": "people",
+"companies": [
+"ServiceNow"
+],
+"n": 1,
+"first": "2026-11-22",
+"url": "https://jobs.smartrecruiters.com/ServiceNow/744000162809807"
+},
+{
+"norm": "manager sales crm gtm",
+"example": "Sr Manager Sales CRM GTM",
+"family": "gtm",
+"companies": [
+"ServiceNow"
+],
+"n": 1,
+"first": "2026-11-22",
+"url": "https://jobs.smartrecruiters.com/ServiceNow/744000162810120"
+},
+{
+"norm": "advisory solution consultant employee experience & ai solution",
+"example": "Advisory Solution Consultant-Employee Experience & AI Solution",
+"family": "gtm",
+"companies": [
+"ServiceNow"
+],
+"n": 1,
+"first": "2026-11-22",
+"url": "https://jobs.smartrecruiters.com/ServiceNow/744000162776089"
+},
+{
+"norm": "partnerships enablement",
+"example": "Partnerships Enablement Intern",
+"family": "gtm",
+"companies": [
+"Airbnb"
+],
+"n": 1,
+"first": "2026-11-22",
+"url": "https://careers.airbnb.com/positions/8406333?gh_jid=8406333"
+},
+{
+"norm": "quality assurance & standards manager",
+"example": "Quality Assurance & Standards Manager",
+"family": "other",
+"companies": [
+"Airbnb"
+],
+"n": 1,
+"first": "2026-11-22",
+"url": "https://careers.airbnb.com/positions/8259224?gh_jid=8259224"
+},
+{
+"norm": "data software engineer",
+"example": "Senior Data Software Engineer",
+"family": "data",
+"companies": [
+"Airbnb"
+],
+"n": 1,
+"first": "2026-11-22",
+"url": "https://careers.airbnb.com/positions/8300926?gh_jid=8300926"
+},
+{
 "norm": "data cloud sales specialist manager",
 "example": "Data Cloud Sales Specialist Manager III, Power and Energy, Google Cloud",
 "family": "gtm",
@@ -13799,737 +15193,29 @@
 "n": 1,
 "first": "2026-11-15",
 "url": "https://www.amazon.jobs/en/jobs/10597497/workplace-health-safety-whs-specialist-whs-field"
-},
-{
-"norm": "youtube partner operations manager",
-"example": "YouTube Partner Operations Manager (English, Spanish, French)",
-"family": "field",
-"companies": [
-"Google"
-],
-"n": 1,
-"first": "2026-11-15",
-"url": "https://www.google.com/about/careers/applications/jobs/results/84561862556820166"
-},
-{
-"norm": "recruiting researcher",
-"example": "Recruiting Researcher,  Executive Engagement, EMEA ( 12 months Maternity cover)",
-"family": "people",
-"companies": [
-"Netflix"
-],
-"n": 1,
-"first": "2026-11-15",
-"url": "https://explore.jobs.netflix.net/careers/job/790319065455"
-},
-{
-"norm": "innovation operations technical project manager",
-"example": "Innovation Operations Technical Project Manager",
-"family": "other",
-"companies": [
-"Netflix"
-],
-"n": 1,
-"first": "2026-11-15",
-"url": "https://explore.jobs.netflix.net/careers/job/790319070057"
-},
-{
-"norm": "technical director lighting",
-"example": "Technical Director Lighting - Netflix Animation Studios",
-"family": "other",
-"companies": [
-"Netflix"
-],
-"n": 1,
-"first": "2026-11-15",
-"url": "https://explore.jobs.netflix.net/careers/job/790315772885"
-},
-{
-"norm": "distributed systems engineer /",
-"example": "Distributed Systems Engineer 4/5 - Cloud Platform Infrastructure Engineering Tooling",
-"family": "infra",
-"companies": [
-"Netflix"
-],
-"n": 1,
-"first": "2026-11-15",
-"url": "https://explore.jobs.netflix.net/careers/job/790315756513"
-},
-{
-"norm": "director of revenue accounting",
-"example": "Director of Revenue Accounting",
-"family": "ops_corp",
-"companies": [
-"NVIDIA"
-],
-"n": 1,
-"first": "2026-11-15",
-"url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Director-of-Revenue-Accounting_JR2029312"
-},
-{
-"norm": "software solutions architect",
-"example": "Senior Software Solutions Architect, NVIS",
-"family": "gtm",
-"companies": [
-"NVIDIA"
-],
-"n": 1,
-"first": "2026-11-15",
-"url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Raanana/Senior-Software-Solutions-Architect--NVIS_JR2029973"
-},
-{
-"norm": "software tools development",
-"example": "Senior Software Tools Development",
-"family": "swe",
-"companies": [
-"NVIDIA"
-],
-"n": 1,
-"first": "2026-11-15",
-"url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-Software-Tools-Development_JR2029508"
-},
-{
-"norm": "thermal engineering program manager",
-"example": "Thermal Engineering Program Manager",
-"family": "product",
-"companies": [
-"NVIDIA"
-],
-"n": 1,
-"first": "2026-11-15",
-"url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Thermal-Engineering-Program-Manager_JR2029603"
-},
-{
-"norm": "packaging development engineer",
-"example": "Senior Packaging Development Engineer",
-"family": "swe",
-"companies": [
-"NVIDIA"
-],
-"n": 1,
-"first": "2026-11-15",
-"url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Packaging-Development-Engineer_JR2029536"
-},
-{
-"norm": "asic design efficiency engineer",
-"example": "Senior ASIC Design Efficiency Engineer",
-"family": "hardware",
-"companies": [
-"NVIDIA"
-],
-"n": 1,
-"first": "2026-11-15",
-"url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-ASIC-Design-Efficiency-Engineer_JR2029076"
-},
-{
-"norm": "test platform technical leader",
-"example": "Senior Test Platform Technical Leader, CPO",
-"family": "other",
-"companies": [
-"NVIDIA"
-],
-"n": 1,
-"first": "2026-11-15",
-"url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Test-Platform-Technical-Leader--CPO_JR2027946"
-},
-{
-"norm": "data foundations",
-"example": "Data Foundations, GTM Systems",
-"family": "gtm",
-"companies": [
-"Anthropic"
-],
-"n": 1,
-"first": "2026-11-15",
-"url": "https://job-boards.greenhouse.io/anthropic/jobs/5464234008"
-},
-{
-"norm": "platform & security sales specialist",
-"example": "Platform & Security Sales Specialist",
-"family": "gtm",
-"companies": [
-"Salesforce"
-],
-"n": 1,
-"first": "2026-11-15",
-"url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Mexico---Mexico-City/Platform---Security-Sales-Specialist_JR367446"
-},
-{
-"norm": "marketing data science analytics",
-"example": "Marketing Data Science Analytics Lead",
-"family": "gtm",
-"companies": [
-"eBay"
-],
-"n": 1,
-"first": "2026-11-15",
-"url": "https://ebay.wd5.myworkdayjobs.com/en-US/apply/job/San-Jose/CRM-Analytics-Manager_R0075057"
-},
-{
-"norm": "client portfolio & ecosystem",
-"example": "Client Portfolio & Ecosystem Lead",
-"family": "other",
-"companies": [
-"eBay"
-],
-"n": 1,
-"first": "2026-11-15",
-"url": "https://ebay.wd5.myworkdayjobs.com/en-US/apply/job/Milano/Client-Portfolio---Ecosystem-Lead_R0077356"
-},
-{
-"norm": "pmo manager",
-"example": "PMO Manager - Finance & Accounting",
-"family": "ops_corp",
-"companies": [
-"eBay"
-],
-"n": 1,
-"first": "2026-11-15",
-"url": "https://ebay.wd5.myworkdayjobs.com/en-US/apply/job/Bengaluru-India/PMO-Manager---Finance---Accounting_R0077470"
-},
-{
-"norm": "p2p analyst",
-"example": "P2P Analyst",
-"family": "data",
-"companies": [
-"eBay"
-],
-"n": 1,
-"first": "2026-11-15",
-"url": "https://ebay.wd5.myworkdayjobs.com/en-US/apply/job/Bengaluru-India/P2P-Analyst_R0077415"
-},
-{
-"norm": "billing analyst",
-"example": "Billing Analyst",
-"family": "data",
-"companies": [
-"eBay"
-],
-"n": 1,
-"first": "2026-11-15",
-"url": "https://ebay.wd5.myworkdayjobs.com/en-US/apply/job/Bengaluru-India/Billing-Analyst_R0077487"
-},
-{
-"norm": "t&e operations analyst",
-"example": "T&E Operations Analyst",
-"family": "data",
-"companies": [
-"eBay"
-],
-"n": 1,
-"first": "2026-11-15",
-"url": "https://ebay.wd5.myworkdayjobs.com/en-US/apply/job/Bengaluru-India/T-E-Operations-Analyst_R0077411"
-},
-{
-"norm": "gl accounting manager",
-"example": "GL Accounting Manager",
-"family": "ops_corp",
-"companies": [
-"eBay"
-],
-"n": 1,
-"first": "2026-11-15",
-"url": "https://ebay.wd5.myworkdayjobs.com/en-US/apply/job/Bengaluru-India/GL-Accounting-Manager_R0077489"
-},
-{
-"norm": "indirect tax compliance accounting mgr",
-"example": "Indirect Tax Compliance Accounting Mgr",
-"family": "ops_corp",
-"companies": [
-"eBay"
-],
-"n": 1,
-"first": "2026-11-15",
-"url": "https://ebay.wd5.myworkdayjobs.com/en-US/apply/job/Bengaluru-India/Indirect-Tax-Compliance-Accounting-Mgr_R0077384"
-},
-{
-"norm": "indirect tax accountant",
-"example": "Indirect Tax Accountant",
-"family": "ops_corp",
-"companies": [
-"eBay"
-],
-"n": 1,
-"first": "2026-11-15",
-"url": "https://ebay.wd5.myworkdayjobs.com/en-US/apply/job/Bengaluru-India/Indirect-Tax-Accountant_R0077401"
-},
-{
-"norm": "indirect tax accounting supervisor",
-"example": "Indirect Tax Accounting Supervisor",
-"family": "ops_corp",
-"companies": [
-"eBay"
-],
-"n": 1,
-"first": "2026-11-15",
-"url": "https://ebay.wd5.myworkdayjobs.com/en-US/apply/job/Bengaluru-India/Indirect-Tax-Accounting-Supervisor_R0077398"
-},
-{
-"norm": "accounting supervisor",
-"example": "Accounting Supervisor",
-"family": "ops_corp",
-"companies": [
-"eBay"
-],
-"n": 1,
-"first": "2026-11-15",
-"url": "https://ebay.wd5.myworkdayjobs.com/en-US/apply/job/Bengaluru-India/Accounting-Supervisor_R0077438"
-},
-{
-"norm": "drone avionics electrical engineer",
-"example": "Drone Avionics Electrical Engineer, Prime Air",
-"family": "hardware",
-"companies": [
-"Amazon"
-],
-"n": 2,
-"first": "2026-11-14",
-"url": "https://www.amazon.jobs/en/jobs/10605115/drone-avionics-electrical-engineer-prime-air"
-},
-{
-"norm": "aws account manager",
-"example": "AWS Account Manager, AGS",
-"family": "gtm",
-"companies": [
-"Amazon"
-],
-"n": 2,
-"first": "2026-11-14",
-"url": "https://www.amazon.jobs/en/jobs/10604187/aws-account-manager-ags"
-},
-{
-"norm": "constructability engineer",
-"example": "Senior Constructability Engineer, Data Center Design Engineering",
-"family": "data",
-"companies": [
-"Amazon"
-],
-"n": 2,
-"first": "2026-11-14",
-"url": "https://www.amazon.jobs/en/jobs/10605138/senior-constructability-engineer-data-center-design-engineering"
-},
-{
-"norm": "data center regional security manager",
-"example": "Data Center Regional Security Manager, North America East (English)",
-"family": "security",
-"companies": [
-"Google"
-],
-"n": 2,
-"first": "2026-11-14",
-"url": "https://www.google.com/about/careers/applications/jobs/results/130577158618653382"
-},
-{
-"norm": "regional client partner",
-"example": "Regional Client Partner, Ads Solutions",
-"family": "other",
-"companies": [
-"OpenAI"
-],
-"n": 2,
-"first": "2026-11-14",
-"url": "https://jobs.ashbyhq.com/openai/b1d19dac-065d-42d3-9f2c-97cc3fe73cdf"
-},
-{
-"norm": "software reliability engineer",
-"example": "Lead Software Reliability Engineer, Defence",
-"family": "infra",
-"companies": [
-"Grab"
-],
-"n": 2,
-"first": "2026-11-14",
-"url": "https://jobs.smartrecruiters.com/Grab/744000161453364"
-},
-{
-"norm": "aerospace hardware reliability engineer",
-"example": "Sr. Aerospace Hardware Reliability Engineer, Prime Air",
-"family": "hardware",
-"companies": [
-"Amazon"
-],
-"n": 1,
-"first": "2026-11-14",
-"url": "https://www.amazon.jobs/en/jobs/10605146/sr-aerospace-hardware-reliability-engineer-prime-air"
-},
-{
-"norm": "hw regulatory compliance engineer",
-"example": "Sr. HW Regulatory Compliance Engineer",
-"family": "swe",
-"companies": [
-"Amazon"
-],
-"n": 1,
-"first": "2026-11-14",
-"url": "https://www.amazon.jobs/en/jobs/10605000/sr-hw-regulatory-compliance-engineer"
-},
-{
-"norm": "data center logistics tech",
-"example": "Data Center Logistics Tech",
-"family": "field",
-"companies": [
-"Amazon"
-],
-"n": 1,
-"first": "2026-11-14",
-"url": "https://www.amazon.jobs/en/jobs/10604965/data-center-logistics-tech"
-},
-{
-"norm": "construction program manager",
-"example": "Sr. Construction Program Manager, Worldwide Grocery Stores - Growth & Development",
-"family": "product",
-"companies": [
-"Amazon"
-],
-"n": 1,
-"first": "2026-11-14",
-"url": "https://www.amazon.jobs/en/jobs/10604906/sr-construction-program-manager-worldwide-grocery-stores-growth-development"
-},
-{
-"norm": "optical systems liaison engineer",
-"example": "Optical Systems Liaison Engineer, Optical Inter-Satellite Link",
-"family": "hardware",
-"companies": [
-"Amazon"
-],
-"n": 1,
-"first": "2026-11-14",
-"url": "https://www.amazon.jobs/en/jobs/10604911/optical-systems-liaison-engineer-optical-inter-satellite-link"
-},
-{
-"norm": "satellite terminal system engineer",
-"example": "Satellite Terminal System Engineer, Customer Terminal",
-"family": "swe",
-"companies": [
-"Amazon"
-],
-"n": 1,
-"first": "2026-11-14",
-"url": "https://www.amazon.jobs/en/jobs/10604961/satellite-terminal-system-engineer-customer-terminal"
-},
-{
-"norm": "cluster data center manager",
-"example": "Senior Cluster Data Center Manager",
-"family": "data",
-"companies": [
-"Amazon"
-],
-"n": 1,
-"first": "2026-11-14",
-"url": "https://www.amazon.jobs/en/jobs/10604745/senior-cluster-data-center-manager"
-},
-{
-"norm": "superviseur/euse des op rations",
-"example": "Superviseur/euse des Opérations (H/F/X)",
-"family": "other",
-"companies": [
-"Amazon"
-],
-"n": 1,
-"first": "2026-11-14",
-"url": "https://www.amazon.jobs/en/jobs/10604117/superviseur-euse-des-operations-h-f-x"
-},
-{
-"norm": "abteilungsleiter instandhaltung",
-"example": "Abteilungsleiter Instandhaltung, RME",
-"family": "other",
-"companies": [
-"Amazon"
-],
-"n": 1,
-"first": "2026-11-14",
-"url": "https://www.amazon.jobs/en/jobs/10603997/abteilungsleiter-instandhaltung-rme"
-},
-{
-"norm": "drone test and simulation hardware development engineer",
-"example": "Drone Test and Simulation Hardware Development Engineer, Prime Air",
-"family": "hardware",
-"companies": [
-"Amazon"
-],
-"n": 1,
-"first": "2026-11-14",
-"url": "https://www.amazon.jobs/en/jobs/10603988/drone-test-and-simulation-hardware-development-engineer-prime-air"
-},
-{
-"norm": "electric propulsion systems",
-"example": "Electric Propulsion Systems, Hardware Manager, Prime Air",
-"family": "hardware",
-"companies": [
-"Amazon"
-],
-"n": 1,
-"first": "2026-11-14",
-"url": "https://www.amazon.jobs/en/jobs/10603983/electric-propulsion-systems-hardware-manager-prime-air"
-},
-{
-"norm": "ai seller experience manager",
-"example": "AI Seller Experience Manager, Seller Compliance",
-"family": "gtm",
-"companies": [
-"Amazon"
-],
-"n": 1,
-"first": "2026-11-14",
-"url": "https://www.amazon.jobs/en/jobs/10603986/ai-seller-experience-manager-seller-compliance"
-},
-{
-"norm": "transformation delivery manager",
-"example": "Transformation Delivery Senior Manager, Accounting Transformation Group",
-"family": "ops_corp",
-"companies": [
-"Amazon"
-],
-"n": 1,
-"first": "2026-11-14",
-"url": "https://www.amazon.jobs/en/jobs/10604651/transformation-delivery-senior-manager-accounting-transformation-group"
-},
-{
-"norm": "process improvement executor",
-"example": "Process Improvement Executor, Sort Center",
-"family": "other",
-"companies": [
-"Amazon"
-],
-"n": 1,
-"first": "2026-11-14",
-"url": "https://www.amazon.jobs/en/jobs/10603953/process-improvement-executor-sort-center"
-},
-{
-"norm": "asic characterization engineer",
-"example": "ASIC Characterization Engineer, Silicon",
-"family": "hardware",
-"companies": [
-"Amazon"
-],
-"n": 1,
-"first": "2026-11-14",
-"url": "https://www.amazon.jobs/en/jobs/10604687/asic-characterization-engineer-silicon"
-},
-{
-"norm": "robotics software development engineer",
-"example": "Robotics Software Development Engineer, Fauna",
-"family": "swe",
-"companies": [
-"Amazon"
-],
-"n": 1,
-"first": "2026-11-14",
-"url": "https://www.amazon.jobs/en/jobs/10603921/robotics-software-development-engineer-fauna"
-},
-{
-"norm": "mechatronics tech",
-"example": "Sr Mechatronics Tech (SMRT) - Rapid Response Team, OMHS Field Technical Support",
-"family": "field",
-"companies": [
-"Amazon"
-],
-"n": 1,
-"first": "2026-11-14",
-"url": "https://www.amazon.jobs/en/jobs/10604879/sr-mechatronics-tech-smrt-rapid-response-team-omhs-field-technical-support"
-},
-{
-"norm": "asic product engineer",
-"example": "ASIC Product Engineer, Silicon",
-"family": "hardware",
-"companies": [
-"Amazon"
-],
-"n": 1,
-"first": "2026-11-14",
-"url": "https://www.amazon.jobs/en/jobs/10604679/asic-product-engineer-silicon"
-},
-{
-"norm": "energy strategy",
-"example": "Energy Strategy - Carbon Free Energy Procurement",
-"family": "ops_corp",
-"companies": [
-"Amazon"
-],
-"n": 1,
-"first": "2026-11-14",
-"url": "https://www.amazon.jobs/en/jobs/10603816/energy-strategy-carbon-free-energy-procurement"
-},
-{
-"norm": "business process specialist",
-"example": "Senior Business Process Specialist, GDSP Scaling & Mechanisms, AWS",
-"family": "other",
-"companies": [
-"Amazon"
-],
-"n": 1,
-"first": "2026-11-14",
-"url": "https://www.amazon.jobs/en/jobs/10605051/senior-business-process-specialist-gdsp-scaling-mechanisms-aws"
-},
-{
-"norm": "elektroniker / elektriker / mechatroniker",
-"example": "Elektroniker / Elektriker / Mechatroniker (m/w/d), RME",
-"family": "other",
-"companies": [
-"Amazon"
-],
-"n": 1,
-"first": "2026-11-14",
-"url": "https://www.amazon.jobs/en/jobs/10604092/elektroniker-elektriker-mechatroniker-m-w-d-rme"
-},
-{
-"norm": "isv emea sales ops manager",
-"example": "ISV EMEA Sales Ops Manager, Global Sales operations (GSO), Global Sales operations (GSO)",
-"family": "gtm",
-"companies": [
-"Amazon"
-],
-"n": 1,
-"first": "2026-11-14",
-"url": "https://www.amazon.jobs/en/jobs/10604077/isv-emea-sales-ops-manager-global-sales-operations-gso-global-sales-operations-gso"
-},
-{
-"norm": "responsable de secteur",
-"example": "Responsable de secteur, Opérations (H/F),  Amazon Fulfillment Center",
-"family": "field",
-"companies": [
-"Amazon"
-],
-"n": 1,
-"first": "2026-11-14",
-"url": "https://www.amazon.jobs/en/jobs/10604289/responsable-de-secteur-operations-h-f-amazon-fulfillment-center"
-},
-{
-"norm": "pricing strategy manager",
-"example": "Pricing Strategy Manager, MEATR DSP",
-"family": "ops_corp",
-"companies": [
-"Amazon"
-],
-"n": 1,
-"first": "2026-11-14",
-"url": "https://www.amazon.jobs/en/jobs/10605091/pricing-strategy-manager-meatr-dsp"
-},
-{
-"norm": "finance transformation analyst",
-"example": "Finance Transformation Analyst, Accounting Transformation Group",
-"family": "ops_corp",
-"companies": [
-"Amazon"
-],
-"n": 1,
-"first": "2026-11-14",
-"url": "https://www.amazon.jobs/en/jobs/10604655/finance-transformation-analyst-accounting-transformation-group"
-},
-{
-"norm": "compliance engineer",
-"example": "Sr. Compliance Engineer, EMC, AWS Product Compliance Engineering",
-"family": "swe",
-"companies": [
-"Amazon"
-],
-"n": 1,
-"first": "2026-11-14",
-"url": "https://www.amazon.jobs/en/jobs/10604836/sr-compliance-engineer-emc-aws-product-compliance-engineering"
-},
-{
-"norm": "pr specialist",
-"example": "PR Specialist III – AMZ003943",
-"family": "other",
-"companies": [
-"Amazon"
-],
-"n": 1,
-"first": "2026-11-14",
-"url": "https://www.amazon.jobs/en/jobs/10604120/pr-specialist-iii-amz003943"
-},
-{
-"norm": "ww field activation",
-"example": "Sr. WW Field Activation Lead, Applied AI Solutions GTM",
-"family": "gtm",
-"companies": [
-"Amazon"
-],
-"n": 1,
-"first": "2026-11-14",
-"url": "https://www.amazon.jobs/en/jobs/10603486/sr-ww-field-activation-lead-applied-ai-solutions-gtm"
-},
-{
-"norm": "ai enablement & operations specialist",
-"example": "AI Enablement & Operations Specialist, Amazon Shipping",
-"family": "field",
-"companies": [
-"Amazon"
-],
-"n": 1,
-"first": "2026-11-14",
-"url": "https://www.amazon.jobs/en/jobs/10604704/ai-enablement-operations-specialist-amazon-shipping"
-},
-{
-"norm": "global program manager",
-"example": "Global Program Manager, Kindle+ Content , WW Selection, Kindle+",
-"family": "product",
-"companies": [
-"Amazon"
-],
-"n": 1,
-"first": "2026-11-14",
-"url": "https://www.amazon.jobs/en/jobs/10604989/global-program-manager-kindle-content-ww-selection-kindle"
-},
-{
-"norm": "finance manager amxl",
-"example": "Finance Manager AMXL - Middle Mile & 3P Finance, Middle Mile & 3P Carrier Strategy Finance",
-"family": "ops_corp",
-"companies": [
-"Amazon"
-],
-"n": 1,
-"first": "2026-11-14",
-"url": "https://www.amazon.jobs/en/jobs/10604749/finance-manager-amxl-middle-mile-3p-finance-middle-mile-3p-carrier-strategy-finance"
-},
-{
-"norm": "energy ops manager",
-"example": "Energy Ops Manager - APJC, Energy Portfolio Operations",
-"family": "other",
-"companies": [
-"Amazon"
-],
-"n": 1,
-"first": "2026-11-14",
-"url": "https://www.amazon.jobs/en/jobs/10605056/energy-ops-manager-apjc-energy-portfolio-operations"
-},
-{
-"norm": "event systems engineer",
-"example": "Event Systems Engineer, Event Productions (EP)",
-"family": "infra",
-"companies": [
-"Amazon"
-],
-"n": 1,
-"first": "2026-11-14",
-"url": "https://www.amazon.jobs/en/jobs/10605005/event-systems-engineer-event-productions-ep"
-},
-{
-"norm": "content policy counsel",
-"example": "Content Policy Counsel",
-"family": "ops_corp",
-"companies": [
-"Amazon"
-],
-"n": 1,
-"first": "2026-11-14",
-"url": "https://www.amazon.jobs/en/jobs/10602741/content-policy-counsel"
-},
-{
-"norm": "mechanical install sme",
-"example": "Mechanical Install SME, One MHS",
-"family": "field",
-"companies": [
-"Amazon"
-],
-"n": 1,
-"first": "2026-11-14",
-"url": "https://www.amazon.jobs/en/jobs/10604197/mechanical-install-sme-one-mhs"
 }
 ],
 "gone_titles": [],
 "samples": {
 "fde": [
+{
+"t": "Network Deployment Engineer, Amazon Dedicated Cloud (NIDD)",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610384/network-deployment-engineer-amazon-dedicated-cloud-nidd",
+"d": "2026-11-20"
+},
+{
+"t": "Senior Forward Deployed Engineer, Forward Deployment Engineering",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10609076/senior-forward-deployed-engineer-forward-deployment-engineering",
+"d": "2026-11-20"
+},
+{
+"t": "Senior Forward Deployed Engineer, Forward Deployment Engineering",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10609078/senior-forward-deployed-engineer-forward-deployment-engineering",
+"d": "2026-11-20"
+},
 {
 "t": "Senior Forward Deployed Engineer, Sr Forward Deployment Engineering",
 "c": "Amazon",
@@ -14871,24 +15557,6 @@
 "c": "Amazon",
 "u": "https://www.amazon.jobs/en/jobs/10583532/senior-forward-deployed-engineer-sr-forward-deployment-engineering",
 "d": "2026-10-20"
-},
-{
-"t": "Forward Deployed Engineer (FDE), AWS Forward Deployed Engineering, US Government",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10583534/forward-deployed-engineer-fde-aws-forward-deployed-engineering-us-government",
-"d": "2026-10-20"
-},
-{
-"t": "Sr Forward Deployed Engineer, AWS Forward Deployed Engineering",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10582029/sr-forward-deployed-engineer-aws-forward-deployed-engineering",
-"d": "2026-10-17"
-},
-{
-"t": "Forward Deployed Engineer, Forward Deployment Engineering",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10582037/forward-deployed-engineer-forward-deployment-engineering",
-"d": "2026-10-17"
 }
 ],
 "people": [
@@ -14896,6 +15564,36 @@
 "t": "Principal, Healthcare Should-Cost, Amazon Health Benefits",
 "c": "Amazon",
 "u": "https://www.amazon.jobs/en/jobs/10610047/principal-healthcare-should-cost-amazon-health-benefits",
+"d": "2026-11-20"
+},
+{
+"t": "Sr. HR Business Partner , SSD-FC",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610442/sr-hr-business-partner-ssd-fc",
+"d": "2026-11-20"
+},
+{
+"t": "HR Business Partner , AMZL",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610439/hr-business-partner-amzl",
+"d": "2026-11-20"
+},
+{
+"t": "HR Business Partner , AMZL",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610437/hr-business-partner-amzl",
+"d": "2026-11-20"
+},
+{
+"t": "HR Business Partner , AMZL",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610447/hr-business-partner-amzl",
+"d": "2026-11-20"
+},
+{
+"t": "HR Partner, Human Resources, NACF",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610435/hr-partner-human-resources-nacf",
 "d": "2026-11-20"
 },
 {
@@ -14950,12 +15648,6 @@
 "t": "University Recruiting Manager, AUTA Specialized SDE Recruiting",
 "c": "Amazon",
 "u": "https://www.amazon.jobs/en/jobs/10609100/university-recruiting-manager-auta-specialized-sde-recruiting",
-"d": "2026-11-19"
-},
-{
-"t": "Sr Sourcing Recruiter",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10609489/sr-sourcing-recruiter",
 "d": "2026-11-19"
 },
 {
@@ -15227,33 +15919,45 @@
 "c": "Amazon",
 "u": "https://www.amazon.jobs/en/jobs/10600751/sr-hr-business-partner-sdf8-jeffersonville-in",
 "d": "2026-11-10"
-},
-{
-"t": "HR Business Partner, AMZL",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10600767/hr-business-partner-amzl",
-"d": "2026-11-10"
-},
-{
-"t": "HR Business Partner , AMZL",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10600768/hr-business-partner-amzl",
-"d": "2026-11-10"
-},
-{
-"t": "HR Partnerl Human Resource, North American Customer Fulfillment - Robotics",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10600779/hr-partnerl-human-resource-north-american-customer-fulfillment-robotics",
-"d": "2026-11-10"
-},
-{
-"t": "HR Business Partner, AMXL",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10600764/hr-business-partner-amxl",
-"d": "2026-11-10"
 }
 ],
 "product": [
+{
+"t": "Technical Infrastructure Program Manager, Corporate Network Engineering",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610910/technical-infrastructure-program-manager-corporate-network-engineering",
+"d": "2026-11-21"
+},
+{
+"t": "Principal Product Manager, Technical , AWS Healthcare AI",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610978/principal-product-manager-technical-aws-healthcare-ai",
+"d": "2026-11-21"
+},
+{
+"t": "Sr Product Manager Amazon Mx, Consumer Electronics",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610394/sr-product-manager-amazon-mx-consumer-electronics",
+"d": "2026-11-20"
+},
+{
+"t": "Senior Product Manager, Technical, Amazon Customer Service",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10609961/senior-product-manager-technical-amazon-customer-service",
+"d": "2026-11-20"
+},
+{
+"t": "Technical Program Manager, AWS Availability Product Team",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610553/technical-program-manager-aws-availability-product-team",
+"d": "2026-11-20"
+},
+{
+"t": "Senior Program Manager, Relay Trust",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610621/senior-program-manager-relay-trust",
+"d": "2026-11-20"
+},
 {
 "t": "Sr. Security TPM, Amazon Foundational Security Services",
 "c": "Amazon",
@@ -15273,9 +15977,45 @@
 "d": "2026-11-20"
 },
 {
+"t": "Tech Infra Program Manager II",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610322/tech-infra-program-manager-ii",
+"d": "2026-11-20"
+},
+{
+"t": "Sr. Program Manager,  Amazon's Classification & Policy Platform within Selection and Catalog Systems",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610315/sr-program-manager-amazon-s-classification-policy-platform-within-selection-and-catalog-systems",
+"d": "2026-11-20"
+},
+{
+"t": "Technical Program Manager III, Amazon Fuse",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610715/technical-program-manager-iii-amazon-fuse",
+"d": "2026-11-20"
+},
+{
 "t": "Principal Technical Program Manager, Elastic Block Store",
 "c": "Amazon",
 "u": "https://www.amazon.jobs/en/jobs/10610052/principal-technical-program-manager-elastic-block-store",
+"d": "2026-11-20"
+},
+{
+"t": "Senior Technical Program Manager, Fauna",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610410/senior-technical-program-manager-fauna",
+"d": "2026-11-20"
+},
+{
+"t": "Senior Technical Program Manager, Fauna",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610411/senior-technical-program-manager-fauna",
+"d": "2026-11-20"
+},
+{
+"t": "Technical Program Manager - Business Risk",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10609332/technical-program-manager-business-risk",
 "d": "2026-11-20"
 },
 {
@@ -15285,9 +16025,39 @@
 "d": "2026-11-20"
 },
 {
+"t": "SC Program Manager , Global Field Operations Supply Chain",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10604706/sc-program-manager-global-field-operations-supply-chain",
+"d": "2026-11-20"
+},
+{
 "t": "Support Engineer, DVA+, Demand Enablement and Product Operations",
 "c": "Amazon",
 "u": "https://www.amazon.jobs/en/jobs/10610057/support-engineer-dva-demand-enablement-and-product-operations",
+"d": "2026-11-20"
+},
+{
+"t": "Program Manager, Land Development, AWS Data Center Real Estate (L5), AWS DC Supply Solutions, Land Development",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610520/program-manager-land-development-aws-data-center-real-estate-l5-aws-dc-supply-solutions-land-development",
+"d": "2026-11-20"
+},
+{
+"t": "Technical Program Manager III, AI Applied AI Solutions",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610812/technical-program-manager-iii-ai-applied-ai-solutions",
+"d": "2026-11-20"
+},
+{
+"t": "Sr. Program Manager, Middle Mile Fleet Management",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610855/sr-program-manager-middle-mile-fleet-management",
+"d": "2026-11-20"
+},
+{
+"t": "Sr. Mech Product Manager-Tech, DCE - Mechanical Products & Services (MPS)",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610699/sr-mech-product-manager-tech-dce-mechanical-products-services-mps",
 "d": "2026-11-20"
 },
 {
@@ -15511,111 +16281,15 @@
 "c": "Amazon",
 "u": "https://www.amazon.jobs/en/jobs/10608190/sr-program-manager-staff-inclusion-strategy-reliability-maintenance-engineering-rme",
 "d": "2026-11-18"
-},
-{
-"t": "Sr. Product Manager, Communities, SPC",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10608260/sr-product-manager-communities-spc",
-"d": "2026-11-18"
-},
-{
-"t": "Technical Program Manager III - AMZ10587217",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10607990/technical-program-manager-iii-amz10587217",
-"d": "2026-11-18"
-},
-{
-"t": "Long-Term Program Manager & Topology, Last Mile Expansion",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10607691/long-term-program-manager-topology-last-mile-expansion",
-"d": "2026-11-18"
-},
-{
-"t": "Principal Product Manager - Tech, PV Commerce & Int'l Product",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10607926/principal-product-manager-tech-pv-commerce-int-l-product",
-"d": "2026-11-18"
-},
-{
-"t": "Program Manager II, RME Staffing Strategy",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10608445/program-manager-ii-rme-staffing-strategy",
-"d": "2026-11-18"
-},
-{
-"t": "Sr. Product Manager, Amazon Canada, Amazon Canada Consumables",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10608834/sr-product-manager-amazon-canada-amazon-canada-consumables",
-"d": "2026-11-18"
-},
-{
-"t": "Program Manager, Amazon Leo - Trust, Privacy and Safety",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10608175/program-manager-amazon-leo-trust-privacy-and-safety",
-"d": "2026-11-18"
-},
-{
-"t": "Program Manager, SWA Claims",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10606871/program-manager-swa-claims",
-"d": "2026-11-18"
-},
-{
-"t": "Sr Technical Program Manager, Last Mile Transporter Experience, Last Mile Transporter Experience",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10607823/sr-technical-program-manager-last-mile-transporter-experience-last-mile-transporter-experience",
-"d": "2026-11-18"
-},
-{
-"t": "Principal Product Manager - Technical, Amazon Leo Trust, Privacy and Safety",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10608176/principal-product-manager-technical-amazon-leo-trust-privacy-and-safety",
-"d": "2026-11-18"
-},
-{
-"t": "Product Manager, Technical III, External Services, AWS Training and Certification",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10607749/product-manager-technical-iii-external-services-aws-training-and-certification",
-"d": "2026-11-18"
-},
-{
-"t": "Product Manager, Supply Chain, Supply Chain & VX Product Team",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10608252/product-manager-supply-chain-supply-chain-vx-product-team",
-"d": "2026-11-18"
-},
-{
-"t": "Sr. Technical Program Manager, FinAuto Payables Tech",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10608117/sr-technical-program-manager-finauto-payables-tech",
-"d": "2026-11-18"
-},
-{
-"t": "Principal Technical Program Manager, Sponsored Products and Brands",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10608051/principal-technical-program-manager-sponsored-products-and-brands",
-"d": "2026-11-18"
-},
-{
-"t": "Senior Program Manager, Amazon Flex Program Team",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10607882/senior-program-manager-amazon-flex-program-team",
-"d": "2026-11-18"
-},
-{
-"t": "Transportation Program Manager, Network Configuration, ECCF",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10607730/transportation-program-manager-network-configuration-eccf",
-"d": "2026-11-18"
-},
-{
-"t": "Sr. Program Manager, DSP Program Excellence, DSP, Japan",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10607687/sr-program-manager-dsp-program-excellence-dsp-japan",
-"d": "2026-11-18"
 }
 ],
 "design": [
+{
+"t": "Product Designer, AWS Search, Security, Observability, Governance",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610509/product-designer-aws-search-security-observability-governance",
+"d": "2026-11-20"
+},
 {
 "t": "Senior UX Designer, Design",
 "c": "Amazon",
@@ -15969,19 +16643,133 @@
 "c": "Amazon",
 "u": "https://www.amazon.jobs/en/jobs/10589309/senior-product-designer-kiro",
 "d": "2026-10-26"
-},
-{
-"t": "Visual Presentation Designer, Prime Video Experience Design",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10584991/visual-presentation-designer-prime-video-experience-design",
-"d": "2026-10-26"
 }
 ],
 "gtm": [
 {
-"t": "AWS Sr. HiTech Sales Leader, UCI HiTech Frontier Unit",
+"t": "Technical Account Manager, Enterprise Support - UKGI PS",
 "c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10610248/aws-sr-hitech-sales-leader-uci-hitech-frontier-unit",
+"u": "https://www.amazon.jobs/en/jobs/10605850/technical-account-manager-enterprise-support-ukgi-ps",
+"d": "2026-11-21"
+},
+{
+"t": "Partner Solutions Architect, Global Partner Tech",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610887/partner-solutions-architect-global-partner-tech",
+"d": "2026-11-21"
+},
+{
+"t": "Relay Account Support Specialist, Relay Account Support, Relay Account Services",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610916/relay-account-support-specialist-relay-account-support-relay-account-services",
+"d": "2026-11-21"
+},
+{
+"t": "Cloud Technical Account Manager, ES - NAMER - US-SMB",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610795/cloud-technical-account-manager-es-namer-us-smb",
+"d": "2026-11-20"
+},
+{
+"t": "Cloud Technical Account Manager, ES - NAMER - US-SMB",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610797/cloud-technical-account-manager-es-namer-us-smb",
+"d": "2026-11-20"
+},
+{
+"t": "Senior Customer Success Manager (Transformation Advisor), Independent Software Vendor (ISV)",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610749/senior-customer-success-manager-transformation-advisor-independent-software-vendor-isv",
+"d": "2026-11-20"
+},
+{
+"t": "Principal Tech Business Development, Academic Research Initiatives (ARI)",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610683/principal-tech-business-development-academic-research-initiatives-ari",
+"d": "2026-11-20"
+},
+{
+"t": "Senior Solutions Architect, Insurance, AWS Global Financial Sevices",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610558/senior-solutions-architect-insurance-aws-global-financial-sevices",
+"d": "2026-11-20"
+},
+{
+"t": "Sr. Seller Support Associate, SPSX",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610541/sr-seller-support-associate-spsx",
+"d": "2026-11-20"
+},
+{
+"t": "Seller Support Senior Associate - Portuguese",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610497/seller-support-senior-associate-portuguese",
+"d": "2026-11-20"
+},
+{
+"t": "Analista de Customer Service , Delivery Station Customer Support",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610366/analista-de-customer-service-delivery-station-customer-support",
+"d": "2026-11-20"
+},
+{
+"t": "Performance Marketing Manager, Amazon Leo, EU B2C",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610850/performance-marketing-manager-amazon-leo-eu-b2c",
+"d": "2026-11-20"
+},
+{
+"t": "Technical Account Manager (TAM), WWPS Partners Public Sector (GDMC)",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610455/technical-account-manager-tam-wwps-partners-public-sector-gdmc",
+"d": "2026-11-20"
+},
+{
+"t": "AWS Sr. Sales Leader, FSI, Fintech",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610728/aws-sr-sales-leader-fsi-fintech",
+"d": "2026-11-20"
+},
+{
+"t": "Senior Executive Assistant, AWS · Executive Assistant II, AWS, AWS Marketing",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610470/senior-executive-assistant-aws-executive-assistant-ii-aws-aws-marketing",
+"d": "2026-11-20"
+},
+{
+"t": "Principal Account Executive, Professional Services",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610580/principal-account-executive-professional-services",
+"d": "2026-11-20"
+},
+{
+"t": "Solutions Architect III - AMZ10593753",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610256/solutions-architect-iii-amz10593753",
+"d": "2026-11-20"
+},
+{
+"t": "Solutions Architect III - AMZ10593733",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610369/solutions-architect-iii-amz10593733",
+"d": "2026-11-20"
+},
+{
+"t": "Solutions Architect III - AMZ10587277",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610372/solutions-architect-iii-amz10587277",
+"d": "2026-11-20"
+},
+{
+"t": "Applied Scientist II, Sponsored Products and Brands - Advertiser Growth - Cross-border Seller Experience (CBSX)",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610662/applied-scientist-ii-sponsored-products-and-brands-advertiser-growth-cross-border-seller-experience-cbsx",
+"d": "2026-11-20"
+},
+{
+"t": "Principal Security Solution Architect, Security, Networking & Compliance Specialists",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610354/principal-security-solution-architect-security-networking-compliance-specialists",
 "d": "2026-11-20"
 },
 {
@@ -15994,6 +16782,24 @@
 "t": "Strategic Account Manager, Amazon Global Selling Korea, KR AGS - SAS-Pro",
 "c": "Amazon",
 "u": "https://www.amazon.jobs/en/jobs/10610023/strategic-account-manager-amazon-global-selling-korea-kr-ags-sas-pro",
+"d": "2026-11-20"
+},
+{
+"t": "Sr Enterprise Account Executive, AWS Not-for-Profit Financial Services",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610324/sr-enterprise-account-executive-aws-not-for-profit-financial-services",
+"d": "2026-11-20"
+},
+{
+"t": "IT Support Engineer I, OTS Support",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610704/it-support-engineer-i-ots-support",
+"d": "2026-11-20"
+},
+{
+"t": "EdTech Senior Account Manager, UK Education",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610360/edtech-senior-account-manager-uk-education",
 "d": "2026-11-20"
 },
 {
@@ -16027,6 +16833,18 @@
 "d": "2026-11-20"
 },
 {
+"t": "Aviation Account Manager, Transport, UKPS",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610364/aviation-account-manager-transport-ukps",
+"d": "2026-11-20"
+},
+{
+"t": "Sales Account Manager, Automotive",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610845/sales-account-manager-automotive",
+"d": "2026-11-20"
+},
+{
 "t": "AWSI Partner Sales, Auto & Manufacturing, AWSI Partner Sales",
 "c": "Amazon",
 "u": "https://www.amazon.jobs/en/jobs/10610204/awsi-partner-sales-auto-manufacturing-awsi-partner-sales",
@@ -16039,9 +16857,33 @@
 "d": "2026-11-20"
 },
 {
+"t": "Brand Specialist",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610318/brand-specialist",
+"d": "2026-11-20"
+},
+{
+"t": "Cloud Technical Account Manager, ES - SI - Media and Entertainment",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10603059/cloud-technical-account-manager-es-si-media-and-entertainment",
+"d": "2026-11-20"
+},
+{
 "t": "Sales Enablement, Brand Partnership Video Strategy and GTM",
 "c": "Amazon",
 "u": "https://www.amazon.jobs/en/jobs/10609974/sales-enablement-brand-partnership-video-strategy-and-gtm",
+"d": "2026-11-20"
+},
+{
+"t": "Senior Specialist Solutions Architect, Databases, Strategic Accounts Data Specialists",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610409/senior-specialist-solutions-architect-databases-strategic-accounts-data-specialists",
+"d": "2026-11-20"
+},
+{
+"t": "Senior Financial Analyst, Marketing Finance, Amazon Leo",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610645/senior-financial-analyst-marketing-finance-amazon-leo",
 "d": "2026-11-20"
 },
 {
@@ -16057,15 +16899,39 @@
 "d": "2026-11-20"
 },
 {
+"t": "Software Development Engineer III, Retail Ad Service",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10603473/software-development-engineer-iii-retail-ad-service",
+"d": "2026-11-20"
+},
+{
 "t": "Sr. Specialist, GenAI, Physical AI, WW GenAI GTM, Frontier Models",
 "c": "Amazon",
 "u": "https://www.amazon.jobs/en/jobs/10596085/sr-specialist-genai-physical-ai-ww-genai-gtm-frontier-models",
 "d": "2026-11-20"
 },
 {
+"t": "Devices & Services Finance Analyst, Devices Sales and Marketing Finance",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610632/devices-services-finance-analyst-devices-sales-and-marketing-finance",
+"d": "2026-11-20"
+},
+{
 "t": "Snr Solution Architect, UAE Enterprise",
 "c": "Amazon",
 "u": "https://www.amazon.jobs/en/jobs/10610141/snr-solution-architect-uae-enterprise",
+"d": "2026-11-20"
+},
+{
+"t": "Sr. Customer Success Manager, Amazon Publisher Cloud",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10607082/sr-customer-success-manager-amazon-publisher-cloud",
+"d": "2026-11-20"
+},
+{
+"t": "Solutions Manager, Brand Innovation Lab",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610554/solutions-manager-brand-innovation-lab",
 "d": "2026-11-20"
 },
 {
@@ -16139,253 +17005,55 @@
 "c": "Amazon",
 "u": "https://www.amazon.jobs/en/jobs/10608910/support-engineer-amazon-leo-enterprise-customer-support",
 "d": "2026-11-19"
-},
-{
-"t": "Executive Assistant I, AWS Sales, Marketing, and Global Services",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10609833/executive-assistant-i-aws-sales-marketing-and-global-services",
-"d": "2026-11-19"
-},
-{
-"t": "Sr. Solutions Architect, Joint DoD, Worldwide Public Sector, AWS",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10609343/sr-solutions-architect-joint-dod-worldwide-public-sector-aws",
-"d": "2026-11-19"
-},
-{
-"t": "Deployment Support Engineer I, , APAC OTS - Deployment (JP Team)",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10609428/deployment-support-engineer-i-apac-ots-deployment-jp-team",
-"d": "2026-11-19"
-},
-{
-"t": "Senior Financial Analyst, Ads Marketing",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10609849/senior-financial-analyst-ads-marketing",
-"d": "2026-11-19"
-},
-{
-"t": "Sr. Solutions Architect, SMB Solutions Architect",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10609093/sr-solutions-architect-smb-solutions-architect",
-"d": "2026-11-19"
-},
-{
-"t": "Cloud Technical Account Manager, ES - NAMER - US-SUP",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10607521/cloud-technical-account-manager-es-namer-us-sup",
-"d": "2026-11-19"
-},
-{
-"t": "Business Development Representative, Amazon Key",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10609052/business-development-representative-amazon-key",
-"d": "2026-11-19"
-},
-{
-"t": "Senior Technical Account Manager (FRANCE), Enterprise Support - EMEA-ISV",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10607924/senior-technical-account-manager-france-enterprise-support-emea-isv",
-"d": "2026-11-19"
-},
-{
-"t": "Retail Acount Manager",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10609648/retail-acount-manager",
-"d": "2026-11-19"
-},
-{
-"t": "Sr. Seller Support Associate , Selling Partner Support",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10609141/sr-seller-support-associate-selling-partner-support",
-"d": "2026-11-19"
-},
-{
-"t": "Community Engagement Manager, InCommunities, AWS",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10609387/community-engagement-manager-incommunities-aws",
-"d": "2026-11-19"
-},
-{
-"t": "Sr. Category Manager, Global Network Delivery",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10609496/sr-category-manager-global-network-delivery",
-"d": "2026-11-19"
-},
-{
-"t": "Sr Brand Mgr, Live Event Merch, Amazon Music Merch",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10609566/sr-brand-mgr-live-event-merch-amazon-music-merch",
-"d": "2026-11-19"
-},
-{
-"t": "Principal Product Search Marketing Manager, Search Marketing",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10609535/principal-product-search-marketing-manager-search-marketing",
-"d": "2026-11-19"
-},
-{
-"t": "Support Engineer, Veeqo, Veeqo",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10609499/support-engineer-veeqo-veeqo",
-"d": "2026-11-19"
-},
-{
-"t": "Account Manager I, Seller Delight & Growth",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10603442/account-manager-i-seller-delight-growth",
-"d": "2026-11-19"
-},
-{
-"t": "Software Development Engineer II, Sales Abuse Prevention",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10609444/software-development-engineer-ii-sales-abuse-prevention",
-"d": "2026-11-19"
-},
-{
-"t": "VRMO Seller Onboard Asc - ES,  In-Person Verification - VAR",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10609358/vrmo-seller-onboard-asc-es-in-person-verification-var",
-"d": "2026-11-19"
-},
-{
-"t": "University Relations Lead - Account Manager, AUTA University Relations Leads",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10609101/university-relations-lead-account-manager-auta-university-relations-leads",
-"d": "2026-11-19"
-},
-{
-"t": "Principal Business Development Manager, FSI DNB",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10609068/principal-business-development-manager-fsi-dnb",
-"d": "2026-11-19"
-},
-{
-"t": "Senior Solutions Architect, AI Transformation, Enterprise, Enterprise Solutions Architecture, Switzerland",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10607860/senior-solutions-architect-ai-transformation-enterprise-enterprise-solutions-architecture-switzerland",
-"d": "2026-11-19"
-},
-{
-"t": "Principal Applied Scientist, Agentic Outbound Communications Marketplace",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10609395/principal-applied-scientist-agentic-outbound-communications-marketplace",
-"d": "2026-11-19"
-},
-{
-"t": "Solutions Architect II - AMZ10587284",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10608519/solutions-architect-ii-amz10587284",
-"d": "2026-11-18"
-},
-{
-"t": "Sr. Business Development Manager, , Global Selling LatAm",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10608753/sr-business-development-manager-global-selling-latam",
-"d": "2026-11-18"
-},
-{
-"t": "Sr Solutions Architect, Media Enablement Team",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10608735/sr-solutions-architect-media-enablement-team",
-"d": "2026-11-18"
-},
-{
-"t": "Solutions Architect III - AMZ10563937",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10608285/solutions-architect-iii-amz10563937",
-"d": "2026-11-18"
-},
-{
-"t": "Sr. Account Manager, Frontier AI Startups",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10608063/sr-account-manager-frontier-ai-startups",
-"d": "2026-11-18"
-},
-{
-"t": "Technical Account Manager, WWPS-UKGI-PS",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10607925/technical-account-manager-wwps-ukgi-ps",
-"d": "2026-11-18"
-},
-{
-"t": "Senior Manager, Field Marketing, Amazon Business",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10608757/senior-manager-field-marketing-amazon-business",
-"d": "2026-11-18"
-},
-{
-"t": "Solutions Architect III - AMZ10038247",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10607994/solutions-architect-iii-amz10038247",
-"d": "2026-11-18"
-},
-{
-"t": "Solutions Architect III - AMZ10563973",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10608006/solutions-architect-iii-amz10563973",
-"d": "2026-11-18"
-},
-{
-"t": "Seller Support Associate - English & Arabic, Seller Partner Support",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10607890/seller-support-associate-english-arabic-seller-partner-support",
-"d": "2026-11-18"
-},
-{
-"t": "Senior Account Executive, Healthcare Providers East, Worldwide Public Sector, AWS",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10608144/senior-account-executive-healthcare-providers-east-worldwide-public-sector-aws",
-"d": "2026-11-18"
 }
 ],
 "ai_safety": [
 {
 "t": "Research Scientist, AI Safety and Alignment, DeepMind",
 "c": "Google",
-"u": "https://www.google.com/about/careers/applications/jobs/results/73105179028660934",
+"u": "https://www.google.com/about/careers/applications/jobs/results/100443076169736902",
 "d": ""
 },
 {
 "t": "Software Engineering Manager, Eval Infra, Quality Platform, Gemini Cloud Operator, Agentic AI",
 "c": "Google",
-"u": "https://www.google.com/about/careers/applications/jobs/results/106088260119208646",
+"u": "https://www.google.com/about/careers/applications/jobs/results/126361964703032006",
 "d": ""
 },
 {
 "t": "Research Scientist, AI Safety and Security",
 "c": "Google",
-"u": "https://www.google.com/about/careers/applications/jobs/results/136316541401473734",
+"u": "https://www.google.com/about/careers/applications/jobs/results/100971067236852422",
 "d": ""
 },
 {
 "t": "Research Scientist, Mechanistic Interpretability, DeepMind",
 "c": "Google",
-"u": "https://www.google.com/about/careers/applications/jobs/results/90944788206887622",
+"u": "https://www.google.com/about/careers/applications/jobs/results/74664856405320390",
 "d": ""
 },
 {
 "t": "Senior Security Engineer, Agentic Red Team, DeepMind",
 "c": "Google",
-"u": "https://www.google.com/about/careers/applications/jobs/results/94215682022875846",
+"u": "https://www.google.com/about/careers/applications/jobs/results/88800517194425030",
 "d": ""
 },
 {
 "t": "Associate Principal Launch Governance Analyst, Frontier Safety",
 "c": "Google",
-"u": "https://www.google.com/about/careers/applications/jobs/results/103984704054534854",
+"u": "https://www.google.com/about/careers/applications/jobs/results/135354141504348870",
 "d": ""
 },
 {
 "t": "Research Engineer, Chemical, Biological and Nuclear AI Safety, DeepMind",
 "c": "Google",
-"u": "https://www.google.com/about/careers/applications/jobs/results/128763021072704198",
+"u": "https://www.google.com/about/careers/applications/jobs/results/78261831386178246",
 "d": ""
 },
 {
 "t": "Security Engineer, Red Team",
 "c": "Google",
-"u": "https://www.google.com/about/careers/applications/jobs/results/77950623693054662",
+"u": "https://www.google.com/about/careers/applications/jobs/results/126075643661034182",
 "d": ""
 },
 {
@@ -16395,63 +17063,57 @@
 "d": ""
 },
 {
-"t": "Staff Research Scientist, AI Alignment",
-"c": "Google",
-"u": "https://www.google.com/about/careers/applications/jobs/results/93321386079986374",
-"d": ""
-},
-{
 "t": "APAC AI Policy Manager, DeepMind",
 "c": "Google",
-"u": "https://www.google.com/about/careers/applications/jobs/results/96972179148546758",
+"u": "https://www.google.com/about/careers/applications/jobs/results/106875917124412102",
 "d": ""
 },
 {
 "t": "Trust and Safety Intel Analyst, Model Behavior and Alignment",
 "c": "Google",
-"u": "https://www.google.com/about/careers/applications/jobs/results/72389807933661894",
+"u": "https://www.google.com/about/careers/applications/jobs/results/100383189293245126",
 "d": ""
 },
 {
 "t": "Senior Software Engineer, Trust and Safety, Responsible AI",
 "c": "Google",
-"u": "https://www.google.com/about/careers/applications/jobs/results/138325319080649414",
+"u": "https://www.google.com/about/careers/applications/jobs/results/85887607291945670",
 "d": ""
 },
 {
 "t": "Research Engineer, Chemical, Biological and Nuclear AI Safety, DeepMind",
 "c": "Google",
-"u": "https://www.google.com/about/careers/applications/jobs/results/84486720761799366",
+"u": "https://www.google.com/about/careers/applications/jobs/results/95879355590156998",
+"d": ""
+},
+{
+"t": "Research Engineer, Frontier Safety Mitigations, DeepMind",
+"c": "Google",
+"u": "https://www.google.com/about/careers/applications/jobs/results/142983915487797958",
 "d": ""
 },
 {
 "t": "Research Scientist, Multimodal Alignment, Safety and Fairness, DeepMind",
 "c": "Google",
-"u": "https://www.google.com/about/careers/applications/jobs/results/140109439100166854",
+"u": "https://www.google.com/about/careers/applications/jobs/results/97769504125133510",
 "d": ""
 },
 {
 "t": "Senior AI Safety Researcher",
 "c": "Google",
-"u": "https://www.google.com/about/careers/applications/jobs/results/97376641319084742",
+"u": "https://www.google.com/about/careers/applications/jobs/results/141633635751994054",
 "d": ""
 },
 {
 "t": "GenAI Senior Security Engineer, Red Team",
 "c": "Google",
-"u": "https://www.google.com/about/careers/applications/jobs/results/94362858472514246",
-"d": ""
-},
-{
-"t": "Principal Engineer, Safeguards",
-"c": "Google",
-"u": "https://www.google.com/about/careers/applications/jobs/results/137598011466228422",
+"u": "https://www.google.com/about/careers/applications/jobs/results/104865842365113030",
 "d": ""
 },
 {
 "t": "Manager, AI Policy, Trust Strategy and Operations",
 "c": "Google",
-"u": "https://www.google.com/about/careers/applications/jobs/results/108380149962941126",
+"u": "https://www.google.com/about/careers/applications/jobs/results/94729719546553030",
 "d": ""
 },
 {
@@ -16463,19 +17125,19 @@
 {
 "t": "Frontier Safety Mitigations Research Engineer, DeepMind",
 "c": "Google",
-"u": "https://www.google.com/about/careers/applications/jobs/results/109783257796485830",
+"u": "https://www.google.com/about/careers/applications/jobs/results/79849616371000006",
 "d": ""
 },
 {
 "t": "Staff Software Engineer, Eval Infra TL, Quality Platform, Gemini Cloud Operator, Agentic AI",
 "c": "Google",
-"u": "https://www.google.com/about/careers/applications/jobs/results/84231823042716358",
+"u": "https://www.google.com/about/careers/applications/jobs/results/115115399564927686",
 "d": ""
 },
 {
 "t": "Senior Research Scientist, AI Safety and Security",
 "c": "Google",
-"u": "https://www.google.com/about/careers/applications/jobs/results/140612345410790086",
+"u": "https://www.google.com/about/careers/applications/jobs/results/83868556856304326",
 "d": ""
 },
 {
@@ -16699,13 +17361,43 @@
 "c": "Anthropic",
 "u": "https://job-boards.greenhouse.io/anthropic/jobs/4631822008",
 "d": "2025-04-14"
+},
+{
+"t": "[Expression of Interest] Research Engineer / Scientist, Alignment - London",
+"c": "Anthropic",
+"u": "https://job-boards.greenhouse.io/anthropic/jobs/4610158008",
+"d": "2025-03-31"
 }
 ],
 "ops_corp": [
 {
+"t": "2027 MBA Finance Leadership Development Program (FLDP) - FTE",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610940/2027-mba-finance-leadership-development-program-fldp-fte",
+"d": "2026-11-21"
+},
+{
+"t": "Executive Assistant, Music Product & Tech",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610921/executive-assistant-music-product-tech",
+"d": "2026-11-21"
+},
+{
 "t": "Tax Analyst, US International Tax",
 "c": "Amazon",
 "u": "https://www.amazon.jobs/en/jobs/10610151/tax-analyst-us-international-tax",
+"d": "2026-11-20"
+},
+{
+"t": "Senior Financial Analyst, Pharmacy Finance",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10609940/senior-financial-analyst-pharmacy-finance",
+"d": "2026-11-20"
+},
+{
+"t": "Finance Manager, E2E North America FP&A",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610499/finance-manager-e2e-north-america-fp-a",
 "d": "2026-11-20"
 },
 {
@@ -16721,6 +17413,12 @@
 "d": "2026-11-20"
 },
 {
+"t": "Procurement & Submittals Mgr., AWS, Power and Cooling",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610386/procurement-submittals-mgr-aws-power-and-cooling",
+"d": "2026-11-20"
+},
+{
 "t": "Finance Manager, Inbound Operations, North American Customer Fulfillment",
 "c": "Amazon",
 "u": "https://www.amazon.jobs/en/jobs/10610005/finance-manager-inbound-operations-north-american-customer-fulfillment",
@@ -16733,9 +17431,69 @@
 "d": "2026-11-20"
 },
 {
+"t": "Finance Manager, Amazon Leo - Public Sector",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610642/finance-manager-amazon-leo-public-sector",
+"d": "2026-11-20"
+},
+{
+"t": "Senior Financial Analyst, AWS Infrastructure FP&A",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610506/senior-financial-analyst-aws-infrastructure-fp-a",
+"d": "2026-11-20"
+},
+{
+"t": "Strategic Sourcing Specialist, Global Corporate Procurement",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610726/strategic-sourcing-specialist-global-corporate-procurement",
+"d": "2026-11-20"
+},
+{
 "t": "Corporate Counsel, Tort Litigation",
 "c": "Amazon",
 "u": "https://www.amazon.jobs/en/jobs/10609696/corporate-counsel-tort-litigation",
+"d": "2026-11-20"
+},
+{
+"t": "Senior Finance Manager, AWS, Worldwide Professional Services",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610287/senior-finance-manager-aws-worldwide-professional-services",
+"d": "2026-11-20"
+},
+{
+"t": "Senior Financial Analyst, ReCommerce",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610550/senior-financial-analyst-recommerce",
+"d": "2026-11-20"
+},
+{
+"t": "Finance Manager, AWS Sustainability Finance",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610505/finance-manager-aws-sustainability-finance",
+"d": "2026-11-20"
+},
+{
+"t": "Finance Manager, Alexa 1P and Alexa Home Finance",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610633/finance-manager-alexa-1p-and-alexa-home-finance",
+"d": "2026-11-20"
+},
+{
+"t": "Finance Manager, Amazon Leo",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610647/finance-manager-amazon-leo",
+"d": "2026-11-20"
+},
+{
+"t": "Senior Financial Analyst, Amazon Leo",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610643/senior-financial-analyst-amazon-leo",
+"d": "2026-11-20"
+},
+{
+"t": "New Region Strategy & Planning",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10600833/new-region-strategy-planning",
 "d": "2026-11-20"
 },
 {
@@ -16961,12 +17719,6 @@
 "d": "2026-11-18"
 },
 {
-"t": "Tax Analyst, Withholding Tax",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10608208/tax-analyst-withholding-tax",
-"d": "2026-11-18"
-},
-{
 "t": "Strategy Marketplace Consultant, Strategic Account Services",
 "c": "Amazon",
 "u": "https://www.amazon.jobs/en/jobs/10606933/strategy-marketplace-consultant-strategic-account-services",
@@ -16977,93 +17729,195 @@
 "c": "Amazon",
 "u": "https://www.amazon.jobs/en/jobs/10606935/sr-compliance-associate-quality-analyst-global-solutions-risk-and-compliance-gsrc",
 "d": "2026-11-17"
-},
-{
-"t": "Financial Analyst III - AMZ10564127",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10606765/financial-analyst-iii-amz10564127",
-"d": "2026-11-17"
-},
-{
-"t": "Content Policy Counsel",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10606788/content-policy-counsel",
-"d": "2026-11-17"
-},
-{
-"t": "Senior Security Compliance Specialist, Amazon Leo Security Assurance",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10607427/senior-security-compliance-specialist-amazon-leo-security-assurance",
-"d": "2026-11-17"
-},
-{
-"t": "Senior Corporate Counsel, Tort Litigation",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10607680/senior-corporate-counsel-tort-litigation",
-"d": "2026-11-17"
-},
-{
-"t": "Senior Security Compliance Specialist, Amazon Leo Security Assurance",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10607422/senior-security-compliance-specialist-amazon-leo-security-assurance",
-"d": "2026-11-17"
-},
-{
-"t": "Executive Assistant, Amazon Flex",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10607563/executive-assistant-amazon-flex",
-"d": "2026-11-17"
-},
-{
-"t": "Finance Manager, AWS AI and Cloud Hardware Economics",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10607185/finance-manager-aws-ai-and-cloud-hardware-economics",
-"d": "2026-11-17"
-},
-{
-"t": "Senior Security Compliance Specialist, Amazon Leo Security Assurance",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10607425/senior-security-compliance-specialist-amazon-leo-security-assurance",
-"d": "2026-11-17"
-},
-{
-"t": "Principal, Mergers & Acquisitions Accounting",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10607051/principal-mergers-acquisitions-accounting",
-"d": "2026-11-17"
-},
-{
-"t": "Senior Financial Analyst, Prime Video Accounting",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10607083/senior-financial-analyst-prime-video-accounting",
-"d": "2026-11-17"
-},
-{
-"t": "Senior Financial Operations Lead, AWS Marketplace Controllership",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10607610/senior-financial-operations-lead-aws-marketplace-controllership",
-"d": "2026-11-17"
-},
-{
-"t": "Senior Financial Analyst, Americas DSP Finance",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10607700/senior-financial-analyst-americas-dsp-finance",
-"d": "2026-11-17"
-},
-{
-"t": "International Indirect Tax Manager, Digital and Devices",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10607086/international-indirect-tax-manager-digital-and-devices",
-"d": "2026-11-17"
-},
-{
-"t": "International Indirect Tax Manager, VAT, Digital and Devices",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10607085/international-indirect-tax-manager-vat-digital-and-devices",
-"d": "2026-11-17"
 }
 ],
 "field": [
+{
+"t": "Area Manager",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610888/area-manager",
+"d": "2026-11-21"
+},
+{
+"t": "Area Manager, Grocery Distribution Center , Grocery Distribution",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610981/area-manager-grocery-distribution-center-grocery-distribution",
+"d": "2026-11-21"
+},
+{
+"t": "Manufacturing Assembly Technician, Prime Air, Assembly and Test",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610941/manufacturing-assembly-technician-prime-air-assembly-and-test",
+"d": "2026-11-21"
+},
+{
+"t": "Sr. Supply Chain Mgr, Leo Inventory and Fulfillment Technology",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610898/sr-supply-chain-mgr-leo-inventory-and-fulfillment-technology",
+"d": "2026-11-21"
+},
+{
+"t": "Sr. Supply Chain Mgr, Leo Inventory and Fulfillment Technology",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610896/sr-supply-chain-mgr-leo-inventory-and-fulfillment-technology",
+"d": "2026-11-21"
+},
+{
+"t": "Delivery Shift Manager Jr, Sub Same Day Operations",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610977/delivery-shift-manager-jr-sub-same-day-operations",
+"d": "2026-11-21"
+},
+{
+"t": "Site EHS Manager II",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610980/site-ehs-manager-ii",
+"d": "2026-11-21"
+},
+{
+"t": "Delivery Shift Manager Jr, Sub Same Day Operations",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610976/delivery-shift-manager-jr-sub-same-day-operations",
+"d": "2026-11-21"
+},
+{
+"t": "Mechatronics Technical Trainer, MHE, OneMHS",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610879/mechatronics-technical-trainer-mhe-onemhs",
+"d": "2026-11-21"
+},
+{
+"t": "Senior Maintenance Technician, Amazon Leo",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610894/senior-maintenance-technician-amazon-leo",
+"d": "2026-11-21"
+},
+{
+"t": "Registered Pharmacy Technician, Fulfillment - Amazon Pharmacy",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610847/registered-pharmacy-technician-fulfillment-amazon-pharmacy",
+"d": "2026-11-20"
+},
+{
+"t": "Mechanical Design Engineer, Data Center Design Engineering",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610858/mechanical-design-engineer-data-center-design-engineering",
+"d": "2026-11-20"
+},
+{
+"t": "Data Center Technician, ADC InfraOps DCO",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610816/data-center-technician-adc-infraops-dco",
+"d": "2026-11-20"
+},
+{
+"t": "Prime Air Sr. Maintenance Technician , Corporate Operations, Prime Air",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610808/prime-air-sr-maintenance-technician-corporate-operations-prime-air",
+"d": "2026-11-20"
+},
+{
+"t": "Prime Air Maintenance Technician, Corporate Operations, Prime Air",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610784/prime-air-maintenance-technician-corporate-operations-prime-air",
+"d": "2026-11-20"
+},
+{
+"t": "Prime Air Maintenance Technician, Corporate Operations, Prime Air",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610777/prime-air-maintenance-technician-corporate-operations-prime-air",
+"d": "2026-11-20"
+},
+{
+"t": "Data Center Technician, DCC Communities",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610868/data-center-technician-dcc-communities",
+"d": "2026-11-20"
+},
+{
+"t": "Infra Delivery Install Technician, Data Center Communities",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610866/infra-delivery-install-technician-data-center-communities",
+"d": "2026-11-20"
+},
+{
+"t": "Area Manager II",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610618/area-manager-ii",
+"d": "2026-11-20"
+},
+{
+"t": "Cluster Project Design Mechanical Engineer, Fleet Remediation Engineering",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610689/cluster-project-design-mechanical-engineer-fleet-remediation-engineering",
+"d": "2026-11-20"
+},
+{
+"t": "Area Manager II",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610443/area-manager-ii",
+"d": "2026-11-20"
+},
+{
+"t": "Engineering Operations Technician",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610865/engineering-operations-technician",
+"d": "2026-11-20"
+},
+{
+"t": "Process Assistant, RSR",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610466/process-assistant-rsr",
+"d": "2026-11-20"
+},
+{
+"t": "Area Manager II - BDL4 pooling",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610425/area-manager-ii-bdl4-pooling",
+"d": "2026-11-20"
+},
+{
+"t": "Area Manager",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610423/area-manager",
+"d": "2026-11-20"
+},
+{
+"t": "Area Manager",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610498/area-manager",
+"d": "2026-11-20"
+},
+{
+"t": "Data Center Engineering Operations Technician II",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610864/data-center-engineering-operations-technician-ii",
+"d": "2026-11-20"
+},
+{
+"t": "Data Center Technician, Data Center Operations",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610745/data-center-technician-data-center-operations",
+"d": "2026-11-20"
+},
+{
+"t": "Sr. Construction Manager, North America Construction Manager",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610330/sr-construction-manager-north-america-construction-manager",
+"d": "2026-11-20"
+},
+{
+"t": "Delivery Consultant - AI/ML, Professional Services",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610362/delivery-consultant-ai-ml-professional-services",
+"d": "2026-11-20"
+},
+{
+"t": "Operations Manager, AMZL-Delivery Station",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610224/operations-manager-amzl-delivery-station",
+"d": "2026-11-20"
+},
 {
 "t": "Senior Construction Manager (Sweden)",
 "c": "Amazon",
@@ -17107,9 +17961,27 @@
 "d": "2026-11-20"
 },
 {
-"t": "Engineering Operation Technician",
+"t": "Delivery Station Customer Service Associate, DSL",
 "c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10609309/engineering-operation-technician",
+"u": "https://www.amazon.jobs/en/jobs/10610292/delivery-station-customer-service-associate-dsl",
+"d": "2026-11-20"
+},
+{
+"t": "Shift Assistant, DMX2",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610135/shift-assistant-dmx2",
+"d": "2026-11-20"
+},
+{
+"t": "IT Support Technician",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610340/it-support-technician",
+"d": "2026-11-20"
+},
+{
+"t": "IT Support Technician",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610331/it-support-technician",
 "d": "2026-11-20"
 },
 {
@@ -17131,6 +18003,12 @@
 "d": "2026-11-20"
 },
 {
+"t": "IT Support Technician",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610341/it-support-technician",
+"d": "2026-11-20"
+},
+{
 "t": "Logistics Supervisor, Amazon Logistics",
 "c": "Amazon",
 "u": "https://www.amazon.jobs/en/jobs/10610147/logistics-supervisor-amazon-logistics",
@@ -17149,12 +18027,6 @@
 "d": "2026-11-20"
 },
 {
-"t": "Engineering Operation Technician",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10609310/engineering-operation-technician",
-"d": "2026-11-20"
-},
-{
 "t": "Central Operations Support Executive, IN External Fulfillment",
 "c": "Amazon",
 "u": "https://www.amazon.jobs/en/jobs/10610114/central-operations-support-executive-in-external-fulfillment",
@@ -17170,6 +18042,12 @@
 "t": "Sr. Operations Manager",
 "c": "Amazon",
 "u": "https://www.amazon.jobs/en/jobs/10610010/sr-operations-manager",
+"d": "2026-11-20"
+},
+{
+"t": "Infra Delivery Install Technician",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610672/infra-delivery-install-technician",
 "d": "2026-11-20"
 },
 {
@@ -17213,229 +18091,49 @@
 "c": "Amazon",
 "u": "https://www.amazon.jobs/en/jobs/10610159/operations-manager",
 "d": "2026-11-20"
-},
-{
-"t": "IT Support Technician",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10610191/it-support-technician",
-"d": "2026-11-20"
-},
-{
-"t": "IT Support Technician",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10610187/it-support-technician",
-"d": "2026-11-20"
-},
-{
-"t": "Channel Team Lead, Amazon Hub Delivery",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10609988/channel-team-lead-amazon-hub-delivery",
-"d": "2026-11-20"
-},
-{
-"t": "Area Manager, Grocery Distribution Center",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10610257/area-manager-grocery-distribution-center",
-"d": "2026-11-20"
-},
-{
-"t": "Last Mile Operations Supervisor, ZA Transportation",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10610146/last-mile-operations-supervisor-za-transportation",
-"d": "2026-11-20"
-},
-{
-"t": "Installation Technician",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10608629/installation-technician",
-"d": "2026-11-20"
-},
-{
-"t": "Data Center Technician",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10608628/data-center-technician",
-"d": "2026-11-20"
-},
-{
-"t": "Data Center Technician - Night Shift",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10608132/data-center-technician-night-shift",
-"d": "2026-11-20"
-},
-{
-"t": "Sr. Project Construction Manager , Data Center Capacity Delivery",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10607628/sr-project-construction-manager-data-center-capacity-delivery",
-"d": "2026-11-20"
-},
-{
-"t": "Logistics Specialist, AWS Logistics Services",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10610034/logistics-specialist-aws-logistics-services",
-"d": "2026-11-20"
-},
-{
-"t": "IT Support Technician",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10610235/it-support-technician",
-"d": "2026-11-20"
-},
-{
-"t": "Sr Mechatronics Tech (SMRT) - Rapid Response Team, OMHS Field Technical Support",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10609973/sr-mechatronics-tech-smrt-rapid-response-team-omhs-field-technical-support",
-"d": "2026-11-20"
-},
-{
-"t": "Central Operations Support Executive, IN External Fulfillment",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10610110/central-operations-support-executive-in-external-fulfillment",
-"d": "2026-11-20"
-},
-{
-"t": "Production Tech II (2nd Shift) , Robotics Manufacturing & Technical Operations",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10609982/production-tech-ii-2nd-shift-robotics-manufacturing-technical-operations",
-"d": "2026-11-20"
-},
-{
-"t": "Controls Technician - BKK, APAC Controls Deployment & Service",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10609971/controls-technician-bkk-apac-controls-deployment-service",
-"d": "2026-11-20"
-},
-{
-"t": "Site EHS Manager II",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10609987/site-ehs-manager-ii",
-"d": "2026-11-20"
-},
-{
-"t": "Construction Manager, GES NA, Design and Construction",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10610237/construction-manager-ges-na-design-and-construction",
-"d": "2026-11-20"
-},
-{
-"t": "Construction Manager, GES NA, Design and Construction",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10610236/construction-manager-ges-na-design-and-construction",
-"d": "2026-11-20"
-},
-{
-"t": "Delivery Station Customer Service Associate",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10610286/delivery-station-customer-service-associate",
-"d": "2026-11-20"
-},
-{
-"t": "Senior Maintenance Technician, Amazon Reliability Maintenance Engineering - IntlRME",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10610174/senior-maintenance-technician-amazon-reliability-maintenance-engineering-intlrme",
-"d": "2026-11-20"
-},
-{
-"t": "Senior Maintenance Technician (NIGHT SHIFT), Amazon Reliability Maintenance Engineering - IntlRME",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10610175/senior-maintenance-technician-night-shift-amazon-reliability-maintenance-engineering-intlrme",
-"d": "2026-11-20"
-},
-{
-"t": "Senior Maintenance Technician, Amazon Reliability Maintenance Engineering - IntlRME",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10610176/senior-maintenance-technician-amazon-reliability-maintenance-engineering-intlrme",
-"d": "2026-11-20"
-},
-{
-"t": "Senior Maintenance Technician, Amazon Reliability Maintenance Engineering - IntlRME",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10610179/senior-maintenance-technician-amazon-reliability-maintenance-engineering-intlrme",
-"d": "2026-11-20"
-},
-{
-"t": "Senior Maintenance Technician, Amazon Reliability Maintenance Engineering - IntlRME",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10610180/senior-maintenance-technician-amazon-reliability-maintenance-engineering-intlrme",
-"d": "2026-11-20"
-},
-{
-"t": "Senior Maintenance Technician (NIGHT SHIFT), Amazon Reliability Maintenance Engineering - IntlRME",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10610181/senior-maintenance-technician-night-shift-amazon-reliability-maintenance-engineering-intlrme",
-"d": "2026-11-20"
-},
-{
-"t": "Senior Maintenance Technician, Amazon Reliability Maintenance Engineering - IntlRME",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10610182/senior-maintenance-technician-amazon-reliability-maintenance-engineering-intlrme",
-"d": "2026-11-20"
-},
-{
-"t": "Senior Maintenance Technician, Amazon Reliability Maintenance Engineering - IntlRME",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10610172/senior-maintenance-technician-amazon-reliability-maintenance-engineering-intlrme",
-"d": "2026-11-20"
-},
-{
-"t": "Senior Maintenance Technician (NIGHT SHIFT), Amazon Reliability Maintenance Engineering - IntlRME",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10610171/senior-maintenance-technician-night-shift-amazon-reliability-maintenance-engineering-intlrme",
-"d": "2026-11-20"
-},
-{
-"t": "Supply Chain Manager II, Technology Materials Planning",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10609983/supply-chain-manager-ii-technology-materials-planning",
-"d": "2026-11-20"
-},
-{
-"t": "Delivery Manager, Series, Global Delivery, Studio Content Services",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10609714/delivery-manager-series-global-delivery-studio-content-services",
-"d": "2026-11-20"
-},
-{
-"t": "Area Manager",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10583785/area-manager",
-"d": "2026-11-20"
-},
-{
-"t": "Installation Technician",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10609834/installation-technician",
-"d": "2026-11-19"
-},
-{
-"t": "Sr Mechanical Regional Engineer, Colocation Regional Engineering- AMER",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10609805/sr-mechanical-regional-engineer-colocation-regional-engineering-amer",
-"d": "2026-11-19"
-},
-{
-"t": "Infra Delivery Technician",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10609819/infra-delivery-technician",
-"d": "2026-11-19"
-},
-{
-"t": "Transportation Area Manager",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10609741/transportation-area-manager",
-"d": "2026-11-19"
 }
 ],
 "ai_research": [
 {
-"t": "Senior Researcher, Series, WW Consumer Insights, Series",
+"t": "Senior Applied Scientist, AWS Security",
 "c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10610134/senior-researcher-series-ww-consumer-insights-series",
+"u": "https://www.amazon.jobs/en/jobs/10610882/senior-applied-scientist-aws-security",
+"d": "2026-11-21"
+},
+{
+"t": "Applied Scientist, Amazon Leo Satellite Build Systems",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610592/applied-scientist-amazon-leo-satellite-build-systems",
+"d": "2026-11-20"
+},
+{
+"t": "Principal Applied Scientist, Supply Tech - Advertising",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610805/principal-applied-scientist-supply-tech-advertising",
 "d": "2026-11-20"
 },
 {
 "t": "Sr. Applied Scientist, Foundation Model",
 "c": "Amazon",
 "u": "https://www.amazon.jobs/en/jobs/10610081/sr-applied-scientist-foundation-model",
+"d": "2026-11-20"
+},
+{
+"t": "Applied Scientist, Advertiser Growth Engine",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610482/applied-scientist-advertiser-growth-engine",
+"d": "2026-11-20"
+},
+{
+"t": "Applied Scientist II, Detail Page",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10609719/applied-scientist-ii-detail-page",
+"d": "2026-11-20"
+},
+{
+"t": "Applied Scientist II, Detail Page",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10609718/applied-scientist-ii-detail-page",
 "d": "2026-11-20"
 },
 {
@@ -17448,6 +18146,24 @@
 "t": "Sr. Applied Scientist, AWS Applied AI Solutions - Life Sciences",
 "c": "Amazon",
 "u": "https://www.amazon.jobs/en/jobs/10609976/sr-applied-scientist-aws-applied-ai-solutions-life-sciences",
+"d": "2026-11-20"
+},
+{
+"t": "Senior Applied Scientist , Sponsored Products",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610730/senior-applied-scientist-sponsored-products",
+"d": "2026-11-20"
+},
+{
+"t": "Applied Scientist , Sponsored Products",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610729/applied-scientist-sponsored-products",
+"d": "2026-11-20"
+},
+{
+"t": "Applied Scientist III, Sponsored Products and Brands",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610664/applied-scientist-iii-sponsored-products-and-brands",
 "d": "2026-11-20"
 },
 {
@@ -17523,6 +18239,12 @@
 "d": "2026-11-18"
 },
 {
+"t": "Applied Scientist III - AMZ10563756",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10608030/applied-scientist-iii-amz10563756",
+"d": "2026-11-18"
+},
+{
 "t": "Principal Applied Scientist, Ads Trust Science, Ads Trust Science",
 "c": "Amazon",
 "u": "https://www.amazon.jobs/en/jobs/10607745/principal-applied-scientist-ads-trust-science-ads-trust-science",
@@ -17562,12 +18284,6 @@
 "t": "Senior Applied Scientist, Prime Video - Ads Science",
 "c": "Amazon",
 "u": "https://www.amazon.jobs/en/jobs/10606953/senior-applied-scientist-prime-video-ads-science",
-"d": "2026-11-17"
-},
-{
-"t": "Simulation & Modeling Applied Scientist, Prime Air Flight Sciences High Fidelity Methods",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10607204/simulation-modeling-applied-scientist-prime-air-flight-sciences-high-fidelity-methods",
 "d": "2026-11-17"
 },
 {
@@ -17721,12 +18437,6 @@
 "d": "2026-11-10"
 },
 {
-"t": "Applied Scientist II, Prime Video - Ads Science",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10592986/applied-scientist-ii-prime-video-ads-science",
-"d": "2026-11-10"
-},
-{
 "t": "Sr. Applied Scientist, Applied AI & Data Architecture",
 "c": "Amazon",
 "u": "https://www.amazon.jobs/en/jobs/10601919/sr-applied-scientist-applied-ai-data-architecture",
@@ -17742,48 +18452,6 @@
 "t": "Senior Applied Scientist, Selling Partner Selection Success",
 "c": "Amazon",
 "u": "https://www.amazon.jobs/en/jobs/10600500/senior-applied-scientist-selling-partner-selection-success",
-"d": "2026-11-09"
-},
-{
-"t": "Member of Technical Staff, Frontier AI & Robotics",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10596037/member-of-technical-staff-frontier-ai-robotics",
-"d": "2026-11-09"
-},
-{
-"t": "Research Scientist II, Battery",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10598773/research-scientist-ii-battery",
-"d": "2026-11-09"
-},
-{
-"t": "Sr. Applied Scientist, Amazon Private Brands, Amazon Private Brands Selection Guidance",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10596897/sr-applied-scientist-amazon-private-brands-amazon-private-brands-selection-guidance",
-"d": "2026-11-09"
-},
-{
-"t": "Senior Applied Scientist, Frontier AI Assets",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10594587/senior-applied-scientist-frontier-ai-assets",
-"d": "2026-11-09"
-},
-{
-"t": "Pricing Optimization Scientist, Pricing Science",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10599924/pricing-optimization-scientist-pricing-science",
-"d": "2026-11-09"
-},
-{
-"t": "Applied Scientist, Trust and Store Integrity Science",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10600201/applied-scientist-trust-and-store-integrity-science",
-"d": "2026-11-09"
-},
-{
-"t": "Applied Scientist II, SCOT-Optimal Sourcing Systems, Buying Science Team",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10600615/applied-scientist-ii-scot-optimal-sourcing-systems-buying-science-team",
 "d": "2026-11-09"
 }
 ],
@@ -18029,6 +18697,12 @@
 "d": "2026-10-16"
 },
 {
+"t": "Programmer Analyst II, Relay Product Excellence Agentic Solutions",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10579584/programmer-analyst-ii-relay-product-excellence-agentic-solutions",
+"d": "2026-10-15"
+},
+{
 "t": "Sr Software Development Engineer, Agent Platforms & Services",
 "c": "Amazon",
 "u": "https://www.amazon.jobs/en/jobs/10578760/sr-software-development-engineer-agent-platforms-services",
@@ -18057,12 +18731,6 @@
 "c": "Amazon",
 "u": "https://www.amazon.jobs/en/jobs/10574939/senior-agentic-workspaces-specialist-applied-ai-solutions",
 "d": "2026-10-09"
-},
-{
-"t": "Software Development Manager, Agentic AI, Velocity Labs",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10573926/software-development-manager-agentic-ai-velocity-labs",
-"d": "2026-10-08"
 },
 {
 "t": "Software Development Engineer, Agentic AI, Velocity Labs",
@@ -18107,27 +18775,27 @@
 "d": ""
 },
 {
+"t": "Senior Staff Software Engineer, Generative AI, Search Intelligence",
+"c": "Google",
+"u": "https://www.google.com/about/careers/applications/jobs/results/104721548643836614",
+"d": ""
+},
+{
 "t": "Senior Staff Software Engineer, Ads Platform Agentic Experiences",
 "c": "Google",
-"u": "https://www.google.com/about/careers/applications/jobs/results/95199709227819718",
+"u": "https://www.google.com/about/careers/applications/jobs/results/113654329000239814",
 "d": ""
 },
 {
 "t": "Software Engineer III, AI Agent Architecture",
 "c": "Google",
-"u": "https://www.google.com/about/careers/applications/jobs/results/103779692380594886",
-"d": ""
-},
-{
-"t": "Senior Staff Software Engineer, Generative AI, Search Intelligence",
-"c": "Google",
-"u": "https://www.google.com/about/careers/applications/jobs/results/81598080377332422",
+"u": "https://www.google.com/about/careers/applications/jobs/results/123675243616051910",
 "d": ""
 },
 {
 "t": "Staff Software Engineer, AI Agent Platform, Google Cloud Business Platform",
 "c": "Google",
-"u": "https://www.google.com/about/careers/applications/jobs/results/123675243616051910",
+"u": "https://www.google.com/about/careers/applications/jobs/results/95752881688191686",
 "d": ""
 },
 {
@@ -18137,15 +18805,15 @@
 "d": ""
 },
 {
-"t": "Applied AI Insights Lead, Creator and Consumer Experience Operations, YouTube",
+"t": "Staff Software Engineer, AI/ML GenAI, Google Cloud AI",
 "c": "Google",
-"u": "https://www.google.com/about/careers/applications/jobs/results/78079194344366790",
+"u": "https://www.google.com/about/careers/applications/jobs/results/76692534088082118",
 "d": ""
 },
 {
-"t": "Senior Software Engineer, GenAI Evaluation",
+"t": "Applied AI Insights Lead, Creator and Consumer Experience Operations, YouTube",
 "c": "Google",
-"u": "https://www.google.com/about/careers/applications/jobs/results/130145388509176518",
+"u": "https://www.google.com/about/careers/applications/jobs/results/75184274717713094",
 "d": ""
 }
 ],
@@ -18202,12 +18870,6 @@
 "t": "Robotics Maintenance Specialist, Frontier AI & Robotics (FAR)",
 "c": "Amazon",
 "u": "https://www.amazon.jobs/en/jobs/10608667/robotics-maintenance-specialist-frontier-ai-robotics-far",
-"d": "2026-11-18"
-},
-{
-"t": "Security Engineer, AI Security",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10608720/security-engineer-ai-security",
 "d": "2026-11-18"
 },
 {
@@ -18298,6 +18960,12 @@
 "t": "Sr Manager, Software Development, Ads AI Core Services",
 "c": "Amazon",
 "u": "https://www.amazon.jobs/en/jobs/10605037/sr-manager-software-development-ads-ai-core-services",
+"d": "2026-11-13"
+},
+{
+"t": "Senior Software Engineer, AI & Strategic Partner Engineering",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10598816/senior-software-engineer-ai-strategic-partner-engineering",
 "d": "2026-11-13"
 },
 {
@@ -18481,12 +19149,6 @@
 "d": "2026-11-06"
 },
 {
-"t": "Senior Software Development Engineer, EC2 Trainium AI Infra",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10594591/senior-software-development-engineer-ec2-trainium-ai-infra",
-"d": "2026-11-06"
-},
-{
 "t": "Senior Software Development Engineer, Annapurna ML Systems, Trainium",
 "c": "Amazon",
 "u": "https://www.amazon.jobs/en/jobs/10597660/senior-software-development-engineer-annapurna-ml-systems-trainium",
@@ -18509,13 +19171,43 @@
 "c": "Amazon",
 "u": "https://www.amazon.jobs/en/jobs/10596598/senior-ai-customer-engineer-pace-latam",
 "d": "2026-11-04"
+},
+{
+"t": "Quality Site Specialist, Frontier AI Quality",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10596214/quality-site-specialist-frontier-ai-quality",
+"d": "2026-11-04"
 }
 ],
 "hardware": [
 {
+"t": "Embedded Software Engineer, Leo MAC",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610936/embedded-software-engineer-leo-mac",
+"d": "2026-11-21"
+},
+{
+"t": "Embedded SDE II, Hardware Engineering Services",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610733/embedded-sde-ii-hardware-engineering-services",
+"d": "2026-11-20"
+},
+{
+"t": "Embedded Software Engineer , Fauna",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610208/embedded-software-engineer-fauna",
+"d": "2026-11-20"
+},
+{
 "t": "Sr. Embedded Software Dev Engineer, Amazon Leo for Government - Flight Software Team",
 "c": "Amazon",
 "u": "https://www.amazon.jobs/en/jobs/10610098/sr-embedded-software-dev-engineer-amazon-leo-for-government-flight-software-team",
+"d": "2026-11-20"
+},
+{
+"t": "Avionics Test System SDM, Avionics Bus Design and Test",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610837/avionics-test-system-sdm-avionics-bus-design-and-test",
 "d": "2026-11-20"
 },
 {
@@ -18543,6 +19235,12 @@
 "d": "2026-11-19"
 },
 {
+"t": "Sr. Systems Dev Engineer, Pharmacy Hardware Team",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10608727/sr-systems-dev-engineer-pharmacy-hardware-team",
+"d": "2026-11-19"
+},
+{
 "t": "Packaging Engineer II, Amazon Leo",
 "c": "Amazon",
 "u": "https://www.amazon.jobs/en/jobs/10608439/packaging-engineer-ii-amazon-leo",
@@ -18565,12 +19263,6 @@
 "c": "Amazon",
 "u": "https://www.amazon.jobs/en/jobs/10600444/senior-hardware-development-engineer-aws-mainstream-compute",
 "d": "2026-11-19"
-},
-{
-"t": "Post Silicon Engineer , Amazon LEO",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10608857/post-silicon-engineer-amazon-leo",
-"d": "2026-11-18"
 },
 {
 "t": "ASIC Design Engineer, Satellite Communication",
@@ -18801,6 +19493,12 @@
 "d": "2026-11-14"
 },
 {
+"t": "Sr. Drone Avionics Electrical Engineer, Prime Air",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10605096/sr-drone-avionics-electrical-engineer-prime-air",
+"d": "2026-11-13"
+},
+{
 "t": "Optical Systems Liaison Engineer, Optical Inter-Satellite Link",
 "c": "Amazon",
 "u": "https://www.amazon.jobs/en/jobs/10604911/optical-systems-liaison-engineer-optical-inter-satellite-link",
@@ -18841,39 +19539,39 @@
 "c": "Amazon",
 "u": "https://www.amazon.jobs/en/jobs/10591596/hardware-validation-engineer-npd-hardware",
 "d": "2026-11-13"
-},
-{
-"t": "EMC/EMI Engineer - Antenna, Hardware Development",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10600725/emc-emi-engineer-antenna-hardware-development",
-"d": "2026-11-13"
-},
-{
-"t": "FPGA Engineering Lead",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10604062/fpga-engineering-lead",
-"d": "2026-11-13"
-},
-{
-"t": "Hardware Development Engineer, Asia Development Center",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10603032/hardware-development-engineer-asia-development-center",
-"d": "2026-11-13"
-},
-{
-"t": "Signal Integrity HDE, PCIe & Signal Integrity Team",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10600433/signal-integrity-hde-pcie-signal-integrity-team",
-"d": "2026-11-13"
-},
-{
-"t": "Software Development Engineer - Embedded, Flight Computer Software",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10603660/software-development-engineer-embedded-flight-computer-software",
-"d": "2026-11-12"
 }
 ],
 "security": [
+{
+"t": "Salesforce Security Engineer, Salesforce Success Central",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610799/salesforce-security-engineer-salesforce-success-central",
+"d": "2026-11-20"
+},
+{
+"t": "Security Engineer, Leo Security",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610709/security-engineer-leo-security",
+"d": "2026-11-20"
+},
+{
+"t": "Software Development Manager, AWS Identity, Access Analyzer",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610585/software-development-manager-aws-identity-access-analyzer",
+"d": "2026-11-20"
+},
+{
+"t": "Content Security Specialist, GME Content Security",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610420/content-security-specialist-gme-content-security",
+"d": "2026-11-20"
+},
+{
+"t": "Content Security Specialist, GME Content Security",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610417/content-security-specialist-gme-content-security",
+"d": "2026-11-20"
+},
 {
 "t": "Security Engineer, AWS Security",
 "c": "Amazon",
@@ -18881,9 +19579,69 @@
 "d": "2026-11-20"
 },
 {
+"t": "Sr Security Engineer, Global Media and Entertainment Security",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610412/sr-security-engineer-global-media-and-entertainment-security",
+"d": "2026-11-20"
+},
+{
+"t": "Software Development Engineer, AWS Security, AWS Secinformatics",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610660/software-development-engineer-aws-security-aws-secinformatics",
+"d": "2026-11-20"
+},
+{
+"t": "Content Security Specialist, GME Content Security",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610392/content-security-specialist-gme-content-security",
+"d": "2026-11-20"
+},
+{
+"t": "Content Security Specialist, GME Content Security",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610419/content-security-specialist-gme-content-security",
+"d": "2026-11-20"
+},
+{
+"t": "Content Security Specialist, GME Content Security",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610418/content-security-specialist-gme-content-security",
+"d": "2026-11-20"
+},
+{
+"t": "Software Development Manager, Amazon Security",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610695/software-development-manager-amazon-security",
+"d": "2026-11-20"
+},
+{
+"t": "Data Engineer II, Veritas, Security Tools Foundation",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610393/data-engineer-ii-veritas-security-tools-foundation",
+"d": "2026-11-20"
+},
+{
+"t": "Systems Development Manager, Amazon Foundational Security Services",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610693/systems-development-manager-amazon-foundational-security-services",
+"d": "2026-11-20"
+},
+{
 "t": "Software Development Engineer II, Amazon Inspector Security Engineering",
 "c": "Amazon",
 "u": "https://www.amazon.jobs/en/jobs/10610063/software-development-engineer-ii-amazon-inspector-security-engineering",
+"d": "2026-11-20"
+},
+{
+"t": "Software Development Engineer II, Security Products",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610404/software-development-engineer-ii-security-products",
+"d": "2026-11-20"
+},
+{
+"t": "Sr. Physical Security Engineer, Data Center Design Engineering",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10606814/sr-physical-security-engineer-data-center-design-engineering",
 "d": "2026-11-20"
 },
 {
@@ -18938,6 +19696,12 @@
 "t": "Data Center Security Manager, DUB South Security",
 "c": "Amazon",
 "u": "https://www.amazon.jobs/en/jobs/10608064/data-center-security-manager-dub-south-security",
+"d": "2026-11-18"
+},
+{
+"t": "Security Engineer II - AMZ10563834",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10608029/security-engineer-ii-amz10563834",
 "d": "2026-11-18"
 },
 {
@@ -19137,109 +19901,79 @@
 "c": "Amazon",
 "u": "https://www.amazon.jobs/en/jobs/10602164/software-dev-engineer-aws-proserve-gdo-security-tooling-and-compliance-engineering",
 "d": "2026-11-11"
-},
-{
-"t": "Security Engineer II, Security Incident Response Team (SIRT)",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10602820/security-engineer-ii-security-incident-response-team-sirt",
-"d": "2026-11-11"
-},
-{
-"t": "Software Development Engineer, US Amazon Dedicated Cloud Security",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10601978/software-development-engineer-us-amazon-dedicated-cloud-security",
-"d": "2026-11-11"
-},
-{
-"t": "Software Development Engineer, US Amazon Dedicated Cloud Security",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10601979/software-development-engineer-us-amazon-dedicated-cloud-security",
-"d": "2026-11-11"
-},
-{
-"t": "AWS Security Operations/Incident Response Engineer, US Amazon Dedicated Cloud Security",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10601980/aws-security-operations-incident-response-engineer-us-amazon-dedicated-cloud-security",
-"d": "2026-11-11"
-},
-{
-"t": "Software Development Engineer II, AWS Security SecDevOps",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10602558/software-development-engineer-ii-aws-security-secdevops",
-"d": "2026-11-11"
-},
-{
-"t": "Security Industry Specialist II",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10601720/security-industry-specialist-ii",
-"d": "2026-11-10"
-},
-{
-"t": "Security Engineer II–AMZ011502",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10601784/security-engineer-ii-amz011502",
-"d": "2026-11-10"
-},
-{
-"t": "Software Development Engineer II, Security Automation",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10601844/software-development-engineer-ii-security-automation",
-"d": "2026-11-10"
-},
-{
-"t": "Software Development Engineer II, Security Automation",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10601845/software-development-engineer-ii-security-automation",
-"d": "2026-11-10"
-},
-{
-"t": "Software Dev Engineer, AWS Identity Analytics",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10601775/software-dev-engineer-aws-identity-analytics",
-"d": "2026-11-10"
-},
-{
-"t": "Global Security Operations Center Manager, Protective Services, Business Assurance Center",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10601229/global-security-operations-center-manager-protective-services-business-assurance-center",
-"d": "2026-11-10"
-},
-{
-"t": "Security Clearance Processing Administrator, US ADC Security",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10600787/security-clearance-processing-administrator-us-adc-security",
-"d": "2026-11-10"
-},
-{
-"t": "Security Engineer II, AWS Vulnerability Management, Third Party Software",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10600786/security-engineer-ii-aws-vulnerability-management-third-party-software",
-"d": "2026-11-10"
-},
-{
-"t": "Security Clearance Processing Administrator, US ADC Security",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10600791/security-clearance-processing-administrator-us-adc-security",
-"d": "2026-11-10"
-},
-{
-"t": "Security Engineer, CS Security",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10601538/security-engineer-cs-security",
-"d": "2026-11-10"
-},
-{
-"t": "Security Engineer II, Customer Service Security",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10601542/security-engineer-ii-customer-service-security",
-"d": "2026-11-10"
 }
 ],
 "data": [
 {
+"t": "Expansion Transaction Manager , APAC Data Center Supply Solutions",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610938/expansion-transaction-manager-apac-data-center-supply-solutions",
+"d": "2026-11-21"
+},
+{
+"t": "Quality Associate, LMAQ, Last Mile Analytics and Quality (LMAQ)",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10599654/quality-associate-lmaq-last-mile-analytics-and-quality-lmaq",
+"d": "2026-11-21"
+},
+{
+"t": "Cost Analyst, Cost Management, Strategic Portfolio Management",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610937/cost-analyst-cost-management-strategic-portfolio-management",
+"d": "2026-11-21"
+},
+{
+"t": "Quality Associate, LMAQ, Last Mile Analytics and Quality (LMAQ)",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10587611/quality-associate-lmaq-last-mile-analytics-and-quality-lmaq",
+"d": "2026-11-21"
+},
+{
+"t": "Data Center Controls Engineer",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610750/data-center-controls-engineer",
+"d": "2026-11-20"
+},
+{
+"t": "Data Scientist II, Region Flexibility",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610818/data-scientist-ii-region-flexibility",
+"d": "2026-11-20"
+},
+{
+"t": "Business Analyst II - AMZ10237573",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610408/business-analyst-ii-amz10237573",
+"d": "2026-11-20"
+},
+{
+"t": "Process Analyst, EU Central Operations Analytics",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610312/process-analyst-eu-central-operations-analytics",
+"d": "2026-11-20"
+},
+{
+"t": "Data Center Manager",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610644/data-center-manager",
+"d": "2026-11-20"
+},
+{
 "t": "Data Center Operation/Network tech, Rack Life Cycle",
 "c": "Amazon",
 "u": "https://www.amazon.jobs/en/jobs/10610075/data-center-operation-network-tech-rack-life-cycle",
+"d": "2026-11-20"
+},
+{
+"t": "Systems Automation Engineer, Data Center Operations - Business Automation & Optimization, Business Automation & Optimization",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610540/systems-automation-engineer-data-center-operations-business-automation-optimization-business-automation-optimization",
+"d": "2026-11-20"
+},
+{
+"t": "Data Center Project Architect, AWS DC Design Engineering",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610569/data-center-project-architect-aws-dc-design-engineering",
 "d": "2026-11-20"
 },
 {
@@ -19249,15 +19983,51 @@
 "d": "2026-11-20"
 },
 {
+"t": "Data Engineer, Central InfraOps Analytics Team",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610630/data-engineer-central-infraops-analytics-team",
+"d": "2026-11-20"
+},
+{
 "t": "Quality Associate, LMAQ, Last Mile Analytics and Quality (LMAQ)",
 "c": "Amazon",
 "u": "https://www.amazon.jobs/en/jobs/10605169/quality-associate-lmaq-last-mile-analytics-and-quality-lmaq",
 "d": "2026-11-20"
 },
 {
+"t": "Data Engineer, Central InfraOps Analytics Team",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610625/data-engineer-central-infraops-analytics-team",
+"d": "2026-11-20"
+},
+{
 "t": "Quality Associate, LMAQ, Last Mile Analytics and Quality (LMAQ)",
 "c": "Amazon",
 "u": "https://www.amazon.jobs/en/jobs/10604189/quality-associate-lmaq-last-mile-analytics-and-quality-lmaq",
+"d": "2026-11-20"
+},
+{
+"t": "Data Engineer I",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610327/data-engineer-i",
+"d": "2026-11-20"
+},
+{
+"t": "Real Estate Development Manager - Colo, Data Center Supply Solutions",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610518/real-estate-development-manager-colo-data-center-supply-solutions",
+"d": "2026-11-20"
+},
+{
+"t": "Investigations Analyst, Safety, NAST",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10599214/investigations-analyst-safety-nast",
+"d": "2026-11-20"
+},
+{
+"t": "Senior Business Intelligence Engineer, Prime Air",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610458/senior-business-intelligence-engineer-prime-air",
 "d": "2026-11-20"
 },
 {
@@ -19335,6 +20105,12 @@
 {
 "t": "Data Center Manager",
 "c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10609284/data-center-manager",
+"d": "2026-11-19"
+},
+{
+"t": "Data Center Manager",
+"c": "Amazon",
 "u": "https://www.amazon.jobs/en/jobs/10609283/data-center-manager",
 "d": "2026-11-19"
 },
@@ -19401,7 +20177,7 @@
 {
 "t": "Investigations Analyst, Safety, NAST",
 "c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10599212/investigations-analyst-safety-nast",
+"u": "https://www.amazon.jobs/en/jobs/10599213/investigations-analyst-safety-nast",
 "d": "2026-11-19"
 },
 {
@@ -19433,6 +20209,12 @@
 "c": "Amazon",
 "u": "https://www.amazon.jobs/en/jobs/10609439/software-dev-engineer-business-data-technologies",
 "d": "2026-11-19"
+},
+{
+"t": "Data Scientist III - AMZ10593723",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10608784/data-scientist-iii-amz10593723",
+"d": "2026-11-18"
 },
 {
 "t": "Business Analyst II - AMZ10563906",
@@ -19477,124 +20259,10 @@
 "d": "2026-11-18"
 },
 {
-"t": "Software Development Engineer, Robot Data Platform , Fauna",
+"t": "Data Scientist III - AMZ10563931",
 "c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10606738/software-development-engineer-robot-data-platform-fauna",
+"u": "https://www.amazon.jobs/en/jobs/10608028/data-scientist-iii-amz10563931",
 "d": "2026-11-18"
-},
-{
-"t": "Senior Tech Prog Mgr, Data Center Simulations, Data Center Learning",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10607787/senior-tech-prog-mgr-data-center-simulations-data-center-learning",
-"d": "2026-11-18"
-},
-{
-"t": "Data Center Facility Manager, AWS Infrastructure Operations",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10606948/data-center-facility-manager-aws-infrastructure-operations",
-"d": "2026-11-18"
-},
-{
-"t": "Data Center Chief Engineer",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10608855/data-center-chief-engineer",
-"d": "2026-11-18"
-},
-{
-"t": "Data Center Chief Engineer, Project Holiday",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10606690/data-center-chief-engineer-project-holiday",
-"d": "2026-11-18"
-},
-{
-"t": "Data Engineer, DSP Analytics",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10607821/data-engineer-dsp-analytics",
-"d": "2026-11-18"
-},
-{
-"t": "Sr. Business Analyst, Strategic Vendor Acceleration",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10607733/sr-business-analyst-strategic-vendor-acceleration",
-"d": "2026-11-18"
-},
-{
-"t": "Business Analyst - First Mile S&OP, S&OP",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10607959/business-analyst-first-mile-s-op-s-op",
-"d": "2026-11-18"
-},
-{
-"t": "Data Scientist II, PXT Central Science",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10607436/data-scientist-ii-pxt-central-science",
-"d": "2026-11-17"
-},
-{
-"t": "Cleared Data Center Electrical Field Engineer, Field Engineering",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10607374/cleared-data-center-electrical-field-engineer-field-engineering",
-"d": "2026-11-17"
-},
-{
-"t": "Data Center Manager, DCO",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10607175/data-center-manager-dco",
-"d": "2026-11-17"
-},
-{
-"t": "Data Center Technical Support Operations Engr, AWS Infra-operation DCEO",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10606895/data-center-technical-support-operations-engr-aws-infra-operation-dceo",
-"d": "2026-11-17"
-},
-{
-"t": "Senior Data Engineer, Accounting",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10607675/senior-data-engineer-accounting",
-"d": "2026-11-17"
-},
-{
-"t": "DCEO Engineer, Data Center Engineering Operations, Infraops",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10606921/dceo-engineer-data-center-engineering-operations-infraops",
-"d": "2026-11-17"
-},
-{
-"t": "Data Engineer , Amazon Customer Service",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10606994/data-engineer-amazon-customer-service",
-"d": "2026-11-17"
-},
-{
-"t": "Systems Automation Engineer II, Data Center Operations, Business Automation & Optimization",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10607137/systems-automation-engineer-ii-data-center-operations-business-automation-optimization",
-"d": "2026-11-17"
-},
-{
-"t": "Systems Automation Engineer, Availability , Data Center Operations, Business Automation & Optimization",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10607138/systems-automation-engineer-availability-data-center-operations-business-automation-optimization",
-"d": "2026-11-17"
-},
-{
-"t": "Systems Development Engineer, DC Robotics, Data Center Robotics",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10606820/systems-development-engineer-dc-robotics-data-center-robotics",
-"d": "2026-11-17"
-},
-{
-"t": "Senior Software Development Engineer - Data Capture",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10606541/senior-software-development-engineer-data-capture",
-"d": "2026-11-17"
-},
-{
-"t": "Engineering Manager, Data Center Electrical Products and Services",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10606817/engineering-manager-data-center-electrical-products-and-services",
-"d": "2026-11-17"
 }
 ],
 "infra": [
@@ -19611,9 +20279,33 @@
 "d": "2026-11-20"
 },
 {
+"t": "Software Development Engineer, Network Operations",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10607608/software-development-engineer-network-operations",
+"d": "2026-11-20"
+},
+{
+"t": "Tecnico de manutenção , Amazon Reliability Maintenance Engineering - IntlRME",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10608859/tecnico-de-manutencao-amazon-reliability-maintenance-engineering-intlrme",
+"d": "2026-11-20"
+},
+{
+"t": "Senior Camera Systems Engineer",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610703/senior-camera-systems-engineer",
+"d": "2026-11-20"
+},
+{
 "t": "Amazon Technologies Systems Engineer, Reliability Engineering Team",
 "c": "Amazon",
 "u": "https://www.amazon.jobs/en/jobs/10610234/amazon-technologies-systems-engineer-reliability-engineering-team",
+"d": "2026-11-20"
+},
+{
+"t": "Senior Real Estate Development Manager - IAD, AWS Infrastructure Services, AWS DC Supply Solutions - VAR",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610517/senior-real-estate-development-manager-iad-aws-infrastructure-services-aws-dc-supply-solutions-var",
 "d": "2026-11-20"
 },
 {
@@ -19665,12 +20357,6 @@
 "d": "2026-11-19"
 },
 {
-"t": "Systems Engineer, Special",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10609517/systems-engineer-special",
-"d": "2026-11-19"
-},
-{
 "t": "Reliability Engineer",
 "c": "Amazon",
 "u": "https://www.amazon.jobs/en/jobs/10609758/reliability-engineer",
@@ -19704,6 +20390,12 @@
 "t": "Principal, Infrastructure Technical Business Developer, Global Connectivity Infrastructure Development",
 "c": "Amazon",
 "u": "https://www.amazon.jobs/en/jobs/10608680/principal-infrastructure-technical-business-developer-global-connectivity-infrastructure-development",
+"d": "2026-11-18"
+},
+{
+"t": "Network Dev Engineer III - AMZ10403606",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10608014/network-dev-engineer-iii-amz10403606",
 "d": "2026-11-18"
 },
 {
@@ -19833,12 +20525,6 @@
 "d": "2026-11-16"
 },
 {
-"t": "Cloud Migration Architect, Telco, Telco Industry",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10605600/cloud-migration-architect-telco-telco-industry",
-"d": "2026-11-16"
-},
-{
 "t": "Systems Engineer, Relay Product and Tech",
 "c": "Amazon",
 "u": "https://www.amazon.jobs/en/jobs/10606181/systems-engineer-relay-product-and-tech",
@@ -19855,12 +20541,6 @@
 "c": "Amazon",
 "u": "https://www.amazon.jobs/en/jobs/10606497/software-development-engineer-transactional-services-database-distributed-systems",
 "d": "2026-11-16"
-},
-{
-"t": "Systems Engineer, European Sovereign Cloud",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10604140/systems-engineer-european-sovereign-cloud",
-"d": "2026-11-13"
 },
 {
 "t": "Control Systems Engineer – Rapid Response Team, OMHS Field Technical Support",
@@ -19945,18 +20625,6 @@
 "c": "Amazon",
 "u": "https://www.amazon.jobs/en/jobs/10603254/expansion-manager-amazon-dedicated-cloud-us-regions-infrastructure-operations-planning-team",
 "d": "2026-11-12"
-},
-{
-"t": "Infrastructure Planning Mgr, GND - Planning, Implementation, Coordination (PIC) Team",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10601156/infrastructure-planning-mgr-gnd-planning-implementation-coordination-pic-team",
-"d": "2026-11-12"
-},
-{
-"t": "Software Development Engineer , Software Defined Network Control Plane, Amazon LEO",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10603822/software-development-engineer-software-defined-network-control-plane-amazon-leo",
-"d": "2026-11-12"
 }
 ],
 "mobile_fe": [
@@ -20001,12 +20669,6 @@
 "c": "Amazon",
 "u": "https://www.amazon.jobs/en/jobs/10594886/front-end-development-engineer-dash",
 "d": "2026-11-03"
-},
-{
-"t": "Software Development Engineer - App Performance, Mobile App Foundations",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10594512/software-development-engineer-app-performance-mobile-app-foundations",
-"d": "2026-11-02"
 },
 {
 "t": "Software Development Engineer, Mobile App Foundations, BuilderWorks",
@@ -20065,25 +20727,31 @@
 {
 "t": "Senior Software Engineer, Computational Photography and HDR+, Pixel and XR Camera, Mobile (Android)",
 "c": "Google",
-"u": "https://www.google.com/about/careers/applications/jobs/results/76475541602869958",
+"u": "https://www.google.com/about/careers/applications/jobs/results/138707386486399686",
 "d": ""
 },
 {
 "t": "Senior Software Engineer, Mobile (iOS)",
 "c": "Google",
-"u": "https://www.google.com/about/careers/applications/jobs/results/133561215996568262",
+"u": "https://www.google.com/about/careers/applications/jobs/results/89965613241246406",
+"d": ""
+},
+{
+"t": "Director, YouTube Global Product Partnerhsips, Commerce, Mobile and Platforms",
+"c": "Google",
+"u": "https://www.google.com/about/careers/applications/jobs/results/127898875800232646",
 "d": ""
 },
 {
 "t": "Software Engineer, Android Laptops and Tablets Camera",
 "c": "Google",
-"u": "https://www.google.com/about/careers/applications/jobs/results/134960218646684358",
+"u": "https://www.google.com/about/careers/applications/jobs/results/131448641842750150",
 "d": ""
 },
 {
 "t": "Software Engineer III, Mobile, Android",
 "c": "Google",
-"u": "https://www.google.com/about/careers/applications/jobs/results/101168305019986630",
+"u": "https://www.google.com/about/careers/applications/jobs/results/117513580453995206",
 "d": ""
 },
 {
@@ -20095,7 +20763,7 @@
 {
 "t": "Senior Software Engineer, Mobile, Android",
 "c": "Google",
-"u": "https://www.google.com/about/careers/applications/jobs/results/73408078107550406",
+"u": "https://www.google.com/about/careers/applications/jobs/results/102754780039783110",
 "d": ""
 },
 {
@@ -20107,43 +20775,43 @@
 {
 "t": "Staff Engineer, YouTube Shorts Creation Editor, Android",
 "c": "Google",
-"u": "https://www.google.com/about/careers/applications/jobs/results/75925895310648006",
+"u": "https://www.google.com/about/careers/applications/jobs/results/82894606449943238",
 "d": ""
 },
 {
 "t": "Technical Lead, Android Growth Systems and App Foundations",
 "c": "Google",
-"u": "https://www.google.com/about/careers/applications/jobs/results/137845506809176774",
+"u": "https://www.google.com/about/careers/applications/jobs/results/81978958077141702",
 "d": ""
 },
 {
 "t": "Staff Software Engineer, Android Growth Systems and App Foundations",
 "c": "Google",
-"u": "https://www.google.com/about/careers/applications/jobs/results/137052634371498694",
+"u": "https://www.google.com/about/careers/applications/jobs/results/138717572001342150",
 "d": ""
 },
 {
-"t": "Senior Software Engineer, Mobile, Android",
+"t": "Staff Software Engineer, Android Laptop and Tablet System Software, Platform Inputs",
 "c": "Google",
-"u": "https://www.google.com/about/careers/applications/jobs/results/131786088833262278",
+"u": "https://www.google.com/about/careers/applications/jobs/results/130662034420179654",
 "d": ""
 },
 {
 "t": "Senior Software Engineer, iOS, CarPlay, Google Maps",
 "c": "Google",
-"u": "https://www.google.com/about/careers/applications/jobs/results/143187567804588742",
+"u": "https://www.google.com/about/careers/applications/jobs/results/74300984628519622",
 "d": ""
 },
 {
 "t": "Senior Software Engineer, Mobile (iOS)",
 "c": "Google",
-"u": "https://www.google.com/about/careers/applications/jobs/results/95479854912152262",
+"u": "https://www.google.com/about/careers/applications/jobs/results/83822755325059782",
 "d": ""
 },
 {
 "t": "Senior Software Engineer, Gemini Enterprise Mobile",
 "c": "Google",
-"u": "https://www.google.com/about/careers/applications/jobs/results/126087292954518214",
+"u": "https://www.google.com/about/careers/applications/jobs/results/108599621986460358",
 "d": ""
 },
 {
@@ -20155,25 +20823,19 @@
 {
 "t": "Software Engineer III, Mobile, iOS",
 "c": "Google",
-"u": "https://www.google.com/about/careers/applications/jobs/results/81800149998674630",
+"u": "https://www.google.com/about/careers/applications/jobs/results/113884225714692806",
 "d": ""
 },
 {
 "t": "Senior Software Engineer, iOS, Google Photos",
 "c": "Google",
-"u": "https://www.google.com/about/careers/applications/jobs/results/89208541235028678",
+"u": "https://www.google.com/about/careers/applications/jobs/results/143938129714127558",
 "d": ""
 },
 {
 "t": "Software Engineer III, Connectivity, Android microXR",
 "c": "Google",
-"u": "https://www.google.com/about/careers/applications/jobs/results/100996523508015814",
-"d": ""
-},
-{
-"t": "Staff Software Engineer, Mobile (Android)",
-"c": "Google",
-"u": "https://www.google.com/about/careers/applications/jobs/results/143872361685230278",
+"u": "https://www.google.com/about/careers/applications/jobs/results/90522880684499654",
 "d": ""
 },
 {
@@ -20185,7 +20847,7 @@
 {
 "t": "Growth Manager, Google Ads Mobile App, AppDev (English, Japanese)",
 "c": "Google",
-"u": "https://www.google.com/about/careers/applications/jobs/results/125423877273592518",
+"u": "https://www.google.com/about/careers/applications/jobs/results/77652927430173382",
 "d": ""
 },
 {
@@ -20203,31 +20865,25 @@
 {
 "t": "Software Engineer III, Front End",
 "c": "Google",
-"u": "https://www.google.com/about/careers/applications/jobs/results/113107691332608710",
+"u": "https://www.google.com/about/careers/applications/jobs/results/121649749924160198",
 "d": ""
 },
 {
 "t": "Senior Software Engineer, Front End",
 "c": "Google",
-"u": "https://www.google.com/about/careers/applications/jobs/results/89335296457351878",
-"d": ""
-},
-{
-"t": "Engineering Manager, Classroom Mobile Platform Team",
-"c": "Google",
-"u": "https://www.google.com/about/careers/applications/jobs/results/108189960221139654",
+"u": "https://www.google.com/about/careers/applications/jobs/results/101858678063145670",
 "d": ""
 },
 {
 "t": "Software Engineer III, Front End",
 "c": "Google",
-"u": "https://www.google.com/about/careers/applications/jobs/results/130140910200464070",
+"u": "https://www.google.com/about/careers/applications/jobs/results/92143977435669190",
 "d": ""
 },
 {
 "t": "Mobile Technical Lead, RCS For Business",
 "c": "Google",
-"u": "https://www.google.com/about/careers/applications/jobs/results/76209749699240646",
+"u": "https://www.google.com/about/careers/applications/jobs/results/131677068336210630",
 "d": ""
 },
 {
@@ -20245,7 +20901,7 @@
 {
 "t": "Senior Software Engineer, Mobile, Android",
 "c": "Google",
-"u": "https://www.google.com/about/careers/applications/jobs/results/91986104369980102",
+"u": "https://www.google.com/about/careers/applications/jobs/results/80306257293910726",
 "d": ""
 },
 {
@@ -20257,7 +20913,7 @@
 {
 "t": "Mobile Software Engineer, Multiplatform, Early Careers",
 "c": "Google",
-"u": "https://www.google.com/about/careers/applications/jobs/results/130014112833774278",
+"u": "https://www.google.com/about/careers/applications/jobs/results/98438078061781702",
 "d": ""
 },
 {
@@ -20269,13 +20925,13 @@
 {
 "t": "Sr. Software Engineer (Starlink Mobile)",
 "c": "SpaceX",
-"u": "https://boards.greenhouse.io/spacex/jobs/8935776002?gh_jid=8935776002",
+"u": "https://boards.greenhouse.io/spacex/jobs/8935801002?gh_jid=8935801002",
 "d": "2026-11-10"
 },
 {
 "t": "Sr. Software Engineer (Starlink Mobile)",
 "c": "SpaceX",
-"u": "https://boards.greenhouse.io/spacex/jobs/8935801002?gh_jid=8935801002",
+"u": "https://boards.greenhouse.io/spacex/jobs/8935776002?gh_jid=8935776002",
 "d": "2026-11-10"
 },
 {
@@ -20319,13 +20975,91 @@
 "c": "SpaceX",
 "u": "https://boards.greenhouse.io/spacex/jobs/8568939002?gh_jid=8568939002",
 "d": "2026-05-28"
+},
+{
+"t": "Software Engineer (Starlink Mobile)",
+"c": "SpaceX",
+"u": "https://boards.greenhouse.io/spacex/jobs/8567634002?gh_jid=8567634002",
+"d": "2026-05-28"
+},
+{
+"t": "Electrical Design Engineer (Starlink Mobile)",
+"c": "SpaceX",
+"u": "https://boards.greenhouse.io/spacex/jobs/8563212002?gh_jid=8563212002",
+"d": "2026-05-26"
 }
 ],
 "swe": [
 {
+"t": "Principal Engineer - Leo Flight Dynamics , Amazon Leo",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610908/principal-engineer-leo-flight-dynamics-amazon-leo",
+"d": "2026-11-21"
+},
+{
+"t": "Software Dev Engineer in Test , Amazon Leo Payload",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610933/software-dev-engineer-in-test-amazon-leo-payload",
+"d": "2026-11-21"
+},
+{
+"t": "Sr. Software Development Engineer",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610986/sr-software-development-engineer",
+"d": "2026-11-21"
+},
+{
+"t": "Sr. Systems Dev Engineer, Production Automation, Amazon Leo",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610821/sr-systems-dev-engineer-production-automation-amazon-leo",
+"d": "2026-11-20"
+},
+{
+"t": "Sr. Software Development Engineer, Amazon Leo Government, ALG Software",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610535/sr-software-development-engineer-amazon-leo-government-alg-software",
+"d": "2026-11-20"
+},
+{
+"t": "Senior Software Development Engineer III, Secure Connection Services (SCS)",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610303/senior-software-development-engineer-iii-secure-connection-services-scs",
+"d": "2026-11-20"
+},
+{
+"t": "Software Dev Engineer, Antenna Calibration, Amazon Leo",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610551/software-dev-engineer-antenna-calibration-amazon-leo",
+"d": "2026-11-20"
+},
+{
+"t": "Software Development Engineer II, TopHat",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610705/software-development-engineer-ii-tophat",
+"d": "2026-11-20"
+},
+{
+"t": "Enterprise Act Engineer III - AMZ10593748",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610370/enterprise-act-engineer-iii-amz10593748",
+"d": "2026-11-20"
+},
+{
+"t": "Enterprise Act Engineer III - AMZ10593233",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610371/enterprise-act-engineer-iii-amz10593233",
+"d": "2026-11-20"
+},
+{
 "t": "Software Development Engineer , AWS CloudWatch",
 "c": "Amazon",
 "u": "https://www.amazon.jobs/en/jobs/10610061/software-development-engineer-aws-cloudwatch",
+"d": "2026-11-20"
+},
+{
+"t": "Software Development Engineer",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610616/software-development-engineer",
 "d": "2026-11-20"
 },
 {
@@ -20341,9 +21075,39 @@
 "d": "2026-11-20"
 },
 {
+"t": "Sr. Software Dev Engineer, Amazon Interactive Video Service (IVS)",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610549/sr-software-dev-engineer-amazon-interactive-video-service-ivs",
+"d": "2026-11-20"
+},
+{
+"t": "Sr. Software Dev Engineer, Amazon Interactive Video Service (IVS)",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610402/sr-software-dev-engineer-amazon-interactive-video-service-ivs",
+"d": "2026-11-20"
+},
+{
+"t": "Sr. RFIC Design Engineer, Amazon Leo",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10609910/sr-rfic-design-engineer-amazon-leo",
+"d": "2026-11-20"
+},
+{
+"t": "Software Development Engineer II, Amazon Teams",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610702/software-development-engineer-ii-amazon-teams",
+"d": "2026-11-20"
+},
+{
 "t": "Controls Engineer, North Asia, APAC Controls Deployment & Service",
 "c": "Amazon",
 "u": "https://www.amazon.jobs/en/jobs/10609972/controls-engineer-north-asia-apac-controls-deployment-service",
+"d": "2026-11-20"
+},
+{
+"t": "Software Development Engineer II, FleetWatch Team",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610684/software-development-engineer-ii-fleetwatch-team",
 "d": "2026-11-20"
 },
 {
@@ -20353,9 +21117,27 @@
 "d": "2026-11-20"
 },
 {
+"t": "Automation Engineer, RME",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610649/automation-engineer-rme",
+"d": "2026-11-20"
+},
+{
+"t": "System Development Engineer II, ISAP SafeGuard",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610555/system-development-engineer-ii-isap-safeguard",
+"d": "2026-11-20"
+},
+{
 "t": "Software Development Engineer II, Holmes (Specialist Tech Engineering) , AWS Holmes, Specialist Tech Engineering",
 "c": "Amazon",
 "u": "https://www.amazon.jobs/en/jobs/10610161/software-development-engineer-ii-holmes-specialist-tech-engineering-aws-holmes-specialist-tech-engineering",
+"d": "2026-11-20"
+},
+{
+"t": "Engineering Project Manager, MEATR Operations Engineering",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610863/engineering-project-manager-meatr-operations-engineering",
 "d": "2026-11-20"
 },
 {
@@ -20365,9 +21147,39 @@
 "d": "2026-11-20"
 },
 {
+"t": "Senior Business Developer - Commercial, Amazon Shipping",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610870/senior-business-developer-commercial-amazon-shipping",
+"d": "2026-11-20"
+},
+{
+"t": "Liquid Cooling Chief Engineer, Liquid Cooling Ceneter of Excellence",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610457/liquid-cooling-chief-engineer-liquid-cooling-ceneter-of-excellence",
+"d": "2026-11-20"
+},
+{
+"t": "Sr Software Development Engineer - Amazon MSK, Managed Streaming for Kafka",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610428/sr-software-development-engineer-amazon-msk-managed-streaming-for-kafka",
+"d": "2026-11-20"
+},
+{
 "t": "Senior Engineer, JP Operations Engineering, JCFS, JP Ops Eng, JCFS",
 "c": "Amazon",
 "u": "https://www.amazon.jobs/en/jobs/10610022/senior-engineer-jp-operations-engineering-jcfs-jp-ops-eng-jcfs",
+"d": "2026-11-20"
+},
+{
+"t": "Software Development Engineer, DFG: Guidance",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610712/software-development-engineer-dfg-guidance",
+"d": "2026-11-20"
+},
+{
+"t": "Software Development Engineer II, Amazon Leo",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10592729/software-development-engineer-ii-amazon-leo",
 "d": "2026-11-20"
 },
 {
@@ -20537,157 +21349,91 @@
 "c": "Amazon",
 "u": "https://www.amazon.jobs/en/jobs/10609407/senior-software-development-engineer-tech-l-dso-demand-science-optimization",
 "d": "2026-11-19"
-},
-{
-"t": "Software Development Engineer III, FAI Asset Creation Technology (FACT)",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10609500/software-development-engineer-iii-fai-asset-creation-technology-fact",
-"d": "2026-11-19"
-},
-{
-"t": "Software Development Engineer II, FAI Asset Creation Technology (FACT)",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10609505/software-development-engineer-ii-fai-asset-creation-technology-fact",
-"d": "2026-11-19"
-},
-{
-"t": "Software Dev Engineer II, Amazon Leo",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10609808/software-dev-engineer-ii-amazon-leo",
-"d": "2026-11-19"
-},
-{
-"t": "Software Dev Engineer II, Amazon OpenSearch",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10608170/software-dev-engineer-ii-amazon-opensearch",
-"d": "2026-11-19"
-},
-{
-"t": "SDE II , AWS IoT Fleet Management",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10608894/sde-ii-aws-iot-fleet-management",
-"d": "2026-11-19"
-},
-{
-"t": "Software Development Engineer II, AWS IoT Fleet Management",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10608895/software-development-engineer-ii-aws-iot-fleet-management",
-"d": "2026-11-19"
-},
-{
-"t": "Sr Software Development Engineer, Piezo",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10609453/sr-software-development-engineer-piezo",
-"d": "2026-11-19"
-},
-{
-"t": "Software Development Manager, AWS IoT Fleet Management",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10608752/software-development-manager-aws-iot-fleet-management",
-"d": "2026-11-19"
-},
-{
-"t": "Software Development Manager, Amazon Music, App Foundry",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10609218/software-development-manager-amazon-music-app-foundry",
-"d": "2026-11-19"
-},
-{
-"t": "Software Development Engineer, Amazon Quick",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10609930/software-development-engineer-amazon-quick",
-"d": "2026-11-19"
-},
-{
-"t": "Software Development Engineer II",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10609756/software-development-engineer-ii",
-"d": "2026-11-19"
-},
-{
-"t": "Sr. Software Development Manager, Search Relevance, Amazon Search",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10609448/sr-software-development-manager-search-relevance-amazon-search",
-"d": "2026-11-19"
-},
-{
-"t": "Software Development Engineer - AWS OpenSearch, OpenSearch Platform Team",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10598937/software-development-engineer-aws-opensearch-opensearch-platform-team",
-"d": "2026-11-19"
-},
-{
-"t": "Software Development Engineer, Creator Marketplace",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10609773/software-development-engineer-creator-marketplace",
-"d": "2026-11-19"
-},
-{
-"t": "Field Service Engineer, PSO, Amazon Prime Air",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10609752/field-service-engineer-pso-amazon-prime-air",
-"d": "2026-11-19"
-},
-{
-"t": "Software Development Engineer II, Alexa 3P Experiences, Alexa 3P Experiences",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10603415/software-development-engineer-ii-alexa-3p-experiences-alexa-3p-experiences",
-"d": "2026-11-19"
-},
-{
-"t": "System Development Engineer, Mfg Bring Up and Test, AWS Mainstream Compute",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10600445/system-development-engineer-mfg-bring-up-and-test-aws-mainstream-compute",
-"d": "2026-11-19"
-},
-{
-"t": "Formal Verification Engineer, Annapurna Labs",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10608292/formal-verification-engineer-annapurna-labs",
-"d": "2026-11-19"
-},
-{
-"t": "Sr System Development Engineer, Mfg Bring Up and Test, Mainstream Compute",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10600442/sr-system-development-engineer-mfg-bring-up-and-test-mainstream-compute",
-"d": "2026-11-19"
-},
-{
-"t": "Sr Manufacturing NPI Product Engineer, AWS Mainstream Compute",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10600443/sr-manufacturing-npi-product-engineer-aws-mainstream-compute",
-"d": "2026-11-19"
-},
-{
-"t": "Software Development Engineer , Customer Service Experience (CSX)",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10609159/software-development-engineer-customer-service-experience-csx",
-"d": "2026-11-19"
-},
-{
-"t": "Software Development Engineer, Alexa for Shopping on Detail Page",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10609546/software-development-engineer-alexa-for-shopping-on-detail-page",
-"d": "2026-11-19"
-},
-{
-"t": "Software Engineer I",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10608848/software-engineer-i",
-"d": "2026-11-18"
-},
-{
-"t": "Software Dev Engineer III - AMZ10593798",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10608841/software-dev-engineer-iii-amz10593798",
-"d": "2026-11-18"
 }
 ],
 "other": [
 {
+"t": "Production Manager, Leo Solar Value Stream",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610932/production-manager-leo-solar-value-stream",
+"d": "2026-11-21"
+},
+{
+"t": "Flight Monitor, Amazon - Prime Air",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610877/flight-monitor-amazon-prime-air",
+"d": "2026-11-20"
+},
+{
+"t": "Flight Monitor, Amazon - Prime Air",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610782/flight-monitor-amazon-prime-air",
+"d": "2026-11-20"
+},
+{
+"t": "Prime Air Ground Handler, Amazon Prime Air",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610780/prime-air-ground-handler-amazon-prime-air",
+"d": "2026-11-20"
+},
+{
+"t": "Flight Monitor, Amazon - Prime Air",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610775/flight-monitor-amazon-prime-air",
+"d": "2026-11-20"
+},
+{
+"t": "Prime Air Ground Handler, Amazon Prime Air",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610773/prime-air-ground-handler-amazon-prime-air",
+"d": "2026-11-20"
+},
+{
+"t": "Prime Air Ground Handler, Amazon Prime Air",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610771/prime-air-ground-handler-amazon-prime-air",
+"d": "2026-11-20"
+},
+{
+"t": "Prime Air Ground Handler, Amazon Prime Air",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610766/prime-air-ground-handler-amazon-prime-air",
+"d": "2026-11-20"
+},
+{
+"t": "Flight Monitor, Amazon - Prime Air",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610764/flight-monitor-amazon-prime-air",
+"d": "2026-11-20"
+},
+{
+"t": "Pharmacy Manager - Honolulu, HI, Amazon Pharmacy",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610691/pharmacy-manager-honolulu-hi-amazon-pharmacy",
+"d": "2026-11-20"
+},
+{
+"t": "Manager, Local Tech BD, Local Ads",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610813/manager-local-tech-bd-local-ads",
+"d": "2026-11-20"
+},
+{
 "t": "Praktikum im Bereich Logistik - Witten - Start 2027",
 "c": "Amazon",
 "u": "https://www.amazon.jobs/en/jobs/10610249/praktikum-im-bereich-logistik-witten-start-2027",
+"d": "2026-11-20"
+},
+{
+"t": "Technicien(ne) Systèmes et Réseaux",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610333/technicien-ne-systemes-et-reseaux",
+"d": "2026-11-20"
+},
+{
+"t": "Technicien(ne) Systèmes et Réseaux, LYS2 - IT",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610336/technicien-ne-systemes-et-reseaux-lys2-it",
 "d": "2026-11-20"
 },
 {
@@ -20715,6 +21461,18 @@
 "d": "2026-11-20"
 },
 {
+"t": "NW Deployment Planner I, GND - Planning, Implementation, Coordination (PIC) Team",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610548/nw-deployment-planner-i-gnd-planning-implementation-coordination-pic-team",
+"d": "2026-11-20"
+},
+{
+"t": "Instock Manager Imports, Global Direct Sourcing",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610680/instock-manager-imports-global-direct-sourcing",
+"d": "2026-11-20"
+},
+{
 "t": "ファシリティエンジニア - DCEO（データセンターエンジニアリング・オペレーションズ）",
 "c": "Amazon",
 "u": "https://www.amazon.jobs/en/jobs/10610116/dceo",
@@ -20733,15 +21491,69 @@
 "d": "2026-11-20"
 },
 {
+"t": "Onsite Medical Representative",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610567/onsite-medical-representative",
+"d": "2026-11-20"
+},
+{
+"t": "Lead Associate",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610355/lead-associate",
+"d": "2026-11-20"
+},
+{
 "t": "Sr. Real Estate Development Manager, Real Estate Development",
 "c": "Amazon",
 "u": "https://www.amazon.jobs/en/jobs/10610144/sr-real-estate-development-manager-real-estate-development",
 "d": "2026-11-20"
 },
 {
+"t": "Marketplace Consultant - Spanish Speaker, ES 3P Strategic Account Services",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610294/marketplace-consultant-spanish-speaker-es-3p-strategic-account-services",
+"d": "2026-11-20"
+},
+{
+"t": "Applied Science Manager",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610687/applied-science-manager",
+"d": "2026-11-20"
+},
+{
 "t": "Team Lead - AMZL, team lead",
 "c": "Amazon",
 "u": "https://www.amazon.jobs/en/jobs/10610082/team-lead-amzl-team-lead",
+"d": "2026-11-20"
+},
+{
+"t": "Real Estate Portfolio Manager, Strategic Portfolio Management (SPM)",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610619/real-estate-portfolio-manager-strategic-portfolio-management-spm",
+"d": "2026-11-20"
+},
+{
+"t": "Risk Specialist I, AWS Payments & Fraud Prevention (P&FP)",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610300/risk-specialist-i-aws-payments-fraud-prevention-p-fp",
+"d": "2026-11-20"
+},
+{
+"t": "Risk Specialist I, AWS Payments & Fraud Prevention (P&FP)",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610295/risk-specialist-i-aws-payments-fraud-prevention-p-fp",
+"d": "2026-11-20"
+},
+{
+"t": "Risk Specialist I, AWS Payments & Fraud Prevention (P&FP)",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610299/risk-specialist-i-aws-payments-fraud-prevention-p-fp",
+"d": "2026-11-20"
+},
+{
+"t": "Risk Specialist I, AWS Payments & Fraud Prevention (P&FP)",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610296/risk-specialist-i-aws-payments-fraud-prevention-p-fp",
 "d": "2026-11-20"
 },
 {
@@ -20757,9 +21569,21 @@
 "d": "2026-11-20"
 },
 {
+"t": "Project Manager, GEMS, NA Startup",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610801/project-manager-gems-na-startup",
+"d": "2026-11-20"
+},
+{
 "t": "Capacity Specialist (12-month Fixed-Term Contract), Carrier Onboarding & Attrition",
 "c": "Amazon",
 "u": "https://www.amazon.jobs/en/jobs/10610119/capacity-specialist-12-month-fixed-term-contract-carrier-onboarding-attrition",
+"d": "2026-11-20"
+},
+{
+"t": "Manager, Program Management, RBS Cross Border",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610339/manager-program-management-rbs-cross-border",
 "d": "2026-11-20"
 },
 {
@@ -20769,9 +21593,93 @@
 "d": "2026-11-20"
 },
 {
+"t": "Responsable d'Equipe Logistique (H/F)",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610328/responsable-d-equipe-logistique-h-f",
+"d": "2026-11-20"
+},
+{
+"t": "Sr Customer Insights Manager, Relay Customer Insights",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610471/sr-customer-insights-manager-relay-customer-insights",
+"d": "2026-11-20"
+},
+{
+"t": "Analista de Inventário (Cajamar), Operações",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10607078/analista-de-inventario-cajamar-operacoes",
+"d": "2026-11-20"
+},
+{
+"t": "Sr. Media Specialist TAM, AWS Enterprise Support, Strategic Industries",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10600917/sr-media-specialist-tam-aws-enterprise-support-strategic-industries",
+"d": "2026-11-20"
+},
+{
+"t": "Técnico de Centro de Datos, DCEO",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610507/tecnico-de-centro-de-datos-dceo",
+"d": "2026-11-20"
+},
+{
+"t": "WHS Manager",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610399/whs-manager",
+"d": "2026-11-20"
+},
+{
+"t": "Design Technologist Intern FY2027 (Summer)",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610836/design-technologist-intern-fy2027-summer",
+"d": "2026-11-20"
+},
+{
+"t": "Manager II Program Management, Global Catalog Operations",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610313/manager-ii-program-management-global-catalog-operations",
+"d": "2026-11-20"
+},
+{
+"t": "Inv Specialist, IN, Worlwide Operations Investigations",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610415/inv-specialist-in-worlwide-operations-investigations",
+"d": "2026-11-20"
+},
+{
+"t": "Inv Specialist, IN, Worlwide Operations Investigations",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610414/inv-specialist-in-worlwide-operations-investigations",
+"d": "2026-11-20"
+},
+{
+"t": "Manager - Relay Operations, MX Relay Ops",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610479/manager-relay-operations-mx-relay-ops",
+"d": "2026-11-20"
+},
+{
+"t": "Sr Interactive Art Director, Amazon Leo",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610748/sr-interactive-art-director-amazon-leo",
+"d": "2026-11-20"
+},
+{
+"t": "Director, Applied Science, Prime Video Personalization & Discovery",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610568/director-applied-science-prime-video-personalization-discovery",
+"d": "2026-11-20"
+},
+{
 "t": "Food Regulatory Manager, Food Safety Private Brands",
 "c": "Amazon",
 "u": "https://www.amazon.jobs/en/jobs/10609107/food-regulatory-manager-food-safety-private-brands",
+"d": "2026-11-20"
+},
+{
+"t": "Area Maintenance Manager",
+"c": "Amazon",
+"u": "https://www.amazon.jobs/en/jobs/10610650/area-maintenance-manager",
 "d": "2026-11-20"
 },
 {
@@ -20803,246 +21711,6 @@
 "c": "Amazon",
 "u": "https://www.amazon.jobs/en/jobs/10609349/food-regulatory-manager-food-safety-team-eu",
 "d": "2026-11-20"
-},
-{
-"t": "Responsabile Reparto Logistico,  FC Operations",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10609942/responsabile-reparto-logistico-fc-operations",
-"d": "2026-11-19"
-},
-{
-"t": "Overnight Staff Pharmacist , Amazon Pharmacy",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10609860/overnight-staff-pharmacist-amazon-pharmacy",
-"d": "2026-11-19"
-},
-{
-"t": "Broadband Phased Array Antenna Architect, Payload Architecture Team",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10609799/broadband-phased-array-antenna-architect-payload-architecture-team",
-"d": "2026-11-19"
-},
-{
-"t": "Prime Air Ops Manager, Prime Air",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10609656/prime-air-ops-manager-prime-air",
-"d": "2026-11-19"
-},
-{
-"t": "ファシリティエンジニア - DCEO（データセンターエンジニアリング・オペレーションズ）",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10609346/dceo",
-"d": "2026-11-19"
-},
-{
-"t": "Test job- do not apply, eero",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10609225/test-job-do-not-apply-eero",
-"d": "2026-11-19"
-},
-{
-"t": "Tecnico/a Sicurezza sul Lavoro",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10609391/tecnico-a-sicurezza-sul-lavoro",
-"d": "2026-11-19"
-},
-{
-"t": "Praktikum im Bereich Logistik - Garbsen - Start 2027",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10609189/praktikum-im-bereich-logistik-garbsen-start-2027",
-"d": "2026-11-19"
-},
-{
-"t": "Recrutement de militaires et forces de l’ordre Amazon pour le nouveau site de Ensisheim",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10609214/recrutement-de-militaires-et-forces-de-l-ordre-amazon-pour-le-nouveau-site-de-ensisheim",
-"d": "2026-11-19"
-},
-{
-"t": "Praktikum im Bereich Logistik - Lengede - Start 2027",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10609187/praktikum-im-bereich-logistik-lengede-start-2027",
-"d": "2026-11-19"
-},
-{
-"t": "Praktikum im Bereich Logistik - Cloppenburg - Start 2027",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10609181/praktikum-im-bereich-logistik-cloppenburg-start-2027",
-"d": "2026-11-19"
-},
-{
-"t": "Instandhaltungstechniker:in",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10609166/instandhaltungstechniker-in",
-"d": "2026-11-19"
-},
-{
-"t": "Sr Devices Business Manager, Devices Business Management",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10609144/sr-devices-business-manager-devices-business-management",
-"d": "2026-11-19"
-},
-{
-"t": "プロセスアシスタント",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10609167/",
-"d": "2026-11-19"
-},
-{
-"t": "Sr. Phased Array DSP & Digital Beamforming Architect, Payload Architecture Team",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10609797/sr-phased-array-dsp-digital-beamforming-architect-payload-architecture-team",
-"d": "2026-11-19"
-},
-{
-"t": "Staffing Manager, Workforce Staffing",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10608870/staffing-manager-workforce-staffing",
-"d": "2026-11-19"
-},
-{
-"t": "Marketplace Consultant - Spanish Speaker, ES 3P Strategic Account Services",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10609132/marketplace-consultant-spanish-speaker-es-3p-strategic-account-services",
-"d": "2026-11-19"
-},
-{
-"t": "Tier 2 Technical Care Associate (French speaker), Amazon Leo",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10607234/tier-2-technical-care-associate-french-speaker-amazon-leo",
-"d": "2026-11-19"
-},
-{
-"t": "Tier 2 Technical Care Associate (French speaker), Amazon Leo",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10607232/tier-2-technical-care-associate-french-speaker-amazon-leo",
-"d": "2026-11-19"
-},
-{
-"t": "Tier 2 Technical Care Associate (French speaker), Amazon Leo",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10607241/tier-2-technical-care-associate-french-speaker-amazon-leo",
-"d": "2026-11-19"
-},
-{
-"t": "Tier 2 Technical Care Associate (German speaker), Amazon Leo",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10607246/tier-2-technical-care-associate-german-speaker-amazon-leo",
-"d": "2026-11-19"
-},
-{
-"t": "NW Deployment Planner I, GND - Planning, Implementation, Coordination (PIC) Team",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10607430/nw-deployment-planner-i-gnd-planning-implementation-coordination-pic-team",
-"d": "2026-11-19"
-},
-{
-"t": "Tier 2 Technical Care Associate (German speaker), Amazon Leo",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10607222/tier-2-technical-care-associate-german-speaker-amazon-leo",
-"d": "2026-11-19"
-},
-{
-"t": "Programmatic Media Manager, Prime Video",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10607437/programmatic-media-manager-prime-video",
-"d": "2026-11-19"
-},
-{
-"t": "Project Manager, GEMS, NA Startup",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10609210/project-manager-gems-na-startup",
-"d": "2026-11-19"
-},
-{
-"t": "Onsite Medical Representative",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10609687/onsite-medical-representative",
-"d": "2026-11-19"
-},
-{
-"t": "Process Improvement Specialist",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10605843/process-improvement-specialist",
-"d": "2026-11-19"
-},
-{
-"t": "EU ACES , EU ACES Inbound",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10609169/eu-aces-eu-aces-inbound",
-"d": "2026-11-19"
-},
-{
-"t": "Manager, Campaign & Creative Management",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10609830/manager-campaign-creative-management",
-"d": "2026-11-19"
-},
-{
-"t": "Risk Manager, Fraud Investigations, Recovery & Enforcement (FIRE)",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10609585/risk-manager-fraud-investigations-recovery-enforcement-fire",
-"d": "2026-11-19"
-},
-{
-"t": "Senior Manager, Quality, Fauna",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10608897/senior-manager-quality-fauna",
-"d": "2026-11-19"
-},
-{
-"t": "Case Mgr, US-PR [S]",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10609432/case-mgr-us-pr-s",
-"d": "2026-11-19"
-},
-{
-"t": "Agency Development Manager, SEA, Amazon Ads, SEA",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10607580/agency-development-manager-sea-amazon-ads-sea",
-"d": "2026-11-19"
-},
-{
-"t": "WHS Officer",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10609188/whs-officer",
-"d": "2026-11-19"
-},
-{
-"t": "Onsite Medical Representative",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10609645/onsite-medical-representative",
-"d": "2026-11-19"
-},
-{
-"t": "Onsite Medical Representative",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10609640/onsite-medical-representative",
-"d": "2026-11-19"
-},
-{
-"t": "Support Domain Architect, Business Developement - Strategic Industries",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10601231/support-domain-architect-business-developement-strategic-industries",
-"d": "2026-11-19"
-},
-{
-"t": "Onsite Medical Representative",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10609632/onsite-medical-representative",
-"d": "2026-11-19"
-},
-{
-"t": "サイトメンテナンスシニアテクニシャン",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10602132/",
-"d": "2026-11-19"
-},
-{
-"t": "サイトメンテナンスシニアテクニシャン",
-"c": "Amazon",
-"u": "https://www.amazon.jobs/en/jobs/10602131/",
-"d": "2026-11-19"
 }
 ]
 }
