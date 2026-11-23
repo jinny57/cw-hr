@@ -1,0 +1,505 @@
+{
+  "date": "2026-11-23",
+  "window_days": 1,
+  "article_count": 256,
+  "engine": "gemini-3-flash-preview",
+  "headline": "정년 연장 정부안 발표 임박 및 이커머스 업계 인력 유출 신호 증대",
+  "points": [
+    "정부의 정년 연장 가이드라인이 11월 27일 전후로 발표될 예정이에요.",
+    "컬리 임직원 개인정보 유출 및 게임·대기업 상시 구조조정으로 인재 유입 기회가 포착돼요.",
+    "2027년 반차 의무화 및 주 4.5일제 확산 등 근태 관리 제도의 큰 변화가 예고됐어요."
+  ],
+  "items": [
+    {
+      "cat": "ecom",
+      "importance": "high",
+      "company": "컬리",
+      "title": "컬리 임직원 및 고객 개인정보 유출 사고 발생",
+      "body": "컬리에서 해킹으로 인해 임직원 199명과 큐레이터 1만여 명의 개인정보가 유출되었어요. 주민번호와 계좌정보가 포함되었으며 최대 15만 원의 보상안을 제시했어요.",
+      "insight": "임직원 정보 유출은 내부 사기 저하와 이탈 신호로 이어질 수 있어요. 동종 업계 핵심 인력에 대한 리크루팅 기회로 활용 가능해요.",
+      "action": "컬리 소속 개발 및 운영 핵심 인력의 이직 의향을 선제적으로 타진해 보세요.",
+      "teams": [
+        "채용",
+        "인사기획"
+      ],
+      "tags": [
+        "보안사고",
+        "조직안정",
+        "이커머스"
+      ],
+      "our_group": false,
+      "talent": {
+        "level": "mid",
+        "signal": "임직원 정보 유출로 인한 내부 동요 및 이탈 가능성 증대"
+      },
+      "sources": [
+        {
+          "name": "뉴시스",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5lNnc4czY0b3BnWE5oLVRKbXJIc2h4N3dyN19zQndEZDdyN1I5MzNJWlRCT1B6ZHFCSEpkWmtuSlNfdHRYamY5SmxuY1E3R2RkNFMzdW5hbkowVVVwWUpMT9IBeEFVX3lxTE91N3laRlFDMVJ5dW00bWROQ0JESWhzTjdFaEFYZTJnWktHczhUWXhnbUNiVmZfZTd5aFFSVjNUMkxxcU44N0h3X3VFSXJUV3lRMzV0NXlQZWppeWtVMFFEQUJrdTVvRVlQN2VLd3UtUGhyeUd4eGlLMw?oc=5",
+          "title": "컬리, 임직원 199명·일반 고객 2명 개인정보 추가 유출 확인",
+          "date": "2026-11-23"
+        },
+        {
+          "name": "생생비즈플러스",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5MR2xRbVdHbG5GcHg5ZC1hZDV5bWUwYzNvSlZmTHRtZzF4QUs0bzVWQlIxeHRjX0lVM1VpeUI4bVdteDA3djd4Z21rNk1DT2c2eTRwZFhGblpvYU90WnVMNG80VFVaUlJGbmxnRw?oc=5",
+          "title": "컬리, 임직원 199명·개인회원 2명 개인정보 추가 유출 확인",
+          "date": "2026-11-23"
+        },
+        {
+          "name": "뉴스프리존",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBLLWpfbERJWUxhNi02dXBQQmpneGhmc1VBN3l1TmNGVm9ueUNaTnR1VEV4Nnh1VklJUkxuRmM4WDFHS1ZJNzBLVlVheDJmWHN1UW92OTNLcjhscGZBX2QxQVpOeF9BNDkwQzNzdHY5c2FBOUHSAXdBVV95cUxPV05OeDEzRFJmLUthMGg3Y0tOQ1BlQXFhNHI0cUM1V01ybTB5LU9TNHpaTU9oazBwVm5pTGtoeEhQd05hb1NTUUFvN3ZISG1EMUxlQjF1UGZ6ejNSTVMwbHJwS2FmT3RiT3hyYnpJbDUtWUJQcFhBRQ?oc=5",
+          "title": "컬리, 개인정보 1만700여건 유출···주민번호·계좌정보도 포함",
+          "date": "2026-11-23"
+        },
+        {
+          "name": "패션비즈",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4waFE1UjdqWmFPZWRXdjIwUTRqWUFCQ0MzNHVCeEV6cnk5bktzUVFVbGVpM2g0YmV0SElhNExXdUZwdGN2Q0FYREYweWFHSW15?oc=5",
+          "title": "컬리, 큐레이터 1만699명 개인정보 유출... 최대 15만원 보상",
+          "date": "2026-11-23"
+        },
+        {
+          "name": "비즈중앙",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA4MmU5TW9fVUxTLUpSVUdrTkhNVWxGd3lGbTd0S1I5VnNKT215Mi0wM2xLRUxZaEgxeWxaYjZNWHpDUGtTZzRVd3E0STlTXzlmZUo1djdTNG1oVlFCQ3lidHNSMURjZmFtQl9DZ3JTS3o?oc=5",
+          "title": "컬리, 해킹 여파로 임직원 199명·고객 2명 개인정보 추가 유출 확인",
+          "date": "2026-11-23"
+        },
+        {
+          "name": "Chosunbiz",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQOVBfX1h0eUpDYmNqNnJra1R3YUVWZE14aVk2Z25CSk9HS2RCWUlabFFzQmZnNVByZWNyaXFmVUM4azNDUDBuXzdtSFZDSVFfenRpUkU4cTRDbTlHd0JhQmRGdFVFdTRpYTB6MFdsQVdvNGF4aTNoODM3ZGJBUHZjVkdSUHFfZktGbXfSAZ4BQVVfeXFMTWppbHVQLXgtME5CYVZ1UTJvamEwTGJ1T1oxSDBTYk1NWWQ1T1B2dzU0WVdfLS1JN2ZmajZLQi0zcncwOWloOU0tekhDNWxuR2E0aV9WLWVTWXg5Ujdqb1Qzb2ItaEE2UlNSOTB3elZ2dVJ4WVBRNERnNm81M1hpMGtOSUhIM3FvU3c5SERQRk5FS1RHdlNNR0cweGtDSHc?oc=5",
+          "title": "[단독] 컬리, 큐레이터 이어 임직원 199명 개인정보도 유출",
+          "date": "2026-11-23"
+        }
+      ],
+      "date": "2026-11-23",
+      "id": "20261123-01"
+    },
+    {
+      "cat": "market",
+      "importance": "high",
+      "company": "업계 전반",
+      "title": "대기업 및 게임업계 상시 구조조정 확산",
+      "body": "실적과 관계없이 인력을 재편하는 '상시형 구조조정'이 대기업과 게임업계(K-게임)를 중심으로 확산 중이에요. 희망퇴직 조건도 기업별로 양극화되고 있어요.",
+      "insight": "시장에 우수한 경력직 인재가 대거 유입되는 시기예요. 특히 게임업계의 고숙련 개발자나 대기업의 기획 인력을 확보할 적기예요.",
+      "action": "주요 게임사 및 대기업 출신 인재 DB를 업데이트하고 타겟 채용 캠페인을 검토해 보세요.",
+      "teams": [
+        "채용"
+      ],
+      "tags": [
+        "희망퇴직",
+        "구조조정",
+        "인재유입"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "Naver Blog",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNM0o1czVfYkRIeEdtQmplc3NvNlowRUJqOEtIdjE4UnZmM2ZlbDU3N0M1TGVmeFJiQlBKZkl3NmY3MTgxX1JpNm5WN2ZnaHQxb001SDF3SzlZbFZWVXNvYUtiUnZPX0tZcm1LUmdHZWxMNXF2bG1yS3Q4RU9ZOEMwbHZKN1dQcFYyYVBkVHRZRQ?oc=5",
+          "title": "[인력 줄이는 K게임] 경력자는 찾고 신입은 안 키우고…미래 개발자 누가 키우나 : 네이버 블로그",
+          "date": "2026-11-23"
+        },
+        {
+          "name": "대한데일리",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBtVXJjNV9EVl9hVzBrVjQybHpyMVNyTjVGaUw5V0VqY05mQUxUbE9WX3NpbWR1OUloV2xhRng1WHhGLVJES0dvcEd1bnhXMGE5bkJqNEN0RlBjQ3dTWnJ5RGZLZ0Jxa19sb0JZ?oc=5",
+          "title": "실적 나빠도 좋아도 희망퇴직…구조조정 전략이 변한다",
+          "date": "2026-11-23"
+        },
+        {
+          "name": "인베스트조선",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1iODFoV2REXzZneUhhVnYzVGpMZXFQZ2QzVHloSTZuRlBfUG1ZUld1Nm16Q3NJZElPNkF5ZVdlNE9icEsxcVdpbDUtaXFlZWlfOGIyY3pFOTdreW5aSEV3QmNQcjd3cnRDaTR0T1ViYkZPZw?oc=5",
+          "title": "대기업에 부는 감원 칼바람…불황형 구조조정 넘어 상시 인력 재편",
+          "date": "2026-11-23"
+        },
+        {
+          "name": "세계일보",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE04YjdqRlUzRDdSNmJ6aTJHQ0d1X3pLekZqYUVJZnlRLU9PYl9oRVBDY0tmUW1GaThhSHRqVTQ3ZGtfell5eUVpNDNnaXR0a01Y0gFUQVVfeXFMTVRSVWs2RGhWZGo1V0hYSlhnSXlSM3ZPQ2hIM1JLeTFteVR5elE4MTE1QXhmNzcyelRvVEY3UEt2YlJFZUZVRDBrcWpQbHBlbHdIV0NU?oc=5",
+          "title": "내수기업 희망퇴직 칼바람… 가계 소비도 ‘한파’ [심층기획-수출 1조달러 시대]",
+          "date": "2026-11-23"
+        },
+        {
+          "name": "Naver Blog",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcVN5enh0YjVPTnVUa2ZIWXNDTU4wa0luMEVDbzZnZHhCa3RmZzZseWpUYlAxLVprMkU2Z2FpNEpzM1RFbUZWWWJfZS12a3pIOXR4Sk9UclpUV3R4STl4YWpCYmNKOE9pcUc0NDFFUEN5aHNqRE1LMVd1T18wUE9BTy1sUXZwM0sxR2dybDZ4Zw?oc=5",
+          "title": "[인력 줄이는 K게임] 누구는 3년치, 누구는 두 달치…게임사 희망퇴직도 '복불복' : 네이버 블로그",
+          "date": "2026-11-22"
+        },
+        {
+          "name": "Naver Blog",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSEd4VHQyc2d4YXBrVVg0U1lSY2Y5d2Nfb2tKZ2xoOXZBdXJ6VDVlREd6bEhqSEVWMy1XZXFKS1BKYWszMmlKUTZ0NzVMcHItRDVVU0VSanZOU01kN3RtRzhyS2tCZVctNmR6M3hCVnR2V3lKZ3c5cVNSZEJrUUtwb0NHOFU0R3hIeXNfeHdwRQ?oc=5",
+          "title": "[인력 줄이는 K게임] 회사 사고팔 때 직원부터 줄인다…게임사 M&A '감원 셈법' : 네이버 블로그",
+          "date": "2026-11-22"
+        }
+      ],
+      "date": "2026-11-23",
+      "id": "20261123-02"
+    },
+    {
+      "cat": "labor",
+      "importance": "high",
+      "company": "법원",
+      "title": "음주운전 은폐 기관사 면직 '정당' 판결",
+      "body": "음주운전으로 집행유예를 받은 사실을 숨기고 근무한 기관사에 대해 법원이 면직 처분이 정당하다고 판결했어요. 고도의 도덕성과 신뢰 관계 훼손이 근거예요.",
+      "insight": "징계 해고 시 '신뢰 관계 파괴'와 '직무 특성'이 중요한 판단 기준임을 재확인했어요. 우리 그룹의 징계 양정 기준 점검 시 참고할 사례예요.",
+      "action": "취업규칙 내 징계 사유와 형사 처벌 시 보고 의무 조항을 다시 한번 확인해 보세요.",
+      "teams": [
+        "노무·ER"
+      ],
+      "tags": [
+        "징계면직",
+        "판례",
+        "노무관리"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9fcC10NWltRzcxX0szZXJNS1dBMDNTckRmdDR6RnlnZnVac0RVU2poR2NjbWtUTzRzRW43TEE3UlNBNUNrV2syY3VUTVFoczU5MFFybHNWVVpPU1FpV2FqZ9IBYEFVX3lxTE9fcC10NWltRzcxX0szZXJNS1dBMDNTckRmdDR6RnlnZnVac0RVU2poR2NjbWtUTzRzRW43TEE3UlNBNUNrV2syY3VUTVFoczU5MFFybHNWVVpPU1FpV2FqZw?oc=5",
+          "title": "음주운전한 기관사 면직한 철도공사…법원 \"정당한 처분\"",
+          "date": "2026-11-23"
+        },
+        {
+          "name": "머니투데이",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1pY0s1ZGY1NlgzbzItS0JuQzF3aFNRWUxXQTR3RjBnUkVQbGxKVnQ5SG5xLXhlX1JPSjM4RC02N2p0QWo2VGxlX2sxaG51YjJ0SERUem5RcC1yOG5LdjI3TGx2V2NoZjNVMTJibDl1N1nSAXBBVV95cUxNaWNLNWRmNTZYM28yLUtCbkMxd2hTUVlMV0E0d0YwZ1JFUGxsSlZ0OUhucS14ZV9ST0ozOEQtNjdqdEFqNlRsZV9rMWhudWIydEhEVHpuUXAtcjhuS3YyN0xsdldjaGYzVTEyYmw5dTdZ?oc=5",
+          "title": "\"기관사 업무에 높은 도덕성 필요 없어\"…음주운전 숨기고 해고 불복했지만 - 머니투데이",
+          "date": "2026-11-23"
+        },
+        {
+          "name": "부산일보",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9JWjNPN1BNQlhxcTZfdWxKdVhVcVFYQURrOE13T25kOFgxSUtnRmpwdkFMYUQwT3VCbWdNOGNXTTlxeEJGS1E2M2s1SVctWnNPU21HU25ZYmdET3lZc0pQd19uS0hmY0xLdmtXczF3aGY4Nm9h?oc=5",
+          "title": "`만취 운전으로 집행유예` 숨긴 철도 기관사, 면직 취소 소송서 패소",
+          "date": "2026-11-23"
+        },
+        {
+          "name": "강원도민일보",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE85SXZOa2xJYTFibmd2WTRGMmp1RThfYVJGSmxGaDZlbzctMlNsdUFkRlJpV1czQi1VWHl4VzhCblBOSzdyUWo1VmZiRXV1V3FoUFd2dS1wN0NlekRnelpIcVRRaFBMV1JK?oc=5",
+          "title": "만취 운전으로 집행유예 받은 기관사 면직…법원 “정당한 처분”",
+          "date": "2026-11-23"
+        },
+        {
+          "name": "뉴시스",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ua3o2UXhUS0dJenBjYldTX3o3dEFSeTJnby1LTEJua3NqY3UweWJBbXRCb0x0M2R0VTVtWExxeFpibDNiSC1GVjMxdGtHU1RBbGJQUWZ5QTFmVk4tSFFhUNIBeEFVX3lxTFBXUE9iQk94RGdlcmVFaUV5Q2xqa2Y4elVfWTJLTEVFUlQwTURIUVNndlJyYmxBSGF3N0dpRUgtbVF2b2xwUlBUcHpaVFlzSmREeFRkLWZweWdrazhpY2pBOE1MUnhMV1J2Q2JCdUJCZzN6bDdicmc3Sg?oc=5",
+          "title": "음주운전 처벌 숨긴 채 근무한 기관사…법원 \"당연면직 정당\"",
+          "date": "2026-11-23"
+        },
+        {
+          "name": "이데일리",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZlFRX2UwaWw1RHNWQ2luNTItc1psSFBLWGRNT242TG51MnE4UDVHQjZJSXVxV3VkOEZQb2RTa2xkUmpyYnE3b0RPaU5GTXRiSFl3ZVlhZm9YZkcxemdKYXBOLWxaVWV2NmN6RTM5UGlmVUFQTHo4RTJ3SkY0RGJwOQ?oc=5",
+          "title": "음주운전 형사처벌 숨긴 코레일 기관사 '면직'…法 \"처분 정당\"",
+          "date": "2026-11-23"
+        }
+      ],
+      "date": "2026-11-23",
+      "id": "20261123-06"
+    },
+    {
+      "cat": "labor",
+      "importance": "high",
+      "company": "고용노동부",
+      "title": "정년 연장 정부안 11월 27일 발표 가능성",
+      "body": "고용노동부 장관이 정년 연장과 관련해 27일 국회 특위 결론이 나지 않을 경우 정부안을 직접 발표하겠다고 밝혔어요. 65세 연장 시기 및 임금 체계 개편이 핵심이에요.",
+      "insight": "커넥트웨이브의 중장기 인력 구조와 인건비 시뮬레이션이 필요한 시점이에요. 특히 임금피크제나 직무급제 도입 논의가 병행될 가능성이 높아요.",
+      "action": "정부안 발표 내용을 모니터링하고 우리 그룹의 연령대별 인력 분포를 사전에 파악해 두세요.",
+      "teams": [
+        "인사기획",
+        "노무·ER",
+        "보상·복리후생"
+      ],
+      "tags": [
+        "정년연장",
+        "고령화",
+        "임금체계"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "한겨레",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1wWUFQb0hrYW43bXl6S2FnVnJleHU1R0kxN0hBaHVGdmdtRHYwbkdydmN1dE9VSjlSdHQ0Z2tYSERNUm45c0dTeGpiSTNVVkF6dEhVLXhLMkdMcDlDc2tPeVdOMFE?oc=5",
+          "title": "김영훈 “정년연장, 27일 국회 특위 전후로 정부 입장 발표할 것”",
+          "date": "2026-11-23"
+        },
+        {
+          "name": "CBC뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5VWmtCN19kdDNTdXlMZWtsWGVfdVFvSHRaNTVzbU9GYVF2SnJBNThQSTNFaTlCSUpSY2N2MmVOdE5lcHFHOXFDTHJ5Smt2WUR4RFlXUDVfc1Jjb3ZzUkd6SXRMZVI5S0p4?oc=5",
+          "title": "김영훈 장관 정년 연장 정부안 발표 보도에 고용노동부 해명…“27일 특위 결과 고려”",
+          "date": "2026-11-22"
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNTZkRXpyS0lUTjlBN3Nhd1VLcXZvU2VrTThPZnpNUXBoUEJITUtyUGdBN2JPTjM2cE9GcUZRTjJMSDVQYXkyZUVlaUk1Mkl5cDQ4ZTJSay1XYXdBdjRKbHYzZzMtaDd2RDRtdDNDcjc1TGNwZzBIaFZMdzRxXy1FS0IydDBJV1Zi?oc=5",
+          "title": "(설명) 연합뉴스, 노동장관, \"정년연장, 27일 輿 특위서 결론 안 나면 정부안 발표\"기사 등 다수 관련",
+          "date": "2026-11-22"
+        },
+        {
+          "name": "머니투데이",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9CcGtpLWxqRDV2SDZMcDFpWmoxc25rUDB4TkhYT1otejNsMzI3NzhTaFJzbU50Q2NjYUp1RTNRVkdocnJNMVA3bEtoOG93VGFQWm15SkJkUFVMR0RQZmQ5SzdYcHlDbThiOHpkUGF3MjfSAXBBVV95cUxPQnBraS1sakQ1dkg2THAxaVpqMXNua1AweE5IWE9aLXozbDMyNzc4U2hSc21OdENjY2FKdUUzUVZHaHJyTTFQN2xLaDhvd1RhUFpteUpCZFBVTEdEUGZkOUs3WHB5Q204Yjh6ZFBhdzI3?oc=5",
+          "title": "노동장관 \"정년연장, 27일 與특위 결론 안 나면 정부안 발표\" - 머니투데이",
+          "date": "2026-11-22"
+        },
+        {
+          "name": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBRTTVuTzRHZXNUZFRzbGJZNFNfa3F6ZEgwTlUxdjFFMDQ2c1EtRTFsUkVNQllEZ2t6c0dfOURIdG9wTVBOc1BOSDlDa294VThtOFVGYS1YTXc0LTFHdldlUNIBYEFVX3lxTFBRTTVuTzRHZXNUZFRzbGJZNFNfa3F6ZEgwTlUxdjFFMDQ2c1EtRTFsUkVNQllEZ2t6c0dfOURIdG9wTVBOc1BOSDlDa294VThtOFVGYS1YTXc0LTFHdldlUA?oc=5",
+          "title": "노동장관 \"정년연장, 27일까지 결론 안나면 정부안 발표\"",
+          "date": "2026-11-22"
+        }
+      ],
+      "date": "2026-11-23",
+      "id": "20261123-00"
+    },
+    {
+      "cat": "trend",
+      "importance": "mid",
+      "company": "업계 전반",
+      "title": "AI 성범죄 불안감 증대 및 사내 규정 필요성",
+      "body": "직장인 53%가 사내 인트라넷 사진이 AI 성범죄에 악용될까 불안해하지만, 관련 예방 규정이 있는 기업은 12%에 불과하다는 조사 결과가 나왔어요.",
+      "insight": "임직원 보호 차원에서 사내 시스템 내 프로필 사진 활용에 대한 가이드라인과 보안 대책 마련이 조직문화 신뢰도에 영향을 줄 수 있어요.",
+      "action": "그룹사 인트라넷 사진 노출 범위를 점검하고 개인정보 보호 캠페인을 진행해 보세요.",
+      "teams": [
+        "조직문화·HRD",
+        "인사기획"
+      ],
+      "tags": [
+        "AI윤리",
+        "임직원보호",
+        "조직문화"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "인천투데이",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1wNUNaS3dDb2duZ1gyYWVlb3JTWTFPNlpfeFhaWFRvOUN4TTlGUkw4eXFHOXJ2bXowMDVLTVlleC1VUWkxOFptRXA2M0RzekNHX1RDSlNLUXlBTkRXZjNPaFpSRk9FX2hWVlBxV0swWF8?oc=5",
+          "title": "직장인 53.1% “내 사진 AI 성범죄 악용될까 불안”··· \"강력 조치 필요\"",
+          "date": "2026-11-22"
+        },
+        {
+          "name": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBjMndWbVBmSzBROHIzMmh6X3N3SWdBeE9pelhVbjhRQ2ZtU0ZISVhWcE95em1nTnltUExSWGdjbHZabUhhX3JKZEJ5RVJiWGFHNDA4RU1IM2tWNGE0aUZZM9IBYEFVX3lxTFBjMndWbVBmSzBROHIzMmh6X3N3SWdBeE9pelhVbjhRQ2ZtU0ZISVhWcE95em1nTnltUExSWGdjbHZabUhhX3JKZEJ5RVJiWGFHNDA4RU1IM2tWNGE0aUZZMw?oc=5",
+          "title": "직장인 53% \"회사 인트라넷 사진 AI 성범죄에 악용될까 불안\"",
+          "date": "2026-11-22"
+        },
+        {
+          "name": "강원도민일보",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8xelNTVlhMc2M2ZzM5c283elVsZFBWZlNWRUQ4WTYtaWphTVhPVU1Ld2JMXy1FdzZZZkI1dThic09Beklvd3Z1Q01JVnI3RHhWZlJ1QWtkc2RrMlhvUUhQWEJyS3VuaVJ2?oc=5",
+          "title": "직장인 절반 이상 “내 프로필 사진 AI 성범죄에 쓰일까 불안”",
+          "date": "2026-11-22"
+        },
+        {
+          "name": "뉴시스",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1MREJ2UldfSm1yVkxQZnRObENTQjY5TzRVSnpNd0o2cVkyQ2VLdkVoZlByNVlJcWNxLVJoWW5zcWtkUEhYUGVGOFpFQktXVklMdTYyWE5NS1F6RGNuaGFEbtIBeEFVX3lxTFBqZ2M5T0VTSy1Vbmc5dW4tak5PMkctdWozeDRaN1JQc3B4RVhDV1RtNDVNZ3FQR1Q3cVA3RHpjbFNtU05wckxRcVRKYlVJT2h5ZVpoSVRsdGRvSWtwUGNDNGpmTWF4X01KLVRtSnU2TVZCT18tbEFEeA?oc=5",
+          "title": "직장인 53% \"내 사진 AI 성범죄 악용될까 불안\"…예방 규정은 12%뿐",
+          "date": "2026-11-22"
+        },
+        {
+          "name": "아시아경제",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5Zc29tUGItYlRhRzBhRVRxVC1FOUdzLTNuaGJOd2l5emp0M0ltbzlGcUduWG1aZGVqNEFjejNfU2lJY1BfSUh5QkE3WUh0QmdwSGtHVElhRHNUNTdjdndfWXpWa0JYTEVjN2g5MG8tbTdBaE5R?oc=5",
+          "title": "\"내 사진이 AI 성범죄에 쓰일라\"…직장인 53% 불안, 예방 규정은 12%뿐",
+          "date": "2026-11-22"
+        }
+      ],
+      "date": "2026-11-22",
+      "id": "20261123-04"
+    },
+    {
+      "cat": "ecom",
+      "importance": "mid",
+      "company": "G마켓",
+      "title": "G마켓, 제임스 장 체제 1년 거래액 반등",
+      "body": "G마켓이 제임스 장 대표 취임 1년 만에 거래액 반등에 성공했어요. 최근 '큐레이터' 서비스를 출시하며 크리에이터 제휴 마케팅을 강화하고 있어요.",
+      "insight": "경쟁사의 리더십 교체 성공 사례와 신규 사업 방향을 주시해야 해요. 특히 커머스 마케팅 및 플랫폼 기획 인력의 역량 변화를 참고할 필요가 있어요.",
+      "action": "G마켓의 신규 서비스(큐레이터) 관련 핵심 인력 구성을 파악해 보세요.",
+      "teams": [
+        "채용",
+        "인사기획"
+      ],
+      "tags": [
+        "리더십",
+        "G마켓",
+        "커머스전략"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "매일일보",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9NWk1JRHQwLXBXQzNwLWU0SjI3cTFuNkZsLS0xNl9sM1VHTC1kLWRPRHlhanlCclplVmhoMWhKek44WVZ0bFRBeTd1X2xYOTZEcWVBc2IxZkU4dm1qeW81MWwzRVM?oc=5",
+          "title": "G마켓, SNS로 상품 팔면 수수료 지급…'큐레이터' 서비스 출시",
+          "date": "2026-11-23"
+        },
+        {
+          "name": "데일리안",
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPcGloTGFoT1gyZ2NKY3BlUnRrcDhFak4yak1vdFpOc0ZlT3R6VEprRkZubENGSl9DeEYzaEd4eXczanFFcE9XcWpFUTdZdmxZRW10aFRTNHYzc3JKcVMxSVZVV1dVV0FKaEo0b2syaC11T1oxUFUtbzBUSktuYWVrVmVzcE5FcHdDcVdfWFFma0FVV1NkVGJUQTVuQzJwYkZTUGh0d3R3QXRqUnlNV3hrSlJWdWhleVFHZC1fc0FHMHAtUDllUzRoS09MY3FpU1JsMTlzQWhnbGhNMzFlTUpEb3dBLWVGUHhNNlhFMQ?oc=5",
+          "title": "SNS에 올린 상품 팔리면 수익…G마켓, ‘큐레이터’ 출시",
+          "date": "2026-11-23"
+        },
+        {
+          "name": "한국금융신문",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1yOVFhY3JvZTlYVWI3NmRyLVBZS243U0FMWjM4Ykh0SF9kcTlublNaNm5hM1NDdnQxeU4weWRlcjQwREtSblhzdlphS0dkVmJZWUdRTzJ3M1pBVnNRQ05TX1pRLWJmRU5BV1M3VFcxN0tlc3ZUT2Z5bmIzTU4?oc=5",
+          "title": "‘제임스 장 1년ʼ G마켓, 거래액 반등…‘수익성 회복ʼ 남았다",
+          "date": "2026-11-23"
+        },
+        {
+          "name": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5wbndKLWk4MHJ1X2w4THpXekNwR0JvVXA5clQwRXM5VmZ4aWJSQ1Y3T08wUE5sc2dKS0pMcUtmR1JuM1VveHg2eTJlT2FTLVFOVEU5SVVUT3ZLLWfSAWBBVV95cUxPdkVWN1dmV2RKaDlUeDBoZ0kzYkloeGV6NGhVZGNtMVF3c05tWDhNTi1UczFOR1lPaUJLT2YzdTl1TS12cHpIbjlDNEh5ZUx6NE00NEk5Z2NSdFI0eHhOb2E?oc=5",
+          "title": "\"SNS로 상품 추천하고, 수수료 받아 가요\"…G마켓 큐레이터 오픈",
+          "date": "2026-11-23"
+        },
+        {
+          "name": "아시아경제",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBuYXZBa3duaEdjbGhzU29PbjRsdERCbDUtdHRybG9SUzQxUFpDSXh6ZDBqWnQxY0tkSWhJQWpYNVJlTjlzMm1fZHlJcUVOaDlkdDJJcVVIOE4zM3R1YTRSTQ?oc=5",
+          "title": "상품 소개하고 판매 수수료 받는다…G마켓, '큐레이터' 론칭",
+          "date": "2026-11-23"
+        }
+      ],
+      "date": "2026-11-23",
+      "id": "20261123-07"
+    },
+    {
+      "cat": "labor",
+      "importance": "mid",
+      "company": "고용노동부",
+      "title": "2027년 반차 의무화 및 근태 관리 변화",
+      "body": "2027년 6월부터 연차를 반일 단위로 나누어 쓰는 '반차'가 의무화될 예정이에요. 또한 정부의 '워라밸+4.5 프로젝트' 참여 기업이 늘며 주 4.5일제 도입이 확산 중이에요.",
+      "insight": "근태 관리 시스템의 유연성이 중요해지고 있어요. 우리 그룹의 연차 사용 방식과 근무 시간 유연화 로드맵을 점검해야 해요.",
+      "action": "현재 운영 중인 근태 시스템이 반차 및 유연 근무를 원활히 지원하는지 확인해 보세요.",
+      "teams": [
+        "인사기획",
+        "노무·ER"
+      ],
+      "tags": [
+        "반차의무화",
+        "주4.5일제",
+        "근태관리"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "시프티 블로그",
+          "url": "https://shiftee.io/ko/blog/article/2027-half-day-leave-and-time-tracking",
+          "title": "2027년 반차 의무화: 근태관리 프로그램 활용과 연차휴가 관리 기준 반차는 근로자가 연차휴가를 반일 단위로 나누어 사용할 수 있도록 사업장별로 운영해 온 제도입니다. 그러나 2027년 6월 10... 2026-11",
+          "date": "2026-11-23"
+        },
+        {
+          "name": "시프티 블로그",
+          "url": "https://shiftee.io/ko/blog/article/weekly-hr-news-2026-october-week-4",
+          "title": "2026년 10월 4주차 HR 소식 | 주 4.5일제·퇴직연금·산업안전보건법·청년 취업 시프티 주간 HR 소식 - 10월 4주차 2026년 10월 4주차에는 대구·경북 지역 주 4.5일제 지원사업에 참여한 기업들의.",
+          "date": "2026-11-23"
+        },
+        {
+          "name": "시프티 블로그",
+          "url": "https://shiftee.io/ko/blog/article/four-and-half-day-workweek-attendance-management",
+          "title": "주 4.5일제란? 유형별 근태관리 방법 및 운영 방식 알아보기 2026년 7월 14일 고용노동부는 ｢워라밸+4.5 프로젝트｣에 참여한 기업이 2026년 6월 말 기준 총 224개로, 연간 ... 2026-10-30",
+          "date": "2026-11-23"
+        },
+        {
+          "name": "시프티 블로그",
+          "url": "https://shiftee.io/ko/blog/article/weekly-hr-news-2026-october-week-3",
+          "title": "2026년 10월 3주차 HR 소식 | 주 4.5일제·비정규직·청년 채용·중장년 재취업·근로감독·산업재해 시프티 주간 HR 소식 - 10월 3주차 2026년 10월 3주차에는 주 4.5일제 지원사업에 참여한 기업들의",
+          "date": "2026-11-23"
+        }
+      ],
+      "date": "2026-11-23",
+      "id": "20261123-03"
+    },
+    {
+      "cat": "labor",
+      "importance": "mid",
+      "company": "검찰/경찰",
+      "title": "간호사 '태움' 사망 사건 가해자 송치",
+      "body": "직장 내 괴롭힘(태움)으로 간호사를 사망에 이르게 한 가해자들에게 처음으로 상해 혐의가 적용되어 검찰에 송치되었어요. 병원장도 함께 송치되었습니다.",
+      "insight": "직장 내 괴롭힘에 대한 법적 책임이 단순 과태료를 넘어 형사 처벌(상해죄)로 강화되는 추세예요. 관리자의 감독 책임도 엄중히 묻고 있어요.",
+      "action": "그룹 내 직장 내 괴롭힘 예방 교육을 강화하고 신고 채널의 독립성을 재점검해 보세요.",
+      "teams": [
+        "노무·ER",
+        "조직문화·HRD"
+      ],
+      "tags": [
+        "직장내괴롭힘",
+        "태움",
+        "형사처벌"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "경기일보",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAwX1ZMYWhKbzZmY1pFSUJzeXNfZ2x3VHBEeVhiMG5qMVNneHdDUktpbkp5YzZUM0prTnpzcjZ6NWFHOEFMTjFVTUxfNDdjRGRuREFzVXp0SlR4b00?oc=5",
+          "title": "경기 광주 간호사 태움 사망 사건, 가해자 3명 등 5명 송치",
+          "date": "2026-11-23"
+        },
+        {
+          "name": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE02STQtdTlfVmUyeWFlWHZObWEyNVpyZUpLYnA4Tm5hUndKMmhKLXQxN01aU2VjMzl0b1FHZldMSUdKSGwwWFdaTEY4aENKaE42R0kyME9qdjlXUVnSAWBBVV95cUxNbDVMUU5BZ3E4cVR2VC1XVXBlTWliR1ZUb2haeTNiMGJYYkNXSWdPdmpJcmpsY1E2WVBkVFh1Z0NPS29sdUxxci03Ujg4WUw2aVdGRnI1YnBDNXdCV0thYmY?oc=5",
+          "title": "'강수빈 간호사 태움 사건' 간호사 3명 송치…상해혐의 첫 적용",
+          "date": "2026-11-23"
+        },
+        {
+          "name": "데일리안",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1rR3diT0ZxX3pjdDNaSEhDX2tEMHlHanpSSVM3T3l1S2dZcUh5SUpBQ3l4VEszcldqanQ5VXFCbmkwTHpPQkxqc3VUeDVrcEVBbnRLbGc5dw?oc=5",
+          "title": "'경기 광주 간호사 태움 사망 사건' 가해자·병원장 등 5명 송치",
+          "date": "2026-11-23"
+        }
+      ],
+      "date": "2026-11-23",
+      "id": "20261123-09"
+    },
+    {
+      "cat": "trend",
+      "importance": "mid",
+      "company": "업계 전반",
+      "title": "급여 투명성 및 공정성이 동기부여 핵심",
+      "body": "급여의 절대적 액수보다 투명성과 공정성이 구성원의 동기부여에 더 큰 영향을 미친다는 인사이트가 공유되었어요. 성과급 운영의 공정성 논란도 지속 중이에요.",
+      "insight": "보상 체계의 결과뿐 아니라 과정의 투명성을 높이는 것이 인재 유지(Retention)의 핵심이에요.",
+      "action": "내년도 연봉 협상 및 성과급 지급 시 산정 기준에 대한 커뮤니케이션 전략을 강화해 보세요.",
+      "teams": [
+        "보상·복리후생",
+        "인사기획"
+      ],
+      "tags": [
+        "급여투명성",
+        "보상공정성",
+        "동기부여"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "오프피스트",
+          "url": "https://www.offpiste.ai/articles/-hr-인사이트---17-급여-투명성-공정성이-동기부여가-되는-메커니즘-2710",
+          "title": "hr 인사이트   17 급여 투명성 공정성이 동기부여가 되는 메커니즘",
+          "date": "2026-11-23"
+        },
+        {
+          "name": "매일노동뉴스",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5QZkxGWXFNS3NzMW5VWkp5eWFHWUpwNHh0YWhaSURwdFdGNnY5elp3ZUs5OVdyRjc5dVI4cHUyMmcta3JtMmM4Tk51ZnZtZHlpZUwtX292TUF0TktZUWhWSVNJWTdaVk0yaHgyNWgtUHk?oc=5",
+          "title": "성과급, 공정하게 운영되고 있을까",
+          "date": "2026-11-23"
+        }
+      ],
+      "date": "2026-11-23",
+      "id": "20261123-05"
+    },
+    {
+      "cat": "market",
+      "importance": "low",
+      "company": "원티드랩",
+      "title": "원티드랩, 미국 샌프란시스코 진출",
+      "body": "채용 플랫폼 원티드랩이 미국 시장에 진출하며 한·미·일 인재 연결을 본격화해요. 글로벌 인재 채용의 허브 역할을 목표로 하고 있어요.",
+      "insight": "글로벌 인재 채용 시 활용할 수 있는 채널이 확장되었음을 의미해요. 우리 그룹의 해외 사업(몰테일 등) 인력 채용 시 참고 가능해요.",
+      "action": "해외 채용 시 원티드랩의 글로벌 네트워크 활용 가능성을 검토해 보세요.",
+      "teams": [
+        "채용",
+        "인사기획"
+      ],
+      "tags": [
+        "HR테크",
+        "글로벌채용",
+        "원티드랩"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "전자신문",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9TRHRqUzhuQlV0TjlyeEx0YkxOZ1JnaE41d2s0YXdkWlptR0NXRXpzZWIyNU1SVHFCWmNpeUExNDh4eGRtdmJ1dmRnREV4UQ?oc=5",
+          "title": "[단독] 원티드랩, 美 샌프란시스코 진출…한·미·일 인재 잇는다",
+          "date": "2026-11-22"
+        }
+      ],
+      "date": "2026-11-22",
+      "id": "20261123-08"
+    }
+  ]
+}
