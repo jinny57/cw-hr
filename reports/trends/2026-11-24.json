@@ -1,0 +1,739 @@
+{
+  "date": "2026-11-24",
+  "article_count": 153,
+  "engine": "gemini-3.8-flash",
+  "headline": "글로벌 테크의 AI 재편 속 인재 양극화와 구조조정 가속",
+  "summary": [
+    "마이크로소프트·애플·캔바 등 빅테크는 레거시 직무 감원과 희망퇴직을 진행하고 있어요.",
+    "구글과 MS는 인도 등 주요 거점 채용 동결을 검토하며 AI 에이전트 인재 확보에 집중해요.",
+    "국내 시장 역시 신입 채용 축소와 함께 AI Native 인재 수요가 뚜렷해지고 있어요."
+  ],
+  "numbers": [
+    {
+      "value": "60,000명",
+      "label": "Microsoft CEO가 퇴사를 언급/유도한 직원 수",
+      "dir": "down",
+      "sources": [
+        {
+          "name": "Gadget Review",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNEk1OTdBaVNyaVpKc294QWdGNU1HdklqODQ5cFNlZVFQbW5yaGlvcFlpSWFjSGhkUEtHQmhLREEwb1p5ZzFWMzdsTmR3aWRNNW40eTMtMUJ5elBhQVdXSmIwRThfeE9JTTBPc0RXNVpfbzdBRFJJQldSMk5ESnpGZXRXNkhMQjhKalNSaUgwcGlOUm9uRTNJR2xNbXNTZ2c?oc=5",
+          "title": "Satya Nadella Explains Why He Told 60,000 Microsoft Employees to Leave",
+          "date": "2026-11-24"
+        }
+      ]
+    },
+    {
+      "value": "1,271명",
+      "label": "Canva가 공식 발표한 감원 규모",
+      "dir": "down",
+      "sources": [
+        {
+          "name": "Storyboard18",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQWV9Ia1RIMm81U2lLM2x1T3AxdnNpLWtLMjVSQWx2cXQwd0dQVGRhVWdkLTVoejQweTdZY2dNZVYyTVFXUHh1LWhOaUlTX1FlZXNTdy1WeW96bVlwbFIxRklmV1p4NHBBVS1KTUVJbE9JemY3QzVUSjFrVElwbHB1TEtXakdCeXpFWnNmSnBtYlRjYmxBNmlfWWh2YjdLYm1OVVpFR3Q3eFNZek5ZZkh6bEtPUXYyWWJac0h5YjN2N3dteWlfZ0NQN0dSNHk1Z9IBzgFBVV95cUxQWV9Ia1RIMm81U2lLM2x1T3AxdnNpLWtLMjVSQWx2cXQwd0dQVGRhVWdkLTVoejQweTdZY2dNZVYyTVFXUHh1LWhOaUlTX1FlZXNTdy1WeW96bVlwbFIxRklmV1p4NHBBVS1KTUVJbE9JemY3QzVUSjFrVElwbHB1TEtXakdCeXpFWnNmSnBtYlRjYmxBNmlfWWh2YjdLYm1OVVpFR3Q3eFNZek5ZZkh6bEtPUXYyWWJac0h5YjN2N3dteWlfZ0NQN0dSNHk1Zw?oc=5",
+          "title": "Canva's 2026 layoffs may exceed 1,271 announced job cuts, report claims",
+          "date": "2026-11-23"
+        },
+        {
+          "name": "People Matters - HR News",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNY1VEZUVkUUNpZEF3RWt2MmIyN0RITGtiZEpaZEwzNl9QQTF0SENjaHpyQ05uTGNKMDJzdjY0RGlKSFdBWVYxT2NUS3BqMXM1dWt5cUxrblYtWm1RbTIzUkctOThKaVVhenlsZG5UVS1RdlZSZlFNMldXTUlYREc3STVLNTFWcXNhQXR4bVJrdGllQUU2VUg3dFRsM05LZlFqMVhPdVM5c3ZIbmNuOHJMeFVzdFJYam9vOUl1YWNubnBEMFpOb1Z4a2Q4NnNGb2l1NUI3Qg?oc=5",
+          "title": "Canva layoffs: Company reportedly cut jobs quietly before announcing 1,271 redundancies",
+          "date": "2026-11-23"
+        },
+        {
+          "name": "BW People",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNmc5OWM1Y05qVnJHTTFzOTRQR0ZzVFJpandMblNUemxzNWpwMTZnN0lwTFVBUkhsNVBRMzdyQndtOEswaGN2d2EyT2RBR29UV2RzTTRSS1dPSkxXenAzMXdoOC03Qjd2WllEQzQ0WVRpR3JRRGdTZHJlSktWRkpRSlRrdDJwTkF0VEk0VTd6ZWJhUHNhRFpnVXN4NlF5NjA?oc=5",
+          "title": "Canva Reportedly Cut Jobs Quietly Before 1,271 Redundancies",
+          "date": "2026-11-23"
+        },
+        {
+          "name": "HR Katha",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPd2ZlWXhTWUs2V0tBbzlmbXp2QWRqblMwcW8tbnEzSjdyQTR5UHdDemdIc09hcnM4a3gyaVpHRy1NUDhRN1cyZFlsMFZTVjdVbjc0ekdQWnBjeGFqYkhMZ3hkUXl5ODBrdXBnVmdMZFdzckgwOWZuaWs1YzhUUHVvSjFNNWZZTm9PTVJNMVpsTGpobkZoczVSRi14X2tZRmVmSXppaEl3?oc=5",
+          "title": "Canva layoffs: Is the real workforce reduction bigger than reported?",
+          "date": "2026-11-23"
+        }
+      ]
+    },
+    {
+      "value": "1,000명",
+      "label": "GSA(미국 연방조달청) 신규 채용 계획 인원",
+      "dir": "up",
+      "sources": [
+        {
+          "name": "Clearance Jobs",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQQWFjd193WHNlWVpOd1o3SUxUdkVIRkJQSjhpXzFpaFhPSDhjQkpRaVVJSWZkXzNoNlljQXp1VHdBVG5GNGhJakFaVjVUQVMycEN6WHBwQlFrc1lzWG02VGhOWnA4Umx1UGNZVXZVSk5vUXFZNzFnVzNXc3BwZWRNdFg2d2JwWDBMajRWWW1ibHZqVmpQaTZCQ1BtWVpiOVBUcmlySWNydXZaX0hzUEdsRUNKT2Z2b3AybXQ3UUVIVXprNmdzOGlTLUxPSXVFT1FUcFFyeUxoV0ZmZ3FUaEE?oc=5",
+          "title": "GSA Plans to Hire 1,000 Employees and AI Companies Are Paying Up to $500K for Counterintelligence Talent",
+          "date": "2026-11-24"
+        }
+      ]
+    },
+    {
+      "value": "72%",
+      "label": "인도 테크 종사자 중 커리어 전환 희망 비율",
+      "dir": "flat",
+      "sources": [
+        {
+          "name": "Business Standard",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOdWlMQmxybTdiMmE3QmJySHB1dHpSSVdpRlNNaFQ0OGVpTmNMY2JJd3VPMk5MRDJaVTFkZU5ONFQ4Zm93aDRIOTZ3S09ucF9ETDZqSGhRQ1hkVEVZdVM3ZkNIUGZMaFFjSHNteW9qRmtUaldjelNRbzFRNllLSHQwNklXOVZ2VmZZV001bGRwSzN2UFFFNnZ3cG1BbURXUGIxb3pRMU50SGdJRFllS0ZRVDZDTEhFbzl2bTlPR2htS29CS0dTek9FVzJIcHRaNjZCWDVQWFRScDMyVjRBbjE4ZWdCZ9IB6AFBVV95cUxPZVhWTUY5c1BjejltYVFCcDFCdFZ2cThlYUlwdVRWaUFKbHdCYzhiNjFzTG0xbV9XT0QyNUl1VXllVUZkcW02VEcyQjZ3U0I0QjM1Tl9UV3hTcG9iM2M4dklPTzBMLW9ETXc0cDg4MkZHMjhReThtYm03NlQ1VHRnZ2JjNUYyRDlJR1BrTDRPNjh1RVdQbzhVZFpERHhrc3FiR2ZFUFIzb1JvV2RJeFBJcDFlVkZfYmdDSXZENkYwTWxXYnU4ZTA0MXVDWFhDV2hYSEU5ZzdFT2pUMUFXb2dhOEwyckl5Nmdn?oc=5",
+          "title": "Layoffs and AI fears: 72% of India's tech workers want to switch careers",
+          "date": "2026-11-23"
+        },
+        {
+          "name": "ETHRWorld.com",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPeTZxU2tKYm9ZdnNuOVBBMnpYMmVST2VMRVpSWXIxb2ZUbHRuSXMzU3VuREdzT0h2eWkwUVRrUmxHaV9SVkhjd0d1Zl90RHA5MUVBeTNxVTBWZkpZc1VPNy16dDNuUVZUMm9PdllwVGJiRFVaV3NTeG5IbExqX2dNblFvbEJ4SzBnZDV3cW82UmRzVlVfUk00WGlXLXpldDMwcXlER1VtYllkQkMxQm9EVVRVTllkVk1aVUlEZVRxU29tcl9FLU42TWh5LTVoY19aalAzUmFIUFRzZDMzWi1ENm01TVItQdIB6wFBVV95cUxPSzVPamY1ZTZVX2NpdWxsV3Q1aWFBX3NfbmJzNEM1Uzk0SWFjb3BDZjA4SzluRnktVEU2ZTh6YW83RmU5WkVGejE1cDdWZVZLRWlCNHJGSGVnYjdXRXFQQmg1YlFXUWNPX1djZV9TVWQ2cXpZNnVpZDhPU2h0M1dBbGkwc0E1S1dnT285N1BmanhJTndrQWV2d2pfZjBRRWVLTFh5eXBSSVpsUnNvcjc0R0wtRGMwZHFQQm81QjgtNS1pMU9oSjQ3UEFpRmQyS2g0aGxLTGV3NlUyb1JZekp3OHR6aU1RdGdjV1JF?oc=5",
+          "title": "72% of India’s tech workers would switch careers tomorrow if they could: Survey",
+          "date": "2026-11-23"
+        }
+      ]
+    }
+  ],
+  "layoffs": [
+    {
+      "company": "Canva",
+      "kind": "감원",
+      "size": "1,271명",
+      "pct": "22%",
+      "note": "공식 발표 전 은밀한 감원을 단행했으며 실제 규모는 발표치를 웃돌 수 있어요.",
+      "sources": [
+        {
+          "name": "Storyboard18",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQWV9Ia1RIMm81U2lLM2x1T3AxdnNpLWtLMjVSQWx2cXQwd0dQVGRhVWdkLTVoejQweTdZY2dNZVYyTVFXUHh1LWhOaUlTX1FlZXNTdy1WeW96bVlwbFIxRklmV1p4NHBBVS1KTUVJbE9JemY3QzVUSjFrVElwbHB1TEtXakdCeXpFWnNmSnBtYlRjYmxBNmlfWWh2YjdLYm1OVVpFR3Q3eFNZek5ZZkh6bEtPUXYyWWJac0h5YjN2N3dteWlfZ0NQN0dSNHk1Z9IBzgFBVV95cUxQWV9Ia1RIMm81U2lLM2x1T3AxdnNpLWtLMjVSQWx2cXQwd0dQVGRhVWdkLTVoejQweTdZY2dNZVYyTVFXUHh1LWhOaUlTX1FlZXNTdy1WeW96bVlwbFIxRklmV1p4NHBBVS1KTUVJbE9JemY3QzVUSjFrVElwbHB1TEtXakdCeXpFWnNmSnBtYlRjYmxBNmlfWWh2YjdLYm1OVVpFR3Q3eFNZek5ZZkh6bEtPUXYyWWJac0h5YjN2N3dteWlfZ0NQN0dSNHk1Zw?oc=5",
+          "title": "Canva's 2026 layoffs may exceed 1,271 announced job cuts, report claims",
+          "date": "2026-11-23"
+        },
+        {
+          "name": "People Matters - HR News",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNY1VEZUVkUUNpZEF3RWt2MmIyN0RITGtiZEpaZEwzNl9QQTF0SENjaHpyQ05uTGNKMDJzdjY0RGlKSFdBWVYxT2NUS3BqMXM1dWt5cUxrblYtWm1RbTIzUkctOThKaVVhenlsZG5UVS1RdlZSZlFNMldXTUlYREc3STVLNTFWcXNhQXR4bVJrdGllQUU2VUg3dFRsM05LZlFqMVhPdVM5c3ZIbmNuOHJMeFVzdFJYam9vOUl1YWNubnBEMFpOb1Z4a2Q4NnNGb2l1NUI3Qg?oc=5",
+          "title": "Canva layoffs: Company reportedly cut jobs quietly before announcing 1,271 redundancies",
+          "date": "2026-11-23"
+        },
+        {
+          "name": "BW People",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNmc5OWM1Y05qVnJHTTFzOTRQR0ZzVFJpandMblNUemxzNWpwMTZnN0lwTFVBUkhsNVBRMzdyQndtOEswaGN2d2EyT2RBR29UV2RzTTRSS1dPSkxXenAzMXdoOC03Qjd2WllEQzQ0WVRpR3JRRGdTZHJlSktWRkpRSlRrdDJwTkF0VEk0VTd6ZWJhUHNhRFpnVXN4NlF5NjA?oc=5",
+          "title": "Canva Reportedly Cut Jobs Quietly Before 1,271 Redundancies",
+          "date": "2026-11-23"
+        },
+        {
+          "name": "HR Katha",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPd2ZlWXhTWUs2V0tBbzlmbXp2QWRqblMwcW8tbnEzSjdyQTR5UHdDemdIc09hcnM4a3gyaVpHRy1NUDhRN1cyZFlsMFZTVjdVbjc0ekdQWnBjeGFqYkhMZ3hkUXl5ODBrdXBnVmdMZFdzckgwOWZuaWs1YzhUUHVvSjFNNWZZTm9PTVJNMVpsTGpobkZoczVSRi14X2tZRmVmSXppaEl3?oc=5",
+          "title": "Canva layoffs: Is the real workforce reduction bigger than reported?",
+          "date": "2026-11-23"
+        }
+      ]
+    },
+    {
+      "company": "Microsoft",
+      "kind": "자발적 퇴직",
+      "size": "60,000명",
+      "pct": "",
+      "note": "사티아 나델라 CEO가 대규모 자발적 퇴직(바이아웃) 전략의 배경을 직접 해명했어요.",
+      "sources": [
+        {
+          "name": "Gadget Review",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNEk1OTdBaVNyaVpKc294QWdGNU1HdklqODQ5cFNlZVFQbW5yaGlvcFlpSWFjSGhkUEtHQmhLREEwb1p5ZzFWMzdsTmR3aWRNNW40eTMtMUJ5elBhQVdXSmIwRThfeE9JTTBPc0RXNVpfbzdBRFJJQldSMk5ESnpGZXRXNkhMQjhKalNSaUgwcGlOUm9uRTNJR2xNbXNTZ2c?oc=5",
+          "title": "Satya Nadella Explains Why He Told 60,000 Microsoft Employees to Leave",
+          "date": "2026-11-24"
+        },
+        {
+          "name": "HR Executive",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1YZU1ySTdEa1NpZTlJV3lXZzl6YkJGVzlEUzM3N2hiMmt5b1ZXSzZJWjNkRHhSUDNYeFRjYWdHRVFmY0pGR01EbmhnNGxaLWY0OUpsZmhJTDNpOUtaM2dWZEo3YW1mcF9jVGtaS01kQnRTaFZ6WFFjbTAtNTg?oc=5",
+          "title": "Microsoft's CEO defends the mass buyout strategy",
+          "date": "2026-11-23"
+        }
+      ]
+    },
+    {
+      "company": "Apple",
+      "kind": "감원",
+      "size": "",
+      "pct": "",
+      "note": "기존 Siri 레거시 인프라 인력은 감원했으나 신규 AI 팀은 보존했어요.",
+      "sources": [
+        {
+          "name": "The Mac Observer",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVE9xcXN0NGtkQ3lHMmp0WjBYX0pjX0laZ21BVkRPT0UyUjVGVEw4N3Ywd1luNTA4Nk1VRmJiYWhhNG9RYUk3UkttMm41ck9uYVJnN0szbDNCdFMyQWVNQnlBRXRBOFF4eEIwWFN0QWwxaWh5NEMxQnlEcVBnWmd3elFQd094VEVqcnNoZjZNS1NKbjd5cVhEY2dvNm5KU2c?oc=5",
+          "title": "Apple Reportedly Lays Off Siri Employees, But Spares Its AI Teams",
+          "date": "2026-11-23"
+        },
+        {
+          "name": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQc19Ob3NzYUJxTHNwa05VU21sZ0dFV0tmdGx0cEFlcGQ2d0ttczFkSjRPdjJ1eVRSTHdiWEZnMEJQaXNJM3NaRjhvZTNwcUQwNnFrRm5GOGVHQlpyOWdhc1QxTGU5NnUtV3RJdUxoTjZGcWE1Tm9EU2dWQ0EwSFp1ZXdwdjJNM3VDSlhnSGFWeWU1ZDhOMnk2cDFxVGZWaUJfbnpmVnNTcU9FTUJNQm5QXzRhb3hSSjkwbm5sb3hPbjFYaXpLT0JBOG9ob3NXM3VBeFZGV25XTmptVkFmZy1vaA?oc=5",
+          "title": "Mark Gurman: Apple’s Siri Layoffs Spare AI Team; AI Agent Not Expected Until Late 2027",
+          "date": "2026-11-23"
+        },
+        {
+          "name": "Apple World Today",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNXVSSVRGUlhMXzJDREJVYUJNSllIVU9Za2lHdk1OSUdxc2paWkNnbW80RkF5TUpmckNUbmlzeld5V3BFRmNDZmR1YWdsRVVZRndycHoxTHVISWhwdnQ3SWwxVG1pTWJFdklFLUR2RjViTExzYTJOZW80ZWl1cGdoZ3kwUWFZaTRWQjNXVU5IQWlwaTBTS1l0LWRYZHhhNWFCX2ZCYXlyVHB1NjB0eU9wTENnRHEwT1gzWnU2SnRaS1R5MkoxV25haEg0VUJTWnFJRnhJ?oc=5",
+          "title": "Apple's recent Siri layoffs apparently affected employees working on the assistant's older infrastructure",
+          "date": "2026-11-23"
+        },
+        {
+          "name": "MacRumors",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5VbTFXV1dMc09wNkJwVEdUc0N6aHBSQXhxeW90M18xOVRaRGRLTks2VFFwcXlhMGFhb3BIWkZSSlRWcTIweFptWnlBZlB3VW85SmFPUGcxYWx0b0dIZVVpUy1idG9JSE0xbTNSYXExdzl4MkpvR1Y3M0Q5Mm5sLWs?oc=5",
+          "title": "Gurman: Siri Layoffs Spared Newer AI Systems, But Problems Persist",
+          "date": "2026-11-23"
+        }
+      ]
+    },
+    {
+      "company": "Google & Microsoft",
+      "kind": "채용 동결",
+      "size": "",
+      "pct": "",
+      "note": "2027년 인도 현지 및 IIT 캠퍼스 리크루팅 중단과 동결 가능성이 제기됐어요.",
+      "sources": [
+        {
+          "name": "Vibes Of India",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQelA4SVFoMGpscll0UTNSamdidktNOF9xNHpZOU5QQ3lrM2pwQlB4cVplNzNRVkVfcFJmNzI1QkEwNW83T0JaZlh4ODlyYjNERGlvSFI4QldGSjBieU5UVWd6VnJXa2FKR0UzdVA0eVZOSVZLcnVnZW5JcFltRjJPQ0NLZnFwSGM3Y3Y5UjR5QlY4SGtUS1ZjUWJIVm9ubVltOW1qRg?oc=5",
+          "title": "IIT Placements Under Cloud? Google, Microsoft May Pause Campus Hiring In 2027",
+          "date": "2026-11-24"
+        },
+        {
+          "name": "India Today",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZmdlQk1ZUW0tQjVZeTZrQ1p6b2JkR090NUM5NEdRWjRQNmJxTnpOeF9wR1A1WS1PUHJYdkhYWmtUMzV1OVZlNmU3YWRSVHA1TkpOZWVvOWx0cVM4Nk5JZzBXZGpYbFRMZXRXYXJ6dFo3RGpDeUd2cmUyOE1OVm84N0JVV2tLeU04MUFoNTFyVjA0c0pQNmV2cnRwbXktQzMtdnZPWWVwMTczUmxBTUhOaTB1a1BSejRSRWNrRlJmVzZOeUlKWTF3ZVdnTnlOcDYzOVNmZWNYeWRwTU15UGlvSFVR0gHnAUFVX3lxTE91bkdOSE9mQXUxNVoyM2xUWW9pSzhoZWU3MnRvQkh4YTI3UDRpN3c5eFExRzUyejF2UEdfdmNfSWtWb1NLLUhnTmZlcERuREZOdlVJMVlWMkdIU2tySEE5YWtnOERvNUgxcGRzdC0ya1ZzWkVtbUJ0dHVqclBtMDZyclZKaDNfRmVWdzFKZVN1Z05uUDUwUUNocW0yU3VVYTdHTi1wWHlKMGVhRUdnREQ4enhWSmVDUjViemlhcGhMaWFYZ1lZYVJ5UkItVDI4MzNDd0VRMngzX21WaWJvbkY4b1hvSThsSQ?oc=5",
+          "title": "IT buzz: Google and Microsoft freezing hiring in India in 2027, Google eyes fresh layoffs",
+          "date": "2026-11-23"
+        },
+        {
+          "name": "The CSR Journal",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWkhHUGtNR3p3TnBWZ1lINmpWbEVwLTNteDZBSG82cnlnV3B5ODl6T1BJam40REFHOGtEZkExbmRGZndXaXkteGp5anAtcjNoRTFWUDRDdHYzeUVLRGg2X09sVW41cEtLU3pmQ0h2bkl4SGdxMFZmRWRJakdFQVplVGRYX3FzSEFUY0w4UlBPTXZldw?oc=5",
+          "title": "Google and Microsoft Allegedly Freezing Hiring in India in 2027",
+          "date": "2026-11-23"
+        }
+      ]
+    },
+    {
+      "company": "Gopuff",
+      "kind": "감원",
+      "size": "",
+      "pct": "",
+      "note": "신규 감원 라운드를 통해 IT 및 피플 옵스(People Ops) 조직을 축소했어요.",
+      "sources": [
+        {
+          "name": "Technical.ly",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSzlyVEx4UUFlcHpXclZhQ0RfTjluNjg4MzZqaTF0ZGpXWkdnNEFFeEt6T2xMMlVGN3c5NFozWE83eXhHM1lEQWxPeFhmLWVydEt1Mk1rckl3RXpSMmFwRFE5czlieFlEYTZKN05MTl9JdnQyQzFmdTBEdDhZMm9wOExlVXFCdzg?oc=5",
+          "title": "Philly unicorn Gopuff conducts new round of layoffs, cutting IT and people ops",
+          "date": "2026-11-23"
+        }
+      ]
+    }
+  ],
+  "hiring": [
+    {
+      "company": "GSA",
+      "role": "연방 공무원 및 IT/보안",
+      "note": "공공 행정 및 보안 대응을 위해 1,000명 채용을 계획 중이에요.",
+      "sources": [
+        {
+          "name": "Clearance Jobs",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQQWFjd193WHNlWVpOd1o3SUxUdkVIRkJQSjhpXzFpaFhPSDhjQkpRaVVJSWZkXzNoNlljQXp1VHdBVG5GNGhJakFaVjVUQVMycEN6WHBwQlFrc1lzWG02VGhOWnA4Umx1UGNZVXZVSk5vUXFZNzFnVzNXc3BwZWRNdFg2d2JwWDBMajRWWW1ibHZqVmpQaTZCQ1BtWVpiOVBUcmlySWNydXZaX0hzUEdsRUNKT2Z2b3AybXQ3UUVIVXprNmdzOGlTLUxPSXVFT1FUcFFyeUxoV0ZmZ3FUaEE?oc=5",
+          "title": "GSA Plans to Hire 1,000 Employees and AI Companies Are Paying Up to $500K for Counterintelligence Talent",
+          "date": "2026-11-24"
+        }
+      ]
+    },
+    {
+      "company": "Apple",
+      "role": "AI 에이전트 개발자",
+      "note": "사용자 대신 Mac 조작과 코딩을 수행하는 차세대 AI 에이전트 인재를 영입 중이에요.",
+      "sources": [
+        {
+          "name": "Digg",
+          "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBTSEc0VHJQWFNtVnVTbHhkcFR1NUtsRE9ldXplSTcyMnRRRllyOFhRUDlqRXNISkRMTDg0THJTMEhhd3J0?oc=5",
+          "title": "Apple is reportedly building AI to do the clicking—and the coding",
+          "date": "2026-11-24"
+        },
+        {
+          "name": "Korben",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1PQVVkQS0wYTlmT2N1NFpNN3FNamRvUlNUcklhUFloTFdzcFg2Y0REaFRmZkU4Qm5iYjdySDNKM0VBLU9BbzlRVjdsVWVuOGtIMFh5UHdCLWh1R01ENExTbGdCZzNJWW5VNzFSYWxybw?oc=5",
+          "title": "Apple is hiring for an AI agent that will use your Mac for you",
+          "date": "2026-11-23"
+        },
+        {
+          "name": "Korben",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8xN3dPMGM3M2hLN245b2lDSlJKZzlibTh1MnViMGczd0xSazdYTlhEeWRoeWtOd0ZiWXRQS0p5Q3NOZ0IwcHJLOUNqT0ZGWF9zWG5TdFkwRl9FY0dQU2pyS29PbFo4Zw?oc=5",
+          "title": "Apple, 사용자 대신 Mac을 쓰는 AI 에이전트 개발자 채용 중",
+          "date": "2026-11-23"
+        }
+      ]
+    },
+    {
+      "company": "Serentica",
+      "role": "엔지니어 및 신입/경력",
+      "note": "향후 1년간 신입 500명을 포함해 총 1,000명의 전문 인력을 채용할 예정이에요.",
+      "sources": [
+        {
+          "name": "People Matters - HR News",
+          "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNVGNGMW83RkNyS2V4V3lsOUlwd3pBYkxaQUFJX2NORlJsRkliSnJ2RGNZUmdfZk5SRV9WRlZLTG9yaHd5c2NwekswcFJGblRnQ2c5MkxJRXJhSXNxWm0xMnRBTkNraFExeVRvZm9GQUFPaWxobldpZ05fQXpaa0NTcFg1Sld4OW1hSUVrSm5IVEhYZ2hLV3VlYjNleU9lS2JjZk9MV3FRdGpFLUVHU2w1YkdEZVh3bURwd0M5ME1KQTlCWlNjNklPYkNocEVnQThpOGhYRlFKaDJlSFE3NTJpSGNZNm5WTncxa1ZBckZ2eGUtb1A5S1o3WGxLbjRSV1F2UWlESENB?oc=5",
+          "title": "Serentica plans to hire 1,000 professionals, including 500 entry-level employees, over the next year: CHRO",
+          "date": "2026-11-23"
+        }
+      ]
+    }
+  ],
+  "roles": {
+    "up": [
+      {
+        "name": "AI 에이전트 및 인프라 엔지니어",
+        "why": "자동화 코딩 및 자율 에이전트 개발 수요 급증"
+      },
+      {
+        "name": "방첩 및 데이터 보안 전문가",
+        "why": "AI 모델 및 핵심 인프라 자산 유출 방지 수요"
+      },
+      {
+        "name": "DevOps 및 클라우드 인프라",
+        "why": "AI 데이터센터 확장 및 분산 환경 최적화 필요"
+      }
+    ],
+    "down": [
+      {
+        "name": "레거시 음성/규칙 기반 엔지니어",
+        "why": "LLM 중심 전환에 따른 구형 시스템 전담팀 축소"
+      },
+      {
+        "name": "루틴 콜센터 및 단순 고객상담",
+        "why": "생성형 AI 고객 응대 대체로 수요 급락"
+      },
+      {
+        "name": "인사 및 피플 옵스(People Ops)",
+        "why": "채용 시장 둔화와 기업 효율화에 따른 감원 대상"
+      }
+    ]
+  },
+  "korea": [
+    {
+      "company": "OK금융그룹",
+      "note": "AI Native 채용형 인턴 서류 접수를 시작하며 실무 AI 인재 확보에 나섰어요.",
+      "sources": [
+        {
+          "name": "CNB뉴스",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9xTU1KNlRqaVRGRkkzQmR0QkpzVGhWSkZLSmxVZE83cHZXWnNBbmZPelZxNmZRbjdxR0diWXkwamhrWHF2cXFjNXVRX3FoU1htZjBYQk5SXzNIVmh3bFZ1M2xWczcwZ2RHR1pZ?oc=5",
+          "title": "OK금융그룹, ‘AI Native 채용형 인턴’ 접수 개시",
+          "date": "2026-11-23"
+        }
+      ]
+    },
+    {
+      "company": "한컴",
+      "note": "AI 가상 사원 플랫폼 '노마디안'으로 미국 시장 공략을 선언하고 사업개발 총괄을 영입했어요.",
+      "sources": [
+        {
+          "name": "IT조선",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9vcjFMRXlKYmpLM2hEV0NDNmRUU0FVcWtnVTNfRWd3cEhmb1BrZ1cyWUhBTnFfYndZX2NDRS1KM0pPRF9ETEVVUi0tdXktdU81TVpmWE1qWnk5ZEEwWWtTWGV6MU5iZzJORTBZSmpWOHXSAXRBVV95cUxQbVBXUFc5YmxCZGZfdk1memEwTUYtTmdlcGdBcHJoUnRnYU05cjY0aUpxNWNnUTBTdFl3OXVralZ6RFRJaG1yaWVlX1FLNUhsMW1aZUd0NEllWDQ4Zl8wZ0R0djAzSERpTUxLVTA3NkdVNS1HUQ?oc=5",
+          "title": "한컴, ‘노마디안’ 美 공략 본격화…현지 전문가 영입",
+          "date": "2026-11-23"
+        },
+        {
+          "name": "머니투데이",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5UNTJvTVFvYkZHOS1GMUtxOHdTQ3Q5RnJlZXhXYldfSlpKdU5ORkcweTEtRk5ZS1NPd1VCeWF6RzRWbUdjM2tfV3pTTkR0dXBDXzIyaTkzTUVsQ2tMSHRTUHJoQTNRZzF3eFdoR9IBbEFVX3lxTE5UNTJvTVFvYkZHOS1GMUtxOHdTQ3Q5RnJlZXhXYldfSlpKdU5ORkcweTEtRk5ZS1NPd1VCeWF6RzRWbUdjM2tfV3pTTkR0dXBDXzIyaTkzTUVsQ2tMSHRTUHJoQTNRZzF3eFdoRw?oc=5",
+          "title": "\"직원 뽑기 전 AI팀부터\"…한컴, '노마디안' 미국 시장 공략 - 머니투데이",
+          "date": "2026-11-23"
+        },
+        {
+          "name": "뉴스로드",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9lblcxWWdxYTBBc2hGS2laemZWN2wyNDctSEhhaHd5NUZlYnY0eXZiaXluRVdGU0o2azEwNk9pby1GckJhbE1OR2FReXJybkJUekYwQlQtRWpFQzFUMjh4R3hBZVhkRjJSOWFRYjJLONIBb0FVX3lxTE9lblcxWWdxYTBBc2hGS2laemZWN2wyNDctSEhhaHd5NUZlYnY0eXZiaXluRVdGU0o2azEwNk9pby1GckJhbE1OR2FReXJybkJUekYwQlQtRWpFQzFUMjh4R3hBZVhkRjJSOWFRYjJLOA?oc=5",
+          "title": "한컴, 시애틀서 ‘AI 직원 먼저 뽑는 회사’ 선언…노마디안으로 美 공략 시동",
+          "date": "2026-11-23"
+        },
+        {
+          "name": "워크투데이",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1lWXVTc0FzRkpmbkd6Ui0tQm1Va0RaSGQ1VXJUdlBTRmgweVNGTWJMT2JpLVpXLWRDVlN6ZmNUSDhleFM1cHVEQ0xSOTVLQkpuRC04aEhROTY1dGxON2ZrUzBiVWg0SGRNcGhsVQ?oc=5",
+          "title": "한컴, AI 워크포스 플랫폼 '노마디안' 미국 공략 본격화 … AWS와 사업화 협력",
+          "date": "2026-11-23"
+        },
+        {
+          "name": "와이드경제",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5NcFdPS21ULUJQeWhJWkRQcS1hRFlLbXc5bVRsbVJTQkY2UXhvQ0I2a1haTzNsUEhadjRnNjJTOXpaekQ5Nk02cFhWRTBTRE5JLXo5VjJzeUZYZ1R6T0g5TUZQaTEwYnNsQU9JRA?oc=5",
+          "title": "AI 직원으로 굴리는 3D 가상 사무실…한컴 '노마디안', 미국 시장 정조준",
+          "date": "2026-11-23"
+        },
+        {
+          "name": "데일리한국",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE84TmtGWlZ2WXRackVsVWJNTF91ZnFuaDNNV0Vvb25mNzFHU3dFemhqSGd4elE4cFhEN2pGNnhPbnlLRkVVX213UzQ0cmRZMkpUOGFlZUJEUzJ2M0JVQ2VIZWNEVDM3R0E4dGFRM3ZIMNIBc0FVX3lxTE5TVVFCWFgzT1c1cEp0RWZ4T3NES1ZRYzFZaUZfZVU3cXowY254clhhNWNvRHVsZ1NaTGo1RzNQZm1QSHp3bUZNaU9FRklOVFM4X21CRXlVMWJtakYtcU9sLXJmUXg2U1hLdTdrYWRjRTdacjA?oc=5",
+          "title": "한컴, '노마디안' 美 진출 채비…현지 사업개발 총괄 영입",
+          "date": "2026-11-23"
+        }
+      ]
+    },
+    {
+      "company": "NC AI",
+      "note": "개발자 인재 교류 네트워킹 행사를 열어 현업 AI 인재 소싱 풀을 구축하고 있어요.",
+      "sources": [
+        {
+          "name": "Chosunbiz",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNYnc0ZXpDRnE1UmFvQkxwLUhjWWhpcld3OGpvRmJkZm9FOUk4djFZNWdmb0JXaFY2QW5aNE5mbFE0R2pLS1lIV2NQSjY1YnE4WUVCZzVwTzJNR1FDcmNFZTRoWF85enc1a0tYNERjQnhwUEtUQmxhck40aWhCdml0VEpR0gGWAUFVX3lxTE45dzVLWGxOblZhc3l6TTUxQ2xwcEhwMGZURjYzT2ltUjR6WFg2OXBMelNvak8waDNDV0ktNFR2TC1iSk9wUzBYU0c3aWM1akd3VlJ5SGZRRjBZSEtaYmRuaDNXX1RiQUhQeDhmTU5YaE9KYzdLXzVEUVB1UVB1TFM3LWM2MVQtMlFTekxLT2pEMEU0UGdSQQ?oc=5",
+          "title": "NC AI, 개발자 인재 교류 행사 개최…일주일 만에 100명 신청",
+          "date": "2026-11-23"
+        },
+        {
+          "name": "뉴스1",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE11ZXZ5LTk3QUlGWjJDUWxaNXBsLUVHbnE3czlRVkFnelFhUHdmTTZfLTRzaEIybmV2RGFXN0YzLUVETExLWmFnWU5YM2wxdmY0SWJ3UEJuakVjT3hhbUZEV1VSWjlVSmVi?oc=5",
+          "title": "NC AI, AI 인재 네트워킹 행사 개최",
+          "date": "2026-11-23"
+        }
+      ]
+    },
+    {
+      "company": "국내 게임 및 IT 업계",
+      "note": "AI 코딩 도구 도입 확산으로 신입 채용은 줄고 경력 중심 선발 경향이 심화되고 있어요.",
+      "sources": [
+        {
+          "name": "Naver Blog",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNM0o1czVfYkRIeEdtQmplc3NvNlowRUJqOEtIdjE4UnZmM2ZlbDU3N0M1TGVmeFJiQlBKZkl3NmY3MTgxX1JpNm5WN2ZnaHQxb001SDF3SzlZbFZWVXNvYUtiUnZPX0tZcm1LUmdHZWxMNXF2bG1yS3Q4RU9ZOEMwbHZKN1dQcFYyYVBkVHRZRQ?oc=5",
+          "title": "[인력 줄이는 K게임] 경력자는 찾고 신입은 안 키우고…미래 개발자 누가 키우나 : 네이버 블로그",
+          "date": "2026-11-23"
+        },
+        {
+          "name": "매일경제",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9XZ21fcnJwMjFXVXRSTHk4ZTJORmREaFdKZmlXZHRTQzNZNjY1Q3k1UFg0WklCSkluRTJ5UGR4b3JXNGZEbi1QT2REczNGbzRaaTJ3Rg?oc=5",
+          "title": "코딩 열풍 막차 탄 30대…20대는 AI 취업 한파",
+          "date": "2026-11-23"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "t20261124-01",
+      "region": "global",
+      "importance": "high",
+      "company": "Apple",
+      "title": "구형 Siri 조직 정리하고 Mac 조작 AI 에이전트 인재 채용",
+      "body": "애플은 기존 Siri 인프라 담당 인력을 감원했으나 최신 AI 부서는 유지했어요. 대신 사용자를 대신해 Mac을 조작하고 코딩하는 차세대 AI 에이전트 개발 인력 채용을 적극 추진하고 있어요.",
+      "insight": "단순 룰베이스 시스템 경력자보다 LLM/AI 에이전트 실무 경험자를 우대하도록 다나와·에누리 서비스 개발 JD를 고도화해야 해요.",
+      "tags": [
+        "Apple",
+        "AI에이전트",
+        "감원",
+        "직무재편"
+      ],
+      "sources": [
+        {
+          "name": "Digg",
+          "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBTSEc0VHJQWFNtVnVTbHhkcFR1NUtsRE9ldXplSTcyMnRRRllyOFhRUDlqRXNISkRMTDg0THJTMEhhd3J0?oc=5",
+          "title": "Apple is reportedly building AI to do the clicking—and the coding",
+          "date": "2026-11-24"
+        },
+        {
+          "name": "The Mac Observer",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVE9xcXN0NGtkQ3lHMmp0WjBYX0pjX0laZ21BVkRPT0UyUjVGVEw4N3Ywd1luNTA4Nk1VRmJiYWhhNG9RYUk3UkttMm41ck9uYVJnN0szbDNCdFMyQWVNQnlBRXRBOFF4eEIwWFN0QWwxaWh5NEMxQnlEcVBnWmd3elFQd094VEVqcnNoZjZNS1NKbjd5cVhEY2dvNm5KU2c?oc=5",
+          "title": "Apple Reportedly Lays Off Siri Employees, But Spares Its AI Teams",
+          "date": "2026-11-23"
+        },
+        {
+          "name": "Korben",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1PQVVkQS0wYTlmT2N1NFpNN3FNamRvUlNUcklhUFloTFdzcFg2Y0REaFRmZkU4Qm5iYjdySDNKM0VBLU9BbzlRVjdsVWVuOGtIMFh5UHdCLWh1R01ENExTbGdCZzNJWW5VNzFSYWxybw?oc=5",
+          "title": "Apple is hiring for an AI agent that will use your Mac for you",
+          "date": "2026-11-23"
+        },
+        {
+          "name": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQc19Ob3NzYUJxTHNwa05VU21sZ0dFV0tmdGx0cEFlcGQ2d0ttczFkSjRPdjJ1eVRSTHdiWEZnMEJQaXNJM3NaRjhvZTNwcUQwNnFrRm5GOGVHQlpyOWdhc1QxTGU5NnUtV3RJdUxoTjZGcWE1Tm9EU2dWQ0EwSFp1ZXdwdjJNM3VDSlhnSGFWeWU1ZDhOMnk2cDFxVGZWaUJfbnpmVnNTcU9FTUJNQm5QXzRhb3hSSjkwbm5sb3hPbjFYaXpLT0JBOG9ob3NXM3VBeFZGV25XTmptVkFmZy1vaA?oc=5",
+          "title": "Mark Gurman: Apple’s Siri Layoffs Spare AI Team; AI Agent Not Expected Until Late 2027",
+          "date": "2026-11-23"
+        },
+        {
+          "name": "Apple World Today",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNXVSSVRGUlhMXzJDREJVYUJNSllIVU9Za2lHdk1OSUdxc2paWkNnbW80RkF5TUpmckNUbmlzeld5V3BFRmNDZmR1YWdsRVVZRndycHoxTHVISWhwdnQ3SWwxVG1pTWJFdklFLUR2RjViTExzYTJOZW80ZWl1cGdoZ3kwUWFZaTRWQjNXVU5IQWlwaTBTS1l0LWRYZHhhNWFCX2ZCYXlyVHB1NjB0eU9wTENnRHEwT1gzWnU2SnRaS1R5MkoxV25haEg0VUJTWnFJRnhJ?oc=5",
+          "title": "Apple's recent Siri layoffs apparently affected employees working on the assistant's older infrastructure",
+          "date": "2026-11-23"
+        },
+        {
+          "name": "MacRumors",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5VbTFXV1dMc09wNkJwVEdUc0N6aHBSQXhxeW90M18xOVRaRGRLTks2VFFwcXlhMGFhb3BIWkZSSlRWcTIweFptWnlBZlB3VW85SmFPUGcxYWx0b0dIZVVpUy1idG9JSE0xbTNSYXExdzl4MkpvR1Y3M0Q5Mm5sLWs?oc=5",
+          "title": "Gurman: Siri Layoffs Spared Newer AI Systems, But Problems Persist",
+          "date": "2026-11-23"
+        },
+        {
+          "name": "Korben",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8xN3dPMGM3M2hLN245b2lDSlJKZzlibTh1MnViMGczd0xSazdYTlhEeWRoeWtOd0ZiWXRQS0p5Q3NOZ0IwcHJLOUNqT0ZGWF9zWG5TdFkwRl9FY0dQU2pyS29PbFo4Zw?oc=5",
+          "title": "Apple, 사용자 대신 Mac을 쓰는 AI 에이전트 개발자 채용 중",
+          "date": "2026-11-23"
+        }
+      ],
+      "date": "2026-11-24"
+    },
+    {
+      "id": "t20261124-02",
+      "region": "global",
+      "importance": "high",
+      "company": "Google & Microsoft",
+      "title": "빅테크 인도 채용 동결 기류와 72%의 이직 희망 현상",
+      "body": "구글과 MS가 2027년 인도 현지 및 IIT 캠퍼스 채용 동결을 검토한다는 소식이 전해졌어요. 설문에 따르면 인도 테크 인력의 72%가 고용 불안과 AI 위협으로 커리어 전환을 희망하고 있어요.",
+      "insight": "글로벌 테크의 해외 거점 축소는 국내 이커머스 백엔드 및 풀스택 글로벌 시니어 엔지니어를 합리적 처우로 유치할 좋은 기회예요.",
+      "tags": [
+        "Google",
+        "Microsoft",
+        "채용동결",
+        "해외인재"
+      ],
+      "sources": [
+        {
+          "name": "Vibes Of India",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQelA4SVFoMGpscll0UTNSamdidktNOF9xNHpZOU5QQ3lrM2pwQlB4cVplNzNRVkVfcFJmNzI1QkEwNW83T0JaZlh4ODlyYjNERGlvSFI4QldGSjBieU5UVWd6VnJXa2FKR0UzdVA0eVZOSVZLcnVnZW5JcFltRjJPQ0NLZnFwSGM3Y3Y5UjR5QlY4SGtUS1ZjUWJIVm9ubVltOW1qRg?oc=5",
+          "title": "IIT Placements Under Cloud? Google, Microsoft May Pause Campus Hiring In 2027",
+          "date": "2026-11-24"
+        },
+        {
+          "name": "Business Standard",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOdWlMQmxybTdiMmE3QmJySHB1dHpSSVdpRlNNaFQ0OGVpTmNMY2JJd3VPMk5MRDJaVTFkZU5ONFQ4Zm93aDRIOTZ3S09ucF9ETDZqSGhRQ1hkVEVZdVM3ZkNIUGZMaFFjSHNteW9qRmtUaldjelNRbzFRNllLSHQwNklXOVZ2VmZZV001bGRwSzN2UFFFNnZ3cG1BbURXUGIxb3pRMU50SGdJRFllS0ZRVDZDTEhFbzl2bTlPR2htS29CS0dTek9FVzJIcHRaNjZCWDVQWFRScDMyVjRBbjE4ZWdCZ9IB6AFBVV95cUxPZVhWTUY5c1BjejltYVFCcDFCdFZ2cThlYUlwdVRWaUFKbHdCYzhiNjFzTG0xbV9XT0QyNUl1VXllVUZkcW02VEcyQjZ3U0I0QjM1Tl9UV3hTcG9iM2M4dklPTzBMLW9ETXc0cDg4MkZHMjhReThtYm03NlQ1VHRnZ2JjNUYyRDlJR1BrTDRPNjh1RVdQbzhVZFpERHhrc3FiR2ZFUFIzb1JvV2RJeFBJcDFlVkZfYmdDSXZENkYwTWxXYnU4ZTA0MXVDWFhDV2hYSEU5ZzdFT2pUMUFXb2dhOEwyckl5Nmdn?oc=5",
+          "title": "Layoffs and AI fears: 72% of India's tech workers want to switch careers",
+          "date": "2026-11-23"
+        },
+        {
+          "name": "India Today",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZmdlQk1ZUW0tQjVZeTZrQ1p6b2JkR090NUM5NEdRWjRQNmJxTnpOeF9wR1A1WS1PUHJYdkhYWmtUMzV1OVZlNmU3YWRSVHA1TkpOZWVvOWx0cVM4Nk5JZzBXZGpYbFRMZXRXYXJ6dFo3RGpDeUd2cmUyOE1OVm84N0JVV2tLeU04MUFoNTFyVjA0c0pQNmV2cnRwbXktQzMtdnZPWWVwMTczUmxBTUhOaTB1a1BSejRSRWNrRlJmVzZOeUlKWTF3ZVdnTnlOcDYzOVNmZWNYeWRwTU15UGlvSFVR0gHnAUFVX3lxTE91bkdOSE9mQXUxNVoyM2xUWW9pSzhoZWU3MnRvQkh4YTI3UDRpN3c5eFExRzUyejF2UEdfdmNfSWtWb1NLLUhnTmZlcERuREZOdlVJMVlWMkdIU2tySEE5YWtnOERvNUgxcGRzdC0ya1ZzWkVtbUJ0dHVqclBtMDZyclZKaDNfRmVWdzFKZVN1Z05uUDUwUUNocW0yU3VVYTdHTi1wWHlKMGVhRUdnREQ4enhWSmVDUjViemlhcGhMaWFYZ1lZYVJ5UkItVDI4MzNDd0VRMngzX21WaWJvbkY4b1hvSThsSQ?oc=5",
+          "title": "IT buzz: Google and Microsoft freezing hiring in India in 2027, Google eyes fresh layoffs",
+          "date": "2026-11-23"
+        },
+        {
+          "name": "ETHRWorld.com",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPeTZxU2tKYm9ZdnNuOVBBMnpYMmVST2VMRVpSWXIxb2ZUbHRuSXMzU3VuREdzT0h2eWkwUVRrUmxHaV9SVkhjd0d1Zl90RHA5MUVBeTNxVTBWZkpZc1VPNy16dDNuUVZUMm9PdllwVGJiRFVaV3NTeG5IbExqX2dNblFvbEJ4SzBnZDV3cW82UmRzVlVfUk00WGlXLXpldDMwcXlER1VtYllkQkMxQm9EVVRVTllkVk1aVUlEZVRxU29tcl9FLU42TWh5LTVoY19aalAzUmFIUFRzZDMzWi1ENm01TVItQdIB6wFBVV95cUxPSzVPamY1ZTZVX2NpdWxsV3Q1aWFBX3NfbmJzNEM1Uzk0SWFjb3BDZjA4SzluRnktVEU2ZTh6YW83RmU5WkVGejE1cDdWZVZLRWlCNHJGSGVnYjdXRXFQQmg1YlFXUWNPX1djZV9TVWQ2cXpZNnVpZDhPU2h0M1dBbGkwc0E1S1dnT285N1BmanhJTndrQWV2d2pfZjBRRWVLTFh5eXBSSVpsUnNvcjc0R0wtRGMwZHFQQm81QjgtNS1pMU9oSjQ3UEFpRmQyS2g0aGxLTGV3NlUyb1JZekp3OHR6aU1RdGdjV1JF?oc=5",
+          "title": "72% of India’s tech workers would switch careers tomorrow if they could: Survey",
+          "date": "2026-11-23"
+        },
+        {
+          "name": "The CSR Journal",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWkhHUGtNR3p3TnBWZ1lINmpWbEVwLTNteDZBSG82cnlnV3B5ODl6T1BJam40REFHOGtEZkExbmRGZndXaXkteGp5anAtcjNoRTFWUDRDdHYzeUVLRGg2X09sVW41cEtLU3pmQ0h2bkl4SGdxMFZmRWRJakdFQVplVGRYX3FzSEFUY0w4UlBPTXZldw?oc=5",
+          "title": "Google and Microsoft Allegedly Freezing Hiring in India in 2027",
+          "date": "2026-11-23"
+        }
+      ],
+      "date": "2026-11-24"
+    },
+    {
+      "id": "t20261124-00",
+      "region": "global",
+      "importance": "high",
+      "company": "Microsoft",
+      "title": "사티아 나델라 6만 명 바이아웃 해명과 Azure 성과주의 보상 개편",
+      "body": "사티아 나델라 CEO는 6만 명 규모 자발적 퇴직(Buyout) 배경을 설명했어요. 동시에 Azure 클라우드 조직은 핵심 성과자에게 주식을 몰아주는 성과주의 체제로 보상 구조를 개편하고 있어요.",
+      "insight": "빅테크 보상 정책이 고성과자 위주로 재편되고 있어, 평가 및 처우 제도를 유연화해 국내외 이탈 핵심 인력을 타깃 소싱해야 해요.",
+      "tags": [
+        "Microsoft",
+        "구조조정",
+        "보상체계",
+        "Azure"
+      ],
+      "sources": [
+        {
+          "name": "Gadget Review",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNEk1OTdBaVNyaVpKc294QWdGNU1HdklqODQ5cFNlZVFQbW5yaGlvcFlpSWFjSGhkUEtHQmhLREEwb1p5ZzFWMzdsTmR3aWRNNW40eTMtMUJ5elBhQVdXSmIwRThfeE9JTTBPc0RXNVpfbzdBRFJJQldSMk5ESnpGZXRXNkhMQjhKalNSaUgwcGlOUm9uRTNJR2xNbXNTZ2c?oc=5",
+          "title": "Satya Nadella Explains Why He Told 60,000 Microsoft Employees to Leave",
+          "date": "2026-11-24"
+        },
+        {
+          "name": "HR Executive",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1YZU1ySTdEa1NpZTlJV3lXZzl6YkJGVzlEUzM3N2hiMmt5b1ZXSzZJWjNkRHhSUDNYeFRjYWdHRVFmY0pGR01EbmhnNGxaLWY0OUpsZmhJTDNpOUtaM2dWZEo3YW1mcF9jVGtaS01kQnRTaFZ6WFFjbTAtNTg?oc=5",
+          "title": "Microsoft's CEO defends the mass buyout strategy",
+          "date": "2026-11-23"
+        },
+        {
+          "name": "Metaintro",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQM01aZFY3TXl5SG1mYXdWLUJXaE8yQVZKMXlMRTdfX3pQeGF5TTg1NHBFbEplMzJubk8tSHZCVkdWWUhkR3Y5YWJVa1J2Z2pOM0xLZkFKVDN6ZGZDVVB5NWg2QnRiM3BWc1E3bHNud1I0YUdDd2ZvbVM0OUpkWjFGcU1pc05HNkdyTmEyS0NjR20?oc=5",
+          "title": "Microsoft Azure Staff Face Pay-for-Performance Shift With Extra Stock for Top Performers",
+          "date": "2026-11-23"
+        },
+        {
+          "name": "The Times of India",
+          "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxQVkFPdFNVWUtfUWhQTndGTzBDR0F1N2l5S1c4eFZXSEhsa3lKdG5WTDF2UFU3ZmdzY0FSQk96VUlNUFhvWWVVUV9kOFlyT2pMZEhySzdnUlgyVVY0R2tWNGpzUkNVLTV4TURoQVNSM093YlM5X0VLUTZ2TGdydV9DZTEzSkx5ZDdRenZFQVd1S3E0NFdDZ2FFM25Ua0RFc1Q2M0M2LWZVakUwajJFWkY3c0UwUVdhY0RNcVc2dDNVVDZraWFGdVg3VUs2RmhDT1czZEx2WXZod3dIQTI1N3Jpc2g1U1AwUzhudDhYZDBlckxGQkphdU1SekN0Z1E0MWQyd3h3dFo5eEh4ZEt6UUEwV056blMyXzZCWEg1ZWpBSm1IeDYtOWJUWTl4cWZzT1FwTGc1MWl2T2VrQmlKSFlQR0tpT3RYZkVDQVMtQ2hMUVhsSEN0TXBR0gHXAkFVX3lxTFBWQU90U1VZS19RaFBOd0ZPMENHQXU3aXlLVzh4VldISGxreUp0blZMMXZQVTdmZ3NjQVJCT3pVSU1QWG9ZZVVRX2Q4WXJPakxkSHJLN2dSWDJVVjRHa1Y0anNSQ1UtNXhNRGhBU1IzT3diUzlfRUtRNnZMZ3J1X0NlMTNKTHlkN1F6dkVBV3VLcTQ0V0NnYUUzblRrREVzVDYzQzYtZlVqRTBqMkVaRjdzRTBRV2FjRE1xVzZ0M1VUNmtpYUZ1WDdVSzZGaENPVzNkTHZZdmh3d0hBMjU3cmlzaDVTUDBTOG50OFhkMGVyTEZCSmF1TVJ6Q3RnUTQxZDJ3eHd0Wjl4SHhkS3pRQTBXTnpuUzJfNkJYSDVlakFKbUh4Ni05YlRZOXhxZnNPUXBMZzUxaXZPZWtCaUpIWVBHS2lPdFhmRUNBUy1DaExRWGxIQ3RNcFE?oc=5",
+          "title": "Microsoft is changing how it pays employees in its cloud unit; memo from Azure boss Arun Ulagaratchagan s",
+          "date": "2026-11-23"
+        }
+      ],
+      "date": "2026-11-24"
+    },
+    {
+      "id": "t20261124-06",
+      "region": "korea",
+      "importance": "high",
+      "company": "OK금융그룹 & 국내 IT 업계",
+      "title": "국내 'AI Native' 채용 전환과 신입 개발자 진입 장벽 심화",
+      "body": "OK금융그룹이 AI Native 인턴을 선발하는 등 국내 기업들은 실무 AI 활용 인재를 원하고 있어요. 반면 AI 코딩 확산으로 주니어 육성 부담이 커져 경력직 쏠림 현상이 강화되고 있어요.",
+      "insight": "커넥트웨이브 전 직무(이커머스 운영, MD, 개발) 채용에 '생성형 AI 실무 검증' 과제를 단계적으로 도입할 필요가 있어요.",
+      "tags": [
+        "국내채용",
+        "AINative",
+        "신입한파",
+        "선발평가"
+      ],
+      "sources": [
+        {
+          "name": "Naver Blog",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNM0o1czVfYkRIeEdtQmplc3NvNlowRUJqOEtIdjE4UnZmM2ZlbDU3N0M1TGVmeFJiQlBKZkl3NmY3MTgxX1JpNm5WN2ZnaHQxb001SDF3SzlZbFZWVXNvYUtiUnZPX0tZcm1LUmdHZWxMNXF2bG1yS3Q4RU9ZOEMwbHZKN1dQcFYyYVBkVHRZRQ?oc=5",
+          "title": "[인력 줄이는 K게임] 경력자는 찾고 신입은 안 키우고…미래 개발자 누가 키우나 : 네이버 블로그",
+          "date": "2026-11-23"
+        },
+        {
+          "name": "CNB뉴스",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9xTU1KNlRqaVRGRkkzQmR0QkpzVGhWSkZLSmxVZE83cHZXWnNBbmZPelZxNmZRbjdxR0diWXkwamhrWHF2cXFjNXVRX3FoU1htZjBYQk5SXzNIVmh3bFZ1M2xWczcwZ2RHR1pZ?oc=5",
+          "title": "OK금융그룹, ‘AI Native 채용형 인턴’ 접수 개시",
+          "date": "2026-11-23"
+        },
+        {
+          "name": "매일경제",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9XZ21fcnJwMjFXVXRSTHk4ZTJORmREaFdKZmlXZHRTQzNZNjY1Q3k1UFg0WklCSkluRTJ5UGR4b3JXNGZEbi1QT2REczNGbzRaaTJ3Rg?oc=5",
+          "title": "코딩 열풍 막차 탄 30대…20대는 AI 취업 한파",
+          "date": "2026-11-23"
+        }
+      ],
+      "date": "2026-11-23"
+    },
+    {
+      "id": "t20261124-07",
+      "region": "korea",
+      "importance": "mid",
+      "company": "한컴",
+      "title": "AI 에이전트 워크포스 '노마디안'으로 미국 시장 진출",
+      "body": "한컴은 시애틀에서 'AI 직원을 먼저 뽑는 회사'를 선언하며 AI 워크포스 플랫폼 노마디안의 미국 진출을 본격화했어요. 현지 사업개발 총괄을 영입하고 AWS와 협력하고 있어요.",
+      "insight": "단순 지원 인력 충원 대신 사내 업무 자동화 에이전트 도입 타당성을 검토하고 관련 기획 인재를 선제 소싱할 필요가 있어요.",
+      "tags": [
+        "한컴",
+        "AI직원",
+        "업무자동화",
+        "인재영입"
+      ],
+      "sources": [
+        {
+          "name": "IT조선",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9vcjFMRXlKYmpLM2hEV0NDNmRUU0FVcWtnVTNfRWd3cEhmb1BrZ1cyWUhBTnFfYndZX2NDRS1KM0pPRF9ETEVVUi0tdXktdU81TVpmWE1qWnk5ZEEwWWtTWGV6MU5iZzJORTBZSmpWOHXSAXRBVV95cUxQbVBXUFc5YmxCZGZfdk1memEwTUYtTmdlcGdBcHJoUnRnYU05cjY0aUpxNWNnUTBTdFl3OXVralZ6RFRJaG1yaWVlX1FLNUhsMW1aZUd0NEllWDQ4Zl8wZ0R0djAzSERpTUxLVTA3NkdVNS1HUQ?oc=5",
+          "title": "한컴, ‘노마디안’ 美 공략 본격화…현지 전문가 영입",
+          "date": "2026-11-23"
+        },
+        {
+          "name": "머니투데이",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5UNTJvTVFvYkZHOS1GMUtxOHdTQ3Q5RnJlZXhXYldfSlpKdU5ORkcweTEtRk5ZS1NPd1VCeWF6RzRWbUdjM2tfV3pTTkR0dXBDXzIyaTkzTUVsQ2tMSHRTUHJoQTNRZzF3eFdoR9IBbEFVX3lxTE5UNTJvTVFvYkZHOS1GMUtxOHdTQ3Q5RnJlZXhXYldfSlpKdU5ORkcweTEtRk5ZS1NPd1VCeWF6RzRWbUdjM2tfV3pTTkR0dXBDXzIyaTkzTUVsQ2tMSHRTUHJoQTNRZzF3eFdoRw?oc=5",
+          "title": "\"직원 뽑기 전 AI팀부터\"…한컴, '노마디안' 미국 시장 공략 - 머니투데이",
+          "date": "2026-11-23"
+        },
+        {
+          "name": "뉴스로드",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9lblcxWWdxYTBBc2hGS2laemZWN2wyNDctSEhhaHd5NUZlYnY0eXZiaXluRVdGU0o2azEwNk9pby1GckJhbE1OR2FReXJybkJUekYwQlQtRWpFQzFUMjh4R3hBZVhkRjJSOWFRYjJLONIBb0FVX3lxTE9lblcxWWdxYTBBc2hGS2laemZWN2wyNDctSEhhaHd5NUZlYnY0eXZiaXluRVdGU0o2azEwNk9pby1GckJhbE1OR2FReXJybkJUekYwQlQtRWpFQzFUMjh4R3hBZVhkRjJSOWFRYjJLOA?oc=5",
+          "title": "한컴, 시애틀서 ‘AI 직원 먼저 뽑는 회사’ 선언…노마디안으로 美 공략 시동",
+          "date": "2026-11-23"
+        },
+        {
+          "name": "워크투데이",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1lWXVTc0FzRkpmbkd6Ui0tQm1Va0RaSGQ1VXJUdlBTRmgweVNGTWJMT2JpLVpXLWRDVlN6ZmNUSDhleFM1cHVEQ0xSOTVLQkpuRC04aEhROTY1dGxON2ZrUzBiVWg0SGRNcGhsVQ?oc=5",
+          "title": "한컴, AI 워크포스 플랫폼 '노마디안' 미국 공략 본격화 … AWS와 사업화 협력",
+          "date": "2026-11-23"
+        },
+        {
+          "name": "와이드경제",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5NcFdPS21ULUJQeWhJWkRQcS1hRFlLbXc5bVRsbVJTQkY2UXhvQ0I2a1haTzNsUEhadjRnNjJTOXpaekQ5Nk02cFhWRTBTRE5JLXo5VjJzeUZYZ1R6T0g5TUZQaTEwYnNsQU9JRA?oc=5",
+          "title": "AI 직원으로 굴리는 3D 가상 사무실…한컴 '노마디안', 미국 시장 정조준",
+          "date": "2026-11-23"
+        },
+        {
+          "name": "데일리한국",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE84TmtGWlZ2WXRackVsVWJNTF91ZnFuaDNNV0Vvb25mNzFHU3dFemhqSGd4elE4cFhEN2pGNnhPbnlLRkVVX213UzQ0cmRZMkpUOGFlZUJEUzJ2M0JVQ2VIZWNEVDM3R0E4dGFRM3ZIMNIBc0FVX3lxTE5TVVFCWFgzT1c1cEp0RWZ4T3NES1ZRYzFZaUZfZVU3cXowY254clhhNWNvRHVsZ1NaTGo1RzNQZm1QSHp3bUZNaU9FRklOVFM4X21CRXlVMWJtakYtcU9sLXJmUXg2U1hLdTdrYWRjRTdacjA?oc=5",
+          "title": "한컴, '노마디안' 美 진출 채비…현지 사업개발 총괄 영입",
+          "date": "2026-11-23"
+        }
+      ],
+      "date": "2026-11-23"
+    },
+    {
+      "id": "t20261124-03",
+      "region": "global",
+      "importance": "mid",
+      "company": "Canva",
+      "title": "공식 발표 1,271명 감원 뒤 가려진 추가 인력 축소 논란",
+      "body": "캔바가 공식 발표한 1,271명(약 22%) 감원 외에도 사전에 조용한 감원을 진행했다는 보고가 나왔어요. 실제 인력 감축 규모는 공식 집계보다 훨씬 클 수 있다는 관측이 제기되고 있어요.",
+      "insight": "글로벌 SaaS/디자인 플랫폼의 인력 유출이 가속화되므로 셀러 솔루션(메이크샵) UI/UX 및 프론트엔드 역량자 소싱 풀로 활용 가능해요.",
+      "tags": [
+        "Canva",
+        "SaaS",
+        "감원",
+        "인력축소"
+      ],
+      "sources": [
+        {
+          "name": "Storyboard18",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQWV9Ia1RIMm81U2lLM2x1T3AxdnNpLWtLMjVSQWx2cXQwd0dQVGRhVWdkLTVoejQweTdZY2dNZVYyTVFXUHh1LWhOaUlTX1FlZXNTdy1WeW96bVlwbFIxRklmV1p4NHBBVS1KTUVJbE9JemY3QzVUSjFrVElwbHB1TEtXakdCeXpFWnNmSnBtYlRjYmxBNmlfWWh2YjdLYm1OVVpFR3Q3eFNZek5ZZkh6bEtPUXYyWWJac0h5YjN2N3dteWlfZ0NQN0dSNHk1Z9IBzgFBVV95cUxQWV9Ia1RIMm81U2lLM2x1T3AxdnNpLWtLMjVSQWx2cXQwd0dQVGRhVWdkLTVoejQweTdZY2dNZVYyTVFXUHh1LWhOaUlTX1FlZXNTdy1WeW96bVlwbFIxRklmV1p4NHBBVS1KTUVJbE9JemY3QzVUSjFrVElwbHB1TEtXakdCeXpFWnNmSnBtYlRjYmxBNmlfWWh2YjdLYm1OVVpFR3Q3eFNZek5ZZkh6bEtPUXYyWWJac0h5YjN2N3dteWlfZ0NQN0dSNHk1Zw?oc=5",
+          "title": "Canva's 2026 layoffs may exceed 1,271 announced job cuts, report claims",
+          "date": "2026-11-23"
+        },
+        {
+          "name": "People Matters - HR News",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNY1VEZUVkUUNpZEF3RWt2MmIyN0RITGtiZEpaZEwzNl9QQTF0SENjaHpyQ05uTGNKMDJzdjY0RGlKSFdBWVYxT2NUS3BqMXM1dWt5cUxrblYtWm1RbTIzUkctOThKaVVhenlsZG5UVS1RdlZSZlFNMldXTUlYREc3STVLNTFWcXNhQXR4bVJrdGllQUU2VUg3dFRsM05LZlFqMVhPdVM5c3ZIbmNuOHJMeFVzdFJYam9vOUl1YWNubnBEMFpOb1Z4a2Q4NnNGb2l1NUI3Qg?oc=5",
+          "title": "Canva layoffs: Company reportedly cut jobs quietly before announcing 1,271 redundancies",
+          "date": "2026-11-23"
+        },
+        {
+          "name": "BW People",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNmc5OWM1Y05qVnJHTTFzOTRQR0ZzVFJpandMblNUemxzNWpwMTZnN0lwTFVBUkhsNVBRMzdyQndtOEswaGN2d2EyT2RBR29UV2RzTTRSS1dPSkxXenAzMXdoOC03Qjd2WllEQzQ0WVRpR3JRRGdTZHJlSktWRkpRSlRrdDJwTkF0VEk0VTd6ZWJhUHNhRFpnVXN4NlF5NjA?oc=5",
+          "title": "Canva Reportedly Cut Jobs Quietly Before 1,271 Redundancies",
+          "date": "2026-11-23"
+        },
+        {
+          "name": "HR Katha",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPd2ZlWXhTWUs2V0tBbzlmbXp2QWRqblMwcW8tbnEzSjdyQTR5UHdDemdIc09hcnM4a3gyaVpHRy1NUDhRN1cyZFlsMFZTVjdVbjc0ekdQWnBjeGFqYkhMZ3hkUXl5ODBrdXBnVmdMZFdzckgwOWZuaWs1YzhUUHVvSjFNNWZZTm9PTVJNMVpsTGpobkZoczVSRi14X2tZRmVmSXppaEl3?oc=5",
+          "title": "Canva layoffs: Is the real workforce reduction bigger than reported?",
+          "date": "2026-11-23"
+        }
+      ],
+      "date": "2026-11-23"
+    },
+    {
+      "id": "t20261124-04",
+      "region": "global",
+      "importance": "mid",
+      "company": "LinkedIn",
+      "title": "채용 시장 '동결' 속 Gen Z 생존 키워드로 AI와 네트워킹 부상",
+      "body": "링크드인 CEO는 현재 채용 시장이 전반적으로 얼어붙어 주니어급에 특히 가혹하다고 진단했어요. 다만 AI 실무 활용 역량과 네트워크를 갖춘 인재는 여전히 채용 기회를 잡고 있다고 분석했어요.",
+      "insight": "신입·주니어 채용 시 전공 지식뿐만 아니라 AI 툴을 실무에 적극 도입해 생산성을 낸 경험을 주요 평가 요소로 편입해야 해요.",
+      "tags": [
+        "LinkedIn",
+        "GenZ",
+        "채용시장",
+        "AI역량"
+      ],
+      "sources": [
+        {
+          "name": "Fortune",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRVVLZGN3eUMxS3Q1cThsV2JfUWZITG9DT0pZWjBySHVka0ZubVlJNTUyLXdGQk83dWR5WEpzU2lOQzZreE8xSlBZOVlRQU5hMFplQWt2enFuVkEyZko2ZkZoZG12Z2ZmVnNyTWdOaGdkSFlzUnU1a0Y5dmRFcGRvZURaZjkyWnJXczNVOVBfZXJNVXREZ2EtX283cGpCdTlLQk1udWIycTkySmRlWXlzUmxSSTYzaXc?oc=5",
+          "title": "LinkedIn CEO says the job market is ‘frozen,’ but Gen Z have an edge—and networking is key",
+          "date": "2026-11-23"
+        },
+        {
+          "name": "Benzinga",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxONzlpY0tFQ2ZMbC1scXowaF84YTQ4OUdMN04zZzVoMzNUb1pNbmNpN24wbTlYeHhUeWRDTTR3LUo5UkVBZm5XQUFtcHdycE5VTm11VGRjYWVLMWN2NEtzZGllajk3d3FCa2tDYnUxenNualk3SFVUdFI4V2tlU2tCc01XeXlvWWpNTnZVdlptNXp5TzNRM2xueWlLZzk5MWJOTVpFWGk4ZFlFNVVZaFQzdXNHbFhmdUJEeFJfOEMxZXF5cUdVXzhuLTJpZFNDMGg4UHAzZHlZcVQ?oc=5",
+          "title": "LinkedIn CEO Says Job Market Is ‘Frozen’ for Gen Z, But AI Skills and Networking Could Help — Data Reveal",
+          "date": "2026-11-23"
+        },
+        {
+          "name": "The Times of India",
+          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNcDBtOGRzdng4THVHeEEtUGVvOGk4aUNBRnQyaEZ1YjNzZEFPVGcyQ04tVXlIOGlOWmlFT3YtREstQWMtRkxuZGJGQkZNZ1prdUgyNkFiYW91QW9vbjQ4aUs1NDk0Wm82MURpQlIyOU9EYnZyS0g1dFp6QmVTbFZ1RDZJdEhSZlpaY09HTUphVlpuYjRWS2t1NEtkdHB0cjR0cXk4UzhuSS1IajFuUmFqYmx6VzdvclVWSHB6TkZCYW5KendKODJXMzBnMTY4YlpYNzhxS3c5U0NXa0tkRlpHMXVLSTlmNS10WGpCcmt1ZFNOVTRRN3p2YXJMV0kyY3fSAYQCQVVfeXFMT3M4bWFWN2dsdGZDWEpacVhyRC1KT2gzcGhwMlN1MW5lMWF4MW5GRWVXT0hfcjVuc1Flcy1IYUdVbXJGMVB0akhBdXZqWkxLN2dTUm5ieXhRN2dRNmptVWVZcU1YLUxwQ1N2UkN5UVhWUUF6LTNGUWdJSEZkeDhyOFJ3WVpJaHJDdXRJQ2std2tMajhfNXZjcURZWURPUl9VZlNKVk01eVdFSkJyNkozQWo5Y2prams2bk5MNXNKSEsyckRaLThBYzRTRy16NzJlZnNscnZ2d1dVM25hemdPQlpmZlowY1R1TE1yYkE0WlNCaEJ2V3Y2ejlKUjRZLXJzUHdmNmY?oc=5",
+          "title": "LinkedIn CEO Daniel Shapero has a tip for Gen Z job seekers: Talk to someone who already…",
+          "date": "2026-11-23"
+        }
+      ],
+      "date": "2026-11-23"
+    },
+    {
+      "id": "t20261124-05",
+      "region": "global",
+      "importance": "mid",
+      "company": "Gopuff",
+      "title": "퀵커머스 유니콘 Gopuff, IT 및 피플 옵스 인력 구조조정",
+      "body": "물류·배달 유니콘 Gopuff가 새로운 감원 라운드를 통해 IT 개발 및 피플 옵스(People Ops) 조직 인력을 줄였어요. 커머스 플랫폼들의 수익성 중심 경영이 지속되고 있어요.",
+      "insight": "커머스/물류 도메인의 백엔드 개발자 및 물류 데이터 인력을 타깃할 수 있으며 채용팀 역시 조직 효율화를 선제 준비해야 해요.",
+      "tags": [
+        "Gopuff",
+        "물류",
+        "커머스",
+        "피플옵스"
+      ],
+      "sources": [
+        {
+          "name": "Technical.ly",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSzlyVEx4UUFlcHpXclZhQ0RfTjluNjg4MzZqaTF0ZGpXWkdnNEFFeEt6T2xMMlVGN3c5NFozWE83eXhHM1lEQWxPeFhmLWVydEt1Mk1rckl3RXpSMmFwRFE5czlieFlEYTZKN05MTl9JdnQyQzFmdTBEdDhZMm9wOExlVXFCdzg?oc=5",
+          "title": "Philly unicorn Gopuff conducts new round of layoffs, cutting IT and people ops",
+          "date": "2026-11-23"
+        }
+      ],
+      "date": "2026-11-23"
+    }
+  ]
+}
