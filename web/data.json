@@ -56,184 +56,222 @@
     ]
    }
   ],
-  "updated": "2026-11-24T03:29+09:00"
+  "updated": "2026-11-24T15:03+09:00"
  },
  "reports": [
   {
    "date": "2026-11-24",
    "window_days": 1,
-   "article_count": 299,
-   "engine": "없음(제목 기준)",
-   "headline": "오늘은 AI 분석이 실패해 제목 기준으로만 골랐어요",
+   "article_count": 305,
+   "engine": "gemini-3-flash-preview",
+   "headline": "2027년 반차 의무화 대비 및 이커머스·금융권 인력 재편 가속화",
    "points": [
-    "수집 기사 299건 중 HR 관련 단어가 있는 25건만 올렸어요",
-    "시사점·팀 태그 없이 기사 제목만 보여드려요"
+    "2027년 6월 반차 사용 의무화에 따른 근태 관리 시스템 선제적 점검 필요",
+    "네이버로직스 출범 및 홈플러스 배송 중단 등 이커머스 물류 시장 격변",
+    "농협·SKT 등 대기업 희망퇴직 확산으로 인한 IT·기획 인력 유입 가능성"
    ],
-   "analysis_error": "AI 분석 실패 — 모델 'gemini-3.8-flash'이 계속 혼잡해요 (HTTP 503) / 모델 'gemini-3.7-flash'이 계속 혼잡해요 (HTTP 503) / 모델 'gemini-3-flash-preview'이 계속 혼잡해요 (HTTP 503) / 모델 'gemini-flash-latest'이 계속 혼잡해요 (HTTP 503) / 모델 'gemini-flash-lite-latest'이 계속 혼잡해요 (HTTP 503) / 예비 AI 키(ANTHROPIC_API_KEY)가 없어 Claude는 건너뛰었어요",
    "items": [
     {
-     "id": "20261124-f00",
      "cat": "market",
-     "importance": "low",
+     "importance": "high",
+     "company": "NH농협은행",
+     "title": "농협은행, 만 40세 이상 대상 대규모 명예퇴직 실시",
+     "body": "NH농협은행이 10년 이상 근속한 만 40세 이상 직원을 대상으로 명예퇴직을 접수해요. 퇴직금으로 최대 40개월치 임금을 지급하며, 이는 예년보다 대폭 상향된 수준으로 인력 재편을 본격화하고 있어요.",
+     "insight": "금융권의 디지털 전환과 맞물려 40대 중장년층 인력이 대거 시장에 나올 예정이에요. 이 중 IT 기획이나 핀테크 관련 역량을 가진 인재를 선별적으로 검토할 기회예요.",
+     "action": "금융·핀테크 관련 경력직 채용 시 농협 등 은행권 출신 인재들의 지원 여부를 면밀히 검토해 보세요.",
      "teams": [
       "채용"
      ],
-     "company": "금강일보",
-     "title": "SK하이닉스, 채용 학력 제한 없앴다… 1만6000명 지원 기회 확대",
-     "body": "SK하이닉스, 채용 학력 제한 없앴다… 1만6000명 지원 기회 확대 금강일보",
-     "insight": "",
-     "action": "",
-     "tags": [],
+     "tags": [
+      "명예퇴직",
+      "금융권",
+      "인력재편"
+     ],
      "our_group": false,
+     "talent": {
+      "level": "high",
+      "signal": "대규모 명예퇴직 실시 — 금융·IT 기획 인력 시장 유입 예상"
+     },
      "sources": [
       {
-       "name": "금강일보",
-       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1MT1pJaGFHQkNwTWZtVWJGTEpVYXkwc2E3TWRJS0x1MnRTWUphZGhhRjZ2SEtEUExBN0ZWbG01UXlNbEh2elJtRGl0bmNGOXpMT1N5cWZtUHYyZlctLUR4bVlseFZsY1hXOVE?oc=5",
-       "title": "SK하이닉스, 채용 학력 제한 없앴다… 1만6000명 지원 기회 확대",
+       "name": "연합뉴스",
+       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBmbi1CdDI3NTkySHBVYjlsandtLTY0NVhSbE1OdDNLaF91OThsdnk5MmFYdWpLNndyVDM1LU13d0dINEdVY3BTUWxmN2t1bEcxZC1QN2VEUkI4cEXSAWBBVV95cUxPSVhwcl92VmtRbmtVdDJSa0JQa1VsT090ZW1QQklrd2M3Y1Q0d18xUEVMU2k1VmtIUElFQ1RNclIxTFJtUzVKWHlsdkN6YlFaaHdfcVRkWWhSTWJoOWowckE?oc=5",
+       "title": "농협은행, 40세 이상 명예퇴직 받는다…최대 40개월치 임금",
+       "date": "2026-11-24"
+      },
+      {
+       "name": "브릿지경제",
+       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4zVnA4M05VUmdHb0tyLTNNUXd1bnhNX3ZyTTJYcGVJWU5sNlJjVXhUM1FqdllVSnVqeVVCcFNsaS0xSHdrS3p3ZnozUTZiUDIzNVlkbkEtRkpMZw?oc=5",
+       "title": "농협은행, 명예퇴직 돌입…인력 재편 본격화",
+       "date": "2026-11-24"
+      },
+      {
+       "name": "뉴스1",
+       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9NQ0JPR1FXclZRWEV6aXFacElOZ3UzajhDaDk5bkU1WmFlZGNyWGhVTEJwclVwSWpQMkNtZVZsLTROV21Ka1ppUXdOYmY5c2ZLZjFR?oc=5",
+       "title": "NH농협금융, 만 40세 이상 명예퇴직…최대 40개월치 임금 지급",
+       "date": "2026-11-24"
+      },
+      {
+       "name": "강원도민일보",
+       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBxQy1UaDI0cU94MVhJYmw0eGlwWHRkWV9ZZVo2anJLMXNNZ3VtT1lWWXdLWE1oLWdqUEdvLVNVQUQtV3lLczg1ZVM2VXUzeUdUeW1HWnVRWjBsdHRSLWVadDJiYVMxUQ?oc=5",
+       "title": "NH농협은행, 40세 이상 명예퇴직 실시…최대 40개월치 임금 지급",
+       "date": "2026-11-24"
+      },
+      {
+       "name": "뉴시스",
+       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5BNnF5OFRDOWMyQzRBR3E3bUJQR2g5Nk9nRjhkem4yb0RmOWtwT0h3R1BGOTRFeGZQV0JOREg2bVVseWdta2NYY1RZSzZBMExDSUg1S1dxUk42d2ZwbVp6cdIBeEFVX3lxTE9ZbmRtSVFaSWs5WldMOVE1OGdhYURmbGxyM2plRXFLeVczUG0xZ01oS2NGZDdnbjI2SnBUbWJUWHVFb29ITHRpRW1aWE1fY2xSejVXUFJqREJBQzhSM1J2LWo0Nm1Rc2FYNjEwaHYzS1RiU2QtQmVlOA?oc=5",
+       "title": "NH농협은행, 만 40세부터 희망퇴직 실시…최대 40개월치 임금 지급",
+       "date": "2026-11-24"
+      },
+      {
+       "name": "파이낸셜포스트",
+       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1jTlN5a3A1YXNWd2ZrVG16Wm9ycXFoNDBkUTNxeUtVcFNtRmRpV2dDZkJHNDFSRWo1SlN6VnVQZHN6Z3czbnlncmltdnRsMWpiXzN4MlVZQUh1WTJtVXdUQ1JqWFR4bjV4UDhwNkxFbU5EcVN0?oc=5",
+       "title": "[종합] 은행권 연말 '희망퇴직 시즌'…농협 명퇴금 2배",
+       "date": "2026-11-24"
+      },
+      {
+       "name": "생생비즈플러스",
+       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE52ZURxZUdWOHE4SENZWm54bmlkMzJCeUhDa1pkb0FtdzlSNGE2Z215RjRJQW5hdUV4NDlsUXhDYXhQaFo1UUg1QVp2OXo0LVBLN3h6ZmRXd1ZHQk5yOUk2RzFuMS05WmE5c3Jtdw?oc=5",
+       "title": "은행권 연말 칼바람 시작되나...농협은행, 10년 근속·40세 이상 직원 대상 명예퇴직 신청",
+       "date": "2026-11-24"
+      },
+      {
+       "name": "연합인포맥스",
+       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1wTFZzXzJqVVh6WkdjVER6YmhqNmRleG1vVklKUGlGWTdCSWxSU1FqZTBXNi1QQk5YTjJQcTlDbW94b2VpLWFyNzRvM0Y1bmZGN2syMkE5TS1ab05CeUJ1YlE5VW9Ea1owc19HYjhOLUhSVEFC?oc=5",
+       "title": "NH농협은행·보험 등 명퇴 실시…최대 40개월치 임금 지급 |",
+       "date": "2026-11-24"
+      },
+      {
+       "name": "한스경제",
+       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5tSmtPeERfdkZDNXBGcjNTQmpiMlo2WkRoc253cTAxYU5ic3lRelZvTFpGSGJodHc5RG41RTEwUDFfX0Y2VEVsaExoLURNTktHcm41cG9zUjJUQTBwVVdHQVJLVUNVdkFBX2FPRtIBb0FVX3lxTE9CR3FjY0R3N0s4QjVPOWJSYV9iMlRXdlJwODFCeDMwTVFSUWYyLTAxZ0lQSmpWTVdCRzdhY0sxLWRjSWVrRFpYVVVLSzRWU2dURUhnV3lpYlk4SVhOQlhmTExGR2JYSjdJWHZydmkwcw?oc=5",
+       "title": "농협발 연말 명퇴…은행권 인력 재편 본격화",
+       "date": "2026-11-24"
+      },
+      {
+       "name": "파이낸셜포스트",
+       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5oeVRia1NURU5RcTlPekluWEVSUlN2LXpXVm5YeUtnNUVQYldNTDNZbE5Sby1CajBDTlRiS3hmaG8wYUNlTEpkaHoxUFpUazJXdm4tc0RPV3lWSjJHVXg2TWdEdFluelk3TDRzbU9uX0JvT3VX?oc=5",
+       "title": "농협은행 명퇴금 2배로…40세부터 최대 40개월치",
        "date": "2026-11-24"
       }
      ],
-     "date": "2026-11-24"
+     "date": "2026-11-24",
+     "id": "20261124-02"
     },
     {
-     "id": "20261124-f01",
-     "cat": "trend",
-     "importance": "low",
+     "cat": "ecom",
+     "importance": "high",
+     "company": "네이버",
+     "title": "물류 자회사 '네이버로직스' 출범, 김범준 대표 선임",
+     "body": "네이버가 물류 전담 자회사 '네이버로직스'를 설립하고 배달의민족 CEO 출신 김범준 대표를 선임했어요. 약 1조 원 규모의 투자를 통해 쿠팡의 로켓배송에 대응하는 물류 경쟁력을 강화할 방침이에요.",
+     "insight": "이커머스 물류 전쟁이 심화되면서 관련 분야 핵심 인재 확보 경쟁이 치열해질 것으로 보여요. 특히 배민 출신 리더 영입은 조직 문화와 일하는 방식에도 큰 변화를 예고해요.",
+     "action": "물류·배송 자회사(스윗트래커, 몰테일)의 핵심 인력 이탈 방지 및 네이버로직스 관련 인력 동향을 모니터링해 보세요.",
+     "teams": [
+      "채용",
+      "인사기획"
+     ],
+     "tags": [
+      "네이버로직스",
+      "물류전쟁",
+      "리더영입"
+     ],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "더쎈뉴스",
+       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE51WlNFZjQ4dWllN0lwa0pCVVBEc3hxSWUxWUlSUVBXRWJYbWZYdWdOb1FaU18zT294MDY0a3N0ZjliTUJrZHEtQWNMdGNLWTB0b1NFM1dwcmdIdWdNWm92ME5UOWRBM0U?oc=5",
+       "title": "'로켓·샛별'에 맞선 '네이버로직스' 출격…이커머스 물류 전쟁 다자 구도 격화",
+       "date": "2026-11-24"
+      },
+      {
+       "name": "자본시장뉴스",
+       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE53dXp6SEtIUGVOSmJsY3R0OEFKNWtvWU1Sc3pXZHhMRkFQYmdXQUV2b0w0Yng4SERHckxadEtycmdoUFpCZXRPZEhBalJzM1I3V1Q2Qkd4Mmw5bmtpVWJ6bGluWFFJdkE?oc=5",
+       "title": "네이버로직스 대표에 김범준 前배민 CEO…쿠팡과 물류 맞대결",
+       "date": "2026-11-24"
+      },
+      {
+       "name": "뉴스로드",
+       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9peUx6eFlTR3ZwbEpDa28zc2lQaWx5M2E1cmFXRDZfZjVIY2NVa08xRlFZZlRwUzZFemJsLWNZZ2lrRlZ5a1JoUzk2ZkdLVzJHSDROS0tRbzE3d1d4RXNxWnZJRGFEckE2Q3pxSnh5d9IBb0FVX3lxTE9peUx6eFlTR3ZwbEpDa28zc2lQaWx5M2E1cmFXRDZfZjVIY2NVa08xRlFZZlRwUzZFemJsLWNZZ2lrRlZ5a1JoUzk2ZkdLVzJHSDROS0tRbzE3d1d4RXNxWnZJRGFEckE2Q3pxSnh5dw?oc=5",
+       "title": "네이버, 물류 자회사 ‘네이버로직스’ 출범…배민 전 대표 김범준 체제로",
+       "date": "2026-11-24"
+      },
+      {
+       "name": "세계일보",
+       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9qMzRTeWZhNUZuTW1Sc1lNWVhhRXpITTc0WFNGcDZxblM5LWZfTUxrbFZxNzVvbDh5T1BqUTJTQ2V4eW8zOUZNeDhTcGI3ZFNDQkRFWW1RcjbSAVRBVV95cUxNbExKRVJtaFhKRlhfTjc2VFd5dVFPZkNKaU1ZVm5lTHhYMV9mY1d0YW1PWmx0WWhYMkYwSVJvNXhXT1U1aWZ6MUJ4NGE5X2hjUDVQQ2c?oc=5",
+       "title": "네이버, 물류 자회사 ‘네이버로직스’ 설립",
+       "date": "2026-11-24"
+      },
+      {
+       "name": "SeattleN",
+       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1KeGFIWHRNSTd1NUNtRDhkRVREU1dOUXE3N2tPUmNSVXN1NUhuUWM0czJuT1UtT3owb3RQSTlndVBLak8yS1N6YjFzZUE?oc=5",
+       "title": "네이버, 배송에 1조 베팅…쿠팡 추격 승부수 > 뉴스포커스",
+       "date": "2026-11-24"
+      }
+     ],
+     "date": "2026-11-24",
+     "id": "20261124-01"
+    },
+    {
+     "cat": "ecom",
+     "importance": "high",
+     "company": "홈플러스",
+     "title": "홈플러스, 온라인 배송 중단 및 상품 수급난 심화",
+     "body": "홈플러스가 11월 26일부터 온라인 배송 서비스를 중단하기로 했어요. 상품 수급 차질과 경영난이 겹치며 온라인 사업 운영에 비상이 걸린 상황이에요.",
+     "insight": "이커머스 및 물류 운영 인력들의 고용 불안이 커질 것으로 예상돼요. 우리 그룹사의 물류 솔루션 및 커머스 부문에서 즉시 전력감이 될 인재를 확보할 적기일 수 있어요.",
+     "action": "홈플러스 온라인/물류 부문 퇴직 인력을 타겟팅한 채용 캠페인이나 헤드헌팅을 검토해 보세요.",
+     "teams": [
+      "채용",
+      "인사기획"
+     ],
+     "tags": [
+      "홈플러스",
+      "배송중단",
+      "경영난"
+     ],
+     "our_group": false,
+     "talent": {
+      "level": "high",
+      "signal": "온라인 배송 중단 — 이커머스 운영·물류 인력 이탈 가능성 높음"
+     },
+     "sources": [
+      {
+       "name": "인사이트코리아",
+       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB6dFlmSWpCMXBsUUlkT3RpNk5aX2VXY1Y4VThUTzRlZHNBVWdKdVRPUzJIUFplaFhtSWg4LWwweVg3eHB3QVNudC13Y2dTMmJjQjF2dGh3OU5qMjJwM1R6aDFsdW9OV3hqYjFJZGczY1JLb0XSAXdBVV95cUxOYzFaT3lDQXBYVnFPS3QxdHFpU1Y0eS1tcTl4TDBpVXNORHZ4ckdHUjA1X0cwNFQyeS1vSjR2NzlzZmVRUFQwUEx2TUJ6cm1mbF8xQkJ2b2F4YVlBMnVoaWJLSlNRcUZla1ppYUd1NlBkYS11NnVKZw?oc=5",
+       "title": "홈플러스, 26일부터 온라인 배송 중단…상품 수급난 심화",
+       "date": "2026-11-24"
+      },
+      {
+       "name": "중소기업신문",
+       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4yVHZQZnd3Mmlhb0VpZ2RZT1RKMl9ra2ttY3hWZmd4d0EzeGc1cFltNGpTOURUYmZJaXR4c1BmSWRSUE9SS3pjeTFXbi1hYWhtVVpJNEZwUnVqSlpoOS1UaDZ2U1E2ZS1rbVlLeA?oc=5",
+       "title": "온라인배송 중단하는 홈플러스",
+       "date": "2026-11-24"
+      },
+      {
+       "name": "뉴시스",
+       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1Xd0NBWExKXzNGcjRjckpBUkI1VDQxaDRDeXdyclExaElOVzY3bkNOcHVnNmJHVGxMSVh2b0Qxd0Q5bE5BcWkzeTNkMnNxQWJ3TE10VThRcHp1NzJ6bm55bWt6d1JlRFJoUW9ZTk0yQjA5QTlDakVNVtIBeEFVX3lxTE1Xd0NBWExKXzNGcjRjckpBUkI1VDQxaDRDeXdyclExaElOVzY3bkNOcHVnNmJHVGxMSVh2b0Qxd0Q5bE5BcWkzeTNkMnNxQWJ3TE10VThRcHp1NzJ6bm55bWt6d1JlRFJoUW9ZTk0yQjA5QTlDakVNVg?oc=5",
+       "title": "홈플러스, 26일부터 온라인 배송 중단…상품 수급 차질",
+       "date": "2026-11-24"
+      }
+     ],
+     "date": "2026-11-24",
+     "id": "20261124-03"
+    },
+    {
+     "cat": "labor",
+     "importance": "high",
+     "company": "고용노동부",
+     "title": "2027년 6월 '반차 사용 의무화' 시행 대비 필요",
+     "body": "2027년 6월 10일부터 근로자가 연차휴가를 반일 단위로 나누어 사용할 수 있도록 하는 반차 사용 의무화가 시행돼요. 기존에 재량으로 운영하던 반차 제도가 법적 의무가 됨에 따라 관리 기준 정립이 필요해요.",
+     "insight": "우리 그룹사의 연차 관리 규정을 재점검하고, 반차/반반차 등 유연한 휴가 사용이 시스템적으로 누락 없이 관리되도록 선제적인 제도 정비가 필요해요.",
+     "action": "취업규칙 내 휴가 사용 단위를 점검하고, 근태 시스템에서 반일 단위 차감이 정확히 반영되는지 확인해 보세요.",
      "teams": [
       "인사기획",
-      "조직문화·HRD"
+      "노무·ER"
      ],
-     "company": "기고만장",
-     "title": "[EPI.494] K-푸드 인재전쟁, 해외에서 이기는 회사가 인재를 가져간다 [Edge 7기 김성중대표] --> --> --> [EPI.494] K-푸드 인재전쟁, 해외에서 이기는 회사가 인재를 가져간다 [Edge ",
-     "body": "",
-     "insight": "",
-     "action": "",
-     "tags": [],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "기고만장",
-       "url": "https://ggmj.kr/hredge/?idx=175883337&bmode=view",
-       "title": "[EPI.494] K-푸드 인재전쟁, 해외에서 이기는 회사가 인재를 가져간다 [Edge 7기 김성중대표] --> --> --> [EPI.494] K-푸드 인재전쟁, 해외에서 이기는 회사가 인재를 가져간다 [Edge ",
-       "date": "2026-11-24"
-      }
+     "tags": [
+      "반차의무화",
+      "연차휴가",
+      "근로기준법"
      ],
-     "date": "2026-11-24"
-    },
-    {
-     "id": "20261124-f02",
-     "cat": "labor",
-     "importance": "low",
-     "teams": [
-      "노무·ER",
-      "보상·복리후생"
-     ],
-     "company": "시프티 블로그",
-     "title": "근태관리 SaaS 도입 시 확인해야 할 안정성 기준과 체크리스트 최근 기업들은 근무일정 관리, 출퇴근기록 관리, 휴가 관리, 전자결재 등 다양한 인사 업무를 SaaS 기반 솔루션으로 운영하고... 2026-07-15",
-     "body": "",
-     "insight": "",
-     "action": "",
-     "tags": [],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "시프티 블로그",
-       "url": "https://shiftee.io/ko/blog/article/attendance-management-saas-stability-checklist",
-       "title": "근태관리 SaaS 도입 시 확인해야 할 안정성 기준과 체크리스트 최근 기업들은 근무일정 관리, 출퇴근기록 관리, 휴가 관리, 전자결재 등 다양한 인사 업무를 SaaS 기반 솔루션으로 운영하고... 2026-07-15",
-       "date": "2026-11-24"
-      }
-     ],
-     "date": "2026-11-24"
-    },
-    {
-     "id": "20261124-f03",
-     "cat": "labor",
-     "importance": "low",
-     "teams": [
-      "노무·ER",
-      "보상·복리후생"
-     ],
-     "company": "시프티 블로그",
-     "title": "급여정산 오류를 줄이는 근태 데이터 관리와 임금명세서 발송 자동화 전략 매월 급여정산 시즌이 다가오면 인사·급여 담당자는 반복되는 확인 작업과 데이터 검증에 많은 시간을 할애하게 됩니다. 근로시간 ... 2026-0",
-     "body": "",
-     "insight": "",
-     "action": "",
-     "tags": [],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "시프티 블로그",
-       "url": "https://shiftee.io/ko/blog/article/payroll-automation-and-attendance-data-management",
-       "title": "급여정산 오류를 줄이는 근태 데이터 관리와 임금명세서 발송 자동화 전략 매월 급여정산 시즌이 다가오면 인사·급여 담당자는 반복되는 확인 작업과 데이터 검증에 많은 시간을 할애하게 됩니다. 근로시간 ... 2026-0",
-       "date": "2026-11-24"
-      }
-     ],
-     "date": "2026-11-24"
-    },
-    {
-     "id": "20261124-f04",
-     "cat": "labor",
-     "importance": "low",
-     "teams": [
-      "노무·ER",
-      "보상·복리후생"
-     ],
-     "company": "시프티 블로그",
-     "title": "타각기록이란? 출퇴근기록의 7가지 방식과 관리 기준 알아보기 출퇴근기록은 근로시간과 연장·야간·휴일근로시간을 확인하는 기초 자료입니다. 기록 방식은 수기 출근부부터 모바일 앱까지 다양하고... 2026-11-18",
-     "body": "",
-     "insight": "",
-     "action": "",
-     "tags": [],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "시프티 블로그",
-       "url": "https://shiftee.io/ko/blog/article/time-clock-and-attendance-recording-methods",
-       "title": "타각기록이란? 출퇴근기록의 7가지 방식과 관리 기준 알아보기 출퇴근기록은 근로시간과 연장·야간·휴일근로시간을 확인하는 기초 자료입니다. 기록 방식은 수기 출근부부터 모바일 앱까지 다양하고... 2026-11-18",
-       "date": "2026-11-24"
-      }
-     ],
-     "date": "2026-11-24"
-    },
-    {
-     "id": "20261124-f05",
-     "cat": "labor",
-     "importance": "low",
-     "teams": [
-      "노무·ER",
-      "보상·복리후생"
-     ],
-     "company": "시프티 블로그",
-     "title": "클라우드 SaaS란? 주요 장점과 기업 도입 기준 업무 시스템을 새로 도입하거나 교체할 때는 소프트웨어를 직접 설치해 운영할지, 클라우드 SaaS로 이용할지를 먼저 정하게 됩니... 2026-11-16",
-     "body": "",
-     "insight": "",
-     "action": "",
-     "tags": [],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "시프티 블로그",
-       "url": "https://shiftee.io/ko/blog/article/cloud-saas-benefits-and-implementation",
-       "title": "클라우드 SaaS란? 주요 장점과 기업 도입 기준 업무 시스템을 새로 도입하거나 교체할 때는 소프트웨어를 직접 설치해 운영할지, 클라우드 SaaS로 이용할지를 먼저 정하게 됩니... 2026-11-16",
-       "date": "2026-11-24"
-      }
-     ],
-     "date": "2026-11-24"
-    },
-    {
-     "id": "20261124-f06",
-     "cat": "labor",
-     "importance": "low",
-     "teams": [
-      "노무·ER",
-      "보상·복리후생"
-     ],
-     "company": "시프티 블로그",
-     "title": "2027년 반차 의무화: 근태관리 프로그램 활용과 연차휴가 관리 기준 반차는 근로자가 연차휴가를 반일 단위로 나누어 사용할 수 있도록 사업장별로 운영해 온 제도입니다. 그러나 2027년 6월 10... 2026-11",
-     "body": "",
-     "insight": "",
-     "action": "",
-     "tags": [],
      "our_group": false,
      "sources": [
       {
@@ -243,391 +281,90 @@
        "date": "2026-11-24"
       }
      ],
-     "date": "2026-11-24"
+     "date": "2026-11-24",
+     "id": "20261124-00"
     },
     {
-     "id": "20261124-f07",
-     "cat": "labor",
-     "importance": "low",
+     "cat": "trend",
+     "importance": "mid",
+     "company": "업계 전반",
+     "title": "ERP-근태-급여 시스템 연동 및 데이터 관리 중요성 증대",
+     "body": "인사 정보와 근무 일정, 출퇴근 기록, 휴가, 급여 데이터를 통합 관리하는 ERP 연동의 중요성이 강조되고 있어요. 특히 PC-OFF제 도입 시 실제 근로시간과의 불일치 관리가 핵심이에요.",
+     "insight": "우리 그룹사도 계열사별로 상이한 근태 관리 방식을 통합하거나, 데이터 정합성을 높여 노무 리스크를 최소화해야 해요.",
+     "action": "현재 운영 중인 근태 관리 시스템과 급여 정산 프로세스 간의 데이터 연동 오류 가능성을 점검해 보세요.",
      "teams": [
-      "노무·ER",
+      "인사기획",
       "보상·복리후생"
      ],
-     "company": "시프티 블로그",
-     "title": "HR솔루션과 PC-OFF 연계, 근로시간 데이터 불일치 원인과 관리 기준 기업에서 PC-OFF 프로그램을 활용해 근무시간 외 PC 사용을 제한하더라도, 실제 근로시간을 관리하는 과정에서는 다양한 데이... 2026-",
-     "body": "",
-     "insight": "",
-     "action": "",
-     "tags": [],
+     "tags": [
+      "근태관리",
+      "ERP연동",
+      "PC-OFF"
+     ],
      "our_group": false,
      "sources": [
+      {
+       "name": "시프티 블로그",
+       "url": "https://shiftee.io/ko/blog/article/erp-integration-attendance-management-data-consistency",
+       "title": "ERP·근태관리 연동 가이드: 데이터 관리 기준과 주요 체크사항 기업의 인사 운영에서는 인사정보뿐 아니라 근무일정, 출퇴근기록, 휴가, 근로시간 등 다양한 근태 데이터를 함께 관리해야 합니다... 2026-08-26",
+       "date": "2026-11-24"
+      },
+      {
+       "name": "시프티 블로그",
+       "url": "https://shiftee.io/ko/blog/article/pc-off-attendance-payroll-integration",
+       "title": "PC-OFF 프로그램과 근태관리·급여 시스템 연동 방법 및 구축 가이드 사무직 근태관리에서 PC-OFF 프로그램은 계획된 근무일정을 기준으로 PC 사용을 관리하고, 출퇴근기록, 휴가, 연장·단축근무... 2026-0",
+       "date": "2026-11-24"
+      },
       {
        "name": "시프티 블로그",
        "url": "https://shiftee.io/ko/blog/article/work-time-data-consistency-guide",
        "title": "HR솔루션과 PC-OFF 연계, 근로시간 데이터 불일치 원인과 관리 기준 기업에서 PC-OFF 프로그램을 활용해 근무시간 외 PC 사용을 제한하더라도, 실제 근로시간을 관리하는 과정에서는 다양한 데이... 2026-",
        "date": "2026-11-24"
-      }
-     ],
-     "date": "2026-11-24"
-    },
-    {
-     "id": "20261124-f08",
-     "cat": "labor",
-     "importance": "low",
-     "teams": [
-      "노무·ER",
-      "보상·복리후생"
-     ],
-     "company": "시프티 블로그",
-     "title": "연차 당겨쓰기, 며칠까지 가능할까? 마이너스 연차 차감·정산 정리 연차유급휴가를 모두 사용했거나 아직 충분한 연차가 발생하지 않은 직원이 휴가를 신청하는 경우, 기업에서는 향후 발생할 연차를 ... 2026-11-0",
-     "body": "",
-     "insight": "",
-     "action": "",
-     "tags": [],
-     "our_group": false,
-     "sources": [
+      },
       {
        "name": "시프티 블로그",
-       "url": "https://shiftee.io/ko/blog/article/annual-leave-in-advance-deduction-settlement",
-       "title": "연차 당겨쓰기, 며칠까지 가능할까? 마이너스 연차 차감·정산 정리 연차유급휴가를 모두 사용했거나 아직 충분한 연차가 발생하지 않은 직원이 휴가를 신청하는 경우, 기업에서는 향후 발생할 연차를 ... 2026-11-0",
+       "url": "https://shiftee.io/ko/blog/article/electronic-approval-workflow-attendance-integration",
+       "title": "전자결재 시스템의 주요 기능과 근태관리 연동·활용 방법 기업의 전자결재 시스템은 휴가 신청이나 연장근무 승인과 같은 근태관리 업무뿐 아니라 비용 청구, 서류 발급 등 다양한 사내 업... 2026-10-28",
        "date": "2026-11-24"
-      }
-     ],
-     "date": "2026-11-24"
-    },
-    {
-     "id": "20261124-f09",
-     "cat": "labor",
-     "importance": "low",
-     "teams": [
-      "노무·ER",
-      "보상·복리후생"
-     ],
-     "company": "시프티 블로그",
-     "title": "2026년 10월 4주차 HR 소식 | 주 4.5일제·퇴직연금·산업안전보건법·청년 취업 시프티 주간 HR 소식 - 10월 4주차 2026년 10월 4주차에는 대구·경북 지역 주 4.5일제 지원사업에 참여한 기업들의.",
-     "body": "",
-     "insight": "",
-     "action": "",
-     "tags": [],
-     "our_group": false,
-     "sources": [
+      },
       {
        "name": "시프티 블로그",
-       "url": "https://shiftee.io/ko/blog/article/weekly-hr-news-2026-october-week-4",
-       "title": "2026년 10월 4주차 HR 소식 | 주 4.5일제·퇴직연금·산업안전보건법·청년 취업 시프티 주간 HR 소식 - 10월 4주차 2026년 10월 4주차에는 대구·경북 지역 주 4.5일제 지원사업에 참여한 기업들의.",
+       "url": "https://shiftee.io/ko/blog/article/attendance-management-software-adoption-checklist",
+       "title": "근태관리 프로그램 선택 가이드: 도입 전 확인할 주요 기능 근태관리는 직원의 출근과 퇴근 시각을 기록하는 것뿐 아니라 근무일정, 휴가, 연장·야간·휴일근로 등 근태정보를 함께 관리하는 ... 2026-10-15",
        "date": "2026-11-24"
       }
      ],
-     "date": "2026-11-24"
+     "date": "2026-11-24",
+     "id": "20261124-06"
     },
     {
-     "id": "20261124-f10",
-     "cat": "labor",
-     "importance": "low",
+     "cat": "market",
+     "importance": "mid",
+     "company": "SK텔레콤",
+     "title": "SKT, 50대 이상 희망퇴직 추진 및 위로금 상향",
+     "body": "SK텔레콤이 분기 5,500억 원의 영업이익에도 불구하고 인력 선순환을 위해 50대 이상 직원을 대상으로 희망퇴직을 추진해요. 최대 3억 원의 위로금을 제시하며 인건비 효율화에 나섰어요.",
+     "insight": "우량 기업조차 AI 시대에 대비해 인력 구조를 재편하고 있어요. 통신·플랫폼 경험이 풍부한 시니어 인력들이 시장에 나올 신호예요.",
+     "action": "시니어급 전문가가 필요한 포지션에 대해 SKT 출신 인력 풀을 확보해 보세요.",
      "teams": [
-      "노무·ER",
-      "보상·복리후생"
+      "채용"
      ],
-     "company": "시프티 블로그",
-     "title": "퇴직금 계산 방법과 평균임금 산정 기준·근속기간별 예시 퇴직금은 계속근로기간과 퇴직 전 평균임금을 기준으로 산정합니다. 법정 퇴직금은 1일 평균임금 × 30일 × (총 재직일수 ÷ ... 2026-10-29",
-     "body": "",
-     "insight": "",
-     "action": "",
-     "tags": [],
+     "tags": [
+      "SKT",
+      "희망퇴직",
+      "인력구조조정"
+     ],
      "our_group": false,
+     "talent": {
+      "level": "mid",
+      "signal": "50대 이상 희망퇴직 — 플랫폼·통신 전문가 유입 예상"
+     },
      "sources": [
       {
-       "name": "시프티 블로그",
-       "url": "https://shiftee.io/ko/blog/article/severance-pay-calculation-average-wage-guide",
-       "title": "퇴직금 계산 방법과 평균임금 산정 기준·근속기간별 예시 퇴직금은 계속근로기간과 퇴직 전 평균임금을 기준으로 산정합니다. 법정 퇴직금은 1일 평균임금 × 30일 × (총 재직일수 ÷ ... 2026-10-29",
+       "name": "뉴스스페이스",
+       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ydTVHM0VkRTFsYlZOZkl4aEkzQ2NCWmVQRzRxSVpXM0xaVXJUU1JNT0JEV2d6azRxSVpjVEpCLUd0VFFmQ2czSDFyZUd5RW1FVlRxZGM0bVlfeU1Hb0ZsMw?oc=5",
+       "title": "[이슈&논란] 분기 5500억 벌어도 “3억 줄테니 짐 싸세요”…우량기업 SKT 희망퇴직의 속사정",
        "date": "2026-11-24"
-      }
-     ],
-     "date": "2026-11-24"
-    },
-    {
-     "id": "20261124-f11",
-     "cat": "labor",
-     "importance": "low",
-     "teams": [
-      "노무·ER",
-      "보상·복리후생"
-     ],
-     "company": "시프티 블로그",
-     "title": "기업별 HR 솔루션 비교 및 선택 가이드: HR 프로그램 종류와 특징 알아보기 기업의 규모가 커지고 근무 형태가 다양해지면 인사관리 업무도 복잡해질 수 있습니다. 임직원 정보부터 출퇴근기록, 근무일정, 휴... 20",
-     "body": "",
-     "insight": "",
-     "action": "",
-     "tags": [],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "시프티 블로그",
-       "url": "https://shiftee.io/ko/blog/article/hr-program-types-and-selection-criteria",
-       "title": "기업별 HR 솔루션 비교 및 선택 가이드: HR 프로그램 종류와 특징 알아보기 기업의 규모가 커지고 근무 형태가 다양해지면 인사관리 업무도 복잡해질 수 있습니다. 임직원 정보부터 출퇴근기록, 근무일정, 휴... 20",
-       "date": "2026-11-24"
-      }
-     ],
-     "date": "2026-11-24"
-    },
-    {
-     "id": "20261124-f12",
-     "cat": "labor",
-     "importance": "low",
-     "teams": [
-      "노무·ER",
-      "보상·복리후생"
-     ],
-     "company": "고용노동부 보도자료",
-     "title": "작은 사업장 건강지킴이 「근로자건강센터」, 김포·포항에 새로 문 연다.",
-     "body": "",
-     "insight": "",
-     "action": "",
-     "tags": [],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "고용노동부 보도자료",
-       "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=20293",
-       "title": "작은 사업장 건강지킴이 「근로자건강센터」, 김포·포항에 새로 문 연다.",
-       "date": "2026-11-24"
-      }
-     ],
-     "date": "2026-11-24"
-    },
-    {
-     "id": "20261124-f13",
-     "cat": "labor",
-     "importance": "low",
-     "teams": [
-      "노무·ER",
-      "보상·복리후생"
-     ],
-     "company": "고용노동부 보도자료",
-     "title": "고용노동부, 한국경영자총협회와 공동으로 안전보건 현황 공시가이드(안) 설명회 개최",
-     "body": "",
-     "insight": "",
-     "action": "",
-     "tags": [],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "고용노동부 보도자료",
-       "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=20291",
-       "title": "고용노동부, 한국경영자총협회와 공동으로 안전보건 현황 공시가이드(안) 설명회 개최",
-       "date": "2026-11-24"
-      }
-     ],
-     "date": "2026-11-24"
-    },
-    {
-     "id": "20261124-f14",
-     "cat": "labor",
-     "importance": "low",
-     "teams": [
-      "노무·ER",
-      "보상·복리후생"
-     ],
-     "company": "고용노동부 보도자료",
-     "title": "직장어린이집 아이들이 모은 따뜻한 마음, 이웃에게 전해지다",
-     "body": "",
-     "insight": "",
-     "action": "",
-     "tags": [],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "고용노동부 보도자료",
-       "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=20290",
-       "title": "직장어린이집 아이들이 모은 따뜻한 마음, 이웃에게 전해지다",
-       "date": "2026-11-24"
-      }
-     ],
-     "date": "2026-11-24"
-    },
-    {
-     "id": "20261124-f15",
-     "cat": "market",
-     "importance": "low",
-     "teams": [
-      "채용"
-     ],
-     "company": "헤드라인제주",
-     "title": "제주도, 시설관리공단 경력직 3명 공개채용…환경·기계 분야",
-     "body": "제주도, 시설관리공단 경력직 3명 공개채용…환경·기계 분야 헤드라인제주",
-     "insight": "",
-     "action": "",
-     "tags": [],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "헤드라인제주",
-       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1LZmFmcDZidjg4cE5vUDE1b3kwSlFqS2lFNWQteUpNVXlIbGpYcXZlX1Z2bU8zQXVjVWVyQ2V4ZGNPMm5hbGVOYUJZQnRnbFV5UFRCdEJvdmkzV3VaQ1pVVUI5ODJlNWVVeVVLRGNkRkE2cTQ?oc=5",
-       "title": "제주도, 시설관리공단 경력직 3명 공개채용…환경·기계 분야",
-       "date": "2026-11-23"
-      }
-     ],
-     "date": "2026-11-23"
-    },
-    {
-     "id": "20261124-f16",
-     "cat": "market",
-     "importance": "low",
-     "teams": [
-      "채용"
-     ],
-     "company": "BBS불교방송",
-     "title": "제주시설관리공단, 환경·기계 분야 경력직 3명 채용",
-     "body": "제주시설관리공단, 환경·기계 분야 경력직 3명 채용 BBS불교방송",
-     "insight": "",
-     "action": "",
-     "tags": [],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "BBS불교방송",
-       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1OVXlEZURuZ2wzU1Q5bkEzWFZ0c0w4UVEzMFlKNjU3Tmdjc09KMGpVLXZpc2VSSkNLZHpSdkpGYmw0YU93ZmNSX2tfUWt3SmJ2ZndDRUV1b0thT0hhX2RqYzJPVjdhSklVcGd3?oc=5",
-       "title": "제주시설관리공단, 환경·기계 분야 경력직 3명 채용",
-       "date": "2026-11-23"
-      }
-     ],
-     "date": "2026-11-23"
-    },
-    {
-     "id": "20261124-f17",
-     "cat": "market",
-     "importance": "low",
-     "teams": [
-      "채용"
-     ],
-     "company": "제주의소리",
-     "title": "‘고급 인력 찾기 힘드네’ 시설공단, 경력직 재공고",
-     "body": "‘고급 인력 찾기 힘드네’ 시설공단, 경력직 재공고 제주의소리",
-     "insight": "",
-     "action": "",
-     "tags": [],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "제주의소리",
-       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8zdDVIT0RZMV9rWFgxcVBiUmxtRmY4NF9QbnNPY2loQlBlTVZkdzBZNXhuRi0yR3AxM1IzaDFYTlBNQ0U1c2ZtbEZ1TEhfVTNHNGlwWjhGNHpVSWVpM0tZMks4NVUxZnNQZjBZ?oc=5",
-       "title": "‘고급 인력 찾기 힘드네’ 시설공단, 경력직 재공고",
-       "date": "2026-11-23"
-      }
-     ],
-     "date": "2026-11-23"
-    },
-    {
-     "id": "20261124-f18",
-     "cat": "market",
-     "importance": "low",
-     "teams": [
-      "채용"
-     ],
-     "company": "뉴시스",
-     "title": "美마이크론, '삼전·닉스 안방' 韓서 채용 행사 돌입…메모리 3사 '인재 쟁탈전' 격화",
-     "body": "美마이크론, '삼전·닉스 안방' 韓서 채용 행사 돌입…메모리 3사 '인재 쟁탈전' 격화 뉴시스",
-     "insight": "",
-     "action": "",
-     "tags": [],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "뉴시스",
-       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE53UnNTSHdyLTd4cmtfY0ZSXzVYQzF2WTFicTR3VGZGMnRVcy0tWWU1MzdaRXM1TG90Z05WWERESUdxMDVqVEFveS1XTnk1a04tZlp6TzF1UVQ3bk1mYnpvWNIBeEFVX3lxTE1hYnh2Smw2Z0hKdUY5eEpjY2gxUzFuY1gtQXIwekJqXzVyRkd2WHpvcTkxaVpuUFlJaWRhZUhUX0hIYUQyT3lKMGc5UVNOdm9XdTF3U3NxQVRDaVktSS1HTGt3LTQyY2pESWo2SDVpNW4xUDJYSWZ1ZQ?oc=5",
-       "title": "美마이크론, '삼전·닉스 안방' 韓서 채용 행사 돌입…메모리 3사 '인재 쟁탈전' 격화",
-       "date": "2026-11-23"
-      }
-     ],
-     "date": "2026-11-23"
-    },
-    {
-     "id": "20261124-f19",
-     "cat": "market",
-     "importance": "low",
-     "teams": [
-      "채용"
-     ],
-     "company": "이코노미사이언스",
-     "title": "다이닝브랜즈그룹, 3년 연속 신입 공채…채용문화 우수기업 인정",
-     "body": "다이닝브랜즈그룹, 3년 연속 신입 공채…채용문화 우수기업 인정 이코노미사이언스",
-     "insight": "",
-     "action": "",
-     "tags": [],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "이코노미사이언스",
-       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1CMHhIZDFucFlUWWs0REwtcVJYcGJTVm9hT2Z0V0FSS0ZuV2VUcWlhN2o4MWVuQk5GV0Q3WnMzQUotOFhoUm02X2k4bjhWUk9SQW5EdzlTUVBiUEpZaC1zb2xSd2RES1liUElsVVV3QQ?oc=5",
-       "title": "다이닝브랜즈그룹, 3년 연속 신입 공채…채용문화 우수기업 인정",
-       "date": "2026-11-23"
-      }
-     ],
-     "date": "2026-11-23"
-    },
-    {
-     "id": "20261124-f20",
-     "cat": "market",
-     "importance": "low",
-     "teams": [
-      "채용"
-     ],
-     "company": "잡포스트",
-     "title": "제약 연구·사업 현장 인재 확보…동아에스티, 하반기 수시채용",
-     "body": "제약 연구·사업 현장 인재 확보…동아에스티, 하반기 수시채용 잡포스트",
-     "insight": "",
-     "action": "",
-     "tags": [],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "잡포스트",
-       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB6dktkd1pZODJpdmJOSzF2NlBQNEw3dUV1bzV3clF0UEo0dC1HV3lTMGhEUUFxV3pVaXB0RFRKTkx2TmF2aDlPR1FCQmc2dUlvbm8zUklLTWlGTngzcEpWRkFGdDZoYllLdUlWMExUMGVtZ9IBckFVX3lxTFB6dktkd1pZODJpdmJOSzF2NlBQNEw3dUV1bzV3clF0UEo0dC1HV3lTMGhEUUFxV3pVaXB0RFRKTkx2TmF2aDlPR1FCQmc2dUlvbm8zUklLTWlGTngzcEpWRkFGdDZoYllLdUlWMExUMGVtZw?oc=5",
-       "title": "제약 연구·사업 현장 인재 확보…동아에스티, 하반기 수시채용",
-       "date": "2026-11-23"
-      }
-     ],
-     "date": "2026-11-23"
-    },
-    {
-     "id": "20261124-f21",
-     "cat": "market",
-     "importance": "low",
-     "teams": [
-      "채용"
-     ],
-     "company": "한국사회복지저널",
-     "title": "제주시설관리공단, 수질·기계 경력직 3명 다시 뽑는다",
-     "body": "제주시설관리공단, 수질·기계 경력직 3명 다시 뽑는다 한국사회복지저널",
-     "insight": "",
-     "action": "",
-     "tags": [],
-     "our_group": false,
-     "sources": [
-      {
-       "name": "한국사회복지저널",
-       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9SVWZieVpuU2hKOGR0TUdnZUx3VlRwc003d1V4d3ZiRXowUWV4cmdaTDFqUXhIbGFhZkQzSklVa0RmZUVjZWxEVUZJWHRtSUZaM0JHcUxTTExXbVB1UUtFRm96engzc0djLWYyVA?oc=5",
-       "title": "제주시설관리공단, 수질·기계 경력직 3명 다시 뽑는다",
-       "date": "2026-11-23"
-      }
-     ],
-     "date": "2026-11-23"
-    },
-    {
-     "id": "20261124-f22",
-     "cat": "market",
-     "importance": "low",
-     "teams": [
-      "채용"
-     ],
-     "company": "Chosunbiz",
-     "title": "SK텔레콤, 50대 이상 희망퇴직 추진",
-     "body": "SK텔레콤, 50대 이상 희망퇴직 추진 Chosunbiz",
-     "insight": "",
-     "action": "",
-     "tags": [],
-     "our_group": false,
-     "sources": [
+      },
       {
        "name": "Chosunbiz",
        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRGR4NHdrMFRsbWpUdUJnRFZBcTkzLUdnUTFwZUQtUU1uaGo4VVZqbHVXaWt0LV9qTlJFdUZ6Si02eGJCTzhhR0VnM2hsMC1ZOVhjTDVPNzBWQ0RNSU9lV2tRTThueFh0U1VOVHFMWlRCMW5IbG5VRzVick9rZXFMRkhR0gGWAUFVX3lxTE9SR2MzWHY3cnRGWGprS0pmSXFLc3VYZFFiVlJQdzF4RnFtcTdOdzF4Ny1QalV0VTdyLXg2TUc1UW9TanJEbVZRYzMtZTFFR1VudmxwRC0wQWJTM0NSYzgxRzFMaGVoWFczbjZoc3hHdXdEN1FrX2JWbHNETmJTU3RvZmNINTFScl8xWmZXQTVkdEZQdDQ4UQ?oc=5",
@@ -635,55 +372,122 @@
        "date": "2026-11-23"
       }
      ],
-     "date": "2026-11-23"
+     "date": "2026-11-24",
+     "id": "20261124-05"
     },
     {
-     "id": "20261124-f23",
-     "cat": "market",
-     "importance": "low",
+     "cat": "trend",
+     "importance": "mid",
+     "company": "업계 전반",
+     "title": "2027 채용 트렌드 '피드업(Feed-up)' 부상",
+     "body": "과거의 실수를 지적하는 피드백(Feedback) 대신, 미래의 성과와 성장을 위해 필요한 것을 제안하는 '피드업(Feed-up)'이 채용 및 성과 관리의 핵심 키워드로 떠오르고 있어요.",
+     "insight": "MZ세대 지원자들은 본인의 성장 가능성을 중시하므로, 채용 과정에서부터 회사가 지원자에게 줄 수 있는 가치를 명확히 전달하는 것이 중요해요.",
+     "action": "면접관 교육 시 피드백 위주의 질문보다 지원자의 미래 역량을 끌어낼 수 있는 피드업 질문 기법을 도입해 보세요.",
      "teams": [
-      "채용"
+      "채용",
+      "조직문화·HRD"
      ],
-     "company": "매일일보",
-     "title": "SKT, 50대 이상 희망퇴직 시행…인력구조 재정비",
-     "body": "SKT, 50대 이상 희망퇴직 시행…인력구조 재정비 매일일보",
-     "insight": "",
-     "action": "",
-     "tags": [],
+     "tags": [
+      "피드업",
+      "채용트렌드",
+      "성과관리"
+     ],
      "our_group": false,
      "sources": [
       {
-       "name": "매일일보",
-       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4tY0hGRlBfcW5rUFNqU0ZOQjZvLUJiUjBhUVc1MWtxZEhGODlpWUJ5cmF1dGhsLUs3akxFcDhnQ3QtTGFrYXkwQUt1bW8tb09yRzRLdnFNWEFxZ18zNGVud3ZRdE4?oc=5",
-       "title": "SKT, 50대 이상 희망퇴직 시행…인력구조 재정비",
+       "name": "오프피스트",
+       "url": "https://www.offpiste.ai/articles/피드백-말고-피드업-2027-채용-트렌드-피드업-뜻과-활용법-2764",
+       "title": "피드백 말고 피드업 2027 채용 트렌드 피드업 뜻과 활용법",
        "date": "2026-11-23"
       }
      ],
-     "date": "2026-11-23"
+     "date": "2026-11-23",
+     "id": "20261124-04"
     },
     {
-     "id": "20261124-f24",
-     "cat": "market",
-     "importance": "low",
+     "cat": "labor",
+     "importance": "mid",
+     "company": "업계 전반",
+     "title": "장애인 고용 계약 종료 시 분쟁 예방 가이드",
+     "body": "장애인 근로자의 근태 이슈로 인한 계약 종료 시, 장애 특성을 고려한 충분한 소명 기회 부여와 절차적 정당성 확보가 분쟁 예방의 핵심이라는 인사이트가 공유되었어요.",
+     "insight": "장애인 의무 고용 이행 과정에서 발생할 수 있는 노무 리스크를 관리해야 해요. 단순 근태 불량으로 치부하기보다 적절한 직무 배치와 관리가 선행되어야 해요.",
+     "action": "장애인 근로자 관리 매뉴얼을 점검하고, 계약 종료 절차 시 노무팀의 가이드를 준수하도록 교육하세요.",
      "teams": [
-      "채용"
+      "노무·ER"
      ],
-     "company": "스트레이트뉴스",
-     "title": "정년 65세 외치는 정치권, 40대 희망퇴직 받는 대기업…엇갈린 고용 현실",
-     "body": "정년 65세 외치는 정치권, 40대 희망퇴직 받는 대기업…엇갈린 고용 현실 스트레이트뉴스",
-     "insight": "",
-     "action": "",
-     "tags": [],
+     "tags": [
+      "장애인고용",
+      "계약종료",
+      "노무분쟁"
+     ],
      "our_group": false,
      "sources": [
       {
-       "name": "스트레이트뉴스",
-       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5yZ05FSEhUTkFxNFVmeGZwdmV3MUJ1aDhaSjNnTk1MY3FHUVFEaXdSdU1yak8yYVd3c0k0UWNVQXdoWU9hZlVhNVdlbmV1TExjV3QzYmpvQnNGYXpRSDhlTTZtcTNVc181RmhERnhGeFBkUTTSAXdBVV95cUxNZUdPXzc3U0N0Vlo4QllTUHBpamV1UWlDU0hrLUtGRV9kVVBUV1ROekpYc3BCUHNsYm55UnhTV3N2QkU4TXlPRDR6bnpJUVNqd2FvNlpqZkZzTVhwODVJLTBmTmQ4U1pxTFBrVllQYnZMODVXaFg5bw?oc=5",
-       "title": "정년 65세 외치는 정치권, 40대 희망퇴직 받는 대기업…엇갈린 고용 현실",
-       "date": "2026-11-23"
+       "name": "기고만장",
+       "url": "https://ggmj.kr/vdream/?idx=175903189&bmode=view",
+       "title": "[브이드림] 장애인 고용 인사이트 ㅣ 근태 이슈가 생긴 계약, 분쟁 없이 정상 종료까지 --> --> --> [브이드림] 장애인 고용 인사이트 ㅣ 근태 이슈가 생긴 계약, 분쟁 없이 정상 종료까지 N",
+       "date": "2026-11-24"
       }
      ],
-     "date": "2026-11-23"
+     "date": "2026-11-24",
+     "id": "20261124-07"
+    },
+    {
+     "cat": "trend",
+     "importance": "low",
+     "company": "브레인커머스",
+     "title": "잡플래닛 운영사, HR테크 기업 '펄슨' 인수",
+     "body": "잡플래닛을 운영하는 브레인커머스가 HR테크 스타트업 '펄슨'을 100% 인수했어요. 채용부터 성과 관리까지 HR 밸류체인을 확장하려는 전략으로 풀이돼요.",
+     "insight": "HR 솔루션 시장의 통합이 가속화되고 있어요. 채용 브랜딩과 성과 관리가 결합된 데이터 기반 HR 서비스 도입을 검토해 볼 만해요.",
+     "action": "잡플래닛 등 외부 플랫폼의 변화된 기능을 우리 채용 브랜딩에 어떻게 활용할지 검토해 보세요.",
+     "teams": [
+      "채용",
+      "인사기획"
+     ],
+     "tags": [
+      "HR테크",
+      "M&A",
+      "채용솔루션"
+     ],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "와우테일",
+       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA1QjYtcTdIVEdWRkNpYlJFaDMtX1BQSHFIT25mcXo4Uml0VmduUHFQNkpCUlh4MmhyNUJnYTZWYWxUWHE5YmtkbTRudnlER0k?oc=5",
+       "title": "브레인커머스, HR테크 ‘펄슨’ 지분 100% 인수",
+       "date": "2026-11-24"
+      }
+     ],
+     "date": "2026-11-24",
+     "id": "20261124-08"
+    },
+    {
+     "cat": "ecom",
+     "importance": "low",
+     "company": "번개장터",
+     "title": "번개장터, 88년생 공유현 대표 선임",
+     "body": "중고거래 플랫폼 번개장터가 88년생 공유현 대표를 발탁하며 젊은 리더십을 전면에 내세웠어요. 서비스와 사업 전반을 총괄하며 조직 쇄신에 나설 예정이에요.",
+     "insight": "이커머스 업계의 리더십 세대교체가 가속화되고 있어요. 젊은 조직 문화를 선호하는 인재들에게 매력적인 EVP로 작용할 수 있어요.",
+     "action": "우리 그룹사의 리더십 파이프라인과 젊은 인재 육성 체계를 점검해 보는 계기로 삼으세요.",
+     "teams": [
+      "인사기획"
+     ],
+     "tags": [
+      "번개장터",
+      "세대교체",
+      "리더십"
+     ],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "뉴스핌",
+       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBvNTVMMmdJOHZEcndUc3dQeENJVWM0ZXAwMjdiRU95amc2WnFvUVZQYnNJRVdLZ2x0MU80Mmd4QzRuZkFHM3Rkc2sxX3hpWGJRZ2c3NnYzdFZjZFJk?oc=5",
+       "title": "번개장터, '88년생' 공유현 대표 발탁…서비스·사업 총괄",
+       "date": "2026-11-24"
+      }
+     ],
+     "date": "2026-11-24",
+     "id": "20261124-09"
     }
    ]
   },
