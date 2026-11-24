@@ -1,0 +1,398 @@
+{
+  "date": "2026-11-25",
+  "article_count": 147,
+  "engine": "없음",
+  "headline": "오늘은 AI 분석이 실패해 기사 제목만 모았어요",
+  "summary": [],
+  "numbers": [],
+  "layoffs": [],
+  "hiring": [],
+  "roles": {
+    "up": [],
+    "down": []
+  },
+  "korea": [],
+  "analysis_error": "AI 분석 실패 — 모델 'gemini-3.8-flash'이 계속 혼잡해요 (HTTP 503) / 모델 'gemini-3.7-flash'이 계속 혼잡해요 (HTTP 429) / 모델 'gemini-3-flash-preview'이 계속 혼잡해요 (HTTP 503) / 모델 'gemini-flash-latest'이 계속 혼잡해요 (HTTP 503) / 모델 'gemini-flash-lite-latest'이 계속 혼잡해요 (HTTP 503) / 예비 AI 키(ANTHROPIC_API_KEY)가 없어 Claude는 건너뛰었어요",
+  "items": [
+    {
+      "id": "t20261125-f00",
+      "region": "global",
+      "importance": "low",
+      "company": "Virginia Business",
+      "title": "HII loses Navy contract, plans 58 Virginia Beach layoffs",
+      "body": "HII loses Navy contract, plans 58 Virginia Beach layoffs Virginia Business",
+      "insight": "",
+      "tags": [],
+      "date": "2026-11-25",
+      "sources": [
+        {
+          "name": "Virginia Business",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1fejVYYlFQUTh5eFEzWGFHTzNueU9IVzlHZzZyUUJLWlRMZW81M2IxVm1oeHpHZndUNmZHU25VV1Q3YjhsODItOWlCeUFwNE9tOWxid0FDTVVqY0E0bzBUaEpKUmh3TGtJMzdIeEZUU2hLSlRCSW02MXJwc2ZZdw?oc=5",
+          "title": "HII loses Navy contract, plans 58 Virginia Beach layoffs",
+          "date": "2026-11-25"
+        }
+      ]
+    },
+    {
+      "id": "t20261125-f01",
+      "region": "global",
+      "importance": "low",
+      "company": "Yahoo Tech",
+      "title": "Tech layoffs 2026: Tracking the job losses across Disney, Intel, Amazon, Microsoft, Apple, Meta and others",
+      "body": "Tech layoffs 2026: Tracking the job losses across Disney, Intel, Amazon, Microsoft, Apple, Meta and others Yahoo Tech",
+      "insight": "",
+      "tags": [],
+      "date": "2026-11-24",
+      "sources": [
+        {
+          "name": "Yahoo Tech",
+          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQQ2s5eC1xX1E2SzVoNVdURXVzSkRDXzVRZG9oWkdLS3JURXlxZllWQS1DNGFIckEtMTlRQXBEV2h6UC1oZTVEV2dlSUl0MkZSTWRrdTlrZ2JKeHA3eDl0NmIwZldNVXRsVm1uZUlnVTlScXdxM2NuVHhfY3pBczloMzhicTAyNi1HSUttVVRKV0JzVlM1b3Ziem05ejYtbGE2aWhQdEpWN085Tkp3QnBhQzgyTTZGeXl0RlljMkhUU1FudGFmM3JYZzcwek40ZC1fbkliVmlRbjBtVEo2Rzh3RUlGU2EwanVpZnV0T2NNYkY2MGlsMWhjVlZIOGo?oc=5",
+          "title": "Tech layoffs 2026: Tracking the job losses across Disney, Intel, Amazon, Microsoft, Apple, Meta and others",
+          "date": "2026-11-24"
+        }
+      ]
+    },
+    {
+      "id": "t20261125-f02",
+      "region": "global",
+      "importance": "low",
+      "company": "Digiday",
+      "title": "Ad Tech Briefing: Meta eyes CTV as AppLovin circles Criteo, signs of the squeeze on independent ad tech",
+      "body": "Ad Tech Briefing: Meta eyes CTV as AppLovin circles Criteo, signs of the squeeze on independent ad tech Digiday",
+      "insight": "",
+      "tags": [],
+      "date": "2026-11-24",
+      "sources": [
+        {
+          "name": "Digiday",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVnF1d2VTcE1hYzNIQmQ3ODZMb1ZuYWFrV3pVVUhfZVNVaU12OXY4YmZ6S1pxbjZVTG9BR2pPWk9uUmxpUXNucmxJZWFROEZTYlVVbUU5aWhjRUZZTzU3OTZyMkJhVmFyOEJ2MEo2VXl1V3BmaG9TalZ4VjFaaHVFbVZpQlNFQlNPZTE2LUtMMXpsZ0kzb3FmUGFNY2IzcFQyTlhKdDRnVlNFWFVNRGlsbWNyWmxvWnBMQ3JRdkttUzdLai1ueE91bzdWMHpjemxS?oc=5",
+          "title": "Ad Tech Briefing: Meta eyes CTV as AppLovin circles Criteo, signs of the squeeze on independent ad tech",
+          "date": "2026-11-24"
+        }
+      ]
+    },
+    {
+      "id": "t20261125-f03",
+      "region": "global",
+      "importance": "low",
+      "company": "Counterpunch",
+      "title": "Big Tech Wanted to Make the World a Better Place. So What Happened?",
+      "body": "Big Tech Wanted to Make the World a Better Place. So What Happened? Counterpunch",
+      "insight": "",
+      "tags": [],
+      "date": "2026-11-24",
+      "sources": [
+        {
+          "name": "Counterpunch",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbDFQanZkeGZHbC1QYTVXZkZSRjJ6SjBJVWVsVU1YZlc3V0J1ZkhvTDM4cF90clpzcFFzdEJtdUVSalVFaW9BVzhwZm5QS2p1TlNSVXBidjRPY3FncFJjTnh2UkZfQ3pnOXcxRXJmYnpOcFRjR09jcDJtNDd2V0pPTFY2dWs2eWhVRUxjWXo1RmNpQ25yV1NuSk1vNFlMMThEaWdLdTdFM0FUUQ?oc=5",
+          "title": "Big Tech Wanted to Make the World a Better Place. So What Happened?",
+          "date": "2026-11-24"
+        }
+      ]
+    },
+    {
+      "id": "t20261125-f04",
+      "region": "global",
+      "importance": "low",
+      "company": "Metaintro",
+      "title": "Gopuff Cuts an Undisclosed Number of Jobs in Company-Wide Layoffs",
+      "body": "Gopuff Cuts an Undisclosed Number of Jobs in Company-Wide Layoffs Metaintro",
+      "insight": "",
+      "tags": [],
+      "date": "2026-11-24",
+      "sources": [
+        {
+          "name": "Metaintro",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5zQ3JOblFRdnduX19DQWxiQXJ2QmQtMlZVTkQ0R1JLbnFTSS1pQ3pqT0dDWVVTRWw4RW5ZSjBMZVdXOEhINFlJQTBzSzhMSmxtanoyNG9lMFIwX3luVlJJ?oc=5",
+          "title": "Gopuff Cuts an Undisclosed Number of Jobs in Company-Wide Layoffs",
+          "date": "2026-11-24"
+        }
+      ]
+    },
+    {
+      "id": "t20261125-f05",
+      "region": "global",
+      "importance": "low",
+      "company": "Instagram",
+      "title": "Google has dismissed rumors of mass layoffs in its Cloud division in India and confirmed that approximately 30 employees had been laid off the previous week. The speculation reportedly began with an anonymous post on Blind alleging widespread job cuts a",
+      "body": "Google has dismissed rumors of mass layoffs in its Cloud division in India and confirmed that approximately 30 employees had been laid off the previous week. The speculation reportedly began with an a",
+      "insight": "",
+      "tags": [],
+      "date": "2026-11-24",
+      "sources": [
+        {
+          "name": "Instagram",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9WYXNZNk1zU3piX1FuUXM1UVl2MU1vZWd0VjBhT3ZOVFFvN3I4QnZFdXh3MGtPUm1ZbWQ4cDRLNEd4OGlGUUV0MGk4V1FBSVVsN1E?oc=5",
+          "title": "Google has dismissed rumors of mass layoffs in its Cloud division in India and confirmed that approximately 30 employees had been laid off the previous week. The speculation reportedly began with an anonymous post on Blind alleging widespread job cuts a",
+          "date": "2026-11-24"
+        }
+      ]
+    },
+    {
+      "id": "t20261125-f06",
+      "region": "global",
+      "importance": "low",
+      "company": "Techloy",
+      "title": "Gemini in Chrome Review: My 3 Hands-On Tests",
+      "body": "Gemini in Chrome Review: My 3 Hands-On Tests Techloy",
+      "insight": "",
+      "tags": [],
+      "date": "2026-11-25",
+      "sources": [
+        {
+          "name": "Techloy",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4tUWRMcnVDczVvR0xhMUktajRucW81UmsxVmdVSHNwM0ZPUUgwZkJzeXpxb3BMVkV5S3laa0tmajhHSHdQbk9TRE9PVGxYVHlZaW8zZW9TaGYzLU9Q?oc=5",
+          "title": "Gemini in Chrome Review: My 3 Hands-On Tests",
+          "date": "2026-11-25"
+        }
+      ]
+    },
+    {
+      "id": "t20261125-f07",
+      "region": "global",
+      "importance": "low",
+      "company": "Raconteur",
+      "title": "AI layoffs are a bet that could backfire",
+      "body": "AI layoffs are a bet that could backfire Raconteur",
+      "insight": "",
+      "tags": [],
+      "date": "2026-11-24",
+      "sources": [
+        {
+          "name": "Raconteur",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9lNTlEZXRKUGZFWmJqZ3BWVzdUSHRESl9ZWjdkUV8wSFVhWW9VaWNKRmdiT3Z6NFFhSmVDWTZRcG5Ed0xtNnRRTTFhTEUzTlY1ekpCZ0NfajJ6N2FlU1ZwUnY4Zll3Rkg3MVE?oc=5",
+          "title": "AI layoffs are a bet that could backfire",
+          "date": "2026-11-24"
+        }
+      ]
+    },
+    {
+      "id": "t20261125-f08",
+      "region": "global",
+      "importance": "low",
+      "company": "Crain's Chicago Business",
+      "title": "Allstate silent amid reports of 5,000 job cuts as AI push accelerates",
+      "body": "Allstate silent amid reports of 5,000 job cuts as AI push accelerates Crain's Chicago Business",
+      "insight": "",
+      "tags": [],
+      "date": "2026-11-24",
+      "sources": [
+        {
+          "name": "Crain's Chicago Business",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQYXA4X3pzOFZiZGRBRWRDRl84V040eUdDX0otVko3VHRycWx2WUFKX2NrcUdCQ204dl9Tc0dHYmJJV0JtMDJ2d3JkeFlkUlNFOXRqcXg1Mng1VDdUOTdWc0dlMHFrS0tOOHpQR09BYTZKNHJBM2xwdHNOMXBBbnotc0xB?oc=5",
+          "title": "Allstate silent amid reports of 5,000 job cuts as AI push accelerates",
+          "date": "2026-11-24"
+        }
+      ]
+    },
+    {
+      "id": "t20261125-f09",
+      "region": "global",
+      "importance": "low",
+      "company": "Instagram",
+      "title": "An ex-Microsoft employee who spent 24 years at the company said she received an invitation to a layoff meeting while delivering a 90-minute training session on how engineering teams could use AI tools to create their own documentation. In a LinkedIn post,",
+      "body": "An ex-Microsoft employee who spent 24 years at the company said she received an invitation to a layoff meeting while delivering a 90-minute training session on how engineering teams could use AI tools",
+      "insight": "",
+      "tags": [],
+      "date": "2026-11-24",
+      "sources": [
+        {
+          "name": "Instagram",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1xMHZoUWpkckY2WFJHVDEzUzM0Z1RWdVhjLWI5a25FOGtVQXZkT0dyNXAybVVyU2NwcERzZFZoLUtzQTVpcjdrS0g3eHhpSnhpWFE?oc=5",
+          "title": "An ex-Microsoft employee who spent 24 years at the company said she received an invitation to a layoff meeting while delivering a 90-minute training session on how engineering teams could use AI tools to create their own documentation. In a LinkedIn post,",
+          "date": "2026-11-24"
+        }
+      ]
+    },
+    {
+      "id": "t20261125-f10",
+      "region": "global",
+      "importance": "low",
+      "company": "Metaintro",
+      "title": "Mad Cave Confirms Staff Reductions and Changes to Publishing Plans",
+      "body": "Mad Cave Confirms Staff Reductions and Changes to Publishing Plans Metaintro",
+      "insight": "",
+      "tags": [],
+      "date": "2026-11-24",
+      "sources": [
+        {
+          "name": "Metaintro",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBldzd4QXdqQnVCaU8yVVp6X0lYYkowWDh1ekZ5Z2J6emJ1dmdsZ0Q5enpGaWxOWmNUNjNjZWF5RFVjWk9VWE9GQmR2YlZEMzNjQXY2RUF2OWMtZVZDYkxEOFZn?oc=5",
+          "title": "Mad Cave Confirms Staff Reductions and Changes to Publishing Plans",
+          "date": "2026-11-24"
+        }
+      ]
+    },
+    {
+      "id": "t20261125-f11",
+      "region": "global",
+      "importance": "low",
+      "company": "People Matters - HR News",
+      "title": "AI in HR: NAB apologises after automated emails reveal plans to cut 2,500 jobs",
+      "body": "AI in HR: NAB apologises after automated emails reveal plans to cut 2,500 jobs People Matters - HR News",
+      "insight": "",
+      "tags": [],
+      "date": "2026-11-24",
+      "sources": [
+        {
+          "name": "People Matters - HR News",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPUnRGZlA5aUNSMFZ4OXN5bGtXbU1kWjJROHJ5Z0xqSmIzV1F6ZEhZWW1RUkdrOEExanVjUklJUHhmTElBbkprVlVSVWNiUnNCNGpHMEt3d0FJRVpZMkhkbjhnYXY2TG5tR0Q4TzNMUnM5OUVQdUJiUUo4c1V2WjA5MDFSSlJRQm43VXItZkVWVlFHbXpFX2wtcURsN1kxZjdOLWczNHJSZXFNWnczS2ZpajRzX1FVRVN3TmVYc3RRSERaNTZPajcyS21DSER2Zw?oc=5",
+          "title": "AI in HR: NAB apologises after automated emails reveal plans to cut 2,500 jobs",
+          "date": "2026-11-24"
+        }
+      ]
+    },
+    {
+      "id": "t20261125-f12",
+      "region": "global",
+      "importance": "low",
+      "company": "Metaintro",
+      "title": "About 30 Google Cloud Jobs Cut in India as Company Shoots Down Mass Layoff Fears",
+      "body": "About 30 Google Cloud Jobs Cut in India as Company Shoots Down Mass Layoff Fears Metaintro",
+      "insight": "",
+      "tags": [],
+      "date": "2026-11-24",
+      "sources": [
+        {
+          "name": "Metaintro",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZjlzTlhVbHVpU3EtVHIxWnQwT1RrSTJwMGJQMTl1MTl6RURwSU0wMlg2NWVLLUZRN2J4T2lOb1dFdllWajBDS3dWZnFvMGd5aDJOY2JEY04zVVpwQUZmd05jUENLTGRmRkstMnRZMnNZNW9fOVJjT0RUSGRpUUoxbUJ3ZVRCQXdBOFoyWDVSUQ?oc=5",
+          "title": "About 30 Google Cloud Jobs Cut in India as Company Shoots Down Mass Layoff Fears",
+          "date": "2026-11-24"
+        }
+      ]
+    },
+    {
+      "id": "t20261125-f13",
+      "region": "global",
+      "importance": "low",
+      "company": "Mashable",
+      "title": "Microsoft CEO explains reason behind the 60,000 buyouts (it's AI, of course)",
+      "body": "Microsoft CEO explains reason behind the 60,000 buyouts (it's AI, of course) Mashable",
+      "insight": "",
+      "tags": [],
+      "date": "2026-11-24",
+      "sources": [
+        {
+          "name": "Mashable",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE55bm5OOEMxNTNvbGlLeWsxZ2o5d0IyUHI4N210ZElSRnRkV211d2VUaXNOdmpyWURPZW0xNHZUcXNMc3dpWXFCdlRWTHVjWWw2WWlmY2llLXRvV0xLaFRtNnB1bWZaMWZMeTZ4czRR?oc=5",
+          "title": "Microsoft CEO explains reason behind the 60,000 buyouts (it's AI, of course)",
+          "date": "2026-11-24"
+        }
+      ]
+    },
+    {
+      "id": "t20261125-f14",
+      "region": "global",
+      "importance": "low",
+      "company": "Business Standard",
+      "title": "Google Cloud cuts 30 jobs in India, dismisses wider layoff speculation",
+      "body": "Google Cloud cuts 30 jobs in India, dismisses wider layoff speculation Business Standard",
+      "insight": "",
+      "tags": [],
+      "date": "2026-11-24",
+      "sources": [
+        {
+          "name": "Business Standard",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNd2ZZSksxeEtYRHFIOGVMZHZ2WXJtTC1WclF1ekxPLWQ2QWVzQmhJYWpFc0RSdjhYRm4teTg0WmYtMFZrem1PU2JpWXlJbjQxaV9tTF9PTnF1MXhBZmo4VmdUeWI1MGtZYWg1ajlweG03TUowSDVwQVJlRGxnUlpRZU43U184WDFUY0tDOFhSNDEzSEh5ejhmVXBXREp4ZzV3LTVCbEVicWdHSXUtaVlJYXprZEF6RFk0WWR3SVNXN01WcGZxZ29TOXFRMHhOelllb0VHWnUyVXVrNVFp0gHiAUFVX3lxTE8wWlhfRzlfYS1QQ2xUdnMwNWt6QW5KMWlfR19GNmlieDRndk1BTzBmV1VKdnJYcE5nOWpqcExfZ01iTVlCaExwZkRhZUJEVGZmZTAxMkNmcVg3U3RCUEx1RjNTU0F1UkxfV1Y1ZVV2c1BQVmZJMFhqUzJkYkNROWo5djBxNzRNTDBKTWUwcWNWeG5kS242YW41a2pKQkZvblZJLUN0OHhjX3hOY3kwWnktZmNEeTQ3b05ndWsxcERwWlVkSmtxY1RZcURVRE54ZVlueHNZbWhINFNkRUZ1RHctd0E?oc=5",
+          "title": "Google Cloud cuts 30 jobs in India, dismisses wider layoff speculation",
+          "date": "2026-11-24"
+        }
+      ]
+    },
+    {
+      "id": "t20261125-f15",
+      "region": "global",
+      "importance": "low",
+      "company": "The Hindu",
+      "title": "Google denies rumours of large-scale layoffs in India",
+      "body": "Google denies rumours of large-scale layoffs in India The Hindu",
+      "insight": "",
+      "tags": [],
+      "date": "2026-11-24",
+      "sources": [
+        {
+          "name": "The Hindu",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaklWbkstRkwwUVdueDFyX0YzNkNjRS1KYTZRcDc5TkFNYmlVMDJyVzZEa0NhVGxTRDNTdmpiT2I3Z3ZLWXRmeC1EVzJvODhxWmVmaXRBeDlmNERFVW9MZVlHTlBtcVMtTmZtUkt1cVF6RUU1SjR5UG5OMUVRRGU3LWxaUlIyT0FJckl5R0Fyd0wxUUZVbHJwd09OTkpZcnNZMGRTc2pGQVV3U2QxMnRoRkZfenl3dllad3fSAcABQVVfeXFMUDVURnRlNlBlYTN2ck9qVDFxM1ZrbjF2aERtQnQ1ZGVQamdUVGFxUE1RM05nV2UtU3FJYkhSdk9acy0zVWhCQmhsRFZVNVdfNlZ1OFZwVDJ5aS10UERPc3NUVE9hUDAtUkFzQmRGaTE0WTB2cmdjY2Rla3pYdEVqdi0tU1Z1cGF0NllhRGRtWTZpRjBPanhSOTR3cXZ3dXZNZk5QNVdoYXhsRlVndGE5UlE3QmhxNDFzVk9ubWdnUUZZ?oc=5",
+          "title": "Google denies rumours of large-scale layoffs in India",
+          "date": "2026-11-24"
+        }
+      ]
+    },
+    {
+      "id": "t20261125-f16",
+      "region": "global",
+      "importance": "low",
+      "company": "The South First",
+      "title": "Google says 30 Cloud jobs were cut in India, denies large-scale layoffs in Bengaluru",
+      "body": "Google says 30 Cloud jobs were cut in India, denies large-scale layoffs in Bengaluru The South First",
+      "insight": "",
+      "tags": [],
+      "date": "2026-11-24",
+      "sources": [
+        {
+          "name": "The South First",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRHYxeUVrMHJPLUM5UG9VRGhlTmZVTVlBWXI0Q2NfZG12NkJUZERXMmlDZFUwUWltdUJWM3FXdDFBc2dKNEFENVhNMHFQN2t1OVJoV3F0Y0FsQnhEdThQcG1oZEh0QVJUemRXV3FxSlgxWm9ENWI3X3Y4VTFzMloydm5GS1NLN0FUc2dhd0JITWFsTDBvS3pzRmRkUWQ2eXZOdUppY0F3Q0V6WTZDeF80Z2VCdEdHdWs4aG1BMmd5SmNTUQ?oc=5",
+          "title": "Google says 30 Cloud jobs were cut in India, denies large-scale layoffs in Bengaluru",
+          "date": "2026-11-24"
+        }
+      ]
+    },
+    {
+      "id": "t20261125-f17",
+      "region": "global",
+      "importance": "low",
+      "company": "Yahoo Finance",
+      "title": "Microsoft CEO Satya Nadella Offered 60,000 Employees Buyouts So Everyone 'Felt Like They Had Agency' — Yet Insists Software Engineering Is 'Very Much Alive'",
+      "body": "Microsoft CEO Satya Nadella Offered 60,000 Employees Buyouts So Everyone 'Felt Like They Had Agency' — Yet Insists Software Engineering Is 'Very Much Alive' Yahoo Finance",
+      "insight": "",
+      "tags": [],
+      "date": "2026-11-24",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPU0R3eHNQcHNSQ2xEQVllemJnRlhHWTFjanZDTVZpREU1cUF0azV2anhJU2VlazRoS3BDbWxhQk1pcDluQzZRVTBTNU83RE9fRHdWS1g4R3NZT3NJN1hrTVd5cjZLb3NCMjRQZzlDT1FHam9MUm9KREVEVlN6ZnZETmh6dDF4UktMY05NSHYwZ2hxNmZCaDRaV1diZ3hJQ2ZB?oc=5",
+          "title": "Microsoft CEO Satya Nadella Offered 60,000 Employees Buyouts So Everyone 'Felt Like They Had Agency' — Yet Insists Software Engineering Is 'Very Much Alive'",
+          "date": "2026-11-24"
+        }
+      ]
+    },
+    {
+      "id": "t20261125-f18",
+      "region": "global",
+      "importance": "low",
+      "company": "The Denver Post",
+      "title": "Veteran journalist Brian Maass out at CBS Channel 4 amid buyouts",
+      "body": "Veteran journalist Brian Maass out at CBS Channel 4 amid buyouts The Denver Post",
+      "insight": "",
+      "tags": [],
+      "date": "2026-11-24",
+      "sources": [
+        {
+          "name": "The Denver Post",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNajNnLTdPdTZjUDFrM0NEWEVmSzRGMVpDcVY1WGlzU3V4bHVkQkdIZnpxbkF6MWp6cnBFejlvdG80bnhNWnQ3MEJOQ180SnA0MGdSLTRFZzU2RXU4c1dneUxEb1JjSWpEYUZIYnNCZ3FNa3o5aWZIdWhqV3JQTFZiSzNzdXpYdw?oc=5",
+          "title": "Veteran journalist Brian Maass out at CBS Channel 4 amid buyouts",
+          "date": "2026-11-24"
+        }
+      ]
+    },
+    {
+      "id": "t20261125-f19",
+      "region": "global",
+      "importance": "low",
+      "company": "Revelio Labs",
+      "title": "Workforce analytics examples using labor market data",
+      "body": "Workforce analytics examples using labor market data Revelio Labs",
+      "insight": "",
+      "tags": [],
+      "date": "2026-11-25",
+      "sources": [
+        {
+          "name": "Revelio Labs",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQS0xOUo1QWdRX3lPRkYxYU1ZaFlMUTc2WURzWG1qWk03MXlxSUVPRUN1WXZ2RDdLcVE0UkVueXd6UktLZmVENzZBeGNsS3BqMV9fUEpJU21sTjVhTFhzeW5wMTRBZGdMZWxwT3VkSmhwaklDMnUyc1ByRXc0QWxEdU9BVldJdw?oc=5",
+          "title": "Workforce analytics examples using labor market data",
+          "date": "2026-11-25"
+        }
+      ]
+    }
+  ]
+}

@@ -56,9 +56,637 @@
     ]
    }
   ],
-  "updated": "2026-11-24T15:03+09:00"
+  "updated": "2026-11-25T03:02+09:00"
  },
  "reports": [
+  {
+   "date": "2026-11-25",
+   "window_days": 1,
+   "article_count": 306,
+   "engine": "없음(제목 기준)",
+   "headline": "오늘은 AI 분석이 실패해 제목 기준으로만 골랐어요",
+   "points": [
+    "수집 기사 306건 중 HR 관련 단어가 있는 25건만 올렸어요",
+    "시사점·팀 태그 없이 기사 제목만 보여드려요"
+   ],
+   "analysis_error": "AI 분석 실패 — 모델 'gemini-3.8-flash'이 계속 혼잡해요 (HTTP 503) / 모델 'gemini-3.7-flash'이 계속 혼잡해요 (HTTP 503) / 모델 'gemini-3-flash-preview'이 계속 혼잡해요 (HTTP 503) / 모델 'gemini-flash-latest'이 계속 혼잡해요 (HTTP 503) / 모델 'gemini-flash-lite-latest'이 계속 혼잡해요 (HTTP 503) / 예비 AI 키(ANTHROPIC_API_KEY)가 없어 Claude는 건너뛰었어요",
+   "items": [
+    {
+     "id": "20261125-f00",
+     "cat": "market",
+     "importance": "low",
+     "teams": [
+      "채용"
+     ],
+     "company": "데일리팜",
+     "title": "약사·한약사 교차고용 금지법, 통과 기류…기존 35곳은 유예",
+     "body": "약사·한약사 교차고용 금지법, 통과 기류…기존 35곳은 유예 데일리팜",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "데일리팜",
+       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9UajFGVUdWSjdIbTlBNGI5Mnl2Ml9kcUE3WS1NNFV0dERfaG5odUk4aUhicWZLY29QV2lnS1JEa1p3RU10MnVwc1l4b2pmUk1pVmJjeEhR?oc=5",
+       "title": "약사·한약사 교차고용 금지법, 통과 기류…기존 35곳은 유예",
+       "date": "2026-11-25"
+      }
+     ],
+     "date": "2026-11-25"
+    },
+    {
+     "id": "20261125-f01",
+     "cat": "market",
+     "importance": "low",
+     "teams": [
+      "채용"
+     ],
+     "company": "비건뉴스",
+     "title": "삼성전자 온양 복지동 신축 맡은 일성건설…계약액 841억원",
+     "body": "삼성전자 온양 복지동 신축 맡은 일성건설…계약액 841억원 비건뉴스",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "비건뉴스",
+       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE03OVNITW1WSVBKWkFkYmRmYVMtQnJuSDB3NENOV2cxemxnVnFWWnBQdVVhRVhkQnAzQ3lyUkxmbFhMYW1TZklDdTJJZWo3THNSUWcySFVNdHVXN1FiU0RnVkNYSDRFUQ?oc=5",
+       "title": "삼성전자 온양 복지동 신축 맡은 일성건설…계약액 841억원",
+       "date": "2026-11-25"
+      }
+     ],
+     "date": "2026-11-25"
+    },
+    {
+     "id": "20261125-f02",
+     "cat": "labor",
+     "importance": "low",
+     "teams": [
+      "노무·ER",
+      "보상·복리후생"
+     ],
+     "company": "시프티 블로그",
+     "title": "PC-OFF 프로그램과 근태관리·급여 시스템 연동 방법 및 구축 가이드 사무직 근태관리에서 PC-OFF 프로그램은 계획된 근무일정을 기준으로 PC 사용을 관리하고, 출퇴근기록, 휴가, 연장·단축근무... 2026-0",
+     "body": "",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "시프티 블로그",
+       "url": "https://shiftee.io/ko/blog/article/pc-off-attendance-payroll-integration",
+       "title": "PC-OFF 프로그램과 근태관리·급여 시스템 연동 방법 및 구축 가이드 사무직 근태관리에서 PC-OFF 프로그램은 계획된 근무일정을 기준으로 PC 사용을 관리하고, 출퇴근기록, 휴가, 연장·단축근무... 2026-0",
+       "date": "2026-11-25"
+      }
+     ],
+     "date": "2026-11-25"
+    },
+    {
+     "id": "20261125-f03",
+     "cat": "labor",
+     "importance": "low",
+     "teams": [
+      "노무·ER",
+      "보상·복리후생"
+     ],
+     "company": "시프티 블로그",
+     "title": "급여정산 오류를 줄이는 근태 데이터 관리와 임금명세서 발송 자동화 전략 매월 급여정산 시즌이 다가오면 인사·급여 담당자는 반복되는 확인 작업과 데이터 검증에 많은 시간을 할애하게 됩니다. 근로시간 ... 2026-0",
+     "body": "",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "시프티 블로그",
+       "url": "https://shiftee.io/ko/blog/article/payroll-automation-and-attendance-data-management",
+       "title": "급여정산 오류를 줄이는 근태 데이터 관리와 임금명세서 발송 자동화 전략 매월 급여정산 시즌이 다가오면 인사·급여 담당자는 반복되는 확인 작업과 데이터 검증에 많은 시간을 할애하게 됩니다. 근로시간 ... 2026-0",
+       "date": "2026-11-25"
+      }
+     ],
+     "date": "2026-11-25"
+    },
+    {
+     "id": "20261125-f04",
+     "cat": "labor",
+     "importance": "low",
+     "teams": [
+      "노무·ER",
+      "보상·복리후생"
+     ],
+     "company": "시프티 블로그",
+     "title": "타각기록이란? 출퇴근기록의 7가지 방식과 관리 기준 알아보기 출퇴근기록은 근로시간과 연장·야간·휴일근로시간을 확인하는 기초 자료입니다. 기록 방식은 수기 출근부부터 모바일 앱까지 다양하고... 2026-11-18",
+     "body": "",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "시프티 블로그",
+       "url": "https://shiftee.io/ko/blog/article/time-clock-and-attendance-recording-methods",
+       "title": "타각기록이란? 출퇴근기록의 7가지 방식과 관리 기준 알아보기 출퇴근기록은 근로시간과 연장·야간·휴일근로시간을 확인하는 기초 자료입니다. 기록 방식은 수기 출근부부터 모바일 앱까지 다양하고... 2026-11-18",
+       "date": "2026-11-25"
+      }
+     ],
+     "date": "2026-11-25"
+    },
+    {
+     "id": "20261125-f05",
+     "cat": "labor",
+     "importance": "low",
+     "teams": [
+      "노무·ER",
+      "보상·복리후생"
+     ],
+     "company": "시프티 블로그",
+     "title": "2026년 10월 3주차 HR 소식 | 주 4.5일제·비정규직·청년 채용·중장년 재취업·근로감독·산업재해 시프티 주간 HR 소식 - 10월 3주차 2026년 10월 3주차에는 주 4.5일제 지원사업에 참여한 기업들의",
+     "body": "",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "시프티 블로그",
+       "url": "https://shiftee.io/ko/blog/article/weekly-hr-news-2026-october-week-3",
+       "title": "2026년 10월 3주차 HR 소식 | 주 4.5일제·비정규직·청년 채용·중장년 재취업·근로감독·산업재해 시프티 주간 HR 소식 - 10월 3주차 2026년 10월 3주차에는 주 4.5일제 지원사업에 참여한 기업들의",
+       "date": "2026-11-25"
+      }
+     ],
+     "date": "2026-11-25"
+    },
+    {
+     "id": "20261125-f06",
+     "cat": "labor",
+     "importance": "low",
+     "teams": [
+      "노무·ER",
+      "보상·복리후생"
+     ],
+     "company": "시프티 블로그",
+     "title": "근태관리 프로그램을 활용한 근로시간·연차·급여 관리 방법 근태관리는 출퇴근시간 기록을 확인하는 업무를 넘어 근로시간 산정, 연차휴가 운영, 급여 관리와 연결되는 인사관리의 주요 업무입... 2026-10-26",
+     "body": "",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "시프티 블로그",
+       "url": "https://shiftee.io/ko/blog/article/attendance-management-program-hours-leave-payroll",
+       "title": "근태관리 프로그램을 활용한 근로시간·연차·급여 관리 방법 근태관리는 출퇴근시간 기록을 확인하는 업무를 넘어 근로시간 산정, 연차휴가 운영, 급여 관리와 연결되는 인사관리의 주요 업무입... 2026-10-26",
+       "date": "2026-11-25"
+      }
+     ],
+     "date": "2026-11-25"
+    },
+    {
+     "id": "20261125-f07",
+     "cat": "labor",
+     "importance": "low",
+     "teams": [
+      "노무·ER",
+      "보상·복리후생"
+     ],
+     "company": "시프티 블로그",
+     "title": "해외 근무 직원 근태관리, HR 시스템을 활용한 통합인력관리 방법 알아보기 기업의 해외 사업장 운영과 글로벌 인력 활용이 확대되면서 해외 근무 직원의 근태관리 중요성도 높아지고 있습니다. 국가마다 근로... 2026",
+     "body": "",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "시프티 블로그",
+       "url": "https://shiftee.io/ko/blog/article/global-workforce-attendance-hr-system-guide",
+       "title": "해외 근무 직원 근태관리, HR 시스템을 활용한 통합인력관리 방법 알아보기 기업의 해외 사업장 운영과 글로벌 인력 활용이 확대되면서 해외 근무 직원의 근태관리 중요성도 높아지고 있습니다. 국가마다 근로... 2026",
+       "date": "2026-11-25"
+      }
+     ],
+     "date": "2026-11-25"
+    },
+    {
+     "id": "20261125-f08",
+     "cat": "labor",
+     "importance": "low",
+     "teams": [
+      "노무·ER",
+      "보상·복리후생"
+     ],
+     "company": "시프티 블로그",
+     "title": "근속기간별 연차 발생 기준과 연차일수 계산 방법 알아보기 연차휴가는 근로자의 근속기간과 출근 요건에 따라 발생하는 법정 휴가입니다. 근로자의 계속근로기간이 1년 미만인지 1년 이상인지... 2026-10-16",
+     "body": "",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "시프티 블로그",
+       "url": "https://shiftee.io/ko/blog/article/annual-leave-accrual-criteria-and-days-by-tenure",
+       "title": "근속기간별 연차 발생 기준과 연차일수 계산 방법 알아보기 연차휴가는 근로자의 근속기간과 출근 요건에 따라 발생하는 법정 휴가입니다. 근로자의 계속근로기간이 1년 미만인지 1년 이상인지... 2026-10-16",
+       "date": "2026-11-25"
+      }
+     ],
+     "date": "2026-11-25"
+    },
+    {
+     "id": "20261125-f09",
+     "cat": "labor",
+     "importance": "low",
+     "teams": [
+      "노무·ER",
+      "보상·복리후생"
+     ],
+     "company": "시프티 블로그",
+     "title": "근태관리 프로그램 선택 가이드: 도입 전 확인할 주요 기능 근태관리는 직원의 출근과 퇴근 시각을 기록하는 것뿐 아니라 근무일정, 휴가, 연장·야간·휴일근로 등 근태정보를 함께 관리하는 ... 2026-10-15",
+     "body": "",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "시프티 블로그",
+       "url": "https://shiftee.io/ko/blog/article/attendance-management-software-adoption-checklist",
+       "title": "근태관리 프로그램 선택 가이드: 도입 전 확인할 주요 기능 근태관리는 직원의 출근과 퇴근 시각을 기록하는 것뿐 아니라 근무일정, 휴가, 연장·야간·휴일근로 등 근태정보를 함께 관리하는 ... 2026-10-15",
+       "date": "2026-11-25"
+      }
+     ],
+     "date": "2026-11-25"
+    },
+    {
+     "id": "20261125-f10",
+     "cat": "labor",
+     "importance": "low",
+     "teams": [
+      "노무·ER",
+      "보상·복리후생"
+     ],
+     "company": "시프티 블로그",
+     "title": "중소기업 HR프로그램 도입, 가장 먼저 전산화해야 할 인사 업무 5가지 기업의 직원 수가 늘어나면 인사정보와 근태 데이터를 관리하는 업무도 함께 증가합니다. 직원정보는 엑셀, 근무일정은 별도 문서,... 2026-1",
+     "body": "",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "시프티 블로그",
+       "url": "https://shiftee.io/ko/blog/article/smb-hr-software-first-5-tasks-to-digitize",
+       "title": "중소기업 HR프로그램 도입, 가장 먼저 전산화해야 할 인사 업무 5가지 기업의 직원 수가 늘어나면 인사정보와 근태 데이터를 관리하는 업무도 함께 증가합니다. 직원정보는 엑셀, 근무일정은 별도 문서,... 2026-1",
+       "date": "2026-11-25"
+      }
+     ],
+     "date": "2026-11-25"
+    },
+    {
+     "id": "20261125-f11",
+     "cat": "labor",
+     "importance": "low",
+     "teams": [
+      "노무·ER",
+      "보상·복리후생"
+     ],
+     "company": "시프티 블로그",
+     "title": "2026년 인도 노동법 알아보기: 4대 노동법전(Labour Codes) 핵심 정리 인도는 2025년 11월 21일부터 4개의 통합 노동법전(Labour Codes)을 시행했습니다. 4개 법전은 임금, 산업관계...",
+     "body": "",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "시프티 블로그",
+       "url": "https://shiftee.io/ko/blog/article/guide-to-india-labour-law-codes",
+       "title": "2026년 인도 노동법 알아보기: 4대 노동법전(Labour Codes) 핵심 정리 인도는 2025년 11월 21일부터 4개의 통합 노동법전(Labour Codes)을 시행했습니다. 4개 법전은 임금, 산업관계...",
+       "date": "2026-11-25"
+      }
+     ],
+     "date": "2026-11-25"
+    },
+    {
+     "id": "20261125-f12",
+     "cat": "labor",
+     "importance": "low",
+     "teams": [
+      "노무·ER",
+      "보상·복리후생"
+     ],
+     "company": "고용노동부 보도자료",
+     "title": "㈜케이프라이드, 2026년 상생파트너십 우수사례 경진대회 최우수상 수상",
+     "body": "",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "고용노동부 보도자료",
+       "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=20299",
+       "title": "㈜케이프라이드, 2026년 상생파트너십 우수사례 경진대회 최우수상 수상",
+       "date": "2026-11-25"
+      }
+     ],
+     "date": "2026-11-25"
+    },
+    {
+     "id": "20261125-f13",
+     "cat": "labor",
+     "importance": "low",
+     "teams": [
+      "노무·ER",
+      "보상·복리후생"
+     ],
+     "company": "고용노동부 보도자료",
+     "title": "(참고) 「(약칭) 초광역특구법 관련 원포인트 사회적 대화」제10차 실무협의체 개최",
+     "body": "",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "고용노동부 보도자료",
+       "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=20298",
+       "title": "(참고) 「(약칭) 초광역특구법 관련 원포인트 사회적 대화」제10차 실무협의체 개최",
+       "date": "2026-11-25"
+      }
+     ],
+     "date": "2026-11-25"
+    },
+    {
+     "id": "20261125-f14",
+     "cat": "labor",
+     "importance": "low",
+     "teams": [
+      "노무·ER",
+      "보상·복리후생"
+     ],
+     "company": "고용노동부 보도자료",
+     "title": "고용노동부와 전국 상공회의소, 일자리 창출과 청년 일할 기회 확대를 위해 힘 모으기로!",
+     "body": "",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "고용노동부 보도자료",
+       "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=20297",
+       "title": "고용노동부와 전국 상공회의소, 일자리 창출과 청년 일할 기회 확대를 위해 힘 모으기로!",
+       "date": "2026-11-25"
+      }
+     ],
+     "date": "2026-11-25"
+    },
+    {
+     "id": "20261125-f15",
+     "cat": "labor",
+     "importance": "low",
+     "teams": [
+      "노무·ER",
+      "보상·복리후생"
+     ],
+     "company": "고용노동부 보도자료",
+     "title": "근로복지공단, 성평등 조직문화 조성 우수기관 선정...성평등가족부장관 표창",
+     "body": "",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "고용노동부 보도자료",
+       "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=20296",
+       "title": "근로복지공단, 성평등 조직문화 조성 우수기관 선정...성평등가족부장관 표창",
+       "date": "2026-11-25"
+      }
+     ],
+     "date": "2026-11-25"
+    },
+    {
+     "id": "20261125-f16",
+     "cat": "market",
+     "importance": "low",
+     "teams": [
+      "채용"
+     ],
+     "company": "BBS 불교방송",
+     "title": "백소련 도의원 “장애인 고용부담금 74억 원…채용 확대해야”",
+     "body": "백소련 도의원 “장애인 고용부담금 74억 원…채용 확대해야” BBS 불교방송",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "BBS 불교방송",
+       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1qdUs1RWo4OWh3eEdZUGx4R1lfMkcydmxxRlVDM1R5X2t3RWxCSFBzN2Izdm1zZ0Z6N3pjaXg0WW5LTjhQWVZRNnltQkNTX0Q0dTFMaHJLdU1lWWVPY2tpTThJOUxHMC1nTTk4?oc=5",
+       "title": "백소련 도의원 “장애인 고용부담금 74억 원…채용 확대해야”",
+       "date": "2026-11-24"
+      }
+     ],
+     "date": "2026-11-24"
+    },
+    {
+     "id": "20261125-f17",
+     "cat": "market",
+     "importance": "low",
+     "teams": [
+      "채용"
+     ],
+     "company": "제주팟닷컴",
+     "title": "제주시설관리공단, 환경·기계 분야 경력직 3명 채용",
+     "body": "제주시설관리공단, 환경·기계 분야 경력직 3명 채용 제주팟닷컴",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "제주팟닷컴",
+       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5UZFRjWTAtX3doYmctX01kMk8zZWphTmZ1VGtfRlRleEp1bnFPOWpCQ3dLWFRET2IwQmxEQmZvVTI0UEJvakxQeERMOWlLdXdsbVJ1SHNYRi1ERk1Kam1IUGlfblp0TTdiWlZ5YWd3?oc=5",
+       "title": "제주시설관리공단, 환경·기계 분야 경력직 3명 채용",
+       "date": "2026-11-24"
+      }
+     ],
+     "date": "2026-11-24"
+    },
+    {
+     "id": "20261125-f18",
+     "cat": "market",
+     "importance": "low",
+     "teams": [
+      "채용"
+     ],
+     "company": "팝콘뉴스",
+     "title": "희망퇴직 넘어 인력 순환…SKT, 주니어 채용 확대 검토",
+     "body": "희망퇴직 넘어 인력 순환…SKT, 주니어 채용 확대 검토 팝콘뉴스",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "팝콘뉴스",
+       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBta2FSTXk3UlpiOTREMHgzeFNZX3FreEZOblpjM1NtOHBOUXVhSGJ1a19KbEQ4ejRoLXpNM1hSeUctZXdnRVpSTDFUQkhpd2g1Sk5XTV82aHBQZWFCV3JWZE1KQUVocTNhcE5QdW1hRdIBckFVX3lxTE50dDVtOGZlby03VGt6ZDEycmxMYnRxajRKN3NYR0l2NHdnV0otSl9ENkVOMFphazJVRmxVUFNIZkY1cUpPTVQ3R0sxZHdFUFJjLWJKNzZ4cnZBeDJySnZDbi01TFdOa05obmhMSXYxZm1Odw?oc=5",
+       "title": "희망퇴직 넘어 인력 순환…SKT, 주니어 채용 확대 검토",
+       "date": "2026-11-24"
+      }
+     ],
+     "date": "2026-11-24"
+    },
+    {
+     "id": "20261125-f19",
+     "cat": "market",
+     "importance": "low",
+     "teams": [
+      "채용"
+     ],
+     "company": "제이누리",
+     "title": "제주 7급 공채 국어 폐지 … 9급 한국사는 한능검 3급 이상",
+     "body": "제주 7급 공채 국어 폐지 … 9급 한국사는 한능검 3급 이상 제이누리",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "제이누리",
+       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1HbUt6SDVEd0Zid1J1MEJhdFd1d2hoZE5RM0dJVXBDSGdSTGNueE02NmQwUnh4OG5LZmw1eUJpSkVQSFAzWnFuZ1k0RWtTaDdJT0JDdUN1WDlpUm9x?oc=5",
+       "title": "제주 7급 공채 국어 폐지 … 9급 한국사는 한능검 3급 이상",
+       "date": "2026-11-24"
+      }
+     ],
+     "date": "2026-11-24"
+    },
+    {
+     "id": "20261125-f20",
+     "cat": "market",
+     "importance": "low",
+     "teams": [
+      "채용"
+     ],
+     "company": "팩트인뉴스",
+     "title": "마이크론 국내 채용 확대…메모리 3사 인재 확보 경쟁",
+     "body": "마이크론 국내 채용 확대…메모리 3사 인재 확보 경쟁 팩트인뉴스",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "팩트인뉴스",
+       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5BNlZtN0ZCeDRzdDV3c1Y5dlpSWVdjTEdCTXJrWDVuYTdtVGxfWjJWV3lUcGJ4OFZmM0NzcXdaQ2I1eUoxcTZIWXFhY0JFR3NEelhCMlJrUDh2VUhROF9EUDJkTmp6ZWZLUGRrN3lYYUvSAXRBVV95cUxPNmRZVm5Dd0pYd3J6bVdlUzFsU0tIYlYwd0k2UG9oZThieTI5QVQ0cDFRTlZyWWZIVjBHbG83YnRXVDh6Zm5JTUVQNGYwanMwc0Z4c1dxUWkxZ2J3Q20ybnBKN0Y5eVBjbmJ5d1B1N0RHcEZqZg?oc=5",
+       "title": "마이크론 국내 채용 확대…메모리 3사 인재 확보 경쟁",
+       "date": "2026-11-24"
+      }
+     ],
+     "date": "2026-11-24"
+    },
+    {
+     "id": "20261125-f21",
+     "cat": "market",
+     "importance": "low",
+     "teams": [
+      "채용"
+     ],
+     "company": "인더스트리뉴스",
+     "title": "'점포 감축'에서 'AI 세대교체'로…은행권 희망퇴직 패러다임 바뀐다",
+     "body": "'점포 감축'에서 'AI 세대교체'로…은행권 희망퇴직 패러다임 바뀐다 인더스트리뉴스",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "인더스트리뉴스",
+       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9CaUNERzczUEVWYjlzMEVFNXFnOURmemFfTTRQQWhlaUFUNEo1V1QwWUFvWHJjc0dDeU5iYUl3SWQwRm9vREF1NFpJSVM0LTZmRGptU0VVeHB4M0JlcE80dG1fRkt2eU9EUzltWkN6LWVOdw?oc=5",
+       "title": "'점포 감축'에서 'AI 세대교체'로…은행권 희망퇴직 패러다임 바뀐다",
+       "date": "2026-11-24"
+      }
+     ],
+     "date": "2026-11-24"
+    },
+    {
+     "id": "20261125-f22",
+     "cat": "market",
+     "importance": "low",
+     "teams": [
+      "채용"
+     ],
+     "company": "뉴스핌",
+     "title": "주류업계 덮친 희망퇴직…'위스키 1위' 골든블루, 2년만에 두번째 실시",
+     "body": "주류업계 덮친 희망퇴직…'위스키 1위' 골든블루, 2년만에 두번째 실시 뉴스핌",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "뉴스핌",
+       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAwc210WDlGNTd3Ti1RVm96a1lzeVllTzRDS3JTQmJseElOa2d6Qjd2WGNlN2ZkS3F5cDJfdVJGbl9udktmbkdUb2w2dlVXWHJwOS1oaGFpVEk1d19s?oc=5",
+       "title": "주류업계 덮친 희망퇴직…'위스키 1위' 골든블루, 2년만에 두번째 실시",
+       "date": "2026-11-24"
+      }
+     ],
+     "date": "2026-11-24"
+    },
+    {
+     "id": "20261125-f23",
+     "cat": "market",
+     "importance": "low",
+     "teams": [
+      "채용"
+     ],
+     "company": "조세금융신문",
+     "title": "[심층분석] 은행권 희망퇴직, 빈자리는 AI와 베테랑이 채운다",
+     "body": "[심층분석] 은행권 희망퇴직, 빈자리는 AI와 베테랑이 채운다 조세금융신문",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "조세금융신문",
+       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9GdEhHajRTYU85cmxGVUZUQTFtT3l3R1FKLUVsb3ltRllhSzRGTnBfSU83cHNuVFFaZlB4NHM3bVdaSldqTGZQVDVHUHlDQ0txdlU5ZkRtZHlpSWNDLXpwVUNYMA?oc=5",
+       "title": "[심층분석] 은행권 희망퇴직, 빈자리는 AI와 베테랑이 채운다",
+       "date": "2026-11-24"
+      }
+     ],
+     "date": "2026-11-24"
+    },
+    {
+     "id": "20261125-f24",
+     "cat": "market",
+     "importance": "low",
+     "teams": [
+      "채용"
+     ],
+     "company": "티제이비",
+     "title": "\"사무직 대신 AI 쓴다\"…日 기업 5곳 중 1곳 채용 축소",
+     "body": "\"사무직 대신 AI 쓴다\"…日 기업 5곳 중 1곳 채용 축소 티제이비",
+     "insight": "",
+     "action": "",
+     "tags": [],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "티제이비",
+       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5hTld2WDhyQUhDWkNLVnpQc2RYTVBiMndWV2xacFM4YjY3ZXI3dTRZN0lmd3NwVGc0cE1uOEZrWG9FX090d0w4NGdhOHppLXptUWJjOEJWMHo2MV81?oc=5",
+       "title": "\"사무직 대신 AI 쓴다\"…日 기업 5곳 중 1곳 채용 축소",
+       "date": "2026-11-24"
+      }
+     ],
+     "date": "2026-11-24"
+    }
+   ]
+  },
   {
    "date": "2026-11-24",
    "window_days": 1,
