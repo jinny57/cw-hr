@@ -1,0 +1,630 @@
+{
+  "date": "2026-11-26",
+  "window_days": 1,
+  "article_count": 294,
+  "engine": "gemini-3-flash-preview",
+  "headline": "고연차 이직 시장 활성화 및 이커머스 업계 인력 재편 가속화",
+  "points": [
+    "7년 차 이상 고연차 경력직의 이직 시도 전년 대비 12.2% 증가",
+    "이마트·GS리테일 등 주요 유통사 리더급 근무 체계 및 인력 변화",
+    "홈플러스 영업 중단 및 금융·주류업계 희망퇴직 등 인재 유입 신호 발생"
+  ],
+  "items": [
+    {
+      "cat": "market",
+      "importance": "high",
+      "company": "업계 전반",
+      "title": "7년 차 이상 고연차 경력직 이직 시도 12.2% 급증",
+      "body": "올가을 이직 시장에서 7년 차 이상 고연차 비중이 53.4%를 기록했어요. 잡코리아 분석 결과, 고연차의 이력서 업데이트가 전년 대비 12.2% 증가하며 실무형 베테랑 수요가 높아지고 있어요.",
+      "insight": "AI 전환기에 즉시 투입 가능한 숙련 인재들의 이동이 활발해진 신호예요. 우리 그룹도 시니어급 인재를 영입하기 위한 EVP 강화가 필요해요.",
+      "action": "고연차 경력직이 선호하는 보상 체계와 유연한 근무 환경을 채용 브랜딩에 적극 활용해 보세요.",
+      "teams": [
+        "채용",
+        "보상·복리후생"
+      ],
+      "tags": [
+        "경력직채용",
+        "이직동향",
+        "시니어인재"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "뉴스1",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1jZmRkdXExZDVzcVh4NTE1b2tjekJfUVZfU3MtcTNpb0tmbVpHWGQzUWdQUk9wOU9mRmRZUVlpYVVtUmVrRWk3d2N2eUNTc3V2MXl6V1N6Y2RCUjczR2dNYXdHZGg?oc=5",
+          "title": "올가을 이직시장서 7년 차 이상 53.4%…'즉시 투입' 경력직 선호 뚜렷",
+          "date": "2026-11-25"
+        },
+        {
+          "name": "워크투데이",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBqWWhYUnA0a3BQU0owMkxGV181MFN6TjM3Z0E5bHRXcmVBaFpOLTJBbVZFM21Qb1ZUbS1TUTJGSEZQVmRsZXg0ZWJHSXdMWEx4Q3BfTVltNjUwNnFlTzZnVGlHT1I5YjFValBReg?oc=5",
+          "title": "이직시장 ‘허리’ 넘어 고연차로 이동 … 잡코리아, 7년 차 이상 이력서 정비 12.2% 증가",
+          "date": "2026-11-25"
+        },
+        {
+          "name": "비욘드포스트",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB4Y1lsRVNlN1pwV3I1eFhzR3Y3NURfVEw2dkZTd3hmXzNZSEg1LURNZGdMTU4xNmc4QlpCUzRyZ05kRXpfSGpMSDM0MlA3SHlnLWZqVldOcVdKYllsbm1lT3lXRjlEM2ZwZEV3QXVjQThUdnZwMU9YQmU5RWc?oc=5",
+          "title": "잡코리아, 가을 이직시장 분석…7년 차 이상 경력직 지원 비중 확대",
+          "date": "2026-11-25"
+        },
+        {
+          "name": "잡포스트",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB5Z1FjeE1QMk5kSTJOUGRhYjgyX3FxUkd0eFRGZ0NweDhsLVZaSDlGZW5rWWc1NmZEMkRzRjhBZHg3VHZacEx0d29nTGxKVmt3RWRoeVpmY2ZVZGtBMzJKT0hwdzlHWlpuQXJ0cXdR0gFyQVVfeXFMTXR1QUZoTEtSZmE3XzlRTkxVZWRaU0VnSXVTTXY3VV9VUmt2clJoWVRHd294b2t5bE9ueU5fTHNQaUtlSURyOFl5V3UzRGh4WmJYeTY4b0U4T2MyYWNGNkRpQ1NUblZMQk9yTDJDcFhRSmh3?oc=5",
+          "title": "이직시장 움직이는 고연차 직장인…7년 차 이상 이력서 업데이트 12.2% 증가",
+          "date": "2026-11-25"
+        },
+        {
+          "name": "Naver Blog",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVjZnc01XY1duUU9qcUI2b0FXU3VXVndFUHp3MW81VHdWdkdITi0xT201c1A4cURQUnN3N3pFZ3F6UHowUEZ5U0NrX19oMy10NVozRWM3S2xLWFJyU3o0dFUyQ1B4OHl0alBselBxanhQYkduZC1kUnp6X2ExTXlERXI5aS11MWpFZExQbkR3Zw?oc=5",
+          "title": "올가을 이직 시장 주도 '7년 차 이상' 고연차 직장인…이력서 업데이트 12.2% 급증",
+          "date": "2026-11-25"
+        },
+        {
+          "name": "한스경제",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9jd3pKdEFkSVpfakh2VS1IcW45WGYzNURSbWtjWlo2TFlfU2FVSEp6cS1TUFd3c3VYY1dXWmxvTl9JMU5QblJYUWpGSFVKN1E1VUozVUNZRnhFN3d2NUYzaG1hQV9Qa3VKbDBN?oc=5",
+          "title": "잡코리아, 고연차 이직 준비 활발",
+          "date": "2026-11-25"
+        },
+        {
+          "name": "더페어",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9hVkVOci16My1KdWkxNFRXMFlYNDcyUEJEVlRpazNsVkJjLXFUYThBcDAwQmpNQUxFWjc0MFJLajJ3WEw1MXZpR3hmRjEwQ0Rlb1FxQTFiQXdUblMwNnpWU0JuU0pfLWduaVJwblEwWEzSAXRBVV95cUxNekxSWHZWQVprcVd1Q0w4SEdzeUJsVGtkWHFlVFlWSU9TTlhRZFRGaV95ZDNiWVdYSFltNGctcFd3OGl0ZG9rejJMQnJpeGZtUk81S3FTVVRBWGRFZG56UmpVWnpSMF9JX1RETFpJbm5XekRHaQ?oc=5",
+          "title": "AI 전환기 실무형 베테랑 수요 급증…가을 이직 시장 주도한 7년차 이상 고연차",
+          "date": "2026-11-25"
+        },
+        {
+          "name": "브레이크뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFA4bGxSMnBKUGdNMVlnY2VmNGhIcjRxbUZNb0lnbHpZeGEyOXZnMEIzM3hSYWplMDNuTjJjRGZzV3NoVDB3cGtj?oc=5",
+          "title": "잡코리아 \"가을 이직 시즌, 7년 차 이상 이력서 업데이트 12.2%↑\"",
+          "date": "2026-11-25"
+        }
+      ],
+      "date": "2026-11-25",
+      "id": "20261126-01"
+    },
+    {
+      "cat": "trend",
+      "importance": "high",
+      "company": "이마트",
+      "title": "이마트 임원 근무제 '9 to 6' 환원 및 휴무 중단",
+      "body": "주 35시간제를 선도했던 이마트가 임원 근무 시간을 다시 늘리고 월례 리프레시데이를 중단하기로 했어요. 리더부터 변화하여 위기를 극복하겠다는 책임 경영의 일환이에요.",
+      "insight": "유통업계 전반에 퍼진 위기감이 '일하는 방식'의 보수적 회귀로 나타나고 있어요. 조직 긴장감 조성과 업무 몰입 사이의 균형이 중요한 시점이에요.",
+      "action": "우리 그룹의 리더십 근무 가이드라인을 점검하고, 성과 중심의 조직 문화를 유지할 방안을 논의해 보세요.",
+      "teams": [
+        "인사기획",
+        "조직문화·HRD"
+      ],
+      "tags": [
+        "근무시간",
+        "책임경영",
+        "조직문화"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "글로벌에픽",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1KTFFsZjFwX1hCaHV3QVBsMTVhYmZmWHVlVGFjekZZa2hDaGNDTWRJOWRBN1VzMVdibUNEOGhUVzh6WnUtcVA5SnZ0Z05ZOG53bTlqQ0MtR2t6Y3NmbU9RSHpvQTdnWmZLSzh5TzlSbWczNm95SFlucG00SU4?oc=5",
+          "title": "[Ceo’s Speech] 이마트 김홍극 대표 \"변화는 리더에서 시작\"",
+          "date": "2026-11-25"
+        },
+        {
+          "name": "팝콘뉴스",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5iQ1UxTXJBSG9feTlaZGlzQmFiYm1tQUFIbHpxbGItN3ZNLW9lTVVtWTNsMnpyNHBfMjJVUUJ5UWF6Ri1tWHpSVVk0WklOVTYybm5GQTN1a3hQZGVjTkFabkFjTzRtdkl5bnhNNFdaOGtGUdIBckFVX3lxTE5iQ1UxTXJBSG9feTlaZGlzQmFiYm1tQUFIbHpxbGItN3ZNLW9lTVVtWTNsMnpyNHBfMjJVUUJ5UWF6Ri1tWHpSVVk0WklOVTYybm5GQTN1a3hQZGVjTkFabkFjTzRtdkl5bnhNNFdaOGtGUQ?oc=5",
+          "title": "'주 35시간' 선도한 신세계도 달라졌다...이마트, 임원 다시 '9 to 6'",
+          "date": "2026-11-25"
+        },
+        {
+          "name": "자본시장뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE83NzZ1OG1SemNPSDdTRWQ3LWhfRDBHaDRTT2xCenh1TElWRWRXX0VhUXcybm9pU1NDUURKdFVyZVZLcUpjSVBVVnNhTW9DRkx1Zjh0WmpEVV9JV21xMEJScm9tNnRKbTA?oc=5",
+          "title": "김홍극 이마트 대표 \"리더부터 변화\"…임원 퇴근 1시간 늦춘다",
+          "date": "2026-11-25"
+        },
+        {
+          "name": "더퍼블릭",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE93SU03cml0eWFod1lBZzdOYzg2anhaUW9qeXFjOEwySEt0YzBlYWNjdnpveF9DOWZ5TGtvZzdObjN6dTBCaWNOUFJYVDVHZFVMNnd5WFFtV3BOc042bFRzd1VUb2JGT2UtZTJmUDhMNNIBb0FVX3lxTE93SU03cml0eWFod1lBZzdOYzg2anhaUW9qeXFjOEwySEt0YzBlYWNjdnpveF9DOWZ5TGtvZzdObjN6dTBCaWNOUFJYVDVHZFVMNnd5WFFtV3BOc042bFRzd1VUb2JGT2UtZTJmUDhMNA?oc=5",
+          "title": "이마트, 임원 근무제 '9 to 6'로 전환…리프레시데이도 중단",
+          "date": "2026-11-25"
+        },
+        {
+          "name": "뉴스저널리즘",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBLc2haRzh2TTVsQ3B0TXo4Y0p5cE5ncjN3T0VWZl9ndGNVYVhxbXhfQkVzbmJMaHRzSUhxVlpKUy14anNPaUNSdzJUY3AxNGVRMXlPOTZJMUpDQXFsZlB5cFRLUmNLdVVCZHNj?oc=5",
+          "title": "이마트, 내달부터 임원 '9 to 6' 근무…일반 직원은 현행 유지",
+          "date": "2026-11-25"
+        },
+        {
+          "name": "스페셜경제",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1NSHNyV3JHU2NOLU9FZk1xSXI2aUR6Q05ZOFM1QXF0UWROVDRpS2pobFljWnJtQUhlT29hb1ppR3ktb0M5MnVFWTRnZVlXQXo5clYwZFdDTHM4UFpPcklWVjRscW9sMmJQYXFnbg?oc=5",
+          "title": "이마트, 8년 만에 임원 근무시간 늘리고 월례휴무 없앤다",
+          "date": "2026-11-25"
+        },
+        {
+          "name": "뉴스워커",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5yMjFMUmF0LXpETHdzYlQ0MG42WkdKSWE4ZGJJWmRCUnNmZHpHUTNFNVg1UTBUVHhGWUNfVm5PY24xQUxGRGk2VWhURWg3M1ROVnJrMnFUZzFCLTA3eFZRN0pXM1ctZjM1TXFlRThnLXh3S2U00gF0QVVfeXFMTnIyMUxSYXQtekRMd3NiVDQwbjZaR0pJYThkYklaZEJSc2ZkekdRM0U1WDVRMFRUeEZZQ19Wbk9jbjFBTEZEaTZVaFRFaDczVE5WcmsycVRnMUItMDd4VlE3SlczVy1mMzVNcWVFOGcteHdLZTQ?oc=5",
+          "title": "8년 만에 깨진 이마트 임원 '9 to 5'…정용진式 책임경영 시발점인가",
+          "date": "2026-11-25"
+        }
+      ],
+      "date": "2026-11-25",
+      "id": "20261126-03"
+    },
+    {
+      "cat": "ecom",
+      "importance": "high",
+      "company": "GS리테일",
+      "title": "GS리테일 CX본부 신설 및 쿠팡 출신 부사장 영입",
+      "body": "GS리테일이 고객경험 강화를 위해 CX본부를 신설하고, 초대 본부장으로 쿠팡 출신의 이성한 부사장을 영입했어요. 허서홍 대표는 사장으로 승진하며 AI 중심 재편을 선언했어요.",
+      "insight": "경쟁사의 C레벨급 인재 영입은 조직 체질 개선의 신호탄이에요. 특히 쿠팡 출신 인재의 유입은 이커머스 전략 고도화를 의미하므로 주의 깊게 살펴야 해요.",
+      "action": "경쟁사의 조직 개편 방향을 참고하여 우리 그룹의 AI 및 CX 관련 조직 역량을 점검해 보세요.",
+      "teams": [
+        "채용",
+        "조직문화·HRD"
+      ],
+      "tags": [
+        "조직개편",
+        "인재영입",
+        "CX전략"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "조세일보",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA3ekhSS2hJbHI0OUEyNWNudGE3Umg1VnhvZEw3Tk1lTXBmU2hIalMwMDdMZHNSa2hEVUotRjJiXzVWenpOOWM5TEp1Wm1tUl9zTHpuWUhlNWtxYkhING5r?oc=5",
+          "title": "\"본업 강화·실적 개선\"…허서홍 GS리테일 대표, 2년 만에 사장 승진",
+          "date": "2026-11-25"
+        },
+        {
+          "name": "데일리한국",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5Udm5GVTlNOXMxNVhETWI0aUl6QmFlXzRPTEpMWTFPNmpoczduSFVXZHB1ZHdwMGxna2xkWkdEb0N1dURNdlo2ZTltU0tlYUp5RkRza19lYlhmZGtZQUZMYXQ4YVVtMkstSUdrOTF6MNIBc0FVX3lxTFB4OWxZbk1xaFhSc3p5cjRMWW9tNGZsXzVqdEVTVFZFUEc4T1B3ZlZIUXA1M3ZjYzNyX0lfUkRsbm03a0U1dmlreFdZMFlqcXlEQWRoTVdKSE0wd241U0ZZMTdnbGFlTk9QMVJHeXVjWHVEeTA?oc=5",
+          "title": "'오너 4세' 허서홍의 다음 승부수…GS리테일, 고객경험·AI 중심 재편",
+          "date": "2026-11-25"
+        },
+        {
+          "name": "뉴스핌",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5UQnh0MEJGdGRQRUt0cmJNNjYtOHhZbjFRMk9TZGp0Z1FMQWowZkNoYU1XV0U0VFpmMXRLbWtXaGRPQ0J4d3kzeTE0aHkyRWVhU1BQQm1FTkRZR2Zf?oc=5",
+          "title": "[단독] GS리테일, 'CX본부' 신설…초대 본부장에 '쿠팡 출신' 이성한 부사장",
+          "date": "2026-11-25"
+        },
+        {
+          "name": "여성소비자신문",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1qN0oyOFZubHRoMGdmdEhySDA3UVpFaWVQVThheGxFbVF1NDlsd2Q2djQtX0Y4RmMwT0c5TmlaWjRPZmdveEI2OVFaTU56dnVmYjIzNmlIR0NBaGNSMTNnY0F6Uk0tUQ?oc=5",
+          "title": "유통업계 ‘CFS 단독 중장년 채용박람회’ 개최·허서홍 대표 사장 승진",
+          "date": "2026-11-25"
+        }
+      ],
+      "date": "2026-11-25",
+      "id": "20261126-02"
+    },
+    {
+      "cat": "labor",
+      "importance": "high",
+      "company": "고용노동부",
+      "title": "일·생활 균형 우수기업 124개소 선정 및 혜택 발표",
+      "body": "고용노동부가 육아휴직 승진 차별 철폐, 유연근무 활성화 등 일·생활 균형이 우수한 124개 기업을 선정했어요. 선정 기업은 정기 근로감독 면제 등의 혜택을 받아요.",
+      "insight": "정부의 정책 방향이 유연근무와 일·가정 양립 지원 기업에 실질적인 혜택을 주는 방향으로 강화되고 있어요. 우리 그룹사들의 인증 취득 가능성을 검토해야 해요.",
+      "action": "그룹사별 일·가정 양립 제도 현황을 파악하고, 내년도 우수기업 인증 신청을 준비해 보세요.",
+      "teams": [
+        "노무·ER",
+        "인사기획"
+      ],
+      "tags": [
+        "워라밸",
+        "정부지원",
+        "근로감독면제"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "고용노동부 보도자료",
+          "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=20305",
+          "title": "육아휴직 중에 승진, 주 35시간 근무, 일·생활 균형 우수기업 124개소 선정",
+          "date": "2026-11-26"
+        },
+        {
+          "name": "메디포뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9QOWtJYzN3VnVqN2UzMHVBTnVEWnhKclVfSEpmUk8xNDAyTDc1MWx1a25PTzNBUk5GYnBaajJLZmlIZi1FUktDQ0NQbFRIWU90T2NISGNvVVQyX2NZa2JBbENQc04?oc=5",
+          "title": "세닉스바이오테크, 일·생활 균형 우수기업 선정",
+          "date": "2026-11-25"
+        },
+        {
+          "name": "경기신문",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE53RGNETko5XzJPZEhKYXdmUlUtYTQ5N0dHaUJ4RlNJVDVONU4tTUt1OGgzSHRsMVZXcGFJcTRHZzE1c3NEUGh2VnNuWmItcXZvalg3amd1cFNtZHhMWFd6d19n?oc=5",
+          "title": "하남 IT기업 ㈜에어패스, ‘2026 대한민국 일·생활 균형 우수기업’ 선정",
+          "date": "2026-11-25"
+        },
+        {
+          "name": "데이터투자",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBoa0xBVnNyQmQ5ZEtKMnNSRTU1Z0RyMGJTYzNRZTZPb21SZW1mOUp6UDFBTnBsYVBVTl9jaEZzUXZlalh1MGl2RFMwMGIzM2N6ZUVhMHFQaU9HOUpReWxFZU9mdzhqQlQyOEpfVERaSUNfQzA?oc=5",
+          "title": "일·생활 균형 우수기업 124곳 선정…근로감독 면제 혜택",
+          "date": "2026-11-25"
+        }
+      ],
+      "date": "2026-11-26",
+      "id": "20261126-04"
+    },
+    {
+      "cat": "ecom",
+      "importance": "high",
+      "company": "홈플러스",
+      "title": "홈플러스 대형마트 전 점포 영업 및 온라인 배송 중단",
+      "body": "홈플러스가 유동성 위기 심화로 인해 27일부터 대형마트 전 점포의 영업을 중단해요. 온라인 배송 서비스까지 멈추면서 경영 정상화가 불투명한 상태에 빠졌어요.",
+      "insight": "이커머스 및 물류 현장 인력뿐만 아니라 본사 운영 인력의 대규모 이탈이 예상돼요. 우리 그룹의 물류·배송 부문 인재 확보 기회로 삼을 수 있어요.",
+      "action": "홈플러스 본사 및 물류 부문 핵심 인력 리스트를 파악하고 선제적인 채용 제안을 검토해 보세요.",
+      "teams": [
+        "채용",
+        "인사기획"
+      ],
+      "tags": [
+        "영업중단",
+        "경영난",
+        "물류인재"
+      ],
+      "our_group": false,
+      "talent": {
+        "level": "high",
+        "signal": "전 점포 영업 및 배송 중단 — 전 직군 대규모 인력 시장 유입 예상"
+      },
+      "sources": [
+        {
+          "name": "M이코노미뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE14XzRGSW94RHpqcVNkVVMyZEF6b25rZzkydk9LQnEyY0ppQnRyOUlVVnpDWmIzWi1UNnRsWmhneWpvRW1sbTVrbkEtMkV2RS1tZkJPNEdiSUNwdmNSejlySmhzaHhvdnM?oc=5",
+          "title": "홈플러스, 27일부터 대형마트 전 점포 영업 중단...유동성 위기 심화",
+          "date": "2026-11-25"
+        },
+        {
+          "name": "오피니언뉴스",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5GaTJSOS05S0dBSnlhQzBOUjVmY1FUTXF4dER3N0VfQzBmVjR5dWlkLWNURkpMM3V0ZEJGM3I5TnJ6VzVXaWFaRkx6dDltUVdlaDRxZ2E4dVRzTndBbGg3TnVwZDRHVkpsMWlpUTBGa1Rwdw?oc=5",
+          "title": "홈플러스, 온라인 배송마저 중단...자금난에 경영 정상화 '안갯속'",
+          "date": "2026-11-25"
+        }
+      ],
+      "date": "2026-11-25",
+      "id": "20261126-00"
+    },
+    {
+      "cat": "market",
+      "importance": "mid",
+      "company": "금융·주류·게임업계",
+      "title": "연말 금융·주류·게임업계 희망퇴직 및 구조조정 확산",
+      "body": "우리투자증권, NH농협은행(만 40세 이상), 주류업계, 넷마블 자회사 잼시티 등이 희망퇴직 및 구조조정을 진행 중이에요. 위로금은 최대 40개월치 수준이에요.",
+      "insight": "타 업종이지만 IT 역량을 갖춘 금융권 인력이나 게임업계 개발 인력이 시장에 나올 가능성이 커요. 우수 인재를 선별하여 영입할 기회예요.",
+      "action": "희망퇴직 대상자 중 우리 그룹에 적합한 IT/기획 직군 인재가 있는지 채용 채널을 모니터링해 보세요.",
+      "teams": [
+        "채용"
+      ],
+      "tags": [
+        "희망퇴직",
+        "구조조정",
+        "인재유입"
+      ],
+      "our_group": false,
+      "talent": {
+        "level": "mid",
+        "signal": "희망퇴직 및 구조조정 — 금융 IT 및 게임 개발 인력 유입 예상"
+      },
+      "sources": [
+        {
+          "name": "연합인포맥스",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0xWU0xRFBxdldadmFOZHFYQU9uZldJRFpiQWRRTnJ6N1VYV29NNEd2ck9XNUhDWUw2b3E0NjNRTHZsYnNKTWFLZ01YdEJxS0FCa0F1Rl9TcGh1aG5nTHdYODFWT0FWbTBvNGQ4RkNHYldqRHIy?oc=5",
+          "title": "우리투자증권, 출범 후 첫 희망퇴직…5년 이상 정규직 대상 |",
+          "date": "2026-11-25"
+        },
+        {
+          "name": "머니투데이",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1JZGRnQmdMbTEtX2xwNXcxOXVKNWtfRGEzLWNGdElyc19IMDlubDZxT1J5NUR3ZTFjX0g4Y3hseUdOVWtnNkdNV2lYRmp0SFN0V3FqVkZHaVJSN3RRZGRBc2dpNnJZS3d5VzZV0gFwQVVfeXFMTWZoWVZxUGM1QVV3Vjd1dDlYUm9EcDVFenpSM1FLZnFvb3ZmZEc4TXlNRU52ZTAwWWloM2hPZ25RYmNocVhKVGYtSlRfQ01PaVF1Z1M1b0YtaEtsOU1WelQyV0ZKenZCZEVSamVidFQ0UQ?oc=5",
+          "title": "농협은행, 40세 이상 명예퇴직 접수…최대 40개월치 임금 지급 - 머니투데이",
+          "date": "2026-11-25"
+        },
+        {
+          "name": "부산일보",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1GSllseGtQS0FtZUxPTUE0cklyREFjZWJiTUF3NklsQm55TFJCZW5aQXVUcUpNTnRSaFNuSHcwXzExb1dCNnAwZVZSUjREb2hPLVgxblprLTZCTXE4QzJBS2k1Mm5keHVtM1JCSnZpWFAwenV1?oc=5",
+          "title": "술 소비 감소에 일자리도 직격탄…주류업계 도미노 희망퇴직",
+          "date": "2026-11-25"
+        },
+        {
+          "name": "그린포스트코리아",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5XNWFRU3BUekFrdWZ2NENzbEEwcF96bmdmN243WEFmazhXZTJtWE1SVWtyVGV6WnhtXzBUajVmSk5DbnpZWm9EUkNpYWtrSEhZb3dHMW9mSnRwbDBLYjF1Y2ZVUWtRMVdsclNZeTBCSUktcm9nOXfSAXpBVV95cUxObHMydmg5aDRIRnpYX1U4THZ6R08tZ1FKNGZFYllSTVQtWGplaUdMSnZfV2lGWWZLX25IdDRwaW9rWjdNMHZ6NVk4Tm5mUkl4Y3BMNEkwWUVWZ0VOMklNQzdEQmJacFpPNzNnNEpNYmQyTU9HZnU0emVFZw?oc=5",
+          "title": "40개월~20개월···엇갈리는 유통·식품·주류 희망퇴직 위로금",
+          "date": "2026-11-25"
+        },
+        {
+          "name": "뉴스토마토",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE04V3hIeU9ET2stQXFVNlV3d1RDMC1ob1Z4MzRSWFQ4cnVtMk0zUHozZWo0UTByaGNjdjhUcFhTUUx0Y1JiQ2d3TmphVFhEbjBfd2RWc1pzdWxTM1REYUEzWQ?oc=5",
+          "title": "넷마블 '잼시티' 투자성과 요원…세 번째 구조조정 돌입",
+          "date": "2026-11-25"
+        },
+        {
+          "name": "자본시장뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBrUFhxTjdZUThobU5RaTJ4Rl9hM2RoRnVjYXNuN2diUUpWbFVOU0c4R0tMRXZaUF9ZSm1qelhuWjcybVo3WklkSjE2UEVDT0tfbWpZVUtyWHl6aXZNWnBDQi13ZnMxSHc?oc=5",
+          "title": "NH농협금융 명예퇴직 만 40세부터…48∼53세엔 40개월치 지급",
+          "date": "2026-11-25"
+        },
+        {
+          "name": "뉴스로드",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5UNmN4c0pTb1Q3WVlOOHhySS1jZzRocllyRnV3dVpsSkdoWnFCcFhTNmdCbXJwR1FJS0ZfVlFlWktiUEFVSWtpV0l6b0tqS01hd0lpdS1sVzRlQWQ0Ym1Va0RfN1V6SG9nem9N0gFvQVVfeXFMTjVKVmlBbS13czdpQlRGTG95SExKbUJmNmFERHdCWndzdXB4RWxyQUMyRHE0MHVxR085djZsd0dpcG10NHAzUTAzYnpoUkVtWkZYeE5WTlBDaTlYckFaVUQ0YUszOWNORmdVeFMwQXJj?oc=5",
+          "title": "NH농협금융, 만40세이상 명예퇴직...최대 40개월분 퇴직금 지급",
+          "date": "2026-11-25"
+        },
+        {
+          "name": "핀포인트뉴스",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8yTVBGZWRmSUhrM1AxQ054bHY1d05Xc2RrQzlINTUwR0ZjMmZwMXZsc0NNVkNSZ1dTVFZFd1VKdENqc0RLSlNTdGp4d0UteDNNNkFQUXY3VDJReEZpcjJqTUhFZzN3Tjk2WFZSNE1jVUl1Y03SAXdBVV95cUxOWlNVZW9oSjl6MmY0ajZ1WUkyRm1oQlFvaFMySlFEM2E2RTh0OEFaVjIxMm9ISmI3ZnpzVFQtdXM4NkNYd3lYbVB4c1FCVVBaSGZaaExydGJWSmZDMnJkeXlFc2xEd20tMVAyQXZqM3dITHd4azN4MA?oc=5",
+          "title": "은행권 '명퇴 칼바람' 분다..몸집 줄이고 전문성 높인다",
+          "date": "2026-11-25"
+        }
+      ],
+      "date": "2026-11-25",
+      "id": "20261126-05"
+    },
+    {
+      "cat": "labor",
+      "importance": "mid",
+      "company": "고용노동부",
+      "title": "지방노동감독관 본격 활동 및 사업장 집중 감독",
+      "body": "12월부터 지방노동감독관이 본격 활동하며 전국 사업장 125곳을 우선 감독해요. 임금체불, 직장 내 괴롭힘, 안전 보건 위반 여부를 집중적으로 살펴요.",
+      "insight": "연말연시를 앞두고 노동 당국의 현장 감독이 강화되는 시기예요. 특히 임금체불과 괴롭힘 이슈는 기업 평판에 치명적이므로 사전 예방이 필수예요.",
+      "action": "사업장별 법정 의무 교육 이수 현황과 미지급 수당 여부를 다시 한번 확인해 보세요.",
+      "teams": [
+        "노무·ER"
+      ],
+      "tags": [
+        "근로감독",
+        "노무점검",
+        "법위반예방"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "국민뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1QdnVna0ktS0VWR0ZpLVVoMGpuZGFsamNhTnZWYmxBeXpFeThBZHl0R0hfT0FPdzRTZUNORXBBci1xNUhqMGlvTGNR?oc=5",
+          "title": "전국 염전 765곳 고용 실태 전수 조사·근로감독 23곳서 임금체불 등 법 위반 확인 조치",
+          "date": "2026-11-26"
+        },
+        {
+          "name": "경기도뉴스포털",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRkh4SlBBTzk5OExuNjJQNHpDUGxWRTRCbVpBUmFaV2x4STNmVlFtVVBBV3N2eGpRcGFJbDFjVnJSUE9JWlUySUFyN2xhTGtjM0taeTFPOWd3UWZ4VzNQZVBCb2gtRlA2dG5UbF9OY3FkT0tIRW9uX2lKLWttQWlqb1ZqYnZQRzJQTnUzaw?oc=5",
+          "title": "지방노동감독관, 12월부터 본격 착수… 사업장 125곳 우선 감독",
+          "date": "2026-11-25"
+        },
+        {
+          "name": "글로벌이코노믹",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNGRKY0FOY2xNRWd4NUQ4WkNJbGZ2dkJzd2FiOXF0eGRuOHRYZVZMOFU1djRrTzJqWkYzWVpYWU5felozeVFmWEM2T0xUTzRTSEZCdTBBWkJFd0lhVWJGZWxRb3ItNGZOWElxb1E0VWoxQklBN3ZfcGZjSEh2cGZlTTZtQTJLaWZScnVn?oc=5",
+          "title": "경남 소규모 사업장 18만곳…지방노동감독, 사각지대 줄일 수 있나",
+          "date": "2026-11-25"
+        },
+        {
+          "name": "오늘의한국",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBiNUtlSVU5U2F3UjZxUUg0UENNSTk1NU5RRGJ6d1gzV1BkV1pPWVJuWVQxRktmWkh0cXJuTWNCTjdfOVNuaFdxRkFMbXZ5RHl0YlVPT3RhOFJucFBtVk4zc1dfaEdUVGJN?oc=5",
+          "title": "전국 염전 765곳 체불임금 5천만 원… 23곳 위법 사업주 1명 입건",
+          "date": "2026-11-25"
+        },
+        {
+          "name": "글로벌E",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5namhhWmVzcFhEVDRiQmpfMmY5V1JkdzRfelZOVzRYbkRvYVBaNk9yODJ1RmFWdlFYWVNIeUppRktLaVBEOE5NTWxJc05OOTMzVDJEVU5HY2FwQnltR0d6UXJEX1FvZU82MHJB0gFvQVVfeXFMUGtXNEU2dnFyWGU0U21QSXBLTDJVdllrTmZSQ2s1RER2Z3RJRlZYLTYtM01SalJLWG5yU2l4TnJoVEZEb3BMM0hPeE5MZmNJY2xxV040cW11MlJzdlV6YUZlWmhvbDZNWG5aVXg3VFNV?oc=5",
+          "title": "염전 사업장 집중 감독서 절반 넘는 23곳 법 위반 적발",
+          "date": "2026-11-25"
+        }
+      ],
+      "date": "2026-11-26",
+      "id": "20261126-08"
+    },
+    {
+      "cat": "ecom",
+      "importance": "mid",
+      "company": "네이버",
+      "title": "네이버 물류 자회사 출범 및 대규모 인재 영입",
+      "body": "네이버가 1조 원을 투입해 물류 자회사를 본격화하며 외부 주문까지 관리하는 'N배송' 인재 영입에 나섰어요. 쿠팡의 물류 아성에 도전하는 포석이에요.",
+      "insight": "이커머스 물류 시장의 인재 쟁탈전이 심화될 것으로 보여요. 우리 그룹의 물류 솔루션(스윗트래커, 몰테일) 인력 관리에 주의가 필요해요.",
+      "action": "물류 IT 및 운영 핵심 인력의 이탈 방지를 위한 면담이나 보상 경쟁력을 확인해 보세요.",
+      "teams": [
+        "채용",
+        "인사기획"
+      ],
+      "tags": [
+        "물류전쟁",
+        "인재확보",
+        "네이버배송"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "인사이트코리아",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5EeGFrb01XNTVTMFQ0dzE4X2RvSkE4anRNckJnQWNIa1MzNGZFSHhWeGdsVzRZb1MyOHhTTGJVN3JYaUlmYWN4ZEdyMHBqdXg0a3NrSWtHamljeksxd2d6d2RRQTB1bWQ2M0ZOUkUzV1NiNXPSAXdBVV95cUxQNzVxckkxRmprelFJUFBabmNKbEZVUTJHWUJuMzRNLWRzR1hURU0wUXRSWjVnd3hZQ0U1bThibG1PWUxhelc2VHBzWHN2M1BPTnFId1BmZGpLSGpERHl1LVFqejh5RGN2UFZxZFFNRzNrQ25VaDhNNA?oc=5",
+          "title": "네이버 vs 쿠팡…이커머스 빅2, ‘총알배송’ 전쟁 본격화",
+          "date": "2026-11-25"
+        },
+        {
+          "name": "미주중앙일보",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5vOHBOd0QwUjdfeEI0dlN0WmlXZjlBSzdSSV96TlVVX0c0OFo1N05MTmZ1SkFBcnRmZTZ3RUlaQUNOLW5IX0RWMGU4Y3E5UWFPd2Frb3BEYjk3dU1Dc1UzYm13?oc=5",
+          "title": "“외부 주문도 N배송서 관리”…‘1조 베팅’ 네이버의 인재 영입 [팩플]",
+          "date": "2026-11-25"
+        },
+        {
+          "name": "파이낸셜투데이",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBFdXR4WjJjcWFNbXU0Yml3NUNvM09xNEFsQmpLd1BxU2l2RUZmcEluVTRaZUotU2hXN1lvMWtqVTh6NEI4T0Vkam1EeUNpMTBRMVBuWnhpSUZJODBQcm1lVjVUUm84LUdwaDRUbXRR0gFuQVVfeXFMUEV1dHhaMmNxYU1tdTRiaXc1Q28zT3E0QWxCakt3UHFTaXZFRmZwSW5VNFplSi1TaFc3WW8xa2pVOHo0QjhPRWRqbUR5Q2kxMFExUG5aeGlJRkk4MFBybWVWNVRSbzgtR3BoNFRtdFE?oc=5",
+          "title": "네이버, 물류 자회사 출범 본격화…쿠팡 배송 아성 흔들까",
+          "date": "2026-11-25"
+        },
+        {
+          "name": "일요신문",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5HdGl2aEdydGVmVzR1ZlNtUXkzY2I4RUFia3dMUlNkU3NXNm83dm5QdXl3c1FidWExVFRadXVyY3hkOHk4d0dnM0lvd1ZacUpVUF90bUZXRndvdWQwQ1hnZW5sNERxQQ?oc=5",
+          "title": "물류사업 직접 뛰어든 네이버…‘전국구’ 쿠팡 따라잡을 무기 있나",
+          "date": "2026-11-25"
+        }
+      ],
+      "date": "2026-11-25",
+      "id": "20261126-07"
+    },
+    {
+      "cat": "trend",
+      "importance": "mid",
+      "company": "시프티",
+      "title": "급여 정산 오류 방지를 위한 근태 데이터 자동화 전략",
+      "body": "근태 데이터와 급여 시스템 연동의 중요성이 강조되고 있어요. PC-OFF 데이터와 실제 근로시간의 불일치 원인을 분석하고 임금명세서 발송 자동화로 오류를 줄여야 해요.",
+      "insight": "수기 관리나 분산된 데이터는 노무 리스크를 높여요. 우리 그룹의 근태 관리 시스템과 급여 정산 프로세스의 정합성을 점검할 필요가 있어요.",
+      "action": "현재 그룹사별 근태 기록 방식과 급여 시스템 간의 데이터 연동 현황을 전수 점검해 보세요.",
+      "teams": [
+        "인사기획",
+        "보상·복리후생"
+      ],
+      "tags": [
+        "HR테크",
+        "급여정산",
+        "근태관리"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "시프티 블로그",
+          "url": "https://shiftee.io/ko/blog/article/payroll-automation-and-attendance-data-management",
+          "title": "급여정산 오류를 줄이는 근태 데이터 관리와 임금명세서 발송 자동화 전략 매월 급여정산 시즌이 다가오면 인사·급여 담당자는 반복되는 확인 작업과 데이터 검증에 많은 시간을 할애하게 됩니다. 근로시간 ... 2026-0",
+          "date": "2026-11-26"
+        },
+        {
+          "name": "시프티 블로그",
+          "url": "https://shiftee.io/ko/blog/article/time-clock-and-attendance-recording-methods",
+          "title": "타각기록이란? 출퇴근기록의 7가지 방식과 관리 기준 알아보기 출퇴근기록은 근로시간과 연장·야간·휴일근로시간을 확인하는 기초 자료입니다. 기록 방식은 수기 출근부부터 모바일 앱까지 다양하고... 2026-11-18",
+          "date": "2026-11-26"
+        },
+        {
+          "name": "시프티 블로그",
+          "url": "https://shiftee.io/ko/blog/article/work-time-data-consistency-guide",
+          "title": "HR솔루션과 PC-OFF 연계, 근로시간 데이터 불일치 원인과 관리 기준 기업에서 PC-OFF 프로그램을 활용해 근무시간 외 PC 사용을 제한하더라도, 실제 근로시간을 관리하는 과정에서는 다양한 데이... 2026-",
+          "date": "2026-11-26"
+        }
+      ],
+      "date": "2026-11-26",
+      "id": "20261126-06"
+    },
+    {
+      "cat": "ecom",
+      "importance": "low",
+      "company": "쿠팡풀필먼트서비스",
+      "title": "쿠팡, 중장년 시니어 채용 대폭 확대",
+      "body": "쿠팡풀필먼트서비스가 만 62세 미만까지 지원 가능한 중장년 채용박람회를 개최하고 100여 명을 즉시 채용하기로 했어요. 시니어 인력을 물류 현장의 핵심으로 활용하는 전략이에요.",
+      "insight": "청년 인력난 해소를 위해 중장년층으로 채용 타겟을 넓히는 추세예요. 우리 그룹 물류 현장에도 적용 가능한 모델인지 검토 가치가 있어요.",
+      "action": "물류 센터 인력 구성비 분석을 통해 중장년 채용 확대 가능성을 타진해 보세요.",
+      "teams": [
+        "채용"
+      ],
+      "tags": [
+        "시니어채용",
+        "물류인력",
+        "채용박람회"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "경기일보",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxQXBEOFR1UV9PMkxIdXF6NTFmalVNaExSR0E1enh5eDVTLUd5NEd3bVBYandHbXo2WFhLYldTVXNSelhLZ3ZXMUVRSklTUzNYb2UyM2RQZkEwR0U?oc=5",
+          "title": "쿠팡풀필먼트서비스, 중장년 채용 확대…\"만 62세 미만까지 지원 가능\"",
+          "date": "2026-11-25"
+        },
+        {
+          "name": "전자신문",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE16VHJjUmdURzNfN1pWZTRZYkM5bTZ4VGhfbUJZc25SSWlFWmgzYVR3QXBERkF1V2daa25fcW1Ob3lraHRHR0pxQ2cyM0RsZw?oc=5",
+          "title": "쿠팡풀필먼트서비스, 중장년 채용 확대…만 62세 미만까지 지원",
+          "date": "2026-11-25"
+        },
+        {
+          "name": "뉴스웍스",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5RbGJLTTlDWS05TEI2aXhfemdoNzRyUXp0RG15Z0Y1NU84S1dtNjJhclRiblI5dUJrLW9PNHFsUHU4Q0Rlb0RMY3RweXlibVRBS255ejlVR3RaSUVkNmlJWFdwV2R0NmhDOEE0bjlOc9IBc0FVX3lxTFBucklJTEJJT3BaOGtncloyN2FzMXhzb0VsSzM2QzkwWXdiSHpqcER0Ykh0RDZ3Ykx5czN4TUNXZl9zOEdMZ1RFWFBVV2hWRUJIa0xnNUpkMXAxSXkxd2c4MjNySlZxUWpJVjVZNmxJbGhlajg?oc=5",
+          "title": "쿠팡풀필먼트서비스, 용인서 중장년 채용박람회…시니어 채용 확대",
+          "date": "2026-11-25"
+        },
+        {
+          "name": "팝콘뉴스",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9GMUhkQUxlalp2T2FDQTRhejJCbUxDWnZlRExtcVV5b0ZLUllkYnBidkVFdkdrN0Z0Yi1pOVRBNlQwUUhWM3RLSHhZWi1SR2x5cldpSzYtWVo5TzcxNnp5R2ZRNFlJUWxjVVZoa1FhR2xQd9IBckFVX3lxTE9GMUhkQUxlalp2T2FDQTRhejJCbUxDWnZlRExtcVV5b0ZLUllkYnBidkVFdkdrN0Z0Yi1pOVRBNlQwUUhWM3RLSHhZWi1SR2x5cldpSzYtWVo5TzcxNnp5R2ZRNFlJUWxjVVZoa1FhR2xQdw?oc=5",
+          "title": "쿠팡풀필먼트서비스, 중장년 채용 확대...만 62세 미만까지 문턱 낮춰",
+          "date": "2026-11-25"
+        },
+        {
+          "name": "뉴스웰",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5DcWRxaDZjZ3ZPdk5xMkNwb08zMDNTVEdweFl6SlNXRlc4UHkyOVFZTURXNmlYSjdDU01yN2hYU0RaelU2NHktaXlhY2F2NVEzUGJXTF8yZWZ0aWdfeEZsSllIT0dmZ0RaSzB0Mg?oc=5",
+          "title": "중장년 채용박람회 쿠팡풀필먼트서비스 “시니어 채용 확대”",
+          "date": "2026-11-25"
+        },
+        {
+          "name": "청년일보",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5nYTEzdFU0NHJCQ0dLX1VBV1pSNE1RZFh1ZFpIN0h4YU9RTFYxU3Fpb3RkX3U5UkJraFowdjBIcnMtOXJkbm5tYzVVV0dYTjJqOXVmNm5QdFg5R0NPTFlWd25pRmxMZ2c?oc=5",
+          "title": "쿠팡풀필먼트서비스, 용인서 중장년 채용박람회 개최",
+          "date": "2026-11-25"
+        },
+        {
+          "name": "경기신문",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5BWjRERldYcmVvdWU3aExZMXFqZmpjWEdlNHVHRXpEYzMzUnRHVGdfYW5jU2lIOFRhSUJ5RWROZkRKLVRlaTVpZTNlQzJJeU4zOVFMaThaTWh6WjRZVElGRHFR?oc=5",
+          "title": "이력서 들고 가면 당일 면접…쿠팡풀필먼트, 용인서 100여 명 모집",
+          "date": "2026-11-25"
+        },
+        {
+          "name": "지이코노미",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBCSlMyYWRBOHdhWHh2N3ZNVDVkSXJ6Zm9SYzF5QVBmaTVKREtEYjdOSEFyR3lDNWxrRUo1UlZraFJaTDR2QWhoaDlST0gxTGo2NlNOeTA1WUdWUEZmNTRkbGc0cEw5WEk?oc=5",
+          "title": "용인서 중장년 채용박람회 나선 쿠팡풀필먼트서비스…중장년 100여 명 모집",
+          "date": "2026-11-25"
+        }
+      ],
+      "date": "2026-11-25",
+      "id": "20261126-10"
+    },
+    {
+      "cat": "trend",
+      "importance": "low",
+      "company": "오프피스트",
+      "title": "2027 채용 트렌드 '피드업(Feed-up)'의 부상",
+      "body": "단순한 피드백을 넘어 미래의 목표와 성장에 집중하는 '피드업' 방식이 채용과 평가의 핵심으로 떠오르고 있어요. 급여 투명성이 공정성과 동기부여에 미치는 영향도 강조돼요.",
+      "insight": "MZ세대 인재들은 과거의 잘못을 지적받기보다 미래의 성장 가능성을 확인받고 싶어 해요. 채용 면접과 성과 면담 기법의 변화가 필요해요.",
+      "action": "면접관 교육 시 '피드업' 관점의 질문 리스트를 추가하여 도입해 보세요.",
+      "teams": [
+        "채용",
+        "조직문화·HRD"
+      ],
+      "tags": [
+        "채용트렌드",
+        "피드업",
+        "성과관리"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "오프피스트",
+          "url": "https://www.offpiste.ai/articles/-hr-인사이트---17-급여-투명성-공정성이-동기부여가-되는-메커니즘-2710",
+          "title": "hr 인사이트   17 급여 투명성 공정성이 동기부여가 되는 메커니즘",
+          "date": "2026-11-24"
+        },
+        {
+          "name": "오프피스트",
+          "url": "https://www.offpiste.ai/articles/피드백-말고-피드업-2027-채용-트렌드-피드업-뜻과-활용법-2764",
+          "title": "피드백 말고 피드업 2027 채용 트렌드 피드업 뜻과 활용법",
+          "date": "2026-11-24"
+        }
+      ],
+      "date": "2026-11-24",
+      "id": "20261126-09"
+    },
+    {
+      "cat": "labor",
+      "importance": "low",
+      "company": "업계 전반",
+      "title": "프리랜서 근로자성 판단 및 야간수당 지급 주의",
+      "body": "계약 형식과 관계없이 실질적인 업무 지휘·감독이 이뤄지면 근로기준법상 근로자로 인정되어 야간·휴일수당을 지급해야 한다는 판례와 가이드가 강조되고 있어요.",
+      "insight": "플랫폼 운영이나 콘텐츠 제작 시 활용하는 프리랜서 인력의 업무 방식이 근로자성 오인 소지가 없는지 점검해야 해요.",
+      "action": "현재 협업 중인 프리랜서/업무위탁 계약서와 실제 업무 지시 프로세스를 노무 검토해 보세요.",
+      "teams": [
+        "노무·ER"
+      ],
+      "tags": [
+        "근로자성",
+        "프리랜서",
+        "노무리스크"
+      ],
+      "our_group": false,
+      "sources": [
+        {
+          "name": "시프티 블로그",
+          "url": "https://shiftee.io/ko/blog/article/freelancer-night-work-pay-and-employee-status",
+          "title": "프리랜서 야간근로수당 지급 조건과 근로자성 판단 기준 알아보기 프리랜서 계약으로 일하더라도 근로기준법상 근로자에 해당하면 연장·야간·휴일근로수당이 적용됩니다. 근로자 해당 여부는 계약서의 ... 2026-11-09",
+          "date": "2026-11-26"
+        }
+      ],
+      "date": "2026-11-26",
+      "id": "20261126-11"
+    }
+  ]
+}
