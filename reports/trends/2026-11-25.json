@@ -1,29 +1,118 @@
 {
   "date": "2026-11-25",
   "article_count": 147,
-  "engine": "없음",
-  "headline": "오늘은 AI 분석이 실패해 기사 제목만 모았어요",
-  "summary": [],
-  "numbers": [],
-  "layoffs": [],
-  "hiring": [],
-  "roles": {
-    "up": [],
-    "down": []
-  },
-  "korea": [],
-  "analysis_error": "AI 분석 실패 — 모델 'gemini-3.8-flash'이 계속 혼잡해요 (HTTP 503) / 모델 'gemini-3.7-flash'이 계속 혼잡해요 (HTTP 429) / 모델 'gemini-3-flash-preview'이 계속 혼잡해요 (HTTP 503) / 모델 'gemini-flash-latest'이 계속 혼잡해요 (HTTP 503) / 모델 'gemini-flash-lite-latest'이 계속 혼잡해요 (HTTP 503) / 예비 AI 키(ANTHROPIC_API_KEY)가 없어 Claude는 건너뛰었어요",
-  "items": [
+  "engine": "gemini-3-flash-preview",
+  "headline": "AI 도입 가속화에 따른 글로벌 채용 시장의 재편과 직무 수요 변화",
+  "summary": [
+    "앤트로픽 고객사 3곳 중 2곳이 AI 도입 후 채용 규모를 축소하며 인력 대체 본격화",
+    "구글·애플 등 빅테크 기업의 조직 개편 및 특정 부문 타겟 감원 지속 발생",
+    "국내 시장은 7년 차 이상 고연차의 이직 시도가 늘어나며 경력직 중심 이동 활발"
+  ],
+  "numbers": [
     {
-      "id": "t20261125-f00",
-      "region": "global",
-      "importance": "low",
-      "company": "Virginia Business",
-      "title": "HII loses Navy contract, plans 58 Virginia Beach layoffs",
-      "body": "HII loses Navy contract, plans 58 Virginia Beach layoffs Virginia Business",
-      "insight": "",
-      "tags": [],
-      "date": "2026-11-25",
+      "value": "66%",
+      "label": "AI 도입 후 채용을 줄였다고 답한 앤트로픽 고객사 비율",
+      "dir": "down",
+      "sources": [
+        {
+          "name": "Digg",
+          "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBOUTVBOGlqaENTbkswY1JvRlk5cjh1UHNvM21YTnFxdkM1RXdOelVCZTVIcFFELVppQkJ2dlM5d2VVYnVU?oc=5",
+          "title": "Anthropic: Two-thirds of customer firms interviewed report hiring less because of AI",
+          "date": "2026-11-24"
+        },
+        {
+          "name": "한겨레",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9COGZSb1dfcldNVE1jZnI2WVliY0dqVjdYa0NSSFJ2V0pWdFNsT0FaLVFuZm9KeU5sVTNKQzZtb0h6TWx2NVBuZXFESXFhc1ZERUdZbThYY08yVHMwOS1JVA?oc=5",
+          "title": "“사람 대신 토큰 샀다”…앤트로픽 고객사 3곳 중 2곳 채용 줄여",
+          "date": "2026-11-24"
+        }
+      ]
+    },
+    {
+      "value": "12.2%",
+      "label": "전년 대비 증가한 국내 7년 차 이상 이직 준비자 비율",
+      "dir": "up",
+      "sources": [
+        {
+          "name": "아이뉴스24",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5Td3M5MDdORFpvcXE2eHZXVlNSUHA0ZHBEeGdMbTBQMFpmQXlEb1E2aHhualJtQ0J3YmctRkp4MmlndjdDd3JjOHRaUQ?oc=5",
+          "title": "올가을 이직 준비 나선 고연차…7년 차 이상 12.2%↑",
+          "date": "2026-11-25"
+        }
+      ]
+    },
+    {
+      "value": "20%",
+      "label": "AI 영향으로 감소한 인도 IT 캠퍼스 리크루팅 규모",
+      "dir": "down",
+      "sources": [
+        {
+          "name": "The Times of India",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOQnE2R212ZnpmZ0czT1B3TU9YckZtaExZQjBUZXhwZ0JRYVdPZUZtLXJPM2FpNFUxUTlJOFgtWHBzRWh2SDdSVVBfaFZTZ1RjcUp6R1FMczVNYlVZcDl2UDQ4LWxTQURHRUV5eEc2Y1hvMmd0RE1FZFFEamcwU29DVG5YX3dFMjlYZVBsQUdEaU9hbW5UOWMtay0yUUZ2b0liTjBsUkdJYmJqTDhFajZJZGE0cFk2U056b2xWaEZpcnpDNkh0QXlSMzF2akVvV0p2a2NWMm1xY1V3RXRuX1BVMEhDQzFJTVVVVVRz0gHwAUFVX3lxTE9HS213a3JOVTNtdkxDaUpXT05TUGZjdjU1MXkwbTAxdWppcU56WU5VcHR6NVVwQmxBNG94dU5ub2JFTzVxSTdhckJaYkktU0hSc0hsTFkwTHc1ZDBIQTRuYlZTbmxSekNTbUVMclo3Z243LTdzYnYxRHZ2NTBSbzhnNjFLa3B1V1pvSkRabEtaanNfbTE4ZWZjRlQ1Y0VDd3doTDV1TE1wT09Ra1J1N3l2S1JkQ2ljWjNwQWJHLVVYQjVsOXVjQjJaMjQ3YmxTNm1RVEduanB5ZTk1Nkxaa2RqR2tqSDduZXlQbjR5cDV3MQ?oc=5",
+          "title": "IT hiring in campus placements dips by up to 20% as AI reshapes entry-level roles",
+          "date": "2026-11-25"
+        }
+      ]
+    }
+  ],
+  "layoffs": [
+    {
+      "company": "Google Cloud",
+      "kind": "조직개편",
+      "size": "30명",
+      "pct": "-",
+      "note": "인도 내 클라우드 부문 업무 재우선순위화에 따른 감원",
+      "sources": [
+        {
+          "name": "BW People",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRnFFTDRwakVqcVNieEl1Nndtekxsd1JjVVVjcFlJN2lrQjN0dl9YOGNoblFIYWFfeFlPYlFqeU02WW4yWmtBM1VRcDM4ZkVRSW91SlJKcmVGc05EWVFWYjRZZ1VJS3l1MVhyWDNyUDRvN0FZalpwNDBRM010bnZaYzI2THdNWk5TeWU3SlVTVGtndk81amZrOHRlX29sTk0?oc=5",
+          "title": "Google Cloud Cuts 30 India Roles Amid Work Reprioritisation",
+          "date": "2026-11-24"
+        },
+        {
+          "name": "India Today",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNT1hlUkdUWU1wYldWMzNlOUFRTFQ0cVdrNUFyX0YzbG5VSG5YZ2g3NW1vcC1tUlVjTXhsa21sbUM4cmRCM2VobVBOakZ4X09mM2E4cjhmU3lTN0NsSWphLXE5WUtCdk1JN0VPcGJDX3hseElHX3daUUhSU1RMYmxodWJuRDVFWTVONnhFLVF3VWRYQkZhRkdicXlfVHBzNGhiSTltS2pqYkRfZ3NpanozZ0lpOGJaQmlzamxJWkRtRE4zQndxdUxOcHdvbmt1c0QtWmZ3Z1ZNZDM5c21mWFdZeG9jNNIB6AFBVV95cUxOY09qZEdtWlhCUmxTWm9TR2JXR1ZYYkV1MTE4S1U3dUYxcVhkODBHRHA1MWF5NF81WS0wUVUyM1VoSUVEanR2UjhrZ3hhcjNWdEVmcVp5SF8tc3FYNkFlb1VLTk9ENGhKOHJwOV9KYzNPbTEyZ2otZVVJSVZWN1JvM214cFlrSS1QZm9DNlVRSllkM1BHWFZ3NDhSQndkcEUycFBsRVhvUDdUYW9nUTJSX1oyb096U3YzenNfc09Rdk53QWNfM3ZQWWFMT2ptYldOVXc3dFR5R254UklwRGQyd1BFNHROcjZP?oc=5",
+          "title": "Google India says no mass layoffs, 30 jobs cut in cloud division due to organisational changes",
+          "date": "2026-11-24"
+        }
+      ]
+    },
+    {
+      "company": "Apple",
+      "kind": "감원",
+      "size": "미공개",
+      "pct": "-",
+      "note": "구형 Siri 시스템 팀 인력 감축 및 AI 팀 역량 집중",
+      "sources": [
+        {
+          "name": "Metaintro",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSGhWRWZMbW5XNkh5T1lTUm14UTN4TnJyNXhlbFgxT2htaTlPNC1KYWhtRFdVeTFnc0d5VlZDaW1SWndSVmlfYy1yS1hMSVktYzlYMkFuNzZfN3M3NWRibkZhUUp1ZEpaUjZMYzRiOE9BclFCWnlySnJEcHBlcEd1SFhnd0dRLXFucU5vVmdFTjJsM256YTlBVg?oc=5",
+          "title": "Apple Reportedly Cuts Staff on Older Siri Systems While Newer AI Teams Are Spared",
+          "date": "2026-11-24"
+        }
+      ]
+    },
+    {
+      "company": "Skyscanner",
+      "kind": "감원",
+      "size": "150명",
+      "pct": "-",
+      "note": "조직 변경 제안에 따른 대규모 인력 감축 직면",
+      "sources": [
+        {
+          "name": "Metaintro",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQLTBCdWN0ZlhfQ0JfY0ZCWldQb1ZiMjNXZHZJOXNDVGtYZjIzUzNRLW5yR09RTTRYQjFCcUt3RXlOeVNuc3RESDJTS1dQa3loeGRZNzlfNEoweFhwV1dsWHlnUzdVYnFRZHk0TE9YTExyUmU5SDRCSGMyR2JNb081V3BWRGE3dV9uSlkwa0s5SFY4RHhPTWww?oc=5",
+          "title": "Up to 150 Skyscanner Staff Face Job Cuts as the Travel Search Firm Proposes Changes",
+          "date": "2026-11-24"
+        }
+      ]
+    },
+    {
+      "company": "HII",
+      "kind": "감원",
+      "size": "58명",
+      "pct": "-",
+      "note": "해군 계약 상실에 따른 버지니아 비치 사업장 감원",
       "sources": [
         {
           "name": "Virginia Business",
@@ -32,367 +121,307 @@
           "date": "2026-11-25"
         }
       ]
-    },
+    }
+  ],
+  "hiring": [
     {
-      "id": "t20261125-f01",
-      "region": "global",
-      "importance": "low",
-      "company": "Yahoo Tech",
-      "title": "Tech layoffs 2026: Tracking the job losses across Disney, Intel, Amazon, Microsoft, Apple, Meta and others",
-      "body": "Tech layoffs 2026: Tracking the job losses across Disney, Intel, Amazon, Microsoft, Apple, Meta and others Yahoo Tech",
-      "insight": "",
-      "tags": [],
-      "date": "2026-11-24",
+      "company": "SBI",
+      "role": "Chief AI Officer",
+      "note": "약 1.6억 루피(한화 약 26억 원)의 파격적 처우 제시",
       "sources": [
         {
-          "name": "Yahoo Tech",
-          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQQ2s5eC1xX1E2SzVoNVdURXVzSkRDXzVRZG9oWkdLS3JURXlxZllWQS1DNGFIckEtMTlRQXBEV2h6UC1oZTVEV2dlSUl0MkZSTWRrdTlrZ2JKeHA3eDl0NmIwZldNVXRsVm1uZUlnVTlScXdxM2NuVHhfY3pBczloMzhicTAyNi1HSUttVVRKV0JzVlM1b3Ziem05ejYtbGE2aWhQdEpWN085Tkp3QnBhQzgyTTZGeXl0RlljMkhUU1FudGFmM3JYZzcwek40ZC1fbkliVmlRbjBtVEo2Rzh3RUlGU2EwanVpZnV0T2NNYkY2MGlsMWhjVlZIOGo?oc=5",
-          "title": "Tech layoffs 2026: Tracking the job losses across Disney, Intel, Amazon, Microsoft, Apple, Meta and others",
-          "date": "2026-11-24"
-        }
-      ]
-    },
-    {
-      "id": "t20261125-f02",
-      "region": "global",
-      "importance": "low",
-      "company": "Digiday",
-      "title": "Ad Tech Briefing: Meta eyes CTV as AppLovin circles Criteo, signs of the squeeze on independent ad tech",
-      "body": "Ad Tech Briefing: Meta eyes CTV as AppLovin circles Criteo, signs of the squeeze on independent ad tech Digiday",
-      "insight": "",
-      "tags": [],
-      "date": "2026-11-24",
-      "sources": [
-        {
-          "name": "Digiday",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVnF1d2VTcE1hYzNIQmQ3ODZMb1ZuYWFrV3pVVUhfZVNVaU12OXY4YmZ6S1pxbjZVTG9BR2pPWk9uUmxpUXNucmxJZWFROEZTYlVVbUU5aWhjRUZZTzU3OTZyMkJhVmFyOEJ2MEo2VXl1V3BmaG9TalZ4VjFaaHVFbVZpQlNFQlNPZTE2LUtMMXpsZ0kzb3FmUGFNY2IzcFQyTlhKdDRnVlNFWFVNRGlsbWNyWmxvWnBMQ3JRdkttUzdLai1ueE91bzdWMHpjemxS?oc=5",
-          "title": "Ad Tech Briefing: Meta eyes CTV as AppLovin circles Criteo, signs of the squeeze on independent ad tech",
-          "date": "2026-11-24"
-        }
-      ]
-    },
-    {
-      "id": "t20261125-f03",
-      "region": "global",
-      "importance": "low",
-      "company": "Counterpunch",
-      "title": "Big Tech Wanted to Make the World a Better Place. So What Happened?",
-      "body": "Big Tech Wanted to Make the World a Better Place. So What Happened? Counterpunch",
-      "insight": "",
-      "tags": [],
-      "date": "2026-11-24",
-      "sources": [
-        {
-          "name": "Counterpunch",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbDFQanZkeGZHbC1QYTVXZkZSRjJ6SjBJVWVsVU1YZlc3V0J1ZkhvTDM4cF90clpzcFFzdEJtdUVSalVFaW9BVzhwZm5QS2p1TlNSVXBidjRPY3FncFJjTnh2UkZfQ3pnOXcxRXJmYnpOcFRjR09jcDJtNDd2V0pPTFY2dWs2eWhVRUxjWXo1RmNpQ25yV1NuSk1vNFlMMThEaWdLdTdFM0FUUQ?oc=5",
-          "title": "Big Tech Wanted to Make the World a Better Place. So What Happened?",
-          "date": "2026-11-24"
-        }
-      ]
-    },
-    {
-      "id": "t20261125-f04",
-      "region": "global",
-      "importance": "low",
-      "company": "Metaintro",
-      "title": "Gopuff Cuts an Undisclosed Number of Jobs in Company-Wide Layoffs",
-      "body": "Gopuff Cuts an Undisclosed Number of Jobs in Company-Wide Layoffs Metaintro",
-      "insight": "",
-      "tags": [],
-      "date": "2026-11-24",
-      "sources": [
-        {
-          "name": "Metaintro",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5zQ3JOblFRdnduX19DQWxiQXJ2QmQtMlZVTkQ0R1JLbnFTSS1pQ3pqT0dDWVVTRWw4RW5ZSjBMZVdXOEhINFlJQTBzSzhMSmxtanoyNG9lMFIwX3luVlJJ?oc=5",
-          "title": "Gopuff Cuts an Undisclosed Number of Jobs in Company-Wide Layoffs",
-          "date": "2026-11-24"
-        }
-      ]
-    },
-    {
-      "id": "t20261125-f05",
-      "region": "global",
-      "importance": "low",
-      "company": "Instagram",
-      "title": "Google has dismissed rumors of mass layoffs in its Cloud division in India and confirmed that approximately 30 employees had been laid off the previous week. The speculation reportedly began with an anonymous post on Blind alleging widespread job cuts a",
-      "body": "Google has dismissed rumors of mass layoffs in its Cloud division in India and confirmed that approximately 30 employees had been laid off the previous week. The speculation reportedly began with an a",
-      "insight": "",
-      "tags": [],
-      "date": "2026-11-24",
-      "sources": [
-        {
-          "name": "Instagram",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9WYXNZNk1zU3piX1FuUXM1UVl2MU1vZWd0VjBhT3ZOVFFvN3I4QnZFdXh3MGtPUm1ZbWQ4cDRLNEd4OGlGUUV0MGk4V1FBSVVsN1E?oc=5",
-          "title": "Google has dismissed rumors of mass layoffs in its Cloud division in India and confirmed that approximately 30 employees had been laid off the previous week. The speculation reportedly began with an anonymous post on Blind alleging widespread job cuts a",
-          "date": "2026-11-24"
-        }
-      ]
-    },
-    {
-      "id": "t20261125-f06",
-      "region": "global",
-      "importance": "low",
-      "company": "Techloy",
-      "title": "Gemini in Chrome Review: My 3 Hands-On Tests",
-      "body": "Gemini in Chrome Review: My 3 Hands-On Tests Techloy",
-      "insight": "",
-      "tags": [],
-      "date": "2026-11-25",
-      "sources": [
-        {
-          "name": "Techloy",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4tUWRMcnVDczVvR0xhMUktajRucW81UmsxVmdVSHNwM0ZPUUgwZkJzeXpxb3BMVkV5S3laa0tmajhHSHdQbk9TRE9PVGxYVHlZaW8zZW9TaGYzLU9Q?oc=5",
-          "title": "Gemini in Chrome Review: My 3 Hands-On Tests",
+          "name": "TechGig",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdnA2SXNoRlJTWWpFOWcwUUw1VWdkVzlGVWVXdFNsMnNTN1l5NlB1dHBPX05hdGItMXkwOVRGSGJNTmNSU05hSU9hVDk3X2dGdkpCaWlOZEpJUGdSZE5XLW5HWHNDR1Y3Y1ZCV2VORUg3dDYwbnJfb3hPS2xqM0UwUXExWEg2Xzd0UmE3SGU3dTlSUUc0MzZrRXZtZzNkRk9QMFBuSzdOSFQ5REhEc2tLWTdiX0R1ZWswRUx4bGNTTUNWOTMxeThBVWhkRW5HNTA?oc=5",
+          "title": "SBI offers ₹1.6 crore for Chief AI Officer role",
           "date": "2026-11-25"
         }
       ]
     },
     {
-      "id": "t20261125-f07",
-      "region": "global",
-      "importance": "low",
-      "company": "Raconteur",
-      "title": "AI layoffs are a bet that could backfire",
-      "body": "AI layoffs are a bet that could backfire Raconteur",
-      "insight": "",
-      "tags": [],
-      "date": "2026-11-24",
+      "company": "Amazon",
+      "role": "Seasonal Staff",
+      "note": "연말 성수기 대응을 위한 계절직 채용 급증",
       "sources": [
         {
-          "name": "Raconteur",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9lNTlEZXRKUGZFWmJqZ3BWVzdUSHRESl9ZWjdkUV8wSFVhWW9VaWNKRmdiT3Z6NFFhSmVDWTZRcG5Ed0xtNnRRTTFhTEUzTlY1ekpCZ0NfajJ6N2FlU1ZwUnY4Zll3Rkg3MVE?oc=5",
-          "title": "AI layoffs are a bet that could backfire",
+          "name": "The Business Journals",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNjhWczBCVVR4b0ZoNDZMM09IUkJlQlNGLVJ2ZlZtbUVEeVREdFdaQUtnd2Zrd3lYVGFBY3Z2NWVpUTNpd0VYTHdsZU5vX3NWTlhtZWlDeExUOUdaY3JFdUc0UWxHY2dOZDJhcEtWY1draVhWU1Z2LXBxLTRnU2dtaUlwSk1oY08zbUxNMkZyM05DZ0pfYzByM0hmRUxGMDEzYjJR?oc=5",
+          "title": "Amazon drones take flight in Memphis, seasonal hiring surges",
           "date": "2026-11-24"
         }
       ]
     },
     {
-      "id": "t20261125-f08",
-      "region": "global",
-      "importance": "low",
-      "company": "Crain's Chicago Business",
-      "title": "Allstate silent amid reports of 5,000 job cuts as AI push accelerates",
-      "body": "Allstate silent amid reports of 5,000 job cuts as AI push accelerates Crain's Chicago Business",
-      "insight": "",
-      "tags": [],
-      "date": "2026-11-24",
+      "company": "네오플",
+      "role": "게임 기획자",
+      "note": "취업 한파 속 실무형 인재 육성을 위한 신입 기획자 채용",
       "sources": [
         {
-          "name": "Crain's Chicago Business",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQYXA4X3pzOFZiZGRBRWRDRl84V040eUdDX0otVko3VHRycWx2WUFKX2NrcUdCQ204dl9Tc0dHYmJJV0JtMDJ2d3JkeFlkUlNFOXRqcXg1Mng1VDdUOTdWc0dlMHFrS0tOOHpQR09BYTZKNHJBM2xwdHNOMXBBbnotc0xB?oc=5",
-          "title": "Allstate silent amid reports of 5,000 job cuts as AI push accelerates",
+          "name": "데일리게임",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5YVGlnV1AydG1YbXdqckdfMXNNQ2I1X3VPOEhvMFZhUWJjaGhsbENFcVlJb09IS1RDeDVjbDVYM0JRTVJxZUY4LV9pXzhBMUZueVNRbEMxbFJDOWw2WTR2ZFBXTm9Tb3M1eldQaFdlbEFtTnFVTm9EQUt2OA?oc=5",
+          "title": "취업 한파에도 신입 기획자 모으는 네오플, 실무형 인재 육성 지원",
           "date": "2026-11-24"
+        }
+      ]
+    }
+  ],
+  "roles": {
+    "up": [
+      {
+        "name": "AI 에이전트 개발자",
+        "why": "애플 등 빅테크의 자율형 AI 에이전트 개발 경쟁 심화"
+      },
+      {
+        "name": "Sales Operations",
+        "why": "효율적인 영업 프로세스 관리를 위한 전문 인력 수요 증가"
+      },
+      {
+        "name": "Chief of Staff",
+        "why": "조직 복잡도 증가에 따른 경영진 보좌 역할 중요성 증대"
+      },
+      {
+        "name": "AI 컨설턴트",
+        "why": "기업들의 AX(AI 전환)를 이끌 전문 인력 양성 활발"
+      }
+    ],
+    "down": [
+      {
+        "name": "주니어/엔트리 개발자",
+        "why": "AI가 코드 작성 및 문서화 업무의 상당 부분 대체"
+      },
+      {
+        "name": "구형 AI 시스템 운영",
+        "why": "차세대 AI 모델 전환으로 인한 기존 시스템 인력 감축"
+      },
+      {
+        "name": "단순 사무직",
+        "why": "미국 내 신입 사무직 공고에서 학위 요구 조건 삭제 추세"
+      }
+    ]
+  },
+  "korea": [
+    {
+      "company": "잡코리아",
+      "note": "7년 차 이상 경력직 이력서 갱신은 늘고 저연차는 감소하는 양극화 현상",
+      "sources": [
+        {
+          "name": "아이뉴스24",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5Td3M5MDdORFpvcXE2eHZXVlNSUHA0ZHBEeGdMbTBQMFpmQXlEb1E2aHhualJtQ0J3YmctRkp4MmlndjdDd3JjOHRaUQ?oc=5",
+          "title": "올가을 이직 준비 나선 고연차…7년 차 이상 12.2%↑",
+          "date": "2026-11-25"
+        },
+        {
+          "name": "한국면세뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9fVlM4Q1lJaW9hUzJFZ0NPRFQyeDB3eUFBNXBqN2k5cWRGVmhOSE0zSTlLMFd2N1ZFZ0ttSC14V00xX3VOSFNlc05wc0loV3RpVDU0TGlUUXF2WkhBLUJVVTNXLUE2NzVYbVE?oc=5",
+          "title": "잡코리아, 7년 차 이상 이력서 갱신 늘고 저연차는 감소",
+          "date": "2026-11-25"
         }
       ]
     },
     {
-      "id": "t20261125-f09",
-      "region": "global",
-      "importance": "low",
-      "company": "Instagram",
-      "title": "An ex-Microsoft employee who spent 24 years at the company said she received an invitation to a layoff meeting while delivering a 90-minute training session on how engineering teams could use AI tools to create their own documentation. In a LinkedIn post,",
-      "body": "An ex-Microsoft employee who spent 24 years at the company said she received an invitation to a layoff meeting while delivering a 90-minute training session on how engineering teams could use AI tools",
-      "insight": "",
-      "tags": [],
-      "date": "2026-11-24",
+      "company": "업스테이지",
+      "note": "서울시와 협력하여 기업 AI 전환을 이끌 AX 컨설턴트 양성 과정 운영",
       "sources": [
+        {
+          "name": "데브타임즈",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5WNXBReGtYYjNuNEFfVjA2MkR1NEw2SUQ1Y1Y2VFlfazFiWkFzUFFXLThHSnJuYlRMbGRDSElMX01ld1hCTHNaSEUybWlOMVE?oc=5",
+          "title": "업스테이지와 함께 기업 AI 전환 이끌 인재 키운다… 서울시 SeSAC, 'K-AI AX 컨설턴트 양성과정' 교육생 모집",
+          "date": "2026-11-25"
+        }
+      ]
+    },
+    {
+      "company": "넥슨",
+      "note": "신작 2종 동시 출격 및 글로벌 게임 대회 개최로 개발/운영 활력",
+      "sources": [
+        {
+          "name": "청년일보",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE01eWV3eEtQN3BiaVJfVFh5VEVhaWxseFpQc3lTS2tJR0oyTkNTWXphaHJySE9udnY3OE9EN19lMVpVRmhDQ0hsTUVXaG9HLU1XWllSSVlxRU9EUzl5UklhZGtEWDJqR2s?oc=5",
+          "title": "'템빨'·'아주르'로 흥행 승부수…넥슨, 11월 26일 신작 2종 동시 출격",
+          "date": "2026-11-25"
+        },
+        {
+          "name": "청년일보",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBvblV6MWJLN0lWOVJmdjJJdWtlQXJfR2ZZMTd4dnJVam9LUW5Cekg1OHAzZVBLbWxzOGI0RVBSSVJtel83ZVhUWVJRNG5DWHBYZTFsY1RXeE1PNzJ2SDJBUUNWZ2NwQjQ?oc=5",
+          "title": "넥슨 '더 파이널스', 상금 20만달러 걸린 '글로벌 왕좌 경쟁' 돌입…'그랜드 메이저' 27일 개막",
+          "date": "2026-11-25"
+        }
+      ]
+    },
+    {
+      "company": "바른채용인증원",
+      "note": "채용 공정성 강화를 위한 채용감사인 자격 과정 개설",
+      "sources": [
+        {
+          "name": "한경매거진",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1vejNqUFN4R0ZUUDZRX3pVYmtOVE1LVDJpQTdGQ1ZjWnlYcnJjU1Bhd1gyZ3Vyd3VVdUt1dHAxZ3BJRU1aMnBVVzRjYVhuWUkwMktxbmxfUVFyNDhfX2kxZGswNnBuaFplWEk0?oc=5",
+          "title": "\"사후 적발 넘어 예방감사로\"…바른채용인증원, 채용감사인 2급 개설",
+          "date": "2026-11-24"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "t20261125-00",
+      "region": "global",
+      "importance": "high",
+      "company": "Anthropic",
+      "title": "AI 도입 기업 66%, 실제 채용 규모 축소 확인",
+      "body": "앤트로픽의 조사 결과, AI를 도입한 기업의 2/3가 채용을 줄였다고 답했습니다. 이는 AI가 단순 보조를 넘어 인력 대체 단계에 진입했음을 시사합니다.",
+      "insight": "커넥트웨이브도 단순 반복 업무 비중이 높은 직무의 JD를 재검토하고, AI 활용 능력을 필수 역량으로 정의해야 해요.",
+      "tags": [
+        "AI대체",
+        "채용규모",
+        "인력구조"
+      ],
+      "sources": [
+        {
+          "name": "Digg",
+          "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBOUTVBOGlqaENTbkswY1JvRlk5cjh1UHNvM21YTnFxdkM1RXdOelVCZTVIcFFELVppQkJ2dlM5d2VVYnVU?oc=5",
+          "title": "Anthropic: Two-thirds of customer firms interviewed report hiring less because of AI",
+          "date": "2026-11-24"
+        },
+        {
+          "name": "한겨레",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9COGZSb1dfcldNVE1jZnI2WVliY0dqVjdYa0NSSFJ2V0pWdFNsT0FaLVFuZm9KeU5sVTNKQzZtb0h6TWx2NVBuZXFESXFhc1ZERUdZbThYY08yVHMwOS1JVA?oc=5",
+          "title": "“사람 대신 토큰 샀다”…앤트로픽 고객사 3곳 중 2곳 채용 줄여",
+          "date": "2026-11-24"
+        }
+      ],
+      "date": "2026-11-24"
+    },
+    {
+      "id": "t20261125-02",
+      "region": "korea",
+      "importance": "high",
+      "company": "국내 채용 시장 전반",
+      "title": "7년 차 이상 고연차 이직 시장 활성화",
+      "body": "국내 고연차(7년 차 이상)의 이직 준비가 전년 대비 12.2% 증가한 반면, 저연차는 감소하며 경력직 중심의 시장 재편이 뚜렷합니다.",
+      "insight": "다나와·에누리 등 그룹사 내 핵심 도메인 지식을 갖춘 시니어급 인재 소싱에 집중하기 좋은 시기예요.",
+      "tags": [
+        "경력직",
+        "이직트렌드",
+        "시니어"
+      ],
+      "sources": [
+        {
+          "name": "아이뉴스24",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5Td3M5MDdORFpvcXE2eHZXVlNSUHA0ZHBEeGdMbTBQMFpmQXlEb1E2aHhualJtQ0J3YmctRkp4MmlndjdDd3JjOHRaUQ?oc=5",
+          "title": "올가을 이직 준비 나선 고연차…7년 차 이상 12.2%↑",
+          "date": "2026-11-25"
+        },
+        {
+          "name": "한국면세뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9fVlM4Q1lJaW9hUzJFZ0NPRFQyeDB3eUFBNXBqN2k5cWRGVmhOSE0zSTlLMFd2N1ZFZ0ttSC14V00xX3VOSFNlc05wc0loV3RpVDU0TGlUUXF2WkhBLUJVVTNXLUE2NzVYbVE?oc=5",
+          "title": "잡코리아, 7년 차 이상 이력서 갱신 늘고 저연차는 감소",
+          "date": "2026-11-25"
+        }
+      ],
+      "date": "2026-11-25"
+    },
+    {
+      "id": "t20261125-05",
+      "region": "global",
+      "importance": "high",
+      "company": "Microsoft",
+      "title": "AI로 인한 소프트웨어 엔지니어링의 변화",
+      "body": "마이크로소프트 임원은 본인 업무의 90%가 AI로 대체되었다고 언급하며, 엔지니어의 역할이 코딩에서 AI 관리로 변하고 있음을 강조했습니다.",
+      "insight": "개발자 채용 시 코딩 테스트 외에도 AI 도구를 활용한 문제 해결 능력을 평가 항목에 넣는 것을 고려해 보세요.",
+      "tags": [
+        "개발자채용",
+        "AI코딩",
+        "직무변화"
+      ],
+      "sources": [
+        {
+          "name": "Education Times",
+          "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNNTRiaGJHWUU0NVh6ZHR4N2YzX3VXSlhPTWdibUQ2OG9LSHB3RTBWQmd4Q2tnek9jLTRzUmdiMWlWYTlQZ0RFeGdFY0FDYi1YblRTN1lNaGtaV3dqYkxXVUNZMGhLZXZsV2pyMEszUEpMc01EWTVjY3VFRjhrZnlHMlprNk53OXo5akRfSHlBeHNZYTJ6T01QbC04VEtRN0tEd3ZzcHRtM25QSFU2dlk5YTVsc0haZXlRZG9sZ0RSSnBtT2R2VnhXWGlhdDQxbEVOVVVCR1NuTVFFTTNNYjRDMWtnVmJnVXVNMWoxNUJWMUhoZ3NlWnRBWFF3?oc=5",
+          "title": "'90% of my work has been replaced': Microsoft executive explains how AI is changing software engineering",
+          "date": "2026-11-25"
+        },
         {
           "name": "Instagram",
           "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1xMHZoUWpkckY2WFJHVDEzUzM0Z1RWdVhjLWI5a25FOGtVQXZkT0dyNXAybVVyU2NwcERzZFZoLUtzQTVpcjdrS0g3eHhpSnhpWFE?oc=5",
           "title": "An ex-Microsoft employee who spent 24 years at the company said she received an invitation to a layoff meeting while delivering a 90-minute training session on how engineering teams could use AI tools to create their own documentation. In a LinkedIn post,",
           "date": "2026-11-24"
         }
-      ]
+      ],
+      "date": "2026-11-25"
     },
     {
-      "id": "t20261125-f10",
+      "id": "t20261125-03",
       "region": "global",
-      "importance": "low",
-      "company": "Metaintro",
-      "title": "Mad Cave Confirms Staff Reductions and Changes to Publishing Plans",
-      "body": "Mad Cave Confirms Staff Reductions and Changes to Publishing Plans Metaintro",
-      "insight": "",
+      "importance": "mid",
+      "company": "Google Cloud",
+      "title": "구글 클라우드, 인도 내 30명 타겟 감원",
+      "body": "대규모 감원 루머는 부인했으나, 조직 개편 및 업무 우선순위 조정에 따라 인도 내 클라우드 인력 30명을 감축했습니다.",
+      "insight": "빅테크도 수익성이 낮은 부문은 과감히 정리하고 있어요. 우리도 솔루션별 인력 효율성을 상시 점검할 필요가 있습니다.",
       "tags": [],
-      "date": "2026-11-24",
       "sources": [
         {
-          "name": "Metaintro",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBldzd4QXdqQnVCaU8yVVp6X0lYYkowWDh1ekZ5Z2J6emJ1dmdsZ0Q5enpGaWxOWmNUNjNjZWF5RFVjWk9VWE9GQmR2YlZEMzNjQXY2RUF2OWMtZVZDYkxEOFZn?oc=5",
-          "title": "Mad Cave Confirms Staff Reductions and Changes to Publishing Plans",
+          "name": "BW People",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRnFFTDRwakVqcVNieEl1Nndtekxsd1JjVVVjcFlJN2lrQjN0dl9YOGNoblFIYWFfeFlPYlFqeU02WW4yWmtBM1VRcDM4ZkVRSW91SlJKcmVGc05EWVFWYjRZZ1VJS3l1MVhyWDNyUDRvN0FZalpwNDBRM010bnZaYzI2THdNWk5TeWU3SlVTVGtndk81amZrOHRlX29sTk0?oc=5",
+          "title": "Google Cloud Cuts 30 India Roles Amid Work Reprioritisation",
+          "date": "2026-11-24"
+        },
+        {
+          "name": "India Today",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNT1hlUkdUWU1wYldWMzNlOUFRTFQ0cVdrNUFyX0YzbG5VSG5YZ2g3NW1vcC1tUlVjTXhsa21sbUM4cmRCM2VobVBOakZ4X09mM2E4cjhmU3lTN0NsSWphLXE5WUtCdk1JN0VPcGJDX3hseElHX3daUUhSU1RMYmxodWJuRDVFWTVONnhFLVF3VWRYQkZhRkdicXlfVHBzNGhiSTltS2pqYkRfZ3NpanozZ0lpOGJaQmlzamxJWkRtRE4zQndxdUxOcHdvbmt1c0QtWmZ3Z1ZNZDM5c21mWFdZeG9jNNIB6AFBVV95cUxOY09qZEdtWlhCUmxTWm9TR2JXR1ZYYkV1MTE4S1U3dUYxcVhkODBHRHA1MWF5NF81WS0wUVUyM1VoSUVEanR2UjhrZ3hhcjNWdEVmcVp5SF8tc3FYNkFlb1VLTk9ENGhKOHJwOV9KYzNPbTEyZ2otZVVJSVZWN1JvM214cFlrSS1QZm9DNlVRSllkM1BHWFZ3NDhSQndkcEUycFBsRVhvUDdUYW9nUTJSX1oyb096U3YzenNfc09Rdk53QWNfM3ZQWWFMT2ptYldOVXc3dFR5R254UklwRGQyd1BFNHROcjZP?oc=5",
+          "title": "Google India says no mass layoffs, 30 jobs cut in cloud division due to organisational changes",
+          "date": "2026-11-24"
+        },
+        {
+          "name": "NDTV",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcmFDTmpGVXJqVmZEdlAzYkVvc0NJN2xjNHBpeDRDbmtoRTB0dUZiQk8xNl9Ya0NfUXA5dl9RVl90M3ZtajhYdW9aaTVxUFlJTEtpNS1sSkRSUlJwbFBVV2tOTm1qRnBldnFWTVV0Z2VfWThOUFFYSm5nNFpraVpPMVBOUlU4Q2ItUWY2TEdlVGV6Q3JFLWJoemYwMUwyeFE3d2twbWc0d01hS0ZTdmxTRGtTWko4cFBMMjBETmh2WnlqcVRWd3MxRDlkSdIB0wFBVV95cUxOeEp5NDlLbzQzLVlvN3ZLdXJ4WXJhNGppNDlWWDdSNW53RjFNU1BuUHRPeUlLaUhfSWVuNmlEa0t4Yi13aV9wME1oT1R1emw4MHhDYVlFNDJrQ2p3MWdvZFVlOVNXU3BQajFraWdocWtUR2dGckxnVHlqS2t5OVdobU5mUjRxeVMzcHBwZFYyZlE4T0JIMG1EckE0Z2ZzQ19jUXVfdG5YdWozejNPQ2o3RXBfZXNEa3YzZU9ZUGR4OGpZTFJCZTlyTXZWejZ1U1g0dlp3?oc=5",
+          "title": "Google Dismisses Mass Layoff Rumours In India, Says Only 30 Cloud Roles Cut: \"Totally Inaccurate\"",
           "date": "2026-11-24"
         }
-      ]
+      ],
+      "date": "2026-11-24"
     },
     {
-      "id": "t20261125-f11",
+      "id": "t20261125-01",
       "region": "global",
-      "importance": "low",
-      "company": "People Matters - HR News",
-      "title": "AI in HR: NAB apologises after automated emails reveal plans to cut 2,500 jobs",
-      "body": "AI in HR: NAB apologises after automated emails reveal plans to cut 2,500 jobs People Matters - HR News",
-      "insight": "",
+      "importance": "mid",
+      "company": "IBM",
+      "title": "비자 소지자 대상 자발적 퇴직 유도",
+      "body": "IBM이 최대 사업부 내 H-1B 비자 및 영주권 소지자들에게 2026년 말까지 퇴사할 수 있는 옵션을 제시하며 인력 조정을 진행 중입니다.",
+      "insight": "글로벌 테크 인재들의 유동성이 커지는 시점이에요. 해외 경력을 가진 한국인 인재들의 리턴 수요를 공략해볼 만해요.",
       "tags": [],
-      "date": "2026-11-24",
       "sources": [
         {
-          "name": "People Matters - HR News",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPUnRGZlA5aUNSMFZ4OXN5bGtXbU1kWjJROHJ5Z0xqSmIzV1F6ZEhZWW1RUkdrOEExanVjUklJUHhmTElBbkprVlVSVWNiUnNCNGpHMEt3d0FJRVpZMkhkbjhnYXY2TG5tR0Q4TzNMUnM5OUVQdUJiUUo4c1V2WjA5MDFSSlJRQm43VXItZkVWVlFHbXpFX2wtcURsN1kxZjdOLWczNHJSZXFNWnczS2ZpajRzX1FVRVN3TmVYc3RRSERaNTZPajcyS21DSER2Zw?oc=5",
-          "title": "AI in HR: NAB apologises after automated emails reveal plans to cut 2,500 jobs",
-          "date": "2026-11-24"
-        }
-      ]
-    },
-    {
-      "id": "t20261125-f12",
-      "region": "global",
-      "importance": "low",
-      "company": "Metaintro",
-      "title": "About 30 Google Cloud Jobs Cut in India as Company Shoots Down Mass Layoff Fears",
-      "body": "About 30 Google Cloud Jobs Cut in India as Company Shoots Down Mass Layoff Fears Metaintro",
-      "insight": "",
-      "tags": [],
-      "date": "2026-11-24",
-      "sources": [
-        {
-          "name": "Metaintro",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZjlzTlhVbHVpU3EtVHIxWnQwT1RrSTJwMGJQMTl1MTl6RURwSU0wMlg2NWVLLUZRN2J4T2lOb1dFdllWajBDS3dWZnFvMGd5aDJOY2JEY04zVVpwQUZmd05jUENLTGRmRkstMnRZMnNZNW9fOVJjT0RUSGRpUUoxbUJ3ZVRCQXdBOFoyWDVSUQ?oc=5",
-          "title": "About 30 Google Cloud Jobs Cut in India as Company Shoots Down Mass Layoff Fears",
-          "date": "2026-11-24"
-        }
-      ]
-    },
-    {
-      "id": "t20261125-f13",
-      "region": "global",
-      "importance": "low",
-      "company": "Mashable",
-      "title": "Microsoft CEO explains reason behind the 60,000 buyouts (it's AI, of course)",
-      "body": "Microsoft CEO explains reason behind the 60,000 buyouts (it's AI, of course) Mashable",
-      "insight": "",
-      "tags": [],
-      "date": "2026-11-24",
-      "sources": [
-        {
-          "name": "Mashable",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE55bm5OOEMxNTNvbGlLeWsxZ2o5d0IyUHI4N210ZElSRnRkV211d2VUaXNOdmpyWURPZW0xNHZUcXNMc3dpWXFCdlRWTHVjWWw2WWlmY2llLXRvV0xLaFRtNnB1bWZaMWZMeTZ4czRR?oc=5",
-          "title": "Microsoft CEO explains reason behind the 60,000 buyouts (it's AI, of course)",
-          "date": "2026-11-24"
-        }
-      ]
-    },
-    {
-      "id": "t20261125-f14",
-      "region": "global",
-      "importance": "low",
-      "company": "Business Standard",
-      "title": "Google Cloud cuts 30 jobs in India, dismisses wider layoff speculation",
-      "body": "Google Cloud cuts 30 jobs in India, dismisses wider layoff speculation Business Standard",
-      "insight": "",
-      "tags": [],
-      "date": "2026-11-24",
-      "sources": [
-        {
-          "name": "Business Standard",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNd2ZZSksxeEtYRHFIOGVMZHZ2WXJtTC1WclF1ekxPLWQ2QWVzQmhJYWpFc0RSdjhYRm4teTg0WmYtMFZrem1PU2JpWXlJbjQxaV9tTF9PTnF1MXhBZmo4VmdUeWI1MGtZYWg1ajlweG03TUowSDVwQVJlRGxnUlpRZU43U184WDFUY0tDOFhSNDEzSEh5ejhmVXBXREp4ZzV3LTVCbEVicWdHSXUtaVlJYXprZEF6RFk0WWR3SVNXN01WcGZxZ29TOXFRMHhOelllb0VHWnUyVXVrNVFp0gHiAUFVX3lxTE8wWlhfRzlfYS1QQ2xUdnMwNWt6QW5KMWlfR19GNmlieDRndk1BTzBmV1VKdnJYcE5nOWpqcExfZ01iTVlCaExwZkRhZUJEVGZmZTAxMkNmcVg3U3RCUEx1RjNTU0F1UkxfV1Y1ZVV2c1BQVmZJMFhqUzJkYkNROWo5djBxNzRNTDBKTWUwcWNWeG5kS242YW41a2pKQkZvblZJLUN0OHhjX3hOY3kwWnktZmNEeTQ3b05ndWsxcERwWlVkSmtxY1RZcURVRE54ZVlueHNZbWhINFNkRUZ1RHctd0E?oc=5",
-          "title": "Google Cloud cuts 30 jobs in India, dismisses wider layoff speculation",
-          "date": "2026-11-24"
-        }
-      ]
-    },
-    {
-      "id": "t20261125-f15",
-      "region": "global",
-      "importance": "low",
-      "company": "The Hindu",
-      "title": "Google denies rumours of large-scale layoffs in India",
-      "body": "Google denies rumours of large-scale layoffs in India The Hindu",
-      "insight": "",
-      "tags": [],
-      "date": "2026-11-24",
-      "sources": [
-        {
-          "name": "The Hindu",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaklWbkstRkwwUVdueDFyX0YzNkNjRS1KYTZRcDc5TkFNYmlVMDJyVzZEa0NhVGxTRDNTdmpiT2I3Z3ZLWXRmeC1EVzJvODhxWmVmaXRBeDlmNERFVW9MZVlHTlBtcVMtTmZtUkt1cVF6RUU1SjR5UG5OMUVRRGU3LWxaUlIyT0FJckl5R0Fyd0wxUUZVbHJwd09OTkpZcnNZMGRTc2pGQVV3U2QxMnRoRkZfenl3dllad3fSAcABQVVfeXFMUDVURnRlNlBlYTN2ck9qVDFxM1ZrbjF2aERtQnQ1ZGVQamdUVGFxUE1RM05nV2UtU3FJYkhSdk9acy0zVWhCQmhsRFZVNVdfNlZ1OFZwVDJ5aS10UERPc3NUVE9hUDAtUkFzQmRGaTE0WTB2cmdjY2Rla3pYdEVqdi0tU1Z1cGF0NllhRGRtWTZpRjBPanhSOTR3cXZ3dXZNZk5QNVdoYXhsRlVndGE5UlE3QmhxNDFzVk9ubWdnUUZZ?oc=5",
-          "title": "Google denies rumours of large-scale layoffs in India",
-          "date": "2026-11-24"
-        }
-      ]
-    },
-    {
-      "id": "t20261125-f16",
-      "region": "global",
-      "importance": "low",
-      "company": "The South First",
-      "title": "Google says 30 Cloud jobs were cut in India, denies large-scale layoffs in Bengaluru",
-      "body": "Google says 30 Cloud jobs were cut in India, denies large-scale layoffs in Bengaluru The South First",
-      "insight": "",
-      "tags": [],
-      "date": "2026-11-24",
-      "sources": [
-        {
-          "name": "The South First",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRHYxeUVrMHJPLUM5UG9VRGhlTmZVTVlBWXI0Q2NfZG12NkJUZERXMmlDZFUwUWltdUJWM3FXdDFBc2dKNEFENVhNMHFQN2t1OVJoV3F0Y0FsQnhEdThQcG1oZEh0QVJUemRXV3FxSlgxWm9ENWI3X3Y4VTFzMloydm5GS1NLN0FUc2dhd0JITWFsTDBvS3pzRmRkUWQ2eXZOdUppY0F3Q0V6WTZDeF80Z2VCdEdHdWs4aG1BMmd5SmNTUQ?oc=5",
-          "title": "Google says 30 Cloud jobs were cut in India, denies large-scale layoffs in Bengaluru",
-          "date": "2026-11-24"
-        }
-      ]
-    },
-    {
-      "id": "t20261125-f17",
-      "region": "global",
-      "importance": "low",
-      "company": "Yahoo Finance",
-      "title": "Microsoft CEO Satya Nadella Offered 60,000 Employees Buyouts So Everyone 'Felt Like They Had Agency' — Yet Insists Software Engineering Is 'Very Much Alive'",
-      "body": "Microsoft CEO Satya Nadella Offered 60,000 Employees Buyouts So Everyone 'Felt Like They Had Agency' — Yet Insists Software Engineering Is 'Very Much Alive' Yahoo Finance",
-      "insight": "",
-      "tags": [],
-      "date": "2026-11-24",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPU0R3eHNQcHNSQ2xEQVllemJnRlhHWTFjanZDTVZpREU1cUF0azV2anhJU2VlazRoS3BDbWxhQk1pcDluQzZRVTBTNU83RE9fRHdWS1g4R3NZT3NJN1hrTVd5cjZLb3NCMjRQZzlDT1FHam9MUm9KREVEVlN6ZnZETmh6dDF4UktMY05NSHYwZ2hxNmZCaDRaV1diZ3hJQ2ZB?oc=5",
-          "title": "Microsoft CEO Satya Nadella Offered 60,000 Employees Buyouts So Everyone 'Felt Like They Had Agency' — Yet Insists Software Engineering Is 'Very Much Alive'",
-          "date": "2026-11-24"
-        }
-      ]
-    },
-    {
-      "id": "t20261125-f18",
-      "region": "global",
-      "importance": "low",
-      "company": "The Denver Post",
-      "title": "Veteran journalist Brian Maass out at CBS Channel 4 amid buyouts",
-      "body": "Veteran journalist Brian Maass out at CBS Channel 4 amid buyouts The Denver Post",
-      "insight": "",
-      "tags": [],
-      "date": "2026-11-24",
-      "sources": [
-        {
-          "name": "The Denver Post",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNajNnLTdPdTZjUDFrM0NEWEVmSzRGMVpDcVY1WGlzU3V4bHVkQkdIZnpxbkF6MWp6cnBFejlvdG80bnhNWnQ3MEJOQ180SnA0MGdSLTRFZzU2RXU4c1dneUxEb1JjSWpEYUZIYnNCZ3FNa3o5aWZIdWhqV3JQTFZiSzNzdXpYdw?oc=5",
-          "title": "Veteran journalist Brian Maass out at CBS Channel 4 amid buyouts",
-          "date": "2026-11-24"
-        }
-      ]
-    },
-    {
-      "id": "t20261125-f19",
-      "region": "global",
-      "importance": "low",
-      "company": "Revelio Labs",
-      "title": "Workforce analytics examples using labor market data",
-      "body": "Workforce analytics examples using labor market data Revelio Labs",
-      "insight": "",
-      "tags": [],
-      "date": "2026-11-25",
-      "sources": [
-        {
-          "name": "Revelio Labs",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQS0xOUo1QWdRX3lPRkYxYU1ZaFlMUTc2WURzWG1qWk03MXlxSUVPRUN1WXZ2RDdLcVE0UkVueXd6UktLZmVENzZBeGNsS3BqMV9fUEpJU21sTjVhTFhzeW5wMTRBZGdMZWxwT3VkSmhwaklDMnUyc1ByRXc0QWxEdU9BVldJdw?oc=5",
-          "title": "Workforce analytics examples using labor market data",
+          "name": "The Times of India",
+          "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPZEdFT1JXV1JORzRJWDhMd0E5SVBmTDFEWmFtQWhvU1JhZ2V0SU5peHBlbkJhcGFlbnJZZU9CWmJ0MG1oT3B2cnlSMUJCdWo2ck9QVmg0M3dpYWUzclFOUzZCUlJSMUNQcXFGbHYwajVxdUVpYXhibGpoR0Z0N3hOcG1kTjJyaEhzNF85aVYzaUZwMkR0NVJyQ2ltOGpuNkYwSVRuUzNyajloTVk1RlROelBuUE93cm9hWEFETGdodHJmNXJtZmljNFQ5UHM4aWx5Z0VKMXZKeVhEbFIzMzFIck9EUm1HQkplNDlodWQya1h5Y2lTd2RRaHhoNk1Hbk5OOEthS2FwZVIwazNaZzdMV0hUNm1EYU5XRklwQ1Bvbm1CVFpyNWhOWHQ5d2VEUdIBswJBVV95cUxPSGJjRmQ2dk1hSDk2c3k4NHg1Y3FDeW1XMDFNSzNwS1NYU2k3aEVBX1lBTFZpWDhhR1M2dWx4YnhwR3hWQ1NmOU93aWJxZjJMb1JueGFjMWxJYjVCRjYxSTVDbm1iVGxqTUlodWwxb0xSa3FmR3VfaExnNFRON0RGbzByaFMyZXQ2ekdvNjlTME40eGhaOGtOTGFKQkdyLVExQTBUclhPbTVjcnVmU2tRQlIyRldHRkhfUHNuN0ZMbnlzRVZ1LW93aExmTmN3MVpKTG42OE9FVDBmbWpaSXlWMDI2R3I2eHJIQzJSRTF0Z0lNSTBYWEpScXpWOVB4WFdpZGxZZ25EcWdYUE5GZjBDUTBmTkNESXRBN1BKMWxGQ25xV2VsT0l5bUl1cW9TRmNESEFV?oc=5",
+          "title": "IBM to H-1B visa and green card holders in its biggest division: You can leave the company by end of 2026",
           "date": "2026-11-25"
         }
-      ]
+      ],
+      "date": "2026-11-25"
+    },
+    {
+      "id": "t20261125-04",
+      "region": "global",
+      "importance": "low",
+      "company": "Amazon",
+      "title": "채용 차별 금지 위반 판결 주의보",
+      "body": "아마존이 이란 출신 엔지니어를 채용하지 않아 온타리오 인권법 위반 판결을 받았습니다. 채용 과정의 투명성과 비차별 원칙이 강조됩니다.",
+      "insight": "글로벌 물류(몰테일) 채용 시 국적이나 배경에 따른 차별 요소가 없는지 평가 프로세스를 점검해야 합니다.",
+      "tags": [],
+      "sources": [
+        {
+          "name": "The Globe and Mail",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYXdod05ldzE5ck50RXR0a1QwYlZYai1mNlRtUFFVcnNnVkNZckVyenppS3RDeUVKcWNpRWNYdWZkdXdXZF8wQ2NtelR6ZFZKUk9LbzR4a0VMaUlZcmI1Z3E4TlIwd29TN2NOelhPNDV6eGJWa2tSLV9HV1R0YjhUNVR4ZUJvY2NWaWxGOVY0cmlzeXJvYVI0NWhzUC02R2pxaV9jWENxT1hHa1N5NHExR1lLOA?oc=5",
+          "title": "Amazon violated Ontario’s anti-discrimination laws by not hiring Iranian engineer, tribunal rules",
+          "date": "2026-11-25"
+        },
+        {
+          "name": "UL Lawyers",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1tSWZGejluQ2w4UWRDN1REX2FJc2Q1ekZnakFpMGVNTWczeEV0M0JGN2pyWGlyMG16UHpRUE9oekp4Q3BORW9pazlJa2k3b3hZZXkzeUcxX09raTZPRTR3V1d1THhFTmJxVlRPMHVxVkpkcnlMTUE?oc=5",
+          "title": "Amazon Hiring Discrimination Ruling: Ontario Job Applicants' Rights",
+          "date": "2026-11-24"
+        }
+      ],
+      "date": "2026-11-25"
     }
   ]
 }
