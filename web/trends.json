@@ -1,8 +1,457 @@
 {
  "meta": {
-  "updated": "2026-11-26T02:37+09:00"
+  "updated": "2026-11-27T02:23+09:00"
  },
  "reports": [
+  {
+   "date": "2026-11-27",
+   "article_count": 138,
+   "engine": "gemini-3-flash-preview",
+   "headline": "AI가 재편하는 글로벌 테크 채용 지형도",
+   "summary": [
+    "SAP, 퀄컴 등 글로벌 빅테크의 대규모 감원과 조직 개편 지속",
+    "단순 개발직 수요 감소 및 'Forward Deployed Engineer' 등 실무형 AI 인재 부상",
+    "국내 마케터 채용 시장은 IT보다 제조·유통업 중심으로 재편 중"
+   ],
+   "numbers": [
+    {
+     "value": "10,000명",
+     "label": "SAP 구조조정 예상 감원 규모",
+     "dir": "down",
+     "sources": [
+      {
+       "name": "Crypto Briefing",
+       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBFYVhXVUM3NGVkdVVJaEhWNnQwWDBmZ0ZzQnpzeldZT1Uyci1OdEtaNENqWkh4NWEteEJBVWRwaTJiR2N5RC14Tzk5MExIanJCN1FWdTdqRVM4MVdFMWRsY3ZqQkJIb0YzRTRSMEJGOFhKa1p6YkFZbGF1NA?oc=5",
+       "title": "SAP reportedly weighs cutting at least 10,000 jobs in fresh restructuring",
+       "date": "2026-11-27"
+      }
+     ]
+    },
+    {
+     "value": "3,000명",
+     "label": "Kroger 대규모 감원 인원",
+     "dir": "down",
+     "sources": [
+      {
+       "name": "CryptoRank",
+       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNd3k5Wm1JQjFqVURudGRkcm1YRzRDelRTYVlkYndxRHpjVTBjUllQclVjdG5nbGk1Q2p4OTdwNWlQZERpeFhaWEVFNzY1ZWhHLWNPYkZuWjB5M2VDcXQyV2kweWsycjV1M0RPNmxISFVVenItUlFPYWR1Z3U2YTJZc0hjS0NSTW5MSHYyOWdyaVRqamRPa2lN?oc=5",
+       "title": "Kroger Begins Mass Layoffs With 3,000 Jobs on the Line",
+       "date": "2026-11-26"
+      }
+     ]
+    },
+    {
+     "value": "3.6배",
+     "label": "IT 대비 제조·유통업 마케터 공고 비율",
+     "dir": "up",
+     "sources": [
+      {
+       "name": "우먼타임스",
+       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBBV3pXVXFWaWRsUWpLWFlFMm1sTU1Hd243VlJ0S0FFWE9KckNpb25YaFh1REJFTXZIRVlmTTc0OEhSampkME5mV0I3NG5BMVpKMnh1b1RaWVd1Q2tReU43YUFCQWdMaFJIeW1lQ0pFcTPSAXRBVV95cUxOQnFXcU53WUNSX2gyRHRoc3EzSW1lNkhkeXFwd2lmTHBXVGVDb1Q3MDNxUXFLYWR6UFQtQ1Z5azBPNjdPRGZlMk8yWUNvVlBKdEt3VjEtMXZYd0tCRnE3b0lFUVpxWWdRcXdhYTlWUUpLN21pag?oc=5",
+       "title": "마케터 채용공고 절반은 유통·제조업...IT업계의 3.6배",
+       "date": "2026-11-26"
+      },
+      {
+       "name": "월요신문",
+       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9vcVRST1hJTWRvbWowdV9qVS0wNVdTY2ZxREtOeFc0R24wQUFtS0RjYXhaYklUaTR3dFIyLTQxWVNiRlhHTHJScm41TkZpQ0hLUXVZYzItSndUUm9IN01EWFN0UXlQdEtIV2c?oc=5",
+       "title": "마케터 채용 절반은 제조·유통업…IT보다 3.6배 많았다",
+       "date": "2026-11-26"
+      }
+     ]
+    }
+   ],
+   "layoffs": [
+    {
+     "company": "SAP",
+     "kind": "조직개편",
+     "size": "10,000명",
+     "pct": "N/A",
+     "note": "신규 구조조정의 일환으로 최소 1만 명 감원 검토 중",
+     "sources": [
+      {
+       "name": "Crypto Briefing",
+       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBFYVhXVUM3NGVkdVVJaEhWNnQwWDBmZ0ZzQnpzeldZT1Uyci1OdEtaNENqWkh4NWEteEJBVWRwaTJiR2N5RC14Tzk5MExIanJCN1FWdTdqRVM4MVdFMWRsY3ZqQkJIb0YzRTRSMEJGOFhKa1p6YkFZbGF1NA?oc=5",
+       "title": "SAP reportedly weighs cutting at least 10,000 jobs in fresh restructuring",
+       "date": "2026-11-27"
+      }
+     ]
+    },
+    {
+     "company": "Qualcomm",
+     "kind": "감원",
+     "size": "1,000명",
+     "pct": "N/A",
+     "note": "인도 지사 등 글로벌 전역으로 감원 확산 중",
+     "sources": [
+      {
+       "name": "CTech",
+       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE54anlYdFlBWnBSTW9fak1Oa0NRRjc1Tk10OFU5QW9INE83ekFqUUYtS2hmeUtzSFU1bWx3XzQ0VFZwWXA2cnEwNmpzY29CY1AzdkV4SUU1aXRqalpOQ2xkNHhwMWR1dWc?oc=5",
+       "title": "Qualcomm awards CEO and CFO $65 million in stock incentives as layoffs spread",
+       "date": "2026-11-26"
+      },
+      {
+       "name": "INDIA New England News",
+       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPU2RyRE04aHF0RzlfcmFSSFE1bDUxT01ScnJROFlwS3NFTVZGejBibzhvT0RJOWV6S0MzRGcwSzF6bjhaQ1VtQjZEclpEVE5NaTlvSVI5UldjUlpyX19fVkFncnhVWTVzcTBkdG82VjJBQVBhLUxGSmEzU2VPRnptX3FhTTJRdlRJUGU4OENEVFU4NjJ0QjFWZzZSVE4yeGZBTE9yUA?oc=5",
+       "title": "Qualcomm Reportedly Begins Layoffs in India, With Around 1,000 Jobs at Risk",
+       "date": "2026-11-26"
+      }
+     ]
+    },
+    {
+     "company": "Kroger",
+     "kind": "감원",
+     "size": "3,000명",
+     "pct": "N/A",
+     "note": "대규모 감원 시작과 함께 H-1B 비자 신청 관련 논란 발생",
+     "sources": [
+      {
+       "name": "Newsweek",
+       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOc3dmMU9qcTJ0VXBOeXlOV2E2eFZBc25PV2dBRUVpcHZQNkV5MDBWZG5NNDBnVi1xSFpEMkxnRVIyVWdSLUF3d21wUGpyS3RYWmcyWTRKVzhENzg4ckVFT2ZtNE5wMXktRzFCVUluZGdvY3JzT3FwNjdzQ0cxMTA5VHk5MlI0STJMVW0tOWI3WWszcVdI?oc=5",
+       "title": "Kroger Targeted Over H-1B Visa Filings Amid Mass Layoffs",
+       "date": "2026-11-27"
+      },
+      {
+       "name": "CryptoRank",
+       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNd3k5Wm1JQjFqVURudGRkcm1YRzRDelRTYVlkYndxRHpjVTBjUllQclVjdG5nbGk1Q2p4OTdwNWlQZERpeFhaWEVFNzY1ZWhHLWNPYkZuWjB5M2VDcXQyV2kweWsycjV1M0RPNmxISFVVenItUlFPYWR1Z3U2YTJZc0hjS0NSTW5MSHYyOWdyaVRqamRPa2lN?oc=5",
+       "title": "Kroger Begins Mass Layoffs With 3,000 Jobs on the Line",
+       "date": "2026-11-26"
+      }
+     ]
+    },
+    {
+     "company": "Ubisoft",
+     "kind": "감원",
+     "size": "N/A",
+     "pct": "4%",
+     "note": "캐나다 인력 감원 및 AI 전담 자회사 Motherbrain 추가",
+     "sources": [
+      {
+       "name": "MMORPG.com",
+       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNVk5PdVNTUk5NZmRjbUhlZmJIUzVfQWstNjNvNlh2XzBtU1NzTWFsWkMzQ2tNWlFKYWJvTnJWMURnMkJiVGVvVlZ0X3hxOHpkSVJmRGVJQnJnRzBPQTJydlM0dWpsbFN1RVZQRG1sQmdfaXhVLVNRa3RLcS1VS3BwQTlxRGdwS0hERzFvMGRPdGR4a1AxcGlMdEFtWFJGTnNZcXh3T3Bla1c4aHFJS01PRnZkRkQ2RUtlSWtsWWxCQlJRaVNRZFVkeDkwT2FvSFZGdWEwb3BFUjdodGFUcTRVQUM5b0tPYkt3RG02bnVjVdIB7wFBVV95cUxNVk5PdVNTUk5NZmRjbUhlZmJIUzVfQWstNjNvNlh2XzBtU1NzTWFsWkMzQ2tNWlFKYWJvTnJWMURnMkJiVGVvVlZ0X3hxOHpkSVJmRGVJQnJnRzBPQTJydlM0dWpsbFN1RVZQRG1sQmdfaXhVLVNRa3RLcS1VS3BwQTlxRGdwS0hERzFvMGRPdGR4a1AxcGlMdEFtWFJGTnNZcXh3T3Bla1c4aHFJS01PRnZkRkQ2RUtlSWtsWWxCQlJRaVNRZFVkeDkwT2FvSFZGdWEwb3BFUjdodGFUcTRVQUM5b0tPYkt3RG02bnVjVQ?oc=5",
+       "title": "Ubisoft Lays Off 4% of Canadian Employees and Adds Subsidiary 'Focused on AI For Gameplay Innovation', Motherbrain",
+       "date": "2026-11-26"
+      }
+     ]
+    }
+   ],
+   "hiring": [
+    {
+     "company": "NTT DATA",
+     "role": "AI 직무",
+     "note": "데리 지역에 평균 연봉 7만 6천 달러의 AI 일자리 200개 창출",
+     "sources": [
+      {
+       "name": "Metaintro",
+       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcHhYVzUxM0ZxTVg0a1EwdG5ZbTlIZXJsaEV2a1dnUnhJVUUxaWJVanZoalFQNTdhWjV0NnFZZEZDb0tBWkpRWk9rYTBycXQxdTBjcEtGSkZxNXpOSVZMWkpHQ1B0T0ZXYWZVcGJzSlpTbnh0elkzTHhwOVpLR3dnNnFJVW8zZV9RdEpEUllUN1poM3hN?oc=5",
+       "title": "Up to 200 AI Jobs Paying an Average £58,000 (About $76,000) Coming to Derry With NTT DATA",
+       "date": "2026-11-26"
+      }
+     ]
+    },
+    {
+     "company": "TVS Motor",
+     "role": "전 직무",
+     "note": "인도 타밀나두 지역에 1,000명 규모 채용 계획",
+     "sources": [
+      {
+       "name": "Metaintro",
+       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBIemRBSzluOEJ6UGlsbDlwV09GSHdJMkxPX3VfQzVHdUVGS2hiVjYwU0hncnpwWXhLWm9mVWFwVjRrTGJNY25GbE9Sc3hIYTlaZG9FVURUZ2lFTjF4bldmMk1Cd3ZOZjlJSjVNQnN2RQ?oc=5",
+       "title": "TVS Motor Plans to Hire 1,000 People in Tamil Nadu",
+       "date": "2026-11-26"
+      }
+     ]
+    },
+    {
+     "company": "Lidl",
+     "role": "매장 운영",
+     "note": "36개 신규 슈퍼마켓 오픈을 통해 1,350명 이상 채용 예정",
+     "sources": [
+      {
+       "name": "Metaintro",
+       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1VMGhnZUFQbFdWcC0yR2dqQy1icldNUjc1ZkUxOEYtOGFQN3h1dG42N25KUnVKSGdncm9Zb3B1WmZ4M0hleEgzZTdQRGI4UlF6cXFlWlV2TUpOUU9jdWkxVVBWb2N5WTA3?oc=5",
+       "title": "Lidl Plans More Than 1,350 Jobs Across 36 New Supermarkets",
+       "date": "2026-11-26"
+      }
+     ]
+    }
+   ],
+   "roles": {
+    "up": [
+     {
+      "name": "Forward Deployed Engineer",
+      "why": "AI 모델을 실제 비즈니스 현장에 적용할 실무 인재 필요"
+     },
+     {
+      "name": "AI 보안 전문가",
+      "why": "생성형 AI 도입 확대에 따른 보안 위협 대응 수요 증가"
+     },
+     {
+      "name": "제조·유통 마케터",
+      "why": "온라인 유통 확대 및 소비재 수출 증가로 채용 급증"
+     }
+    ],
+    "down": [
+     {
+      "name": "Entry-level Software Developer",
+      "why": "AI가 코딩 업무를 대체하며 신입급 일자리 축소"
+     },
+     {
+      "name": "단순 사무직",
+      "why": "AI 자동화로 인한 직무 대체 위험 가속화"
+     }
+    ]
+   },
+   "korea": [
+    {
+     "company": "제조·유통업계",
+     "note": "마케터 채용 공고가 IT 업계보다 3.6배 많아 채용 주도권 이동",
+     "sources": [
+      {
+       "name": "매일일보",
+       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5IdGdNRTVORHdhWkt1ekFPQmd4TXJrRnN1dWY0QjgyNmpFbW9IS2hfaU1OOTVOMEFkS1BfeFNKNUN6R1VFSnkxaXFaempJLVVtV3ByT0lzdERwTW5rMmZOa3Z4VmQ?oc=5",
+       "title": "IT 앞지른 제조업 마케터 채용…소비재 수출·온라인 유통 확대 영향",
+       "date": "2026-11-26"
+      },
+      {
+       "name": "우먼타임스",
+       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBBV3pXVXFWaWRsUWpLWFlFMm1sTU1Hd243VlJ0S0FFWE9KckNpb25YaFh1REJFTXZIRVlmTTc0OEhSampkME5mV0I3NG5BMVpKMnh1b1RaWVd1Q2tReU43YUFCQWdMaFJIeW1lQ0pFcTPSAXRBVV95cUxOQnFXcU53WUNSX2gyRHRoc3EzSW1lNkhkeXFwd2lmTHBXVGVDb1Q3MDNxUXFLYWR6UFQtQ1Z5azBPNjdPRGZlMk8yWUNvVlBKdEt3VjEtMXZYd0tCRnE3b0lFUVpxWWdRcXdhYTlWUUpLN21pag?oc=5",
+       "title": "마케터 채용공고 절반은 유통·제조업...IT업계의 3.6배",
+       "date": "2026-11-26"
+      },
+      {
+       "name": "월요신문",
+       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9vcVRST1hJTWRvbWowdV9qVS0wNVdTY2ZxREtOeFc0R24wQUFtS0RjYXhaYklUaTR3dFIyLTQxWVNiRlhHTHJScm41TkZpQ0hLUXVZYzItSndUUm9IN01EWFN0UXlQdEtIV2c?oc=5",
+       "title": "마케터 채용 절반은 제조·유통업…IT보다 3.6배 많았다",
+       "date": "2026-11-26"
+      }
+     ]
+    },
+    {
+     "company": "보안업계",
+     "note": "12월 온디바이스 AI 및 생성형 AI 보안 인재 채용 수요 집중",
+     "sources": [
+      {
+       "name": "보안뉴스",
+       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1KY0dfTEthRW5BZEQwYWZtaWFXY0h2ajQwbEl4WTZtZGFQX1I2ekxabENIZ1ZnREJTZkpFc0tER0pHSmNIV1paM3ZDbjhrbnU3dWtVWi1IQm5ocXp0RWQ4ZTBDRjRGQmc2SGhF?oc=5",
+       "title": "2026년 12월, 보안업계가 찾는 인재는 누구?",
+       "date": "2026-11-26"
+      },
+      {
+       "name": "뉴스와이어",
+       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBmSUw2c2MzTFdac0NKTkhIVElEUTNlenUzeG4tRVYzV0dDMEFzVTNKeUtQczduLUtLNjRwUTM4TFRJallqRHhZZ2JvTzZBd0xnaWxOaTNwRUNsVFl3bVNF?oc=5",
+       "title": "케이사인-에이아이딥, 빛가람 에너지밸리 컨퍼런스서 ‘생성형 AI 보안’ 선보여",
+       "date": "2026-11-26"
+      }
+     ]
+    },
+    {
+     "company": "퀄컴 코리아",
+     "note": "대학원 우수 논문 시상 등을 통해 온디바이스 AI 인재 선점 노력",
+     "sources": [
+      {
+       "name": "ER 이코노믹리뷰",
+       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPdWNOc1F6LUhfa3dfUU95SnJ4Rm90T2wwS25FOEJRUHQ5aXdMN04wcDN0aFJtSGJROU1mVURaZDhVNjNhXzlybENJbTRkN2FFZUprZEpjUk82cE9fVEFkTWxyNVk4SFVaUHZ2eA?oc=5",
+       "title": "퀄컴 대학원 우수 논문 15편 선정 \"온디바이스·피지컬 AI 인재 키운다\"",
+       "date": "2026-11-26"
+      }
+     ]
+    },
+    {
+     "company": "그렙",
+     "note": "AI 답안의 오류를 가려내는 능력을 평가하는 자격증 '에이뎁트' 출시",
+     "sources": [
+      {
+       "name": "ER 이코노믹리뷰",
+       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ramZwVnVBQUp5cDQ5NlYyLXlQb1MzcU9qTzNaaHJXQ0JGR1BSVWNobmdQVXpQLW94aGVNUDVTQWZPeVBmalY1NDU4aEpMLWdpTFA1VHpnOUFlbUoyN19tS3I0eHRUdlgwSUhhQQ?oc=5",
+       "title": "그렙 AI 활용 자격 에이뎁트 출시 \"AI 답의 오류 가려내는 능력까지 평가\"",
+       "date": "2026-11-26"
+      }
+     ]
+    }
+   ],
+   "items": [
+    {
+     "id": "t20261127-00",
+     "region": "global",
+     "importance": "high",
+     "company": "SAP / Qualcomm",
+     "title": "빅테크 구조조정 가속화와 AI 중심 재편",
+     "body": "SAP가 1만 명 규모의 추가 감원을 검토하고 퀄컴이 인도 등 글로벌 지사에서 감원을 단행하는 등 테크 기업들의 인력 효율화가 지속되고 있습니다. 이는 단순 비용 절감을 넘어 AI 중심의 조직 개편 과정에서 발생하는 현상입니다.",
+     "insight": "글로벌 인재 시장에 풀리는 시니어급 엔지니어 소싱 기회로 활용 가능하며, 커넥트웨이브도 AI 도입을 고려한 직무 재설계가 필요해요.",
+     "tags": [
+      "구조조정",
+      "AI전환",
+      "인재확보"
+     ],
+     "sources": [
+      {
+       "name": "Crypto Briefing",
+       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBFYVhXVUM3NGVkdVVJaEhWNnQwWDBmZ0ZzQnpzeldZT1Uyci1OdEtaNENqWkh4NWEteEJBVWRwaTJiR2N5RC14Tzk5MExIanJCN1FWdTdqRVM4MVdFMWRsY3ZqQkJIb0YzRTRSMEJGOFhKa1p6YkFZbGF1NA?oc=5",
+       "title": "SAP reportedly weighs cutting at least 10,000 jobs in fresh restructuring",
+       "date": "2026-11-27"
+      },
+      {
+       "name": "CTech",
+       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE54anlYdFlBWnBSTW9fak1Oa0NRRjc1Tk10OFU5QW9INE83ekFqUUYtS2hmeUtzSFU1bWx3XzQ0VFZwWXA2cnEwNmpzY29CY1AzdkV4SUU1aXRqalpOQ2xkNHhwMWR1dWc?oc=5",
+       "title": "Qualcomm awards CEO and CFO $65 million in stock incentives as layoffs spread",
+       "date": "2026-11-26"
+      },
+      {
+       "name": "INDIA New England News",
+       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPU2RyRE04aHF0RzlfcmFSSFE1bDUxT01ScnJROFlwS3NFTVZGejBibzhvT0RJOWV6S0MzRGcwSzF6bjhaQ1VtQjZEclpEVE5NaTlvSVI5UldjUlpyX19fVkFncnhVWTVzcTBkdG82VjJBQVBhLUxGSmEzU2VPRnptX3FhTTJRdlRJUGU4OENEVFU4NjJ0QjFWZzZSVE4yeGZBTE9yUA?oc=5",
+       "title": "Qualcomm Reportedly Begins Layoffs in India, With Around 1,000 Jobs at Risk",
+       "date": "2026-11-26"
+      }
+     ],
+     "date": "2026-11-27"
+    },
+    {
+     "id": "t20261127-02",
+     "region": "korea",
+     "importance": "high",
+     "company": "국내 유통·제조업계",
+     "title": "마케터 채용 시장의 주도권 변화",
+     "body": "국내 마케터 채용 공고의 절반이 제조·유통업에서 발생하며 IT 업계 대비 3.6배 높은 수치를 기록했습니다. 온라인 유통 확대와 소비재 수출 증가가 주요 원인입니다.",
+     "insight": "커넥트웨이브의 이커머스 플랫폼(다나와, 에누리 등) 마케터 채용 시, IT 출신뿐만 아니라 제조·유통업계의 우수 인재를 적극 공략할 시점이에요.",
+     "tags": [
+      "마케터채용",
+      "유통트렌드",
+      "인재경쟁"
+     ],
+     "sources": [
+      {
+       "name": "매일일보",
+       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5IdGdNRTVORHdhWkt1ekFPQmd4TXJrRnN1dWY0QjgyNmpFbW9IS2hfaU1OOTVOMEFkS1BfeFNKNUN6R1VFSnkxaXFaempJLVVtV3ByT0lzdERwTW5rMmZOa3Z4VmQ?oc=5",
+       "title": "IT 앞지른 제조업 마케터 채용…소비재 수출·온라인 유통 확대 영향",
+       "date": "2026-11-26"
+      },
+      {
+       "name": "우먼타임스",
+       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBBV3pXVXFWaWRsUWpLWFlFMm1sTU1Hd243VlJ0S0FFWE9KckNpb25YaFh1REJFTXZIRVlmTTc0OEhSampkME5mV0I3NG5BMVpKMnh1b1RaWVd1Q2tReU43YUFCQWdMaFJIeW1lQ0pFcTPSAXRBVV95cUxOQnFXcU53WUNSX2gyRHRoc3EzSW1lNkhkeXFwd2lmTHBXVGVDb1Q3MDNxUXFLYWR6UFQtQ1Z5azBPNjdPRGZlMk8yWUNvVlBKdEt3VjEtMXZYd0tCRnE3b0lFUVpxWWdRcXdhYTlWUUpLN21pag?oc=5",
+       "title": "마케터 채용공고 절반은 유통·제조업...IT업계의 3.6배",
+       "date": "2026-11-26"
+      },
+      {
+       "name": "월요신문",
+       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9vcVRST1hJTWRvbWowdV9qVS0wNVdTY2ZxREtOeFc0R24wQUFtS0RjYXhaYklUaTR3dFIyLTQxWVNiRlhHTHJScm41TkZpQ0hLUXVZYzItSndUUm9IN01EWFN0UXlQdEtIV2c?oc=5",
+       "title": "마케터 채용 절반은 제조·유통업…IT보다 3.6배 많았다",
+       "date": "2026-11-26"
+      }
+     ],
+     "date": "2026-11-26"
+    },
+    {
+     "id": "t20261127-03",
+     "region": "global",
+     "importance": "mid",
+     "company": "Anthropic",
+     "title": "AI 도입 속도 조절론과 인적 적응 기간",
+     "body": "Anthropic CEO는 AI로 인한 일자리 위협에 대비해 배포 속도를 늦춰 사람들이 적응할 시간을 주어야 한다고 주장했습니다. 또한 AI가 더 잘하더라도 인간이 유지해야 할 직무가 있음을 강조했습니다.",
+     "insight": "사내 AI 도입 시 직원들의 거부감을 줄이기 위한 리스킬링(Reskilling) 교육 프로그램과 변화 관리 전략이 채용 브랜딩에 중요해질 거예요.",
+     "tags": [
+      "AI윤리",
+      "리스킬링",
+      "변화관리"
+     ],
+     "sources": [
+      {
+       "name": "Yahoo Finance",
+       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNLXpudnBReElGOWNPMm1vLVBROTR0NlF3YnZLc1l2c1B2NzNWVjNyWnYyVUFNaU43T2pPTkhwUVFqMWdjN0NwUndfRUJwZThmcEJvWm1UZTFHOFRtMEdsdVlLZ1pHTDZHeFloTzlhWjhDS3ZMVU5rT0pnOC1WUU54LVhJYzhxQ0VtR3NkWUtKdEF5bTdl?oc=5",
+       "title": "Anthropic CEO Flags AI Job Risks, Says Deployment Should Be Paced To ‘Give People More Time To Adapt’",
+       "date": "2026-11-26"
+      },
+      {
+       "name": "Metaintro",
+       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdktWYzdTU0pVM2R5eTFiRFBUcFp6MDloc1ZwZjlCTkVlanhfaDhVbW5VTHdGT3gwM3dVYzhBNjM3QWo1Ui1oNm9LN0diZW9zU09fVTBOQ05DU1ZjdzIzM3JmTUx5WjM5OU96R0prRGhOZjNWZzV0RWF1TUhYYW1iYkpiT25LSVlDajJqdHl5TUszY1NYdUhkWXhjdm9TRmNiamxrM0Y4Slo3dlgycldTRm9SWlNVV19lOXNwNg?oc=5",
+       "title": "Anthropic CEO Dario Amodei Says Some AI Deployments May Need to Slow So Workers Can Adapt",
+       "date": "2026-11-26"
+      },
+      {
+       "name": "Storyboard18",
+       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQY2NDZVBwMmNnZzlIdE5PMVdrM3UzSnBZMy1pS1RYWEtqXzhaQVkxVTZsMW5iNnl5SjR4d1JMbE92UEVRWVFuQ1N6TTRqdWI3UkE5Y3BYYmFPRmoxVC1HVEo3Z1A0WmpwZW5aMjBPaDlZV3U4ZjV6UUl4c1B5X24wR0ZaUVFhQ2tWLXdUajdLZUEtUDRKYVRIbWg3LUhrcVdlYmJ5TUFWekEwZkVEcHg2ONIBtgFBVV95cUxOMU8wT0dUaWhFVnowVG1JNXR1bGd3SU02RjVmSmJPbktPaW0xdnozSDhFX2Y4cTZKcjlha0ljem1zajQtZmlLeVFKN3hGYVV3NTlNaURLajNDanRqZnVIc2pEdjdtU2NWQWh4dDRiRDZFazBvcFdZeGJIbk1xNGROTGZSdm55c0YxNzB1TGEzNmZqMzRIRFJrS2RDSlJMTzdNMkxMa1BvZWcxeFV2OGxGU1haUkZIZw?oc=5",
+       "title": "Anthropic CEO says humans should keep doing some jobs, even if AI does them better",
+       "date": "2026-11-26"
+      }
+     ],
+     "date": "2026-11-26"
+    },
+    {
+     "id": "t20261127-01",
+     "region": "global",
+     "importance": "mid",
+     "company": "Anthropic / Forbes",
+     "title": "새로운 핵심 직무 'Forward Deployed Engineer'",
+     "body": "단순히 AI 모델을 만드는 것을 넘어, 고객사의 비즈니스 환경에 AI를 직접 이식하고 최적화하는 'Forward Deployed Engineer'가 2026년 핫한 직무로 부상했습니다.",
+     "insight": "이커머스 솔루션(메이크샵 등)에 AI를 적용할 때, 단순 개발자보다 비즈니스 이해도가 높은 현장 투입형 엔지니어 채용에 집중해야 해요.",
+     "tags": [
+      "AI인재",
+      "직무트렌드",
+      "실무형인재"
+     ],
+     "sources": [
+      {
+       "name": "Forbes India",
+       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcmRfMnR2ekhBNnNzdmFkcU1WMzRNU0ExVndXNTdDZUppZktycFNnOU0zWFUtYjRNS1VQYUpUUjUtUTlYRTgwdlZhSHFRZGtjOVY4QUxFMUV2Rzg3TzVUOTItc1pzc3B3OTNjYUZCMGVDaE92YmoxMGZVY2pqY0Z5TjZ6TnI4QnQ1bDBYYlgxV1d1S3pPYS1OQjQtc01lY2x5ZDJqNnlIVTF4N05H0gGyAUFVX3lxTFBzUWZjQzZxV0FCbUpYQkVwT1NIMDgtblItMVpiWS12OEt2MXliZC00OVBkZ2NkNXdneVNCb0ZiSkFIaXJJOXNFNlBBcU9zcXVqV01ycTN4Rl81SFVmejRscE5LaWdiaUJ4d21DRjZBZkczOXVvYnE1d3NzNGJvWXdlZVE2al81d1MtLUE4SkRxVVRacFFRa2lUSk9KOE44VHNTbTlIX0g1clR0V1lrdWVVYkE?oc=5",
+       "title": "AI’s hottest title: Forward deployed engineer",
+       "date": "2026-11-26"
+      },
+      {
+       "name": "Channel Dive",
+       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZnNSNjl1aGhVNDZySTZhdTY4Z1Vsc1ByM3VHVDFiNmNhUTRzR3F6UHhwMjdmUWdsMmhIbGpGZVRFRXdhQ016bjBSSXJsMEZyZkNyQnhCUXRYWGxLMk1wV1JQOExZZWdBTlZuOHYyY0JYM29CWWFiNzFmRWtEelJlX0NpeUlLRDAxbnI4aUNYV3VlWElLSnpubUpoUDZaeERXMHNFTTVfaDJPOEZHUzN2eHJ2bng?oc=5",
+       "title": "Forward deployed engineers arrived in 2026 to help deliver on AI’s promises",
+       "date": "2026-11-26"
+      }
+     ],
+     "date": "2026-11-26"
+    },
+    {
+     "id": "t20261127-05",
+     "region": "korea",
+     "importance": "mid",
+     "company": "그렙(Grepp)",
+     "title": "AI 활용 능력 평가의 정교화",
+     "body": "단순히 AI를 사용하는 것을 넘어 AI가 내놓은 답의 오류를 가려내는 '검증 능력'을 평가하는 자격증이 출시되었습니다. 이는 AI 의존도에 대한 경계와 전문성을 동시에 요구하는 시장의 변화를 반영합니다.",
+     "insight": "개발자 및 기획자 채용 전형에서 AI 도구 활용 능력뿐만 아니라 그 결과물을 비판적으로 검증할 수 있는 역량을 평가 항목에 추가하는 것을 검토해 보세요.",
+     "tags": [
+      "역량평가",
+      "AI검증",
+      "채용전형"
+     ],
+     "sources": [
+      {
+       "name": "ER 이코노믹리뷰",
+       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ramZwVnVBQUp5cDQ5NlYyLXlQb1MzcU9qTzNaaHJXQ0JGR1BSVWNobmdQVXpQLW94aGVNUDVTQWZPeVBmalY1NDU4aEpMLWdpTFA1VHpnOUFlbUoyN19tS3I0eHRUdlgwSUhhQQ?oc=5",
+       "title": "그렙 AI 활용 자격 에이뎁트 출시 \"AI 답의 오류 가려내는 능력까지 평가\"",
+       "date": "2026-11-26"
+      }
+     ],
+     "date": "2026-11-26"
+    },
+    {
+     "id": "t20261127-04",
+     "region": "global",
+     "importance": "low",
+     "company": "Amazon",
+     "title": "아마존 캐나다 노동조합 첫 계약 체결",
+     "body": "캐나다 브리티시컬럼비아주의 아마존 노동자들이 북미 최초로 노동조합 계약을 따냈습니다. 이는 물류 및 배송 인력의 권익 보호 강화 추세를 보여줍니다.",
+     "insight": "몰테일 등 물류 거점 운영 시 글로벌 노동 환경 변화와 규제 강화 움직임을 모니터링하여 리스크를 관리해야 합니다.",
+     "tags": [
+      "노동조합",
+      "물류인력",
+      "글로벌규제"
+     ],
+     "sources": [
+      {
+       "name": "The Conversation",
+       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNXzNoUGZEeVNPbENwV3FKT09LMlNfOEJTLWRzLWt0RWZWWGxmSmtpcElxSmZfLUlFNmlzdHpoOGp6QWF5dURTWmNkT3pSTUl2Rk5Pa2d1ZFQ3WkpXa0JKRG00ejRtOUNIOXA5Zi1wT09NTUdEM0tsb1RpRGhfQkItYnl3d1VqcHY3N25mNEJ4VmtMU2hYTVZOeWM3d3hOdUV2Y2s2NWJOcDFkN3d0RkJSUDBvQVNVS3Mwdy1TeEp3dW9GNXhqMzJNU01QM3daVVpi?oc=5",
+       "title": "Amazon workers in B.C. won North America’s first union contract. Here’s how labour laws made it possible",
+       "date": "2026-11-27"
+      }
+     ],
+     "date": "2026-11-27"
+    }
+   ]
+  },
   {
    "date": "2026-11-26",
    "article_count": 149,
