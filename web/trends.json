@@ -1,8 +1,481 @@
 {
  "meta": {
-  "updated": "2026-11-27T02:23+09:00"
+  "updated": "2026-11-28T02:06+09:00"
  },
  "reports": [
+  {
+   "date": "2026-11-28",
+   "article_count": 138,
+   "engine": "gemini-3-flash-preview",
+   "headline": "AI 전환 가속화에 따른 글로벌 빅테크의 대규모 인력 재편",
+   "summary": [
+    "SAP가 AI 중심의 조직 개편을 위해 10,000명 규모의 대규모 감원을 검토 중입니다.",
+    "마이크로소프트와 앤트로픽 등 주요 테크 기업들이 신규 채용보다 내부 인력 재배치와 AI 효율화에 집중하고 있습니다.",
+    "국내외 모두 단순 개발 역량보다 AI 리터러시와 실질적 임팩트를 창출하는 인재 수요가 급증하고 있습니다."
+   ],
+   "numbers": [
+    {
+     "value": "10,000명",
+     "label": "SAP AI 전환 과정 중 감원 검토 규모",
+     "dir": "down",
+     "sources": [
+      {
+       "name": "Taipei Times",
+       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1kY2hoUy16dE96VGlXVXNtV2RMSFhOUEpWaEtOaUFCeGVpZDJIdVVLQmdrbk55bjB2UzdkTXppLTlQaDVRQzEzZ3h1VzBQbTJ2M0VWQUpOYjFLUU9IbU9ld2lTMFZyc2o2MFVNaEVtRmNTMnppZFE?oc=5",
+       "title": "Sources say SAP mulling cuts of at least 10,000 roles",
+       "date": "2026-11-28"
+      },
+      {
+       "name": "MarketWatch",
+       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTzBYNzI3a0p4YVJPUXBENllKbGZ2Q01EZzFyNTEzM3lsaTBUTHVDU29XbnZtS0lMNnhMVkloSjhTdUV3MmpuNWhmUFhpSFRpRXZzM2VyLW5raWhCRjFmdEpNTEZRUkkyUnZkcEthUnZuN2Z3cnZRQU5EZGlPYWxsdUc3RDlUMERSNXNHVW5JUGpaOTRvZUlMTkRmQnJVaWpxNlkwSlVuT0k4QTloRDdjNlQxZ0lfNWsxSFh1aHFZb29GcWZqeTlhbU9n?oc=5",
+       "title": "SAP reportedly set to cut 10,000 jobs — the latest in a brutal year for tech layoffs",
+       "date": "2026-11-27"
+      },
+      {
+       "name": "Bloomberg.com",
+       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdEkwcUVNZU5SbHN4QWpxRU81d3p0eWFzcDY5VVd2dnBCeU8wMDlxVTM1NzhEM0NZMnNTNGZRVnA1WU1OUWM1N21tV29IZlJ6WUZLQ0xuWmd5cS1wU2dtaHpuRGRjZFA4V2I0VXRPYjhlN1ZQamVzMFBKQk1yRExURUFCX3B0MVdDRFd4djY2cEpmaERpbENDalRtcjFwd0trT3JHU3haMWRQdlBsRFNYNFhSTUt1QQ?oc=5",
+       "title": "SAP Weighs Cutting at Least 10,000 Positions in AI Restructuring",
+       "date": "2026-11-27"
+      },
+      {
+       "name": "조선일보",
+       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcWRTSFJfRVhQZTlycU11N1lfbU5FQXdzMHdJbURXd3ZoVXJ2ck5CWkNaR28tX2RfSEFuUGRyZ1BrRGFsQUtWdEM4RHE1NlZuOVh6S1RmZ2xzTXNUNXpsQ1c2ZXN4QjlHWjNsd1ZoemZfQ3ZPSmpDeF9uMEJjT0plVjc4UjllSWd4?oc=5",
+       "title": "SAP Plans 10,000 Job Cuts for AI Restructuring",
+       "date": "2026-11-27"
+      }
+     ]
+    },
+    {
+     "value": "62%",
+     "label": "AI 숙련자와 비숙련자 간 임금 격차",
+     "dir": "up",
+     "sources": [
+      {
+       "name": "한국공공정책신문",
+       "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE90VGdqVEZSeUR2M09XLVd4VVpQZ0pvY3lJOHNvZmxPME1iOXRIcGxNWTBKenU5MzFmU25yYXFCUk9DaGs?oc=5",
+       "title": "AI 숙련자와 비숙련자, 같은 사무실에서 임금 격차 62% 벌어진다",
+       "date": "2026-11-27"
+      }
+     ]
+    },
+    {
+     "value": "20%",
+     "label": "AI 영향으로 인한 캠퍼스 리크루팅 감소폭",
+     "dir": "down",
+     "sources": [
+      {
+       "name": "Moneycontrol.com",
+       "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxOZE9lYzZXMXRNR0ItNkcyMG1sU2tYcVZNZ085M01XOXFNSnVGNnNqekFkb2dSNmZyUkRmaWRxQWtKVW9WZFZhd3VsUXFTbldVcG1Zb0phNGRaMjVGeVJSLVFnTXNIX3gxQzllczZwVUNjSHVzNENLSEVwNVVqN3o4V2ZjVHRURnR5NlJMSWd0M3VvU1A5YVJOWEh2UnhMd25sM3JRZzhFY2hpYm5iQUQtVkJnM1JSSl9XWXpjSDJUSmtTQk1DZElHX0ZCZW0zVmtBN2ktWjJzWGVLUzRDSzktWDRUZG9fV2ZwYkZHWUJDakdUOVFNSE51UjBTN0ZhaGhRRU04a1JQU2ZwZzlVS2djU0N4dDlpdk1zWVRoTE9KV3ZmVndDdHNnd2V3?oc=5",
+       "title": "AI impact on jobs: Campus placements decline by up to 20% as IT companies cut entry-level hiring; skilled freshers still command higher salaries",
+       "date": "2026-11-27"
+      }
+     ]
+    }
+   ],
+   "layoffs": [
+    {
+     "company": "SAP",
+     "kind": "조직개편",
+     "size": "10,000명",
+     "pct": "약 10%",
+     "note": "AI 중심 비즈니스 재구조화를 위한 대규모 인력 감축 및 재배치 추진",
+     "sources": [
+      {
+       "name": "Bloomberg.com",
+       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdEkwcUVNZU5SbHN4QWpxRU81d3p0eWFzcDY5VVd2dnBCeU8wMDlxVTM1NzhEM0NZMnNTNGZRVnA1WU1OUWM1N21tV29IZlJ6WUZLQ0xuWmd5cS1wU2dtaHpuRGRjZFA4V2I0VXRPYjhlN1ZQamVzMFBKQk1yRExURUFCX3B0MVdDRFd4djY2cEpmaERpbENDalRtcjFwd0trT3JHU3haMWRQdlBsRFNYNFhSTUt1QQ?oc=5",
+       "title": "SAP Weighs Cutting at Least 10,000 Positions in AI Restructuring",
+       "date": "2026-11-27"
+      },
+      {
+       "name": "SME Futures",
+       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTXVjUTRWdUFCMnFxRmQwb1NEaEFoWTFoZ3JYTG1KX0NGNXdoMjMxeEVlY3U5NHBYQ0JCdV9xUXFOdkdLUTBHMWFOSWNYamNIX0U3QzV6aVBRaVJtcnZkZXhhYnZteGh4bHJQTkluc1ppeFRKMTI3dXNQTTZST3hvZ3BhUXJMNURCNnk5MnE1RS1UM3hi?oc=5",
+       "title": "SAP may cut nearly 10 pc of workforce amid AI restructuring: Report",
+       "date": "2026-11-27"
+      },
+      {
+       "name": "파이낸셜뉴스",
+       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5FMXVDZWlKT2tUbUVnUTFUSHIzV0FpMUZwRC1xcjVvUHVidUo2WmlqY0ltaU9JckdERGxqelR3dnNNcDJGaVlLMmw4a0NpdDR2YW5qZ0t3Y3JXUQ?oc=5",
+       "title": "'소프트웨어 공룡' SAP, AI 전환위해 1만명 감원 검토[글로벌AI브리핑]",
+       "date": "2026-11-27"
+      }
+     ]
+    },
+    {
+     "company": "Microsoft",
+     "kind": "조직개편",
+     "size": "60,000명",
+     "pct": "미표기",
+     "note": "신규 채용 전 대규모 내부 인력 재편 및 바이아웃 진행",
+     "sources": [
+      {
+       "name": "HRO Today",
+       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWFg1LVkxT2c1OXFyTmw2QVBQRkNsRTFhV1lMdGx1XzNhdktGUTFtRDh1aXdRdWhsSjNjblMwTmtFU1BSWmJyR2FaSllJdnkzeEd0TENqc1ZZOGZnOE5CYXlQWGVncWVFelg0NHRMODBhNmcxekdtdk1RSE9NLW5aSlhXbnlxVGlYWTB5bVBNbEx5aS1VR3ZIbHo5b3F3V2V0UHl0a1NrT3FERkVmcXp1NQ?oc=5",
+       "title": "Cappelli’s Column: What Does a 60,000-person Buyout at Microsoft Mean?",
+       "date": "2026-11-27"
+      },
+      {
+       "name": "Bitcoin Foundation",
+       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTkhnNjdUV0xzUGszUE4wM09UUGJiWFFHZGltM2gtTXdvdUpKaklrMFlGcnhTbmJyNDlnb1h5aTVjNVlISnROdmVUT2R5Z3kzSDdSRlBQN3d5NHBjTTBsNXRySHJJOEdKREVLVHVmbEZvLWl4ek1HU2pLV1I1MklUVDNkOWtaMlBBaVZ4QnEzNkpPRjhCei1ZR04zZjVxYkdVUnQxbVZ0N1N5VWlaa0ozX3ZJQQ?oc=5",
+       "title": "Satya Nadella Says Microsoft Must Reorganize Staff Before Adding New Hires",
+       "date": "2026-11-27"
+      }
+     ]
+    },
+    {
+     "company": "Intel",
+     "kind": "감원",
+     "size": "수백 명",
+     "pct": "미표기",
+     "note": "IT 부문 인력 감축 진행",
+     "sources": [
+      {
+       "name": "Digg",
+       "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBqbG1mdFNndDFCdGJSRGdFeTRKMTVLTFBxNVVEdDZZajFhSF9NM3JQdEZ3MnhoRWJNakhnbHdjdm04WWRz?oc=5",
+       "title": "Intel’s latest IT layoffs may have affected hundreds, Tom’s Hardware reports",
+       "date": "2026-11-27"
+      }
+     ]
+    },
+    {
+     "company": "Marvelous",
+     "kind": "자발적 퇴직",
+     "size": "65명",
+     "pct": "미표기",
+     "note": "콘솔 게임 부문 인력 대상 희망퇴직 실시",
+     "sources": [
+      {
+       "name": "Tokyo Brief",
+       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZTgtMVlORERMRzc3MFhoTDY3XzQwc1FNenVHT2NJd3B1V09xY2h3NklOZVpaWUxnVlo1dDEydFhtU1RORDl6TFpRck9NbjdsMEVZYURGSkVfa3RfQjREbzI2bTk0MWNJbGJFRXRFOWZ1S2Z0WTE2VmpURDlucWxUQlNibjE?oc=5",
+       "title": "Marvelous offers voluntary exit package to about 65 console-game staff",
+       "date": "2026-11-27"
+      }
+     ]
+    }
+   ],
+   "hiring": [
+    {
+     "company": "삼성전자·LG전자",
+     "role": "피지컬 AI 및 로봇",
+     "note": "미국 현지에서 개발부터 영업까지 전방위적 인재 확보 총력전",
+     "sources": [
+      {
+       "name": "와이드경제",
+       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA3bGFSVkZPTmlsWDZDV0lDOGplS29pX3N2T1d4R2p2RzRPM1ItOWZDNWNiNzJ5dGIxM2JqbF9zYnJDaUhoZzc1cWZRRG12eVFKZDBmZjhqb1RWbVhXNzlNZm91X1lGak90SktRVQ?oc=5",
+       "title": "삼성·LG, 미국 현지서 로봇·피지컬 AI 인재 확보 총력…연구개발부터 영업까지 전방위 채용",
+       "date": "2026-11-27"
+      },
+      {
+       "name": "뉴시스",
+       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9QckhqN2hUMDZyLVZwT1JtSmFWcllWeUNhLXdOOWVnUkZEMS1ia1M4ZmprSlNyc1RZZ3JTeUZWeHJVYklnQTFZbzE3RGw4MHNtNVhPS3YyRlNPWktfSFlxQtIBeEFVX3lxTE1GdEpNVXl0Y3hRWjRiWEdiTFZpR1ZLRWItaXVMVDgwdFI0YWxEWmdDX1NvZTRPU1h2Y0dHQXVEVnlNUmdQZmlOLXVuamNOYjlBZDVUWkN3TzFEc0hlSmNzbHhadG5pb0dFTDZuOWpHRU4tZkg0OTBESQ?oc=5",
+       "title": "삼성·LG, 美서 '피지컬 AI·로봇' 인재 영입전…\"개발자부터 영업맨까지 다 뽑는다\"",
+       "date": "2026-11-27"
+      }
+     ]
+    },
+    {
+     "company": "Microsoft",
+     "role": "데이터센터 건설 리드",
+     "note": "아일랜드 데이터센터 구축을 위해 연봉 20만 유로 이상 제시",
+     "sources": [
+      {
+       "name": "Business Post",
+       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRGpadk83N08yQzJlbzNVX0d0N0J0eVhwdHlvWFFRaVdtcTBCQXRZeXBJRVJJbWZjQjN0UmZPRERfTjBJSmlWbHlkcjQxMzBYT1loN2VCZUxyRENwYndTbzdKRlBjTEU5X2hiSjVhWnd5WmE1bGNrXzZwWjlTcGVJNFVwS2FVNTcyN285WUwzQjBVazQtaWJES1hvUEpvTFFWWWZOMlZ3NkZuRWl1SzljLUN1VXpCZDJueVNGdDVLVmYwVUxfeGc?oc=5",
+       "title": "Microsoft is offering over €200K to lead its Irish data centre construction",
+       "date": "2026-11-27"
+      }
+     ]
+    },
+    {
+     "company": "Babcock",
+     "role": "잠수함 엔지니어링 등",
+     "note": "잠수함 계약 관련 3,000개의 신규 일자리 창출 예정",
+     "sources": [
+      {
+       "name": "Metaintro",
+       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZkpRVEFXMk9pbUU5ZXdnTzFnenpsTFZpV2x1bTNvelZOTFNyZDdLdGt4YkJKZDIyeW1xVmV5OWJGWjdkT0JEcFZVdFJDOGN6NkNYMXdULWRyWVNzY00tRDFUU3RxXzJIbEZhQ0Y1SmRmck9UTWRZSHF2cU03bDZSYVJSVEJSM3FNVDFmXy1PUlhMaUwtZ3dZQVBFak5zMFdv?oc=5",
+       "title": "3,000 New Jobs Set to Come From Babcock's Submarine Deal, Including 1,600 at Devonport",
+       "date": "2026-11-27"
+      }
+     ]
+    }
+   ],
+   "roles": {
+    "up": [
+     {
+      "name": "피지컬 AI 엔지니어",
+      "why": "로봇 및 제조 현장 AI 적용 수요 급증"
+     },
+     {
+      "name": "AI 리터러시 보유 직군",
+      "why": "비개발 직군에서도 AI 도구 활용 능력 필수화"
+     },
+     {
+      "name": "데이터센터 건설 및 운영",
+      "why": "AI 인프라 확대를 위한 물리적 거점 확보 필요"
+     }
+    ],
+    "down": [
+     {
+      "name": "엔트리 레벨(신입) 개발자",
+      "why": "AI 도구 도입으로 인한 주니어급 업무 대체"
+     },
+     {
+      "name": "단순 IT 컨설턴트",
+      "why": "비자 스폰서십 중단 및 AI 자동화 영향"
+     }
+    ]
+   },
+   "korea": [
+    {
+     "company": "삼성·LG",
+     "note": "미국 내 로봇 및 피지컬 AI 인재 영입을 위해 연구개발부터 영업까지 채용 확대",
+     "sources": [
+      {
+       "name": "와이드경제",
+       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA3bGFSVkZPTmlsWDZDV0lDOGplS29pX3N2T1d4R2p2RzRPM1ItOWZDNWNiNzJ5dGIxM2JqbF9zYnJDaUhoZzc1cWZRRG12eVFKZDBmZjhqb1RWbVhXNzlNZm91X1lGak90SktRVQ?oc=5",
+       "title": "삼성·LG, 미국 현지서 로봇·피지컬 AI 인재 확보 총력…연구개발부터 영업까지 전방위 채용",
+       "date": "2026-11-27"
+      }
+     ]
+    },
+    {
+     "company": "아모레퍼시픽",
+     "note": "현장 안전관리 직원이 코딩 없이 AI를 구현하는 등 AX(AI 전환) 가속화",
+     "sources": [
+      {
+       "name": "조세일보",
+       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBXdXhjTm1Tdlk3dUV2Q0FjN1NaNkNLbldrUzZmM1U0QnFOSkxSamR0a3l3bnlYSkZjNXBxRWsxaHFKSzk0ZW1lSTllSVJhTFNCNlRtNXpCUGxVSWt4TjNVUldpRWdqbzlraHJ4ZkxQekw4WlNL?oc=5",
+       "title": "\"안전관리 직원이 피지컬 AI 구현\"…아모레, 바이브 코딩으로 AX 가속",
+       "date": "2026-11-27"
+      }
+     ]
+    },
+    {
+     "company": "CJ올리브영",
+     "note": "외부 비인가 접근으로 인한 개인정보 유출 사고 발생, 보안 인력 중요성 증대",
+     "sources": [
+      {
+       "name": "청년일보",
+       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA2bHFETWIxZTExVGFFLVhCbFh4OWFUZE9vY1BxOVh6WUVKNDVqQmgwLWpJTDhldG45RzBOV1VjWVJfYm84SWJtZ29VYzlTR0IyZjNJck9seVJEYnBnWF91SXVPekVBZDIyWGc?oc=5",
+       "title": "CJ올리브영, 업무시스템에 외부 비인가 접근…790명 개인정보 유출",
+       "date": "2026-11-27"
+      }
+     ]
+    },
+    {
+     "company": "경기도",
+     "note": "여성 구직자 대상 청년층은 경력 부족, 중장년층은 나이 장벽이 주요 취업난 원인",
+     "sources": [
+      {
+       "name": "머니투데이",
+       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBWQzF4UDg2U2FOOURRQ1pJaTZROXBESjlqVEU1Y3lFZENURVktT1hDLXZySWsybS13ZGFyR0sycFRQM1FHT3ZUMkZjNmVEcFFFWDI2bjcyOFdCQzFicGRUTUo4UTlINU01clA5N3U5WdIBb0FVX3lxTFBWQzF4UDg2U2FOOURRQ1pJaTZROXBESjlqVEU1Y3lFZENURVktT1hDLXZySWsybS13ZGFyR0sycFRQM1FHT3ZUMkZjNmVEcFFFWDI2bjcyOFdCQzFicGRUTUo4UTlINU01clA5N3U5WQ?oc=5",
+       "title": "여성 구직이 어려운 이유…청년 '직무경험 부족', 중장년 '나이' 장벽 - 머니투데이",
+       "date": "2026-11-27"
+      },
+      {
+       "name": "경기일보",
+       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE16b3FVclo5UTdBY3JwXy1aRmtjQk51OTlwN1pQRDU5eXR0YVFmN0ZKOGpJbEdMbGlCd3Jzd2Q1OWpnaE9JYjV5WGVmR0hPN0JIU1pOQjJqdWlaTzA?oc=5",
+       "title": "청년은 ‘경력 부족’·중장년은 ‘나이 문턱’…경기도 여성 구직 실태 분석",
+       "date": "2026-11-27"
+      }
+     ]
+    }
+   ],
+   "items": [
+    {
+     "id": "t20261128-00",
+     "region": "global",
+     "importance": "high",
+     "company": "SAP",
+     "title": "SAP, AI 전환 위해 1만 명 규모 인력 구조조정",
+     "body": "유럽 최대 소프트웨어 기업 SAP가 AI 중심의 비즈니스 재편을 위해 전체 인력의 약 10%에 달하는 10,000명 이상의 감원을 검토하고 있습니다. 이는 단순 비용 절감이 아닌 AI 기술 도입에 따른 직무 역량 재배치 성격이 강합니다.",
+     "insight": "이커머스 솔루션(메이크샵 등) 운영 시 AI 기반 자동화가 필수적인 만큼, 기존 인력의 리스킬링(Reskilling) 계획 수립이 시급합니다.",
+     "tags": [
+      "AI구조조정",
+      "리스킬링",
+      "빅테크감원"
+     ],
+     "sources": [
+      {
+       "name": "Bloomberg.com",
+       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdEkwcUVNZU5SbHN4QWpxRU81d3p0eWFzcDY5VVd2dnBCeU8wMDlxVTM1NzhEM0NZMnNTNGZRVnA1WU1OUWM1N21tV29IZlJ6WUZLQ0xuWmd5cS1wU2dtaHpuRGRjZFA4V2I0VXRPYjhlN1ZQamVzMFBKQk1yRExURUFCX3B0MVdDRFd4djY2cEpmaERpbENDalRtcjFwd0trT3JHU3haMWRQdlBsRFNYNFhSTUt1QQ?oc=5",
+       "title": "SAP Weighs Cutting at Least 10,000 Positions in AI Restructuring",
+       "date": "2026-11-27"
+      },
+      {
+       "name": "조선일보",
+       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcWRTSFJfRVhQZTlycU11N1lfbU5FQXdzMHdJbURXd3ZoVXJ2ck5CWkNaR28tX2RfSEFuUGRyZ1BrRGFsQUtWdEM4RHE1NlZuOVh6S1RmZ2xzTXNUNXpsQ1c2ZXN4QjlHWjNsd1ZoemZfQ3ZPSmpDeF9uMEJjT0plVjc4UjllSWd4?oc=5",
+       "title": "SAP Plans 10,000 Job Cuts for AI Restructuring",
+       "date": "2026-11-27"
+      },
+      {
+       "name": "파이낸셜뉴스",
+       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5FMXVDZWlKT2tUbUVnUTFUSHIzV0FpMUZwRC1xcjVvUHVidUo2WmlqY0ltaU9JckdERGxqelR3dnNNcDJGaVlLMmw4a0NpdDR2YW5qZ0t3Y3JXUQ?oc=5",
+       "title": "'소프트웨어 공룡' SAP, AI 전환위해 1만명 감원 검토[글로벌AI브리핑]",
+       "date": "2026-11-27"
+      }
+     ],
+     "date": "2026-11-27"
+    },
+    {
+     "id": "t20261128-01",
+     "region": "global",
+     "importance": "high",
+     "company": "Microsoft",
+     "title": "신규 채용 전 내부 조직 재편 우선 기조",
+     "body": "사티아 나델라 CEO는 신규 인력을 추가하기 전에 기존 직원의 조직 재편이 선행되어야 함을 강조했습니다. AI 예산 집행과 인력 효율화가 끝난 후에야 신입 및 경력 채용이 정상화될 것으로 보입니다.",
+     "insight": "글로벌 인재 시장에 MS 출신 고숙련 인력이 유입될 가능성이 높으므로, 커넥트웨이브의 핵심 포지션 소싱 기회로 활용 가능합니다.",
+     "tags": [
+      "내부재편",
+      "채용동결",
+      "인재유입"
+     ],
+     "sources": [
+      {
+       "name": "Bitcoin Foundation",
+       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTkhnNjdUV0xzUGszUE4wM09UUGJiWFFHZGltM2gtTXdvdUpKaklrMFlGcnhTbmJyNDlnb1h5aTVjNVlISnROdmVUT2R5Z3kzSDdSRlBQN3d5NHBjTTBsNXRySHJJOEdKREVLVHVmbEZvLWl4ek1HU2pLV1I1MklUVDNkOWtaMlBBaVZ4QnEzNkpPRjhCei1ZR04zZjVxYkdVUnQxbVZ0N1N5VWlaa0ozX3ZJQQ?oc=5",
+       "title": "Satya Nadella Says Microsoft Must Reorganize Staff Before Adding New Hires",
+       "date": "2026-11-27"
+      },
+      {
+       "name": "Windows Latest",
+       "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQOXMycXNKMHJMWHpqQjBoZ1ZwbjlXYTR2WVNmNHhpUmloMlRMaXhJNUJ4enQyM01KeS1GWHhQLUNRM0RGNHdLV3pEVjl1aDZCRHF2Vko0blBqem9ZMzdvTmYxdTh1TU9tc0pYZy1WVXMxRW1iQTNBZHRMVlZuYmFnY2hUeGVLV2RjUkM4QVVFSl8yeEZrV3FkSUFIMTJkT0lMTE9zcWlrYnY1VXVpWkxMYlI2U0duZjhuOXdmN1FTSEdJdkNsZFBLR2kzVi1JakcwcHp5MnBDaWVIOGdMWjNtV0FuUWl6UjVCeWEydXI1RnZtdzJrWXJTU1M4RW9sd2FJWjFjNkJHTFFSeWV1Q2oyWXlsZmZoWUViV1NuZ0h2OTZqWXhma1hSa3ZzaGJuSE5RTmJiZndEZE4tYjRsUmVPbDJxNS0taVpj?oc=5",
+       "title": "\"Let's add the next human\": Satya Nadella admits new-grad hiring slowed as companies rebuild around AI, and says every company will add its next person after it burns through its AI budget",
+       "date": "2026-11-27"
+      }
+     ],
+     "date": "2026-11-27"
+    },
+    {
+     "id": "t20261128-04",
+     "region": "korea",
+     "importance": "high",
+     "company": "삼성전자·LG전자",
+     "title": "피지컬 AI 및 로봇 인재 확보 경쟁 심화",
+     "body": "국내 주요 대기업들이 미국 현지에서 로봇과 AI가 결합된 '피지컬 AI' 인재 확보를 위해 개발부터 영업까지 전방위 채용에 나서고 있습니다. 이는 물류 자동화 및 제조 혁신을 위한 핵심 인력 쟁탈전입니다.",
+     "insight": "커넥트웨이브의 물류 솔루션(스윗트래커) 고도화를 위해 로봇·자동화 관련 인재 확보 시 대기업과의 처우 경쟁이 불가피할 전망입니다.",
+     "tags": [
+      "피지컬AI",
+      "로봇공학",
+      "인재전쟁"
+     ],
+     "sources": [
+      {
+       "name": "와이드경제",
+       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA3bGFSVkZPTmlsWDZDV0lDOGplS29pX3N2T1d4R2p2RzRPM1ItOWZDNWNiNzJ5dGIxM2JqbF9zYnJDaUhoZzc1cWZRRG12eVFKZDBmZjhqb1RWbVhXNzlNZm91X1lGak90SktRVQ?oc=5",
+       "title": "삼성·LG, 미국 현지서 로봇·피지컬 AI 인재 확보 총력…연구개발부터 영업까지 전방위 채용",
+       "date": "2026-11-27"
+      },
+      {
+       "name": "뉴시스",
+       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9QckhqN2hUMDZyLVZwT1JtSmFWcllWeUNhLXdOOWVnUkZEMS1ia1M4ZmprSlNyc1RZZ3JTeUZWeHJVYklnQTFZbzE3RGw4MHNtNVhPS3YyRlNPWktfSFlxQtIBeEFVX3lxTE1GdEpNVXl0Y3hRWjRiWEdiTFZpR1ZLRWItaXVMVDgwdFI0YWxEWmdDX1NvZTRPU1h2Y0dHQXVEVnlNUmdQZmlOLXVuamNOYjlBZDVUWkN3TzFEc0hlSmNzbHhadG5pb0dFTDZuOWpHRU4tZkg0OTBESQ?oc=5",
+       "title": "삼성·LG, 美서 '피지컬 AI·로봇' 인재 영입전…\"개발자부터 영업맨까지 다 뽑는다\"",
+       "date": "2026-11-27"
+      }
+     ],
+     "date": "2026-11-27"
+    },
+    {
+     "id": "t20261128-02",
+     "region": "korea",
+     "importance": "mid",
+     "company": "국내 테크 업계 전반",
+     "title": "AI 숙련도에 따른 임금 격차 및 채용 기준 변화",
+     "body": "AI 숙련자와 비숙련자 간 임금 격차가 최대 62%까지 벌어지고 있으며, 엔지니어 승진 기준 또한 근속 연수보다는 실질적인 '임팩트'와 성과 중심으로 변화하고 있습니다. 신입 채용 시에도 단순 전공보다 실무 경험을 중시하는 경향이 뚜렷합니다.",
+     "insight": "JD 작성 시 단순 기술 스택 나열보다 'AI 도구를 활용한 문제 해결 경험'을 필수 역량으로 정의하고 평가 체계를 고도화해야 합니다.",
+     "tags": [
+      "임금격차",
+      "성과주의",
+      "AI리터러시"
+     ],
+     "sources": [
+      {
+       "name": "뉴스스페이스",
+       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB3QkJMOGg2OERrRzFTU1E2OG1VMkNXc3FlbEtNOE9Jdm9qbTNOZzktd2FlS0pUbEZsSi1xaFZvempZd1dCUFZPMjNocFA5ck9Eek41STMxbDJrbDZ0SkdKYw?oc=5",
+       "title": "[빅테크칼럼] 앤트로픽發 AI가 바꾼 엔지니어 승진의 기준 '시간'에서 '임팩트'로…\"얼마나 걸렸나보다 무슨 성과를 냈나\"",
+       "date": "2026-11-27"
+      },
+      {
+       "name": "얼리어답터뉴스",
+       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9tSWphUmcwRnk1YTZ5SmNCMjdXQ0VVVHI3aHpsenVKTVhmZVBVVlJlVXlrZ3dmRjg0b0lCemdWRkVDSVBYZmlEdkR3?oc=5",
+       "title": "AI 시대의 임금 재편: 숙련자와 비숙련자의 격차는 어떻게 벌어지는가",
+       "date": "2026-11-27"
+      },
+      {
+       "name": "한국공공정책신문",
+       "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE90VGdqVEZSeUR2M09XLVd4VVpQZ0pvY3lJOHNvZmxPME1iOXRIcGxNWTBKenU5MzFmU25yYXFCUk9DaGs?oc=5",
+       "title": "AI 숙련자와 비숙련자, 같은 사무실에서 임금 격차 62% 벌어진다",
+       "date": "2026-11-27"
+      }
+     ],
+     "date": "2026-11-27"
+    },
+    {
+     "id": "t20261128-03",
+     "region": "global",
+     "importance": "mid",
+     "company": "IBM",
+     "title": "미국 내 컨설턴트 비자 스폰서십 중단",
+     "body": "IBM이 미국 내 컨설턴트 직군에 대한 H-1B 비자 스폰서십을 중단했습니다. 이는 인도 등 해외 IT 인력의 미국 유입을 제한하며, 글로벌 인력 공급망에 변화를 예고하고 있습니다.",
+     "insight": "해외 거점(몰테일 등) 운영 시 현지 채용 경쟁력이 강화될 수 있는 반면, 글로벌 인재 확보 전략의 수정이 필요할 수 있습니다.",
+     "tags": [
+      "비자제한",
+      "IT컨설팅",
+      "글로벌채용"
+     ],
+     "sources": [
+      {
+       "name": "TechGig",
+       "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNbnp5cXRsUXRfVmNoMGRnSkZZQUVRcUI1UktadW9WbkF3OEtqMjJrdmFOUkpDQmZqYmJBaHprcXlMdTlINGF5eEN2c0puc1MwcmxISGZYU3dXeW4xREV1Sml6cllpdkhiaURHRVk2QzRRTm01TmZSMjZSREwweTdUcHlWa1hKUFg2RWgxb3FPcVpFSlU4S3BXR3hwWEdlX0lmam9SVnNFaXZRR3J5NjNIVWl6Tm14SmN4aFgwUjRZTHNEdzhyMHNBbzRNZ00tUElDUVpXQ0xpSFd4UnpnT21pdVY4aGF3ZGZPVUkzR0dSWUpGZXky?oc=5",
+       "title": "IBM ends US visa sponsorship for consultants, impacting Indian tech workers",
+       "date": "2026-11-27"
+      },
+      {
+       "name": "Newsweek",
+       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcFFaemUzTHpRYmFMZkNRRzBzRXNEbFdnc0UxcE0tUVB1c0d3VVRKSVl5T0NaZzFBSGZhVTNhc3JHSWE1YUVYZ094YTJHcXhMQWZpX1J0eWJyOUlhamFrNGlqaU5Ua0U5ZURQRjNTQTRob3NfYi1ySkItcE5DMVZuaUFVY2M3aU50VXk2UnRHcmZYZEpFV2I0dw?oc=5",
+       "title": "Scott Colom Targets H-1B Visas After Mississippi Senate Win",
+       "date": "2026-11-27"
+      }
+     ],
+     "date": "2026-11-27"
+    },
+    {
+     "id": "t20261128-05",
+     "region": "global",
+     "importance": "low",
+     "company": "Amazon",
+     "title": "글로벌 물류 거점 파업 및 처우 논란",
+     "body": "아마존 독일 등 11개 지역 노동자들이 블랙프라이데이를 맞아 임금 인상을 요구하며 파업을 진행 중입니다. 또한 미국 내 아마존 노동자들의 저임금 문제가 사회적 이슈로 부각되고 있습니다.",
+     "insight": "글로벌 물류(몰테일) 운영 시 현지 인력의 노무 리스크 관리와 적정 처우 설정이 안정적 서비스 운영의 핵심입니다.",
+     "tags": [
+      "물류파업",
+      "노무리스크",
+      "처우개선"
+     ],
+     "sources": [
+      {
+       "name": "Fortune",
+       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVjIyenZYZ3pNVkpFQjNrWkpEeVRRYXdDdmlMR1N5Z0RDczBuSTZMNThPSFpGNGl0c1pVN1FTX3hBQVY4RkQ0b3pTcXRwYlZCMjJjaEN5UDZIOVdNVlZNckFFa0dta2oxWEpkNmFicGlWWDB5T1JaQWF6bzYxZERZMll1cHF0OXhxV3BTVC1DY3VhOFVQcnF4MXlVNkl3SmxCVlEwdlRiTXBlRFhSVzZjUFE0WThJc08tU0tsdWNGbmhLQQ?oc=5",
+       "title": "Amazon workers on food stamps has tripled, and it's just one example of shrinking U.S. labor share",
+       "date": "2026-11-27"
+      },
+      {
+       "name": "Metaintro",
+       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcGZhdXVEOWFOcTNJamViem5NTkRkX1FUQ0pHUml3dEc3ZnhrWDBaR042cFdwYzRwSTNxdkVSRVhIRVVweTEwdy1hMzRld1E5NWx2LUtEWGFJdnFrbTNXdVRkdnlZZnhIOHRHdktWVEFwV1BrZ2RlZ3RBVWFnQWFkUmxfSmRTWTFJNmpVeURSblZuT2c?oc=5",
+       "title": "Amazon Faces Strikes at 11 German Sites and Protests in 20+ Countries Over Pay",
+       "date": "2026-11-27"
+      },
+      {
+       "name": "Retail Systems",
+       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdmNFVUhUd1BacFhXNmxORTJTYWxnQ3N2Wl9GbG1RWHlhWTdBSmlOSkhDWnBiNE9fZmxLWWRFMGphTVhzcHExNnROSGo2Wk1qdE5zdnlEczd5RWdNTUh0d3kzWkZVdUJ6dHI4Nnk1NThuV3BUZEllMGxpY05CaUR6Q1VRNzFKaG1QeHRzaE03S3N6NTFId0xxRnVSeVo?oc=5",
+       "title": "Amazon staff strike from Black Friday in international protest",
+       "date": "2026-11-27"
+      }
+     ],
+     "date": "2026-11-27"
+    }
+   ]
+  },
   {
    "date": "2026-11-27",
    "article_count": 138,

@@ -56,9 +56,456 @@
     ]
    }
   ],
-  "updated": "2026-11-27T02:10+09:00"
+  "updated": "2026-11-28T01:53+09:00"
  },
  "reports": [
+  {
+   "date": "2026-11-28",
+   "window_days": 1,
+   "article_count": 272,
+   "engine": "gemini-3-flash-preview",
+   "headline": "노란봉투법 시행 및 휴게시간 개정 등 노동법 변화와 AI 기반 HR 혁신 가속화",
+   "points": [
+    "2026년 3월 노란봉투법 시행에 따른 원·하청 노무 관리 및 근태 데이터 정교화 필요",
+    "12월 10일부터 4시간 근무 시 휴게시간 생략 가능 및 반차 사용 시 조기 퇴근 허용",
+    "SAP 1만 명 감원 등 글로벌 AI 구조조정 확산 속 국내 기업의 AI 채용·평가 도입 활발"
+   ],
+   "items": [
+    {
+     "cat": "labor",
+     "importance": "high",
+     "company": "고용노동부",
+     "title": "노란봉투법 시행 및 4시간 근무자 휴게시간 선택제 도입",
+     "body": "2026년 3월 노란봉투법 시행으로 원·하청 관계의 노무 리스크 관리가 중요해졌어요. 또한 12월 10일부터 근로자 요청 시 4시간 근무 후 휴게시간 없이 바로 퇴근이 가능해져 반차 활용도가 높아질 전망이에요.",
+     "insight": "스윗트래커 등 물류 현장이나 단시간 근로자가 있는 조직의 근태 규칙 업데이트가 필요해요. 특히 오후 반차 시 30분 일찍 퇴근하는 문화가 정착될 수 있도록 가이드를 마련해야 해요.",
+     "action": "취업규칙 내 휴게시간 예외 조항을 반영하고, 그룹사별 반차 사용 시 퇴근 시간 계산 로직을 점검해 보세요.",
+     "teams": [
+      "노무·ER",
+      "인사기획"
+     ],
+     "tags": [
+      "노란봉투법",
+      "휴게시간",
+      "근로기준법",
+      "반차"
+     ],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "시프티 블로그",
+       "url": "https://shiftee.io/ko/blog/article/yellow-envelope-act-compliance",
+       "title": "노란봉투법 근태관리 대응 가이드, 원·하청 소통과 현장 관리 3단계 2026년 3월 10일부터 개정 「노동조합 및 노동관계조정법」 제2조·제3조, 일명 노란봉투법이 시행되었습니다. 이번 개정으로... 2026-11-",
+       "date": "2026-11-28"
+      },
+      {
+       "name": "패션포스트",
+       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1BTU5kUkY5bEhlem42aENpcDhRT2h2TTZRSEkxSGYtNHNzSlZnNUUxSkIyYVVyd0pvbEZaVUlaZHN4MmRFUkZnY0tRYk0zSkxCZXdDWE5iWjZsVTBtQm9aSUp4WUxzT2Q4a3IxcWt6V1hqcHVvb1E?oc=5",
+       "title": "실효성과 편리성이 확보된 개정 연차유급휴가와 휴게시간",
+       "date": "2026-11-27"
+      },
+      {
+       "name": "국제뉴스",
+       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5oMkJKU0xXdnVHeV9VWlZjVEo5VVBEQzc5cXBZZTBSdnpjS3BYNzdBRmtjbmxycEZ2YzQyVGNyWWpKeEtuMFFUTDlkdkFhNWNRdW9fM3ZMT3ZjeEh5Xy1YRlc2T1FNUEJaWTRKcEhR?oc=5",
+       "title": "\"12월 10일부터 오후 반차 쓰면 30분 일찍 퇴근한다\"",
+       "date": "2026-11-27"
+      },
+      {
+       "name": "비건뉴스",
+       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ZUFo2VHQ2UzNlQy1ZblRxNEhkeWlETTM2UC12ZzlsbndTWEJOYWxmRmhlSnFGR0RrMmNfeWIxaGRFUnNwa01EcGFQbWhMVWpEcVk5eHFqMzd6R3gwMFlXWTRQUVJDZw?oc=5",
+       "title": "4시간 근무 휴게 생략, 근로자 요청 때 가능",
+       "date": "2026-11-27"
+      },
+      {
+       "name": "제주교통복지신문",
+       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE95U3NVNEhJeU85VTVPWW5tWnc5OXlwQVFOSjd0OVVjWFZjU09wTnJUb1RTWTZRTmlETk90ZjA4RHZYSlY2c2xvTmhlUmV0NUE1Q3J2UzBXeDJDOWI2NGllXw?oc=5",
+       "title": "4시간 근무자 휴게시간 생략, 12월 10일부터 가능",
+       "date": "2026-11-27"
+      }
+     ],
+     "date": "2026-11-28",
+     "id": "20261128-00"
+    },
+    {
+     "cat": "trend",
+     "importance": "high",
+     "company": "SAP",
+     "title": "글로벌 SW 공룡 SAP, AI 전환 위해 1만 명 규모 구조조정",
+     "body": "유럽 최대 소프트웨어 기업 SAP가 AI 중심의 조직 개편을 위해 최소 1만 명 규모의 감원을 검토 중이에요. 이는 MS에 이은 글로벌 IT 업계의 'AI발 인력 최적화' 흐름으로 분석돼요.",
+     "insight": "단순 운영 인력은 줄이고 AI 역량을 갖춘 인재로 재편하는 과정에서 글로벌 수준의 개발 인력이 시장에 유입될 가능성이 커요.",
+     "action": "글로벌 SaaS 및 ERP 관련 핵심 엔지니어 중 한국 시장 유입 가능 인력을 모니터링해 보세요.",
+     "teams": [
+      "채용",
+      "인사기획"
+     ],
+     "tags": [
+      "AI구조조정",
+      "인력최적화",
+      "글로벌트렌드"
+     ],
+     "our_group": false,
+     "talent": {
+      "level": "high",
+      "signal": "AI 전환 목적 대규모 감원 — 글로벌 SW 엔지니어 인력 시장 유입 예상"
+     },
+     "sources": [
+      {
+       "name": "Vietnam.vn",
+       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbDQzOUJUN21YemNJSHp5VThGZGptQ2N4S29SQ1NqcFhEOTdpVUE5ZGxkRlBNbzVuUGxvWU5SRExaNlNCYmZWUnR0NjNsOG51X1NZSTVKTzQwSTNaWk00cTZicWdJWjlNTTBqVTlmeUlkWXJfQlRHM25OeXdaakRYQjl2VGt1WEk?oc=5",
+       "title": "유럽 ​​최대 소프트웨어 회사가 1만 명을 해고합니다.",
+       "date": "2026-11-27"
+      },
+      {
+       "name": "조선일보",
+       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOOGdLUUdWaDcxUlNKWW5XUGZYOVZ4TmdjZ18xTDFNaFlPYzdFdWg2VW02OVNHc0lac0x0WEFrMFN4dVJOLW1mMEloOW11THFtYXlFQlBQbzRIc2hEQjk0emhsaXZrUkFoWVgyU0otcndJbkJ0elZVdDJ3cmpWU3diOXRXYw?oc=5",
+       "title": "유럽 최대 SW업체 SAP, 최소 1만명 감원 검토… MS 이어 ‘AI 구조조정’ 확산",
+       "date": "2026-11-27"
+      },
+      {
+       "name": "파이낸셜뉴스",
+       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5FMXVDZWlKT2tUbUVnUTFUSHIzV0FpMUZwRC1xcjVvUHVidUo2WmlqY0ltaU9JckdERGxqelR3dnNNcDJGaVlLMmw4a0NpdDR2YW5qZ0t3Y3JXUQ?oc=5",
+       "title": "'소프트웨어 공룡' SAP, AI 전환위해 1만명 감원 검토[글로벌AI브리핑]",
+       "date": "2026-11-27"
+      },
+      {
+       "name": "이투데이",
+       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBFdFJ3cjlBSkNqUEpEb1EzVFhHamdYdEpLZUp6VkpZZHZJRFJaNGhLRXpBMmZPOVl5TTNTY25YdE1hVVphLUZvdkY1dlRvUW5GVGdwUg?oc=5",
+       "title": "유럽 최대 소프트웨어 기업 SAP, AI發 최소 1만명 구조조정 추진",
+       "date": "2026-11-27"
+      },
+      {
+       "name": "연합뉴스",
+       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE54Z250NVdFT2dKaEV4R2FwUGsxYng2OW83MC04a1dCTEs5NXRzTi13SkUwMXZDcmctUEdBWHhYYXB6SFJ3bHdsS1FrdkQ2aS1ieGRFRW90ZUJVZVHSAWBBVV95cUxOQWR0UWlxWXVHR3prNE11dWJnc09HODc3LXZ2S0VheGp2Ykd3WU5vcFlBQTJvOWY1UjNwVm1vSjN2SnJJZmJYRE5GRVRsMDk3UWtESEVYTHpXbFY4T0JBUEc?oc=5",
+       "title": "유럽 최대 소프트웨어업체 SAP, 1만명 구조조정 검토",
+       "date": "2026-11-27"
+      }
+     ],
+     "date": "2026-11-27",
+     "id": "20261128-01"
+    },
+    {
+     "cat": "ecom",
+     "importance": "high",
+     "company": "네이버",
+     "title": "네이버 N배송 물류 거점 구축 위한 리더급 경력직 영입",
+     "body": "네이버가 N배송 서비스 강화를 위해 물류 거점 구축을 주도할 리더급 인재 영입에 나섰어요. 물류 인프라와 AI 쇼핑 에이전트 결합을 통해 이커머스 주도권을 강화하려는 전략이에요.",
+     "insight": "우리 그룹의 물류·배송(스윗트래커, 몰테일) 부문 핵심 인력에 대한 네이버의 타겟팅 채용 시도가 예상돼요.",
+     "action": "물류 솔루션 및 운영 부문 핵심 리더들의 리텐션(유지) 전략을 재점검하고 경쟁사 처우 수준을 파악해 보세요.",
+     "teams": [
+      "채용",
+      "인사기획"
+     ],
+     "tags": [
+      "네이버",
+      "물류채용",
+      "경쟁사동향",
+      "리더영입"
+     ],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "잡포스트",
+       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBkSFNmNXFMSFZNV1g0WVlQUUxVOHZNc3BJRDY0d2ZzNWNRQzBRNFg5VGNfTVB0VjB4OFJNS1ZBbTFqbXFqNElkREItZVgyTWwyRVZjNDhfRUphUFNTd2czT0c4VzZUOHVwLVFrZ1RB0gFyQVVfeXFMT0l3eF9EQ0hlR0tHU0VtZ2d1ai1VVUxUd1NNV3VaQ2IxRE9oa2pMOTdvNFZaWktmUndYa1VSTGtlcWF6QnpWeC14ZmlGMzBhU3RUTlNHc2lNWTBSS29DX0M3VGVNSkJNMTNQN2ZUY09OMVF3?oc=5",
+       "title": "네이버 N배송, 물류 거점 구축 이끌 리더급 경력직 영입",
+       "date": "2026-11-27"
+      },
+      {
+       "name": "MTN 머니투데이방송",
+       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA2OGpURjRvb1dJQlZPc1pqVE5OaU1XWFpDcTBjSHhzclN5S0txcjgwYWNRaUdOS1E5VG9TZVp1dnFTLTJqMFU3NndqY3RTV1lwS2xybDBqVVZ6Mng0V2JF?oc=5",
+       "title": "피클이 결정하면 네이버에서 결제…12월 AI 에이전트 주도권 다툼 본격화",
+       "date": "2026-11-27"
+      }
+     ],
+     "date": "2026-11-27",
+     "id": "20261128-02"
+    },
+    {
+     "cat": "ecom",
+     "importance": "mid",
+     "company": "SC제일은행",
+     "title": "금융권 디지털 전환 가속화에 따른 특별퇴직 실시",
+     "body": "SC제일은행이 디지털 전환에 맞춰 임금피크제 대상자 등에게 최대 39개월치 급여를 지급하는 특별퇴직을 시행해요. 은행권 전반에서 AI 도입과 맞물린 인력 구조조정이 확산 중이에요.",
+     "insight": "금융권의 IT/디지털 인력이나 운영 관리 인력이 시장에 나올 신호예요. 핀테크나 결제 솔루션 관련 직무 채용 시 참고하세요.",
+     "action": "금융권 퇴직 인력 중 이커머스 결제 시스템이나 CS 운영 관리에 적합한 인재 풀을 확보해 보세요.",
+     "teams": [
+      "채용",
+      "노무·ER"
+     ],
+     "tags": [
+      "희망퇴직",
+      "금융권",
+      "디지털전환"
+     ],
+     "our_group": false,
+     "talent": {
+      "level": "mid",
+      "signal": "특별퇴직 진행 — 금융 IT 및 운영 인력 유입 가능성"
+     },
+     "sources": [
+      {
+       "name": "시사저널",
+       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE14NHc5S2hLT1ZsN0tOcWxDMzZJdklsckdqYXVYM3hISDhVQzZKdjkwUUhtWWlCZjNmd1dTRml6ZlBLRUtPSU1GV3BWQTVlUVBhNVJwMHlyWjRIcTdpQWk2LXRVVk9pRnJYRjZkRXd1QVRwZkHSAXNBVV95cUxNeDR3OUtoS09WbDdLTnFsQzM2SXZJbHJHamF1WDN4SEg4VUM2SnY5MFFIbVlpQmYzZndXU0ZpemZQS0VLT0lNRldwVkE1ZVFQYTVScDB5clo0SHE3aUFpNi10VVZPaUZyWEY2ZEV3dUFUcGZB?oc=5",
+       "title": "SC제일은행, 특별퇴직…최대 39개월치 급여 지급",
+       "date": "2026-11-27"
+      },
+      {
+       "name": "연합인포맥스",
+       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1fMHBMOVdQaTZiUFpYcVdFVFc1SWxiSDR2a0dqd3RSX3ZJdTBlb0hTRE1pZ05adkNpM0k5ZVh6RWhaVWtvLV8zaWt3dUxPLVhqc3NLSlRnNkR3VXRtcHgxMWlER3BKRmxZMkx0elZmZS05cTNs?oc=5",
+       "title": "SC제일은행, 임피 직원 특별퇴직…최대 39개월치 급여 지급 |",
+       "date": "2026-11-27"
+      },
+      {
+       "name": "메디컬투데이",
+       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE16NDBOWFVwc1pvUldTSUxES29mMlp2emtkYkhPZ09GSU5DaE4ybUdBVnFlS2FhajQzSVRKMlVyYU9seUFLVmpWMVBDZnRjaHNxMFA5N2hETjJkSDEtRU5hYmx0UU1fTzc1bGxiQw?oc=5",
+       "title": "SC제일은행, 디지털 전환 속 연말 특별퇴직…최대 39개월치 지급",
+       "date": "2026-11-27"
+      },
+      {
+       "name": "알파경제",
+       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE03MmpVM2o2Q0VSZVJLX1ZlSWVPUVdLYjZULU9WWjE4azNvYktiM0hHMjNtOFY1QktXcTVNdmdxNTJNX0xRaE1JSUZsR3pIMktNUDYyclVzd3I4XzZ2ZENhOWtmOTF1N1VFOGlMNDJn?oc=5",
+       "title": "SC제일은행, 임금피크제 대상 특별퇴직…월 고정급 최대 39개월분 지급",
+       "date": "2026-11-27"
+      }
+     ],
+     "date": "2026-11-27",
+     "id": "20261128-08"
+    },
+    {
+     "cat": "trend",
+     "importance": "mid",
+     "company": "업계 전반",
+     "title": "AI 채용 솔루션 도입 시 성차별 및 공정성 검증 주의보",
+     "body": "AI 채용 도구가 특정 성별을 선호하는 등 편향성 문제로 폐기되는 사례가 발생하고 있어요. 인사혁신처와 주요 기업들은 AI 시대의 공정한 평가 전략 모색에 집중하고 있어요.",
+     "insight": "효율성만 따져 AI 면접이나 서류 스크리닝을 도입할 경우 브랜드 이미지 타격과 법적 리스크가 발생할 수 있음을 인지해야 해요.",
+     "action": "현재 활용 중이거나 도입 검토 중인 AI 채용 도구의 알고리즘 편향성 검증 리포트를 솔루션사에 요청해 보세요.",
+     "teams": [
+      "채용",
+      "인사기획"
+     ],
+     "tags": [
+      "AI채용",
+      "채용공정성",
+      "HR테크"
+     ],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "JTBC",
+       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE13ZTdsMzkxczYwV0M0c3RsbjlaNUFFYWFRM0ZvV2c1UFpJQWVSMHlncXZuSU51N0Yzc0gzOVNISDIyOWJ6YmE1ZWw2dy11dVpObXpsQQ?oc=5",
+       "title": "‘AI 채용’은 남성을 선호해?…성차별 논란에 ‘자체 폐기’",
+       "date": "2026-11-27"
+      },
+      {
+       "name": "동아일보",
+       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE91MzViNU9hT2tRR2phTzJLUVd0cVBGTHRHTEplSk5NSEhVWjAyU1F4R2Noc2dYeUszeW4tNzFhTnBjY0tBRVROYkZLa05Ybl9TV2RnU3loN1M3akh2VkRfQ3dqMGotQm4wb0hGNktNSdIBZkFVX3lxTE5CNHBWTWFKTGpMMVlWaVNXZEp2N3FiYjRqRlAwWlM0OWVwbC1oUjIxRlpJX2QzM1lXbVZxRG9QQlR5ZVE5a19RSTNUa0JQNzdOQWNsaXgyQVFYR2hYNklieUNadUlfZw?oc=5",
+       "title": "[기고] AI 면접 솔루션 도입 전, 인사팀이 챙겨야 할 4가지",
+       "date": "2026-11-27"
+      },
+      {
+       "name": "파이낸셜뉴스",
+       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5SSzlISVpOU2tOSjRwRlFBS2I0OTczbzFOMnB5TnJmXzZudXZXY3dxaVVDTzhLN2hvQnFyc2w4V25hcTZqN2x3NW1PTGtuam9kQ2RRV3oxZXhIUQ?oc=5",
+       "title": "인사처, AI 시대 핵심 인재 확보 세미나…채용·평가 전략 모색",
+       "date": "2026-11-27"
+      }
+     ],
+     "date": "2026-11-27",
+     "id": "20261128-03"
+    },
+    {
+     "cat": "trend",
+     "importance": "mid",
+     "company": "업계 전반",
+     "title": "저성장 시대, 핵심인재 중심의 인력 운영과 온보딩 강화",
+     "body": "저성장 기조가 고착화되면서 전사적 채용보다는 핵심인재 리텐션과 신규 입사자의 빠른 적응을 돕는 온보딩 솔루션이 HR의 핵심 과제로 부상하고 있어요.",
+     "insight": "채용 규모를 늘리기 어려운 시기일수록 기존 인력의 '시간의 밀도'를 높이고 조직 몰입을 이끌어내는 문화적 장치가 중요해요.",
+     "action": "우리 그룹만의 '리더용 온보딩 가이드'를 제작하여 신규 입사자 이탈률을 낮추는 캠페인을 시작해 보세요.",
+     "teams": [
+      "조직문화·HRD",
+      "인사기획"
+     ],
+     "tags": [
+      "핵심인재",
+      "온보딩",
+      "인력운영",
+      "저성장시대"
+     ],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "오프피스트",
+       "url": "https://www.offpiste.ai/articles/저성장-시대-인력구조-혁신과-핵심인재-중심의-인력-운영-2790",
+       "title": "저성장 시대 인력구조 혁신과 핵심인재 중심의 인력 운영",
+       "date": "2026-11-27"
+      },
+      {
+       "name": "오프피스트",
+       "url": "https://www.offpiste.ai/articles/신규입사자를-돕는-리더의-10가지-온보딩-솔루션-2788",
+       "title": "신규입사자를 돕는 리더의 10가지 온보딩 솔루션",
+       "date": "2026-11-27"
+      },
+      {
+       "name": "오프피스트",
+       "url": "https://www.offpiste.ai/articles/강한-사람과-강한-조직-2786",
+       "title": "강한 사람과 강한 조직",
+       "date": "2026-11-27"
+      }
+     ],
+     "date": "2026-11-27",
+     "id": "20261128-05"
+    },
+    {
+     "cat": "labor",
+     "importance": "mid",
+     "company": "고용노동부",
+     "title": "연속 야간근로 3일 제한 및 포괄임금 오남용 근로감독 강화",
+     "body": "정부가 근로자 건강권 보호를 위해 연속 야간근로를 3일 이하로 제한하는 방안을 추진해요. 또한 '가짜 3.3' 위장고용과 포괄임금제 오남용에 대한 집중 감독이 이어지고 있어요.",
+     "insight": "물류 센터(몰테일 등)의 야간 교대 근무 스케줄과 프리랜서 계약 형태에 대한 법적 리스크 점검이 시급해요.",
+     "action": "그룹사 내 야간 근무 현황을 전수 조사하고, 연속 근무 일수가 3일을 초과하지 않도록 시프트 조정을 검토해 보세요.",
+     "teams": [
+      "노무·ER",
+      "보상·복리후생"
+     ],
+     "tags": [
+      "야간근로",
+      "근로감독",
+      "포괄임금제",
+      "위장고용"
+     ],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "시프티 블로그",
+       "url": "https://shiftee.io/ko/blog/article/weekly-hr-news-2026-november-week-2",
+       "title": "2026년 11월 2주차 HR 소식 | 위장고용·외국인 고용허가·근로감독·산업안전 시프티 주간 HR 소식 - 11월 2주차 2026년 11월 2주차에는 ‘가짜 3.3’ 위장고용과 사업장 쪼개기 의심 사업장에 ... ",
+       "date": "2026-11-28"
+      },
+      {
+       "name": "연합뉴스",
+       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE12VzYxOVRVbDNNOU01T1F2b0NyOUxvUkV3cklzTld5WkRxc0QxT3pmNlB6TzR2WWFjSzRSWjZxenFoeTY0SGRTWEltYVdhUjdTa0dVNnZqV0o0TDNiQ2k0X9IBYEFVX3lxTE12VzYxOVRVbDNNOU01T1F2b0NyOUxvUkV3cklzTld5WkRxc0QxT3pmNlB6TzR2WWFjSzRSWjZxenFoeTY0SGRTWEltYVdhUjdTa0dVNnZqV0o0TDNiQ2k0Xw?oc=5",
+       "title": "정부, '연속 야간근로 3일 이하 제한' 추진…초심야 별도 관리",
+       "date": "2026-11-27"
+      }
+     ],
+     "date": "2026-11-28",
+     "id": "20261128-04"
+    },
+    {
+     "cat": "trend",
+     "importance": "low",
+     "company": "그라비티 네오싸이언",
+     "title": "IT 기업 '일·생활 균형 우수기업' 선정 및 단축 근무 사례",
+     "body": "그라비티 네오싸이언 등 IT 기업들이 금요일 단축 근무와 유연근무제 도입 성과를 인정받아 고용노동부 우수기업으로 선정되었어요.",
+     "insight": "개발자 및 IT 인재들이 선호하는 복지 제도가 '시간 주권' 확보로 수렴되고 있음을 보여줘요.",
+     "action": "우리 그룹의 유연근무제 만족도를 조사하고, 우수 사례를 채용 브랜딩 콘텐츠로 활용해 보세요.",
+     "teams": [
+      "조직문화·HRD"
+     ],
+     "tags": [
+      "워라밸",
+      "유연근무제",
+      "채용브랜딩"
+     ],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "게임메카",
+       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBjaTFQU0twUnZJOWFleHZuMnhBQkVfWHE1Q3prd1h2MjZFV3BLd1d5eEVSRlQ1R1hqVEIxTFNQTC1GWWhodTd3ZjhnR0ZyMmZ5S1lad2c2MDBmcVHSAVtBVV95cUxQY2kxUFNLcFJ2STlhZXh2bjJ4QUJFX1hxNUN6a3dYdjI2RVdwS3dXeXhFUkZUNUdYalRCMUxTUEwtRlloaHU3d2Y4Z0dGcjJmeUtZWndnNjAwZnFR?oc=5",
+       "title": "그라비티 네오싸이언, 대한민국 일·생활 균형 우수기업 선정",
+       "date": "2026-11-27"
+      },
+      {
+       "name": "재경일보",
+       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBfMU51VDh2bnVGQ3YyRldRZndqbkVHSWhKRTIweXk4SFdVVGJBMjgtWjdTZmhSNDZpMmFabkk4c3FNU3NvVF9RV1M1MA?oc=5",
+       "title": "네오싸이언·베이글코드 일·생활 균형 우수기업 선정 : 기업·산업",
+       "date": "2026-11-27"
+      },
+      {
+       "name": "게임포커스",
+       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9aMU5nNTNRZm1iUk5LQnE3ZnFJUF9sS2txUkpkRWM0Xy0wTmpwd0dtaC1najhUQ194djFWdm1TZ3VDR3ZWVmlFOVNkTm1pN0o0WTluT3R3bDdZVGtfak9ERA?oc=5",
+       "title": "그라비티 네오싸이언, 고용노동부 주관 일·생활 균형 우수기업 선정... 금요일 단축 근무 시범 운영",
+       "date": "2026-11-27"
+      },
+      {
+       "name": "지디넷코리아",
+       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9vV21MTVBKbVJyeWxkVGc5SzVNODZ2aXUxY1RqQ2ZDSU9MZHkzMi1kQkhsQVpiSFQ1cGVEWDZpY0RZVmFMTUxIbWQ5ZHdrUEpnZWpQVjVn?oc=5",
+       "title": "그라비티 네오싸이언, '일·생활 균형 우수기업' 선정",
+       "date": "2026-11-27"
+      }
+     ],
+     "date": "2026-11-27",
+     "id": "20261128-09"
+    },
+    {
+     "cat": "trend",
+     "importance": "low",
+     "company": "시프티",
+     "title": "ERP-근태관리 연동을 통한 급여 정산 자동화 전략",
+     "body": "혼합 근무제가 확산됨에 따라 출퇴근 기록과 휴가 데이터를 ERP와 실시간 연동하여 급여 정산 오류를 줄이는 자동화 도입 절차가 강조되고 있어요.",
+     "insight": "수동 정산 비중이 높은 계열사가 있다면 업무 효율화를 위해 시스템 통합을 검토할 시점이에요.",
+     "action": "그룹사별 근태 시스템과 급여 솔루션의 연동 현황을 파악하고 자동화 가능 영역을 도출해 보세요.",
+     "teams": [
+      "인사기획",
+      "노무·ER"
+     ],
+     "tags": [
+      "HR테크",
+      "근태관리",
+      "급여자동화"
+     ],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "시프티 블로그",
+       "url": "https://shiftee.io/ko/blog/article/efficient-time-and-attendance-management-automation-2026",
+       "title": "2026년, 근태관리를 효율적으로 하는 방법과 자동화 도입 절차 2026년 기업의 HR 환경은 빠르게 변화하고 있습니다. 혼합 근무제가 일상화되면서 사무직, 외근직, 교대근무 인력이 한 조직... 2026-04-27",
+       "date": "2026-11-28"
+      },
+      {
+       "name": "시프티 블로그",
+       "url": "https://shiftee.io/ko/blog/article/erp-integration-attendance-management-data-consistency",
+       "title": "ERP·근태관리 연동 가이드: 데이터 관리 기준과 주요 체크사항 기업의 인사 운영에서는 인사정보뿐 아니라 근무일정, 출퇴근기록, 휴가, 근로시간 등 다양한 근태 데이터를 함께 관리해야 합니다... 2026-08-26",
+       "date": "2026-11-28"
+      },
+      {
+       "name": "시프티 블로그",
+       "url": "https://shiftee.io/ko/blog/article/payroll-automation-and-attendance-data-management",
+       "title": "급여정산 오류를 줄이는 근태 데이터 관리와 임금명세서 발송 자동화 전략 매월 급여정산 시즌이 다가오면 인사·급여 담당자는 반복되는 확인 작업과 데이터 검증에 많은 시간을 할애하게 됩니다. 근로시간 ... 2026-0",
+       "date": "2026-11-28"
+      }
+     ],
+     "date": "2026-11-28",
+     "id": "20261128-07"
+    },
+    {
+     "cat": "market",
+     "importance": "low",
+     "company": "잡플래닛",
+     "title": "산업별 마케터 연봉 동향 발표 및 IT·이커머스 경쟁력 확인",
+     "body": "산업군별 마케터 초봉과 연차별 연봉 데이터가 공개되었어요. 이커머스와 IT 플랫폼 분야의 마케팅 인재 확보 경쟁이 여전히 치열한 것으로 나타났어요.",
+     "insight": "메이크샵, 플레이오토 등 솔루션 사업부 마케터들의 연봉 수준이 시장 평균 대비 경쟁력이 있는지 확인해 볼 지표예요.",
+     "action": "공개된 산업별 연봉 밴드와 우리 그룹 마케팅 직군 연봉을 비교 분석해 보세요.",
+     "teams": [
+      "채용",
+      "보상·복리후생"
+     ],
+     "tags": [
+      "마케터연봉",
+      "연봉동향",
+      "인재확보"
+     ],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "잡플래닛",
+       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1QWnl0SURsRTN3TFZWY3RpeUxDWVNUa0hHd2YxcFMzd3NMeDZCMXVOMS1YTDhyVHZxTkZkbzFSRU1DUkNnZjZjbjFlZUxZV2d2Z0xoT1VMNzFSVl8wRktXWDZaa2pZNU9INjhhM3o3aHAzQQ?oc=5",
+       "title": "마케터 연봉 가장 높은 산업은? 초봉·연차별 비교하기",
+       "date": "2026-11-28"
+      }
+     ],
+     "date": "2026-11-28",
+     "id": "20261128-06"
+    }
+   ]
+  },
   {
    "date": "2026-11-27",
    "window_days": 1,
