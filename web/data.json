@@ -56,9 +56,445 @@
     ]
    }
   ],
-  "updated": "2026-11-28T01:53+09:00"
+  "updated": "2026-11-29T00:41+09:00"
  },
  "reports": [
+  {
+   "date": "2026-11-29",
+   "window_days": 1,
+   "article_count": 168,
+   "engine": "gemini-3.8-flash",
+   "headline": "다나와 보안 사고 비상 대응 및 연말 노동 규제·글로벌 테크 구조조정 점검",
+   "points": [
+    "당사 다나와 해킹 및 개인정보 유출 사고에 따른 비상근무 지원과 보안·개발 인력 리텐션 대응이 시급해요.",
+    "고용노동부의 '연속 야간근무 3일 이하' 권고 등 근무 형태 규제 강화와 연말 평가·근태 점검이 요구돼요.",
+    "SAP·마이크로소프트 등 빅테크의 AI 중심 인력 재편 및 게임사 구조조정으로 우수 개발 인재 유입 기회가 확대됐어요."
+   ],
+   "items": [
+    {
+     "cat": "ecom",
+     "importance": "high",
+     "company": "커넥트웨이브",
+     "title": "다나와 해킹 및 개인정보 유출 사태로 비상 운영 돌입",
+     "body": "당사 다나와 서비스가 해킹으로 인해 회원 정보와 협력사 정산계좌 등이 일부 유출되어 사흘간 중단 후 부분 재개되었어요.",
+     "insight": "복구 과정에서 개발·인프라 조직의 극심한 피로도와 불안감이 예상되므로 리텐션 관리 및 보상 연계가 필수적이에요.",
+     "action": "비상 복구 인력에 대한 대체휴무·연장근무 수당 지급 및 보안 인력 대상 케어 방안을 즉시 수립해 보세요.",
+     "teams": [
+      "인사기획",
+      "노무·ER",
+      "조직문화·HRD"
+     ],
+     "tags": [
+      "다나와",
+      "커넥트웨이브",
+      "보안사고",
+      "비상대응"
+     ],
+     "our_group": true,
+     "sources": [
+      {
+       "name": "전자신문",
+       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBNM2l6ZmhaSFdueWlOWnJUeWgxSGJ6NzQtU2U1UnJLblBObmlFc21TNnNVbjZWTVcwX0Z1N1lhQnpSdV9Jc05RTm1sdFpmUQ?oc=5",
+       "title": "다나와 해킹으로 개인정보 유출…사흘째 서비스 중단",
+       "date": "2026-11-28"
+      },
+      {
+       "name": "CEO저널",
+       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBTeHpEcHBDWVFDQUdJcXFRMjE5b3p6Y3RHVVUwNFdoSk00UUlDZnJTR2dpdElyZWI4azladlFyX1BEc0tFbXJyNHEtMFNDb0owWmlpcjdraF85WVVna0pJWFp2WlZCUE56ZTFj0gFrQVVfeXFMUFN4ekRwcENZUUNBR0lxcVEyMTlvenpjdEdVVTA0V2hKTTRRSUNmclNHZ2l0SXJlYjhrOVp2UXJfUERzS0VtcnI0cS0wU0NvSjBaaWlyN2toXzlZVWdrSklYWnZaVkJQTnplMWM?oc=5",
+       "title": "하우성 커넥트웨이브 대표, 다나와 보안사고 추정 서비스 전면 중단…21시간째 복구 안 돼",
+       "date": "2026-11-28"
+      },
+      {
+       "name": "뉴스웨이",
+       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1EU1l3ZUlTR0xkRzlYMW82YkFnQ25YaDZfamxiNTRDeTJwTjVJamVqTnBzN3BBb1ZYbWFNYnlhdVgxSnJKd0NrS1lmaTJ4Qy04ZEZOY19FTVBSTE1ZV3V2UGNiLWh6QXdQWlE?oc=5",
+       "title": "다나와, 해킹 사흘 만에 서비스 일부 재개···전체 정상화는 미정",
+       "date": "2026-11-28"
+      },
+      {
+       "name": "뉴스1",
+       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5jRVJTWTc0aXBVcE44blV0Q0VfaFBhYzU1TzE3cW15Q0txT3Fxemp4S3ZhTmFTWkFmNUZ6Y2J6MUFONVI1MnBtRFNvYWZ6dW1IOVR0WkhGSzJXTHQw?oc=5",
+       "title": "다나와, 사흘 만에 서비스 부분 재개…조회·로그인 먼저 열어",
+       "date": "2026-11-28"
+      },
+      {
+       "name": "이데일리",
+       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNU1hJaHpHalJlVHYyWTFjZFJianczdy0zZzljWTVXaWQ2UWpzaFdkbHNoZUF0RVZfWWNYbll3bzY5a0dqb3RwaF9mdFJSSDBOd0R1MkpYbWJseDR5N0k1cTRSdkxBbHhMVkpCdnk0XzY2MllLR092SEVKblpBellnQg?oc=5",
+       "title": "'해킹' 다나와, 사흘째 서비스 중단…\"일부 회원 개인정보 유출\"",
+       "date": "2026-11-28"
+      },
+      {
+       "name": "글로벌E",
+       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9nYUQwSXEzSl9vNF9qMHlwMTBpQXBYTTFxZXpSQmlmemNXOU80eS12UEFnSzBMdlppSVUzem5WbUVGWWhyckVVcGxrdkd0c2REeXpuZ3JDcE9JYlZDVHZVb3RFcjg1anJ5Vk1fMUx0MNIBb0FVX3lxTE9nYUQwSXEzSl9vNF9qMHlwMTBpQXBYTTFxZXpSQmlmemNXOU80eS12UEFnSzBMdlppSVUzem5WbUVGWWhyckVVcGxrdkd0c2REeXpuZ3JDcE9JYlZDVHZVb3RFcjg1anJ5Vk1fMUx0MA?oc=5",
+       "title": "다나와, 개인정보 유출 확인···회원·결제내역·협력사 정산계좌 노출",
+       "date": "2026-11-28"
+      },
+      {
+       "name": "지디넷코리아",
+       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE93dzRKVUNwSXFKSmdFNGpMNlFzLXdZWmFCcFMtdUthQUg2NGdOU3RrdzF5V3l1S0Q1QUoxYTl0NzBtQ19NUkd3ZXg2R3NhRTNMNjhZUnpR?oc=5",
+       "title": "다나와 \"회원정보 일부 유출 확인\"…예스24 때와 판박이?",
+       "date": "2026-11-28"
+      }
+     ],
+     "date": "2026-11-28",
+     "id": "20261129-00"
+    },
+    {
+     "cat": "labor",
+     "importance": "high",
+     "company": "고용노동부",
+     "title": "정부, '연속 야간근무 3일 이하' 권고 가이드라인 발표",
+     "body": "고용노동부가 근로자 건강권 보호를 위해 연속 야간근무를 3일 이하로 제한하는 권고안을 제시하고 새벽배송 등은 별도 논의 중이에요.",
+     "insight": "당사 물류(몰테일, 스윗트래커) 및 야간 교대 교대조가 있는 현장 운영 체계 전반에 선제적 재검토가 필요해요.",
+     "action": "물류 계열사 및 교대 근무자의 연속 야간근무 현황을 파악하고 권고 기준에 맞춘 교대표 개편안을 마련해 보세요.",
+     "teams": [
+      "노무·ER",
+      "인사기획"
+     ],
+     "tags": [
+      "야간근무",
+      "노동부권고",
+      "근로시간",
+      "물류"
+     ],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "뉴닉",
+       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5QNDlXcTFZQmpUYkZYTlg4MFRoVXlXNzZnaUZEWGc4NGlERjgyZUw5YlRmZGs0TkJaX3lxazFpbkFsMmNHRUZ4MUM3Tk42cTJtYlhJ?oc=5",
+       "title": "연속 야간근무 3일 이하로 제한된다고? 고용노동부 권고안 내용 총정리 🌙",
+       "date": "2026-11-28"
+      },
+      {
+       "name": "뉴시스",
+       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBQejFhbEk0eFRPTnJWcEVLb25KSnI5dkstY1dLVWdrV3JQS3ZXa1AzRnUzQ0dlV0M1LVlwSTJpUFpxbFR6WnZxYkZmbVNrZndkQ2k2ajJDX1k1OW94WGpMdjBlU3VKZXp4M2pYS19UT3lHMFlRanJUatIBeEFVX3lxTFBQejFhbEk0eFRPTnJWcEVLb25KSnI5dkstY1dLVWdrV3JQS3ZXa1AzRnUzQ0dlV0M1LVlwSTJpUFpxbFR6WnZxYkZmbVNrZndkQ2k2ajJDX1k1OW94WGpMdjBlU3VKZXp4M2pYS19UT3lHMFlRanJUag?oc=5",
+       "title": "정부, 야간근무 '연속 3일 이하' 권고…새벽배송은 별도 논의",
+       "date": "2026-11-28"
+      }
+     ],
+     "date": "2026-11-28",
+     "id": "20261129-01"
+    },
+    {
+     "cat": "market",
+     "importance": "high",
+     "company": "SAP",
+     "title": "SAP, AI 전환 위해 전사 1만 명 규모 감원 검토",
+     "body": "SAP가 전사적인 AI 전환 추진 과정에서 전 부서를 대상으로 최소 1만 명 규모의 대규모 인력 감축을 검토하고 있어요.",
+     "insight": "글로벌 B2B SaaS 및 엔터프라이즈 솔루션 아키텍트 등 핵심 IT 인력이 대거 시장에 유입될 가능성이 높아요.",
+     "action": "B2B 커머스 솔루션(메이크샵 등)에 적합한 글로벌 ERP 및 솔루션 개발자 인재풀을 선제적으로 타겟팅해 보세요.",
+     "teams": [
+      "채용"
+     ],
+     "tags": [
+      "SAP",
+      "구조조정",
+      "B2BSaaS",
+      "핵심인재"
+     ],
+     "our_group": false,
+     "talent": {
+      "level": "high",
+      "signal": "대규모 감원 추진 — B2B 및 클라우드 전문 인력 유출 예상"
+     },
+     "sources": [
+      {
+       "name": "위런치",
+       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBRUkliM2E0U2J0NllkRlB4V0oxdnNWeWp0TFRKTW95M1N5ZGRHb0k5d1RJQ0dUdW5pQnktTUt2dlA0akFZaURIcTM2d1huZkhLdWJ2ZkhVQ3B6VWdpQjFNZ0JIQXM?oc=5",
+       "title": "SAP, AI 전환 위해 최소 1만명 감원 검토…모든 부서 절감 대상",
+       "date": "2026-11-28"
+      }
+     ],
+     "date": "2026-11-28",
+     "id": "20261129-02"
+    },
+    {
+     "cat": "trend",
+     "importance": "mid",
+     "company": "오프피스트",
+     "title": "AI 시대 성과관리 한계와 HR 패러다임 전환 논의",
+     "body": "AI 도구 도입이 확산되며 전통적 성과 평가의 모호성이 증가하고, 피드백 방식 및 인력 구조 혁신의 필요성이 제기되고 있어요.",
+     "insight": "AI 툴을 적극 활용하는 실무자의 성과 측정 기준을 재정의하고 리더의 코칭 역량을 강화할 시점이에요.",
+     "action": "팀장급 리더를 대상으로 AI 활용 환경에서의 성과 관리 가이드와 정성 피드백 교육 세션을 기획해 보세요.",
+     "teams": [
+      "조직문화·HRD",
+      "인사기획"
+     ],
+     "tags": [
+      "AI성과관리",
+      "HRD",
+      "조직문화",
+      "리더십"
+     ],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "오프피스트",
+       "url": "https://www.offpiste.ai/articles/ai-시대-일하는-방식과-hr의-근본적-변화-2789",
+       "title": "ai 시대 일하는 방식과 hr의 근본적 변화",
+       "date": "2026-11-27"
+      },
+      {
+       "name": "오프피스트",
+       "url": "https://www.offpiste.ai/articles/hr-insight-hr-ai로-새로운-가치를-만들어가다-2784",
+       "title": "hr insight hr ai로 새로운 가치를 만들어가다",
+       "date": "2026-11-27"
+      },
+      {
+       "name": "오프피스트",
+       "url": "https://www.offpiste.ai/articles/ai가-피드백까지-해준다고-그럼-리더는-뭘-하지-2781",
+       "title": "ai가 피드백까지 해준다고 그럼 리더는 뭘 하지",
+       "date": "2026-11-27"
+      },
+      {
+       "name": "오프피스트",
+       "url": "https://www.offpiste.ai/articles/ai와-함께-일하는-조직의-성과관리가-더-어려운-세-가지-이유-2776",
+       "title": "ai와 함께 일하는 조직의 성과관리가 더 어려운 세 가지 이유",
+       "date": "2026-11-27"
+      }
+     ],
+     "date": "2026-11-27",
+     "id": "20261129-06"
+    },
+    {
+     "cat": "trend",
+     "importance": "mid",
+     "company": "마이크로소프트",
+     "title": "MS, 성과 극대화 중심 평가 보상 및 채용 정책 개편",
+     "body": "MS가 고성과자에게 주식을 몰아주고 저성과자를 압박하는 평가 방식을 도입하며, 신입 채용을 줄이고 내부 배치를 우선하기로 했어요.",
+     "insight": "빅테크를 중심으로 일괄적 보상보다 AI 기여도 및 실질적 성과에 차등을 두는 초개인화 평가 보상 모델이 확산 중이에요.",
+     "action": "연말 평가 시즌을 맞아 그룹 내 핵심 기여자에 대한 차등 보상 밴드와 성과급 차등 폭을 재점검해 보세요.",
+     "teams": [
+      "인사기획",
+      "보상·복리후생"
+     ],
+     "tags": [
+      "마이크로소프트",
+      "평가제도",
+      "성과보상",
+      "내부배치"
+     ],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "SeattleN",
+       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1DTE4wdV83YmxmVjZrbmNaQ1NIbWxOU0FURVRnWkFOOE9jQnVyN0hKSjEtZldfeWFMblhDb0RRNmhUR0lFUTU1RnhB?oc=5",
+       "title": "마이크로소프트, 직원 평가 더 독해진다…“성과 좋으면 주식 더 주고, 못하면 압박” > 시애틀 뉴스/핫이슈",
+       "date": "2026-11-28"
+      },
+      {
+       "name": "SeattleN",
+       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9hOHhnUlpwOXlFeTVnWUVhTVR5cmZjdUxjUzFlUFVrUGt6azk4NndMdVJUMnFBT0otT2VnTVU4MnM2dlhBcjUwWWZB?oc=5",
+       "title": "MS 나델라 “AI시대 적응 어렵다면 떠날 선택권 준 것이다” > 시애틀 뉴스/핫이슈",
+       "date": "2026-11-28"
+      },
+      {
+       "name": "토큰포스트",
+       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE91QzM0MVg0dkVscG1xRUp5ZlZZc3pFMGxwajZ4b0FRRDBnVDRiaHN2Rk9mRy1BRW9WT0FyS19QeE5FUXhYTGJuSGdFZGN3TG5VR2s1VEl30gFWQVVfeXFMT3VDMzQxWDR2RWxwbXFFSnlmVllzekUwbHBqNnhvQVFEMGdUNGJoc3ZGT2ZHLUFFb1ZPQXJLX1B4TkVReFhMYm5IZ0VkY3dMblVHazVUSXc?oc=5",
+       "title": "마이크로소프트, 신입 채용 늦추고 내부 재배치 우선",
+       "date": "2026-11-28"
+      }
+     ],
+     "date": "2026-11-28",
+     "id": "20261129-05"
+    },
+    {
+     "cat": "ecom",
+     "importance": "mid",
+     "company": "SSG닷컴",
+     "title": "SSG닷컴, 7년 만에 장보기·신세계몰 인적분할 단행",
+     "body": "SSG닷컴이 장보기 중심 조직과 명품·패션 중심의 신세계몰로 조직을 7년 만에 전격 인적분할하기로 결정했어요.",
+     "insight": "대규모 조직 개편 과정에서 플랫폼 기획자 및 MD 직무의 이탈 가능성이 높아 우수 인재 확보 기회예요.",
+     "action": "신선·장보기 및 버티컬 커머스 경력을 보유한 기획·MD 인력을 대상으로 다나와·에누리 영입 파이프라인을 구축해 보세요.",
+     "teams": [
+      "인사기획",
+      "채용"
+     ],
+     "tags": [
+      "SSG닷컴",
+      "인적분할",
+      "조직개편",
+      "이커머스"
+     ],
+     "our_group": false,
+     "talent": {
+      "level": "mid",
+      "signal": "조직 분할 — 이커머스 기획·MD 인력 유입 기회"
+     },
+     "sources": [
+      {
+       "name": "아시아타임즈",
+       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9xeHZPQUhYSk9lSFJIMXZnY0NBejk1VGp2c0FZbldsUEFBeEdZd25nQW1OMWdiU25lNHlRejd5TWd0dGtmZTkxMWJDcFRUOVJfcktZTjc3OTdYMXptOUE?oc=5",
+       "title": "SSG닷컴, 7년 만에 인적분할…장보기 키우고 신세계몰은 명품 강화",
+       "date": "2026-11-28"
+      }
+     ],
+     "date": "2026-11-28",
+     "id": "20261129-03"
+    },
+    {
+     "cat": "market",
+     "importance": "mid",
+     "company": "XL Games",
+     "title": "XL Games, 신작 부진에 대대적 구조조정 및 폐업 검토",
+     "body": "XL Games가 아키에이지 연대기 판매 기대 미달로 대규모 구조조정을 추진하며 폐업 가능성까지 열어두고 있어요.",
+     "insight": "대규모 개발 인력(클라이언트, 서버, 엔진 개발자)이 일시에 이직 시장으로 쏟아져 나올 가능성이 매우 커요.",
+     "action": "고급 백엔드 및 그래픽/엔진 개발 인력을 대상으로 다나와 기술개발본부 채용 제안을 적극 검토해 보세요.",
+     "teams": [
+      "채용"
+     ],
+     "tags": [
+      "XLGames",
+      "구조조정",
+      "게임개발자",
+      "인재확보"
+     ],
+     "our_group": false,
+     "talent": {
+      "level": "high",
+      "signal": "대규모 구조조정 — 고급 서버·클라이언트 개발자 유입 예상"
+     },
+     "sources": [
+      {
+       "name": "Mezha.net",
+       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORGFWSGk0aW51bXdRUkotUzFjNzV1TlB6dUlGVUtoMF9sSkJfLUFUb0ZkU2hGU0d4VzE5Q2d5Q2JfTDhZUWc2MUk0X1AyZnZLUTNiZlo4WDRfVTM5QXl3YjBvNnNtOVl5ZnBOVUZnYUdTVGF6OFBGdVR3cGl0V2ZUVWxDMDlZRTRzaGhjSUxtZ0ZOWTQ1Ti1tMmNkVTI?oc=5",
+       "title": "XL Games, ArcheAge Chronicles 판매 기대 미달에 대대적 구조조정 계획…폐업 가능성도 배제하지 않아",
+       "date": "2026-11-28"
+      }
+     ],
+     "date": "2026-11-28",
+     "id": "20261129-04"
+    },
+    {
+     "cat": "trend",
+     "importance": "low",
+     "company": "업계 전반",
+     "title": "AI 채용 도구 확산에 따른 역채용 모델 및 검증 딜레마",
+     "body": "개발자가 희망 연봉을 정하는 AI 역채용 도입과 더불어 AI 부정응시, 기밀 유출, 프롬프트 도용 등 검증 딜레마가 부각되고 있어요.",
+     "insight": "단순 과제 전형은 AI 도구로 인해 변별력을 잃기 쉬우므로 대면 심층 검증 및 메타인지 확인 절차가 중요해요.",
+     "action": "개발·기획 직군 채용 전형에 AI 도구 허용 범위와 라이브 코딩/구술 검증 기준을 명문화해 보세요.",
+     "teams": [
+      "채용",
+      "인사기획"
+     ],
+     "tags": [
+      "AI채용",
+      "역채용",
+      "채용평가",
+      "검증기준"
+     ],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "지티티코리아",
+       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0xbWNMaWtMc3Z2WTVmcWkzcm5HamtqNFNCczl2S2FkSWFxczlZOHI5WHFtbUJQY1FGS25tTDBzSXFKdUJSMTNWZVRRdS1BV053TDR3c1N2NUN5ZWVsbUdHSy1IbVBjTTFVX3c?oc=5",
+       "title": "AI 역채용...개발자가 희망 연봉 정하고 기업이 채용 제안, 대행 수수료 ‘0원’",
+       "date": "2026-11-28"
+      },
+      {
+       "name": "www.edaily.co.kr",
+       "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxOWmJpdTJCQjF1Sng2N3FocmRSMlVzbkRURkxIOGZTVi1odHF4MTZBZHlYbVpnYVNPVTVENnlwMVN4NEFwWmlVTW1tdWNHOXdtRzNnRFhjV3p3VkhxaXlLYTBkRUNPWUw4eWg5WDlib1ctcjVoYy1XeHVJWmN0bWdJWW9zOTgzUjl0aGhzLXBsWlRhaDF4Sm1ZMFlqNW1qRVVKQ2ctbzZ6Wl9XdlFYT3pzMzZUQ0xyVmc4RHFfWE12ZGhUUUk0SnhaV09sU2dUZGZPQm1ZWlBaa1gwa0Vaa2pPcnlJOEc2dWo2U3NqMkNQVTFNRzU5N3RZek1YVERVYWNnZm9Tei1paFJlRjV6UUZnaU1VZ3RDNmZtdEx3N21EUTlNZ0FtVjE0MERJZEo?oc=5",
+       "title": "“이직하려면 AI 프롬프트 내라고?”…직장인 78% “노하우 도용 우려”",
+       "date": "2026-11-28"
+      },
+      {
+       "name": "한경매거진",
+       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1XLU10UW52cVFCMEx2b0RzVDRBQlAzNmZ5QzNkX3NXSm8wSXhlSFVMMWJ1a212dTJ0QjA3LWs2SGlJRHZPZE1fc2lDOGlZSzMxMzNINkVoQTBSUTd4WTBZa0NqVzBoTjFnN3VsUw?oc=5",
+       "title": "AI가 시험 치르고 기밀까지 노린다…기업 채용도 검증 딜레마",
+       "date": "2026-11-28"
+      },
+      {
+       "name": "사례뉴스",
+       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9Gck0yYmNjVXA3QzEzRmpsY0JlM1BMamliM0J1MFRWLUZUenV3djhaZzlhMDhETlhUWnk3RW5pSDA4NEJieHhfRjMyREVHYi1kZElRNFlZNmZfWDFNaWNKWGxGNzlkamhtUTNn0gFvQVVfeXFMTXlvSW5sZEVlWVNDMnRYemhnUmxuT0xxM0Z3bjdYM1VwelF3TGpRR2kyckNFWmFfRjd1eUs0UFNHQ3RnbmdUUGRTVm5YZVJ6REVlS3Nnb1NnUUE4U0xSaW1RdzRsT2psWjNGS1FONHkw?oc=5",
+       "title": "AI 채용·평가 도입 앞둔 기업, 사람의 검토 단계부터 정해야",
+       "date": "2026-11-28"
+      }
+     ],
+     "date": "2026-11-28",
+     "id": "20261129-08"
+    },
+    {
+     "cat": "labor",
+     "importance": "low",
+     "company": "시프티",
+     "title": "단시간근로자 유급휴일 및 연말 근태 데이터 정산 관리",
+     "body": "단시간 근로자의 공휴일 유급수당 기준 준수와 급여 오류 방지를 위한 근태 연동 및 PC-OFF 시스템 활용이 강조되고 있어요.",
+     "insight": "연말 연차 정산과 단시간·아르바이트 근로자 수당 계산 시 노동법적 오류를 사전 예방해야 해요.",
+     "action": "그룹 내 단시간·계약직 근로자의 주휴·휴일수당 정산 로직과 연말 연차 소진율을 사전 점검해 보세요.",
+     "teams": [
+      "보상·복리후생",
+      "노무·ER"
+     ],
+     "tags": [
+      "단시간근로",
+      "유급휴일",
+      "근태관리",
+      "급여정산"
+     ],
+     "our_group": false,
+     "sources": [
+      {
+       "name": "시프티 블로그",
+       "url": "https://shiftee.io/ko/blog/article/pc-off-attendance-payroll-integration",
+       "title": "PC-OFF 프로그램과 근태관리·급여 시스템 연동 방법 및 구축 가이드 사무직 근태관리에서 PC-OFF 프로그램은 계획된 근무일정을 기준으로 PC 사용을 관리하고, 출퇴근기록, 휴가, 연장·단축근무... 2026-0",
+       "date": "2026-11-29"
+      },
+      {
+       "name": "시프티 블로그",
+       "url": "https://shiftee.io/ko/blog/article/payroll-automation-and-attendance-data-management",
+       "title": "급여정산 오류를 줄이는 근태 데이터 관리와 임금명세서 발송 자동화 전략 매월 급여정산 시즌이 다가오면 인사·급여 담당자는 반복되는 확인 작업과 데이터 검증에 많은 시간을 할애하게 됩니다. 근로시간 ... 2026-0",
+       "date": "2026-11-29"
+      },
+      {
+       "name": "시프티 블로그",
+       "url": "https://shiftee.io/ko/blog/article/part-time-worker-holiday-pay",
+       "title": "단시간근로자의 공휴일 유급휴일 기준과 추가수당 계산 방법 상시근로자 5명 이상 사업장에서는 「근로기준법」에 따라 공휴일이 유급휴일로 보장되며, 일정 요건을 갖춘 단시간근로자 역시 동일... 2026-11-18",
+       "date": "2026-11-29"
+      }
+     ],
+     "date": "2026-11-29",
+     "id": "20261129-07"
+    },
+    {
+     "cat": "market",
+     "importance": "low",
+     "company": "마벨러스",
+     "title": "게임사 마벨러스, 콘솔 부문 65명 규모 희망퇴직 단행",
+     "body": "게임 개발사 마벨러스가 콘솔 게임 사업 재정비를 위해 65명 규모의 희망퇴직 지원제도를 공식 시행했어요.",
+     "insight": "콘텐츠 및 3D 모델링, 그래픽 관련 전문 인력이 시장으로 공급될 가능성이 있어요.",
+     "action": "이커머스 3D 뷰어 및 멀티미디어 콘텐츠 제작에 필요한 그래픽 디자이너 인재풀을 서칭해 보세요.",
+     "teams": [
+      "채용"
+     ],
+     "tags": [
+      "마벨러스",
+      "희망퇴직",
+      "게임인력",
+      "콘텐츠개발"
+     ],
+     "our_group": false,
+     "talent": {
+      "level": "mid",
+      "signal": "65명 희망퇴직 — 그래픽·디자인 전문 인력 유출"
+     },
+     "sources": [
+      {
+       "name": "비건뉴스",
+       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5fdXQxcHJFMGxuVTJrbGVhSWxvMF84ZTFSamhsZERiNnBqU24zWF9fYWJPa0I3YXVxd3pqV2VmbFhLZlFIRkxfMzJzU0FIVEJxSkFGZ3ZGaE1JMTY0NUdQYTY3S21CQQ?oc=5",
+       "title": "마벨러스, 콘솔게임 사업 희망퇴직 지원제도 시행",
+       "date": "2026-11-28"
+      },
+      {
+       "name": "헝그리앱",
+       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPeHlJVF9UTVdaZkpWZjJLSzlzbm9ycnlXZmpUSTc3bDdCREIxM29NcmZyX3NjbVBQYll5eDk0aEEzekpmS2pwQXV6TlhtcmhyOXhISkNDY3dXbURRbTNRZkpmYVpHbklucGN5dExGZ0VTYWlBUzE2ajBGR0N4a2tuZmlR?oc=5",
+       "title": "‘스토리 오브 시즌’ 개발사 마벨러스, 인력 65명 감축 위해 희망퇴직 실시",
+       "date": "2026-11-28"
+      }
+     ],
+     "date": "2026-11-28",
+     "id": "20261129-09"
+    }
+   ]
+  },
   {
    "date": "2026-11-28",
    "window_days": 1,

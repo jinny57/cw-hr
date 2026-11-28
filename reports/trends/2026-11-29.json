@@ -1,0 +1,578 @@
+{
+  "date": "2026-11-29",
+  "article_count": 115,
+  "engine": "gemini-3.8-flash",
+  "headline": "빅테크 대규모 감원·희망퇴직 속 FDE 수요 급증",
+  "summary": [
+    "SAP가 최소 1만 명 감원을 검토하고 MS는 6만 명 대상 바이아웃을 제시했어요.",
+    "국내외에서 신입 채용은 축소되는 반면 고객 밀착형 AI 엔지니어(FDE) 수요는 급증해요.",
+    "채용 시장은 단순 코딩 인력 대신 비즈니스 현장 문제 해결 역량 검증으로 전환 중이에요."
+  ],
+  "numbers": [
+    {
+      "value": "10,000명",
+      "label": "SAP AI 개편 관련 감원 검토 규모",
+      "dir": "down",
+      "sources": [
+        {
+          "name": "TheStreet",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1icDNTSkRyT0Z2bk0tYkx3aEI5OUZQVEl6eVdvcTRjYlY3dlFMT3ZYVGxyekRPbVJZTlBSZ2NfeW8yeEpaQkIzUHlBdy1HREd1dWRYdElZNnhURmFzTVFiZHp2X29QVWFwYml1R3Q2VWxyWDk2TVpCRVJxN0Y?oc=5",
+          "title": "SAP weighs 10,000 job cuts again in brutal 2026 AI tech layoff cycle",
+          "date": "2026-11-28"
+        },
+        {
+          "name": "grafa.com",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUkRzajhVXy1xRFU3X2d0djItUnVBTGh3NXNmU2lVN09oa1lnckk5QnpBbHZ4bkN0bUhQaUFhSlZ3WERzcnlwODQtdVlDRmFzQnhKYkNuZEFHbnZrUExUZkRMa2JEUjJWcEJDNmVXWU5idjhLeDltTHNwTkVOV05BbVZnSkhiemlwSldTMnN6Qmg1OGZldUxiWmVZMl8?oc=5",
+          "title": "SAP reportedly considers at least 10,000 job cuts amid AI restructuring",
+          "date": "2026-11-28"
+        },
+        {
+          "name": "www.techtimes.co.uk",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNY01tQ0VzZ1JRclJaWXFGMlI0VW5KR1lpc0pFNjk2NTAzU1N0UktoQ0dLWms3ck1idWVLZmFDYlRBcWVpZXdPYzBRbFhuc0lHc3M1cktxNDJBYk5ZVmp2Uk5rRlFWUFFkM0c1YUFFaUw3N2RpZEZLbEV2aDlSdXNzeU1rckI?oc=5",
+          "title": "SAP Reportedly Plans 10,000 Job Cuts Despite Record Sales as AI Restructuring Accelerates",
+          "date": "2026-11-28"
+        },
+        {
+          "name": "Taipei Times",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1kY2hoUy16dE96VGlXVXNtV2RMSFhOUEpWaEtOaUFCeGVpZDJIdVVLQmdrbk55bjB2UzdkTXppLTlQaDVRQzEzZ3h1VzBQbTJ2M0VWQUpOYjFLUU9IbU9ld2lTMFZyc2o2MFVNaEVtRmNTMnppZFE?oc=5",
+          "title": "Sources say SAP mulling cuts of at least 10,000 roles",
+          "date": "2026-11-28"
+        },
+        {
+          "name": "tbreak.com",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9xa0V5UW5WbnJkTVNBRUpfRDZ6NXBKa08tUEw2WFF2d1R2NllHOTVGeHFGdjB5Y2h1SkZYUFZXQUhrSTJmcko4aGFlTFFfM2ttejJmM2JvVVlLczg1Y3gxU0g2cjVodw?oc=5",
+          "title": "SAP weighs cutting at least 10,000 jobs in AI overhaul",
+          "date": "2026-11-28"
+        },
+        {
+          "name": "Madhyamam",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdUtscWZCRTlUUkFOQWlDYVBub3B4cThPWTB3UW0tbXd0cjZWSzFmTFJ0X3RBSnJNVnh3UzA5Qk85WWVxRUw0TmxxbURlbGN5dGh1eEd2dmxaLUFCRHhNcVMtWGdoWndnRkt0Z0VkUU1Wc2FpdDhEdFVzT2dJazZqdXB4Z0NzWVhQeVlqZjBJU2pNY3NTOVRzTUxuUWJ6SlhNeE0zQTAtYnhsMGE5a1HSAbMBQVVfeXFMT21sN1JhME42QTY3M3VUOENUeFRmSUFPSmlfYW54eWRpVGJVTng4UWtHVW5MbkJyakROdXRLUmwyZUVmSlZ0bUxNWGVhUjlIOTV2SG9WXzhfbmFvR3lRbGRLYldoM0tUTXpTWDA5VjdHbVhnSDBYWHVVcDNTR2o3bklIR1F0Yl9pVEphLXEzVE9qdE9fenpiWG9YUm9DdGR4ZjRfQUQwdHNXVk9jekNMb25vYjQ?oc=5",
+          "title": "After IBM, SAP plans to eliminate 10,000 jobs in tech sector shake-up",
+          "date": "2026-11-28"
+        }
+      ]
+    },
+    {
+      "value": "60,000명",
+      "label": "MS 희망퇴직(바이아웃) 제안 대상 규모",
+      "dir": "down",
+      "sources": [
+        {
+          "name": "shattered.io",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNnpxNkR4N05wLXhUa196OXkxZV9JV2s4SEppeTl3dXQ1TEVZQW1WTW1FdnVBWXg2YW9fRlFLMHY1NUFaOEtRbnBNUDZlV2dBUDVmSHF4VWhMVXJ3VWtFVlI0cXQ0aEpieVFmSGJFZXRmeEszYUw5X0FCcXdwMk9FRWxiYlA4SzRtQjg4WEZLYzB4SE8xVy0yTDhva0U?oc=5",
+          "title": "About 60,000 Microsoft Staff Quote Nadella on AI",
+          "date": "2026-11-28"
+        },
+        {
+          "name": "BW People",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdlB6OVowTmVyVDZvSVJyb3lzQW5DUWhxYkl0elg1Tnh4Q2REQWwyQW5NWE5yMWNPd0tVUTJfTGZsUjVBTnZGdEFwWVBGOTJDdE5pWVNCTlJWRGVlY3VUenFxMjBQV0dVV19wU3hZbmtKYTJGTUNnaXVtZHVEWDBrZl9raENnZ1lCRGY0S1FrRDBjMHRYekhVZzZ6aElrY3dLNVctbDQ5RGNWcFN0Um8xQWZfd29TZV9Y?oc=5",
+          "title": "Microsoft Employees Challenge Nadella’s AI Push Amid 60,000-Staff Buyout Offer",
+          "date": "2026-11-28"
+        },
+        {
+          "name": "The Times of India",
+          "url": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxPMDd4R2twdHl6YUV2THdqcEtGS2FXVzhDNFpRUmpmSWRXUVlNN08wcjliZ0dLOENHdW1fbVBrRWpsSVZGS290NlVWZTlOTTh6b3FHdl9FRzI4UERtSW9VdnNoTHB6aWZvNWZkR0d0R2xqMFd0VTQtcmtQTWZuQ1h5ZU9tX3d5OGt3LWFfQkdaTktsM3hMbml4THlBU29PaWNZV0JCMnljT3BZWTNfaEVFejhHMjVHQm1IR3hzUlhVZFloUm9CUEZQWHFFTlB5ZWZWOFZTUDVxRU9tcW96QmVfb3F5YXZka2E0XzJiMjB2UllzQ3hWMExoNkotSzJOVmM0dUp1MG5oVWliWFBfRmVnZjZncXFaOHNpd1MzWHNhNkZyQXczdy1VcWh1OTNJb01nRTFOOVJmTzFLSzIwUmw3VkhpS3dOTDVfcEhFU3VKVzRrUk9Banl0bGdody1HSFpF0gHgAkFVX3lxTE8wN3hHa3B0eXphRXZMd2pwS0ZLYVdXOEM0WlFSamZJZFdRWU03TzByOWJnR0s4Q0d1bV9tUGtFamxJVkZLb3Q2VVZlOU5NOHpvcUd2X0VHMjhQRG1Jb1V2c2hMcHppZm81ZmRHR3RHbGowV3RVNC1ya1BNZm5DWHllT21fd3k4a3ctYV9CR1pOS2wzeExuaXhMeUFTb09pY1lXQkIyeWNPcFlZM19oRUV6OEcyNUdCbUhHeHNSWFVkWWhSb0JQRlBYcUVOUHllZlY4VlNQNXFFT21xb3pCZV9vcXlhdmRrYTRfMmIyMHZSWXNDeFYwTGg2Si1LMk5WYzR1SnUwbmhVaWJYUF9GZWdmNmdxcVo4c2l3UzNYc2E2RnJBdzN3LVVxaHU5M0lvTWdFMU45UmZPMUtLMjBSbDdWSGlLd05MNV9wSEVTdUpXNGtST0FqeXRsZ2h3LUdIWkU?oc=5",
+          "title": "Microsoft employees use Satya Nadella’s own words in open letter as company offers buyouts to 60,000 staf",
+          "date": "2026-11-28"
+        },
+        {
+          "name": "Analytics Insight",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWGFkMTZZYVF4b1dPWC1xZ2xMM0VMLTZGZ2hsYUE5TjdiVU5tdEpNQ1RHRHVJRHZqZVlzSURIYldKNC1sZmtKWm1vOVRmV01XcWVxdFF6YmxBWXk3QWwwUXBaSkpRUDdfa1NxZDlTR3ByX1JNRzE4RTJjY0NLTHVNTHBQWjZLdzBIT2xLVlBMdEE1NEh6SDc4TFZnR0VURk14RHpydlpRdFNST1BwVkpBRkhJalJ4SlIwTkZr0gHIAUFVX3lxTE9rdm4yNTk4RGZQdzkxMldWR3IyYzFySi1nb0xwdDZEc0dRcWY2bEkyTEhNa25mdnVZanNJREQ5b09nR2dSMlhGeXBQU2lmXzVrSVdieGliT0FpcTY5aW0wNjJkM29nR0dmd2dUV29CbmVwTXJaTnRJV3RnYWE3cWF4YlhiTXRqdFZxWG85aUJQc2d0a2laX1ZJYVFNZDRrSS1VYnVfaGRuejBVcVJfVE9mV0JpTExLOXJkRS1HRWJ1ZzBMeEpPZUJq?oc=5",
+          "title": "Microsoft Employees Use Satya Nadella’s Own AI Words to Challenge Company Strategy",
+          "date": "2026-11-28"
+        }
+      ]
+    },
+    {
+      "value": "1,000명",
+      "label": "퀄컴 인도 지사 감원 위험 인원",
+      "dir": "down",
+      "sources": [
+        {
+          "name": "INDIA New England News",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPU2RyRE04aHF0RzlfcmFSSFE1bDUxT01ScnJROFlwS3NFTVZGejBibzhvT0RJOWV6S0MzRGcwSzF6bjhaQ1VtQjZEclpEVE5NaTlvSVI5UldjUlpyX19fVkFncnhVWTVzcTBkdG82VjJBQVBhLUxGSmEzU2VPRnptX3FhTTJRdlRJUGU4OENEVFU4NjJ0QjFWZzZSVE4yeGZBTE9yUA?oc=5",
+          "title": "Qualcomm Reportedly Begins Layoffs in India, With Around 1,000 Jobs at Risk",
+          "date": "2026-11-28"
+        }
+      ]
+    },
+    {
+      "value": "340명",
+      "label": "스위기 인스타마트 구조조정 감원 규모",
+      "dir": "down",
+      "sources": [
+        {
+          "name": "BizzBuzz",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMElmNmdpNGY1c1ZGRUN6RWhYdVJIaTNVdURjdm9sSS04RHpmWkhkc1U0RUNoOFpWcklyRmp2UzV6RDFxSFlrNk52MVZRbVJpdmxoR1RIUy1MNnppWnpIVE1xQVN2VnV4eGZvN2NjYmFXWGFfMFkzUG92WHZRTnNtV3BCX1VuWU45WElWWUlHRHJKU2lUSG5WN2RtenludUE3cnNqc1pJYzhnMW96NG9mZmdFWnhSNTZ50gG-AUFVX3lxTE9RV2JJYnB3bGxxc1kya3Mzb1cwdGNjWWdXczlSUHBnRFVBbUtVSHF6SFROTU0zcW4tWVJsS09nTW1HN0NPbGZuT1Jfak9oOW04QWdUWUs3WTZoR2hzV2JTemlidVNzdndtc2gzX3oxODFtQUZkZ3pYeXFSN3YxMjJLWkpIVlhQTHRBRjhwcTdjcXlXS3pfZGx4SHBnTURrbUpvWlU1VEVBa25Dc0lFVXFoSVVoRklFX1lfYTR2dlE?oc=5",
+          "title": "Swiggy's Instamart lays off 340 employees amid restructuring drive",
+          "date": "2026-11-28"
+        },
+        {
+          "name": "Livemint",
+          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNWXYtQnFoNjNJUWphRHRHd25tODN0UVJPa0QwMURXRzRKOUpka0tHWGpUUVZEd1pBWExNQmtpdjY4aEp5Mzc5T0pNbmpNd2hTT05SSTJFaFlKRlA2akxWRS1mVnQtbmFMUXpjaGRGdzlPWENCNUg1eEJSUXRxRkgtMDhpdW5iZmtNSjBLVzQta0xHZGttR3FHVnc2UlpORTJnaXI4aW56cUIzTUlndlVBUFNhY05tRG8tTnRsZ3Q5c2o4dVpVRDhJdUZEY21HNkxNajJGVHpZbVkwTFFzSlh5VUdJbWRKcEZ2Y3M5U2wzRGlMVVhJTnRpYnpKQ1hZQdIBgwJBVV95cUxNSEszVV9OQXpDWkFjOTdjMFVxWk5JaHRtSmpQajdYSldZT1ExbEFtdGlUMEo3akpPVDVqdjNIbTZ1N0pVZXpyVWZYOHpCSDNnVkFKWGdpakRkUUdzejFHTjJvX05TY0hvc0I1SVVjQUlMa2NIWlc5QTgzemJJWHJJNVdHOXBhTDF5eGgxNXlTYU53MTdQNlU1T3B6NmlzekFRWDlSVU9hU2ZLaFVMUFh3Y09BbDFVeGtCTVhUQm0wOUdjZDBGSmQ1VGppajhTTXlNQTdlWUZ0X3NFVDQ5dGpZZ2R2ejU0aFBIWjVGSmJSR0NGeF9vdWl5czExUHNFcGpZSmpz?oc=5",
+          "title": "Swiggy Instamart to lay off 340 employees amid mounting losses, growing competition: Here's who will be impacted",
+          "date": "2026-11-28"
+        },
+        {
+          "name": "theopenpress.in",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQjdtTE5hRVJzVG5wd2xTYWZnQThtLTBDZVRWdTloZnNTTVBUSF85SUdUT1lpdDVNdEFuMGh3cVE4enFNQXRWR0JUb2RtWk9IM1drTHZTajhLdHBMVWRJYXJibDVGbm1Hb2xiWXZ4cF9QZkFoTzVubXBFZFlGbmZGRHNkYl9USHhBQ3Rz?oc=5",
+          "title": "Swiggy Instamart Job Cuts: Instamart to Cut 340 Jobs Amid AI Push and Restructuring",
+          "date": "2026-11-28"
+        }
+      ]
+    }
+  ],
+  "layoffs": [
+    {
+      "company": "SAP",
+      "kind": "조직개편",
+      "size": "10,000명",
+      "pct": "",
+      "note": "AI 중심 구조조정을 추진하며 최소 1만 명 감원을 검토 중이에요.",
+      "sources": [
+        {
+          "name": "TheStreet",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1icDNTSkRyT0Z2bk0tYkx3aEI5OUZQVEl6eVdvcTRjYlY3dlFMT3ZYVGxyekRPbVJZTlBSZ2NfeW8yeEpaQkIzUHlBdy1HREd1dWRYdElZNnhURmFzTVFiZHp2X29QVWFwYml1R3Q2VWxyWDk2TVpCRVJxN0Y?oc=5",
+          "title": "SAP weighs 10,000 job cuts again in brutal 2026 AI tech layoff cycle",
+          "date": "2026-11-28"
+        },
+        {
+          "name": "grafa.com",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUkRzajhVXy1xRFU3X2d0djItUnVBTGh3NXNmU2lVN09oa1lnckk5QnpBbHZ4bkN0bUhQaUFhSlZ3WERzcnlwODQtdVlDRmFzQnhKYkNuZEFHbnZrUExUZkRMa2JEUjJWcEJDNmVXWU5idjhLeDltTHNwTkVOV05BbVZnSkhiemlwSldTMnN6Qmg1OGZldUxiWmVZMl8?oc=5",
+          "title": "SAP reportedly considers at least 10,000 job cuts amid AI restructuring",
+          "date": "2026-11-28"
+        },
+        {
+          "name": "www.techtimes.co.uk",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNY01tQ0VzZ1JRclJaWXFGMlI0VW5KR1lpc0pFNjk2NTAzU1N0UktoQ0dLWms3ck1idWVLZmFDYlRBcWVpZXdPYzBRbFhuc0lHc3M1cktxNDJBYk5ZVmp2Uk5rRlFWUFFkM0c1YUFFaUw3N2RpZEZLbEV2aDlSdXNzeU1rckI?oc=5",
+          "title": "SAP Reportedly Plans 10,000 Job Cuts Despite Record Sales as AI Restructuring Accelerates",
+          "date": "2026-11-28"
+        },
+        {
+          "name": "Taipei Times",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1kY2hoUy16dE96VGlXVXNtV2RMSFhOUEpWaEtOaUFCeGVpZDJIdVVLQmdrbk55bjB2UzdkTXppLTlQaDVRQzEzZ3h1VzBQbTJ2M0VWQUpOYjFLUU9IbU9ld2lTMFZyc2o2MFVNaEVtRmNTMnppZFE?oc=5",
+          "title": "Sources say SAP mulling cuts of at least 10,000 roles",
+          "date": "2026-11-28"
+        },
+        {
+          "name": "tbreak.com",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9xa0V5UW5WbnJkTVNBRUpfRDZ6NXBKa08tUEw2WFF2d1R2NllHOTVGeHFGdjB5Y2h1SkZYUFZXQUhrSTJmcko4aGFlTFFfM2ttejJmM2JvVVlLczg1Y3gxU0g2cjVodw?oc=5",
+          "title": "SAP weighs cutting at least 10,000 jobs in AI overhaul",
+          "date": "2026-11-28"
+        },
+        {
+          "name": "Madhyamam",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdUtscWZCRTlUUkFOQWlDYVBub3B4cThPWTB3UW0tbXd0cjZWSzFmTFJ0X3RBSnJNVnh3UzA5Qk85WWVxRUw0TmxxbURlbGN5dGh1eEd2dmxaLUFCRHhNcVMtWGdoWndnRkt0Z0VkUU1Wc2FpdDhEdFVzT2dJazZqdXB4Z0NzWVhQeVlqZjBJU2pNY3NTOVRzTUxuUWJ6SlhNeE0zQTAtYnhsMGE5a1HSAbMBQVVfeXFMT21sN1JhME42QTY3M3VUOENUeFRmSUFPSmlfYW54eWRpVGJVTng4UWtHVW5MbkJyakROdXRLUmwyZUVmSlZ0bUxNWGVhUjlIOTV2SG9WXzhfbmFvR3lRbGRLYldoM0tUTXpTWDA5VjdHbVhnSDBYWHVVcDNTR2o3bklIR1F0Yl9pVEphLXEzVE9qdE9fenpiWG9YUm9DdGR4ZjRfQUQwdHNXVk9jekNMb25vYjQ?oc=5",
+          "title": "After IBM, SAP plans to eliminate 10,000 jobs in tech sector shake-up",
+          "date": "2026-11-28"
+        }
+      ]
+    },
+    {
+      "company": "Microsoft",
+      "kind": "자발적 퇴직",
+      "size": "60,000명",
+      "pct": "",
+      "note": "직원 6만 명을 대상으로 바이아웃(퇴직 패키지)을 제안했어요.",
+      "sources": [
+        {
+          "name": "shattered.io",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNnpxNkR4N05wLXhUa196OXkxZV9JV2s4SEppeTl3dXQ1TEVZQW1WTW1FdnVBWXg2YW9fRlFLMHY1NUFaOEtRbnBNUDZlV2dBUDVmSHF4VWhMVXJ3VWtFVlI0cXQ0aEpieVFmSGJFZXRmeEszYUw5X0FCcXdwMk9FRWxiYlA4SzRtQjg4WEZLYzB4SE8xVy0yTDhva0U?oc=5",
+          "title": "About 60,000 Microsoft Staff Quote Nadella on AI",
+          "date": "2026-11-28"
+        },
+        {
+          "name": "BW People",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdlB6OVowTmVyVDZvSVJyb3lzQW5DUWhxYkl0elg1Tnh4Q2REQWwyQW5NWE5yMWNPd0tVUTJfTGZsUjVBTnZGdEFwWVBGOTJDdE5pWVNCTlJWRGVlY3VUenFxMjBQV0dVV19wU3hZbmtKYTJGTUNnaXVtZHVEWDBrZl9raENnZ1lCRGY0S1FrRDBjMHRYekhVZzZ6aElrY3dLNVctbDQ5RGNWcFN0Um8xQWZfd29TZV9Y?oc=5",
+          "title": "Microsoft Employees Challenge Nadella’s AI Push Amid 60,000-Staff Buyout Offer",
+          "date": "2026-11-28"
+        },
+        {
+          "name": "The Times of India",
+          "url": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxPMDd4R2twdHl6YUV2THdqcEtGS2FXVzhDNFpRUmpmSWRXUVlNN08wcjliZ0dLOENHdW1fbVBrRWpsSVZGS290NlVWZTlOTTh6b3FHdl9FRzI4UERtSW9VdnNoTHB6aWZvNWZkR0d0R2xqMFd0VTQtcmtQTWZuQ1h5ZU9tX3d5OGt3LWFfQkdaTktsM3hMbml4THlBU29PaWNZV0JCMnljT3BZWTNfaEVFejhHMjVHQm1IR3hzUlhVZFloUm9CUEZQWHFFTlB5ZWZWOFZTUDVxRU9tcW96QmVfb3F5YXZka2E0XzJiMjB2UllzQ3hWMExoNkotSzJOVmM0dUp1MG5oVWliWFBfRmVnZjZncXFaOHNpd1MzWHNhNkZyQXczdy1VcWh1OTNJb01nRTFOOVJmTzFLSzIwUmw3VkhpS3dOTDVfcEhFU3VKVzRrUk9Banl0bGdody1HSFpF0gHgAkFVX3lxTE8wN3hHa3B0eXphRXZMd2pwS0ZLYVdXOEM0WlFSamZJZFdRWU03TzByOWJnR0s4Q0d1bV9tUGtFamxJVkZLb3Q2VVZlOU5NOHpvcUd2X0VHMjhQRG1Jb1V2c2hMcHppZm81ZmRHR3RHbGowV3RVNC1ya1BNZm5DWHllT21fd3k4a3ctYV9CR1pOS2wzeExuaXhMeUFTb09pY1lXQkIyeWNPcFlZM19oRUV6OEcyNUdCbUhHeHNSWFVkWWhSb0JQRlBYcUVOUHllZlY4VlNQNXFFT21xb3pCZV9vcXlhdmRrYTRfMmIyMHZSWXNDeFYwTGg2Si1LMk5WYzR1SnUwbmhVaWJYUF9GZWdmNmdxcVo4c2l3UzNYc2E2RnJBdzN3LVVxaHU5M0lvTWdFMU45UmZPMUtLMjBSbDdWSGlLd05MNV9wSEVTdUpXNGtST0FqeXRsZ2h3LUdIWkU?oc=5",
+          "title": "Microsoft employees use Satya Nadella’s own words in open letter as company offers buyouts to 60,000 staf",
+          "date": "2026-11-28"
+        },
+        {
+          "name": "Analytics Insight",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWGFkMTZZYVF4b1dPWC1xZ2xMM0VMLTZGZ2hsYUE5TjdiVU5tdEpNQ1RHRHVJRHZqZVlzSURIYldKNC1sZmtKWm1vOVRmV01XcWVxdFF6YmxBWXk3QWwwUXBaSkpRUDdfa1NxZDlTR3ByX1JNRzE4RTJjY0NLTHVNTHBQWjZLdzBIT2xLVlBMdEE1NEh6SDc4TFZnR0VURk14RHpydlpRdFNST1BwVkpBRkhJalJ4SlIwTkZr0gHIAUFVX3lxTE9rdm4yNTk4RGZQdzkxMldWR3IyYzFySi1nb0xwdDZEc0dRcWY2bEkyTEhNa25mdnVZanNJREQ5b09nR2dSMlhGeXBQU2lmXzVrSVdieGliT0FpcTY5aW0wNjJkM29nR0dmd2dUV29CbmVwTXJaTnRJV3RnYWE3cWF4YlhiTXRqdFZxWG85aUJQc2d0a2laX1ZJYVFNZDRrSS1VYnVfaGRuejBVcVJfVE9mV0JpTExLOXJkRS1HRWJ1ZzBMeEpPZUJq?oc=5",
+          "title": "Microsoft Employees Use Satya Nadella’s Own AI Words to Challenge Company Strategy",
+          "date": "2026-11-28"
+        }
+      ]
+    },
+    {
+      "company": "Qualcomm",
+      "kind": "감원",
+      "size": "1,000명",
+      "pct": "",
+      "note": "인도 지사에서 약 1,000명 규모의 인력 감원에 착수했어요.",
+      "sources": [
+        {
+          "name": "INDIA New England News",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPU2RyRE04aHF0RzlfcmFSSFE1bDUxT01ScnJROFlwS3NFTVZGejBibzhvT0RJOWV6S0MzRGcwSzF6bjhaQ1VtQjZEclpEVE5NaTlvSVI5UldjUlpyX19fVkFncnhVWTVzcTBkdG82VjJBQVBhLUxGSmEzU2VPRnptX3FhTTJRdlRJUGU4OENEVFU4NjJ0QjFWZzZSVE4yeGZBTE9yUA?oc=5",
+          "title": "Qualcomm Reportedly Begins Layoffs in India, With Around 1,000 Jobs at Risk",
+          "date": "2026-11-28"
+        }
+      ]
+    },
+    {
+      "company": "Swiggy Instamart",
+      "kind": "감원",
+      "size": "340명",
+      "pct": "",
+      "note": "AI 전환과 손실 누적으로 퀵커머스 부문 340명을 감원해요.",
+      "sources": [
+        {
+          "name": "BizzBuzz",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMElmNmdpNGY1c1ZGRUN6RWhYdVJIaTNVdURjdm9sSS04RHpmWkhkc1U0RUNoOFpWcklyRmp2UzV6RDFxSFlrNk52MVZRbVJpdmxoR1RIUy1MNnppWnpIVE1xQVN2VnV4eGZvN2NjYmFXWGFfMFkzUG92WHZRTnNtV3BCX1VuWU45WElWWUlHRHJKU2lUSG5WN2RtenludUE3cnNqc1pJYzhnMW96NG9mZmdFWnhSNTZ50gG-AUFVX3lxTE9RV2JJYnB3bGxxc1kya3Mzb1cwdGNjWWdXczlSUHBnRFVBbUtVSHF6SFROTU0zcW4tWVJsS09nTW1HN0NPbGZuT1Jfak9oOW04QWdUWUs3WTZoR2hzV2JTemlidVNzdndtc2gzX3oxODFtQUZkZ3pYeXFSN3YxMjJLWkpIVlhQTHRBRjhwcTdjcXlXS3pfZGx4SHBnTURrbUpvWlU1VEVBa25Dc0lFVXFoSVVoRklFX1lfYTR2dlE?oc=5",
+          "title": "Swiggy's Instamart lays off 340 employees amid restructuring drive",
+          "date": "2026-11-28"
+        },
+        {
+          "name": "Livemint",
+          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNWXYtQnFoNjNJUWphRHRHd25tODN0UVJPa0QwMURXRzRKOUpka0tHWGpUUVZEd1pBWExNQmtpdjY4aEp5Mzc5T0pNbmpNd2hTT05SSTJFaFlKRlA2akxWRS1mVnQtbmFMUXpjaGRGdzlPWENCNUg1eEJSUXRxRkgtMDhpdW5iZmtNSjBLVzQta0xHZGttR3FHVnc2UlpORTJnaXI4aW56cUIzTUlndlVBUFNhY05tRG8tTnRsZ3Q5c2o4dVpVRDhJdUZEY21HNkxNajJGVHpZbVkwTFFzSlh5VUdJbWRKcEZ2Y3M5U2wzRGlMVVhJTnRpYnpKQ1hZQdIBgwJBVV95cUxNSEszVV9OQXpDWkFjOTdjMFVxWk5JaHRtSmpQajdYSldZT1ExbEFtdGlUMEo3akpPVDVqdjNIbTZ1N0pVZXpyVWZYOHpCSDNnVkFKWGdpakRkUUdzejFHTjJvX05TY0hvc0I1SVVjQUlMa2NIWlc5QTgzemJJWHJJNVdHOXBhTDF5eGgxNXlTYU53MTdQNlU1T3B6NmlzekFRWDlSVU9hU2ZLaFVMUFh3Y09BbDFVeGtCTVhUQm0wOUdjZDBGSmQ1VGppajhTTXlNQTdlWUZ0X3NFVDQ5dGpZZ2R2ejU0aFBIWjVGSmJSR0NGeF9vdWl5czExUHNFcGpZSmpz?oc=5",
+          "title": "Swiggy Instamart to lay off 340 employees amid mounting losses, growing competition: Here's who will be impacted",
+          "date": "2026-11-28"
+        },
+        {
+          "name": "theopenpress.in",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQjdtTE5hRVJzVG5wd2xTYWZnQThtLTBDZVRWdTloZnNTTVBUSF85SUdUT1lpdDVNdEFuMGh3cVE4enFNQXRWR0JUb2RtWk9IM1drTHZTajhLdHBMVWRJYXJibDVGbm1Hb2xiWXZ4cF9QZkFoTzVubXBFZFlGbmZGRHNkYl9USHhBQ3Rz?oc=5",
+          "title": "Swiggy Instamart Job Cuts: Instamart to Cut 340 Jobs Amid AI Push and Restructuring",
+          "date": "2026-11-28"
+        }
+      ]
+    }
+  ],
+  "hiring": [
+    {
+      "company": "ISRO",
+      "role": "어프렌티스(수련생)",
+      "note": "400개 공석에 대한 온라인 접수를 마감해요.",
+      "sources": [
+        {
+          "name": "Adda247",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE82aFgtYTdVUjJiRDlvQVI1Qzh3d3BoWXEteHlfUUd5MHFzU2hPVG00R0RPX292U0pHb1dyRm14QmhMSnh1SWhFVDRLRzBGUlhaQkdSeHVrZE9TQnY5Mkl0aUNoMVRZOHhrMDBHMEhPcVRESjRHSmd0alZkdDNzQQ?oc=5",
+          "title": "ISRO Apprentice Recruitment 2026 Out, Apply Online Ends Today For 400 Vacancies",
+          "date": "2026-11-28"
+        }
+      ]
+    },
+    {
+      "company": "Mercari",
+      "role": "시니어 소프트웨어 엔지니어",
+      "note": "도쿄 본사 개발자 플랫폼 지원 시니어 엔지니어를 채용해요.",
+      "sources": [
+        {
+          "name": "Global South Opportunities",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBOXzdVNWU0c1YzT19XeWN4MF9YSTM0OUJER3dsRjJiTVJqWk81VHo4UnlENlE2eGVCQldZRkllSTAzb3FCX0JlX2xVS1FsUlRHc1J5MnIyRGVhdzhVSVVTYXZjb0FOR1NsVWFjdg?oc=5",
+          "title": "Mercari Careers 2026: Senior Software Engineer, Developer Platform Enablement – Tokyo, Japan",
+          "date": "2026-11-28"
+        }
+      ]
+    }
+  ],
+  "roles": {
+    "up": [
+      {
+        "name": "FDE(Forward Deployed Engineer)",
+        "why": "기업 고객 현장에서 맞춤형 AI 솔루션을 구축하는 인력 수요가 급증해요."
+      }
+    ],
+    "down": [
+      {
+        "name": "신입 소프트웨어 엔지니어",
+        "why": "글로벌 빅테크 조직개편과 국내 시장 전반에서 신입 채용이 축소되고 있어요."
+      },
+      {
+        "name": "콘텐츠 모더레이터",
+        "why": "빅테크 기업들이 검수 인력을 대거 AI 시스템으로 대체하고 있어요."
+      }
+    ]
+  },
+  "korea": [
+    {
+      "company": "업계 전반",
+      "note": "빅테크 구조조정 속 현장 밀착형 FDE 몸값이 급상승하고 있어요.",
+      "sources": [
+        {
+          "name": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5zSE95d3dUM3JuR2NtWFdKQ3k1X3VRbkpSNjBzb3NMNVNqeWdfa1pPUklQVlJEb1V3dmlPU2lJeldrcm9OeFVELTg1U1RXTm5ERXZMYW5RUERLVzDSAWBBVV95cUxOVU9ENV84ZkQ4VUVVcGFpQnFUeHJOcGltOGp5ZFJTblAxLWtBUklJQ3JJNmF6RzRDdHdyM1VXc1prRVFmbmd2czFiYzF3eGxIUVJRQkhoQlE4bEtEUU1sc0M?oc=5",
+          "title": "[테크톡노트] 빅테크 구조조정에도 몸값 뛰는 FDE…AI시대 새 표준될까?",
+          "date": "2026-11-28"
+        }
+      ]
+    },
+    {
+      "company": "국내 테크 업계",
+      "note": "신입 채용이 축소되는 상황에서 정부 예산 90%가 신규 공급에 쏠려 엇박자 지적이 나와요.",
+      "sources": [
+        {
+          "name": "블로터",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9yN2FOWGsxSlRZaHZuM2t3NjVqUzhxb3JfZE5DdGl3Q3dKbFN5MVgtZ2ZtYXdmbGhMQUo0RzV3R3ZETkFMckFpbFFranpMRjRZU3E1dDdreG5Da2Q4bkxQZUIySHdPaG1KMWFUY9IBbEFVX3lxTE9yN2FOWGsxSlRZaHZuM2t3NjVqUzhxb3JfZE5DdGl3Q3dKbFN5MVgtZ2ZtYXdmbGhMQUo0RzV3R3ZETkFMckFpbFFranpMRjRZU3E1dDdreG5Da2Q4bkxQZUIySHdPaG1KMWFUYw?oc=5",
+          "title": "신입은 덜 뽑는데…SW 인력양성 예산 90%는 '신규 공급'",
+          "date": "2026-11-28"
+        }
+      ]
+    },
+    {
+      "company": "국내 테크 업계",
+      "note": "지원자의 부정 채용 AI 활용으로 기업들의 채용 검증 부담이 커지고 있어요.",
+      "sources": [
+        {
+          "name": "한경매거진",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1XLU10UW52cVFCMEx2b0RzVDRBQlAzNmZ5QzNkX3NXSm8wSXhlSFVMMWJ1a212dTJ0QjA3LWs2SGlJRHZPZE1fc2lDOGlZSzMxMzNINkVoQTBSUTd4WTBZa0NqVzBoTjFnN3VsUw?oc=5",
+          "title": "AI가 시험 치르고 기밀까지 노린다…기업 채용도 검증 딜레마",
+          "date": "2026-11-28"
+        }
+      ]
+    },
+    {
+      "company": "알바몬",
+      "note": "AI가 구직자에게 공고를 먼저 매칭해 제안하는 '스마트픽' 서비스를 선보였어요.",
+      "sources": [
+        {
+          "name": "데일리포스트",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9hdFNVV1lOUDVuaXlZLUVaZHNBbTJQc3V6bDh4TmNnRlYxNWxLTURoMlpYbFdOWkVOYUI0QjBIUlJEWHJyZVdSWS1ac3ViY01HWDlueC1qdUlqUEpNVjJzV2ppQ0pWd0lHZll2TzhsODdaX1HSAXNBVV95cUxPYXRTVVdZTlA1bml5WS1FWmRzQW0yUHN1emw4eE5jZ0ZWMTVsS01EaDJaWGxXTlpFTmFCNEIwSFJSRFhycmVXUlktWnN1YmNNR1g5bngtanVJalBKTVYyc1dqaUNKVndJR2ZZdk84bDg3Wl9R?oc=5",
+          "title": "[IT정주행] 공고가 먼저 찾아간다… 알바몬 AI 채용 '스마트픽'의 차별점",
+          "date": "2026-11-28"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "t20261129-00",
+      "region": "global",
+      "importance": "high",
+      "company": "SAP",
+      "title": "SAP, AI 구조조정으로 최소 1만 명 감원 검토",
+      "body": "기록적인 매출 달성에도 불구하고 AI 중심 사업 전환을 위해 전사적으로 최소 1만 명 규모의 인력 감축을 재검토하고 있어요.",
+      "insight": "글로벌 솔루션 기업 출신 시니어 엔지니어 및 아키텍트 인재가 이탈할 가능성이 커 다나와·메이크샵 플랫폼 고도화 인력으로 다이렉트 소싱을 시도할 만해요.",
+      "tags": [
+        "SAP",
+        "구조조정",
+        "AI개편"
+      ],
+      "sources": [
+        {
+          "name": "TheStreet",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1icDNTSkRyT0Z2bk0tYkx3aEI5OUZQVEl6eVdvcTRjYlY3dlFMT3ZYVGxyekRPbVJZTlBSZ2NfeW8yeEpaQkIzUHlBdy1HREd1dWRYdElZNnhURmFzTVFiZHp2X29QVWFwYml1R3Q2VWxyWDk2TVpCRVJxN0Y?oc=5",
+          "title": "SAP weighs 10,000 job cuts again in brutal 2026 AI tech layoff cycle",
+          "date": "2026-11-28"
+        },
+        {
+          "name": "grafa.com",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUkRzajhVXy1xRFU3X2d0djItUnVBTGh3NXNmU2lVN09oa1lnckk5QnpBbHZ4bkN0bUhQaUFhSlZ3WERzcnlwODQtdVlDRmFzQnhKYkNuZEFHbnZrUExUZkRMa2JEUjJWcEJDNmVXWU5idjhLeDltTHNwTkVOV05BbVZnSkhiemlwSldTMnN6Qmg1OGZldUxiWmVZMl8?oc=5",
+          "title": "SAP reportedly considers at least 10,000 job cuts amid AI restructuring",
+          "date": "2026-11-28"
+        },
+        {
+          "name": "www.techtimes.co.uk",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNY01tQ0VzZ1JRclJaWXFGMlI0VW5KR1lpc0pFNjk2NTAzU1N0UktoQ0dLWms3ck1idWVLZmFDYlRBcWVpZXdPYzBRbFhuc0lHc3M1cktxNDJBYk5ZVmp2Uk5rRlFWUFFkM0c1YUFFaUw3N2RpZEZLbEV2aDlSdXNzeU1rckI?oc=5",
+          "title": "SAP Reportedly Plans 10,000 Job Cuts Despite Record Sales as AI Restructuring Accelerates",
+          "date": "2026-11-28"
+        },
+        {
+          "name": "Taipei Times",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1kY2hoUy16dE96VGlXVXNtV2RMSFhOUEpWaEtOaUFCeGVpZDJIdVVLQmdrbk55bjB2UzdkTXppLTlQaDVRQzEzZ3h1VzBQbTJ2M0VWQUpOYjFLUU9IbU9ld2lTMFZyc2o2MFVNaEVtRmNTMnppZFE?oc=5",
+          "title": "Sources say SAP mulling cuts of at least 10,000 roles",
+          "date": "2026-11-28"
+        },
+        {
+          "name": "tbreak.com",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9xa0V5UW5WbnJkTVNBRUpfRDZ6NXBKa08tUEw2WFF2d1R2NllHOTVGeHFGdjB5Y2h1SkZYUFZXQUhrSTJmcko4aGFlTFFfM2ttejJmM2JvVVlLczg1Y3gxU0g2cjVodw?oc=5",
+          "title": "SAP weighs cutting at least 10,000 jobs in AI overhaul",
+          "date": "2026-11-28"
+        },
+        {
+          "name": "Madhyamam",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdUtscWZCRTlUUkFOQWlDYVBub3B4cThPWTB3UW0tbXd0cjZWSzFmTFJ0X3RBSnJNVnh3UzA5Qk85WWVxRUw0TmxxbURlbGN5dGh1eEd2dmxaLUFCRHhNcVMtWGdoWndnRkt0Z0VkUU1Wc2FpdDhEdFVzT2dJazZqdXB4Z0NzWVhQeVlqZjBJU2pNY3NTOVRzTUxuUWJ6SlhNeE0zQTAtYnhsMGE5a1HSAbMBQVVfeXFMT21sN1JhME42QTY3M3VUOENUeFRmSUFPSmlfYW54eWRpVGJVTng4UWtHVW5MbkJyakROdXRLUmwyZUVmSlZ0bUxNWGVhUjlIOTV2SG9WXzhfbmFvR3lRbGRLYldoM0tUTXpTWDA5VjdHbVhnSDBYWHVVcDNTR2o3bklIR1F0Yl9pVEphLXEzVE9qdE9fenpiWG9YUm9DdGR4ZjRfQUQwdHNXVk9jekNMb25vYjQ?oc=5",
+          "title": "After IBM, SAP plans to eliminate 10,000 jobs in tech sector shake-up",
+          "date": "2026-11-28"
+        }
+      ],
+      "date": "2026-11-28"
+    },
+    {
+      "id": "t20261129-01",
+      "region": "global",
+      "importance": "high",
+      "company": "Microsoft",
+      "title": "MS, 6만 명 대상 바이아웃 제안 및 신입 채용 둔화",
+      "body": "마이크로소프트가 조직개편의 일환으로 직원 6만 명에게 퇴직 패키지를 제안했으며, 엔트리 레벨 채용 속도를 늦추고 있어요.",
+      "insight": "빅테크의 주니어 채용 축소 기조에 맞춰, 주니어 소싱보다는 실무에 즉시 투입 가능한 3~7년 차 코어 개발 인력 확보에 집중하는 것이 효과적이에요.",
+      "tags": [
+        "Microsoft",
+        "희망퇴직",
+        "채용축소"
+      ],
+      "sources": [
+        {
+          "name": "shattered.io",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNnpxNkR4N05wLXhUa196OXkxZV9JV2s4SEppeTl3dXQ1TEVZQW1WTW1FdnVBWXg2YW9fRlFLMHY1NUFaOEtRbnBNUDZlV2dBUDVmSHF4VWhMVXJ3VWtFVlI0cXQ0aEpieVFmSGJFZXRmeEszYUw5X0FCcXdwMk9FRWxiYlA4SzRtQjg4WEZLYzB4SE8xVy0yTDhva0U?oc=5",
+          "title": "About 60,000 Microsoft Staff Quote Nadella on AI",
+          "date": "2026-11-28"
+        },
+        {
+          "name": "BW People",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdlB6OVowTmVyVDZvSVJyb3lzQW5DUWhxYkl0elg1Tnh4Q2REQWwyQW5NWE5yMWNPd0tVUTJfTGZsUjVBTnZGdEFwWVBGOTJDdE5pWVNCTlJWRGVlY3VUenFxMjBQV0dVV19wU3hZbmtKYTJGTUNnaXVtZHVEWDBrZl9raENnZ1lCRGY0S1FrRDBjMHRYekhVZzZ6aElrY3dLNVctbDQ5RGNWcFN0Um8xQWZfd29TZV9Y?oc=5",
+          "title": "Microsoft Employees Challenge Nadella’s AI Push Amid 60,000-Staff Buyout Offer",
+          "date": "2026-11-28"
+        },
+        {
+          "name": "The Times of India",
+          "url": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxPMDd4R2twdHl6YUV2THdqcEtGS2FXVzhDNFpRUmpmSWRXUVlNN08wcjliZ0dLOENHdW1fbVBrRWpsSVZGS290NlVWZTlOTTh6b3FHdl9FRzI4UERtSW9VdnNoTHB6aWZvNWZkR0d0R2xqMFd0VTQtcmtQTWZuQ1h5ZU9tX3d5OGt3LWFfQkdaTktsM3hMbml4THlBU29PaWNZV0JCMnljT3BZWTNfaEVFejhHMjVHQm1IR3hzUlhVZFloUm9CUEZQWHFFTlB5ZWZWOFZTUDVxRU9tcW96QmVfb3F5YXZka2E0XzJiMjB2UllzQ3hWMExoNkotSzJOVmM0dUp1MG5oVWliWFBfRmVnZjZncXFaOHNpd1MzWHNhNkZyQXczdy1VcWh1OTNJb01nRTFOOVJmTzFLSzIwUmw3VkhpS3dOTDVfcEhFU3VKVzRrUk9Banl0bGdody1HSFpF0gHgAkFVX3lxTE8wN3hHa3B0eXphRXZMd2pwS0ZLYVdXOEM0WlFSamZJZFdRWU03TzByOWJnR0s4Q0d1bV9tUGtFamxJVkZLb3Q2VVZlOU5NOHpvcUd2X0VHMjhQRG1Jb1V2c2hMcHppZm81ZmRHR3RHbGowV3RVNC1ya1BNZm5DWHllT21fd3k4a3ctYV9CR1pOS2wzeExuaXhMeUFTb09pY1lXQkIyeWNPcFlZM19oRUV6OEcyNUdCbUhHeHNSWFVkWWhSb0JQRlBYcUVOUHllZlY4VlNQNXFFT21xb3pCZV9vcXlhdmRrYTRfMmIyMHZSWXNDeFYwTGg2Si1LMk5WYzR1SnUwbmhVaWJYUF9GZWdmNmdxcVo4c2l3UzNYc2E2RnJBdzN3LVVxaHU5M0lvTWdFMU45UmZPMUtLMjBSbDdWSGlLd05MNV9wSEVTdUpXNGtST0FqeXRsZ2h3LUdIWkU?oc=5",
+          "title": "Microsoft employees use Satya Nadella’s own words in open letter as company offers buyouts to 60,000 staf",
+          "date": "2026-11-28"
+        },
+        {
+          "name": "Analytics Insight",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWGFkMTZZYVF4b1dPWC1xZ2xMM0VMLTZGZ2hsYUE5TjdiVU5tdEpNQ1RHRHVJRHZqZVlzSURIYldKNC1sZmtKWm1vOVRmV01XcWVxdFF6YmxBWXk3QWwwUXBaSkpRUDdfa1NxZDlTR3ByX1JNRzE4RTJjY0NLTHVNTHBQWjZLdzBIT2xLVlBMdEE1NEh6SDc4TFZnR0VURk14RHpydlpRdFNST1BwVkpBRkhJalJ4SlIwTkZr0gHIAUFVX3lxTE9rdm4yNTk4RGZQdzkxMldWR3IyYzFySi1nb0xwdDZEc0dRcWY2bEkyTEhNa25mdnVZanNJREQ5b09nR2dSMlhGeXBQU2lmXzVrSVdieGliT0FpcTY5aW0wNjJkM29nR0dmd2dUV29CbmVwTXJaTnRJV3RnYWE3cWF4YlhiTXRqdFZxWG85aUJQc2d0a2laX1ZJYVFNZDRrSS1VYnVfaGRuejBVcVJfVE9mV0JpTExLOXJkRS1HRWJ1ZzBMeEpPZUJq?oc=5",
+          "title": "Microsoft Employees Use Satya Nadella’s Own AI Words to Challenge Company Strategy",
+          "date": "2026-11-28"
+        },
+        {
+          "name": "Wisevoter",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQX1FYMFRoNnJLT2Q0cllyMm1QUjdmVUN0SlpxUHZPTTlmb3RiWTYzNG9OMUswNllGd0tnZ2VoNTJOcUpkY3Nxb3VOWDA2VG9IRF9DSTBIcFRILWp3ajRLREpHNEtVSURlNUVhQk13RHlFNzRIcFllSXFpcGhTT2pSdUI1eUNxampHQTJtTGUtTQ?oc=5",
+          "title": "Microsoft Slows Entry-Level Hiring Amid Reorganization",
+          "date": "2026-11-28"
+        }
+      ],
+      "date": "2026-11-28"
+    },
+    {
+      "id": "t20261129-02",
+      "region": "korea",
+      "importance": "high",
+      "company": "업계 전반",
+      "title": "빅테크 칼바람 속 고객 밀착형 'FDE' 수요 폭증",
+      "body": "단순 개발자를 줄이는 대신 고객사 현장에서 비즈니스 문제를 해결하고 모델을 배포하는 FDE(Forward Deployed Engineer) 인재 수요와 몸값이 급등하고 있어요.",
+      "insight": "플레이오토, 메이크샵 등 셀러 연동 솔루션 조직 채용 시 단순 코딩 능력보다 이커머스 고객사 환경을 이해하고 즉시 기술을 연계하는 FDE형 JD 설계가 필요해요.",
+      "tags": [
+        "FDE",
+        "직무수요",
+        "채용트렌드"
+      ],
+      "sources": [
+        {
+          "name": "재경일보",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1weHBwNTdRZHc5alJKODhwMkdYT1I4UjA3X1BLazZIald1QXRCTkZ0TDFBbVRhYUNsNk4tQndFUXpWSjF4M2VtUXBmakxaWmZFdXJXVmxGNWhsSWEwWTZHVWFn?oc=5",
+          "title": "FDEs in high demand by AI firms: The rise of the engineer working side-by-side with clients : 테크/과학 : JKN",
+          "date": "2026-11-28"
+        },
+        {
+          "name": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5zSE95d3dUM3JuR2NtWFdKQ3k1X3VRbkpSNjBzb3NMNVNqeWdfa1pPUklQVlJEb1V3dmlPU2lJeldrcm9OeFVELTg1U1RXTm5ERXZMYW5RUERLVzDSAWBBVV95cUxOVU9ENV84ZkQ4VUVVcGFpQnFUeHJOcGltOGp5ZFJTblAxLWtBUklJQ3JJNmF6RzRDdHdyM1VXc1prRVFmbmd2czFiYzF3eGxIUVJRQkhoQlE4bEtEUU1sc0M?oc=5",
+          "title": "[테크톡노트] 빅테크 구조조정에도 몸값 뛰는 FDE…AI시대 새 표준될까?",
+          "date": "2026-11-28"
+        }
+      ],
+      "date": "2026-11-28"
+    },
+    {
+      "id": "t20261129-03",
+      "region": "global",
+      "importance": "mid",
+      "company": "Swiggy Instamart",
+      "title": "인도 퀵커머스 스위기 인스타마트, 340명 감원",
+      "body": "인도 퀵커머스 플랫폼 스위기 인스타마트가 경쟁 심화와 누적 적자, AI 자동화 도입에 따라 340명 인력 감축에 돌입했어요.",
+      "insight": "물류·배송(스윗트래커·몰테일) 부문에서도 단순 운영 인력 의존도를 낮추고 물류 자동화 시스템을 기획·운영할 수 있는 테크 인력 중심으로 채용 기준을 재정립해야 해요.",
+      "tags": [
+        "Swiggy",
+        "퀵커머스",
+        "물류감원"
+      ],
+      "sources": [
+        {
+          "name": "BizzBuzz",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMElmNmdpNGY1c1ZGRUN6RWhYdVJIaTNVdURjdm9sSS04RHpmWkhkc1U0RUNoOFpWcklyRmp2UzV6RDFxSFlrNk52MVZRbVJpdmxoR1RIUy1MNnppWnpIVE1xQVN2VnV4eGZvN2NjYmFXWGFfMFkzUG92WHZRTnNtV3BCX1VuWU45WElWWUlHRHJKU2lUSG5WN2RtenludUE3cnNqc1pJYzhnMW96NG9mZmdFWnhSNTZ50gG-AUFVX3lxTE9RV2JJYnB3bGxxc1kya3Mzb1cwdGNjWWdXczlSUHBnRFVBbUtVSHF6SFROTU0zcW4tWVJsS09nTW1HN0NPbGZuT1Jfak9oOW04QWdUWUs3WTZoR2hzV2JTemlidVNzdndtc2gzX3oxODFtQUZkZ3pYeXFSN3YxMjJLWkpIVlhQTHRBRjhwcTdjcXlXS3pfZGx4SHBnTURrbUpvWlU1VEVBa25Dc0lFVXFoSVVoRklFX1lfYTR2dlE?oc=5",
+          "title": "Swiggy's Instamart lays off 340 employees amid restructuring drive",
+          "date": "2026-11-28"
+        },
+        {
+          "name": "Livemint",
+          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNWXYtQnFoNjNJUWphRHRHd25tODN0UVJPa0QwMURXRzRKOUpka0tHWGpUUVZEd1pBWExNQmtpdjY4aEp5Mzc5T0pNbmpNd2hTT05SSTJFaFlKRlA2akxWRS1mVnQtbmFMUXpjaGRGdzlPWENCNUg1eEJSUXRxRkgtMDhpdW5iZmtNSjBLVzQta0xHZGttR3FHVnc2UlpORTJnaXI4aW56cUIzTUlndlVBUFNhY05tRG8tTnRsZ3Q5c2o4dVpVRDhJdUZEY21HNkxNajJGVHpZbVkwTFFzSlh5VUdJbWRKcEZ2Y3M5U2wzRGlMVVhJTnRpYnpKQ1hZQdIBgwJBVV95cUxNSEszVV9OQXpDWkFjOTdjMFVxWk5JaHRtSmpQajdYSldZT1ExbEFtdGlUMEo3akpPVDVqdjNIbTZ1N0pVZXpyVWZYOHpCSDNnVkFKWGdpakRkUUdzejFHTjJvX05TY0hvc0I1SVVjQUlMa2NIWlc5QTgzemJJWHJJNVdHOXBhTDF5eGgxNXlTYU53MTdQNlU1T3B6NmlzekFRWDlSVU9hU2ZLaFVMUFh3Y09BbDFVeGtCTVhUQm0wOUdjZDBGSmQ1VGppajhTTXlNQTdlWUZ0X3NFVDQ5dGpZZ2R2ejU0aFBIWjVGSmJSR0NGeF9vdWl5czExUHNFcGpZSmpz?oc=5",
+          "title": "Swiggy Instamart to lay off 340 employees amid mounting losses, growing competition: Here's who will be impacted",
+          "date": "2026-11-28"
+        },
+        {
+          "name": "theopenpress.in",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQjdtTE5hRVJzVG5wd2xTYWZnQThtLTBDZVRWdTloZnNTTVBUSF85SUdUT1lpdDVNdEFuMGh3cVE4enFNQXRWR0JUb2RtWk9IM1drTHZTajhLdHBMVWRJYXJibDVGbm1Hb2xiWXZ4cF9QZkFoTzVubXBFZFlGbmZGRHNkYl9USHhBQ3Rz?oc=5",
+          "title": "Swiggy Instamart Job Cuts: Instamart to Cut 340 Jobs Amid AI Push and Restructuring",
+          "date": "2026-11-28"
+        }
+      ],
+      "date": "2026-11-28"
+    },
+    {
+      "id": "t20261129-04",
+      "region": "korea",
+      "importance": "mid",
+      "company": "국내 채용 시장",
+      "title": "지원자 AI 활용 부정 채용 급증에 검증 비상",
+      "body": "채용 전형에서 AI를 악용해 코딩 테스트나 과제를 부정 수행하는 사례가 늘면서 기업들의 지원자 검증 딜레마가 심화되고 있어요.",
+      "insight": "서류나 비대면 코딩 과제 통과율만 믿지 말고, 사내 시스템 로그 분석이나 실시간 라이브 코딩, 아키텍처 구술 면접 등 심층 실무 검증 절차를 도입해야 해요.",
+      "tags": [
+        "AI채용",
+        "검증강화",
+        "채용프로세스"
+      ],
+      "sources": [
+        {
+          "name": "한경매거진",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1XLU10UW52cVFCMEx2b0RzVDRBQlAzNmZ5QzNkX3NXSm8wSXhlSFVMMWJ1a212dTJ0QjA3LWs2SGlJRHZPZE1fc2lDOGlZSzMxMzNINkVoQTBSUTd4WTBZa0NqVzBoTjFnN3VsUw?oc=5",
+          "title": "AI가 시험 치르고 기밀까지 노린다…기업 채용도 검증 딜레마",
+          "date": "2026-11-28"
+        }
+      ],
+      "date": "2026-11-28"
+    },
+    {
+      "id": "t20261129-05",
+      "region": "korea",
+      "importance": "mid",
+      "company": "국내 테크 업계",
+      "title": "신입 수요 축소에도 SW 양성 예산은 신규 공급 집중",
+      "body": "기업들의 신입 소프트웨어 인력 채용은 얼어붙었으나 정부 SW 인력 양성 예산의 90%가 신규 공급에 머물러 일자리 미스매치가 발생하고 있어요.",
+      "insight": "신입 풀 공급 과잉 상태이므로 단순 부트캠프 수료자 중심 소싱을 지양하고, 실제 실무 프로젝트나 인턴십 경험이 검증된 예비 경력자 위주로 선별해야 해요.",
+      "tags": [
+        "SW인력",
+        "미스매치",
+        "주니어채용"
+      ],
+      "sources": [
+        {
+          "name": "블로터",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9yN2FOWGsxSlRZaHZuM2t3NjVqUzhxb3JfZE5DdGl3Q3dKbFN5MVgtZ2ZtYXdmbGhMQUo0RzV3R3ZETkFMckFpbFFranpMRjRZU3E1dDdreG5Da2Q4bkxQZUIySHdPaG1KMWFUY9IBbEFVX3lxTE9yN2FOWGsxSlRZaHZuM2t3NjVqUzhxb3JfZE5DdGl3Q3dKbFN5MVgtZ2ZtYXdmbGhMQUo0RzV3R3ZETkFMckFpbFFranpMRjRZU3E1dDdreG5Da2Q4bkxQZUIySHdPaG1KMWFUYw?oc=5",
+          "title": "신입은 덜 뽑는데…SW 인력양성 예산 90%는 '신규 공급'",
+          "date": "2026-11-28"
+        }
+      ],
+      "date": "2026-11-28"
+    },
+    {
+      "id": "t20261129-06",
+      "region": "global",
+      "importance": "low",
+      "company": "Qualcomm",
+      "title": "퀄컴, 인도 R&D 거점에서 1,000명 규모 감원 착수",
+      "body": "글로벌 칩셋 기업 퀄컴이 인도 지사에서 약 1,000명의 직원을 감축하는 구조조정을 시작했어요.",
+      "insight": "글로벌 테크의 해외 오프쇼어 R&D 조직 축소 흐름 속에서 글로벌 경험을 갖춘 백엔드 및 하드웨어 연계 엔지니어 풀 소싱을 모니터링할 필요가 있어요.",
+      "tags": [
+        "Qualcomm",
+        "글로벌감원",
+        "인도"
+      ],
+      "sources": [
+        {
+          "name": "INDIA New England News",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPU2RyRE04aHF0RzlfcmFSSFE1bDUxT01ScnJROFlwS3NFTVZGejBibzhvT0RJOWV6S0MzRGcwSzF6bjhaQ1VtQjZEclpEVE5NaTlvSVI5UldjUlpyX19fVkFncnhVWTVzcTBkdG82VjJBQVBhLUxGSmEzU2VPRnptX3FhTTJRdlRJUGU4OENEVFU4NjJ0QjFWZzZSVE4yeGZBTE9yUA?oc=5",
+          "title": "Qualcomm Reportedly Begins Layoffs in India, With Around 1,000 Jobs at Risk",
+          "date": "2026-11-28"
+        }
+      ],
+      "date": "2026-11-28"
+    }
+  ]
+}
